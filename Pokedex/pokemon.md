@@ -2,11 +2,11 @@
 
 |    |    |    |    |    |
 |----|----|----|----|----|
-| [Abilities](abilities/index.md) | [Berries](berries/index.md) | [Characteristics](characteristics/index.md) | [Colors](colors/index.md) | [Conquest](conquest/index.md) |
-| [Contest](contest/index.md) | [Encounters](encounters/index.md) | [Evolution](evolution/index.md) | [Forms](forms/index.md) | [Generations](generations/index.md) |
-| [Growth rates](growth_rates/index.md) | [Habitats](habitats/index.md) | [Items](items/index.md) | [Languages](languages/index.md) | [Locations](locations/index.md) |
-| [Moves](moves/index.md) | [Natures](natures/index.md) | [Pokedexes](pokedexes/index.md) | [Regions](regions/index.md) | [Shapes](shapes/index.md) |
-| [Species](species/index.md) | [Stats](stats/index.md) | [Translations](translations/index.md) | [Types](types/index.md) | [Versions](versions/index.md) |
+| [Abilities](abilities/abilities_index.md) | [Berries](berries/berries_index.md) | [Characteristics](characteristics/characteristics_index.md) | [Colors](colors/colors_index.md) | [Conquest](conquest/conquest_index.md) |
+| [Contest](contest/contest_index.md) | [Encounters](encounters/encounters_index.md) | [Evolution](evolution/evolution_index.md) | [Forms](forms/forms_index.md) | [Generations](generations/generations_index.md) |
+| [Growth rates](growth_rates/growth_rates_index.md) | [Habitats](habitats/habitats_index.md) | [Items](items/items_index.md) | [Languages](languages/languages_index.md) | [Locations](locations/locations_index.md) |
+| [Moves](moves/moves_index.md) | [Natures](natures/natures_index.md) | [Pokedexes](pokedexes/pokedexes_index.md) | [Regions](regions/regions_index.md) | [Shapes](shapes/shapes_index.md) |
+| [Species](species/species_index.md) | [Stats](stats/stats_index.md) | [Translations](translations/translations_index.md) | [Types](types/types_index.md) | [Versions](versions/versions_index.md) |
 
 |  id   |         identifier         | species_id | height | weight | base_experience | order | is_default |
 |-------|----------------------------|------------|--------|--------|-----------------|-------|------------|

@@ -1,12 +1,4 @@
 {
   "accentColor": "",
-  "cssTheme": "Doctorfree",
-  "interfaceFontFamily": "mononoki Nerd Font",
-  "textFontFamily": "mononoki Nerd Font",
-  "monospaceFontFamily": "mononoki Nerd Font Mono",
-  "baseFontSize": 24,
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "test"
-  ]
+  "cssTheme": "Doctorfree"
 }

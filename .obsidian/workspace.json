@@ -1,44 +1,35 @@
 {
   "main": {
-    "id": "095793f03e137c5d",
+    "id": "54768f1a25da7ce9",
     "type": "split",
     "children": [
       {
-        "id": "081deb22c9048958",
+        "id": "44577a4114f19534",
         "type": "tabs",
         "children": [
           {
-            "id": "315200228c42de41",
+            "id": "02d528a978a4c8dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "70c8f677142209f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "635fd90846bebc0d",
+    "id": "fc3735680beaecf4",
     "type": "split",
     "children": [
       {
-        "id": "829f8259c83e4c3e",
+        "id": "d4ce800c6a1a859e",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc19a39f11685d6",
+            "id": "6a9b1ce884105982",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,22 +39,22 @@
             }
           },
           {
-            "id": "db57a031536d0b0f",
+            "id": "90a01f5814d91cd7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": true,
-                "collapseAll": true,
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "ba80f31c0e63219e",
+            "id": "dfe0734655cfb46f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "4976b28d7b9bd814",
+    "id": "2e2937ea4963886d",
     "type": "split",
     "children": [
       {
-        "id": "5fd9ad7fb000a202",
+        "id": "230db345be0b776d",
         "type": "tabs",
         "children": [
           {
-            "id": "b382571a3dd6bdad",
+            "id": "08a9627f3f9e1036",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -101,7 +92,7 @@
             }
           },
           {
-            "id": "e438878e87fac022",
+            "id": "09626f511a27bf54",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,51 +103,33 @@
             }
           },
           {
-            "id": "f26862bec68c6a56",
+            "id": "cab68257b2cb1db0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "705cf0b1946c47fc",
+            "id": "3653fe9f2ad51662",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "8db2814c672d67b0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "70c8f677142209f9",
+  "active": "02d528a978a4c8dd",
   "lastOpenFiles": [
-    "pokemon.md",
-    "pokedex/stats.csv.md",
-    "pokedex/types.csv.md",
-    "pokedex/pokemon_abilities.csv.md",
-    "pokedex/item_names.csv.md",
-    "pokedex/generation_names.csv.md",
-    "pokedex/ability_names.csv.md",
-    "pokedex/abilities.csv.md",
-    "pokedex/translations/cs.csv.md",
-    "pokemon/type_names.csv.md"
+    "README.md"
   ]
 }
