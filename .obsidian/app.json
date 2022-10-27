@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": true,
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": null,
+  "showUnsupportedFiles": true
+}

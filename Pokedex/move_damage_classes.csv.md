@@ -1,0 +1,5 @@
+| id | identifier |
+|----|------------|
+| 1  | status     |
+| 2  | physical   |
+| 3  | special    |

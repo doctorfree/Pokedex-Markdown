@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "095793f03e137c5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "081deb22c9048958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315200228c42de41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "70c8f677142209f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "635fd90846bebc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "829f8259c83e4c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bc19a39f11685d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db57a031536d0b0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba80f31c0e63219e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4976b28d7b9bd814",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fd9ad7fb000a202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b382571a3dd6bdad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e438878e87fac022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f26862bec68c6a56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "705cf0b1946c47fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8db2814c672d67b0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "70c8f677142209f9",
+  "lastOpenFiles": [
+    "pokemon.md",
+    "pokedex/stats.csv.md",
+    "pokedex/types.csv.md",
+    "pokedex/pokemon_abilities.csv.md",
+    "pokedex/item_names.csv.md",
+    "pokedex/generation_names.csv.md",
+    "pokedex/ability_names.csv.md",
+    "pokedex/abilities.csv.md",
+    "pokedex/translations/cs.csv.md",
+    "pokemon/type_names.csv.md"
+  ]
+}

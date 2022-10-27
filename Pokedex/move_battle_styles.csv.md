@@ -1,0 +1,5 @@
+| id | identifier |
+|----|------------|
+| 1  | attack     |
+| 2  | defense    |
+| 3  | support    |
