@@ -10,7 +10,7 @@ The `csv2md` command converts a CSV format document to Markdown.
 # Adapted by Ronald Record from:
 # https://www.log4code.com/converting-a-csv-file-to-markdown-using-sqlite/
 #
-# Requires sqlite3 3.30.0 or later
+# Requires pandoc or sqlite3 3.30.0 or later (preferred)
 #
 # Usage: ./csv2md [-h] [-r] file.csv
 # Where:    -r indicates remove input CSV file after conversion
@@ -60,17 +60,22 @@ done
     exit 1
 }
 
-inputFilename="$1"
-baseFilename=`echo ${inputFilename} | sed -e "s/\.csv//"`
+have_sqlite=`type -p sqlite3`
+have_pandoc=`type -p pandoc`
 
-outputFile="${baseFilename}.md"
+inputFile="$1"
+baseFile=`echo ${inputFile} | sed -e "s/\.csv//"`
+
+outputFile="${baseFile}.md"
 rm -f ${outputFile}
 
-cmd=$({ grep -v '^#' <<EOF
+if [ "${have_sqlite}" ]
+then
+  cmd=$({ grep -v '^#' <<EOF
 .headers on
 .mode csv
 drop table if exists temp_csvFile;
-.import ${inputFilename} temp_csvFile
+.import ${inputFile} temp_csvFile
 .mode markdown
 .headers on
 .output ${outputFile}
@@ -78,7 +83,15 @@ select * from temp_csvFile;
 EOF
 })
 
-echo -e "${cmd}" | sqlite3 ''
+  echo -e "${cmd}" | sqlite3 ''
+else
+  if [ "${have_pandoc}" ]
+  then
+    pandoc -f csv -t markdown -o ${outputFile} ${inputFile}
+  else
+    echo "Neither sqlite3 nor pandoc found. No conversion performed."
+  fi
+fi
 
-[ "${remove}" ] && rm -f "${inputFilename}"
+[ "${remove}" ] && rm -f "${inputFile}"
 ```
