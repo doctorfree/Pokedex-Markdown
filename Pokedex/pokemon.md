@@ -1,3 +1,13 @@
+# Pokémon
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [Abilities](abilities/index.md) | [Berries](berries/index.md) | [Characteristics](characteristics/index.md) | [Colors](colors/index.md) | [Conquest](conquest/index.md) |
+| [Contest](contest/index.md) | [Encounters](encounters/index.md) | [Evolution](evolution/index.md) | [Forms](forms/index.md) | [Generations](generations/index.md) |
+| [Growth rates](growth_rates/index.md) | [Habitats](habitats/index.md) | [Items](items/index.md) | [Languages](languages/index.md) | [Locations](locations/index.md) |
+| [Moves](moves/index.md) | [Natures](natures/index.md) | [Pokedexes](pokedexes/index.md) | [Regions](regions/index.md) | [Shapes](shapes/index.md) |
+| [Species](species/index.md) | [Stats](stats/index.md) | [Translations](translations/index.md) | [Types](types/index.md) | [Versions](versions/index.md) |
+
 |  id   |         identifier         | species_id | height | weight | base_experience | order | is_default |
 |-------|----------------------------|------------|--------|--------|-----------------|-------|------------|
 | 1     | bulbasaur                  | 1          | 7      | 69     | 64              | 1     | 1          |
