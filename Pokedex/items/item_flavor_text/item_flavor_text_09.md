@@ -1,7030 +1,1752 @@
-| item_id | version_group_id | language_id | flavor_text |
-|---------|------------------|-------------|-------------|
-| 439     | 19               | 3           | 포켓몬워치, 줄여서 포켓치를
-받는 데 필요한 교환권.
-3장이 필요하다.                                                                                                                            |
-| 439     | 19               | 4           | 欲取得寶可夢手錶，簡稱寶可錶時
-所需的兌換券。需要３張。                                                                                                                                       |
-| 439     | 19               | 5           | Un des trois bons à échanger contre une Pokémontre.                                                                                                                |
-| 439     | 19               | 6           | Einer der drei Coupons, die du für den Pokétch
-benötigst.                                                                                                          |
-| 439     | 19               | 7           | Uno de los tres cupones que sirve para obtener
-un Poké-reloj.                                                                                                      |
-| 439     | 19               | 8           | Coupon da scambiare con un PokéKron.
-Ne servono tre.                                                                                                               |
-| 439     | 19               | 9           | A coupon to be exchanged for a Pokémon Watch—
-Pokétch for short. Three coupons are needed.                                                                         |
-| 439     | 19               | 11          | ポケモンウォッチ　ちぢめて
-ポケッチを　もらうために　必要な
-ひきかえけん。　３枚必要。                                                                                                                       |
-| 439     | 19               | 12          | 获取宝可梦手表，简称宝可表时
-所需的兑换券。需要３张。                                                                                                                                        |
-| 439     | 20               | 1           | ポケモンウォッチ　ちぢめて
-ポケッチを　もらうために　ひつような
-ひきかえけん。　３まい　ひつよう。                                                                                                                 |
-| 439     | 20               | 3           | 포켓몬워치, 줄여서 포켓치를
-받는 데 필요한 교환권.
-3장이 필요하다.                                                                                                                            |
-| 439     | 20               | 4           | 欲取得寶可夢手錶，簡稱寶可錶時
-所需的兌換券。需要３張。                                                                                                                                       |
-| 439     | 20               | 5           | Un des trois bons à échanger contre une Pokémontre.                                                                                                                |
-| 439     | 20               | 6           | Einer der drei Coupons, die du für den Pokétch
-benötigst.                                                                                                          |
-| 439     | 20               | 7           | Uno de los tres cupones que sirve para obtener un
-Poké-reloj.                                                                                                      |
-| 439     | 20               | 8           | Coupon da scambiare con un PokéKron.
-Ne servono tre.                                                                                                               |
-| 439     | 20               | 9           | A coupon to be exchanged for a Pokémon Watch—
-Pokétch for short. Three coupons are needed.                                                                         |
-| 439     | 20               | 11          | ポケモンウォッチ　ちぢめて
-ポケッチを　もらうために　必要な
-ひきかえけん。　３枚必要。                                                                                                                       |
-| 439     | 20               | 12          | 获取宝可梦手表，简称宝可表时
-所需的兑换券。需要３张。                                                                                                                                        |
-| 440     | 5                | 9           | The key to the
-storage inside the
-ABANDONED SHIP.                                                                                                                  |
-| 440     | 6                | 9           | The key to the
-storage inside the
-ABANDONED SHIP.                                                                                                                  |
-| 440     | 7                | 9           | A key that opens the storage hold
-inside the ABANDONED SHIP.
-It is old and looks easily broken.                                                                    |
-| 440     | 8                | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 9                | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 10               | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 11               | 5           | La clé de l’entrepôt de la Team Galaxie
-situé à la périphérie de Voilaroc.                                                                                         |
-| 440     | 11               | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 14               | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 15               | 1           | トバリシティの　はずれにある
-ギンガだんの　あやしい
-そうこに　はいるための　カギ。                                                                                                                         |
-| 440     | 15               | 3           | 장막시티 변두리에 있는
-갤럭시단의 수상한 창고에
-들어가기 위한 열쇠다.                                                                                                                            |
-| 440     | 15               | 5           | La clé de l’entrepôt de la Team Galaxie situé à
-la périphérie de Voilaroc.                                                                                         |
-| 440     | 15               | 6           | Der Schlüssel zur Lagerhalle des Teams Galaktik
-am Rande von Schleiede.                                                                                            |
-| 440     | 15               | 7           | Misteriosa ala de un brillante color plateado.                                                                                                                     |
-| 440     | 15               | 8           | Chiave del misterioso deposito del Team Galassia
-situato ai confini di Rupepoli.                                                                                   |
-| 440     | 15               | 9           | The key to Team Galactic’s sinister
-warehouse located at the edge of
-Veilstone City.                                                                               |
-| 440     | 15               | 11          | トバリシティの　はずれにある
-ギンガ団の　怪しい
-倉庫に　はいるための　カギ。                                                                                                                            |
-| 440     | 20               | 1           | トバリシティの　はずれにある
-ギンガだんの　あやしい
-そうこに　はいるための　カギ。                                                                                                                         |
-| 440     | 20               | 3           | 장막시티 변두리에 있는
-갤럭시단의 수상한 창고에
-들어가기 위한 열쇠다.                                                                                                                            |
-| 440     | 20               | 4           | 用於進入銀河隊在
-帷幕市市郊的
-可疑倉庫的鑰匙。                                                                                                                                           |
-| 440     | 20               | 5           | La clé de l’entrepôt de la Team Galaxie situé
-à la périphérie de Voilaroc.                                                                                         |
-| 440     | 20               | 6           | Der Schlüssel zur Lagerhalle von Team Galaktik am
-Rande von Schleiede.                                                                                             |
-| 440     | 20               | 7           | Llave del siniestro almacén del Equipo Galaxia que está
-ubicado en las afueras de Ciudad Rocavelo.                                                                 |
-| 440     | 20               | 8           | Chiave del misterioso deposito del Team Galassia
-situato ai confini di Rupepoli.                                                                                   |
-| 440     | 20               | 9           | The key to Team Galactic’s sinister warehouse
-located at the edge of Veilstone City.                                                                               |
-| 440     | 20               | 11          | トバリシティの　はずれにある
-ギンガ団の　怪しい
-倉庫に　はいるための　カギ。                                                                                                                            |
-| 440     | 20               | 12          | 用于进入银河队在帷幕市市郊的
-可疑仓库的钥匙。                                                                                                                                            |
-| 441     | 8                | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 9                | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 10               | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 11               | 5           | Médicament génial vendu à la pharmacie
-d’Irisia. Soigne totalement un Pokémon
-de tout problème de statut.                                                          |
-| 441     | 11               | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 14               | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 15               | 1           | タンバシティの　くすりやで　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                 |
-| 441     | 15               | 3           | 진청시티의 약국에서 받은
-어떤 포켓몬이라도 금방
-건강해지는 대단한 약.                                                                                                                            |
-| 441     | 15               | 5           | Un médicament génial vendu à la pharmacie
-d’Irisia. Soigne totalement un Pokémon de tout
-problème de statut.                                                       |
-| 441     | 15               | 6           | Eine fantastische Medizin aus Anemonia City.
-Heilt und kuriert ein Pokémon vollständig.                                                                            |
-| 441     | 15               | 7           | Misteriosa ala de un brillante color arcoíris.                                                                                                                     |
-| 441     | 15               | 8           | Rimedio fantastico distribuito dalla farmacia
-a Fiorlisopoli. Cura i problemi di stato
-di qualunque Pokémon.                                                       |
-| 441     | 15               | 9           | A fantastic medicine dispensed by the
-pharmacy in Cianwood City. It fully
-heals a Pokémon of any ailment.                                                          |
-| 441     | 15               | 11          | タンバシティの　薬屋で　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                   |
-| 441     | 17               | 1           | タンバシティの　くすりやで　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                 |
-| 441     | 17               | 3           | 진청시티의 약국에서 받은
-어떤 포켓몬이라도 금방
-건강해지는 대단한 약.                                                                                                                            |
-| 441     | 17               | 4           | 在湛藍市的藥店裡得到的，
-不管什麼寶可夢都能立刻
-變得精力充沛的高效藥。                                                                                                                               |
-| 441     | 17               | 5           | Un médicament génial vendu à la pharmacie
-d’Irisia. Soigne tous les problèmes de statut
-d’un Pokémon.                                                              |
-| 441     | 17               | 6           | Eine fantastische Medizin aus Anemonia City.
-Heilt und kuriert ein Pokémon vollständig.                                                                            |
-| 441     | 17               | 7           | Fantástico medicamento vendido en la farmacia
-de Ciudad Orquídea. Cura completamente a un
-Pokémon.                                                                 |
-| 441     | 17               | 8           | Rimedio fantastico distribuito dalla farmacia
-a Fiorlisopoli. Cura i problemi di stato
-di qualunque Pokémon.                                                       |
-| 441     | 17               | 9           | A fantastic medicine dispensed by the pharmacy in
-Cianwood City. It fully heals a Pokémon of
-any ailment.                                                          |
-| 441     | 17               | 11          | タンバシティの　薬屋で　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                   |
-| 441     | 17               | 12          | 在湛蓝市的药店里得到的，
-能让任何宝可梦立刻变得
-精力充沛的高效药。                                                                                                                                 |
-| 441     | 18               | 1           | タンバシティの　くすりやで　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                 |
-| 441     | 18               | 3           | 진청시티의 약국에서 받은
-어떤 포켓몬이라도 금방
-건강해지는 대단한 약.                                                                                                                            |
-| 441     | 18               | 4           | 在湛藍市的藥店裡得到的，
-不管什麼寶可夢都能立刻
-變得精力充沛的高效藥。                                                                                                                               |
-| 441     | 18               | 5           | Un médicament génial vendu à la pharmacie
-d’Irisia. Soigne tous les problèmes de statut
-d’un Pokémon.                                                              |
-| 441     | 18               | 6           | Eine fantastische Medizin aus Anemonia City.
-Heilt und kuriert ein Pokémon vollständig.                                                                            |
-| 441     | 18               | 7           | Fantástico medicamento vendido en la farmacia
-de Ciudad Orquídea. Cura completamente a un
-Pokémon.                                                                 |
-| 441     | 18               | 8           | Rimedio fantastico distribuito dalla farmacia
-a Fiorlisopoli. Cura i problemi di stato
-di qualunque Pokémon.                                                       |
-| 441     | 18               | 9           | A fantastic medicine dispensed by the pharmacy in
-Cianwood City. It fully heals a Pokémon of
-any ailment.                                                          |
-| 441     | 18               | 11          | タンバシティの　薬屋で　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                   |
-| 441     | 18               | 12          | 在湛蓝市的药店里得到的，
-能让任何宝可梦立刻变得
-精力充沛的高效药。                                                                                                                                 |
-| 441     | 19               | 1           | タンバシティの　くすりやで　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                 |
-| 441     | 19               | 3           | 진청시티의 약국에서 받은
-어떤 포켓몬이라도 금방
-건강해지는 대단한 약.                                                                                                                            |
-| 441     | 19               | 4           | 在湛藍市的藥店裡得到的，
-不管什麼寶可夢都能立刻
-變得精力充沛的高效藥。                                                                                                                               |
-| 441     | 19               | 5           | Un médicament génial vendu à la pharmacie d’Irisia.
-Soigne toutes les altérations de statut d’un Pokémon.                                                          |
-| 441     | 19               | 6           | Eine fantastische Medizin aus Anemonia City.
-Heilt und kuriert ein Pokémon vollständig.                                                                            |
-| 441     | 19               | 7           | Fantástico medicamento vendido en la farmacia
-de Ciudad Orquídea. Cura completamente a un
-Pokémon.                                                                 |
-| 441     | 19               | 8           | Rimedio fantastico distribuito dalla farmacia
-a Fiorlisopoli. Cura i problemi di stato
-di qualunque Pokémon.                                                       |
-| 441     | 19               | 9           | A fantastic medicine dispensed by the pharmacy in
-Cianwood City. It fully heals a Pokémon of
-any ailment.                                                          |
-| 441     | 19               | 11          | タンバシティの　薬屋で　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                   |
-| 441     | 19               | 12          | 在湛蓝市的药店里得到的，
-能让任何宝可梦立刻变得
-精力充沛的高效药。                                                                                                                                 |
-| 441     | 20               | 1           | タンバシティの　くすりやで　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                 |
-| 441     | 20               | 3           | 진청시티의 약국에서 받은
-어떤 포켓몬이라도 금방
-건강해지는 대단한 약.                                                                                                                            |
-| 441     | 20               | 4           | 在湛藍市的藥店裡得到的，
-不管什麼寶可夢都能立刻
-變得精力充沛的高效藥。                                                                                                                               |
-| 441     | 20               | 5           | Un médicament génial vendu à la pharmacie d’Irisia.
-Soigne toutes les altérations de statut d’un Pokémon.                                                          |
-| 441     | 20               | 6           | Eine fantastische Medizin aus Anemonia City.
-Heilt und kuriert ein Pokémon vollständig.                                                                            |
-| 441     | 20               | 7           | Fantástico medicamento vendido en la farmacia de
-Ciudad Orquídea. Cura completamente a un Pokémon.                                                                 |
-| 441     | 20               | 8           | Rimedio fantastico distribuito dalla farmacia
-a Fiorlisopoli. Cura i problemi di stato
-di qualunque Pokémon.                                                       |
-| 441     | 20               | 9           | A fantastic medicine dispensed by the pharmacy in
-Cianwood City. It fully heals a Pokémon of
-any ailment.                                                          |
-| 441     | 20               | 11          | タンバシティの　薬屋で　もらった
-どんな　ポケモンでも　たちまち
-げんきになる　すごい　くすり。                                                                                                                   |
-| 441     | 20               | 12          | 在湛蓝市的药店里得到的，
-能让任何宝可梦立刻变得
-精力充沛的高效药。                                                                                                                                 |
-| 442     | 9                | 9           | A glowing orb to be held by GIRATINA.
-It boosts the power of Dragon- and
-Ghost-type moves.                                                                         |
-| 442     | 10               | 9           | A glowing orb to be held by GIRATINA.
-It boosts the power of Dragon- and
-Ghost-type moves.                                                                         |
-| 442     | 11               | 5           | Mystérieux objet destiné à Giratina.
-Améliore les capacités de type Dragon
-et Spectre.                                                                             |
-| 442     | 11               | 9           | A glowing orb to be held by Giratina.
-It boosts the power of Dragon- and
-Ghost-type moves.                                                                         |
-| 442     | 14               | 9           | A glowing orb to be held by Giratina.
-It boosts the power of Dragon- and
-Ghost-type moves.                                                                         |
-| 442     | 15               | 1           | ギラティナに　もたせると　ドラゴンと
-ゴーストタイプの　わざの　いりょくが
-あがる　ひかり　かがやく　たま。                                                                                                             |
-| 442     | 15               | 3           | 기라티나에게 지니게 하면 드래곤과
-고스트타입 기술의 위력이 올라가는
-반짝반짝 빛나는 구슬.                                                                                                                 |
-| 442     | 15               | 5           | Un mystérieux objet destiné à Giratina.
-Améliore les capacités de type Dragon
-et Spectre.                                                                          |
-| 442     | 15               | 6           | Ein glühender Orb. Verstärkt Attacken vom Typ
-Drache und Geist, wenn Giratina ihn trägt.                                                                           |
-| 442     | 15               | 7           | Una esfera brillante que potencia los movimientos
-de tipo Dragón y Fantasma. Debe llevarla Giratina.                                                               |
-| 442     | 15               | 8           | Poliedro splendente da dare a Giratina.
-Aumenta la potenza delle mosse di tipo Drago
-e Spettro.                                                                    |
-| 442     | 15               | 9           | A glowing orb to be held by Giratina.
-It boosts the power of Dragon- and
-Ghost-type moves when it is held.                                                         |
-| 442     | 15               | 11          | ギラティナに　持たせると　ドラゴンと
-ゴーストタイプの　技の　威力が
-あがる　光り　輝く　珠。                                                                                                                    |
-| 442     | 17               | 1           | ギラティナに　もたせると　ドラゴンと
-ゴーストタイプの　わざの　いりょくが
-あがる　ひかり　かがやく　たま。                                                                                                             |
-| 442     | 17               | 3           | 기라티나에게 지니게 하면 드래곤과
-고스트타입 기술의 위력이 올라가는
-반짝반짝 빛나는 구슬.                                                                                                                 |
-| 442     | 17               | 4           | 讓騎拉帝納攜帶的話，
-龍和幽靈屬性的招式威力就會提高。
-散發著光輝的寶珠。                                                                                                                              |
-| 442     | 17               | 5           | Un mystérieux objet destiné à Giratina.
-Améliore les capacités de type Dragon
-et Spectre.                                                                          |
-| 442     | 17               | 6           | Ein glühender Orb. Verstärkt Attacken vom Typ
-Drache und Geist, wenn Giratina ihn trägt.                                                                           |
-| 442     | 17               | 7           | Una esfera brillante que potencia los movimientos
-de tipo Dragón y Fantasma. Debe llevarla Giratina.                                                               |
-| 442     | 17               | 8           | Poliedro splendente da dare a Giratina.
-Aumenta la potenza delle mosse di tipo Drago
-e Spettro.                                                                    |
-| 442     | 17               | 9           | A glowing orb to be held by Giratina. It boosts the
-power of Dragon- and Ghost-type moves when it
-is held.                                                         |
-| 442     | 17               | 11          | ギラティナに　持たせると　ドラゴンと
-ゴーストタイプの　技の　威力が
-あがる　光り　輝く　珠。                                                                                                                    |
-| 442     | 17               | 12          | 让骑拉帝纳携带的话，
-龙和幽灵属性的招式威力就会提高。
-散发着光辉的宝珠。                                                                                                                              |
-| 442     | 18               | 1           | ギラティナに　もたせると　ドラゴンと
-ゴーストタイプの　わざの　いりょくが
-あがる　ひかり　かがやく　たま。                                                                                                             |
-| 442     | 18               | 3           | 기라티나에게 지니게 하면 드래곤과
-고스트타입 기술의 위력이 올라가는
-반짝반짝 빛나는 구슬.                                                                                                                 |
-| 442     | 18               | 4           | 讓騎拉帝納攜帶的話，
-龍和幽靈屬性的招式威力就會提高。
-散發著光輝的寶珠。                                                                                                                              |
-| 442     | 18               | 5           | Un mystérieux objet destiné à Giratina.
-Améliore les capacités de type Dragon
-et Spectre.                                                                          |
-| 442     | 18               | 6           | Ein glühender Orb. Verstärkt Attacken vom Typ
-Drache und Geist, wenn Giratina ihn trägt.                                                                           |
-| 442     | 18               | 7           | Una esfera brillante que potencia los movimientos
-de tipo Dragón y Fantasma. Debe llevarla Giratina.                                                               |
-| 442     | 18               | 8           | Poliedro splendente da dare a Giratina.
-Aumenta la potenza delle mosse di tipo Drago
-e Spettro.                                                                    |
-| 442     | 18               | 9           | A glowing orb to be held by Giratina. It boosts the
-power of Dragon- and Ghost-type moves when it
-is held.                                                         |
-| 442     | 18               | 11          | ギラティナに　持たせると　ドラゴンと
-ゴーストタイプの　技の　威力が
-あがる　光り　輝く　珠。                                                                                                                    |
-| 442     | 18               | 12          | 让骑拉帝纳携带的话，
-龙和幽灵属性的招式威力就会提高。
-散发着光辉的宝珠。                                                                                                                              |
-| 442     | 19               | 1           | ギラティナに　もたせると　ドラゴンと
-ゴーストタイプの　わざの　いりょくが
-あがる　ひかり　かがやく　たま。                                                                                                             |
-| 442     | 19               | 3           | 기라티나에게 지니게 하면 드래곤과
-고스트타입 기술의 위력이 올라가는
-반짝반짝 빛나는 구슬.                                                                                                                 |
-| 442     | 19               | 4           | 讓騎拉帝納攜帶的話，
-龍和幽靈屬性的招式威力就會提高。
-散發著光輝的寶珠。                                                                                                                              |
-| 442     | 19               | 5           | Un mystérieux objet destiné à Giratina.
-Améliore les capacités de type Dragon et Spectre.                                                                          |
-| 442     | 19               | 6           | Ein glühender Orb. Verstärkt Attacken vom Typ
-Drache und Geist, wenn Giratina ihn trägt.                                                                           |
-| 442     | 19               | 7           | Una esfera brillante que potencia los movimientos
-de tipo Dragón y Fantasma. Debe llevarla Giratina.                                                               |
-| 442     | 19               | 8           | Poliedro splendente da dare a Giratina.
-Aumenta la potenza delle mosse di tipo Drago
-e Spettro.                                                                    |
-| 442     | 19               | 9           | A glowing orb to be held by Giratina. It boosts the
-power of Dragon- and Ghost-type moves when it
-is held.                                                         |
-| 442     | 19               | 11          | ギラティナに　持たせると　ドラゴンと
-ゴーストタイプの　技の　威力が
-あがる　光り　輝く　珠。                                                                                                                    |
-| 442     | 19               | 12          | 让骑拉帝纳携带的话，
-龙和幽灵属性的招式威力就会提高。
-散发着光辉的宝珠。                                                                                                                              |
-| 442     | 20               | 1           | ギラティナに　もたせると　ドラゴンと
-ゴーストタイプの　わざの　いりょくが
-あがる　ひかり　かがやく　たま。                                                                                                             |
-| 442     | 20               | 3           | 기라티나에게 지니게 하면 드래곤과
-고스트타입 기술의 위력이 올라가는
-반짝반짝 빛나는 구슬.                                                                                                                 |
-| 442     | 20               | 4           | 讓騎拉帝納攜帶的話，
-龍和幽靈屬性的招式威力就會提高。
-散發著光輝的寶珠。                                                                                                                              |
-| 442     | 20               | 5           | Un mystérieux objet destiné à Giratina.
-Améliore les capacités de types Dragon et Spectre.                                                                         |
-| 442     | 20               | 6           | Ein glühender Orb. Verstärkt Attacken vom Typ
-Drache und Geist, wenn Giratina ihn trägt.                                                                           |
-| 442     | 20               | 7           | Una esfera brillante que potencia los movimientos de
-tipo Dragón y Fantasma. Debe llevarla Giratina.                                                               |
-| 442     | 20               | 8           | Poliedro splendente da dare a Giratina.
-Aumenta la potenza delle mosse di tipo Drago
-e Spettro.                                                                    |
-| 442     | 20               | 9           | A glowing orb to be held by Giratina. It boosts the
-power of Dragon- and Ghost-type moves when it
-is held.                                                         |
-| 442     | 20               | 11          | ギラティナに　持たせると　ドラゴンと
-ゴーストタイプの　技の　威力が
-あがる　光り　輝く　珠。                                                                                                                    |
-| 442     | 20               | 12          | 让骑拉帝纳携带的话，
-龙和幽灵属性的招式威力就会提高。
-散发着光辉的宝珠。                                                                                                                              |
-| 443     | 9                | 9           | An amazing device that can record a
-battle either between friends or at a
-special battle facility.                                                                 |
-| 443     | 10               | 9           | An amazing device that can record a
-battle either between friends or at a
-special battle facility.                                                                 |
-| 443     | 11               | 5           | Appareil utile permettant d’enregistrer
-les combats entre amis et ceux ayant
-lieu dans un bâtiment de combat.                                                      |
-| 443     | 11               | 9           | An amazing device that can record a
-battle either between friends or at a
-special battle facility.                                                                 |
-| 443     | 14               | 9           | An amazing device that can record a
-battle either between friends or at a
-special battle facility.                                                                 |
-| 443     | 15               | 1           | ともだち　との　しょうぶや
-とくしゅな　しせつでの　しょうぶを
-きろくできる　かっこいい　きかい。                                                                                                                  |
-| 443     | 15               | 3           | 친구와의 승부나
-특수한 시설에서의 승부를
-기록할 수 있는 멋있는 기계.                                                                                                                            |
-| 443     | 15               | 5           | Un appareil utile permettant d’enregistrer les
-combats entre amis et ceux ayant lieu dans
-un bâtiment de combat.                                                   |
-| 443     | 15               | 6           | Ein tolles Gerät, um Kämpfe zwischen Freunden
-oder Kämpfe in einer speziellen Kampfeinrichtung
-aufzuzeichnen.                                                      |
-| 443     | 15               | 7           | Misterioso Huevo con dibujos que obtienes del
-Sr. Pokémon. Nadie sabe qué contiene.                                                                                |
-| 443     | 15               | 8           | Fantastico dispositivo che registra le lotte
-tra amici o quelle che hanno luogo in alcuni
-edifici dedicati alla lotta.                                             |
-| 443     | 15               | 9           | An amazing device that can record a
-battle between friends or the battles
-at certain special battle facilities.                                                    |
-| 443     | 15               | 11          | 友達との　勝負や
-特殊な　施設での　勝負を
-記録できる　かっこいい　機械。                                                                                                                              |
-| 443     | 17               | 1           | ともだち　との　しょうぶや
-とくしゅな　しせつでの　しょうぶを
-きろくできる　かっこいい　きかい。                                                                                                                  |
-| 443     | 17               | 3           | 친구와의 승부나
-특수한 시설에서의 승부를
-기록할 수 있는 멋있는 기계.                                                                                                                            |
-| 443     | 17               | 4           | 很酷的機器。
-可以記錄和朋友或
-在特殊設施裡的對戰過程。                                                                                                                                       |
-| 443     | 17               | 5           | Un appareil utile permettant d’enregistrer les
-combats entre amis et ceux ayant lieu dans
-un bâtiment de combat.                                                   |
-| 443     | 17               | 6           | Ein tolles Gerät, um Kämpfe zwischen Freunden
-oder Kämpfe in einer speziellen Kampfeinrichtung
-aufzuzeichnen.                                                      |
-| 443     | 17               | 7           | Un fantástico dispositivo que graba combates
-entre amigos o celebrados en algún recinto
-especial.                                                                  |
-| 443     | 17               | 8           | Fantastico dispositivo che registra le lotte
-tra amici o quelle che hanno luogo in alcuni
-edifici dedicati alla lotta.                                             |
-| 443     | 17               | 9           | An amazing device that can record a battle
-between friends or the battles at certain special
-battle facilities.                                                    |
-| 443     | 17               | 11          | 友達との　勝負や
-特殊な　施設での　勝負を
-記録できる　かっこいい　機械。                                                                                                                              |
-| 443     | 17               | 12          | 很酷的机器。
-可以记录和朋友或
-在特殊设施里的对战过程。                                                                                                                                       |
-| 443     | 18               | 1           | ともだち　との　しょうぶや
-とくしゅな　しせつでの　しょうぶを
-きろくできる　かっこいい　きかい。                                                                                                                  |
-| 443     | 18               | 3           | 친구와의 승부나
-특수한 시설에서의 승부를
-기록할 수 있는 멋있는 기계.                                                                                                                            |
-| 443     | 18               | 4           | 很酷的機器。
-可以記錄和朋友或
-在特殊設施裡的對戰過程。                                                                                                                                       |
-| 443     | 18               | 5           | Un appareil utile permettant d’enregistrer les
-combats entre amis et ceux ayant lieu dans
-un bâtiment de combat.                                                   |
-| 443     | 18               | 6           | Ein tolles Gerät, um Kämpfe zwischen Freunden
-oder Kämpfe in einer speziellen Kampfeinrichtung
-aufzuzeichnen.                                                      |
-| 443     | 18               | 7           | Un fantástico dispositivo que graba combates
-entre amigos o celebrados en algún recinto
-especial.                                                                  |
-| 443     | 18               | 8           | Fantastico dispositivo che registra le lotte
-tra amici o quelle che hanno luogo in alcuni
-edifici dedicati alla lotta.                                             |
-| 443     | 18               | 9           | An amazing device that can record a battle
-between friends or the battles at certain special
-battle facilities.                                                    |
-| 443     | 18               | 11          | 友達との　勝負や
-特殊な　施設での　勝負を
-記録できる　かっこいい　機械。                                                                                                                              |
-| 443     | 18               | 12          | 很酷的机器。
-可以记录和朋友或
-在特殊设施里的对战过程。                                                                                                                                       |
-| 443     | 19               | 1           | ともだち　との　しょうぶや
-とくしゅな　しせつでの　しょうぶを
-きろくできる　かっこいい　きかい。                                                                                                                  |
-| 443     | 19               | 3           | 친구와의 승부나
-특수한 시설에서의 승부를
-기록할 수 있는 멋있는 기계.                                                                                                                            |
-| 443     | 19               | 4           | 很酷的機器。
-可以記錄和朋友或
-在特殊設施裡的對戰過程。                                                                                                                                       |
-| 443     | 19               | 5           | Un appareil utile permettant d’enregistrer les combats
-entre amis et ceux ayant lieu dans un bâtiment
-de combat.                                                   |
-| 443     | 19               | 6           | Ein tolles Gerät, um Kämpfe zwischen Freunden
-oder Kämpfe in einer speziellen Kampfeinrichtung
-aufzuzeichnen.                                                      |
-| 443     | 19               | 7           | Un fantástico dispositivo que graba combates entre
-amigos o celebrados en algún recinto especial.                                                                  |
-| 443     | 19               | 8           | Fantastico dispositivo che registra le lotte
-tra amici o quelle che hanno luogo in alcuni
-edifici dedicati alla lotta.                                             |
-| 443     | 19               | 9           | An amazing device that can record a battle
-between friends or the battles at certain special
-battle facilities.                                                    |
-| 443     | 19               | 11          | 友達との　勝負や
-特殊な　施設での　勝負を
-記録できる　かっこいい　機械。                                                                                                                              |
-| 443     | 19               | 12          | 很酷的机器。
-可以记录和朋友或
-在特殊设施里的对战过程。                                                                                                                                       |
-| 443     | 20               | 1           | ともだち　との　しょうぶや
-とくしゅな　しせつでの　しょうぶを
-きろくできる　かっこいい　きかい。                                                                                                                  |
-| 443     | 20               | 3           | 친구와의 승부나
-특수한 시설에서의 승부를
-기록할 수 있는 멋있는 기계.                                                                                                                            |
-| 443     | 20               | 4           | 很酷的機器。
-可以記錄和朋友或
-在特殊設施裡的對戰過程。                                                                                                                                       |
-| 443     | 20               | 5           | Un appareil utile permettant d’enregistrer les combats
-entre amis et ceux ayant lieu dans un bâtiment
-de combat.                                                   |
-| 443     | 20               | 6           | Ein tolles Gerät, um Kämpfe zwischen Freunden
-oder Kämpfe in einer speziellen Kampfeinrichtung
-aufzuzeichnen.                                                      |
-| 443     | 20               | 7           | Un fantástico dispositivo que graba combates entre
-amigos o celebrados en algún recinto especial.                                                                  |
-| 443     | 20               | 8           | Fantastico dispositivo che registra le lotte
-tra amici o quelle che hanno luogo in alcuni
-edifici dedicati alla lotta.                                             |
-| 443     | 20               | 9           | An amazing device that can record a battle
-between friends or the battles at certain special
-battle facilities.                                                    |
-| 443     | 20               | 11          | 友達との　勝負や
-特殊な　施設での　勝負を
-記録できる　かっこいい　機械。                                                                                                                              |
-| 443     | 20               | 12          | 很酷的机器。
-可以记录和朋友或
-在特殊设施里的对战过程。                                                                                                                                       |
-| 444     | 9                | 9           | A flower sometimes bundled in bouquets
-to convey gratitude on special
-occasions like birthdays.                                                                    |
-| 444     | 10               | 9           | A flower sometimes bundled in bouquets
-to convey gratitude on special
-occasions like birthdays.                                                                    |
-| 444     | 11               | 5           | Fleur que l’on offre en gage de
-reconnaissance, notamment à
-l’occasion d’un anniversaire.                                                                          |
-| 444     | 11               | 9           | A flower sometimes bundled in bouquets
-to convey gratitude on special
-occasions like birthdays.                                                                    |
-| 444     | 14               | 9           | A flower sometimes bundled in bouquets
-to convey gratitude on special
-occasions like birthdays.                                                                    |
-| 444     | 15               | 1           | たんじょうびや　きねんび　などに
-かんしゃの　きもちを　つたえるため
-ブーケにして　おくることが　ある。                                                                                                               |
-| 444     | 15               | 3           | 생일이나 기념일 등에
-감사의 마음을 전하기 위해
-부케로 만들어 보내는 일이 있다.                                                                                                                      |
-| 444     | 15               | 5           | Une fleur que l’on offre en gage de
-reconnaissance, notamment à l’occasion
-d’un anniversaire.                                                                      |
-| 444     | 15               | 6           | Mit dieser Blume, manchmal auch als Teil eines
-Bouquets, kann man an speziellen Tagen seine
-Dankbarkeit ausdrücken.                                                |
-| 444     | 15               | 7           | Bonguri de color rojo y aroma muy penetrante.                                                                                                                      |
-| 444     | 15               | 8           | Un fiore, a volte offerto in bouquet, che
-esprime gratitudine in occasioni particolari,
-come i compleanni.                                                         |
-| 444     | 15               | 9           | A flower sometimes bundled in
-bouquets to convey gratitude on
-special occasions like birthdays.                                                                    |
-| 444     | 15               | 11          | 誕生日や　記念日などに
-感謝の　気持ちを　伝えるため
-ブーケにして　贈ることが　ある。                                                                                                                        |
-| 444     | 17               | 1           | たんじょうびや　きねんび　などに
-かんしゃの　きもちを　つたえるため
-ブーケにして　おくることが　ある。                                                                                                               |
-| 444     | 17               | 3           | 생일이나 기념일 등에
-감사의 마음을 전하기 위해
-부케로 만들어 보내는 일이 있다.                                                                                                                      |
-| 444     | 17               | 4           | 在生日或紀念日等日子裡，
-為了表達感激之情，
-有時會將其紮成花束送出。                                                                                                                                |
-| 444     | 17               | 5           | Une fleur que l’on offre en gage de reconnaissance,
-notamment à l’occasion d’un anniversaire.                                                                      |
-| 444     | 17               | 6           | Mit dieser Blume, manchmal auch als Teil eines
-Bouquets, kann man an speziellen Tagen seine
-Dankbarkeit ausdrücken.                                                |
-| 444     | 17               | 7           | Una flor que se suele regalar en ramos para
-expresar agradecimiento en ocasiones especiales,
-como cumpleaños.                                                      |
-| 444     | 17               | 8           | Un fiore, a volte offerto in bouquet, che
-esprime gratitudine in occasioni particolari,
-come i compleanni.                                                         |
-| 444     | 17               | 9           | A flower sometimes bundled in bouquets to convey
-gratitude on special occasions like birthdays.                                                                    |
-| 444     | 17               | 11          | 誕生日や　記念日などに
-感謝の　気持ちを　伝えるため
-ブーケにして　贈ることが　ある。                                                                                                                        |
-| 444     | 17               | 12          | 在生日或纪念日等日子里，
-为了表达感激之情，
-有时会将其扎成花束送出。                                                                                                                                |
-| 444     | 18               | 1           | たんじょうびや　きねんび　などに
-かんしゃの　きもちを　つたえるため
-ブーケにして　おくることが　ある。                                                                                                               |
-| 444     | 18               | 3           | 생일이나 기념일 등에
-감사의 마음을 전하기 위해
-부케로 만들어 보내는 일이 있다.                                                                                                                      |
-| 444     | 18               | 4           | 在生日或紀念日等日子裡，
-為了表達感激之情，
-有時會將其紮成花束送出。                                                                                                                                |
-| 444     | 18               | 5           | Une fleur que l’on offre en gage de reconnaissance,
-notamment à l’occasion d’un anniversaire.                                                                      |
-| 444     | 18               | 6           | Mit dieser Blume, manchmal auch als Teil eines
-Bouquets, kann man an speziellen Tagen seine
-Dankbarkeit ausdrücken.                                                |
-| 444     | 18               | 7           | Una flor que se suele regalar en ramos para
-expresar agradecimiento en ocasiones especiales,
-como cumpleaños.                                                      |
-| 444     | 18               | 8           | Un fiore, a volte offerto in bouquet, che
-esprime gratitudine in occasioni particolari,
-come i compleanni.                                                         |
-| 444     | 18               | 9           | A flower sometimes bundled in bouquets to convey
-gratitude on special occasions like birthdays.                                                                    |
-| 444     | 18               | 11          | 誕生日や　記念日などに
-感謝の　気持ちを　伝えるため
-ブーケにして　贈ることが　ある。                                                                                                                        |
-| 444     | 18               | 12          | 在生日或纪念日等日子里，
-为了表达感激之情，
-有时会将其扎成花束送出。                                                                                                                                |
-| 444     | 19               | 1           | たんじょうびや　きねんび　などに
-かんしゃの　きもちを　つたえるため
-ブーケにして　おくることが　ある。                                                                                                               |
-| 444     | 19               | 3           | 생일이나 기념일 등에
-감사의 마음을 전하기 위해
-부케로 만들어 보내는 일이 있다.                                                                                                                      |
-| 444     | 19               | 4           | 在生日或紀念日等日子裡，
-為了表達感激之情，
-有時會將其紮成花束送出。                                                                                                                                |
-| 444     | 19               | 5           | Une fleur que l’on offre en gage de reconnaissance,
-notamment à l’occasion d’un anniversaire.                                                                      |
-| 444     | 19               | 6           | Mit dieser Blume, manchmal auch als Teil eines
-Bouquets, kann man an speziellen Tagen seine
-Dankbarkeit ausdrücken.                                                |
-| 444     | 19               | 7           | Una flor que se suele regalar en ramos para
-expresar agradecimiento en ocasiones especiales,
-como cumpleaños.                                                      |
-| 444     | 19               | 8           | Un fiore, a volte offerto in bouquet, che
-esprime gratitudine in occasioni particolari,
-come i compleanni.                                                         |
-| 444     | 19               | 9           | A flower sometimes bundled in bouquets to convey
-gratitude on special occasions, such as birthdays.                                                                |
-| 444     | 19               | 11          | 誕生日や　記念日などに
-感謝の　気持ちを　伝えるため
-ブーケにして　贈ることが　ある。                                                                                                                        |
-| 444     | 19               | 12          | 在生日或纪念日等日子里，
-为了表达感激之情，
-有时会将其扎成花束送出。                                                                                                                                |
-| 444     | 20               | 1           | たんじょうびや　きねんび　などに
-かんしゃの　きもちを　つたえるため
-ブーケにして　おくることが　ある。                                                                                                               |
-| 444     | 20               | 3           | 생일이나 기념일 등에
-감사의 마음을 전하기 위해
-부케로 만들어 보내는 일이 있다.                                                                                                                      |
-| 444     | 20               | 4           | 在生日或紀念日等日子裡，
-為了表達感激之情，
-有時會將其紮成花束送出。                                                                                                                                |
-| 444     | 20               | 5           | Une fleur que l’on offre en gage de reconnaissance,
-notamment à l’occasion d’un anniversaire.                                                                      |
-| 444     | 20               | 6           | Mit dieser Blume, manchmal auch als Teil eines
-Bouquets, kann man an speziellen Tagen seine
-Dankbarkeit ausdrücken.                                                |
-| 444     | 20               | 7           | Una flor que se suele regalar en ramos para expresar
-agradecimiento en ocasiones especiales, como
-cumpleaños.                                                      |
-| 444     | 20               | 8           | Un fiore, a volte offerto in bouquet, che
-esprime gratitudine in occasioni particolari,
-come i compleanni.                                                         |
-| 444     | 20               | 9           | A flower sometimes bundled in bouquets to convey
-gratitude on special occasions, such as birthdays.                                                                |
-| 444     | 20               | 11          | 誕生日や　記念日などに
-感謝の　気持ちを　伝えるため
-ブーケにして　贈ることが　ある。                                                                                                                        |
-| 444     | 20               | 12          | 在生日或纪念日等日子里，
-为了表达感激之情，
-有时会将其扎成花束送出。                                                                                                                                |
-| 445     | 6                | 9           | The key to the
-CINNABAR ISLAND
-GYM’s entrance.                                                                                                                     |
-| 445     | 7                | 9           | The key to CINNABAR ISLAND GYM’s
-front door. It is colored red and
-decorated.                                                                                      |
-| 445     | 9                | 9           | A high-tech key that has to be used at
-a specific location. It emits a special
-electric signal to open a door.                                                     |
-| 445     | 10               | 9           | A high-tech key that has to be used at
-a specific location. It emits a special
-electric signal to open a door.                                                     |
-| 445     | 11               | 5           | Clé destinée à une serrure très
-complexe. Ouvre une porte en
-transmettant un signal électrique.                                                                    |
-| 445     | 11               | 9           | A high-tech key that has to be used at
-a specific location. It emits a special
-electric signal to open a door.                                                     |
-| 445     | 14               | 9           | A high-tech key that has to be used at
-a specific location. It emits a special
-electric signal to open a door.                                                     |
-| 445     | 15               | 1           | きまった　ばしょで　つかうことで
-とくしゅな　でんきしんごうを　だして
-とびらを　あける　ハイテクな　カギ。                                                                                                             |
-| 445     | 15               | 3           | 정해진 장소에서 쓰는 것으로
-특수한 전기 신호를 내어
-문을 여는 첨단기술의 열쇠.                                                                                                                      |
-| 445     | 15               | 5           | Une clé destinée à une serrure très complexe.
-Ouvre une porte en transmettant un signal
-électrique.                                                                |
-| 445     | 15               | 6           | Ein besonderer Schlüssel, der an einem speziellen
-Ort Türen durch ein elektrisches Signal öffnet.                                                                  |
-| 445     | 15               | 7           | Bonguri de color azul y aroma tierno.                                                                                                                              |
-| 445     | 15               | 8           | Una sofisticata chiave da usare in un determinato
-luogo. Emette un impulso elettrico speciale che
-apre una porta.                                                  |
-| 445     | 15               | 9           | A high-tech key that has to be used at
-a specific location. It emits a special
-electronic signal to open a door.                                                   |
-| 445     | 15               | 11          | 決まった　場所で　使うことで
-特殊な　電気信号を　だして
-扉を　開ける　ハイテクな　カギ。                                                                                                                      |
-| 445     | 17               | 1           | きまった　ばしょで　つかうことで
-とくしゅな　でんきしんごうを　だして
-とびらを　あける　ハイテクな　カギ。                                                                                                             |
-| 445     | 17               | 3           | 정해진 장소에서 쓰는 것으로
-특수한 전기 신호를 내어
-문을 여는 첨단기술의 열쇠.                                                                                                                      |
-| 445     | 17               | 4           | 在特定的地方使用，
-就會發出特殊電子訊號
-來開門的高科技鑰匙。                                                                                                                                    |
-| 445     | 17               | 5           | Une clé destinée à une serrure très complexe.
-Ouvre une porte en transmettant un signal
-électrique.                                                                |
-| 445     | 17               | 6           | Ein besonderer Schlüssel, der an einem speziellen
-Ort Türen durch ein elektrisches Signal öffnet.                                                                  |
-| 445     | 17               | 7           | Una llave de alta tecnología que debe usarse en
-un lugar concreto. Emite una señal eléctrica que
-abre una puerta.                                                  |
-| 445     | 17               | 8           | Una sofisticata chiave da usare in un determinato
-luogo. Emette un impulso elettrico speciale che
-apre una porta.                                                  |
-| 445     | 17               | 9           | A high-tech key that has to be used at a specific
-location. It emits a special electronic signal to open
-a door.                                                   |
-| 445     | 17               | 11          | 決まった　場所で　使うことで
-特殊な　電気信号を　だして
-扉を　開ける　ハイテクな　カギ。                                                                                                                      |
-| 445     | 17               | 12          | 在特定的地方使用，
-就会发出特殊电信号
-来开门的高科技钥匙。                                                                                                                                     |
-| 445     | 18               | 1           | きまった　ばしょで　つかうことで
-とくしゅな　でんきしんごうを　だして
-とびらを　あける　ハイテクな　カギ。                                                                                                             |
-| 445     | 18               | 3           | 정해진 장소에서 쓰는 것으로
-특수한 전기 신호를 내어
-문을 여는 첨단기술의 열쇠.                                                                                                                      |
-| 445     | 18               | 4           | 在特定的地方使用，
-就會發出特殊電子訊號
-來開門的高科技鑰匙。                                                                                                                                    |
-| 445     | 18               | 5           | Une clé destinée à une serrure très complexe.
-Ouvre une porte en transmettant un signal
-électrique.                                                                |
-| 445     | 18               | 6           | Ein besonderer Schlüssel, der an einem speziellen
-Ort Türen durch ein elektrisches Signal öffnet.                                                                  |
-| 445     | 18               | 7           | Una llave de alta tecnología que debe usarse en
-un lugar concreto. Emite una señal eléctrica que
-abre una puerta.                                                  |
-| 445     | 18               | 8           | Una sofisticata chiave da usare in un determinato
-luogo. Emette un impulso elettrico speciale che
-apre una porta.                                                  |
-| 445     | 18               | 9           | A high-tech key that has to be used at a specific
-location. It emits a special electronic signal to open
-a door.                                                   |
-| 445     | 18               | 11          | 決まった　場所で　使うことで
-特殊な　電気信号を　だして
-扉を　開ける　ハイテクな　カギ。                                                                                                                      |
-| 445     | 18               | 12          | 在特定的地方使用，
-就会发出特殊电信号
-来开门的高科技钥匙。                                                                                                                                     |
-| 445     | 19               | 1           | きまった　ばしょで　つかうことで
-とくしゅな　でんきしんごうを　だして
-とびらを　あける　ハイテクな　カギ。                                                                                                             |
-| 445     | 19               | 3           | 정해진 장소에서 쓰는 것으로
-특수한 전기 신호를 내어
-문을 여는 첨단기술의 열쇠.                                                                                                                      |
-| 445     | 19               | 4           | 在特定的地方使用，
-就會發出特殊電子訊號
-來開門的高科技鑰匙。                                                                                                                                    |
-| 445     | 19               | 5           | Une clé destinée à une serrure très complexe.
-Ouvre une porte en transmettant un signal électrique.                                                                |
-| 445     | 19               | 6           | Ein besonderer Schlüssel, der an einem speziellen
-Ort Türen durch ein elektrisches Signal öffnet.                                                                  |
-| 445     | 19               | 7           | Una llave de alta tecnología que debe usarse en
-un lugar concreto. Emite una señal eléctrica que
-abre una puerta.                                                  |
-| 445     | 19               | 8           | Una sofisticata chiave da usare in un determinato
-luogo. Emette un impulso elettrico speciale che
-apre una porta.                                                  |
-| 445     | 19               | 9           | A high-tech key that has to be used at a specific
-location. It emits a special electronic signal to open
-a door.                                                   |
-| 445     | 19               | 11          | 決まった　場所で　使うことで
-特殊な　電気信号を　だして
-扉を　開ける　ハイテクな　カギ。                                                                                                                      |
-| 445     | 19               | 12          | 在特定的地方使用，
-就会发出特殊电信号
-来开门的高科技钥匙。                                                                                                                                     |
-| 445     | 20               | 1           | きまった　ばしょで　つかうことで
-とくしゅな　でんきしんごうを　だして
-とびらを　あける　ハイテクな　カギ。                                                                                                             |
-| 445     | 20               | 3           | 정해진 장소에서 쓰는 것으로
-특수한 전기 신호를 내어
-문을 여는 첨단기술의 열쇠.                                                                                                                      |
-| 445     | 20               | 4           | 在特定的地方使用，
-就會發出特殊電子訊號
-來開門的高科技鑰匙。                                                                                                                                    |
-| 445     | 20               | 5           | Une clé destinée à une serrure très complexe.
-Ouvre une porte en transmettant un signal électrique.                                                                |
-| 445     | 20               | 6           | Ein besonderer Schlüssel, der an einem speziellen Ort
-Türen durch ein elektrisches Signal öffnet.                                                                  |
-| 445     | 20               | 7           | Una llave de alta tecnología que debe usarse en un
-lugar concreto. Emite una señal eléctrica que abre una
-puerta.                                                  |
-| 445     | 20               | 8           | Una sofisticata chiave da usare in un determinato
-luogo. Emette un impulso elettrico speciale che
-apre una porta.                                                  |
-| 445     | 20               | 9           | A high-tech key that has to be used at a specific
-location. It emits a special electronic signal to open
-a door.                                                   |
-| 445     | 20               | 11          | 決まった　場所で　使うことで
-特殊な　電気信号を　だして
-扉を　開ける　ハイテクな　カギ。                                                                                                                      |
-| 445     | 20               | 12          | 在特定的地方使用，
-就会发出特殊电信号
-来开门的高科技钥匙。                                                                                                                                     |
-| 446     | 10               | 9           | A handy box where you can store up to
-99 Apricorns of each kind.                                                                                                   |
-| 446     | 11               | 5           | Une boîte bien pratique qui peut
-contenir jusqu’à 99 Noigrumes.                                                                                                    |
-| 446     | 11               | 9           | A handy box where you can store up to
-99 Apricorns of each kind.                                                                                                   |
-| 446     | 14               | 9           | A handy box where you can store up to
-99 Apricorns of each kind.                                                                                                   |
-| 446     | 15               | 1           | ぼんぐりを　９９こ　ほぞん　できる
-べんりな　いれもの。
-                                                                                                                                      |
-| 446     | 15               | 3           | 규토리를 99개 보존할 수 있는
-편리한 용기.                                                                                                                                          |
-| 446     | 15               | 5           | Une boîte bien pratique qui peut contenir jusqu’à
-99 Noigrumes.                                                                                                    |
-| 446     | 15               | 6           | Eine praktische Tragebox, in der du bis zu
-99 Aprikokos jeder Sorte transportieren kannst.                                                                         |
-| 446     | 15               | 7           | Bonguri de color amarillo y aroma refrescante.                                                                                                                     |
-| 446     | 15               | 8           | Contenitore molto pratico dove conservare
-fino a 99 Ghicocche diverse.                                                                                             |
-| 446     | 15               | 9           | A handy box where you can store
-up to 99 of each kind of Apricorn.                                                                                                 |
-| 446     | 15               | 11          | ぼんぐりを　９９こ　保存できる
-便利な　いれもの。
-                                                                                                                                         |
-| 446     | 17               | 1           | ぼんぐりを　９９こ　ほぞん　できる
-べんりな　いれもの。
-                                                                                                                                      |
-| 446     | 17               | 3           | 규토리를 99개 보존할 수 있는
-편리한 용기.                                                                                                                                          |
-| 446     | 17               | 4           | 可以存放
-９９個球果的好用容器。                                                                                                                                                   |
-| 446     | 17               | 5           | Une boîte bien pratique qui peut contenir jusqu’à
-99 Noigrumes.                                                                                                    |
-| 446     | 17               | 6           | Eine praktische Tragebox, in der du bis zu
-99 Aprikokos jeder Sorte transportieren kannst.                                                                         |
-| 446     | 17               | 7           | Práctico recipiente que puede almacenar hasta
-99 Bonguri de cada especie.                                                                                          |
-| 446     | 17               | 8           | Contenitore molto pratico dove conservare
-fino a 99 Ghicocche diverse.                                                                                             |
-| 446     | 17               | 9           | A handy box where you can store up to 99 of each
-kind of Apricorn.                                                                                                 |
-| 446     | 17               | 11          | ぼんぐりを　９９こ　保存できる
-便利な　いれもの。
-                                                                                                                                         |
-| 446     | 17               | 12          | 使用方便，可以保存
-９９个球果的容器。                                                                                                                                                |
-| 446     | 18               | 1           | ぼんぐりを　９９こ　ほぞん　できる
-べんりな　いれもの。
-                                                                                                                                      |
-| 446     | 18               | 3           | 규토리를 99개 보존할 수 있는
-편리한 용기.                                                                                                                                          |
-| 446     | 18               | 4           | 可以存放
-９９個球果的好用容器。                                                                                                                                                   |
-| 446     | 18               | 5           | Une boîte bien pratique qui peut contenir jusqu’à
-99 Noigrumes.                                                                                                    |
-| 446     | 18               | 6           | Eine praktische Tragebox, in der du bis zu
-99 Aprikokos jeder Sorte transportieren kannst.                                                                         |
-| 446     | 18               | 7           | Práctico recipiente que puede almacenar hasta
-99 Bonguri de cada especie.                                                                                          |
-| 446     | 18               | 8           | Contenitore molto pratico dove conservare
-fino a 99 Ghicocche diverse.                                                                                             |
-| 446     | 18               | 9           | A handy box where you can store up to 99 of each
-kind of Apricorn.                                                                                                 |
-| 446     | 18               | 11          | ぼんぐりを　９９こ　保存できる
-便利な　いれもの。
-                                                                                                                                         |
-| 446     | 18               | 12          | 使用方便，可以保存
-９９个球果的容器。                                                                                                                                                |
-| 446     | 19               | 1           | ぼんぐりを　９９こ　ほぞん　できる
-べんりな　いれもの。
-                                                                                                                                      |
-| 446     | 19               | 3           | 규토리를 99개 보존할 수 있는
-편리한 용기.                                                                                                                                          |
-| 446     | 19               | 4           | 可以存放
-99個球果的好用容器。                                                                                                                                                   |
-| 446     | 19               | 5           | Une boîte bien pratique qui peut contenir jusqu’à
-99 Noigrumes.                                                                                                    |
-| 446     | 19               | 6           | Eine praktische Tragebox, in der du bis zu
-99 Aprikokos jeder Sorte transportieren kannst.                                                                         |
-| 446     | 19               | 7           | Práctico recipiente que puede almacenar hasta
-99 Bonguri de cada especie.                                                                                          |
-| 446     | 19               | 8           | Contenitore molto pratico dove conservare
-fino a 99 Ghicocche diverse.                                                                                             |
-| 446     | 19               | 9           | A handy box where you can store up to 99 of each
-kind of Apricorn.                                                                                                 |
-| 446     | 19               | 11          | ぼんぐりを　９９こ　保存できる
-便利な　いれもの。
-                                                                                                                                         |
-| 446     | 19               | 12          | 使用方便，可以保存
-99个球果的容器。                                                                                                                                                |
-| 446     | 20               | 1           | ぼんぐりを　９９こ　ほぞん　できる
-べんりな　いれもの。
-                                                                                                                                      |
-| 446     | 20               | 3           | 규토리를 99개 보존할 수 있는
-편리한 용기.                                                                                                                                          |
-| 446     | 20               | 4           | 可以存放
-９９個球果的好用容器。                                                                                                                                                   |
-| 446     | 20               | 5           | Une boîte bien pratique qui peut contenir jusqu’à
-99 Noigrumes.                                                                                                    |
-| 446     | 20               | 6           | Eine praktische Tragebox, in der du bis zu 99 Aprikokos
-jeder Sorte transportieren kannst.                                                                         |
-| 446     | 20               | 7           | Práctico recipiente que puede almacenar hasta
-99 Bonguri de cada especie.                                                                                          |
-| 446     | 20               | 8           | Contenitore molto pratico dove conservare
-fino a 99 Ghicocche diverse.                                                                                             |
-| 446     | 20               | 9           | A handy box where you can store up to 99 of each
-kind of Apricorn.                                                                                                 |
-| 446     | 20               | 11          | ぼんぐりを　９９こ　保存できる
-便利な　いれもの。
-                                                                                                                                         |
-| 446     | 20               | 12          | 使用方便，可以保存
-９９个球果的容器。                                                                                                                                                |
-| 447     | 10               | 9           | Handy containers for cultivating
-Berries wherever you go.                                                                                                          |
-| 447     | 11               | 5           | Un accessoire portatif qui permet de
-cultiver des Baies en tout lieu et à
-tout moment.                                                                             |
-| 447     | 11               | 9           | Handy containers for cultivating
-Berries wherever you go.                                                                                                          |
-| 447     | 14               | 9           | Handy containers for cultivating
-Berries wherever you go.                                                                                                          |
-| 447     | 15               | 1           | いつでも　てがるに　きのみを
-そだてられる　けいたいしきの
-さいばい　ようき。                                                                                                                            |
-| 447     | 15               | 3           | 항상 손쉽게 나무열매를
-키울 수 있는 휴대형
-재배 용기.                                                                                                                                    |
-| 447     | 15               | 5           | Un accessoire portatif qui permet de cultiver des
-Baies en tout lieu et à tout moment.                                                                             |
-| 447     | 15               | 6           | Ein tragbares Utensil, das die Aufzucht von
-Pflanzen aus Beeren ermöglicht, wo immer
-du auch gerade bist.                                                          |
-| 447     | 15               | 7           | Bonguri de color rosa y aroma dulce.                                                                                                                               |
-| 447     | 15               | 8           | Accessorio tascabile che permette di coltivare
-bacche in qualunque luogo e momento.                                                                                |
-| 447     | 15               | 9           | Handy containers for cultivating
-Berries wherever you go.                                                                                                          |
-| 447     | 15               | 11          | いつでも　手軽に　きのみを
-育てられる　携帯式の
-栽培容器。                                                                                                                                     |
-| 447     | 17               | 1           | いつでも　てがるに　きのみを
-そだてられる　けいたいしきの
-さいばい　ようき。                                                                                                                            |
-| 447     | 17               | 3           | 항상 손쉽게 나무열매를
-키울 수 있는 휴대형
-재배 용기.                                                                                                                                    |
-| 447     | 17               | 4           | 可以隨時輕鬆培育樹果的
-可攜式栽培容器。                                                                                                                                               |
-| 447     | 17               | 5           | Un accessoire portatif qui permet de cultiver des
-Baies en tout lieu et à tout moment.                                                                             |
-| 447     | 17               | 6           | Ein tragbares Utensil, das die Aufzucht von
-Pflanzen aus Beeren ermöglicht, wo immer du
-auch gerade bist.                                                          |
-| 447     | 17               | 7           | Dispositivo portátil de cultivo que permite plantar
-bayas en cualquier momento de forma sencilla.                                                                  |
-| 447     | 17               | 8           | Accessorio tascabile che permette di coltivare
-bacche in qualunque luogo e momento.                                                                                |
-| 447     | 17               | 9           | Handy containers for cultivating Berries wherever
-you go.                                                                                                          |
-| 447     | 17               | 11          | いつでも　手軽に　きのみを
-育てられる　携帯式の
-栽培容器。                                                                                                                                     |
-| 447     | 17               | 12          | 可以随时轻松培育树果的
-便携式栽培容器。                                                                                                                                               |
-| 447     | 18               | 1           | いつでも　てがるに　きのみを
-そだてられる　けいたいしきの
-さいばい　ようき。                                                                                                                            |
-| 447     | 18               | 3           | 항상 손쉽게 나무열매를
-키울 수 있는 휴대형
-재배 용기.                                                                                                                                    |
-| 447     | 18               | 4           | 可以隨時輕鬆培育樹果的
-可攜式栽培容器。                                                                                                                                               |
-| 447     | 18               | 5           | Un accessoire portatif qui permet de cultiver des
-Baies en tout lieu et à tout moment.                                                                             |
-| 447     | 18               | 6           | Ein tragbares Utensil, das die Aufzucht von
-Pflanzen aus Beeren ermöglicht, wo immer du
-auch gerade bist.                                                          |
-| 447     | 18               | 7           | Dispositivo portátil de cultivo que permite plantar
-bayas en cualquier momento de forma sencilla.                                                                  |
-| 447     | 18               | 8           | Accessorio tascabile che permette di coltivare
-bacche in qualunque luogo e momento.                                                                                |
-| 447     | 18               | 9           | Handy containers for cultivating Berries wherever
-you go.                                                                                                          |
-| 447     | 18               | 11          | いつでも　手軽に　きのみを
-育てられる　携帯式の
-栽培容器。                                                                                                                                     |
-| 447     | 18               | 12          | 可以随时轻松培育树果的
-便携式栽培容器。                                                                                                                                               |
-| 447     | 19               | 1           | いつでも　てがるに　きのみを
-そだてられる　けいたいしきの
-さいばい　ようき。                                                                                                                            |
-| 447     | 19               | 3           | 항상 손쉽게 나무열매를
-키울 수 있는 휴대형
-재배 용기.                                                                                                                                    |
-| 447     | 19               | 4           | 可以隨時輕鬆培育樹果的
-可攜式栽培容器。                                                                                                                                               |
-| 447     | 19               | 5           | Un accessoire portatif qui permet de cultiver des Baies
-en tout lieu et à tout moment.                                                                             |
-| 447     | 19               | 6           | Ein tragbares Utensil, das die Aufzucht von
-Pflanzen aus Beeren ermöglicht, wo immer du
-auch gerade bist.                                                          |
-| 447     | 19               | 7           | Dispositivo portátil de cultivo que permite plantar
-bayas en cualquier momento de forma sencilla.                                                                  |
-| 447     | 19               | 8           | Accessorio tascabile che permette di coltivare
-bacche in qualunque luogo e momento.                                                                                |
-| 447     | 19               | 9           | Handy containers for cultivating Berries wherever
-you go.                                                                                                          |
-| 447     | 19               | 11          | いつでも　手軽に　きのみを
-育てられる　携帯式の
-栽培容器。                                                                                                                                     |
-| 447     | 19               | 12          | 可以随时轻松培育树果的
-便携式栽培容器。                                                                                                                                               |
-| 447     | 20               | 1           | いつでも　てがるに　きのみを
-そだてられる　けいたいしきの
-さいばい　ようき。                                                                                                                            |
-| 447     | 20               | 3           | 항상 손쉽게 나무열매를
-키울 수 있는 휴대형
-재배 용기.                                                                                                                                    |
-| 447     | 20               | 4           | 可以隨時輕鬆培育樹果的
-可攜式栽培容器。                                                                                                                                               |
-| 447     | 20               | 5           | Un accessoire portatif qui permet de cultiver des Baies
-en tout lieu et à tout moment.                                                                             |
-| 447     | 20               | 6           | Ein tragbares Utensil, das die Aufzucht von Pflanzen
-aus Beeren ermöglicht, wo immer du auch gerade bist.                                                          |
-| 447     | 20               | 7           | Dispositivo portátil de cultivo que permite plantar bayas
-en cualquier momento de forma sencilla.                                                                  |
-| 447     | 20               | 8           | Accessorio tascabile che permette di coltivare
-bacche in qualunque luogo e momento.                                                                                |
-| 447     | 20               | 9           | Handy containers for cultivating Berries wherever
-you go.                                                                                                          |
-| 447     | 20               | 11          | いつでも　手軽に　きのみを
-育てられる　携帯式の
-栽培容器。                                                                                                                                     |
-| 447     | 20               | 12          | 可以随时轻松培育树果的
-便携式栽培容器。                                                                                                                                               |
-| 448     | 10               | 9           | A bottle used for watering plants in the
-Berry Pots.                                                                                                               |
-| 448     | 11               | 5           | Un arrosoir qui permet de faire croître
-rapidement les Baies plantées dans le
-Plante-Baies.                                                                        |
-| 448     | 11               | 9           | A bottle used for watering plants in the
-Berry Pots.                                                                                                               |
-| 448     | 14               | 9           | A bottle used for watering plants in the
-Berry Pots.                                                                                                               |
-| 448     | 15               | 1           | みずを　かける　どうぐ。
-きのみプランターの　きのみを
-すくすく　そだてる。                                                                                                                             |
-| 448     | 15               | 3           | 물을 주는 도구.
-나무열매플랜터의 나무열매를
-쑥쑥 키운다.                                                                                                                                   |
-| 448     | 15               | 5           | Un arrosoir qui permet de faire croître rapidement
-les Baies plantées dans le Plante-Baies.                                                                        |
-| 448     | 15               | 6           | Eine Gießkanne, durch deren Wasser Beeren
-im Pflanzset umso rascher wachsen.                                                                                       |
-| 448     | 15               | 7           | Poké Ball algo distinta que atrapa mejor Pokémon
-de la misma especie que los que se posee, pero
-de sexo diferente.                                                 |
-| 448     | 15               | 8           | Strumento che serve a innaffiare.
-Permette un’ottima crescita delle bacche
-seminate nel Piantabacche.                                                              |
-| 448     | 15               | 9           | A bottle used for watering plants in the
-Berry Pots.                                                                                                               |
-| 448     | 15               | 11          | みずを　かける　道具。
-きのみプランターの　きのみを
-すくすく　育てる。                                                                                                                               |
-| 448     | 17               | 1           | みずを　かける　どうぐ。
-きのみプランターの　きのみを
-すくすく　そだてる。                                                                                                                             |
-| 448     | 17               | 3           | 물을 주는 도구.
-나무열매플랜터의 나무열매를
-쑥쑥 키운다.                                                                                                                                   |
-| 448     | 17               | 4           | 澆水的器具。
-能讓樹果種植盆裡的
-樹果快快長大。                                                                                                                                           |
-| 448     | 17               | 5           | Un arrosoir qui permet de faire croître rapidement
-les Baies plantées dans le Plante-Baies.                                                                        |
-| 448     | 17               | 6           | Eine Gießkanne, durch deren Wasser Beeren im
-Pflanzset umso rascher wachsen.                                                                                       |
-| 448     | 17               | 7           | Objeto que contiene agua y se usa para regar las
-bayas del Plantabayas.                                                                                            |
-| 448     | 17               | 8           | Strumento che serve a innaffiare.
-Permette un’ottima crescita delle bacche
-seminate nel Piantabacche.                                                              |
-| 448     | 17               | 9           | A bottle used for watering plants in the Berry Pots.                                                                                                               |
-| 448     | 17               | 11          | みずを　かける　道具。
-きのみプランターの　きのみを
-すくすく　育てる。                                                                                                                               |
-| 448     | 17               | 12          | 浇水的道具。
-能让树果种植盆里的
-树果快快长大。                                                                                                                                           |
-| 448     | 18               | 1           | みずを　かける　どうぐ。
-きのみプランターの　きのみを
-すくすく　そだてる。                                                                                                                             |
-| 448     | 18               | 3           | 물을 주는 도구.
-나무열매플랜터의 나무열매를
-쑥쑥 키운다.                                                                                                                                   |
-| 448     | 18               | 4           | 澆水的器具。
-能讓樹果種植盆裡的
-樹果快快長大。                                                                                                                                           |
-| 448     | 18               | 5           | Un arrosoir qui permet de faire croître rapidement
-les Baies plantées dans le Plante-Baies.                                                                        |
-| 448     | 18               | 6           | Eine Gießkanne, durch deren Wasser Beeren im
-Pflanzset umso rascher wachsen.                                                                                       |
-| 448     | 18               | 7           | Objeto que contiene agua y se usa para regar las
-bayas del Plantabayas.                                                                                            |
-| 448     | 18               | 8           | Strumento che serve a innaffiare.
-Permette un’ottima crescita delle bacche
-seminate nel Piantabacche.                                                              |
-| 448     | 18               | 9           | A bottle used for watering plants in the Berry Pots.                                                                                                               |
-| 448     | 18               | 11          | みずを　かける　道具。
-きのみプランターの　きのみを
-すくすく　育てる。                                                                                                                               |
-| 448     | 18               | 12          | 浇水的道具。
-能让树果种植盆里的
-树果快快长大。                                                                                                                                           |
-| 448     | 19               | 1           | みずを　かける　どうぐ。
-きのみプランターの　きのみを
-すくすく　そだてる。                                                                                                                             |
-| 448     | 19               | 3           | 물을 주는 도구.
-나무열매플랜터의 나무열매를
-쑥쑥 키운다.                                                                                                                                   |
-| 448     | 19               | 4           | 澆水的器具。
-能讓樹果種植盆裡的
-樹果快快長大。                                                                                                                                           |
-| 448     | 19               | 5           | Un arrosoir qui permet de faire croître rapidement
-les Baies plantées dans le Plante-Baies.                                                                        |
-| 448     | 19               | 6           | Eine Gießkanne, durch deren Wasser Beeren im
-Pflanzset umso rascher wachsen.                                                                                       |
-| 448     | 19               | 7           | Objeto que contiene agua y se usa para regar las bayas
-del Plantabayas.                                                                                            |
-| 448     | 19               | 8           | Strumento che serve a innaffiare.
-Permette un’ottima crescita delle bacche
-seminate nel Piantabacche.                                                              |
-| 448     | 19               | 9           | A bottle used for watering plants in the Berry Pots.                                                                                                               |
-| 448     | 19               | 11          | みずを　かける　道具。
-きのみプランターの　きのみを
-すくすく　育てる。                                                                                                                               |
-| 448     | 19               | 12          | 浇水的道具。
-能让树果种植盆里的
-树果快快长大。                                                                                                                                           |
-| 448     | 20               | 1           | みずを　かける　どうぐ。
-きのみプランターの　きのみを
-すくすく　そだてる。                                                                                                                             |
-| 448     | 20               | 3           | 물을 주는 도구.
-나무열매플랜터의 나무열매를
-쑥쑥 키운다.                                                                                                                                   |
-| 448     | 20               | 4           | 澆水的器具。
-能讓樹果種植盆裡的
-樹果快快長大。                                                                                                                                           |
-| 448     | 20               | 5           | Un arrosoir qui permet de faire croître rapidement
-les Baies plantées dans le Plante-Baies.                                                                        |
-| 448     | 20               | 6           | Eine Gießkanne, durch deren Wasser Beeren im
-Pflanzset umso rascher wachsen.                                                                                       |
-| 448     | 20               | 7           | Objeto que contiene agua y se usa para regar las
-bayas del Plantabayas.                                                                                            |
-| 448     | 20               | 8           | Strumento che serve a innaffiare.
-Permette un’ottima crescita delle bacche
-seminate nel Piantabacche.                                                              |
-| 448     | 20               | 9           | A bottle used for watering plants in the Berry Pots.                                                                                                               |
-| 448     | 20               | 11          | みずを　かける　道具。
-きのみプランターの　きのみを
-すくすく　育てる。                                                                                                                               |
-| 448     | 20               | 12          | 浇水的道具。
-能让树果种植盆里的
-树果快快长大。                                                                                                                                           |
-| 449     | 10               | 9           | A Poké Ball for catching Pokémon hooked
-by a Rod when fishing.                                                                                                     |
-| 449     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne particulièrement bien sur les
-Pokémon ferrés avec une canne à pêche.                                                  |
-| 449     | 11               | 9           | A Poké Ball for catching Pokémon hooked
-by a Rod when fishing.                                                                                                     |
-| 449     | 14               | 9           | A Poké Ball for catching Pokémon hooked
-by a Rod when fishing.                                                                                                     |
-| 449     | 15               | 1           | つりざおで　つりあげた　ポケモンだと
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 449     | 15               | 3           | 낚싯대로 낚아 올린 포켓몬이라면
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                |
-| 449     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon ferrés
-avec une canne à pêche.                                                  |
-| 449     | 15               | 6           | Ein Ball, der sich besonders gut eignet,
-um Pokémon zu fangen, die an deiner
-Angel hängen.                                                                         |
-| 449     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapadiscos.                                                                                      |
-| 449     | 15               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pescati
-con un Amo.                                                                       |
-| 449     | 15               | 9           | A Poké Ball that is good for catching
-Pokémon that you reel in with a Rod
-while out fishing.                                                                       |
-| 449     | 15               | 11          | つりざおで　つりあげた　ポケモンだと
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                         |
-| 449     | 17               | 1           | つりざおで　つりあげた　ポケモンだと
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 449     | 17               | 3           | 낚싯대로 낚아 올린 포켓몬이라면
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                |
-| 449     | 17               | 4           | 有點與眾不同的球。
-能更容易地捉到
-用釣竿釣上來的寶可夢。                                                                                                                                      |
-| 449     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon ferrés
-avec une canne à pêche.                                                  |
-| 449     | 17               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die an deiner Angel hängen.                                                                         |
-| 449     | 17               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar los Pokémon que se han pescado
-con una caña.                                                         |
-| 449     | 17               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pescati
-con un Amo.                                                                       |
-| 449     | 17               | 9           | A Poké Ball that is good for catching Pokémon that
-you reel in with a Rod while out fishing.                                                                       |
-| 449     | 17               | 11          | つりざおで　つりあげた　ポケモンだと
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                         |
-| 449     | 17               | 12          | 有点与众不同的球。
-能很容易地捕捉
-用钓竿钓上来的宝可梦。                                                                                                                                      |
-| 449     | 18               | 1           | つりざおで　つりあげた　ポケモンだと
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 449     | 18               | 3           | 낚싯대로 낚아 올린 포켓몬이라면
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                |
-| 449     | 18               | 4           | 有點與眾不同的球。
-能更容易地捉到
-用釣竿釣上來的寶可夢。                                                                                                                                      |
-| 449     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon ferrés
-avec une canne à pêche.                                                  |
-| 449     | 18               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die an deiner Angel hängen.                                                                         |
-| 449     | 18               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar los Pokémon que se han pescado
-con una caña.                                                         |
-| 449     | 18               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pescati
-con un Amo.                                                                       |
-| 449     | 18               | 9           | A Poké Ball that is good for catching Pokémon that
-you reel in with a rod while out fishing.                                                                       |
-| 449     | 18               | 11          | つりざおで　つりあげた　ポケモンだと
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                         |
-| 449     | 18               | 12          | 有点与众不同的球。
-能很容易地捕捉
-用钓竿钓上来的宝可梦。                                                                                                                                      |
-| 449     | 19               | 1           | つりざおで　つりあげた　ポケモンだと
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 449     | 19               | 3           | 낚싯대로 낚아 올린 포켓몬이라면
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                |
-| 449     | 19               | 4           | 有點與眾不同的球。
-能更容易地捉到
-用釣竿釣上來的寶可夢。                                                                                                                                      |
-| 449     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon ferrés
-avec une canne à pêche.                                                  |
-| 449     | 19               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die an deiner Angel hängen.                                                                         |
-| 449     | 19               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar los Pokémon que se han pescado
-con una caña.                                                         |
-| 449     | 19               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pescati
-con un Amo.                                                                       |
-| 449     | 19               | 9           | A Poké Ball that is good for catching Pokémon that
-you reel in with a rod while out fishing.                                                                       |
-| 449     | 19               | 11          | つりざおで　つりあげた　ポケモンだと
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                         |
-| 449     | 19               | 12          | 有点与众不同的球。
-能很容易地捕捉
-用钓竿钓上来的宝可梦。                                                                                                                                      |
-| 449     | 20               | 1           | つりざおで　つりあげた　ポケモンだと
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 449     | 20               | 3           | 낚싯대로 낚아 올린 포켓몬이라면
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                |
-| 449     | 20               | 4           | 有點與眾不同的球。
-能更容易地捉到
-用釣竿釣上來的寶可夢。                                                                                                                                      |
-| 449     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon ferrés
-avec une canne à pêche.                                                  |
-| 449     | 20               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die an deiner Angel hängen.                                                                         |
-| 449     | 20               | 7           | Poké Ball algo distinta, especialmente indicada para
-capturar los Pokémon que se han pescado con una
-caña.                                                         |
-| 449     | 20               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pescati
-con un Amo.                                                                       |
-| 449     | 20               | 9           | A Poké Ball that is good for catching Pokémon that
-you reel in with a rod while out fishing.                                                                       |
-| 449     | 20               | 11          | つりざおで　つりあげた　ポケモンだと
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                         |
-| 449     | 20               | 12          | 有点与众不同的球。
-能很容易地捕捉
-用钓竿钓上来的宝可梦。                                                                                                                                      |
-| 450     | 10               | 9           | A Poké Ball for catching Pokémon that
-are a lower level than your own.                                                                                             |
-| 450     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne particulièrement bien sur
-les Pokémon de niveau inférieur au sien.                                                    |
-| 450     | 11               | 9           | A Poké Ball for catching Pokémon that
-are a lower level than your own.                                                                                             |
-| 450     | 14               | 9           | A Poké Ball for catching Pokémon that
-are a lower level than your own.                                                                                             |
-| 450     | 15               | 1           | じぶんの　ポケモンより　レベルが
-ひくいほど　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                    |
-| 450     | 15               | 3           | 자신의 포켓몬보다 레벨이
-낮을수록 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                               |
-| 450     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon de niveau
-inférieur au sien.                                                    |
-| 450     | 15               | 6           | Ein Ball, mit dem sich Pokémon umso leichter
-fangen lassen, je niedriger ihr Level im Vergleich
-zu deinem Team ist.                                                |
-| 450     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Rompelosas.                                                                                        |
-| 450     | 15               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon di livello
-inferiore a quello del proprio.                                                |
-| 450     | 15               | 9           | A Poké Ball that makes it easier to
-catch Pokémon that are at a lower
-level than your own Pokémon.                                                                 |
-| 450     | 15               | 11          | 自分の　ポケモンより　レベルが
-低いほど　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                       |
-| 450     | 17               | 1           | じぶんの　ポケモンより　レベルが
-ひくいほど　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                    |
-| 450     | 17               | 3           | 자신의 포켓몬보다 레벨이
-낮을수록 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                               |
-| 450     | 17               | 4           | 有點與眾不同的球。
-對手的等級比自己的寶可夢低越多，
-就越容易捉到。                                                                                                                                 |
-| 450     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon de niveau
-inférieur au sien.                                                    |
-| 450     | 17               | 6           | Ein Ball, mit dem sich Pokémon umso leichter fangen
-lassen, je niedriger ihr Level im Vergleich zu deinem
-Team ist.                                                |
-| 450     | 17               | 7           | Poké Ball algo distinta que funciona especialmente
-bien con Pokémon de nivel inferior a los que se
-posee.                                                          |
-| 450     | 17               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon di livello
-inferiore a quello del proprio.                                                |
-| 450     | 17               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are at a lower level than your own Pokémon.                                                                 |
-| 450     | 17               | 11          | 自分の　ポケモンより　レベルが
-低いほど　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                       |
-| 450     | 17               | 12          | 有点与众不同的球。
-要捕捉的宝可梦比自己宝可梦的
-等级越低，就会越容易捕捉。                                                                                                                             |
-| 450     | 18               | 1           | じぶんの　ポケモンより　レベルが
-ひくいほど　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                    |
-| 450     | 18               | 3           | 자신의 포켓몬보다 레벨이
-낮을수록 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                               |
-| 450     | 18               | 4           | 有點與眾不同的球。
-對手的等級比自己的寶可夢低越多，
-就越容易捉到。                                                                                                                                 |
-| 450     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon de niveau
-inférieur au sien.                                                    |
-| 450     | 18               | 6           | Ein Ball, mit dem sich Pokémon umso leichter fangen
-lassen, je niedriger ihr Level im Vergleich zu deinem
-Team ist.                                                |
-| 450     | 18               | 7           | Poké Ball algo distinta que funciona especialmente
-bien con Pokémon de nivel inferior a los que se
-posee.                                                          |
-| 450     | 18               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon di livello
-inferiore a quello del proprio.                                                |
-| 450     | 18               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are at a lower level than your own Pokémon.                                                                 |
-| 450     | 18               | 11          | 自分の　ポケモンより　レベルが
-低いほど　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                       |
-| 450     | 18               | 12          | 有点与众不同的球。
-要捕捉的宝可梦比自己宝可梦的
-等级越低，就会越容易捕捉。                                                                                                                             |
-| 450     | 19               | 1           | じぶんの　ポケモンより　レベルが
-ひくいほど　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                    |
-| 450     | 19               | 3           | 자신의 포켓몬보다 레벨이
-낮을수록 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                               |
-| 450     | 19               | 4           | 有點與眾不同的球。
-對手的等級比自己的寶可夢低越多，
-就越容易捉到。                                                                                                                                 |
-| 450     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon de niveau
-inférieur au sien.                                                    |
-| 450     | 19               | 6           | Ein Ball, mit dem sich Pokémon umso leichter fangen
-lassen, je niedriger ihr Level im Vergleich zu deinem
-Team ist.                                                |
-| 450     | 19               | 7           | Poké Ball algo distinta que funciona especialmente bien
-con Pokémon de nivel inferior a los que se posee.                                                          |
-| 450     | 19               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon di livello
-inferiore a quello del proprio.                                                |
-| 450     | 19               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are at a lower level than your own Pokémon.                                                                 |
-| 450     | 19               | 11          | 自分の　ポケモンより　レベルが
-低いほど　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                       |
-| 450     | 19               | 12          | 有点与众不同的球。
-要捕捉的宝可梦比自己宝可梦的
-等级越低，就会越容易捕捉。                                                                                                                             |
-| 450     | 20               | 1           | じぶんの　ポケモンより　レベルが
-ひくいほど　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                    |
-| 450     | 20               | 3           | 자신의 포켓몬보다 레벨이
-낮을수록 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                               |
-| 450     | 20               | 4           | 有點與眾不同的球。
-對手的等級比自己的寶可夢低越多，
-就越容易捉到。                                                                                                                                 |
-| 450     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon de niveau
-inférieur au sien.                                                    |
-| 450     | 20               | 6           | Ein Ball, mit dem sich Pokémon umso leichter fangen
-lassen, je niedriger ihr Level im Vergleich zu deinem
-Team ist.                                                |
-| 450     | 20               | 7           | Poké Ball algo distinta que funciona especialmente bien
-con Pokémon de nivel inferior a los que se posee.                                                          |
-| 450     | 20               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon di livello
-inferiore a quello del proprio.                                                |
-| 450     | 20               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are at a lower level than your own Pokémon.                                                                 |
-| 450     | 20               | 11          | 自分の　ポケモンより　レベルが
-低いほど　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                       |
-| 450     | 20               | 12          | 有点与众不同的球。
-要捕捉的宝可梦比自己宝可梦的
-等级越低，就会越容易捕捉。                                                                                                                             |
-| 451     | 10               | 9           | A Poké Ball for catching Pokémon that
-evolve using the Moon Stone.                                                                                                 |
-| 451     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne particulièrement bien sur les
-Pokémon évoluant avec une Pierre Lune.                                                  |
-| 451     | 11               | 9           | A Poké Ball for catching Pokémon that
-evolve using the Moon Stone.                                                                                                 |
-| 451     | 14               | 9           | A Poké Ball for catching Pokémon that
-evolve using the Moon Stone.                                                                                                 |
-| 451     | 15               | 1           | つきのいしで　しんかする　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 451     | 15               | 3           | 달의돌로 진화하는 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                   |
-| 451     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon évoluant
-avec une Pierre Lune.                                                  |
-| 451     | 15               | 6           | Ein Ball, der sich besonders gut eignet,
-um Pokémon zu fangen, die sich durch
-einen Mondstein weiterentwickeln.                                                    |
-| 451     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos perdidos por tus Pokémon.                                                                                |
-| 451     | 15               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon
-che si evolvono con una Pietralunare.                                                     |
-| 451     | 15               | 9           | A Poké Ball that will make it easier
-to catch Pokémon that can evolve
-using a Moon Stone.                                                                          |
-| 451     | 15               | 11          | つきのいしで　進化する　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 451     | 17               | 1           | つきのいしで　しんかする　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 451     | 17               | 3           | 달의돌로 진화하는 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                   |
-| 451     | 17               | 4           | 有點與眾不同的球。
-能更容易地捉到
-使用月之石進化的寶可夢。                                                                                                                                     |
-| 451     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon évoluant
-avec une Pierre Lune.                                                  |
-| 451     | 17               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die sich durch einen Mondstein
-entwickeln.                                                          |
-| 451     | 17               | 7           | Poké Ball algo distinta que atrapa con más
-facilidad los Pokémon que evolucionan con la
-Piedra Lunar.                                                              |
-| 451     | 17               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon
-che si evolvono con una Pietralunare.                                                     |
-| 451     | 17               | 9           | A Poké Ball that will make it easier to catch
-Pokémon that can evolve using a Moon Stone.                                                                          |
-| 451     | 17               | 11          | つきのいしで　進化する　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 451     | 17               | 12          | 有点与众不同的球。
-能很容易地捕捉
-使用月之石进化的宝可梦。                                                                                                                                     |
-| 451     | 18               | 1           | つきのいしで　しんかする　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 451     | 18               | 3           | 달의돌로 진화하는 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                   |
-| 451     | 18               | 4           | 有點與眾不同的球。
-能更容易地捉到
-使用月之石進化的寶可夢。                                                                                                                                     |
-| 451     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon évoluant
-avec une Pierre Lune.                                                  |
-| 451     | 18               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die sich durch einen Mondstein
-entwickeln.                                                          |
-| 451     | 18               | 7           | Poké Ball algo distinta que atrapa con más
-facilidad los Pokémon que evolucionan con la
-Piedra Lunar.                                                              |
-| 451     | 18               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon
-che si evolvono con una Pietralunare.                                                     |
-| 451     | 18               | 9           | A Poké Ball that will make it easier to catch
-Pokémon that can evolve using a Moon Stone.                                                                          |
-| 451     | 18               | 11          | つきのいしで　進化する　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 451     | 18               | 12          | 有点与众不同的球。
-能很容易地捕捉
-使用月之石进化的宝可梦。                                                                                                                                     |
-| 451     | 19               | 1           | つきのいしで　しんかする　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 451     | 19               | 3           | 달의돌로 진화하는 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                   |
-| 451     | 19               | 4           | 有點與眾不同的球。
-能更容易地捉到
-使用月之石進化的寶可夢。                                                                                                                                     |
-| 451     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon évoluant
-avec une Pierre Lune.                                                  |
-| 451     | 19               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die sich durch einen Mondstein
-entwickeln.                                                          |
-| 451     | 19               | 7           | Poké Ball algo distinta que atrapa con más facilidad
-los Pokémon que evolucionan con la Piedra Lunar.                                                              |
-| 451     | 19               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon
-che si evolvono con una Pietralunare.                                                     |
-| 451     | 19               | 9           | A Poké Ball that will make it easier to catch
-Pokémon that can evolve using a Moon Stone.                                                                          |
-| 451     | 19               | 11          | つきのいしで　進化する　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 451     | 19               | 12          | 有点与众不同的球。
-能很容易地捕捉
-使用月之石进化的宝可梦。                                                                                                                                     |
-| 451     | 20               | 1           | つきのいしで　しんかする　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                        |
-| 451     | 20               | 3           | 달의돌로 진화하는 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                   |
-| 451     | 20               | 4           | 有點與眾不同的球。
-能更容易地捉到
-使用月之石進化的寶可夢。                                                                                                                                     |
-| 451     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon évoluant
-avec une Pierre Lune.                                                  |
-| 451     | 20               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die sich durch einen Mondstein entwickeln.                                                          |
-| 451     | 20               | 7           | Poké Ball algo distinta que atrapa con más facilidad los
-Pokémon que evolucionan con la Piedra Lunar.                                                              |
-| 451     | 20               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon
-che si evolvono con una Pietralunare.                                                     |
-| 451     | 20               | 9           | A Poké Ball that will make it easier to catch
-Pokémon that can evolve using a Moon Stone.                                                                          |
-| 451     | 20               | 11          | つきのいしで　進化する　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 451     | 20               | 12          | 有点与众不同的球。
-能很容易地捕捉
-使用月之石进化的宝可梦。                                                                                                                                     |
-| 452     | 10               | 9           | A Poké Ball for catching very heavy
-Pokémon.                                                                                                                       |
-| 452     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne particulièrement bien sur
-les Pokémon lourds.                                                                         |
-| 452     | 11               | 9           | A Poké Ball for catching very heavy
-Pokémon.                                                                                                                       |
-| 452     | 14               | 9           | A Poké Ball for catching very heavy
-Pokémon.                                                                                                                       |
-| 452     | 15               | 1           | たいじゅうの　おもい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                          |
-| 452     | 15               | 3           | 체중이 무거운 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                     |
-| 452     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon lourds.                                                                         |
-| 452     | 15               | 6           | Ein Ball, der sich besonders gut eignet,
-um Pokémon mit hohem Körpergewicht
-zu fangen.                                                                             |
-| 452     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Nieve Cruzada.                                                                                     |
-| 452     | 15               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pesanti.                                                                                  |
-| 452     | 15               | 9           | A Poké Ball that is better than usual
-at catching very heavy Pokémon.                                                                                              |
-| 452     | 15               | 11          | 体重の　重い　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                               |
-| 452     | 17               | 1           | たいじゅうの　おもい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                          |
-| 452     | 17               | 3           | 체중이 무거운 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                     |
-| 452     | 17               | 4           | 有點與眾不同的球。
-能更容易地捉到
-身體沉重的寶可夢。                                                                                                                                        |
-| 452     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon lourds.                                                                         |
-| 452     | 17               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-mit hohem Körpergewicht zu fangen.                                                                             |
-| 452     | 17               | 7           | Poké Ball algo distinta que funciona especialmente
-bien a la hora de atrapar Pokémon de mucho peso.                                                                |
-| 452     | 17               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pesanti.                                                                                  |
-| 452     | 17               | 9           | A Poké Ball that is better than usual at catching
-very heavy Pokémon.                                                                                              |
-| 452     | 17               | 11          | 体重の　重い　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                               |
-| 452     | 17               | 12          | 有点与众不同的球。
-能很容易地捕捉
-身体沉重的宝可梦。                                                                                                                                        |
-| 452     | 18               | 1           | たいじゅうの　おもい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                          |
-| 452     | 18               | 3           | 체중이 무거운 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                     |
-| 452     | 18               | 4           | 有點與眾不同的球。
-能更容易地捉到
-身體沉重的寶可夢。                                                                                                                                        |
-| 452     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon lourds.                                                                         |
-| 452     | 18               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-mit hohem Körpergewicht zu fangen.                                                                             |
-| 452     | 18               | 7           | Poké Ball algo distinta que funciona especialmente
-bien a la hora de atrapar Pokémon de mucho peso.                                                                |
-| 452     | 18               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pesanti.                                                                                  |
-| 452     | 18               | 9           | A Poké Ball that is better than usual at catching
-very heavy Pokémon.                                                                                              |
-| 452     | 18               | 11          | 体重の　重い　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                               |
-| 452     | 18               | 12          | 有点与众不同的球。
-能很容易地捕捉
-身体沉重的宝可梦。                                                                                                                                        |
-| 452     | 19               | 1           | たいじゅうの　おもい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                          |
-| 452     | 19               | 3           | 체중이 무거운 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                     |
-| 452     | 19               | 4           | 有點與眾不同的球。
-能更容易地捉到
-身體沉重的寶可夢。                                                                                                                                        |
-| 452     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon lourds.                                                                         |
-| 452     | 19               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-mit hohem Körpergewicht zu fangen.                                                                             |
-| 452     | 19               | 7           | Poké Ball algo distinta que funciona especialmente
-bien a la hora de atrapar Pokémon de mucho peso.                                                                |
-| 452     | 19               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pesanti.                                                                                  |
-| 452     | 19               | 9           | A Poké Ball that is better than usual at catching
-very heavy Pokémon.                                                                                              |
-| 452     | 19               | 11          | 体重の　重い　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                               |
-| 452     | 19               | 12          | 有点与众不同的球。
-能很容易地捕捉
-身体沉重的宝可梦。                                                                                                                                        |
-| 452     | 20               | 1           | たいじゅうの　おもい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                          |
-| 452     | 20               | 3           | 체중이 무거운 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                     |
-| 452     | 20               | 4           | 有點與眾不同的球。
-能更容易地捉到
-身體沉重的寶可夢。                                                                                                                                        |
-| 452     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon lourds.                                                                         |
-| 452     | 20               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-mit hohem Körpergewicht zu fangen.                                                                             |
-| 452     | 20               | 7           | Poké Ball algo distinta que funciona especialmente bien
-a la hora de atrapar Pokémon de mucho peso.                                                                |
-| 452     | 20               | 8           | Poké Ball un po’ diversa che funziona
-particolarmente bene con i Pokémon pesanti.                                                                                  |
-| 452     | 20               | 9           | A Poké Ball that is better than usual at catching
-very heavy Pokémon.                                                                                              |
-| 452     | 20               | 11          | 体重の　重い　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                               |
-| 452     | 20               | 12          | 有点与众不同的球。
-能很容易地捕捉
-身体沉重的宝可梦。                                                                                                                                        |
-| 453     | 10               | 9           | A Poké Ball that makes it easier to
-catch fast Pokémon.                                                                                                            |
-| 453     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne particulièrement bien sur
-les Pokémon qui ont tendance à fuir.                                                        |
-| 453     | 11               | 9           | A Poké Ball that makes it easier to
-catch Pokémon which are quick to
-run away.                                                                                     |
-| 453     | 14               | 9           | A Poké Ball that makes it easier to
-catch Pokémon which are quick to
-run away.                                                                                     |
-| 453     | 15               | 1           | にげあしの　はやい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                           |
-| 453     | 15               | 3           | 도주가 빠른 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                      |
-| 453     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon qui ont
-tendance à fuir.                                                        |
-| 453     | 15               | 6           | Ein Ball, der sich besonders gut eignet, um flinke
-Pokémon zu fangen.                                                                                              |
-| 453     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapabanderas.                                                                                    |
-| 453     | 15               | 8           | Poké Ball un po’ diversa particolarmente efficiente
-con i Pokémon bravi a scappare.                                                                                |
-| 453     | 15               | 9           | A Poké Ball that makes it easier to
-catch Pokémon that are usually
-very quick to run away.                                                                         |
-| 453     | 15               | 11          | にげあしの　はやい　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                            |
-| 453     | 17               | 1           | にげあしの　はやい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                           |
-| 453     | 17               | 3           | 도주가 빠른 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                      |
-| 453     | 17               | 4           | 有點與眾不同的球。
-能更容易地捉到
-逃跑速度很快的寶可夢。                                                                                                                                      |
-| 453     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon qui ont
-tendance à fuir.                                                        |
-| 453     | 17               | 6           | Ein Ball, der sich besonders gut eignet, um flinke
-Pokémon zu fangen.                                                                                              |
-| 453     | 17               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar Pokémon evasivos.                                                                                    |
-| 453     | 17               | 8           | Poké Ball un po’ diversa particolarmente efficiente
-con i Pokémon bravi a scappare.                                                                                |
-| 453     | 17               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are usually very quick to run away.                                                                         |
-| 453     | 17               | 11          | にげあしの　はやい　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                            |
-| 453     | 17               | 12          | 有点与众不同的球。
-能很容易地捕捉
-逃跑速度很快的宝可梦。                                                                                                                                      |
-| 453     | 18               | 1           | にげあしの　はやい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                           |
-| 453     | 18               | 3           | 도주가 빠른 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                      |
-| 453     | 18               | 4           | 有點與眾不同的球。
-能更容易地捉到
-逃跑速度很快的寶可夢。                                                                                                                                      |
-| 453     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon qui ont
-tendance à fuir.                                                        |
-| 453     | 18               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die schnell weglaufen.                                                                              |
-| 453     | 18               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar Pokémon evasivos.                                                                                    |
-| 453     | 18               | 8           | Poké Ball un po’ diversa particolarmente efficiente
-con i Pokémon bravi a scappare.                                                                                |
-| 453     | 18               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are usually very quick to run away.                                                                         |
-| 453     | 18               | 11          | にげあしの　はやい　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                            |
-| 453     | 18               | 12          | 有点与众不同的球。
-能很容易地捕捉
-逃跑速度很快的宝可梦。                                                                                                                                      |
-| 453     | 19               | 1           | にげあしの　はやい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                           |
-| 453     | 19               | 3           | 도주가 빠른 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                      |
-| 453     | 19               | 4           | 有點與眾不同的球。
-能更容易地捉到
-逃跑速度很快的寶可夢。                                                                                                                                      |
-| 453     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon qui ont
-tendance à fuir.                                                        |
-| 453     | 19               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die schnell weglaufen.                                                                              |
-| 453     | 19               | 7           | Poké Ball algo distinta, especialmente indicada para
-capturar Pokémon evasivos.                                                                                    |
-| 453     | 19               | 8           | Poké Ball un po’ diversa particolarmente efficiente
-con i Pokémon bravi a scappare.                                                                                |
-| 453     | 19               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are usually very quick to run away.                                                                         |
-| 453     | 19               | 11          | にげあしの　はやい　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                            |
-| 453     | 19               | 12          | 有点与众不同的球。
-能很容易地捕捉
-逃跑速度很快的宝可梦。                                                                                                                                      |
-| 453     | 20               | 1           | にげあしの　はやい　ポケモンが
-つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                           |
-| 453     | 20               | 3           | 도주가 빠른 포켓몬이
-잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                      |
-| 453     | 20               | 4           | 有點與眾不同的球。
-能更容易地捉到
-逃跑速度很快的寶可夢。                                                                                                                                      |
-| 453     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-particulièrement bien sur les Pokémon qui ont
-tendance à fuir.                                                        |
-| 453     | 20               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die schnell weglaufen.                                                                              |
-| 453     | 20               | 7           | Poké Ball algo distinta, especialmente indicada para
-capturar Pokémon evasivos.                                                                                    |
-| 453     | 20               | 8           | Poké Ball un po’ diversa particolarmente efficiente
-con i Pokémon bravi a scappare.                                                                                |
-| 453     | 20               | 9           | A Poké Ball that makes it easier to catch Pokémon
-that are usually very quick to run away.                                                                         |
-| 453     | 20               | 11          | にげあしの　はやい　ポケモンが
-捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                            |
-| 453     | 20               | 12          | 有点与众不同的球。
-能很容易地捕捉
-逃跑速度很快的宝可梦。                                                                                                                                      |
-| 454     | 10               | 9           | A Poké Ball that makes caught Pokémon
-more friendly.                                                                                                               |
-| 454     | 11               | 5           | Une Poké Ball un peu spéciale qui
-permet de rendre rapidement amicaux
-les Pokémon sauvages attrapés avec.                                                          |
-| 454     | 11               | 9           | A Poké Ball that makes caught Pokémon
-more friendly.                                                                                                               |
-| 454     | 14               | 9           | A Poké Ball that makes caught Pokémon
-more friendly.                                                                                                               |
-| 454     | 15               | 1           | つかまえた　やせいポケモンが
-すぐに　なついて　くれる
-ちょっと　かわった　ボール。                                                                                                                         |
-| 454     | 15               | 3           | 잡은 야생 포켓몬이
-바로 친밀해지는
-조금 특이한 볼.                                                                                                                                      |
-| 454     | 15               | 5           | Une Poké Ball un peu spéciale qui permet de
-rendre rapidement amicaux les Pokémon
-sauvages attrapés avec celle-ci.                                                 |
-| 454     | 15               | 6           | Ein besonderer Ball, der die Sympathie von
-gefangenen Pokémon schneller ansteigen lässt.                                                                           |
-| 454     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de derrotas.                                                                                                       |
-| 454     | 15               | 8           | Poké Ball un po’ diversa che fa sì che i Pokémon
-selvatici con essa catturati si affezionino
-più rapidamente.                                                      |
-| 454     | 15               | 9           | A strange Poké Ball that will make
-the wild Pokémon caught with it more
-friendly toward you immediately.                                                           |
-| 454     | 15               | 11          | 捕まえた　野生ポケモンが
-すぐに　なついて　くれる
-ちょっと　変わった　ボール。                                                                                                                           |
-| 454     | 17               | 1           | つかまえた　やせいポケモンが
-すぐに　なついて　くれる
-ちょっと　かわった　ボール。                                                                                                                         |
-| 454     | 17               | 3           | 잡은 야생 포켓몬이
-바로 친밀해지는
-조금 특이한 볼.                                                                                                                                      |
-| 454     | 17               | 4           | 有點與眾不同的球。
-捉到的野生寶可夢會立刻
-和訓練家變得親密。                                                                                                                                    |
-| 454     | 17               | 5           | Une Poké Ball un peu spéciale qui permet de
-rendre rapidement amicaux les Pokémon
-sauvages attrapés avec celle-ci.                                                 |
-| 454     | 17               | 6           | Ein besonderer Ball, der die Sympathie von
-gefangenen Pokémon schneller ansteigen lässt.                                                                           |
-| 454     | 17               | 7           | Poké Ball algo distinta que hace más amistosos a
-los Pokémon salvajes que se capturan con ella.                                                                    |
-| 454     | 17               | 8           | Poké Ball un po’ diversa che fa sì che i Pokémon
-selvatici con essa catturati si affezionino
-più rapidamente.                                                      |
-| 454     | 17               | 9           | A strange Poké Ball that will make the wild
-Pokémon caught with it more friendly toward
-you immediately.                                                           |
-| 454     | 17               | 11          | 捕まえた　野生ポケモンが
-すぐに　なついて　くれる
-ちょっと　変わった　ボール。                                                                                                                           |
-| 454     | 17               | 12          | 有点与众不同的球。
-捉到的野生宝可梦会立刻
-变得和训练家亲密起来。                                                                                                                                  |
-| 454     | 18               | 1           | つかまえた　やせいポケモンが
-すぐに　なついて　くれる
-ちょっと　かわった　ボール。                                                                                                                         |
-| 454     | 18               | 3           | 잡은 야생 포켓몬이
-바로 친밀해지는
-조금 특이한 볼.                                                                                                                                      |
-| 454     | 18               | 4           | 有點與眾不同的球。
-捉到的野生寶可夢會立刻
-和訓練家變得親密。                                                                                                                                    |
-| 454     | 18               | 5           | Une Poké Ball un peu spéciale qui permet de
-rendre rapidement amicaux les Pokémon
-sauvages attrapés avec celle-ci.                                                 |
-| 454     | 18               | 6           | Ein besonderer Ball, der die Sympathie von
-gefangenen Pokémon sofort ansteigen lässt.                                                                              |
-| 454     | 18               | 7           | Poké Ball algo distinta que hace más amistosos a
-los Pokémon salvajes que se capturan con ella.                                                                    |
-| 454     | 18               | 8           | Poké Ball un po’ diversa che fa sì che i Pokémon
-selvatici con essa catturati si affezionino
-più rapidamente.                                                      |
-| 454     | 18               | 9           | A strange Poké Ball that will make the wild
-Pokémon caught with it more friendly toward
-you immediately.                                                           |
-| 454     | 18               | 11          | 捕まえた　野生ポケモンが
-すぐに　なついて　くれる
-ちょっと　変わった　ボール。                                                                                                                           |
-| 454     | 18               | 12          | 有点与众不同的球。
-捉到的野生宝可梦会立刻
-变得和训练家亲密起来。                                                                                                                                  |
-| 454     | 19               | 1           | つかまえた　やせいポケモンが
-すぐに　なついて　くれる
-ちょっと　かわった　ボール。                                                                                                                         |
-| 454     | 19               | 3           | 잡은 야생 포켓몬이
-바로 친밀해지는
-조금 특이한 볼.                                                                                                                                      |
-| 454     | 19               | 4           | 有點與眾不同的球。
-捉到的野生寶可夢會立刻
-和訓練家變得親密。                                                                                                                                    |
-| 454     | 19               | 5           | Une Poké Ball un peu spéciale qui permet de rendre
-rapidement amicaux les Pokémon sauvages attrapés
-avec celle-ci.                                                 |
-| 454     | 19               | 6           | Ein besonderer Ball, der die Sympathie von
-gefangenen Pokémon sofort ansteigen lässt.                                                                              |
-| 454     | 19               | 7           | Poké Ball algo distinta que hace más amistosos a
-los Pokémon salvajes que se capturan con ella.                                                                    |
-| 454     | 19               | 8           | Poké Ball un po’ diversa che fa sì che i Pokémon
-selvatici con essa catturati si affezionino
-più rapidamente.                                                      |
-| 454     | 19               | 9           | A strange Poké Ball that will make the wild
-Pokémon caught with it more friendly toward
-you immediately.                                                           |
-| 454     | 19               | 11          | 捕まえた　野生ポケモンが
-すぐに　なついて　くれる
-ちょっと　変わった　ボール。                                                                                                                           |
-| 454     | 19               | 12          | 有点与众不同的球。
-捉到的野生宝可梦会立刻
-变得和训练家亲密起来。                                                                                                                                  |
-| 454     | 20               | 1           | つかまえた　やせいポケモンが
-すぐに　なついて　くれる
-ちょっと　かわった　ボール。                                                                                                                         |
-| 454     | 20               | 3           | 잡은 야생 포켓몬이
-바로 친밀해지는
-조금 특이한 볼.                                                                                                                                      |
-| 454     | 20               | 4           | 有點與眾不同的球。
-捉到的野生寶可夢會立刻
-和訓練家變得親密。                                                                                                                                    |
-| 454     | 20               | 5           | Une Poké Ball un peu spéciale qui permet de rendre
-rapidement amicaux les Pokémon sauvages attrapés
-avec celle-ci.                                                 |
-| 454     | 20               | 6           | Ein besonderer Ball, der die Sympathie von
-gefangenen Pokémon sofort ansteigen lässt.                                                                              |
-| 454     | 20               | 7           | Poké Ball algo distinta que hace más amistosos a los
-Pokémon salvajes que se capturan con ella.                                                                    |
-| 454     | 20               | 8           | Poké Ball un po’ diversa che fa sì che i Pokémon
-selvatici con essa catturati si affezionino
-più rapidamente.                                                      |
-| 454     | 20               | 9           | A strange Poké Ball that will make the wild
-Pokémon caught with it more friendly toward
-you immediately.                                                           |
-| 454     | 20               | 11          | 捕まえた　野生ポケモンが
-すぐに　なついて　くれる
-ちょっと　変わった　ボール。                                                                                                                           |
-| 454     | 20               | 12          | 有点与众不同的球。
-捉到的野生宝可梦会立刻
-变得和训练家亲密起来。                                                                                                                                  |
-| 455     | 10               | 9           | Poké Ball for catching Pokémon that are
-the opposite gender of your Pokémon.                                                                                       |
-| 455     | 11               | 5           | Une Poké Ball un peu spéciale qui
-fonctionne mieux sur un Pokémon de
-la même espèce mais de sexe opposé.                                                           |
-| 455     | 11               | 9           | Poké Ball for catching Pokémon that are
-the opposite gender of your Pokémon.                                                                                       |
-| 455     | 14               | 9           | Poké Ball for catching Pokémon that are
-the opposite gender of your Pokémon.                                                                                       |
-| 455     | 15               | 1           | じぶんの　ポケモンと　せいべつが
-ちがうと　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                     |
-| 455     | 15               | 3           | 자신의 포켓몬과 성별이
-다르면 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                 |
-| 455     | 15               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-mieux sur un Pokémon de sexe opposé.                                                                                  |
-| 455     | 15               | 6           | Ein Ball, der sich besonders gut eignet,
-um Pokémon zu fangen, die ein anderes
-Geschlecht haben als dein Pokémon.                                                  |
-| 455     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos conseguidos.                                                                                             |
-| 455     | 15               | 8           | Poké Ball speciale che funziona meglio con i
-Pokémon di sesso opposto a quello del proprio
-e della stessa specie.                                                  |
-| 455     | 15               | 9           | A Poké Ball that works best when
-catching a Pokémon that is of the
-opposite gender of your Pokémon.                                                                |
-| 455     | 15               | 11          | 自分の　ポケモンと　性別が
-違うと　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 455     | 17               | 1           | じぶんの　ポケモンと　せいべつが
-ちがうと　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                     |
-| 455     | 17               | 3           | 자신의 포켓몬과 성별이
-다르면 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                 |
-| 455     | 17               | 4           | 有點與眾不同的球。
-能更容易地捉到
-與自己的寶可夢性別不同的寶可夢。                                                                                                                                 |
-| 455     | 17               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-mieux sur un Pokémon de sexe opposé.                                                                                  |
-| 455     | 17               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die ein anderes Geschlecht haben als
-dein Pokémon.                                                  |
-| 455     | 17               | 7           | Poké Ball algo distinta que atrapa mejor Pokémon
-de la misma especie que los que se posee, pero
-de sexo diferente.                                                 |
-| 455     | 17               | 8           | Poké Ball speciale che funziona meglio con i
-Pokémon di sesso opposto a quello del proprio
-e della stessa specie.                                                  |
-| 455     | 17               | 9           | A Poké Ball that works best when catching a
-Pokémon that is of the opposite gender of
-your Pokémon.                                                                |
-| 455     | 17               | 11          | 自分の　ポケモンと　性別が
-違うと　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 455     | 17               | 12          | 有点与众不同的球。
-能很容易地捕捉
-和自己宝可梦性别不同的宝可梦。                                                                                                                                  |
-| 455     | 18               | 1           | じぶんの　ポケモンと　せいべつが
-ちがうと　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                     |
-| 455     | 18               | 3           | 자신의 포켓몬과 성별이
-다르면 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                 |
-| 455     | 18               | 4           | 有點與眾不同的球。
-能更容易地捉到
-與自己的寶可夢性別不同的寶可夢。                                                                                                                                 |
-| 455     | 18               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-mieux sur un Pokémon de sexe opposé.                                                                                  |
-| 455     | 18               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die ein anderes Geschlecht haben als
-dein Pokémon.                                                  |
-| 455     | 18               | 7           | Poké Ball algo distinta que atrapa mejor Pokémon
-de la misma especie que los que se posee, pero
-de sexo diferente.                                                 |
-| 455     | 18               | 8           | Poké Ball speciale che funziona meglio con i
-Pokémon di sesso opposto a quello del proprio
-e della stessa specie.                                                  |
-| 455     | 18               | 9           | A Poké Ball that works best when catching a
-Pokémon that is of the opposite gender of
-your Pokémon.                                                                |
-| 455     | 18               | 11          | 自分の　ポケモンと　性別が
-違うと　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 455     | 18               | 12          | 有点与众不同的球。
-能很容易地捕捉
-和自己宝可梦性别不同的宝可梦。                                                                                                                                  |
-| 455     | 19               | 1           | じぶんの　ポケモンと　せいべつが
-ちがうと　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                     |
-| 455     | 19               | 3           | 자신의 포켓몬과 성별이
-다르면 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                 |
-| 455     | 19               | 4           | 有點與眾不同的球。
-能更容易地捉到
-與自己的寶可夢性別不同的寶可夢。                                                                                                                                 |
-| 455     | 19               | 5           | Une Poké Ball un peu spéciale qui fonctionne mieux
-sur un Pokémon de sexe opposé.                                                                                  |
-| 455     | 19               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die ein anderes Geschlecht haben als
-dein Pokémon.                                                  |
-| 455     | 19               | 7           | Poké Ball algo distinta que atrapa mejor Pokémon
-de la misma especie que los que se posee, pero
-de sexo diferente.                                                 |
-| 455     | 19               | 8           | Poké Ball speciale che funziona meglio con i
-Pokémon di sesso opposto a quello del proprio
-e della stessa specie.                                                  |
-| 455     | 19               | 9           | A Poké Ball that works best when catching a
-Pokémon that is of the opposite gender of
-your Pokémon.                                                                |
-| 455     | 19               | 11          | 自分の　ポケモンと　性別が
-違うと　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 455     | 19               | 12          | 有点与众不同的球。
-能很容易地捕捉
-和自己宝可梦性别不同的宝可梦。                                                                                                                                  |
-| 455     | 20               | 1           | じぶんの　ポケモンと　せいべつが
-ちがうと　つかまえやすくなる
-ちょっと　かわった　ボール。                                                                                                                     |
-| 455     | 20               | 3           | 자신의 포켓몬과 성별이
-다르면 잡기 쉬워지는
-조금 특이한 볼.                                                                                                                                 |
-| 455     | 20               | 4           | 有點與眾不同的球。
-能更容易地捉到
-與自己的寶可夢性別不同的寶可夢。                                                                                                                                 |
-| 455     | 20               | 5           | Une Poké Ball un peu spéciale qui fonctionne
-mieux sur un Pokémon de sexe opposé.                                                                                  |
-| 455     | 20               | 6           | Ein Ball, der sich besonders gut eignet, um Pokémon
-zu fangen, die ein anderes Geschlecht haben als dein
-Pokémon.                                                  |
-| 455     | 20               | 7           | Poké Ball algo distinta que atrapa mejor Pokémon de la
-misma especie que los que se posee, pero de sexo
-diferente.                                                 |
-| 455     | 20               | 8           | Poké Ball speciale che funziona meglio con i
-Pokémon di sesso opposto a quello del proprio
-e della stessa specie.                                                  |
-| 455     | 20               | 9           | A Poké Ball that works best when catching a
-Pokémon that is of the opposite gender of
-your Pokémon.                                                                |
-| 455     | 20               | 11          | 自分の　ポケモンと　性別が
-違うと　捕まえやすくなる
-ちょっと　変わった　ボール。                                                                                                                          |
-| 455     | 20               | 12          | 有点与众不同的球。
-能很容易地捕捉
-和自己宝可梦性别不同的宝可梦。                                                                                                                                  |
-| 456     | 10               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 11               | 5           | Une Poké Ball spéciale utilisée au
-Parc des Amis.                                                                                                                  |
-| 456     | 11               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 14               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 15               | 1           | パルパークの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                         |
-| 456     | 15               | 3           | 팔파크 내에서
-사용하는 특별한 볼.                                                                                                                                                |
-| 456     | 15               | 5           | Une Poké Ball spéciale utilisée au Parc des Amis.                                                                                                                  |
-| 456     | 15               | 6           | Ein Ball, der nur im Park der Freunde
-eingesetzt wird.                                                                                                             |
-| 456     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de caídas que han sufrido tus Pokémon.                                                                             |
-| 456     | 15               | 8           | Poké Ball speciale utilizzata solo all’interno
-del Parco Amici.                                                                                                    |
-| 456     | 15               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 15               | 11          | パルパークの　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 456     | 17               | 1           | パルパークの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                         |
-| 456     | 17               | 3           | 팔파크 내에서
-사용하는 특별한 볼.                                                                                                                                                |
-| 456     | 17               | 4           | 在夥伴公園裡使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 17               | 5           | Une Poké Ball spéciale utilisée au Parc des Amis.                                                                                                                  |
-| 456     | 17               | 6           | Ein Ball, der nur im Park der Freunde
-eingesetzt wird.                                                                                                             |
-| 456     | 17               | 7           | Poké Ball que se utiliza dentro del Parque Compi.                                                                                                                  |
-| 456     | 17               | 8           | Poké Ball speciale utilizzata solo all’interno
-del Parco Amici.                                                                                                    |
-| 456     | 17               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 17               | 11          | パルパークの　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 456     | 17               | 12          | 在伙伴公园里使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 18               | 1           | パルパークの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                         |
-| 456     | 18               | 3           | 팔파크 내에서
-사용하는 특별한 볼.                                                                                                                                                |
-| 456     | 18               | 4           | 在夥伴公園裡使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 18               | 5           | Une Poké Ball spéciale utilisée au Parc des Amis.                                                                                                                  |
-| 456     | 18               | 6           | Ein Ball, der nur im Park der Freunde
-eingesetzt wird.                                                                                                             |
-| 456     | 18               | 7           | Poké Ball que se utiliza dentro del Parque Compi.                                                                                                                  |
-| 456     | 18               | 8           | Poké Ball speciale utilizzata solo all’interno
-del Parco Amici.                                                                                                    |
-| 456     | 18               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 18               | 11          | パルパークの　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 456     | 18               | 12          | 在伙伴公园里使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 19               | 1           | パルパークの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                         |
-| 456     | 19               | 3           | 팔파크 내에서
-사용하는 특별한 볼.                                                                                                                                                |
-| 456     | 19               | 4           | 在夥伴公園裡使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 19               | 5           | Une Poké Ball spéciale utilisée au Parc des Amis.                                                                                                                  |
-| 456     | 19               | 6           | Ein Ball, der nur im Park der Freunde
-eingesetzt wird.                                                                                                             |
-| 456     | 19               | 7           | Poké Ball que se utiliza dentro del Parque Compi.                                                                                                                  |
-| 456     | 19               | 8           | Poké Ball speciale utilizzata solo all’interno
-del Parco Amici.                                                                                                    |
-| 456     | 19               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 19               | 11          | パルパークの　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 456     | 19               | 12          | 在伙伴公园里使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 20               | 1           | パルパークの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                         |
-| 456     | 20               | 3           | 팔파크 내에서
-사용하는 특별한 볼.                                                                                                                                                |
-| 456     | 20               | 4           | 在夥伴公園裡使用的
-特殊的球。                                                                                                                                                    |
-| 456     | 20               | 5           | Une Poké Ball spéciale utilisée au Parc des Amis.                                                                                                                  |
-| 456     | 20               | 6           | Ein Ball, der nur im Park der Freunde eingesetzt wird.                                                                                                             |
-| 456     | 20               | 7           | Poké Ball que se utiliza dentro del Parque Compi.                                                                                                                  |
-| 456     | 20               | 8           | Poké Ball speciale utilizzata solo all’interno
-del Parco Amici.                                                                                                    |
-| 456     | 20               | 9           | A special Poké Ball for the Pal Park.                                                                                                                              |
-| 456     | 20               | 11          | パルパークの　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 456     | 20               | 12          | 在伙伴公园里使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 10               | 9           | A special Poké Ball for the
-Bug-Catching Contest.                                                                                                                  |
-| 457     | 11               | 5           | Une Poké Ball spéciale utilisée au
-Concours de Capture d’insecte.                                                                                                  |
-| 457     | 11               | 9           | A special Poké Ball for the
-Bug-Catching Contest.                                                                                                                  |
-| 457     | 14               | 9           | A special Poké Ball for the
-Bug-Catching Contest.                                                                                                                  |
-| 457     | 15               | 1           | むしとりたいかいの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                      |
-| 457     | 15               | 3           | 곤충채집 대회 내에서
-사용하는 특별한 볼.                                                                                                                                            |
-| 457     | 15               | 5           | Une Poké Ball spéciale utilisée au Concours de
-Capture d’insecte.                                                                                                  |
-| 457     | 15               | 6           | Ein Ball, der nur beim Käferturnier eingesetzt wird.                                                                                                               |
-| 457     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de placajes realizados.                                                                                            |
-| 457     | 15               | 8           | Poké Ball speciale utilizzata solo nella
-Gara Pigliamosche.                                                                                                        |
-| 457     | 15               | 9           | A special Poké Ball that is used
-during the Bug-Catching Contest.                                                                                                  |
-| 457     | 15               | 11          | 虫捕り大会の　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 457     | 17               | 1           | むしとりたいかいの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                      |
-| 457     | 17               | 3           | 곤충채집 대회 내에서
-사용하는 특별한 볼.                                                                                                                                            |
-| 457     | 17               | 4           | 在捕蟲大賽上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 17               | 5           | Une Poké Ball spéciale utilisée au Concours de
-Capture d’insecte.                                                                                                  |
-| 457     | 17               | 6           | Ein Ball, der nur beim Käferturnier eingesetzt wird.                                                                                                               |
-| 457     | 17               | 7           | Poké Ball que se utiliza en el Concurso de
-Captura de Bichos.                                                                                                      |
-| 457     | 17               | 8           | Poké Ball speciale utilizzata solo nella
-Gara Pigliamosche.                                                                                                        |
-| 457     | 17               | 9           | A special Poké Ball that is used during the
-Bug-Catching Contest.                                                                                                  |
-| 457     | 17               | 11          | 虫捕り大会の　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 457     | 17               | 12          | 在捕虫大赛上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 18               | 1           | むしとりたいかいの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                      |
-| 457     | 18               | 3           | 곤충채집 대회 내에서
-사용하는 특별한 볼.                                                                                                                                            |
-| 457     | 18               | 4           | 在捕蟲大賽上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 18               | 5           | Une Poké Ball spéciale utilisée au Concours de
-Capture d’insecte.                                                                                                  |
-| 457     | 18               | 6           | Ein Ball, der nur beim Käferturnier eingesetzt wird.                                                                                                               |
-| 457     | 18               | 7           | Poké Ball que se utiliza en el Concurso de
-Captura de Bichos.                                                                                                      |
-| 457     | 18               | 8           | Poké Ball speciale utilizzata solo nella
-Gara Pigliamosche.                                                                                                        |
-| 457     | 18               | 9           | A special Poké Ball that is used during the
-Bug-Catching Contest.                                                                                                  |
-| 457     | 18               | 11          | 虫捕り大会の　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 457     | 18               | 12          | 在捕虫大赛上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 19               | 1           | むしとりたいかいの　なかで
-つかう　とくべつな　ボール。
-                                                                                                                                      |
-| 457     | 19               | 3           | 곤충채집 대회 내에서
-사용하는 특별한 볼.                                                                                                                                            |
-| 457     | 19               | 4           | 在捕蟲大賽上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 19               | 5           | Une Poké Ball spéciale utilisée au Concours de
-Capture d’insecte.                                                                                                  |
-| 457     | 19               | 6           | Ein Ball, der nur beim Käferturnier eingesetzt wird.                                                                                                               |
-| 457     | 19               | 7           | Poké Ball que se utiliza en el Concurso de
-Captura de Bichos.                                                                                                      |
-| 457     | 19               | 8           | Poké Ball speciale utilizzata solo nella
-Gara Pigliamosche.                                                                                                        |
-| 457     | 19               | 9           | A special Poké Ball that is used during the
-Bug-Catching Contest.                                                                                                  |
-| 457     | 19               | 11          | 虫捕り大会の　なかで
-使う　特別な　ボール。
-                                                                                                                                            |
-| 457     | 19               | 12          | 在捕虫大赛上使用的
-特殊的球。                                                                                                                                                    |
-| 457     | 20               | 1           | ジョウトちほうの　むしとりたいかいで
-つかわれていた　とくべつな　ボール。                                                                                                                              |
-| 457     | 20               | 3           | 성도지방의 곤충채집 대회에서
-사용되었던 특별한 볼.                                                                                                                                       |
-| 457     | 20               | 4           | 曾在城都地區的捕蟲大賽被使用。
-是一種特殊的球。                                                                                                                                           |
-| 457     | 20               | 5           | Une Poké Ball spéciale anciennement utilisée
-au Concours de Capture d’insecte de Johto.                                                                            |
-| 457     | 20               | 6           | Ein besonderer Ball, der beim Käferturnier der
-Johto-Region eingesetzt wird.                                                                                       |
-| 457     | 20               | 7           | Poké Ball especial que se utilizaba en el Concurso de
-Captura de Bichos de la región de Johto.                                                                     |
-| 457     | 20               | 8           | Poké Ball speciale usata in passato nella Gara
-Pigliamosche di Johto.                                                                                              |
-| 457     | 20               | 9           | A special Poké Ball that was used during the
-Bug-Catching Contest in the Johto region.                                                                             |
-| 457     | 20               | 11          | ジョウト地方の　虫捕り大会で
-使われていた　特別な　ボール。                                                                                                                                     |
-| 457     | 20               | 12          | 曽在城都地区的捕虫大赛上使用的
-特殊的球。                                                                                                                                              |
-| 458     | 10               | 9           | A red Apricorn.
-It assails your nostrils.                                                                                                                          |
-| 458     | 11               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 11               | 9           | A red Apricorn.
-It assails your nostrils.                                                                                                                          |
-| 458     | 14               | 9           | A red Apricorn.
-It assails your nostrils.                                                                                                                          |
-| 458     | 15               | 1           | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 15               | 3           | 빨간색의 규토리.
-코를 톡 쏘는 향기가 난다.                                                                                                                                          |
-| 458     | 15               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 15               | 6           | Eine rote Aprikoko.
-Besitzt einen stechenden Geruch.                                                                                                               |
-| 458     | 15               | 7           | Caramelo típico de Pueblo Caoba, muy popular
-como souvenir.                                                                                                        |
-| 458     | 15               | 8           | Una Ghicocca di colore rosso.
-Emana un odore molto forte.                                                                                                          |
-| 458     | 15               | 9           | A red Apricorn.
-It assails your nostrils.                                                                                                                          |
-| 458     | 15               | 11          | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 17               | 1           | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 17               | 3           | 빨간색의 규토리.
-코를 톡 쏘는 향기가 난다.                                                                                                                                          |
-| 458     | 17               | 4           | 紅色的球果。
-有種刺鼻的氣味。                                                                                                                                                    |
-| 458     | 17               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 17               | 6           | Eine rote Aprikoko. Besitzt einen stechenden
-Geruch.                                                                                                               |
-| 458     | 17               | 7           | Bonguri de color rojo y aroma muy penetrante.                                                                                                                      |
-| 458     | 17               | 8           | Una Ghicocca di colore rosso.
-Emana un odore molto forte.                                                                                                          |
-| 458     | 17               | 9           | A red Apricorn. It assails your nostrils.                                                                                                                          |
-| 458     | 17               | 11          | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 17               | 12          | 红色的球果。
-有种刺鼻的气味。                                                                                                                                                    |
-| 458     | 18               | 1           | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 18               | 3           | 빨간색의 규토리.
-코를 톡 쏘는 향기가 난다.                                                                                                                                          |
-| 458     | 18               | 4           | 紅色的球果。
-有種刺鼻的氣味。                                                                                                                                                    |
-| 458     | 18               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 18               | 6           | Eine rote Aprikoko. Besitzt einen stechenden
-Geruch.                                                                                                               |
-| 458     | 18               | 7           | Bonguri de color rojo y aroma muy penetrante.                                                                                                                      |
-| 458     | 18               | 8           | Una Ghicocca di colore rosso.
-Emana un odore molto forte.                                                                                                          |
-| 458     | 18               | 9           | A red Apricorn. It assails your nostrils.                                                                                                                          |
-| 458     | 18               | 11          | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 18               | 12          | 红色的球果。
-有种刺鼻的气味。                                                                                                                                                    |
-| 458     | 19               | 1           | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 19               | 3           | 빨간색의 규토리.
-코를 톡 쏘는 향기가 난다.                                                                                                                                          |
-| 458     | 19               | 4           | 紅色的球果。
-有種刺鼻的氣味。                                                                                                                                                    |
-| 458     | 19               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 19               | 6           | Eine rote Aprikoko. Besitzt einen stechenden
-Geruch.                                                                                                               |
-| 458     | 19               | 7           | Bonguri de color rojo y aroma muy penetrante.                                                                                                                      |
-| 458     | 19               | 8           | Una Ghicocca di colore rosso.
-Emana un odore molto forte.                                                                                                          |
-| 458     | 19               | 9           | A red Apricorn. It assails your nostrils.                                                                                                                          |
-| 458     | 19               | 11          | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。
-                                                                                                                                      |
-| 458     | 19               | 12          | 红色的球果。
-有种刺鼻的气味。                                                                                                                                                    |
-| 458     | 20               | 1           | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。                                                                                                                                       |
-| 458     | 20               | 3           | 빨간색의 규토리.
-코를 톡 쏘는 향기가 난다.                                                                                                                                          |
-| 458     | 20               | 4           | 紅色的球果。
-有種刺鼻的氣味。                                                                                                                                                    |
-| 458     | 20               | 5           | Un Noigrume de couleur rouge.
-Il dégage un puissant arôme.                                                                                                         |
-| 458     | 20               | 6           | Eine rote Aprikoko. Besitzt einen stechenden Geruch.                                                                                                               |
-| 458     | 20               | 7           | Bonguri de color rojo y aroma muy penetrante.                                                                                                                      |
-| 458     | 20               | 8           | Una Ghicocca di colore rosso.
-Emana un odore molto forte.                                                                                                          |
-| 458     | 20               | 9           | A red Apricorn. It assails your nostrils.                                                                                                                          |
-| 458     | 20               | 11          | あかい　ぼんぐり。
-つーんと　はなにくる　においがする。                                                                                                                                       |
-| 458     | 20               | 12          | 红色的球果。
-有种刺鼻的气味。                                                                                                                                                    |
-| 459     | 10               | 9           | A blue Apricorn.
-It smells a bit like grass.                                                                                                                       |
-| 459     | 11               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 11               | 9           | A blue Apricorn.
-It smells a bit like grass.                                                                                                                       |
-| 459     | 14               | 9           | A blue Apricorn.
-It smells a bit like grass.                                                                                                                       |
-| 459     | 15               | 1           | あおい　ぼんぐり。
-すこし　あおくさい　かおりがする。
-                                                                                                                                       |
-| 459     | 15               | 3           | 파란색의 규토리.
-약간 풋내가 난다.                                                                                                                                               |
-| 459     | 15               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 15               | 6           | Eine blaue Aprikoko.
-Ein frischer Geruch geht von ihr aus.                                                                                                         |
-| 459     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias.                                                                                                      |
-| 459     | 15               | 8           | Una Ghicocca di colore blu.
-Emana un odore un po’ acre.                                                                                                            |
-| 459     | 15               | 9           | A blue Apricorn.
-It smells a bit like grass.                                                                                                                       |
-| 459     | 15               | 11          | あおい　ぼんぐり。
-少し　あおくさい　かおりがする。
-                                                                                                                                        |
-| 459     | 17               | 1           | あおい　ぼんぐり。
-すこし　あおくさい　かおりがする。
-                                                                                                                                       |
-| 459     | 17               | 3           | 파란색의 규토리.
-약간 풋내가 난다.                                                                                                                                               |
-| 459     | 17               | 4           | 藍色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 17               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 17               | 6           | Eine blaue Aprikoko. Ein frischer Geruch geht von
-ihr aus.                                                                                                         |
-| 459     | 17               | 7           | Bonguri de color azul y aroma tierno.                                                                                                                              |
-| 459     | 17               | 8           | Una Ghicocca di colore blu.
-Emana un odore un po’ acre.                                                                                                            |
-| 459     | 17               | 9           | A blue Apricorn. It smells a bit like grass.                                                                                                                       |
-| 459     | 17               | 11          | あおい　ぼんぐり。
-少し　あおくさい　かおりがする。
-                                                                                                                                        |
-| 459     | 17               | 12          | 蓝色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 18               | 1           | あおい　ぼんぐり。
-すこし　あおくさい　かおりがする。
-                                                                                                                                       |
-| 459     | 18               | 3           | 파란색의 규토리.
-약간 풋내가 난다.                                                                                                                                               |
-| 459     | 18               | 4           | 藍色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 18               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 18               | 6           | Eine blaue Aprikoko. Ein frischer Geruch geht von
-ihr aus.                                                                                                         |
-| 459     | 18               | 7           | Bonguri de color azul y aroma tierno.                                                                                                                              |
-| 459     | 18               | 8           | Una Ghicocca di colore blu.
-Emana un odore un po’ acre.                                                                                                            |
-| 459     | 18               | 9           | A blue Apricorn. It smells a bit like grass.                                                                                                                       |
-| 459     | 18               | 11          | あおい　ぼんぐり。
-少し　あおくさい　かおりがする。
-                                                                                                                                        |
-| 459     | 18               | 12          | 蓝色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 19               | 1           | あおい　ぼんぐり。
-すこし　あおくさい　かおりがする。
-                                                                                                                                       |
-| 459     | 19               | 3           | 파란색의 규토리.
-약간 풋내가 난다.                                                                                                                                               |
-| 459     | 19               | 4           | 藍色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 19               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 19               | 6           | Eine blaue Aprikoko. Ein frischer Geruch geht von
-ihr aus.                                                                                                         |
-| 459     | 19               | 7           | Bonguri de color azul y aroma tierno.                                                                                                                              |
-| 459     | 19               | 8           | Una Ghicocca di colore blu.
-Emana un odore un po’ acre.                                                                                                            |
-| 459     | 19               | 9           | A blue Apricorn. It smells a bit like grass.                                                                                                                       |
-| 459     | 19               | 11          | あおい　ぼんぐり。
-少し　あおくさい　かおりがする。
-                                                                                                                                        |
-| 459     | 19               | 12          | 蓝色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 20               | 1           | あおい　ぼんぐり。
-すこし　あおくさい　かおりがする。                                                                                                                                        |
-| 459     | 20               | 3           | 파란색의 규토리.
-약간 풋내가 난다.                                                                                                                                               |
-| 459     | 20               | 4           | 藍色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 459     | 20               | 5           | Un Noigrume de couleur bleue.
-Il dégage un arôme un peu aigre.                                                                                                     |
-| 459     | 20               | 6           | Eine blaue Aprikoko. Ein frischer Geruch geht von
-ihr aus.                                                                                                         |
-| 459     | 20               | 7           | Bonguri de color azul y aroma tierno.                                                                                                                              |
-| 459     | 20               | 8           | Una Ghicocca di colore blu.
-Emana un odore un po’ acre.                                                                                                            |
-| 459     | 20               | 9           | A blue Apricorn. It smells a bit like grass.                                                                                                                       |
-| 459     | 20               | 11          | あおい　ぼんぐり。
-少し　あおくさい　かおりがする。                                                                                                                                         |
-| 459     | 20               | 12          | 蓝色的球果。
-略有一股青草的香味。                                                                                                                                                  |
-| 460     | 10               | 9           | A yellow Apricorn.
-It has an invigorating scent.                                                                                                                   |
-| 460     | 11               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 11               | 9           | A yellow Apricorn.
-It has an invigorating scent.                                                                                                                   |
-| 460     | 14               | 9           | A yellow Apricorn.
-It has an invigorating scent.                                                                                                                   |
-| 460     | 15               | 1           | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 15               | 3           | 노란색의 규토리.
-산뜻한 향기가 난다.                                                                                                                                              |
-| 460     | 15               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 15               | 6           | Eine gelbe Aprikoko.
-Sie riecht ein wenig unreif.                                                                                                                  |
-| 460     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar.                                                                        |
-| 460     | 15               | 8           | Una Ghicocca di colore giallo.
-Emana un profumo delicato.                                                                                                          |
-| 460     | 15               | 9           | A yellow Apricorn.
-It has an invigorating scent.                                                                                                                   |
-| 460     | 15               | 11          | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 17               | 1           | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 17               | 3           | 노란색의 규토리.
-산뜻한 향기가 난다.                                                                                                                                              |
-| 460     | 17               | 4           | 黃色的球果。
-有種清爽的香味。                                                                                                                                                    |
-| 460     | 17               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 17               | 6           | Eine gelbe Aprikoko. Sie riecht ein wenig unreif.                                                                                                                  |
-| 460     | 17               | 7           | Bonguri de color amarillo y aroma refrescante.                                                                                                                     |
-| 460     | 17               | 8           | Una Ghicocca di colore giallo.
-Emana un profumo delicato.                                                                                                          |
-| 460     | 17               | 9           | A yellow Apricorn. It has an invigorating scent.                                                                                                                   |
-| 460     | 17               | 11          | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 17               | 12          | 黄色的球果。
-有种清爽的香味。                                                                                                                                                    |
-| 460     | 18               | 1           | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 18               | 3           | 노란색의 규토리.
-산뜻한 향기가 난다.                                                                                                                                              |
-| 460     | 18               | 4           | 黃色的球果。
-有種清爽的香味。                                                                                                                                                    |
-| 460     | 18               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 18               | 6           | Eine gelbe Aprikoko. Sie riecht ein wenig unreif.                                                                                                                  |
-| 460     | 18               | 7           | Bonguri de color amarillo y aroma refrescante.                                                                                                                     |
-| 460     | 18               | 8           | Una Ghicocca di colore giallo.
-Emana un profumo delicato.                                                                                                          |
-| 460     | 18               | 9           | A yellow Apricorn. It has an invigorating scent.                                                                                                                   |
-| 460     | 18               | 11          | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 18               | 12          | 黄色的球果。
-有种清爽的香味。                                                                                                                                                    |
-| 460     | 19               | 1           | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 19               | 3           | 노란색의 규토리.
-산뜻한 향기가 난다.                                                                                                                                              |
-| 460     | 19               | 4           | 黃色的球果。
-有種清爽的香味。                                                                                                                                                    |
-| 460     | 19               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 19               | 6           | Eine gelbe Aprikoko. Sie riecht ein wenig unreif.                                                                                                                  |
-| 460     | 19               | 7           | Bonguri de color amarillo y aroma refrescante.                                                                                                                     |
-| 460     | 19               | 8           | Una Ghicocca di colore giallo.
-Emana un profumo delicato.                                                                                                          |
-| 460     | 19               | 9           | A yellow Apricorn. It has an invigorating scent.                                                                                                                   |
-| 460     | 19               | 11          | きいろの　ぼんぐり。
-さわやかな　かおりが　する。
-                                                                                                                                         |
-| 460     | 19               | 12          | 黄色的球果。
-有种清爽的香味。                                                                                                                                                    |
-| 460     | 20               | 1           | きいろの　ぼんぐり。
-さわやかな　かおりが　する。                                                                                                                                          |
-| 460     | 20               | 3           | 노란색의 규토리.
-산뜻한 향기가 난다.                                                                                                                                              |
-| 460     | 20               | 4           | 黃色的球果。
-有種清爽的香味。                                                                                                                                                    |
-| 460     | 20               | 5           | Un Noigrume de couleur jaune.
-Il dégage un arôme délicat.                                                                                                          |
-| 460     | 20               | 6           | Eine gelbe Aprikoko. Sie riecht ein wenig unreif.                                                                                                                  |
-| 460     | 20               | 7           | Bonguri de color amarillo y aroma refrescante.                                                                                                                     |
-| 460     | 20               | 8           | Una Ghicocca di colore giallo.
-Emana un profumo delicato.                                                                                                          |
-| 460     | 20               | 9           | A yellow Apricorn. It has an invigorating scent.                                                                                                                   |
-| 460     | 20               | 11          | きいろの　ぼんぐり。
-さわやかな　かおりが　する。                                                                                                                                          |
-| 460     | 20               | 12          | 黄色的球果。
-有种清爽的香味。                                                                                                                                                    |
-| 461     | 10               | 9           | A green Apricorn.
-It has a mysterious, aromatic scent.                                                                                                             |
-| 461     | 11               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 11               | 9           | A green Apricorn.
-It has a mysterious, aromatic scent.                                                                                                             |
-| 461     | 14               | 9           | A green Apricorn.
-It has a mysterious, aromatic scent.                                                                                                             |
-| 461     | 15               | 1           | みどりの　ぼんぐり。
-ふしぎと　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 15               | 3           | 초록색의 규토리.
-이상하게도 고소한 향기가 난다.                                                                                                                                        |
-| 461     | 15               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 15               | 6           | Eine grüne Aprikoko.
-Sie verströmt einen seltsam aromatischen Duft.                                                                                                |
-| 461     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de sprints de los Pokémon.                                                                                         |
-| 461     | 15               | 8           | Una Ghicocca di colore verde.
-Emana un profumo intenso.                                                                                                            |
-| 461     | 15               | 9           | A green Apricorn.
-It has a mysterious, aromatic scent.                                                                                                             |
-| 461     | 15               | 11          | みどりの　ぼんぐり。
-不思議と　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 17               | 1           | みどりの　ぼんぐり。
-ふしぎと　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 17               | 3           | 초록색의 규토리.
-이상하게도 고소한 향기가 난다.                                                                                                                                        |
-| 461     | 17               | 4           | 綠色的球果。
-有種焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 17               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 17               | 6           | Eine grüne Aprikoko. Sie verströmt einen seltsam
-aromatischen Duft.                                                                                                |
-| 461     | 17               | 7           | Bonguri de color verde y aroma peculiar que
-recuerda al café tostado.                                                                                              |
-| 461     | 17               | 8           | Una Ghicocca di colore verde.
-Emana un profumo intenso.                                                                                                            |
-| 461     | 17               | 9           | A green Apricorn. It has a mysterious,
-aromatic scent.                                                                                                             |
-| 461     | 17               | 11          | みどりの　ぼんぐり。
-不思議と　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 17               | 12          | 绿色的球果。
-有种焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 18               | 1           | みどりの　ぼんぐり。
-ふしぎと　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 18               | 3           | 초록색의 규토리.
-이상하게도 고소한 향기가 난다.                                                                                                                                        |
-| 461     | 18               | 4           | 綠色的球果。
-有種焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 18               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 18               | 6           | Eine grüne Aprikoko. Sie verströmt einen seltsam
-aromatischen Duft.                                                                                                |
-| 461     | 18               | 7           | Bonguri de color verde y aroma peculiar que
-recuerda al café tostado.                                                                                              |
-| 461     | 18               | 8           | Una Ghicocca di colore verde.
-Emana un profumo intenso.                                                                                                            |
-| 461     | 18               | 9           | A green Apricorn. It has a mysterious,
-aromatic scent.                                                                                                             |
-| 461     | 18               | 11          | みどりの　ぼんぐり。
-不思議と　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 18               | 12          | 绿色的球果。
-有种焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 19               | 1           | みどりの　ぼんぐり。
-ふしぎと　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 19               | 3           | 초록색의 규토리.
-이상하게도 고소한 향기가 난다.                                                                                                                                        |
-| 461     | 19               | 4           | 綠色的球果。
-有種焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 19               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 19               | 6           | Eine grüne Aprikoko. Sie verströmt einen seltsam
-aromatischen Duft.                                                                                                |
-| 461     | 19               | 7           | Bonguri de color verde y aroma peculiar que recuerda
-al café tostado.                                                                                              |
-| 461     | 19               | 8           | Una Ghicocca di colore verde.
-Emana un profumo intenso.                                                                                                            |
-| 461     | 19               | 9           | A green Apricorn. It has a mysterious,
-aromatic scent.                                                                                                             |
-| 461     | 19               | 11          | みどりの　ぼんぐり。
-不思議と　こうばしい　かおりがする。
-                                                                                                                                     |
-| 461     | 19               | 12          | 绿色的球果。
-有种焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 20               | 1           | みどりの　ぼんぐり。
-ふしぎと　こうばしい　かおりがする。                                                                                                                                      |
-| 461     | 20               | 3           | 초록색의 규토리.
-이상하게도 고소한 향기가 난다.                                                                                                                                        |
-| 461     | 20               | 4           | 綠色的球果。
-有種焦香的香味，非常神奇。                                                                                                                                               |
-| 461     | 20               | 5           | Un Noigrume de couleur verte.
-Il dégage un arôme étonnamment riche.                                                                                                |
-| 461     | 20               | 6           | Eine grüne Aprikoko. Sie verströmt einen seltsam
-aromatischen Duft.                                                                                                |
-| 461     | 20               | 7           | Bonguri de color verde y aroma peculiar que recuerda
-al café tostado.                                                                                              |
-| 461     | 20               | 8           | Una Ghicocca di colore verde.
-Emana un profumo intenso.                                                                                                            |
-| 461     | 20               | 9           | A green Apricorn. It has a mysterious,
-aromatic scent.                                                                                                             |
-| 461     | 20               | 11          | みどりの　ぼんぐり。
-不思議と　こうばしい　かおりがする。                                                                                                                                      |
-| 461     | 20               | 12          | 绿色的球果。
-有种焦香的香味，非常神奇。                                                                                                                                               |
-| 462     | 10               | 9           | A pink Apricorn.
-It has a nice, sweet scent.                                                                                                                       |
-| 462     | 11               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 11               | 9           | A pink Apricorn.
-It has a nice, sweet scent.                                                                                                                       |
-| 462     | 14               | 9           | A pink Apricorn.
-It has a nice, sweet scent.                                                                                                                       |
-| 462     | 15               | 1           | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 15               | 3           | 담홍색의 규토리.
-달콤한 듯한 좋은 향기가 난다.                                                                                                                                        |
-| 462     | 15               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 15               | 6           | Eine pinkfarbene Aprikoko.
-Sie duftet süß und appetitanregend.                                                                                                     |
-| 462     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de saltos de los Pokémon.                                                                                          |
-| 462     | 15               | 8           | Una Ghicocca di colore rosa.
-Emana un profumo dolce.                                                                                                               |
-| 462     | 15               | 9           | A pink Apricorn.
-It has a nice, sweet scent.                                                                                                                       |
-| 462     | 15               | 11          | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 17               | 1           | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 17               | 3           | 담홍색의 규토리.
-달콤한 듯한 좋은 향기가 난다.                                                                                                                                        |
-| 462     | 17               | 4           | 粉紅色的球果。
-有種甜甜的，好聞的香味。                                                                                                                                               |
-| 462     | 17               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 17               | 6           | Eine pinkfarbene Aprikoko. Sie duftet süß und
-appetitanregend.                                                                                                     |
-| 462     | 17               | 7           | Bonguri de color rosa y aroma dulce.                                                                                                                               |
-| 462     | 17               | 8           | Una Ghicocca di colore rosa.
-Emana un profumo dolce.                                                                                                               |
-| 462     | 17               | 9           | A pink Apricorn. It has a nice, sweet scent.                                                                                                                       |
-| 462     | 17               | 11          | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 17               | 12          | 粉红色的球果。
-有种甜甜的，好闻的香味。                                                                                                                                               |
-| 462     | 18               | 1           | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 18               | 3           | 담홍색의 규토리.
-달콤한 듯한 좋은 향기가 난다.                                                                                                                                        |
-| 462     | 18               | 4           | 粉紅色的球果。
-有種甜甜的，好聞的香味。                                                                                                                                               |
-| 462     | 18               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 18               | 6           | Eine pinkfarbene Aprikoko. Sie duftet süß und
-appetitanregend.                                                                                                     |
-| 462     | 18               | 7           | Bonguri de color rosa y aroma dulce.                                                                                                                               |
-| 462     | 18               | 8           | Una Ghicocca di colore rosa.
-Emana un profumo dolce.                                                                                                               |
-| 462     | 18               | 9           | A pink Apricorn. It has a nice, sweet scent.                                                                                                                       |
-| 462     | 18               | 11          | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 18               | 12          | 粉红色的球果。
-有种甜甜的，好闻的香味。                                                                                                                                               |
-| 462     | 19               | 1           | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 19               | 3           | 담홍색의 규토리.
-달콤한 듯한 좋은 향기가 난다.                                                                                                                                        |
-| 462     | 19               | 4           | 粉紅色的球果。
-有種甜甜的，好聞的香味。                                                                                                                                               |
-| 462     | 19               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 19               | 6           | Eine pinkfarbene Aprikoko. Sie duftet süß und
-appetitanregend.                                                                                                     |
-| 462     | 19               | 7           | Bonguri de color rosa y aroma dulce.                                                                                                                               |
-| 462     | 19               | 8           | Una Ghicocca di colore rosa.
-Emana un profumo dolce.                                                                                                               |
-| 462     | 19               | 9           | A pink Apricorn. It has a nice, sweet scent.                                                                                                                       |
-| 462     | 19               | 11          | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。
-                                                                                                                                      |
-| 462     | 19               | 12          | 粉红色的球果。
-有种甜甜的，好闻的香味。                                                                                                                                               |
-| 462     | 20               | 1           | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。                                                                                                                                       |
-| 462     | 20               | 3           | 담홍색의 규토리.
-달콤한 듯한 좋은 향기가 난다.                                                                                                                                        |
-| 462     | 20               | 4           | 粉紅色的球果。
-有種甜甜的，好聞的香味。                                                                                                                                               |
-| 462     | 20               | 5           | Un Noigrume de couleur rose.
-Il dégage un arôme sucré.                                                                                                             |
-| 462     | 20               | 6           | Eine pinkfarbene Aprikoko. Sie duftet süß und
-appetitanregend.                                                                                                     |
-| 462     | 20               | 7           | Bonguri de color rosa y aroma dulce.                                                                                                                               |
-| 462     | 20               | 8           | Una Ghicocca di colore rosa.
-Emana un profumo dolce.                                                                                                               |
-| 462     | 20               | 9           | A pink Apricorn. It has a nice, sweet scent.                                                                                                                       |
-| 462     | 20               | 11          | ももいろの　ぼんぐり。
-あまそうな　いい　においがする。                                                                                                                                       |
-| 462     | 20               | 12          | 粉红色的球果。
-有种甜甜的，好闻的香味。                                                                                                                                               |
-| 463     | 10               | 9           | A white Apricorn.
-It doesn’t smell like anything.                                                                                                                  |
-| 463     | 11               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 11               | 9           | A white Apricorn.
-It doesn’t smell like anything.                                                                                                                  |
-| 463     | 14               | 9           | A white Apricorn.
-It doesn’t smell like anything.                                                                                                                  |
-| 463     | 15               | 1           | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 15               | 3           | 하얀색의 규토리.
-어떠한 향기도 나지 않는다.                                                                                                                                          |
-| 463     | 15               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 15               | 6           | Eine weiße Aprikoko.
-Riecht nach überhaupt nichts.                                                                                                                 |
-| 463     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Saltaobstáculos.                                                                                   |
-| 463     | 15               | 8           | Una Ghicocca di colore bianco.
-Non emana alcun odore.                                                                                                              |
-| 463     | 15               | 9           | A white Apricorn.
-It doesn’t smell like anything.                                                                                                                  |
-| 463     | 15               | 11          | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 17               | 1           | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 17               | 3           | 하얀색의 규토리.
-어떠한 향기도 나지 않는다.                                                                                                                                          |
-| 463     | 17               | 4           | 白色的球果。
-沒有任何氣味。                                                                                                                                                     |
-| 463     | 17               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 17               | 6           | Eine weiße Aprikoko. Riecht nach überhaupt nichts.                                                                                                                 |
-| 463     | 17               | 7           | Bonguri de color blanco que no desprende aroma
-alguno.                                                                                                             |
-| 463     | 17               | 8           | Una Ghicocca di colore bianco.
-Non emana alcun odore.                                                                                                              |
-| 463     | 17               | 9           | A white Apricorn. It doesn’t smell like anything.                                                                                                                  |
-| 463     | 17               | 11          | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 17               | 12          | 白色的球果。
-没有任何气味。                                                                                                                                                     |
-| 463     | 18               | 1           | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 18               | 3           | 하얀색의 규토리.
-어떠한 향기도 나지 않는다.                                                                                                                                          |
-| 463     | 18               | 4           | 白色的球果。
-沒有任何氣味。                                                                                                                                                     |
-| 463     | 18               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 18               | 6           | Eine weiße Aprikoko. Riecht nach überhaupt nichts.                                                                                                                 |
-| 463     | 18               | 7           | Bonguri de color blanco que no desprende aroma
-alguno.                                                                                                             |
-| 463     | 18               | 8           | Una Ghicocca di colore bianco.
-Non emana alcun odore.                                                                                                              |
-| 463     | 18               | 9           | A white Apricorn. It doesn’t smell like anything.                                                                                                                  |
-| 463     | 18               | 11          | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 18               | 12          | 白色的球果。
-没有任何气味。                                                                                                                                                     |
-| 463     | 19               | 1           | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 19               | 3           | 하얀색의 규토리.
-어떠한 향기도 나지 않는다.                                                                                                                                          |
-| 463     | 19               | 4           | 白色的球果。
-沒有任何氣味。                                                                                                                                                     |
-| 463     | 19               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 19               | 6           | Eine weiße Aprikoko. Riecht nach überhaupt nichts.                                                                                                                 |
-| 463     | 19               | 7           | Bonguri de color blanco que no desprende aroma
-alguno.                                                                                                             |
-| 463     | 19               | 8           | Una Ghicocca di colore bianco.
-Non emana alcun odore.                                                                                                              |
-| 463     | 19               | 9           | A white Apricorn. It doesn’t smell like anything.                                                                                                                  |
-| 463     | 19               | 11          | しろい　ぼんぐり。
-なんの　においも　しない。
-                                                                                                                                           |
-| 463     | 19               | 12          | 白色的球果。
-没有任何气味。                                                                                                                                                     |
-| 463     | 20               | 1           | しろい　ぼんぐり。
-なんの　においも　しない。                                                                                                                                            |
-| 463     | 20               | 3           | 하얀색의 규토리.
-어떠한 향기도 나지 않는다.                                                                                                                                          |
-| 463     | 20               | 4           | 白色的球果。
-沒有任何氣味。                                                                                                                                                     |
-| 463     | 20               | 5           | Un Noigrume de couleur blanche.
-Il ne dégage aucun arôme.                                                                                                          |
-| 463     | 20               | 6           | Eine weiße Aprikoko. Riecht nach überhaupt nichts.                                                                                                                 |
-| 463     | 20               | 7           | Bonguri de color blanco que no desprende aroma
-alguno.                                                                                                             |
-| 463     | 20               | 8           | Una Ghicocca di colore bianco.
-Non emana alcun odore.                                                                                                              |
-| 463     | 20               | 9           | A white Apricorn. It doesn’t smell like anything.                                                                                                                  |
-| 463     | 20               | 11          | しろい　ぼんぐり。
-なんの　においも　しない。                                                                                                                                            |
-| 463     | 20               | 12          | 白色的球果。
-没有任何气味。                                                                                                                                                     |
-| 464     | 10               | 9           | A black Apricorn
-It has an indescribable scent.                                                                                                                    |
-| 464     | 11               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 11               | 9           | A black Apricorn
-It has an indescribable scent.                                                                                                                    |
-| 464     | 14               | 9           | A black Apricorn
-It has an indescribable scent.                                                                                                                    |
-| 464     | 15               | 1           | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 15               | 3           | 검은색의 규토리.
-말로는 표현할 수 없는 향기가 난다.                                                                                                                                     |
-| 464     | 15               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 15               | 6           | Eine schwarze Aprikoko.
-Sie riecht irgendwie unbeschreiblich.                                                                                                      |
-| 464     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Carrera de Relevos.                                                                                |
-| 464     | 15               | 8           | Una Ghicocca di colore nero.
-Emana un odore indefinibile.                                                                                                          |
-| 464     | 15               | 9           | A black Apricorn.
-It has a scent beyond one’s experience.                                                                                                          |
-| 464     | 15               | 11          | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 17               | 1           | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 17               | 3           | 검은색의 규토리.
-말로는 표현할 수 없는 향기가 난다.                                                                                                                                     |
-| 464     | 17               | 4           | 黑色的球果。
-有種無法形容的氣味。                                                                                                                                                  |
-| 464     | 17               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 17               | 6           | Eine schwarze Aprikoko. Sie riecht irgendwie
-unbeschreiblich.                                                                                                      |
-| 464     | 17               | 7           | Bonguri de color negro y aroma indescriptible.                                                                                                                     |
-| 464     | 17               | 8           | Una Ghicocca di colore nero.
-Emana un odore indefinibile.                                                                                                          |
-| 464     | 17               | 9           | A black Apricorn. It has a scent beyond
-one’s experience.                                                                                                          |
-| 464     | 17               | 11          | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 17               | 12          | 黑色的球果。
-有种无法形容的气味。                                                                                                                                                  |
-| 464     | 18               | 1           | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 18               | 3           | 검은색의 규토리.
-말로는 표현할 수 없는 향기가 난다.                                                                                                                                     |
-| 464     | 18               | 4           | 黑色的球果。
-有種無法形容的氣味。                                                                                                                                                  |
-| 464     | 18               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 18               | 6           | Eine schwarze Aprikoko. Sie riecht irgendwie
-unbeschreiblich.                                                                                                      |
-| 464     | 18               | 7           | Bonguri de color negro y aroma indescriptible.                                                                                                                     |
-| 464     | 18               | 8           | Una Ghicocca di colore nero.
-Emana un odore indefinibile.                                                                                                          |
-| 464     | 18               | 9           | A black Apricorn. It has a scent beyond
-one’s experience.                                                                                                          |
-| 464     | 18               | 11          | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 18               | 12          | 黑色的球果。
-有种无法形容的气味。                                                                                                                                                  |
-| 464     | 19               | 1           | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 19               | 3           | 검은색의 규토리.
-말로는 표현할 수 없는 향기가 난다.                                                                                                                                     |
-| 464     | 19               | 4           | 黑色的球果。
-有種無法形容的氣味。                                                                                                                                                  |
-| 464     | 19               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 19               | 6           | Eine schwarze Aprikoko. Sie riecht irgendwie
-unbeschreiblich.                                                                                                      |
-| 464     | 19               | 7           | Bonguri de color negro y aroma indescriptible.                                                                                                                     |
-| 464     | 19               | 8           | Una Ghicocca di colore nero.
-Emana un odore indefinibile.                                                                                                          |
-| 464     | 19               | 9           | A black Apricorn. It has a scent beyond
-one’s experience.                                                                                                          |
-| 464     | 19               | 11          | くろい　ぼんぐり。
-なんともいえない　においがする。
-                                                                                                                                        |
-| 464     | 19               | 12          | 黑色的球果。
-有种无法形容的气味。                                                                                                                                                  |
-| 464     | 20               | 1           | くろい　ぼんぐり。
-なんともいえない　においがする。                                                                                                                                         |
-| 464     | 20               | 3           | 검은색의 규토리.
-말로는 표현할 수 없는 향기가 난다.                                                                                                                                     |
-| 464     | 20               | 4           | 黑色的球果。
-有種無法形容的氣味。                                                                                                                                                  |
-| 464     | 20               | 5           | Un Noigrume de couleur noire.
-Il dégage un arôme indéfinissable.                                                                                                   |
-| 464     | 20               | 6           | Eine schwarze Aprikoko. Sie riecht irgendwie
-unbeschreiblich.                                                                                                      |
-| 464     | 20               | 7           | Bonguri de color negro y aroma indescriptible.                                                                                                                     |
-| 464     | 20               | 8           | Una Ghicocca di colore nero.
-Emana un odore indefinibile.                                                                                                          |
-| 464     | 20               | 9           | A black Apricorn. It has a scent beyond
-one’s experience.                                                                                                          |
-| 464     | 20               | 11          | くろい　ぼんぐり。
-なんともいえない　においがする。                                                                                                                                         |
-| 464     | 20               | 12          | 黑色的球果。
-有种无法形容的气味。                                                                                                                                                  |
-| 465     | 5                | 9           | A device that
-signals an invisible
-item by sound.                                                                                                                  |
-| 465     | 6                | 9           | A device that
-signals an invisible
-item by sound.                                                                                                                  |
-| 465     | 7                | 9           | A device used for finding items.
-If there is a hidden item nearby
-when it is used, it emits a signal.                                                              |
-| 465     | 10               | 9           | It checks for unseen items in the area
-and makes noise and lights when it
-finds something.                                                                         |
-| 465     | 11               | 5           | Un appareil high-tech qui indique
-l’emplacement des objets invisibles
-en émettant un son et en clignotant.                                                         |
-| 465     | 11               | 9           | It checks for unseen items in the area
-and makes noise and lights when it
-finds something.                                                                         |
-| 465     | 14               | 9           | It checks for unseen items in the area
-and makes noise and lights when it
-finds something.                                                                         |
-| 465     | 15               | 1           | みえない　どうぐに　はんのうして
-おとと　ひかりで　おしえてくれる
-さいしんの　きかい。                                                                                                                       |
-| 465     | 15               | 3           | 보이지 않는 도구에 반응해서
-소리와 빛으로 가르쳐주는
-최신 기계.                                                                                                                               |
-| 465     | 15               | 5           | Un appareil high-tech qui indique l’emplacement
-des objets invisibles en émettant un son et en
-clignotant.                                                         |
-| 465     | 15               | 6           | Scannt die Umgebung nach unsichtbaren Items.
-Es blinkt und piept, sobald es etwas findet.                                                                          |
-| 465     | 15               | 7           | Bonguri de color blanco que no desprende aroma
-alguno.                                                                                                             |
-| 465     | 15               | 8           | Dispositivo ultramoderno che indica la direzione
-in cui si trovano gli strumenti invisibili
-emettendo dei suoni.                                                   |
-| 465     | 15               | 9           | It searches for hidden items in the
-area and emits different lights and
-sounds when it detects something.                                                          |
-| 465     | 15               | 11          | みえない　道具に　反応して
-音と　光で　教えてくれる
-最新の　機械。                                                                                                                                 |
-| 465     | 17               | 1           | みえない　どうぐに　はんのうして
-ばしょを　おしえてくれる　さいしんの
-きかい。あたまに　つけて　つかう。                                                                                                              |
-| 465     | 17               | 3           | 보이지 않는 도구에 반응해서
-장소를 가르쳐주는 최신 기계.
-머리에 쓰고 사용한다.                                                                                                                      |
-| 465     | 17               | 4           | 會對看不見的道具起反應，
-並將它的位置告訴你的最尖端機器。
-戴在頭上使用。                                                                                                                              |
-| 465     | 17               | 5           | Un appareil high-tech qui indique l’emplacement
-des objets invisibles. Il se porte sur la tête.                                                                    |
-| 465     | 17               | 6           | Scannt die Umgebung nach unsichtbaren Items und
-zeigt an, wo diese sich befinden. Es wird auf dem
-Kopf getragen.                                                   |
-| 465     | 17               | 7           | Aparato de precisión que reacciona ante objetos
-que no se ven. Para usarlo, es necesario
-colocárselo en la cabeza.                                                 |
-| 465     | 17               | 8           | Dispositivo ultramoderno che rileva la presenza
-di strumenti non visibili a occhio nudo.
-Si indossa sulla testa.                                                   |
-| 465     | 17               | 9           | This high-tech machine shows the location of
-invisible items. It’s attached to the head when
-in use.                                                               |
-| 465     | 17               | 11          | みえない　道具に　反応して
-場所を　教えてくれる　最新の　機械。
-頭に　つけて　使う。                                                                                                                        |
-| 465     | 17               | 12          | 会对看不见的道具起反应，
-并将它的位置告诉你的最尖端机器。
-戴在头上使用。                                                                                                                              |
-| 465     | 18               | 1           | みえない　どうぐに　はんのうして
-ばしょを　おしえてくれる　さいしんの
-きかい。あたまに　つけて　つかう。                                                                                                              |
-| 465     | 18               | 3           | 보이지 않는 도구에 반응해서
-장소를 가르쳐주는 최신 기계.
-머리에 쓰고 사용한다.                                                                                                                      |
-| 465     | 18               | 4           | 會對看不見的道具起反應，
-並將它的位置告訴你的最尖端機器。
-戴在頭上使用。                                                                                                                              |
-| 465     | 18               | 5           | Un appareil high-tech qui indique l’emplacement
-des objets invisibles. Il se porte sur la tête.                                                                    |
-| 465     | 18               | 6           | Scannt die Umgebung nach unsichtbaren Items und
-zeigt an, wo diese sich befinden. Es wird auf dem
-Kopf getragen.                                                   |
-| 465     | 18               | 7           | Aparato de precisión que reacciona ante objetos
-que no se ven. Para usarlo, es necesario
-colocárselo en la cabeza.                                                 |
-| 465     | 18               | 8           | Dispositivo ultramoderno che rileva la presenza
-di strumenti non visibili a occhio nudo.
-Si indossa sulla testa.                                                   |
-| 465     | 18               | 9           | This high-tech machine shows the location of
-invisible items. It’s attached to the head when
-in use.                                                               |
-| 465     | 18               | 11          | みえない　道具に　反応して
-場所を　教えてくれる　最新の　機械。
-頭に　つけて　使う。                                                                                                                        |
-| 465     | 18               | 12          | 会对看不见的道具起反应，
-并将它的位置告诉你的最尖端机器。
-戴在头上使用。                                                                                                                              |
-| 465     | 19               | 1           | みえない　どうぐに　はんのうして
-ばしょを　おしえてくれる　さいしんの
-きかい。あたまに　つけて　つかう。                                                                                                              |
-| 465     | 19               | 3           | 보이지 않는 도구에 반응해서
-장소를 가르쳐주는 최신 기계.
-머리에 쓰고 사용한다.                                                                                                                      |
-| 465     | 19               | 4           | 會對看不見的道具起反應，
-並將它的位置告訴你的最尖端機器。
-戴在頭上使用。                                                                                                                              |
-| 465     | 19               | 5           | Un appareil high-tech qui indique l’emplacement
-des objets invisibles. Il se porte sur la tête.                                                                    |
-| 465     | 19               | 6           | Scannt die Umgebung nach unsichtbaren Items und
-zeigt an, wo diese sich befinden. Es wird auf dem
-Kopf getragen.                                                   |
-| 465     | 19               | 7           | Aparato de precisión que reacciona ante objetos
-que no se ven. Para usarlo, es necesario
-colocárselo en la cabeza.                                                 |
-| 465     | 19               | 8           | Dispositivo ultramoderno che rileva la presenza
-di strumenti non visibili a occhio nudo.
-Si indossa sulla testa.                                                   |
-| 465     | 19               | 9           | A high-tech machine that shows the location of
-invisible items. It’s attached to the head when
-in use.                                                             |
-| 465     | 19               | 11          | みえない　道具に　反応して
-場所を　教えてくれる　最新の　機械。
-頭に　つけて　使う。                                                                                                                        |
-| 465     | 19               | 12          | 会对看不见的道具起反应，
-并将它的位置告诉你的最尖端机器。
-戴在头上使用。                                                                                                                              |
-| 465     | 20               | 1           | みえない　どうぐに　はんのうして
-ばしょを　おしえてくれる　さいしんの
-きかい。あたまに　つけて　つかう。                                                                                                              |
-| 465     | 20               | 3           | 보이지 않는 도구에 반응해서
-장소를 가르쳐주는 최신 기계.
-머리에 쓰고 사용한다.                                                                                                                      |
-| 465     | 20               | 4           | 會對看不見的道具起反應，
-並將它的位置告訴你的最尖端機器。
-戴在頭上使用。                                                                                                                              |
-| 465     | 20               | 5           | Un appareil high-tech qui indique l’emplacement
-des objets invisibles. Il se porte sur la tête.                                                                    |
-| 465     | 20               | 6           | Scannt die Umgebung nach unsichtbaren Items und
-zeigt an, wo diese sich befinden. Es wird auf dem
-Kopf getragen.                                                   |
-| 465     | 20               | 7           | Aparato de precisión que reacciona ante objetos que no
-se ven. Para usarlo, es necesario colocárselo en la
-cabeza.                                                 |
-| 465     | 20               | 8           | Dispositivo ultramoderno che rileva la presenza
-di strumenti non visibili a occhio nudo.
-Si indossa sulla testa.                                                   |
-| 465     | 20               | 9           | A high-tech machine that shows the location of
-invisible items. It’s attached to the head when
-in use.                                                             |
-| 465     | 20               | 11          | みえない　道具に　反応して
-場所を　教えてくれる　最新の　機械。
-頭に　つけて　使う。                                                                                                                        |
-| 465     | 20               | 12          | 会对看不见的道具起反应，
-并将它的位置告诉你的最尖端机器。
-戴在头上使用。                                                                                                                              |
-| 466     | 10               | 9           | A famous candy in Mahogany Town. Many
-tourists like to buy them to take home.                                                                                      |
-| 466     | 11               | 5           | Un bonbon, spécialité d’Acajou.
-Il constitue un cadeau très réputé.                                                                                                |
-| 466     | 11               | 9           | A famous Mahogany Town candy tourists
-like to buy and take home. It restores
-the HP of one Pokémon by 20 points.                                                   |
-| 466     | 14               | 9           | A famous Mahogany Town candy tourists
-like to buy and take home. It restores
-the HP of one Pokémon by 20 points.                                                   |
-| 466     | 15               | 1           | チョウジめいぶつの　まんじゅう。
-おみやげひん　として　ゆうめい。
-                                                                                                                                 |
-| 466     | 15               | 3           | 황토마을의 명물인 호두과자.
-선물로 아주 유명하다.                                                                                                                                       |
-| 466     | 15               | 5           | Un bonbon, spécialité d’Acajou.
-Il constitue un cadeau très réputé.                                                                                                |
-| 466     | 15               | 6           | Eine Spezialität aus Mahagonia City. Sie wird gern
-als Souvenir gekauft.                                                                                           |
-| 466     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en conexión.                                                                                          |
-| 466     | 15               | 8           | Caramella tipica di Mogania.
-Souvenir dall’ottima reputazione.                                                                                                     |
-| 466     | 15               | 9           | Mahogany Town’s famous candy.
-When consumed, it restores
-20 HP to an injured Pokémon.                                                                              |
-| 466     | 15               | 11          | ジョウト地方　にある
-チョウジタウン名物の　まんじゅう。
-お土産品として　有名。                                                                                                                           |
-| 466     | 17               | 1           | チョウジめいぶつの　まんじゅう。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                                |
-| 466     | 17               | 3           | 황토마을의 명물인 호두과자.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                           |
-| 466     | 17               | 4           | 卡吉鎮特產的饅頭。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                        |
-| 466     | 17               | 5           | Un bonbon, spécialité d’Acajou.
-Soigne tous les problèmes de statut d’un Pokémon.                                                                                  |
-| 466     | 17               | 6           | Eine Spezialität aus Mahagonia City, die alle
-Statusprobleme eines Pokémon heilt.                                                                                  |
-| 466     | 17               | 7           | Caramelo típico de Pueblo Caoba. Cura todos los
-problemas de estado de un Pokémon.                                                                                 |
-| 466     | 17               | 8           | Caramella tipica di Mogania.
-Cura tutti i problemi di stato di un Pokémon.                                                                                         |
-| 466     | 17               | 9           | Mahogany Town’s famous candy. It can be used
-once to heal all the status conditions of a Pokémon.                                                                  |
-| 466     | 17               | 11          | チョウジタウン名物の　まんじゅう。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                       |
-| 466     | 17               | 12          | 卡吉镇特产的馒头。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                        |
-| 466     | 18               | 1           | チョウジめいぶつの　まんじゅう。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                                |
-| 466     | 18               | 3           | 황토마을의 명물인 호두과자.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                           |
-| 466     | 18               | 4           | 卡吉鎮特產的饅頭。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                        |
-| 466     | 18               | 5           | Un bonbon, spécialité d’Acajou.
-Soigne tous les problèmes de statut d’un Pokémon.                                                                                  |
-| 466     | 18               | 6           | Eine Spezialität aus Mahagonia City, die alle
-Statusprobleme eines Pokémon heilt.                                                                                  |
-| 466     | 18               | 7           | Caramelo típico de Pueblo Caoba. Cura todos los
-problemas de estado de un Pokémon.                                                                                 |
-| 466     | 18               | 8           | Caramella tipica di Mogania.
-Cura tutti i problemi di stato di un Pokémon.                                                                                         |
-| 466     | 18               | 9           | Mahogany Town’s famous candy. It can be used
-once to heal all the status conditions of a Pokémon.                                                                  |
-| 466     | 18               | 11          | チョウジタウン名物の　まんじゅう。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                       |
-| 466     | 18               | 12          | 卡吉镇特产的馒头。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                        |
-| 466     | 19               | 1           | チョウジめいぶつの　まんじゅう。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                                |
-| 466     | 19               | 3           | 황토마을의 명물인 호두과자.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                           |
-| 466     | 19               | 4           | 卡吉鎮特產的饅頭。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                        |
-| 466     | 19               | 5           | Un bonbon, spécialité d’Acajou.
-Soigne toutes les altérations de statut d’un Pokémon.                                                                              |
-| 466     | 19               | 6           | Eine Spezialität aus Mahagonia City, die alle
-Statusprobleme eines Pokémon heilt.                                                                                  |
-| 466     | 19               | 7           | Caramelo típico de Pueblo Caoba. Cura todos los
-problemas de estado de un Pokémon.                                                                                 |
-| 466     | 19               | 8           | Caramella tipica di Mogania.
-Cura tutti i problemi di stato di un Pokémon.                                                                                         |
-| 466     | 19               | 9           | Mahogany Town’s famous candy. It can be used
-once to heal all the status conditions of a Pokémon.                                                                  |
-| 466     | 19               | 11          | チョウジタウン名物の　まんじゅう。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                       |
-| 466     | 19               | 12          | 卡吉镇特产的馒头。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                        |
-| 466     | 20               | 1           | チョウジめいぶつの　まんじゅう。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                                |
-| 466     | 20               | 3           | 황토마을의 명물인 호두과자.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                           |
-| 466     | 20               | 4           | 卡吉鎮特產的饅頭。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                        |
-| 466     | 20               | 5           | Un bonbon, spécialité d’Acajou.
-Soigne toutes les altérations de statut d’un Pokémon.                                                                              |
-| 466     | 20               | 6           | Eine Spezialität aus Mahagonia City, die alle
-Statusprobleme eines Pokémon heilt.                                                                                  |
-| 466     | 20               | 7           | Caramelo típico de Pueblo Caoba. Cura todos los
-problemas de estado de un Pokémon.                                                                                 |
-| 466     | 20               | 8           | Caramella tipica di Mogania.
-Cura tutti i problemi di stato di un Pokémon.                                                                                         |
-| 466     | 20               | 9           | Mahogany Town’s famous candy. It can be used
-once to heal all the status conditions of a Pokémon.                                                                  |
-| 466     | 20               | 11          | チョウジタウン名物の　まんじゅう。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                       |
-| 466     | 20               | 12          | 卡吉镇特产的馒头。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                        |
-| 467     | 5                | 9           | A red, glowing orb
-said to contain an
-ancient power.                                                                                                               |
-| 467     | 6                | 9           | A red, glowing orb
-said to contain an
-ancient power.                                                                                                               |
-| 467     | 7                | 9           | An orb that glows red.
-It is said to contain an incredible
-power from ancient times.                                                                               |
-| 467     | 10               | 9           | A shiny red orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                     |
-| 467     | 11               | 5           | Un orbe incarnat dont on dit qu’il a
-un lien très étroit avec les légendes
-de Hoenn.                                                                               |
-| 467     | 11               | 9           | A shiny red orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                     |
-| 467     | 14               | 9           | A shiny red orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                     |
-| 467     | 15               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                     |
-| 467     | 15               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-빨갛게 빛나는 구슬.                                                                                                                              |
-| 467     | 15               | 5           | Un orbe incarnat dont on dit qu’il a un lien très
-étroit avec les légendes de Hoenn.                                                                               |
-| 467     | 15               | 6           | Eine rot schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                               |
-| 467     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Lucha. Debe llevarla
-un Pokémon.                                                                          |
-| 467     | 15               | 8           | Sfera con riflessi rossi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 467     | 15               | 9           | A shiny red orb that is said to have
-a legend tied to it. It’s known to have a
-deep connection with the Hoenn region.                                              |
-| 467     | 15               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                          |
-| 467     | 17               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                     |
-| 467     | 17               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-빨갛게 빛나는 구슬.                                                                                                                              |
-| 467     | 17               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著紅色光輝的寶珠。                                                                                                                                    |
-| 467     | 17               | 5           | Une gemme incarnate dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                          |
-| 467     | 17               | 6           | Ein rot schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                               |
-| 467     | 17               | 7           | Piedra carmesí de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                       |
-| 467     | 17               | 8           | Gemma con riflessi rossi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 467     | 17               | 9           | A shiny red orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                              |
-| 467     | 17               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                          |
-| 467     | 17               | 12          | 散发着红色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 467     | 18               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                     |
-| 467     | 18               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-빨갛게 빛나는 구슬.                                                                                                                              |
-| 467     | 18               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著紅色光輝的寶珠。                                                                                                                                    |
-| 467     | 18               | 5           | Une gemme incarnate dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                          |
-| 467     | 18               | 6           | Ein rot schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                               |
-| 467     | 18               | 7           | Piedra carmesí de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                       |
-| 467     | 18               | 8           | Gemma con riflessi rossi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 467     | 18               | 9           | A shiny red orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                              |
-| 467     | 18               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                          |
-| 467     | 18               | 12          | 散发着红色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 467     | 19               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                     |
-| 467     | 19               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-빨갛게 빛나는 구슬.                                                                                                                              |
-| 467     | 19               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著紅色光輝的寶珠。                                                                                                                                    |
-| 467     | 19               | 5           | Une gemme incarnate dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                          |
-| 467     | 19               | 6           | Ein rot schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                               |
-| 467     | 19               | 7           | Piedra carmesí de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                       |
-| 467     | 19               | 8           | Gemma con riflessi rossi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 467     | 19               | 9           | A shiny red orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                              |
-| 467     | 19               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                          |
-| 467     | 19               | 12          | 散发着红色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 467     | 20               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                     |
-| 467     | 20               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-빨갛게 빛나는 구슬.                                                                                                                              |
-| 467     | 20               | 4           | 散發著紅色光輝的寶珠。
-據說和豐緣地區的傳說
-有著很深的淵源。                                                                                                                                    |
-| 467     | 20               | 5           | Une gemme incarnate dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                          |
-| 467     | 20               | 6           | Ein rot schimmernder Stein, von dem in den Legenden
-der Hoenn-Region berichtet wird.                                                                               |
-| 467     | 20               | 7           | Piedra carmesí de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                       |
-| 467     | 20               | 8           | Gemma con riflessi rossi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 467     | 20               | 9           | A shiny red orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                              |
-| 467     | 20               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あかく　かがやく　たま。                                                                                                                          |
-| 467     | 20               | 12          | 散发着红色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 468     | 5                | 9           | A blue, glowing orb
-said to contain an
-ancient power.                                                                                                              |
-| 468     | 6                | 9           | A blue, glowing orb
-said to contain an
-ancient power.                                                                                                              |
-| 468     | 7                | 9           | An orb that glows blue.
-It is said to contain an incredible
-power from ancient times.                                                                              |
-| 468     | 10               | 9           | A shiny blue orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                    |
-| 468     | 11               | 5           | Un orbe céruléen dont on dit qu’il a
-un lien très étroit avec les légendes
-de Hoenn.                                                                               |
-| 468     | 11               | 9           | A shiny blue orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                    |
-| 468     | 14               | 9           | A shiny blue orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                    |
-| 468     | 15               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                     |
-| 468     | 15               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-파랗게 빛나는 구슬.                                                                                                                              |
-| 468     | 15               | 5           | Un orbe céruléen dont on dit qu’il a un lien très
-étroit avec les légendes de Hoenn.                                                                               |
-| 468     | 15               | 6           | Eine blau schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 468     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Veneno. Debe llevarla
-un Pokémon.                                                                         |
-| 468     | 15               | 8           | Sfera con riflessi blu, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                  |
-| 468     | 15               | 9           | A shiny blue orb that is said to have
-a legend tied to it. It’s known to have a
-deep connection with the Hoenn region.                                             |
-| 468     | 15               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                          |
-| 468     | 17               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                     |
-| 468     | 17               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-파랗게 빛나는 구슬.                                                                                                                              |
-| 468     | 17               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著藍色光輝的寶珠。                                                                                                                                    |
-| 468     | 17               | 5           | Une gemme céruléenne dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                         |
-| 468     | 17               | 6           | Ein blau schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 468     | 17               | 7           | Piedra añil que, según dicen, guarda una estrecha
-relación con las leyendas de Hoenn.                                                                              |
-| 468     | 17               | 8           | Gemma con riflessi blu, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                  |
-| 468     | 17               | 9           | A shiny blue orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                             |
-| 468     | 17               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                          |
-| 468     | 17               | 12          | 散发着蓝色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 468     | 18               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                     |
-| 468     | 18               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-파랗게 빛나는 구슬.                                                                                                                              |
-| 468     | 18               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著藍色光輝的寶珠。                                                                                                                                    |
-| 468     | 18               | 5           | Une gemme céruléenne dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                         |
-| 468     | 18               | 6           | Ein blau schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 468     | 18               | 7           | Piedra añil que, según dicen, guarda una estrecha
-relación con las leyendas de Hoenn.                                                                              |
-| 468     | 18               | 8           | Gemma con riflessi blu, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                  |
-| 468     | 18               | 9           | A shiny blue orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                             |
-| 468     | 18               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                          |
-| 468     | 18               | 12          | 散发着蓝色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 468     | 19               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                     |
-| 468     | 19               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-파랗게 빛나는 구슬.                                                                                                                              |
-| 468     | 19               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著藍色光輝的寶珠。                                                                                                                                    |
-| 468     | 19               | 5           | Une gemme céruléenne dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                         |
-| 468     | 19               | 6           | Ein blau schimmernder Stein, von dem in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 468     | 19               | 7           | Piedra añil que, según dicen, guarda una estrecha
-relación con las leyendas de Hoenn.                                                                              |
-| 468     | 19               | 8           | Gemma con riflessi blu, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                  |
-| 468     | 19               | 9           | A shiny blue orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                             |
-| 468     | 19               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                          |
-| 468     | 19               | 12          | 散发着蓝色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 468     | 20               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                     |
-| 468     | 20               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-파랗게 빛나는 구슬.                                                                                                                              |
-| 468     | 20               | 4           | 散發著藍色光輝的寶珠。
-據說和豐緣地區的傳說
-有著很深的淵源。                                                                                                                                    |
-| 468     | 20               | 5           | Une gemme céruléenne dont on dit qu’elle a un lien
-très étroit avec les légendes de Hoenn.                                                                         |
-| 468     | 20               | 6           | Ein blau schimmernder Stein, von dem in den Legenden
-der Hoenn-Region berichtet wird.                                                                              |
-| 468     | 20               | 7           | Piedra añil que, según dicen, guarda una estrecha
-relación con las leyendas de Hoenn.                                                                              |
-| 468     | 20               | 8           | Gemma con riflessi blu, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                  |
-| 468     | 20               | 9           | A shiny blue orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                             |
-| 468     | 20               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-あおく　かがやく　たま。                                                                                                                          |
-| 468     | 20               | 12          | 散发着蓝色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 469     | 10               | 9           | A shiny green orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                   |
-| 469     | 11               | 5           | Un orbe viride dont on dit qu’il a un
-lien très étroit avec les légendes
-de Hoenn.                                                                                 |
-| 469     | 11               | 9           | A shiny green orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                   |
-| 469     | 14               | 9           | A shiny green orb that is said to have
-a legend and has a deep connection with
-the Hoenn region.                                                                   |
-| 469     | 15               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                  |
-| 469     | 15               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-초록색으로 빛나는 구슬.                                                                                                                            |
-| 469     | 15               | 5           | Un orbe viride dont on dit qu’il a un lien très
-étroit avec les légendes de Hoenn.                                                                                 |
-| 469     | 15               | 6           | Eine grün schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 469     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Planta. Debe llevarla
-un Pokémon.                                                                         |
-| 469     | 15               | 8           | Sfera con riflessi verdi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 469     | 15               | 9           | A shiny green orb that is said to have
-a legend tied to it. It’s known to have a
-deep connection with the Hoenn region.                                            |
-| 469     | 15               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                       |
-| 469     | 17               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                  |
-| 469     | 17               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-초록색으로 빛나는 구슬.                                                                                                                            |
-| 469     | 17               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著綠色光輝的寶珠。                                                                                                                                    |
-| 469     | 17               | 5           | Un orbe viride dont on dit qu’il a un lien très étroit
-avec les légendes de Hoenn.                                                                                 |
-| 469     | 17               | 6           | Eine grün schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 469     | 17               | 7           | Esfera glauca de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                        |
-| 469     | 17               | 8           | Sfera con riflessi verdi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 469     | 17               | 9           | A shiny green orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                            |
-| 469     | 17               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                       |
-| 469     | 17               | 12          | 散发着绿色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 469     | 18               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                  |
-| 469     | 18               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-초록색으로 빛나는 구슬.                                                                                                                            |
-| 469     | 18               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著綠色光輝的寶珠。                                                                                                                                    |
-| 469     | 18               | 5           | Un orbe viride dont on dit qu’il a un lien très étroit
-avec les légendes de Hoenn.                                                                                 |
-| 469     | 18               | 6           | Eine grün schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 469     | 18               | 7           | Esfera glauca de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                        |
-| 469     | 18               | 8           | Sfera con riflessi verdi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 469     | 18               | 9           | A shiny green orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                            |
-| 469     | 18               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                       |
-| 469     | 18               | 12          | 散发着绿色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 469     | 19               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                  |
-| 469     | 19               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-초록색으로 빛나는 구슬.                                                                                                                            |
-| 469     | 19               | 4           | 據說和豐緣地區的傳說
-有著很深淵源的，
-散發著綠色光輝的寶珠。                                                                                                                                    |
-| 469     | 19               | 5           | Un orbe viride dont on dit qu’il a un lien très étroit
-avec les légendes de Hoenn.                                                                                 |
-| 469     | 19               | 6           | Eine grün schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 469     | 19               | 7           | Esfera glauca de la que se dice que guarda una estrecha
-relación con las leyendas de Hoenn.                                                                        |
-| 469     | 19               | 8           | Sfera con riflessi verdi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 469     | 19               | 9           | A shiny green orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                            |
-| 469     | 19               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                       |
-| 469     | 19               | 12          | 散发着绿色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 469     | 20               | 1           | ホウエンちほうの　でんせつと
-ふかい　かかわりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                  |
-| 469     | 20               | 3           | 호연지방의 전설과
-깊은 연관이 있다고 전해지는
-초록색으로 빛나는 구슬.                                                                                                                            |
-| 469     | 20               | 4           | 散發著綠色光輝的寶珠。
-據說和豐緣地區的傳說
-有著很深的淵源。                                                                                                                                    |
-| 469     | 20               | 5           | Un orbe viride dont on dit qu’il a un lien très étroit
-avec les légendes de Hoenn.                                                                                 |
-| 469     | 20               | 6           | Eine grün schimmernde Kugel, von der in den
-Legenden der Hoenn-Region berichtet wird.                                                                              |
-| 469     | 20               | 7           | Esfera glauca de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                        |
-| 469     | 20               | 8           | Sfera con riflessi verdi, che pare essere
-strettamente legata alle leggende della regione
-di Hoenn.                                                                |
-| 469     | 20               | 9           | A shiny green orb that is said to have a legend tied
-to it. It’s known to have a deep connection with the
-Hoenn region.                                            |
-| 469     | 20               | 11          | ホウエン地方の　伝説と
-深い　関わりが　あると　いわれる
-みどりいろに　かがやく　たま。                                                                                                                       |
-| 469     | 20               | 12          | 散发着绿色光辉的宝珠。
-据说和丰缘地区的传说渊源颇深。                                                                                                                                        |
-| 470     | 10               | 9           | A crystal ball that was excavated from
-the ground. A very beautiful stone that
-is covered with bits of rock and earth.                                             |
-| 470     | 11               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de
-terre et de roche.                                                                   |
-| 470     | 11               | 9           | A crystal ball that was excavated from
-the ground. A very beautiful stone that
-is covered with bits of rock and earth.                                             |
-| 470     | 14               | 9           | A crystal ball that was excavated from
-the ground. A very beautiful stone that
-is covered with bits of rock and earth.                                             |
-| 470     | 15               | 1           | じめんから　ほりだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                     |
-| 470     | 15               | 3           | 땅에서 파 올린
-수정구슬. 바위랑 흙으로
-뒤덮여 있지만 매우 아름답다.                                                                                                                            |
-| 470     | 15               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de terre
-et de roche.                                                                   |
-| 470     | 15               | 6           | Eine kristallene Kugel, die aus der Erde
-geborgen wurde. Schmutz und Gestein
-konnten ihrer Schönheit nichts anhaben.                                               |
-| 470     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Tierra. Debe llevarla
-un Pokémon.                                                                         |
-| 470     | 15               | 8           | Cristallo appena estratto dal suolo.
-Bellissimo malgrado sia ancora ricoperto di resti
-di roccia e terra.                                                          |
-| 470     | 15               | 9           | A crystal ball that was excavated from
-the ground. It’s a very beautiful stone that
-is covered with bits of rock and earth.                                        |
-| 470     | 15               | 11          | 地面から　掘りだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                      |
-| 470     | 17               | 1           | じめんから　ほりだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                     |
-| 470     | 17               | 3           | 땅에서 파 올린
-수정구슬. 바위랑 흙으로
-뒤덮여 있지만 매우 아름답다.                                                                                                                            |
-| 470     | 17               | 4           | 從地下挖出的水晶球。
-雖然表面覆蓋著岩石和塵土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 17               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de terre
-et de roche.                                                                   |
-| 470     | 17               | 6           | Eine kristallene Kugel, die aus der Erde geborgen
-wurde. Schmutz und Gestein konnten ihrer
-Schönheit nichts anhaben.                                               |
-| 470     | 17               | 7           | Esfera cristalina encontrada bajo tierra. A pesar
-de estar cubierta de roca y tierra, su belleza es
-increíble.                                                     |
-| 470     | 17               | 8           | Cristallo appena estratto dal suolo.
-Bellissimo malgrado sia ancora ricoperto di resti
-di roccia e terra.                                                          |
-| 470     | 17               | 9           | A crystal ball that was excavated from the ground.
-It’s a very beautiful stone that is covered with bits
-of rock and earth.                                        |
-| 470     | 17               | 11          | 地面から　掘りだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                      |
-| 470     | 17               | 12          | 从地下挖出的水晶球。
-虽然表面覆盖着岩石和尘土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 18               | 1           | じめんから　ほりだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                     |
-| 470     | 18               | 3           | 땅에서 파 올린
-수정구슬. 바위랑 흙으로
-뒤덮여 있지만 매우 아름답다.                                                                                                                            |
-| 470     | 18               | 4           | 從地下挖出的水晶球。
-雖然表面覆蓋著岩石和塵土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 18               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de terre
-et de roche.                                                                   |
-| 470     | 18               | 6           | Eine kristallene Kugel, die aus der Erde geborgen
-wurde. Schmutz und Gestein konnten ihrer
-Schönheit nichts anhaben.                                               |
-| 470     | 18               | 7           | Esfera cristalina encontrada bajo tierra. A pesar
-de estar cubierta de roca y tierra, su belleza es
-increíble.                                                     |
-| 470     | 18               | 8           | Cristallo appena estratto dal suolo.
-Bellissimo malgrado sia ancora ricoperto di resti
-di roccia e terra.                                                          |
-| 470     | 18               | 9           | A crystal ball that was excavated from the ground.
-It’s a very beautiful stone that is covered with bits
-of rock and earth.                                        |
-| 470     | 18               | 11          | 地面から　掘りだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                      |
-| 470     | 18               | 12          | 从地下挖出的水晶球。
-虽然表面覆盖着岩石和尘土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 19               | 1           | じめんから　ほりだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                     |
-| 470     | 19               | 3           | 땅에서 파 올린
-수정구슬. 바위랑 흙으로
-뒤덮여 있지만 매우 아름답다.                                                                                                                            |
-| 470     | 19               | 4           | 從地下挖出的水晶球。
-雖然表面覆蓋著岩石和塵土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 19               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de terre et de roche.                                                                   |
-| 470     | 19               | 6           | Eine kristallene Kugel, die aus der Erde geborgen
-wurde. Schmutz und Gestein konnten ihrer
-Schönheit nichts anhaben.                                               |
-| 470     | 19               | 7           | Esfera cristalina encontrada bajo tierra. A pesar
-de estar cubierta de roca y tierra, su belleza es
-increíble.                                                     |
-| 470     | 19               | 8           | Cristallo appena estratto dal suolo.
-Bellissimo malgrado sia ancora ricoperto di resti
-di roccia e terra.                                                          |
-| 470     | 19               | 9           | A crystal ball that was excavated from the ground.
-It’s a very beautiful stone that is covered with bits
-of rock and earth.                                        |
-| 470     | 19               | 11          | 地面から　掘りだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                      |
-| 470     | 19               | 12          | 从地下挖出的水晶球。
-虽然表面覆盖着岩石和尘土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 20               | 1           | じめんから　ほりだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                     |
-| 470     | 20               | 3           | 땅에서 파 올린
-수정구슬. 바위랑 흙으로
-뒤덮여 있지만 매우 아름답다.                                                                                                                            |
-| 470     | 20               | 4           | 從地下挖出的水晶球。
-雖然表面覆蓋著岩石和塵土，
-但非常漂亮。                                                                                                                                    |
-| 470     | 20               | 5           | Un orbe cristallin fraîchement déterré.
-Il est encore pris dans une gangue de terre et de roche.                                                                   |
-| 470     | 20               | 6           | Eine kristallene Kugel, die aus der Erde geborgen
-wurde. Schmutz und Gestein konnten ihrer Schönheit
-nichts anhaben.                                               |
-| 470     | 20               | 7           | Esfera cristalina encontrada bajo tierra. A pesar de estar
-cubierta de roca y tierra, su belleza es increíble.                                                     |
-| 470     | 20               | 8           | Cristallo appena estratto dal suolo.
-Bellissimo malgrado sia ancora ricoperto di resti
-di roccia e terra.                                                          |
-| 470     | 20               | 9           | A crystal ball that was excavated from the ground.
-It’s a very beautiful stone that is covered with bits
-of rock and earth.                                        |
-| 470     | 20               | 11          | 地面から　掘りだされた
-すいしょうだま。いわと　つちで
-おおわれているが　とても　きれい。                                                                                                                      |
-| 470     | 20               | 12          | 从地下挖出的水晶球。
-虽然表面覆盖着岩石和尘土，
-但非常漂亮。                                                                                                                                    |
-| 471     | 10               | 9           | A report of all the discovered kinds
-of UNOWN.                                                                                                                     |
-| 471     | 11               | 5           | Un carnet permettant de noter toutes
-les formes de Zarbi capturées.                                                                                                |
-| 471     | 11               | 9           | A report of all the discovered kinds
-of Unown.                                                                                                                     |
-| 471     | 14               | 9           | A report of all the discovered kinds
-of Unown.                                                                                                                     |
-| 471     | 15               | 1           | みつけた　アンノーンの　ようすが
-きろく　されている　ノート。
-                                                                                                                                   |
-| 471     | 15               | 3           | 발견한 안농의 모습이
-기록되어 있는 노트.                                                                                                                                            |
-| 471     | 15               | 5           | Un carnet permettant de noter toutes les formes
-de Zarbi capturées.                                                                                                |
-| 471     | 15               | 6           | Ein Heft, in dem automatisch Daten zu bereits
-gefangenen Icognito aufgezeichnet werden.                                                                            |
-| 471     | 15               | 7           | Bonguri de color verde y aroma peculiar que
-recuerda al café tostado.                                                                                              |
-| 471     | 15               | 8           | Quaderno dove si registrano tutte le forme
-di Unown catturate.                                                                                                     |
-| 471     | 15               | 9           | A report of all the discovered kinds
-of Unown.                                                                                                                     |
-| 471     | 15               | 11          | みつけた　アンノーンの　ようすが
-記録されている　ノート。
-                                                                                                                                     |
-| 471     | 17               | 1           | みつけた　アンノーンの　ようすが
-きろく　されている　ノート。
-                                                                                                                                   |
-| 471     | 17               | 3           | 발견한 안농의 모습이
-기록되어 있는 노트.                                                                                                                                            |
-| 471     | 17               | 4           | 記錄著已找到的
-未知圖騰樣子的筆記本。                                                                                                                                                |
-| 471     | 17               | 5           | Un carnet permettant de noter toutes les formes
-de Zarbi capturées.                                                                                                |
-| 471     | 17               | 6           | Ein Heft, in dem automatisch Daten zu bereits
-gefangenen Icognito aufgezeichnet werden.                                                                            |
-| 471     | 17               | 7           | Bloc que almacena la información de los Unown
-capturados hasta el momento.                                                                                         |
-| 471     | 17               | 8           | Quaderno dove si registrano tutte le forme
-di Unown catturate.                                                                                                     |
-| 471     | 17               | 9           | A report of all the discovered kinds of Unown.                                                                                                                     |
-| 471     | 17               | 11          | みつけた　アンノーンの　ようすが
-記録されている　ノート。
-                                                                                                                                     |
-| 471     | 17               | 12          | 记录着已找到的
-未知图腾样子的笔记本。                                                                                                                                                |
-| 471     | 18               | 1           | みつけた　アンノーンの　ようすが
-きろく　されている　ノート。
-                                                                                                                                   |
-| 471     | 18               | 3           | 발견한 안농의 모습이
-기록되어 있는 노트.                                                                                                                                            |
-| 471     | 18               | 4           | 記錄著已找到的
-未知圖騰樣子的筆記本。                                                                                                                                                |
-| 471     | 18               | 5           | Un carnet permettant de noter toutes les formes
-de Zarbi capturées.                                                                                                |
-| 471     | 18               | 6           | Ein Heft, in dem automatisch Daten zu bereits
-gefangenen Icognito aufgezeichnet werden.                                                                            |
-| 471     | 18               | 7           | Bloc que almacena la información de los Unown
-capturados hasta el momento.                                                                                         |
-| 471     | 18               | 8           | Quaderno dove si registrano tutte le forme
-di Unown catturate.                                                                                                     |
-| 471     | 18               | 9           | A report of all the discovered kinds of Unown.                                                                                                                     |
-| 471     | 18               | 11          | みつけた　アンノーンの　ようすが
-記録されている　ノート。
-                                                                                                                                     |
-| 471     | 18               | 12          | 记录着已找到的
-未知图腾样子的笔记本。                                                                                                                                                |
-| 471     | 19               | 1           | みつけた　アンノーンの　ようすが
-きろく　されている　ノート。
-                                                                                                                                   |
-| 471     | 19               | 3           | 발견한 안농의 모습이
-기록되어 있는 노트.                                                                                                                                            |
-| 471     | 19               | 4           | 記錄著已找到的
-未知圖騰樣子的筆記本。                                                                                                                                                |
-| 471     | 19               | 5           | Un carnet permettant de noter toutes les formes
-de Zarbi capturées.                                                                                                |
-| 471     | 19               | 6           | Ein Heft, in dem automatisch Daten zu bereits
-gefangenen Icognito aufgezeichnet werden.                                                                            |
-| 471     | 19               | 7           | Bloc que almacena la información de los Unown
-capturados hasta el momento.                                                                                         |
-| 471     | 19               | 8           | Quaderno dove si registrano tutte le forme
-di Unown catturate.                                                                                                     |
-| 471     | 19               | 9           | A report of all the discovered kinds of Unown.                                                                                                                     |
-| 471     | 19               | 11          | みつけた　アンノーンの　ようすが
-記録されている　ノート。
-                                                                                                                                     |
-| 471     | 19               | 12          | 记录着已找到的
-未知图腾样子的笔记本。                                                                                                                                                |
-| 471     | 20               | 1           | みつけた　アンノーンの　ようすが
-きろく　されている　ノート。
-                                                                                                                                   |
-| 471     | 20               | 3           | 발견한 안농의 모습이
-기록되어 있는 노트.                                                                                                                                            |
-| 471     | 20               | 4           | 記錄著已找到的
-未知圖騰樣子的筆記本。                                                                                                                                                |
-| 471     | 20               | 5           | Un carnet permettant de noter toutes les formes
-de Zarbi capturées.                                                                                                |
-| 471     | 20               | 6           | Ein Heft, in dem automatisch Daten zu bereits
-gefangenen Icognito aufgezeichnet werden.                                                                            |
-| 471     | 20               | 7           | Bloc que almacena la información de los Unown
-capturados hasta el momento.                                                                                         |
-| 471     | 20               | 8           | Quaderno dove si registrano tutte le forme
-di Unown catturate.                                                                                                     |
-| 471     | 20               | 9           | A report of all the discovered kinds of Unown.                                                                                                                     |
-| 471     | 20               | 11          | みつけた　アンノーンの　ようすが
-記録されている　ノート。
-                                                                                                                                     |
-| 471     | 20               | 12          | 记录着已找到的
-未知图腾样子的笔记本。                                                                                                                                                |
-| 472     | 10               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 11               | 5           | Une carte pour accumuler les points de
-l’émission “Le Mot de Passe de Buena”.                                                                                      |
-| 472     | 11               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 14               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 15               | 1           | 「アオイのあいことば」　ばんぐみの
-ポイントを　ためる　カード。
-                                                                                                                                  |
-| 472     | 15               | 3           | “규화의 암호” 방송의
-포인트를 모으는 카드.                                                                                                                                          |
-| 472     | 15               | 5           | Une carte pour accumuler les points de
-l’émission « Le Mot de Passe de Buena ».                                                                                    |
-| 472     | 15               | 6           | Eine Karte, auf der die Punkte für
-„Passwort mit Buena“ festgehalten werden.                                                                                       |
-| 472     | 15               | 7           | Bonguri de color negro y aroma indescriptible.                                                                                                                     |
-| 472     | 15               | 8           | Carta per accumulare i punti del programma
-“Password Show” di Buena.                                                                                               |
-| 472     | 15               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 15               | 11          | 「アオイのあいことば」　番組の
-ポイントを　貯める　カード。
-                                                                                                                                    |
-| 472     | 17               | 1           | 「アオイのあいことば」　ばんぐみの
-ポイントを　ためる　カード。
-                                                                                                                                  |
-| 472     | 17               | 3           | “규화의 암호” 방송의
-포인트를 모으는 카드.                                                                                                                                          |
-| 472     | 17               | 4           | 可以將《葵妍的密語》
-這節目的點數
-儲存起來的卡片。                                                                                                                                         |
-| 472     | 17               | 5           | Une carte pour accumuler les points de l’émission
-« Le Mot de Passe de Buena ».                                                                                    |
-| 472     | 17               | 6           | Eine Karte, auf der die Punkte für
-„Passwort mit Buena“ festgehalten werden.                                                                                       |
-| 472     | 17               | 7           | Tarjeta para conseguir puntos con el programa de
-radio Las contraseñas de Buena.                                                                                   |
-| 472     | 17               | 8           | Carta per accumulare i punti del programma
-“Password Show” di Buena.                                                                                               |
-| 472     | 17               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 17               | 11          | 「アオイのあいことば」　番組の
-ポイントを　貯める　カード。
-                                                                                                                                    |
-| 472     | 17               | 12          | 可以将《葵妍的密语》
-这节目的点数积攒起来的卡片。                                                                                                                                          |
-| 472     | 18               | 1           | 「アオイのあいことば」　ばんぐみの
-ポイントを　ためる　カード。
-                                                                                                                                  |
-| 472     | 18               | 3           | “규화의 암호” 방송의
-포인트를 모으는 카드.                                                                                                                                          |
-| 472     | 18               | 4           | 可以將《葵妍的密語》
-這節目的點數
-儲存起來的卡片。                                                                                                                                         |
-| 472     | 18               | 5           | Une carte pour accumuler les points de l’émission
-« Le Mot de Passe de Buena ».                                                                                    |
-| 472     | 18               | 6           | Eine Karte, auf der die Punkte für
-„Passwort mit Buena“ festgehalten werden.                                                                                       |
-| 472     | 18               | 7           | Tarjeta para conseguir puntos con el programa de
-radio Las contraseñas de Buena.                                                                                   |
-| 472     | 18               | 8           | Carta per accumulare i punti del programma
-“Password Show” di Buena.                                                                                               |
-| 472     | 18               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 18               | 11          | 「アオイのあいことば」　番組の
-ポイントを　貯める　カード。
-                                                                                                                                    |
-| 472     | 18               | 12          | 可以将《葵妍的密语》
-这节目的点数积攒起来的卡片。                                                                                                                                          |
-| 472     | 19               | 1           | 「アオイのあいことば」　ばんぐみの
-ポイントを　ためる　カード。
-                                                                                                                                  |
-| 472     | 19               | 3           | “규화의 암호” 방송의
-포인트를 모으는 카드.                                                                                                                                          |
-| 472     | 19               | 4           | 可以將《葵妍的密語》
-這節目的點數
-儲存起來的卡片。                                                                                                                                         |
-| 472     | 19               | 5           | Une carte pour accumuler les points de l’émission
-« Le Mot de Passe de Buena ».                                                                                    |
-| 472     | 19               | 6           | Eine Karte, auf der die Punkte für
-„Passwort mit Buena“ festgehalten werden.                                                                                       |
-| 472     | 19               | 7           | Tarjeta para conseguir puntos con el programa de radio
-Las contraseñas de Buena.                                                                                   |
-| 472     | 19               | 8           | Carta per accumulare i punti del programma
-“Password Show” di Buena.                                                                                               |
-| 472     | 19               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 19               | 11          | 「アオイのあいことば」　番組の
-ポイントを　貯める　カード。
-                                                                                                                                    |
-| 472     | 19               | 12          | 可以将《葵妍的密语》
-这节目的点数积攒起来的卡片。                                                                                                                                          |
-| 472     | 20               | 1           | 「アオイのあいことば」　ばんぐみの
-ポイントを　ためる　カード。
-                                                                                                                                  |
-| 472     | 20               | 3           | “규화의 암호" 방송의
-포인트를 모으는 카드.                                                                                                                                          |
-| 472     | 20               | 4           | 可以將《葵妍的密語》
-這節目的點數
-儲存起來的卡片。                                                                                                                                         |
-| 472     | 20               | 5           | Une carte pour accumuler les points de l’émission
-« Le Mot de Passe de Buena ».                                                                                    |
-| 472     | 20               | 6           | Eine Karte, auf der die Punkte für „Passwort mit Buena“
-festgehalten werden.                                                                                       |
-| 472     | 20               | 7           | Tarjeta para conseguir puntos con el programa de
-radio Las contraseñas de Buena.                                                                                   |
-| 472     | 20               | 8           | Carta per accumulare i punti del programma
-“Password Show” di Buena.                                                                                               |
-| 472     | 20               | 9           | A card to save points for the
-Buena’s Password show.                                                                                                               |
-| 472     | 20               | 11          | 「アオイのあいことば」　番組の
-ポイントを　貯める　カード。
-                                                                                                                                    |
-| 472     | 20               | 12          | 可以将《葵妍的密语》
-这节目的点数积攒起来的卡片。                                                                                                                                          |
-| 473     | 10               | 9           | A very tasty tail of something.
-It sells for a high price.                                                                                                         |
-| 473     | 11               | 5           | Une queue d’origine inconnue tout à fait
-savoureuse, vendue très cher.                                                                                             |
-| 473     | 11               | 9           | A very tasty tail of something.
-It sells for a high price.                                                                                                         |
-| 473     | 14               | 9           | A very tasty tail of something.
-It sells for a high price.                                                                                                         |
-| 473     | 15               | 1           | とても　おいしい　なにかの　しっぽ。
-ショップで　たかく　うれる。
-                                                                                                                                 |
-| 473     | 15               | 3           | 매우 맛있는 무언가의 꼬리.
-가게에서 비싸게 팔린다.                                                                                                                                      |
-| 473     | 15               | 5           | Une queue d’origine inconnue tout à fait
-savoureuse, vendue très cher.                                                                                             |
-| 473     | 15               | 6           | Die Rute eines unbestimmten Wesens.
-Extrem schmackhaft. Lässt sich teuer verkaufen.                                                                                |
-| 473     | 15               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar Pokémon evasivos.                                                                                    |
-| 473     | 15               | 8           | Coda di origine sconosciuta dal sapore delizioso.
-Si vende a un prezzo piuttosto alto.                                                                             |
-| 473     | 15               | 9           | A very tasty tail of something.
-It can be sold at a high price to shops.                                                                                           |
-| 473     | 15               | 11          | とても　おいしい　なにかの　しっぽ。
-ショップで　高く　売れる。
-                                                                                                                                  |
-| 473     | 17               | 1           | とても　おいしい　なにかの　しっぽ。
-ショップで　たかく　うれる。
-                                                                                                                                 |
-| 473     | 17               | 3           | 매우 맛있는 무언가의 꼬리.
-가게에서 비싸게 팔린다.                                                                                                                                      |
-| 473     | 17               | 4           | 非常美味的某種尾巴。
-可以在商店高價出售。                                                                                                                                              |
-| 473     | 17               | 5           | Une queue d’origine inconnue tout à fait
-savoureuse, vendue très cher.                                                                                             |
-| 473     | 17               | 6           | Die Rute eines unbestimmten Wesens.
-Extrem schmackhaft. Lässt sich teuer verkaufen.                                                                                |
-| 473     | 17               | 7           | Sabrosa cola de origen desconocido. Se puede
-comprar a un precio muy elevado.                                                                                      |
-| 473     | 17               | 8           | Coda di origine sconosciuta dal sapore delizioso.
-Si vende a un prezzo piuttosto alto.                                                                             |
-| 473     | 17               | 9           | A very tasty tail of something. It can be sold at a
-high price to shops.                                                                                           |
-| 473     | 17               | 11          | とても　おいしい　なにかの　しっぽ。
-ショップで　高く　売れる。
-                                                                                                                                  |
-| 473     | 17               | 12          | 非常美味的某种尾巴。
-可以在商店高价出售。                                                                                                                                              |
-| 473     | 18               | 1           | とても　おいしい　なにかの　しっぽ。
-ショップで　たかく　うれる。
-                                                                                                                                 |
-| 473     | 18               | 3           | 매우 맛있는 무언가의 꼬리.
-가게에서 비싸게 팔린다.                                                                                                                                      |
-| 473     | 18               | 4           | 非常美味的某種尾巴。
-可以在商店高價出售。                                                                                                                                              |
-| 473     | 18               | 5           | Une queue d’origine inconnue tout à fait
-savoureuse, vendue très cher.                                                                                             |
-| 473     | 18               | 6           | Die Rute eines unbestimmten Wesens.
-Extrem schmackhaft. Lässt sich teuer verkaufen.                                                                                |
-| 473     | 18               | 7           | Sabrosa cola de origen desconocido. Se puede
-comprar a un precio muy elevado.                                                                                      |
-| 473     | 18               | 8           | Coda di origine sconosciuta dal sapore delizioso.
-Si vende a un prezzo piuttosto alto.                                                                             |
-| 473     | 18               | 9           | A very tasty tail of something. It can be sold at a
-high price to shops.                                                                                           |
-| 473     | 18               | 11          | とても　おいしい　なにかの　しっぽ。
-ショップで　高く　売れる。
-                                                                                                                                  |
-| 473     | 18               | 12          | 非常美味的某种尾巴。
-可以在商店高价出售。                                                                                                                                              |
-| 473     | 19               | 1           | とても　おいしい　なにかの　しっぽ。
-ショップで　たかく　うれる。
-                                                                                                                                 |
-| 473     | 19               | 3           | 매우 맛있는 무언가의 꼬리.
-가게에서 비싸게 팔린다.                                                                                                                                      |
-| 473     | 19               | 4           | 非常美味的某種尾巴。
-可以在商店高價出售。                                                                                                                                              |
-| 473     | 19               | 5           | Une queue d’origine inconnue tout à fait savoureuse,
-vendue très cher.                                                                                             |
-| 473     | 19               | 6           | Die Rute eines unbestimmten Wesens.
-Extrem schmackhaft. Lässt sich teuer verkaufen.                                                                                |
-| 473     | 19               | 7           | Sabrosa cola de origen desconocido. Se puede comprar
-a un precio muy elevado.                                                                                      |
-| 473     | 19               | 8           | Coda di origine sconosciuta dal sapore delizioso.
-Si vende a un prezzo piuttosto alto.                                                                             |
-| 473     | 19               | 9           | A very tasty tail of something. It can be sold at a
-high price to shops.                                                                                           |
-| 473     | 19               | 11          | とても　おいしい　なにかの　しっぽ。
-ショップで　高く　売れる。
-                                                                                                                                  |
-| 473     | 19               | 12          | 非常美味的某种尾巴。
-可以在商店高价出售。                                                                                                                                              |
-| 473     | 20               | 1           | とても　おいしい　なにかの　しっぽ。
-ショップで　たかく　うれる。
-                                                                                                                                 |
-| 473     | 20               | 3           | 매우 맛있는 무언가의 꼬리.
-가게에서 비싸게 팔린다.                                                                                                                                      |
-| 473     | 20               | 4           | 非常美味的某種尾巴。
-可以在商店高價出售。                                                                                                                                              |
-| 473     | 20               | 5           | Une queue d’origine inconnue tout à fait savoureuse,
-vendue très cher.                                                                                             |
-| 473     | 20               | 6           | Die Rute eines unbestimmten Wesens. Extrem
-schmackhaft. Lässt sich teuer verkaufen.                                                                                |
-| 473     | 20               | 7           | Sabrosa cola de origen desconocido. Se puede
-comprar a un precio muy elevado.                                                                                      |
-| 473     | 20               | 8           | Coda di origine sconosciuta dal sapore delizioso.
-Si vende a un prezzo piuttosto alto.                                                                             |
-| 473     | 20               | 9           | A very tasty tail of something. It can be sold at a
-high price to shops.                                                                                           |
-| 473     | 20               | 11          | とても　おいしい　なにかの　しっぽ。
-ショップで　高く　売れる。
-                                                                                                                                  |
-| 473     | 20               | 12          | 非常美味的某种尾巴。
-可以在商店高价出售。                                                                                                                                              |
-| 474     | 10               | 9           | A very old-fashioned bell that makes a
-gentle ringing.                                                                                                             |
-| 474     | 11               | 5           | Une cloche antique au tintement
-apaisant.                                                                                                                          |
-| 474     | 11               | 9           | A very old-fashioned bell that makes a
-gentle ringing.                                                                                                             |
-| 474     | 14               | 9           | A very old-fashioned bell that makes a
-gentle ringing.                                                                                                             |
-| 474     | 15               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 474     | 15               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 474     | 15               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 474     | 15               | 6           | Eine altehrwürdige Glocke, deren Läuten
-alle besänftigt, die es hören.                                                                                             |
-| 474     | 15               | 7           | Poké Ball algo distinta que funciona
-especialmente bien con Pokémon de nivel
-inferior a los que se posee.                                                          |
-| 474     | 15               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 474     | 15               | 9           | A very old-fashioned bell that
-makes a gentle ringing sound.                                                                                                       |
-| 474     | 15               | 11          | こころ　やすまる　音色が　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                   |
-| 474     | 17               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 474     | 17               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 474     | 17               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 474     | 17               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 474     | 17               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 474     | 17               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 474     | 17               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 474     | 17               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 474     | 17               | 11          | こころ　やすまる　音色が　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                   |
-| 474     | 17               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 474     | 18               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 474     | 18               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 474     | 18               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 474     | 18               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 474     | 18               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 474     | 18               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 474     | 18               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 474     | 18               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 474     | 18               | 11          | こころ　やすまる　音色が　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                   |
-| 474     | 18               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 474     | 19               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 474     | 19               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 474     | 19               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 474     | 19               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 474     | 19               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 474     | 19               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 474     | 19               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 474     | 19               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 474     | 19               | 11          | こころ　やすまる　音色が　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                   |
-| 474     | 19               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 474     | 20               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 474     | 20               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 474     | 20               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 474     | 20               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 474     | 20               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 474     | 20               | 7           | Cascabel de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                             |
-| 474     | 20               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 474     | 20               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 474     | 20               | 11          | こころ　やすまる　音色が　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                   |
-| 474     | 20               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 475     | 6                | 9           | A card-type door
-key used in SILPH
-CO’s office.                                                                                                                    |
-| 475     | 7                | 9           | A card-type key that unlocks doors
-in SILPH CO.’s HEAD OFFICE in
-SAFFRON CITY.                                                                                     |
-| 475     | 10               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 11               | 5           | Une clé en forme de carte permettant
-d’ouvrir les cloisons de la Tour Radio.                                                                                       |
-| 475     | 11               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 14               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 15               | 1           | ラジオきょくの　シャッターを　あける
-カードしきの　カギ。
-                                                                                                                                     |
-| 475     | 15               | 3           | 라디오방송국의 셔터를 여는
-카드식 열쇠.                                                                                                                                             |
-| 475     | 15               | 5           | Une clé en forme de carte permettant d’ouvrir
-les cloisons de la Tour Radio.                                                                                       |
-| 475     | 15               | 6           | Eine Schlüsselkarte, die eine
-Tür im Radioturm öffnet.                                                                                                             |
-| 475     | 15               | 7           | Poké Ball algo distinta, especialmente indicada
-para capturar los Pokémon que se han pescado
-con una caña.                                                         |
-| 475     | 15               | 8           | Chiave a scheda che apre le porte automatizzate
-della Torre Radio.                                                                                                 |
-| 475     | 15               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 15               | 11          | ラジオ局の　シャッターを　開ける
-カード式の　カギ。
-                                                                                                                                        |
-| 475     | 17               | 1           | ラジオきょくの　シャッターを　あける
-カードしきの　カギ。
-                                                                                                                                     |
-| 475     | 17               | 3           | 라디오방송국의 셔터를 여는
-카드식 열쇠.                                                                                                                                             |
-| 475     | 17               | 4           | 用來打開電臺鐵捲門的
-卡片式鑰匙。                                                                                                                                                  |
-| 475     | 17               | 5           | Une clé en forme de carte permettant d’ouvrir
-les cloisons de la Tour Radio.                                                                                       |
-| 475     | 17               | 6           | Eine Schlüsselkarte, die eine Tür im Radioturm
-öffnet.                                                                                                             |
-| 475     | 17               | 7           | Llave con forma de tarjeta que abre las puertas
-de la Torre Radio.                                                                                                 |
-| 475     | 17               | 8           | Chiave a scheda che apre le porte automatizzate
-della Torre Radio.                                                                                                 |
-| 475     | 17               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 17               | 11          | ラジオ局の　シャッターを　開ける
-カード式の　カギ。
-                                                                                                                                        |
-| 475     | 17               | 12          | 用来打开电台卷帘门的
-卡片式钥匙。                                                                                                                                                  |
-| 475     | 18               | 1           | ラジオきょくの　シャッターを　あける
-カードしきの　カギ。
-                                                                                                                                     |
-| 475     | 18               | 3           | 라디오방송국의 셔터를 여는
-카드식 열쇠.                                                                                                                                             |
-| 475     | 18               | 4           | 用來打開電臺鐵捲門的
-卡片式鑰匙。                                                                                                                                                  |
-| 475     | 18               | 5           | Une clé en forme de carte permettant d’ouvrir
-les cloisons de la Tour Radio.                                                                                       |
-| 475     | 18               | 6           | Eine Schlüsselkarte, die eine Tür im Radioturm
-öffnet.                                                                                                             |
-| 475     | 18               | 7           | Llave con forma de tarjeta que abre las puertas
-de la Torre Radio.                                                                                                 |
-| 475     | 18               | 8           | Chiave a scheda che apre le porte automatizzate
-della Torre Radio.                                                                                                 |
-| 475     | 18               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 18               | 11          | ラジオ局の　シャッターを　開ける
-カード式の　カギ。
-                                                                                                                                        |
-| 475     | 18               | 12          | 用来打开电台卷帘门的
-卡片式钥匙。                                                                                                                                                  |
-| 475     | 19               | 1           | ラジオきょくの　シャッターを　あける
-カードしきの　カギ。
-                                                                                                                                     |
-| 475     | 19               | 3           | 라디오방송국의 셔터를 여는
-카드식 열쇠.                                                                                                                                             |
-| 475     | 19               | 4           | 用來打開電臺鐵捲門的
-卡片式鑰匙。                                                                                                                                                  |
-| 475     | 19               | 5           | Une clé en forme de carte permettant d’ouvrir
-les cloisons de la Tour Radio.                                                                                       |
-| 475     | 19               | 6           | Eine Schlüsselkarte, die eine Tür im Radioturm
-öffnet.                                                                                                             |
-| 475     | 19               | 7           | Llave con forma de tarjeta que abre las puertas
-de la Torre Radio.                                                                                                 |
-| 475     | 19               | 8           | Chiave a scheda che apre le porte automatizzate
-della Torre Radio.                                                                                                 |
-| 475     | 19               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 19               | 11          | ラジオ局の　シャッターを　開ける
-カード式の　カギ。
-                                                                                                                                        |
-| 475     | 19               | 12          | 用来打开电台卷帘门的
-卡片式钥匙。                                                                                                                                                  |
-| 475     | 20               | 1           | ラジオきょくの　シャッターを　あける
-カードしきの　カギ。
-                                                                                                                                     |
-| 475     | 20               | 3           | 라디오방송국의 셔터를 여는
-카드식 열쇠.                                                                                                                                             |
-| 475     | 20               | 4           | 用來打開電臺鐵捲門的
-卡片式鑰匙。                                                                                                                                                  |
-| 475     | 20               | 5           | Une clé en forme de carte permettant d’ouvrir
-les cloisons de la Tour Radio.                                                                                       |
-| 475     | 20               | 6           | Eine Schlüsselkarte, die eine Tür im Radioturm öffnet.                                                                                                             |
-| 475     | 20               | 7           | Llave con forma de tarjeta que abre las puertas
-de la Torre Radio.                                                                                                 |
-| 475     | 20               | 8           | Chiave a scheda che apre le porte automatizzate
-della Torre Radio.                                                                                                 |
-| 475     | 20               | 9           | A card key that opens a shutter in the
-Radio Tower.                                                                                                                |
-| 475     | 20               | 11          | ラジオ局の　シャッターを　開ける
-カード式の　カギ。
-                                                                                                                                        |
-| 475     | 20               | 12          | 用来打开电台卷帘门的
-卡片式钥匙。                                                                                                                                                  |
-| 476     | 5                | 9           | The key for NEW
-MAUVILLE beneath
-MAUVILLE CITY.                                                                                                                    |
-| 476     | 6                | 9           | The key for NEW
-MAUVILLE beneath
-MAUVILLE CITY.                                                                                                                    |
-| 476     | 7                | 9           | The key to NEW MAUVILLE, which
-was constructed beneath MAUVILLE
-CITY.                                                                                              |
-| 476     | 10               | 9           | A key that opens a door in the
-Goldenrod Tunnel.                                                                                                                   |
-| 476     | 11               | 5           | Une clé qui permet d’ouvrir la porte
-au fond du Doublon-Tunnel.                                                                                                    |
-| 476     | 11               | 9           | A key that opens a door in the
-Goldenrod Tunnel.                                                                                                                   |
-| 476     | 14               | 9           | A key that opens a door in the
-Goldenrod Tunnel.                                                                                                                   |
-| 476     | 15               | 1           | コガネちかどうに　ある　とびらを
-あける　カギ。
-                                                                                                                                          |
-| 476     | 15               | 3           | 금빛지하도에 있는 문을
-여는 열쇠.                                                                                                                                                |
-| 476     | 15               | 5           | Une clé qui permet d’ouvrir la porte au fond du
-Doublon-Tunnel.                                                                                                    |
-| 476     | 15               | 6           | Ein Schlüssel, der eine Tür in der Dukatia-
-Passage von Dukatia City öffnet.                                                                                       |
-| 476     | 15               | 7           | Poké Ball algo distinta que funciona
-especialmente bien a la hora de atrapar
-Pokémon de mucho peso.                                                                |
-| 476     | 15               | 8           | Chiave che permette di aprire la porta all’interno
-del Fiortunnel.                                                                                                 |
-| 476     | 15               | 9           | A key that opens a door in the
-Goldenrod Tunnel.                                                                                                                   |
-| 476     | 15               | 11          | コガネ地下道に　ある　扉を
-空ける　カギ。
-                                                                                                                                             |
-| 476     | 20               | 1           | コガネちかどうに　ある　とびらを
-あける　カギ。
-                                                                                                                                          |
-| 476     | 20               | 3           | 금빛지하도에 있는 문을
-여는 열쇠.                                                                                                                                                |
-| 476     | 20               | 4           | 用來打開滿金地下道的
-門的鑰匙。                                                                                                                                                   |
-| 476     | 20               | 5           | Une clé qui permet d’ouvrir la porte au fond
-du Doublon-Tunnel.                                                                                                    |
-| 476     | 20               | 6           | Ein Schlüssel, der eine Tür in der Dukatia-Passage von
-Dukatia City öffnet.                                                                                        |
-| 476     | 20               | 7           | Llave que abre la puerta que hay en el Túnel Trigal.                                                                                                               |
-| 476     | 20               | 8           | Chiave che permette di aprire la porta all’interno
-del Fiortunnel.                                                                                                 |
-| 476     | 20               | 9           | A key that opens a door in the
-Goldenrod Tunnel.                                                                                                                   |
-| 476     | 20               | 11          | コガネ地下道に　ある　扉を
-空ける　カギ。
-                                                                                                                                             |
-| 476     | 20               | 12          | 用来打开满金地道
-大门的钥匙。                                                                                                                                                    |
-| 477     | 10               | 9           | A scale from the red GYARADOS. It glows
-red like a flame.                                                                                                          |
-| 477     | 11               | 5           | Une écaille du Léviator apparu au Lac
-Colère. Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 11               | 9           | A scale from the red Gyarados. It glows
-red like a flame.                                                                                                          |
-| 477     | 14               | 9           | A scale from the red Gyarados. It glows
-red like a flame.                                                                                                          |
-| 477     | 15               | 1           | いかりのみずうみに　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                  |
-| 477     | 15               | 3           | 분노의 호수에 나타난
-빨간 갸라도스의 비늘.
-불꽃처럼 빨갛게 빛난다.                                                                                                                             |
-| 477     | 15               | 5           | Une écaille du Léviator apparu au Lac Colère.
-Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 15               | 6           | Eine Schuppe des roten Garados, das im See des
-Zorns erschienen ist. Sie glänzt rot wie Feuer.                                                                     |
-| 477     | 15               | 7           | Poké Ball algo distinta que hace más amistosos a
-los Pokémon salvajes que se capturan con ella.                                                                    |
-| 477     | 15               | 8           | Una squama del Gyarados rosso apparso
-al Lago d’Ira. È rossa come il fuoco.                                                                                        |
-| 477     | 15               | 9           | A scale from a red Gyarados.
-It glows red like a flame.                                                                                                            |
-| 477     | 15               | 11          | 怒りの湖に　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                      |
-| 477     | 17               | 1           | いかりのみずうみに　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                  |
-| 477     | 17               | 3           | 분노의 호수에 나타난
-빨간 갸라도스의 비늘.
-불꽃처럼 빨갛게 빛난다.                                                                                                                             |
-| 477     | 17               | 4           | 在憤怒之湖裡出現的
-紅色暴鯉龍的鱗片。
-散發著像火一樣的紅色光芒。                                                                                                                                  |
-| 477     | 17               | 5           | Une écaille du Léviator apparu au Lac Colère.
-Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 17               | 6           | Eine Schuppe des roten Garados, das im See des
-Zorns erschienen ist. Sie glänzt rot wie Feuer.                                                                     |
-| 477     | 17               | 7           | Escama del Gyarados aparecido en el Lago de la
-Furia. Es de un rojo tan intenso como las llamas.                                                                   |
-| 477     | 17               | 8           | Una squama del Gyarados rosso apparso
-al Lago d’Ira. È rossa come il fuoco.                                                                                        |
-| 477     | 17               | 9           | A scale from a red Gyarados. It glows red like
-a flame.                                                                                                            |
-| 477     | 17               | 11          | 怒りの湖に　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                      |
-| 477     | 17               | 12          | 在愤怒之湖里出现的
-红色暴鲤龙的鳞片。
-散发着像火一样的红色光芒。                                                                                                                                  |
-| 477     | 18               | 1           | いかりのみずうみに　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                  |
-| 477     | 18               | 3           | 분노의 호수에 나타난
-빨간 갸라도스의 비늘.
-불꽃처럼 빨갛게 빛난다.                                                                                                                             |
-| 477     | 18               | 4           | 在憤怒之湖裡出現的
-紅色暴鯉龍的鱗片。
-散發著像火一樣的紅色光芒。                                                                                                                                  |
-| 477     | 18               | 5           | Une écaille du Léviator apparu au Lac Colère.
-Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 18               | 6           | Eine Schuppe des roten Garados, das im See des
-Zorns erschienen ist. Sie glänzt rot wie Feuer.                                                                     |
-| 477     | 18               | 7           | Escama del Gyarados aparecido en el Lago de la
-Furia. Es de un rojo tan intenso como las llamas.                                                                   |
-| 477     | 18               | 8           | Una squama del Gyarados rosso apparso
-al Lago d’Ira. È rossa come il fuoco.                                                                                        |
-| 477     | 18               | 9           | A scale from a red Gyarados. It glows red like
-a flame.                                                                                                            |
-| 477     | 18               | 11          | 怒りの湖に　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                      |
-| 477     | 18               | 12          | 在愤怒之湖里出现的
-红色暴鲤龙的鳞片。
-散发着像火一样的红色光芒。                                                                                                                                  |
-| 477     | 19               | 1           | いかりのみずうみに　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                  |
-| 477     | 19               | 3           | 분노의 호수에 나타난
-빨간 갸라도스의 비늘.
-불꽃처럼 빨갛게 빛난다.                                                                                                                             |
-| 477     | 19               | 4           | 在憤怒之湖裡出現的
-紅色暴鯉龍的鱗片。
-散發著像火一樣的紅色光芒。                                                                                                                                  |
-| 477     | 19               | 5           | Une écaille du Léviator apparu au Lac Colère.
-Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 19               | 6           | Eine Schuppe des roten Garados, das im See des
-Zorns erschienen ist. Sie glänzt rot wie Feuer.                                                                     |
-| 477     | 19               | 7           | Escama del Gyarados aparecido en el Lago de la Furia.
-Es de un rojo tan intenso como las llamas.                                                                   |
-| 477     | 19               | 8           | Una squama del Gyarados rosso apparso
-al Lago d’Ira. È rossa come il fuoco.                                                                                        |
-| 477     | 19               | 9           | A scale from a red Gyarados. It glows red like
-a flame.                                                                                                            |
-| 477     | 19               | 11          | 怒りの湖に　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                      |
-| 477     | 19               | 12          | 在愤怒之湖里出现的
-红色暴鲤龙的鳞片。
-散发着像火一样的红色光芒。                                                                                                                                  |
-| 477     | 20               | 1           | いかりのみずうみに　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                  |
-| 477     | 20               | 3           | 분노의 호수에 나타난
-빨간 갸라도스의 비늘.
-불꽃처럼 빨갛게 빛난다.                                                                                                                             |
-| 477     | 20               | 4           | 在憤怒之湖裡出現的
-紅色暴鯉龍的鱗片。
-散發著像火一樣的紅色光芒。                                                                                                                                  |
-| 477     | 20               | 5           | Une écaille du Léviator apparu au Lac Colère.
-Elle rougeoie comme une flamme.                                                                                      |
-| 477     | 20               | 6           | Eine Schuppe des roten Garados, das im See des Zorns
-erschienen ist. Sie glänzt rot wie Feuer.                                                                     |
-| 477     | 20               | 7           | Escama del Gyarados aparecido en el Lago de la Furia.
-Es de un rojo tan intenso como las llamas.                                                                   |
-| 477     | 20               | 8           | Una squama del Gyarados rosso apparso
-al Lago d’Ira. È rossa come il fuoco.                                                                                        |
-| 477     | 20               | 9           | A scale from a red Gyarados. It glows red like
-a flame.                                                                                                            |
-| 477     | 20               | 11          | 怒りの湖に　あらわれた
-あかい　ギャラドスの　ウロコ。
-ほのおのように　あかく　かがやく。                                                                                                                      |
-| 477     | 20               | 12          | 在愤怒之湖里出现的
-红色暴鲤龙的鳞片。
-散发着像火一样的红色光芒。                                                                                                                                  |
-| 478     | 10               | 9           | The Poké Doll lost by the Copycat.                                                                                                                                 |
-| 478     | 11               | 5           | Poupée Mime Jr. perdue par la Copieuse.                                                                                                                            |
-| 478     | 11               | 9           | The Mime Jr. doll that was lost by
-the Copycat.                                                                                                                    |
-| 478     | 14               | 9           | The Mime Jr. doll that was lost by
-the Copycat.                                                                                                                    |
-| 478     | 15               | 1           | モノマネむすめが　なくした
-マネネの　にんぎょう。
-                                                                                                                                         |
-| 478     | 15               | 3           | 흉내내기 아가씨가 잃어버린
-흉내내인형.                                                                                                                                              |
-| 478     | 15               | 5           | La Poupée Mime Jr. perdue par la Copieuse.                                                                                                                         |
-| 478     | 15               | 6           | Eine Pantimimi-Puppe, welche die Nachahmerin
-verloren hat.                                                                                                         |
-| 478     | 15               | 7           | Poké Ball algo distinta que atrapa con más
-facilidad los Pokémon que evolucionan con la
-Piedra Lunar.                                                              |
-| 478     | 15               | 8           | Poké Bambola raffigurante Mime Jr. smarrita
-da Copiona.                                                                                                            |
-| 478     | 15               | 9           | The Mime Jr. doll that was lost by
-the Copycat.                                                                                                                    |
-| 478     | 15               | 11          | モノマネ娘が　なくした
-マネネの　人形。
-                                                                                                                                              |
-| 478     | 17               | 1           | モノマネむすめが　なくした
-マネネの　にんぎょう。
-                                                                                                                                         |
-| 478     | 17               | 3           | 흉내내기 아가씨가 잃어버린
-흉내내인형.                                                                                                                                              |
-| 478     | 17               | 4           | 模仿少女丟失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 17               | 5           | La Poupée Mime Jr. perdue par la Copieuse.                                                                                                                         |
-| 478     | 17               | 6           | Eine Pantimimi-Puppe, welche die Nachahmerin
-verloren hat.                                                                                                         |
-| 478     | 17               | 7           | El muñeco Mime Jr. que perdió la Copiona.                                                                                                                          |
-| 478     | 17               | 8           | Pupazzo raffigurante Mime Jr. smarrito da Copiona.                                                                                                                 |
-| 478     | 17               | 9           | The Mime Jr. doll that was lost by the Copycat.                                                                                                                    |
-| 478     | 17               | 11          | モノマネ娘が　なくした
-マネネの　人形。
-                                                                                                                                              |
-| 478     | 17               | 12          | 模仿少女丢失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 18               | 1           | モノマネむすめが　なくした
-マネネの　にんぎょう。
-                                                                                                                                         |
-| 478     | 18               | 3           | 흉내내기 아가씨가 잃어버린
-흉내내인형.                                                                                                                                              |
-| 478     | 18               | 4           | 模仿少女丟失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 18               | 5           | La Poupée Mime Jr. perdue par la Copieuse.                                                                                                                         |
-| 478     | 18               | 6           | Eine Pantimimi-Puppe, welche die Nachahmerin
-verloren hat.                                                                                                         |
-| 478     | 18               | 7           | El muñeco Mime Jr. que perdió la Copiona.                                                                                                                          |
-| 478     | 18               | 8           | Pupazzo raffigurante Mime Jr. smarrito da Copiona.                                                                                                                 |
-| 478     | 18               | 9           | The Mime Jr. doll that was lost by the Copycat.                                                                                                                    |
-| 478     | 18               | 11          | モノマネ娘が　なくした
-マネネの　人形。
-                                                                                                                                              |
-| 478     | 18               | 12          | 模仿少女丢失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 19               | 1           | モノマネむすめが　なくした
-マネネの　にんぎょう。
-                                                                                                                                         |
-| 478     | 19               | 3           | 흉내내기 아가씨가 잃어버린
-흉내내인형.                                                                                                                                              |
-| 478     | 19               | 4           | 模仿少女丟失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 19               | 5           | La Poupée Mime Jr. perdue par la Copieuse.                                                                                                                         |
-| 478     | 19               | 6           | Eine Pantimimi-Puppe, welche die Nachahmerin
-verloren hat.                                                                                                         |
-| 478     | 19               | 7           | El muñeco Mime Jr. que perdió la Copiona.                                                                                                                          |
-| 478     | 19               | 8           | Pupazzo raffigurante Mime Jr. smarrito da Copiona.                                                                                                                 |
-| 478     | 19               | 9           | The Mime Jr. doll that was lost by the Copycat.                                                                                                                    |
-| 478     | 19               | 11          | モノマネ娘が　なくした
-マネネの　人形。
-                                                                                                                                              |
-| 478     | 19               | 12          | 模仿少女丢失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 20               | 1           | モノマネむすめが　なくした
-マネネの　にんぎょう。
-                                                                                                                                         |
-| 478     | 20               | 3           | 흉내내기 아가씨가 잃어버린
-흉내내인형.                                                                                                                                              |
-| 478     | 20               | 4           | 模仿少女丟失的
-魔尼尼人偶。                                                                                                                                                     |
-| 478     | 20               | 5           | La Poupée Mime Jr. perdue par la Copieuse.                                                                                                                         |
-| 478     | 20               | 6           | Eine Pantimimi-Puppe, welche die Nachahmerin
-verloren hat.                                                                                                         |
-| 478     | 20               | 7           | El muñeco Mime Jr. que perdió la Copiona.                                                                                                                          |
-| 478     | 20               | 8           | Pupazzo raffigurante Mime Jr. smarrito da Copiona.                                                                                                                 |
-| 478     | 20               | 9           | The Mime Jr. doll that was lost by the Copycat.                                                                                                                    |
-| 478     | 20               | 11          | モノマネ娘が　なくした
-マネネの　人形。
-                                                                                                                                              |
-| 478     | 20               | 12          | 模仿少女丢失的
-魔尼尼人偶。                                                                                                                                                     |
-| 479     | 10               | 9           | A ticket required for riding the Magnet
-Train. It allows you to ride whenever
-and however much you’d like.                                                         |
-| 479     | 11               | 5           | Un ticket nécessaire pour monter
-à bord du Train Magnétique.
-Utilisable à volonté.                                                                                 |
-| 479     | 11               | 9           | A ticket required for riding the Magnet
-Train. It allows you to ride whenever
-and however much you’d like.                                                         |
-| 479     | 14               | 9           | A ticket required for riding the Magnet
-Train. It allows you to ride whenever
-and however much you’d like.                                                         |
-| 479     | 15               | 1           | リニアカーに　のるときに　ひつような
-チケット。　いつでも　のりほうだい。
-                                                                                                                             |
-| 479     | 15               | 3           | 리니어 카를 탈 때 필요한
-티켓. 언제든지 무제한으로 이용 가능.                                                                                                                               |
-| 479     | 15               | 5           | Un ticket nécessaire pour monter à bord du
-Train Magnétique. Utilisable à volonté.                                                                                 |
-| 479     | 15               | 6           | Eine Fahrkarte, die einem die Reise mit dem
-Magnetzug ermöglicht. Gilt für beliebig viele
-Fahrten.                                                                 |
-| 479     | 15               | 7           | Poké Ball que se utiliza en el Concurso de
-Captura de Bichos.                                                                                                      |
-| 479     | 15               | 8           | Biglietto necessario per viaggiare sul supertreno.
-Utilizzabile a volontà.                                                                                         |
-| 479     | 15               | 9           | A pass required for riding the Magnet
-Train. It allows you to ride whenever
-and however much you’d like.                                                           |
-| 479     | 15               | 11          | リニアカーに　乗るときに　必要な
-チケット。　いつでも　乗り放題。
-                                                                                                                                 |
-| 479     | 17               | 1           | リニアカーに　のるときに　ひつような
-チケット。　いつでも　のりほうだい。
-                                                                                                                             |
-| 479     | 17               | 3           | 리니어 카를 탈 때 필요한
-티켓. 언제든지 무제한으로 이용 가능.                                                                                                                               |
-| 479     | 17               | 4           | 乘坐磁浮列車時所需的車票。
-可以隨時自由乘坐。                                                                                                                                            |
-| 479     | 17               | 5           | Un ticket nécessaire pour monter à bord du
-Train Magnétique. Utilisable à volonté.                                                                                 |
-| 479     | 17               | 6           | Eine Fahrkarte, die einem die Reise mit dem
-Magnetzug ermöglicht. Gilt für beliebig viele
-Fahrten.                                                                 |
-| 479     | 17               | 7           | Billete necesario para poder montar todas las
-veces que se desee en el Magnetotrén.                                                                                |
-| 479     | 17               | 8           | Biglietto necessario per viaggiare sul supertreno.
-Utilizzabile a volontà.                                                                                         |
-| 479     | 17               | 9           | A pass required for riding the Magnet Train.
-It allows you to ride whenever and however much
-you’d like.                                                           |
-| 479     | 17               | 11          | リニアカーに　乗るときに　必要な
-チケット。　いつでも　乗り放題。
-                                                                                                                                 |
-| 479     | 17               | 12          | 乘坐磁浮列车时所需的车票。
-可以随时自由乘坐。                                                                                                                                            |
-| 479     | 18               | 1           | リニアカーに　のるときに　ひつような
-チケット。　いつでも　のりほうだい。
-                                                                                                                             |
-| 479     | 18               | 3           | 리니어 카를 탈 때 필요한
-티켓. 언제든지 무제한으로 이용 가능.                                                                                                                               |
-| 479     | 18               | 4           | 乘坐磁浮列車時所需的車票。
-可以隨時自由乘坐。                                                                                                                                            |
-| 479     | 18               | 5           | Un ticket nécessaire pour monter à bord du
-Train Magnétique. Utilisable à volonté.                                                                                 |
-| 479     | 18               | 6           | Eine Fahrkarte, die einem die Reise mit dem
-Magnetzug ermöglicht. Gilt für beliebig viele
-Fahrten.                                                                 |
-| 479     | 18               | 7           | Billete necesario para poder montar todas las
-veces que se desee en el Magnetotrén.                                                                                |
-| 479     | 18               | 8           | Biglietto necessario per viaggiare sul supertreno.
-Utilizzabile a volontà.                                                                                         |
-| 479     | 18               | 9           | A pass required for riding the Magnet Train.
-It allows you to ride whenever and however much
-you’d like.                                                           |
-| 479     | 18               | 11          | リニアカーに　乗るときに　必要な
-チケット。　いつでも　乗り放題。
-                                                                                                                                 |
-| 479     | 18               | 12          | 乘坐磁浮列车时所需的车票。
-可以随时自由乘坐。                                                                                                                                            |
-| 479     | 19               | 1           | リニアカーに　のるときに　ひつような
-チケット。　いつでも　のりほうだい。
-                                                                                                                             |
-| 479     | 19               | 3           | 리니어 카를 탈 때 필요한
-티켓. 언제든지 무제한으로 이용 가능.                                                                                                                               |
-| 479     | 19               | 4           | 乘坐磁浮列車時所需的車票。
-可以隨時自由乘坐。                                                                                                                                            |
-| 479     | 19               | 5           | Un ticket nécessaire pour monter à bord du
-Train Magnétique. Utilisable à volonté.                                                                                 |
-| 479     | 19               | 6           | Eine Fahrkarte, die einem die Reise mit dem
-Magnetzug ermöglicht. Gilt für beliebig viele
-Fahrten.                                                                 |
-| 479     | 19               | 7           | Billete necesario para poder montar todas las veces
-que se desee en el Magnetotrén.                                                                                |
-| 479     | 19               | 8           | Biglietto necessario per viaggiare sul supertreno.
-Utilizzabile a volontà.                                                                                         |
-| 479     | 19               | 9           | A pass required for riding the Magnet Train.
-It allows you to ride whenever and however much
-you’d like.                                                           |
-| 479     | 19               | 11          | リニアカーに　乗るときに　必要な
-チケット。　いつでも　乗り放題。
-                                                                                                                                 |
-| 479     | 19               | 12          | 乘坐磁浮列车时所需的车票。
-可以随时自由乘坐。                                                                                                                                            |
-| 479     | 20               | 1           | リニアカーに　のるときに　ひつような
-チケット。　いつでも　のりほうだい。
-                                                                                                                             |
-| 479     | 20               | 3           | 리니어 카를 탈 때 필요한
-티켓. 언제든지 무제한으로 이용 가능.                                                                                                                               |
-| 479     | 20               | 4           | 乘坐磁浮列車時所需的車票。
-可以隨時自由乘坐。                                                                                                                                            |
-| 479     | 20               | 5           | Un ticket nécessaire pour monter à bord
-du Train Magnétique. Utilisable à volonté.                                                                                 |
-| 479     | 20               | 6           | Eine Fahrkarte, die einem die Reise mit dem Magnetzug
-ermöglicht. Gilt für beliebig viele Fahrten.                                                                 |
-| 479     | 20               | 7           | Billete necesario para poder montar todas las veces que
-se desee en el Magnetotrén.                                                                                |
-| 479     | 20               | 8           | Biglietto necessario per viaggiare sul supertreno.
-Utilizzabile a volontà.                                                                                         |
-| 479     | 20               | 9           | A pass required for riding the Magnet Train.
-It allows you to ride whenever and however much
-you’d like.                                                           |
-| 479     | 20               | 11          | リニアカーに　乗るときに　必要な
-チケット。　いつでも　乗り放題。
-                                                                                                                                 |
-| 479     | 20               | 12          | 乘坐磁浮列车时所需的车票。
-可以随时自由乘坐。                                                                                                                                            |
-| 480     | 10               | 9           | An important machine part for the
-Power Plant that was stolen.                                                                                                     |
-| 480     | 11               | 5           | Une pièce essentielle du générateur
-de la Centrale.                                                                                                                |
-| 480     | 11               | 9           | An important machine part for the
-Power Plant that was stolen.                                                                                                     |
-| 480     | 14               | 9           | An important machine part for the
-Power Plant that was stolen.                                                                                                     |
-| 480     | 15               | 1           | はつでんしょから　ぬすまれた
-はつでんきの　たいせつな　ぶひん。
-                                                                                                                                  |
-| 480     | 15               | 3           | 발전소에서 도둑맞은
-발전기의 중요한 부품.                                                                                                                                            |
-| 480     | 15               | 5           | Une pièce essentielle du générateur de
-la Centrale.                                                                                                                |
-| 480     | 15               | 6           | Ein unentbehrliches Maschinenteil,
-das aus dem Kraftwerk entwendet wurde.                                                                                          |
-| 480     | 15               | 7           | Poké Ball que se utiliza dentro del Parque Compi.                                                                                                                  |
-| 480     | 15               | 8           | Pezzo rubato alla Centrale Elettrica, essenziale
-per il generatore.                                                                                                |
-| 480     | 15               | 9           | An important part of a machine that
-was stolen from the Power Plant.                                                                                               |
-| 480     | 15               | 11          | 発電所から　ぬすまれた
-発電機の　たいせつな　部品。
-                                                                                                                                        |
-| 480     | 17               | 1           | はつでんしょから　ぬすまれた
-はつでんきの　たいせつな　ぶひん。
-                                                                                                                                  |
-| 480     | 17               | 3           | 발전소에서 도둑맞은
-발전기의 중요한 부품.                                                                                                                                            |
-| 480     | 17               | 4           | 被人從發電廠裡偷走的
-發電機的重要零件。                                                                                                                                               |
-| 480     | 17               | 5           | Une pièce essentielle du générateur de la Centrale.                                                                                                                |
-| 480     | 17               | 6           | Ein unentbehrliches Maschinenteil, das aus dem
-Kraftwerk entwendet wurde.                                                                                          |
-| 480     | 17               | 7           | Valiosa pieza robada de una máquina de la
-Central Energía.                                                                                                         |
-| 480     | 17               | 8           | Pezzo rubato alla Centrale Elettrica, essenziale
-per il generatore.                                                                                                |
-| 480     | 17               | 9           | An important part of a machine that was stolen
-from the Power Plant.                                                                                               |
-| 480     | 17               | 11          | 発電所から　ぬすまれた
-発電機の　たいせつな　部品。
-                                                                                                                                        |
-| 480     | 17               | 12          | 发电厂里被盗的，
-用于发电机的重要零件。                                                                                                                                               |
-| 480     | 18               | 1           | はつでんしょから　ぬすまれた
-はつでんきの　たいせつな　ぶひん。
-                                                                                                                                  |
-| 480     | 18               | 3           | 발전소에서 도둑맞은
-발전기의 중요한 부품.                                                                                                                                            |
-| 480     | 18               | 4           | 被人從發電廠裡偷走的
-發電機的重要零件。                                                                                                                                               |
-| 480     | 18               | 5           | Une pièce essentielle du générateur de la Centrale.                                                                                                                |
-| 480     | 18               | 6           | Ein unentbehrliches Maschinenteil, das aus dem
-Kraftwerk entwendet wurde.                                                                                          |
-| 480     | 18               | 7           | Valiosa pieza robada de una máquina de la
-Central Energía.                                                                                                         |
-| 480     | 18               | 8           | Pezzo rubato alla Centrale Elettrica, essenziale
-per il generatore.                                                                                                |
-| 480     | 18               | 9           | An important part of a machine that was stolen
-from the Power Plant.                                                                                               |
-| 480     | 18               | 11          | 発電所から　ぬすまれた
-発電機の　たいせつな　部品。
-                                                                                                                                        |
-| 480     | 18               | 12          | 发电厂里被盗的，
-用于发电机的重要零件。                                                                                                                                               |
-| 480     | 19               | 1           | はつでんしょから　ぬすまれた
-はつでんきの　たいせつな　ぶひん。
-                                                                                                                                  |
-| 480     | 19               | 3           | 발전소에서 도둑맞은
-발전기의 중요한 부품.                                                                                                                                            |
-| 480     | 19               | 4           | 被人從發電廠裡偷走的
-發電機的重要零件。                                                                                                                                               |
-| 480     | 19               | 5           | Une pièce essentielle du générateur de la Centrale.                                                                                                                |
-| 480     | 19               | 6           | Ein unentbehrliches Maschinenteil, das aus dem
-Kraftwerk entwendet wurde.                                                                                          |
-| 480     | 19               | 7           | Valiosa pieza robada de una máquina de la
-Central Energía.                                                                                                         |
-| 480     | 19               | 8           | Pezzo rubato alla Centrale Elettrica, essenziale
-per il generatore.                                                                                                |
-| 480     | 19               | 9           | An important part of a machine that was stolen
-from the Power Plant.                                                                                               |
-| 480     | 19               | 11          | 発電所から　ぬすまれた
-発電機の　たいせつな　部品。
-                                                                                                                                        |
-| 480     | 19               | 12          | 发电厂里被盗的，
-用于发电机的重要零件。                                                                                                                                               |
-| 480     | 20               | 1           | はつでんしょから　ぬすまれた
-はつでんきの　たいせつな　ぶひん。
-                                                                                                                                  |
-| 480     | 20               | 3           | 발전소에서 도둑맞은
-발전기의 중요한 부품.                                                                                                                                            |
-| 480     | 20               | 4           | 被人從發電廠裡偷走的
-發電機的重要零件。                                                                                                                                               |
-| 480     | 20               | 5           | Une pièce essentielle du générateur de la Centrale.                                                                                                                |
-| 480     | 20               | 6           | Ein unentbehrliches Maschinenteil, das aus dem
-Kraftwerk entwendet wurde.                                                                                          |
-| 480     | 20               | 7           | Valiosa pieza robada de una máquina de la Central
-Energía.                                                                                                         |
-| 480     | 20               | 8           | Pezzo rubato alla Centrale Elettrica, essenziale
-per il generatore.                                                                                                |
-| 480     | 20               | 9           | An important part of a machine that was stolen
-from the Power Plant.                                                                                               |
-| 480     | 20               | 11          | 発電所から　ぬすまれた
-発電機の　たいせつな　部品。
-                                                                                                                                        |
-| 480     | 20               | 12          | 发电厂里被盗的，
-用于发电机的重要零件。                                                                                                                                               |
-| 481     | 10               | 9           | A strange, silvery feather
-that sparkles.                                                                                                                          |
-| 481     | 11               | 5           | Une étrange plume qui brille
-d’un éclat argenté.                                                                                                                   |
-| 481     | 11               | 9           | A strange, silvery feather
-that sparkles.                                                                                                                          |
-| 481     | 14               | 9           | A strange, silvery feather
-that sparkles.                                                                                                                          |
-| 481     | 15               | 1           | ぎんいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 481     | 15               | 3           | 은빛으로 빛나는
-신비한 날개.                                                                                                                                                   |
-| 481     | 15               | 5           | Une étrange plume qui brille d’un éclat
-argenté.                                                                                                                   |
-| 481     | 15               | 6           | Eine silberne Feder, die von einem
-seltsamen Leuchten erfüllt ist.                                                                                                 |
-| 481     | 15               | 7           | Álbum que recoge las fotos que se toman a lo
-largo de la aventura.                                                                                                 |
-| 481     | 15               | 8           | Misteriosa piuma che brilla di luce argentea.                                                                                                                      |
-| 481     | 15               | 9           | A strange, silvery feather
-that sparkles.                                                                                                                          |
-| 481     | 15               | 11          | ぎんいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 481     | 17               | 1           | ぎんいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 481     | 17               | 3           | 은빛으로 빛나는
-신비한 날개.                                                                                                                                                   |
-| 481     | 17               | 4           | 散發著銀色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 17               | 5           | Une étrange plume qui brille d’un éclat argenté.                                                                                                                   |
-| 481     | 17               | 6           | Eine silberne Feder, die von einem seltsamen
-Leuchten erfüllt ist.                                                                                                 |
-| 481     | 17               | 7           | Misteriosa ala de un brillante color plateado.                                                                                                                     |
-| 481     | 17               | 8           | Misteriosa piuma che brilla di luce argentea.                                                                                                                      |
-| 481     | 17               | 9           | A strange, silvery feather that sparkles.                                                                                                                          |
-| 481     | 17               | 11          | ぎんいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 481     | 17               | 12          | 散发着银色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 18               | 1           | ぎんいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 481     | 18               | 3           | 은빛으로 빛나는
-신비한 날개.                                                                                                                                                   |
-| 481     | 18               | 4           | 散發著銀色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 18               | 5           | Une étrange plume qui brille d’un éclat argenté.                                                                                                                   |
-| 481     | 18               | 6           | Eine silberne Feder, die von einem seltsamen
-Leuchten erfüllt ist.                                                                                                 |
-| 481     | 18               | 7           | Misteriosa ala de un brillante color plateado.                                                                                                                     |
-| 481     | 18               | 8           | Misteriosa piuma che brilla di luce argentea.                                                                                                                      |
-| 481     | 18               | 9           | A strange, silvery feather that sparkles.                                                                                                                          |
-| 481     | 18               | 11          | ぎんいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 481     | 18               | 12          | 散发着银色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 19               | 1           | ぎんいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 481     | 19               | 3           | 은빛으로 빛나는
-신비한 날개.                                                                                                                                                   |
-| 481     | 19               | 4           | 散發著銀色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 19               | 5           | Une étrange plume qui brille d’un éclat argenté.                                                                                                                   |
-| 481     | 19               | 6           | Eine silberne Feder, die von einem seltsamen
-Leuchten erfüllt ist.                                                                                                 |
-| 481     | 19               | 7           | Misteriosa ala de un brillante color plateado.                                                                                                                     |
-| 481     | 19               | 8           | Misteriosa piuma che brilla di luce argentea.                                                                                                                      |
-| 481     | 19               | 9           | A strange, silvery feather that sparkles.                                                                                                                          |
-| 481     | 19               | 11          | ぎんいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 481     | 19               | 12          | 散发着银色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 20               | 1           | ぎんいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 481     | 20               | 3           | 은빛으로 빛나는
-신비한 날개.                                                                                                                                                   |
-| 481     | 20               | 4           | 散發著銀色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 481     | 20               | 5           | Une étrange plume qui brille d’un éclat argenté.                                                                                                                   |
-| 481     | 20               | 6           | Eine silberne Feder, die von einem seltsamen Leuchten
-erfüllt ist.                                                                                                 |
-| 481     | 20               | 7           | Misteriosa ala de un brillante color plateado.                                                                                                                     |
-| 481     | 20               | 8           | Misteriosa piuma che brilla di luce argentea.                                                                                                                      |
-| 481     | 20               | 9           | A strange, silvery feather that sparkles.                                                                                                                          |
-| 481     | 20               | 11          | ぎんいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 481     | 20               | 12          | 散发着银色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 10               | 9           | A mystical, rainbow feather
-that sparkles.                                                                                                                         |
-| 482     | 11               | 5           | Une étrange plume qui brille
-d’un éclat arc-en-ciel.                                                                                                               |
-| 482     | 11               | 9           | A mystical rainbow feather
-that sparkles.                                                                                                                          |
-| 482     | 14               | 9           | A mystical rainbow feather
-that sparkles.                                                                                                                          |
-| 482     | 15               | 1           | にじいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 482     | 15               | 3           | 무지갯빛으로 빛나는
-이상한 날개.                                                                                                                                                 |
-| 482     | 15               | 5           | Une étrange plume qui brille d’un éclat
-arc-en-ciel.                                                                                                               |
-| 482     | 15               | 6           | Eine mystische Feder, die von einem
-regenbogenfarbenen Leuchten erfüllt ist.                                                                                       |
-| 482     | 15               | 7           | Lector con el que se pueden escuchar aquellas
-canciones tan nostálgicas. Se cambia con un solo
-interruptor.                                                        |
-| 482     | 15               | 8           | Piuma magica dai mille colori.                                                                                                                                     |
-| 482     | 15               | 9           | A mystical rainbow feather
-that sparkles.                                                                                                                          |
-| 482     | 15               | 11          | にじいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 482     | 17               | 1           | にじいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 482     | 17               | 3           | 무지갯빛으로 빛나는
-이상한 날개.                                                                                                                                                 |
-| 482     | 17               | 4           | 散發著虹色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 17               | 5           | Une étrange plume qui brille d’un éclat arc-en-ciel.                                                                                                               |
-| 482     | 17               | 6           | Eine mystische Feder, die von einem
-regenbogenfarbenen Leuchten erfüllt ist.                                                                                       |
-| 482     | 17               | 7           | Misteriosa ala de un brillante color arcoíris.                                                                                                                     |
-| 482     | 17               | 8           | Piuma magica dai mille colori.                                                                                                                                     |
-| 482     | 17               | 9           | A mystical rainbow feather that sparkles.                                                                                                                          |
-| 482     | 17               | 11          | にじいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 482     | 17               | 12          | 散发着虹色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 18               | 1           | にじいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 482     | 18               | 3           | 무지갯빛으로 빛나는
-이상한 날개.                                                                                                                                                 |
-| 482     | 18               | 4           | 散發著虹色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 18               | 5           | Une étrange plume qui brille d’un éclat arc-en-ciel.                                                                                                               |
-| 482     | 18               | 6           | Eine mystische Feder, die von einem
-regenbogenfarbenen Leuchten erfüllt ist.                                                                                       |
-| 482     | 18               | 7           | Misteriosa ala de un brillante color arcoíris.                                                                                                                     |
-| 482     | 18               | 8           | Piuma magica dai mille colori.                                                                                                                                     |
-| 482     | 18               | 9           | A mystical rainbow feather that sparkles.                                                                                                                          |
-| 482     | 18               | 11          | にじいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 482     | 18               | 12          | 散发着虹色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 19               | 1           | にじいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 482     | 19               | 3           | 무지갯빛으로 빛나는
-이상한 날개.                                                                                                                                                 |
-| 482     | 19               | 4           | 散發著虹色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 19               | 5           | Une étrange plume qui brille d’un éclat arc-en-ciel.                                                                                                               |
-| 482     | 19               | 6           | Eine mystische Feder, die von einem
-regenbogenfarbenen Leuchten erfüllt ist.                                                                                       |
-| 482     | 19               | 7           | Misteriosa ala de un brillante color arcoíris.                                                                                                                     |
-| 482     | 19               | 8           | Piuma magica dai mille colori.                                                                                                                                     |
-| 482     | 19               | 9           | A mystical rainbow feather that sparkles.                                                                                                                          |
-| 482     | 19               | 11          | にじいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 482     | 19               | 12          | 散发着虹色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 20               | 1           | にじいろに　ひかり　かがやく
-ふしぎな　はね。
-                                                                                                                                           |
-| 482     | 20               | 3           | 무지갯빛으로 빛나는
-이상한 날개.                                                                                                                                                 |
-| 482     | 20               | 4           | 散發著虹色光輝的
-神奇羽毛。                                                                                                                                                     |
-| 482     | 20               | 5           | Une étrange plume qui brille d’un éclat arc-en-ciel.                                                                                                               |
-| 482     | 20               | 6           | Eine mystische Feder, die von einem
-regenbogenfarbenen Leuchten erfüllt ist.                                                                                       |
-| 482     | 20               | 7           | Misteriosa ala de un brillante color arcoíris.                                                                                                                     |
-| 482     | 20               | 8           | Piuma magica dai mille colori.                                                                                                                                     |
-| 482     | 20               | 9           | A mystical rainbow feather that sparkles.                                                                                                                          |
-| 482     | 20               | 11          | にじいろに　ひかり　かがやく
-不思議な　はね。
-                                                                                                                                           |
-| 482     | 20               | 12          | 散发着虹色光辉的
-神奇羽毛。                                                                                                                                                     |
-| 483     | 10               | 9           | A mysterious Egg obtained from Mr.
-Pokémon. What’s in the Egg is unknown.                                                                                          |
-| 483     | 11               | 5           | Un œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 11               | 9           | A mysterious Egg obtained from Mr.
-Pokémon. What’s in the Egg is unknown.                                                                                          |
-| 483     | 14               | 9           | A mysterious Egg obtained from Mr.
-Pokémon. What’s in the Egg is unknown.                                                                                          |
-| 483     | 15               | 1           | ポケモンじいさんから　あずかった
-ふしぎな　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 15               | 3           | 포켓몬 할아버지로부터 받은
-이상한 모양의 알.
-어떤 알인지 모른다.                                                                                                                              |
-| 483     | 15               | 5           | Un Œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 15               | 6           | Ein seltsam gemustertes Ei, das du von
-Mr. Pokémon erhalten hast. Sein Inhalt
-liegt im Dunkeln.                                                                    |
-| 483     | 15               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 483     | 15               | 8           | Uovo dai disegni bizzarri che si riceve da
-Mr. Pokémon. Non si sa che cosa contenga.                                                                               |
-| 483     | 15               | 9           | A mysterious Egg obtained from Mr. Pokémon.
-What is in the Egg is unknown.                                                                                         |
-| 483     | 15               | 11          | ポケモンじいさんから　あずかった
-不思議な　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 17               | 1           | ポケモンじいさんから　あずかった
-ふしぎな　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 17               | 3           | 포켓몬 할아버지로부터 받은
-이상한 모양의 알.
-어떤 알인지 모른다.                                                                                                                              |
-| 483     | 17               | 4           | 從寶可夢爺爺那裡得到的
-有著神奇花紋的蛋。
-不知道是什麼的蛋。                                                                                                                                    |
-| 483     | 17               | 5           | Un Œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 17               | 6           | Ein seltsam gemustertes Ei, das du von
-Mr. Pokémon erhalten hast. Sein Inhalt
-liegt im Dunkeln.                                                                    |
-| 483     | 17               | 7           | Misterioso Huevo con dibujos que obtienes del
-Sr. Pokémon. Nadie sabe qué contiene.                                                                                |
-| 483     | 17               | 8           | Uovo dai disegni bizzarri che si riceve da
-Mr. Pokémon. Non si sa che cosa contenga.                                                                               |
-| 483     | 17               | 9           | A mysterious Egg obtained from Mr. Pokémon.
-What is in the Egg is unknown.                                                                                         |
-| 483     | 17               | 11          | ポケモンじいさんから　あずかった
-不思議な　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 17               | 12          | 从宝可梦爷爷那里得到的
-有着神奇花纹的蛋。
-不知道是什么的蛋。                                                                                                                                    |
-| 483     | 18               | 1           | ポケモンじいさんから　あずかった
-ふしぎな　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 18               | 3           | 포켓몬 할아버지로부터 받은
-이상한 모양의 알.
-어떤 알인지 모른다.                                                                                                                              |
-| 483     | 18               | 4           | 從寶可夢爺爺那裡得到的
-有著神奇花紋的蛋。
-不知道是什麼的蛋。                                                                                                                                    |
-| 483     | 18               | 5           | Un Œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 18               | 6           | Ein seltsam gemustertes Ei, das du von
-Mr. Pokémon erhalten hast. Sein Inhalt
-liegt im Dunkeln.                                                                    |
-| 483     | 18               | 7           | Misterioso Huevo con dibujos que obtienes del
-Sr. Pokémon. Nadie sabe qué contiene.                                                                                |
-| 483     | 18               | 8           | Uovo dai disegni bizzarri che si riceve da
-Mr. Pokémon. Non si sa che cosa contenga.                                                                               |
-| 483     | 18               | 9           | A mysterious Egg obtained from Mr. Pokémon.
-What is in the Egg is unknown.                                                                                         |
-| 483     | 18               | 11          | ポケモンじいさんから　あずかった
-不思議な　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 18               | 12          | 从宝可梦爷爷那里得到的
-有着神奇花纹的蛋。
-不知道是什么的蛋。                                                                                                                                    |
-| 483     | 19               | 1           | ポケモンじいさんから　あずかった
-ふしぎな　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 19               | 3           | 포켓몬 할아버지로부터 받은
-이상한 모양의 알.
-어떤 알인지 모른다.                                                                                                                              |
-| 483     | 19               | 4           | 從寶可夢爺爺那裡得到的
-有著神奇花紋的蛋。
-不知道是什麼的蛋。                                                                                                                                    |
-| 483     | 19               | 5           | Un Œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 19               | 6           | Ein seltsam gemustertes Ei, das du von
-Mr. Pokémon erhalten hast. Sein Inhalt
-liegt im Dunkeln.                                                                    |
-| 483     | 19               | 7           | Misterioso Huevo con dibujos que obtienes del
-Sr. Pokémon. Nadie sabe qué contiene.                                                                                |
-| 483     | 19               | 8           | Uovo dai disegni bizzarri che si riceve da
-Mr. Pokémon. Non si sa che cosa contenga.                                                                               |
-| 483     | 19               | 9           | A mysterious Egg obtained from Mr. Pokémon.
-What is in the Egg is unknown.                                                                                         |
-| 483     | 19               | 11          | ポケモンじいさんから　あずかった
-不思議な　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 19               | 12          | 从宝可梦爷爷那里得到的
-有着神奇花纹的蛋。
-不知道是什么的蛋。                                                                                                                                    |
-| 483     | 20               | 1           | ポケモンじいさんから　あずかった
-ふしぎな　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 20               | 3           | 포켓몬 할아버지로부터 받은
-이상한 모양의 알.
-어떤 알인지 모른다.                                                                                                                              |
-| 483     | 20               | 4           | 從寶可夢爺爺那裡得到的
-有著神奇花紋的蛋。
-不知道是什麼的蛋。                                                                                                                                    |
-| 483     | 20               | 5           | Un Œuf étrange confié par M. Pokémon.
-Personne ne sait ce qu’il contient.                                                                                          |
-| 483     | 20               | 6           | Ein seltsam gemustertes Ei, das du von Mr. Pokémon
-erhalten hast. Sein Inhalt liegt im Dunkeln.                                                                    |
-| 483     | 20               | 7           | Misterioso Huevo con dibujos que obtienes del
-Sr. Pokémon. Nadie sabe qué contiene.                                                                                |
-| 483     | 20               | 8           | Uovo dai disegni bizzarri che si riceve da
-Mr. Pokémon. Non si sa che cosa contenga.                                                                               |
-| 483     | 20               | 9           | A mysterious Egg obtained from Mr. Pokémon.
-What is in the Egg is unknown.                                                                                         |
-| 483     | 20               | 11          | ポケモンじいさんから　あずかった
-不思議な　もようの　タマゴ。
-なんの　タマゴか　わからない。                                                                                                                    |
-| 483     | 20               | 12          | 从宝可梦爷爷那里得到的
-有着神奇花纹的蛋。
-不知道是什么的蛋。                                                                                                                                    |
-| 484     | 10               | 9           | A music player that allows you to listen
-to nostalgic songs. It’s operated with
-a single switch.                                                                   |
-| 484     | 11               | 5           | Un lecteur de musique qui permet de se
-plonger dans une atmosphère rétro. Une
-pression suffit pour changer de mode.                                                |
-| 484     | 11               | 9           | A music player that allows you to listen
-to nostalgic songs. It’s operated with
-a single switch.                                                                   |
-| 484     | 14               | 9           | A music player that allows you to listen
-to nostalgic songs. It’s operated with
-a single switch.                                                                   |
-| 484     | 15               | 1           | なつかしい　きょくが　きける
-おんがく　プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                      |
-| 484     | 15               | 3           | 그리운 곡을 들을 수 있는
-음악 플레이어.
-스위치 하나로 전환할 수 있다.                                                                                                                          |
-| 484     | 15               | 5           | Un lecteur de musique qui permet de se plonger
-dans une atmosphère rétro. Une pression suffit
-pour changer de mode.                                                |
-| 484     | 15               | 6           | Ein Abspielgerät, das Musik aus einer längst
-vergangenen Zeit spielt. Lässt sich durch
-simplen Knopfdruck bedienen.                                                |
-| 484     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Botaluces.                                                                                         |
-| 484     | 15               | 8           | Lettore di musica che permette di immergersi
-in atmosfere rétro.
-Ha un solo pulsante per cambiare canzone.                                                         |
-| 484     | 15               | 9           | A music player that allows you to listen
-to nostalgic songs. It’s operated with
-the flip of a single switch.                                                       |
-| 484     | 15               | 11          | なつかしい　曲が　きける
-音楽プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                           |
-| 484     | 17               | 1           | なつかしい　きょくが　きける
-おんがく　プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                      |
-| 484     | 17               | 3           | 그리운 곡을 들을 수 있는
-음악 플레이어.
-스위치 하나로 전환할 수 있다.                                                                                                                          |
-| 484     | 17               | 4           | 可以聽到懷舊歌曲的
-音樂播放機。
-可一鍵切換歌曲。                                                                                                                                          |
-| 484     | 17               | 5           | Un lecteur de musique qui permet de se plonger
-dans une atmosphère rétro. Une pression suffit
-pour changer de mode.                                                |
-| 484     | 17               | 6           | Ein Abspielgerät, das Musik aus einer längst
-vergangenen Zeit spielt. Lässt sich durch simplen
-Knopfdruck bedienen.                                                |
-| 484     | 17               | 7           | Lector con el que se pueden escuchar aquellas
-canciones tan nostálgicas. Se cambia con un solo
-interruptor.                                                        |
-| 484     | 17               | 8           | Lettore di musica che permette di immergersi
-in atmosfere rétro.
-Ha un solo pulsante per cambiare canzone.                                                         |
-| 484     | 17               | 9           | A music player that allows you to listen to nostalgic
-songs. It’s operated with the flip of a single switch.                                                       |
-| 484     | 17               | 11          | なつかしい　曲が　きける
-音楽プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                           |
-| 484     | 17               | 12          | 可以听到怀旧歌曲的音乐播放器。
-可用一个开关切换歌曲。                                                                                                                                        |
-| 484     | 18               | 1           | なつかしい　きょくが　きける
-おんがく　プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                      |
-| 484     | 18               | 3           | 그리운 곡을 들을 수 있는
-음악 플레이어.
-스위치 하나로 전환할 수 있다.                                                                                                                          |
-| 484     | 18               | 4           | 可以聽到懷舊歌曲的
-音樂播放機。
-可一鍵切換歌曲。                                                                                                                                          |
-| 484     | 18               | 5           | Un lecteur de musique qui permet de se plonger
-dans une atmosphère rétro. Une pression suffit
-pour changer de mode.                                                |
-| 484     | 18               | 6           | Ein Abspielgerät, das Musik aus einer längst
-vergangenen Zeit spielt. Lässt sich durch simplen
-Knopfdruck bedienen.                                                |
-| 484     | 18               | 7           | Lector con el que se pueden escuchar aquellas
-canciones tan nostálgicas. Se cambia con un solo
-interruptor.                                                        |
-| 484     | 18               | 8           | Lettore di musica che permette di immergersi
-in atmosfere rétro.
-Ha un solo pulsante per cambiare canzone.                                                         |
-| 484     | 18               | 9           | A music player that allows you to listen to nostalgic
-songs. It’s operated with the flip of a single switch.                                                       |
-| 484     | 18               | 11          | なつかしい　曲が　きける
-音楽プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                           |
-| 484     | 18               | 12          | 可以听到怀旧歌曲的音乐播放器。
-可用一个开关切换歌曲。                                                                                                                                        |
-| 484     | 19               | 1           | なつかしい　きょくが　きける
-おんがく　プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                      |
-| 484     | 19               | 3           | 그리운 곡을 들을 수 있는
-음악 플레이어.
-스위치 하나로 전환할 수 있다.                                                                                                                          |
-| 484     | 19               | 4           | 可以聽到懷舊歌曲的
-音樂播放機。
-可一鍵切換歌曲。                                                                                                                                          |
-| 484     | 19               | 5           | Un lecteur de musique qui permet de se plonger
-dans une atmosphère rétro. Une pression suffit
-pour changer de mode.                                                |
-| 484     | 19               | 6           | Ein Abspielgerät, das Musik aus einer längst
-vergangenen Zeit spielt. Lässt sich durch simplen
-Knopfdruck bedienen.                                                |
-| 484     | 19               | 7           | Lector con el que se pueden escuchar aquellas
-canciones tan nostálgicas. Se cambia con un solo
-interruptor.                                                        |
-| 484     | 19               | 8           | Lettore di musica che permette di immergersi
-in atmosfere rétro.
-Ha un solo pulsante per cambiare canzone.                                                         |
-| 484     | 19               | 9           | A music player that allows you to listen to nostalgic
-songs. It’s operated with the flip of a single switch.                                                       |
-| 484     | 19               | 11          | なつかしい　曲が　きける
-音楽プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                           |
-| 484     | 19               | 12          | 可以听到怀旧歌曲的音乐播放器。
-可用一个开关切换歌曲。                                                                                                                                        |
-| 484     | 20               | 1           | なつかしい　きょくが　きける
-おんがく　プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                      |
-| 484     | 20               | 3           | 그리운 곡을 들을 수 있는
-음악 플레이어.
-스위치 하나로 전환할 수 있다.                                                                                                                          |
-| 484     | 20               | 4           | 可以聽到懷舊歌曲的
-音樂播放機。
-可一鍵切換歌曲。                                                                                                                                          |
-| 484     | 20               | 5           | Un lecteur de musique qui permet de se plonger
-dans une atmosphère rétro. Une pression suffit
-pour changer de mode.                                                |
-| 484     | 20               | 6           | Ein Abspielgerät, das Musik aus einer längst
-vergangenen Zeit spielt. Lässt sich durch simplen
-Knopfdruck bedienen.                                                |
-| 484     | 20               | 7           | Lector con el que se pueden escuchar aquellas
-canciones tan nostálgicas. Se cambia con un solo
-interruptor.                                                        |
-| 484     | 20               | 8           | Lettore di musica che permette di immergersi
-in atmosfere rétro.
-Ha un solo pulsante per cambiare canzone.                                                         |
-| 484     | 20               | 9           | A music player that allows you to listen to nostalgic
-songs. It’s operated with the flip of a single switch.                                                       |
-| 484     | 20               | 11          | なつかしい　曲が　きける
-音楽プレイヤー。
-スイッチ　ひとつで　きりかえられる。                                                                                                                           |
-| 484     | 20               | 12          | 可以听到怀旧歌曲的音乐播放器。
-可用一个开关切换歌曲。                                                                                                                                        |
-| 485     | 10               | 9           | An old-fashioned bell with a gentle,
-soothing sound.                                                                                                               |
-| 485     | 11               | 5           | Une cloche antique au tintement
-apaisant.                                                                                                                          |
-| 485     | 11               | 9           | A very old-fashioned bell that makes a
-gentle ringing.                                                                                                             |
-| 485     | 14               | 9           | A very old-fashioned bell that makes a
-gentle ringing.                                                                                                             |
-| 485     | 15               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 15               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 485     | 15               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 485     | 15               | 6           | Eine altehrwürdige Glocke, deren Läuten
-alle besänftigt, die es hören.                                                                                             |
-| 485     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Pisacírculos.                                                                                      |
-| 485     | 15               | 8           | Una campana antica. Produce un suono
-che dona pace al cuore.                                                                                                       |
-| 485     | 15               | 9           | A very old-fashioned bell that
-makes a gentle ringing sound.                                                                                                       |
-| 485     | 15               | 11          | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 17               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 17               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 485     | 17               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 485     | 17               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 485     | 17               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 485     | 17               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 485     | 17               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 485     | 17               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 485     | 17               | 11          | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 17               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 485     | 18               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 18               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 485     | 18               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 485     | 18               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 485     | 18               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 485     | 18               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 485     | 18               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 485     | 18               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 485     | 18               | 11          | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 18               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 485     | 19               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 19               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 485     | 19               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 485     | 19               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 485     | 19               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 485     | 19               | 7           | Campana de aspecto antiguo que emite un sonido
-que calma el espíritu.                                                                                              |
-| 485     | 19               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 485     | 19               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 485     | 19               | 11          | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 19               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 485     | 20               | 1           | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 20               | 3           | 마음이 편안해지는 음색이 들리는
-아주 고풍스러운 방울.                                                                                                                                     |
-| 485     | 20               | 4           | 能發出使人心情平靜音色的，
-非常古老的鈴鐺。                                                                                                                                             |
-| 485     | 20               | 5           | Une cloche antique au tintement apaisant.                                                                                                                          |
-| 485     | 20               | 6           | Eine altehrwürdige Glocke, deren Läuten alle
-besänftigt, die es hören.                                                                                             |
-| 485     | 20               | 7           | Cascabel de aspecto antiguo que emite un sonido que
-calma el espíritu.                                                                                             |
-| 485     | 20               | 8           | Una campana antica. Produce un suono che dona
-pace al cuore.                                                                                                       |
-| 485     | 20               | 9           | A very old-fashioned bell that makes a gentle
-ringing sound.                                                                                                       |
-| 485     | 20               | 11          | こころ　やすまる　ねいろが　きける
-とても　ふるめかしい　スズ。
-                                                                                                                                  |
-| 485     | 20               | 12          | 能发出静心宁神音色的，
-非常古旧的铃铛。                                                                                                                                               |
-| 486     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many victories
-you’ve had.                                                                                 |
-| 486     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre
-nombre de victoires au Pokéathlon.                                                           |
-| 486     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many victories
-you’ve had.                                                                                 |
-| 486     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many victories
-you’ve had.                                                                                 |
-| 486     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ゆうしょう　かいすうが
-                                                                                                                                   |
-| 486     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-우승 횟수가
-기록된 카드.                                                                                                                                    |
-| 486     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires au Pokéathlon.                                                           |
-| 486     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du ein Turnier gewonnen hast.                                                                         |
-| 486     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar en
-conexión.                                                            |
-| 486     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero totale
-di vittorie.                                                                       |
-| 486     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many victories
-you have had in the Pokéathlon.                                                            |
-| 486     | 15               | 11          | ポケスロンの　記録が　はいっている。
-優勝　回数が
-記録された　カード。                                                                                                                               |
-| 486     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ゆうしょう　かいすうが
-きろくされた　カード。                                                                                                                        |
-| 486     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-우승 횟수가
-기록된 카드.                                                                                                                                    |
-| 486     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires au Pokéathlon.                                                           |
-| 486     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du ein Turnier gewonnen hast.                                                                         |
-| 486     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias.                                                                                                      |
-| 486     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero totale
-di vittorie.                                                                       |
-| 486     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many victories you have had in
-the Pokéathlon.                                                            |
-| 486     | 17               | 11          | ポケスロンの　記録が　はいっている。
-優勝　回数が
-記録された　カード。                                                                                                                               |
-| 486     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ゆうしょう　かいすうが
-きろくされた　カード。                                                                                                                        |
-| 486     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-우승 횟수가
-기록된 카드.                                                                                                                                    |
-| 486     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires au Pokéathlon.                                                           |
-| 486     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du ein Turnier gewonnen hast.                                                                         |
-| 486     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias.                                                                                                      |
-| 486     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero totale
-di vittorie.                                                                       |
-| 486     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many victories you have had in
-the Pokéathlon.                                                            |
-| 486     | 18               | 11          | ポケスロンの　記録が　はいっている。
-優勝　回数が
-記録された　カード。                                                                                                                               |
-| 486     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ゆうしょう　かいすうが
-きろくされた　カード。                                                                                                                        |
-| 486     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-우승 횟수가
-기록된 카드.                                                                                                                                    |
-| 486     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de victoires
-au Pokéathlon.                                                           |
-| 486     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du ein Turnier gewonnen hast.                                                                         |
-| 486     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias.                                                                                                      |
-| 486     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero totale
-di vittorie.                                                                       |
-| 486     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many victories you have had in
-the Pokéathlon.                                                            |
-| 486     | 19               | 11          | ポケスロンの　記録が　はいっている。
-優勝　回数が
-記録された　カード。                                                                                                                               |
-| 486     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ゆうしょう　かいすうが
-きろくされた　カード。                                                                                                                        |
-| 486     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-우승 횟수가
-기록된 카드.                                                                                                                                    |
-| 486     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 486     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de victoires
-au Pokéathlon.                                                           |
-| 486     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du ein Turnier gewonnen hast.                                                                         |
-| 486     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias.                                                                                                      |
-| 486     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero totale
-di vittorie.                                                                       |
-| 486     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many victories you have had in
-the Pokéathlon.                                                            |
-| 486     | 20               | 11          | ポケスロンの　記録が　はいっている。
-優勝　回数が
-記録された　カード。                                                                                                                               |
-| 486     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-losses you’ve had.                                                                                    |
-| 487     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de fois où vous avez fini en dernier.                                                    |
-| 487     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-losses you’ve had.                                                                                    |
-| 487     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-losses you’ve had.                                                                                    |
-| 487     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ビリになった　かいすうが
-きろくされた　カード。                                                                                                                       |
-| 487     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-꼴찌가 된 횟수가
-기록된 카드.                                                                                                                                 |
-| 487     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez fini en dernier.                                                    |
-| 487     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du bei einem Turnier Letzter
-geworden bist.                                                           |
-| 487     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en una disciplina.                                                                                    |
-| 487     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti.                                                                          |
-| 487     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many losses
-you have had in the Pokéathlon.                                                               |
-| 487     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ビリになった　回数が
-記録された　カード。                                                                                                                           |
-| 487     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ビリになった　かいすうが
-きろくされた　カード。                                                                                                                       |
-| 487     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-꼴찌가 된 횟수가
-기록된 카드.                                                                                                                                 |
-| 487     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez fini en dernier.                                                    |
-| 487     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du bei einem Turnier Letzter
-geworden bist.                                                           |
-| 487     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar.                                                                        |
-| 487     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti.                                                                          |
-| 487     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many losses you have had in the Pokéathlon.                                                               |
-| 487     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ビリになった　回数が
-記録された　カード。                                                                                                                           |
-| 487     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ビリになった　かいすうが
-きろくされた　カード。                                                                                                                       |
-| 487     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-꼴찌가 된 횟수가
-기록된 카드.                                                                                                                                 |
-| 487     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez fini en dernier.                                                    |
-| 487     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du bei einem Turnier Letzter
-geworden bist.                                                           |
-| 487     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar.                                                                        |
-| 487     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti.                                                                          |
-| 487     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many losses you have had in the Pokéathlon.                                                               |
-| 487     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ビリになった　回数が
-記録された　カード。                                                                                                                           |
-| 487     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ビリになった　かいすうが
-きろくされた　カード。                                                                                                                       |
-| 487     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-꼴찌가 된 횟수가
-기록된 카드.                                                                                                                                 |
-| 487     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où vous
-avez fini en dernier.                                                    |
-| 487     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du bei einem Turnier Letzter
-geworden bist.                                                           |
-| 487     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar.                                                                        |
-| 487     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti.                                                                          |
-| 487     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many losses you have had in the Pokéathlon.                                                               |
-| 487     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ビリになった　回数が
-記録された　カード。                                                                                                                           |
-| 487     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ビリになった　かいすうが
-きろくされた　カード。                                                                                                                       |
-| 487     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-꼴찌가 된 횟수가
-기록된 카드.                                                                                                                                 |
-| 487     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 487     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez fini en dernier.                                                    |
-| 487     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du bei einem Turnier Letzter geworden bist.                                                           |
-| 487     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-veces que se ha quedado en último lugar.                                                                        |
-| 487     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti.                                                                          |
-| 487     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many losses you have had in the Pokéathlon.                                                               |
-| 487     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ビリになった　回数が
-記録された　カード。                                                                                                                           |
-| 487     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have dashed.                                                                       |
-| 488     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de sprints de vos Pokémon.                                                               |
-| 488     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have dashed.                                                                       |
-| 488     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have dashed.                                                                       |
-| 488     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ダッシュした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 488     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 대시한 횟수가
-기록된 카드.                                                                                                                              |
-| 488     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sprints
-de vos Pokémon.                                                               |
-| 488     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Sprints du schon hinter dir hast.                                                                   |
-| 488     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que has terminado en última posición en
-una disciplina.                                                   |
-| 488     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di sprint
-dei tuoi Pokémon.                                                               |
-| 488     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon dashed in the Pokéathlon.                                                         |
-| 488     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ダッシュした　回数が
-記録された　カード。                                                                                                                     |
-| 488     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ダッシュした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 488     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 대시한 횟수가
-기록된 카드.                                                                                                                              |
-| 488     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sprints
-de vos Pokémon.                                                               |
-| 488     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Sprints du schon hinter dir hast.                                                                   |
-| 488     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de sprints de los Pokémon.                                                                                         |
-| 488     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di sprint
-dei tuoi Pokémon.                                                               |
-| 488     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon dashed in
-the Pokéathlon.                                                         |
-| 488     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ダッシュした　回数が
-記録された　カード。                                                                                                                     |
-| 488     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ダッシュした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 488     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 대시한 횟수가
-기록된 카드.                                                                                                                              |
-| 488     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sprints
-de vos Pokémon.                                                               |
-| 488     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Sprints du schon hinter dir hast.                                                                   |
-| 488     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de sprints de los Pokémon.                                                                                         |
-| 488     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di sprint
-dei tuoi Pokémon.                                                               |
-| 488     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon dashed in
-the Pokéathlon.                                                         |
-| 488     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ダッシュした　回数が
-記録された　カード。                                                                                                                     |
-| 488     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ダッシュした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 488     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 대시한 횟수가
-기록된 카드.                                                                                                                              |
-| 488     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sprints
-de vos Pokémon.                                                               |
-| 488     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Sprints du schon hinter dir hast.                                                                   |
-| 488     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de sprints de los Pokémon.                                                                                         |
-| 488     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di sprint
-dei tuoi Pokémon.                                                               |
-| 488     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon dashed in
-the Pokéathlon.                                                         |
-| 488     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ダッシュした　回数が
-記録された　カード。                                                                                                                     |
-| 488     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ダッシュした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 488     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 대시한 횟수가
-기록된 카드.                                                                                                                              |
-| 488     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 488     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sprints
-de vos Pokémon.                                                               |
-| 488     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viele Sprints du schon hinter dir hast.                                                                   |
-| 488     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-sprints de los Pokémon.                                                                                         |
-| 488     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di sprint
-dei tuoi Pokémon.                                                               |
-| 488     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon dashed in
-the Pokéathlon.                                                         |
-| 488     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ダッシュした　回数が
-記録された　カード。                                                                                                                     |
-| 488     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have jumped.                                                                       |
-| 489     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de sauts de vos Pokémon.                                                                 |
-| 489     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have jumped.                                                                       |
-| 489     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have jumped.                                                                       |
-| 489     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ジャンプした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 489     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 점프한 횟수가
-기록된 카드.                                                                                                                              |
-| 489     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sauts
-de vos Pokémon.                                                                 |
-| 489     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du gesprungen bist.                                                                                   |
-| 489     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que has cambiado de Pokémon.                                                                              |
-| 489     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di salti
-dei tuoi Pokémon.                                                                |
-| 489     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon jumped in the Pokéathlon.                                                         |
-| 489     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ジャンプした　回数が
-記録された　カード。                                                                                                                     |
-| 489     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ジャンプした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 489     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 점프한 횟수가
-기록된 카드.                                                                                                                              |
-| 489     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sauts
-de vos Pokémon.                                                                 |
-| 489     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du gesprungen bist.                                                                                   |
-| 489     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de saltos de los Pokémon.                                                                                          |
-| 489     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di salti
-dei tuoi Pokémon.                                                                |
-| 489     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon jumped in
-the Pokéathlon.                                                         |
-| 489     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ジャンプした　回数が
-記録された　カード。                                                                                                                     |
-| 489     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ジャンプした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 489     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 점프한 횟수가
-기록된 카드.                                                                                                                              |
-| 489     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sauts
-de vos Pokémon.                                                                 |
-| 489     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du gesprungen bist.                                                                                   |
-| 489     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de saltos de los Pokémon.                                                                                          |
-| 489     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di salti
-dei tuoi Pokémon.                                                                |
-| 489     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon jumped in
-the Pokéathlon.                                                         |
-| 489     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ジャンプした　回数が
-記録された　カード。                                                                                                                     |
-| 489     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ジャンプした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 489     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 점프한 횟수가
-기록된 카드.                                                                                                                              |
-| 489     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sauts
-de vos Pokémon.                                                                 |
-| 489     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du gesprungen bist.                                                                                   |
-| 489     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de saltos de los Pokémon.                                                                                          |
-| 489     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di salti
-dei tuoi Pokémon.                                                                |
-| 489     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon jumped in
-the Pokéathlon.                                                         |
-| 489     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ジャンプした　回数が
-記録された　カード。                                                                                                                     |
-| 489     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　ジャンプした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 489     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 점프한 횟수가
-기록된 카드.                                                                                                                              |
-| 489     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 489     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de sauts
-de vos Pokémon.                                                                 |
-| 489     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du gesprungen bist.                                                                                   |
-| 489     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-saltos de los Pokémon.                                                                                          |
-| 489     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di salti
-dei tuoi Pokémon.                                                                |
-| 489     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon jumped in
-the Pokéathlon.                                                         |
-| 489     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　ジャンプした　回数が
-記録された　カード。                                                                                                                     |
-| 489     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Hurdle Dash.                                                                     |
-| 490     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires à la Cours’Obstacles.                                                       |
-| 490     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Hurdle Dash.                                                                     |
-| 490     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Hurdle Dash.                                                                     |
-| 490     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ダッシュハードル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 490     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-대시허들 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 490     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Cours’Obstacles.                                                       |
-| 490     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Hürdenlauf den 1. Platz
-belegt hast.                                                          |
-| 490     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Metegoles.                                                                                         |
-| 490     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Corsostacoli.                                                               |
-| 490     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Hurdle Dash.                                                          |
-| 490     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ダッシュハードル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 490     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ダッシュハードル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 490     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-대시허들 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 490     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Cours’Obstacles.                                                       |
-| 490     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Hürdenlauf den 1. Platz
-belegt hast.                                                          |
-| 490     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Saltaobstáculos.                                                                                   |
-| 490     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Corsostacoli.                                                               |
-| 490     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Hurdle Dash.                                                          |
-| 490     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ダッシュハードル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 490     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ダッシュハードル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 490     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-대시허들 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 490     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Cours’Obstacles.                                                       |
-| 490     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Hürdenlauf den 1. Platz
-belegt hast.                                                          |
-| 490     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Saltaobstáculos.                                                                                   |
-| 490     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Corsostacoli.                                                               |
-| 490     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Hurdle Dash.                                                          |
-| 490     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ダッシュハードル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 490     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ダッシュハードル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 490     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-대시허들 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 490     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Cours’Obstacles.                                                       |
-| 490     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Hürdenlauf den 1. Platz
-belegt hast.                                                          |
-| 490     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Saltaobstáculos.                                                                                   |
-| 490     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Corsostacoli.                                                               |
-| 490     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Hurdle Dash.                                                          |
-| 490     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ダッシュハードル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 490     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ダッシュハードル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 490     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-대시허들 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 490     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 490     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Cours’Obstacles.                                                       |
-| 490     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Hürdenlauf den 1. Platz belegt hast.                                                          |
-| 490     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Saltaobstáculos.                                                                                   |
-| 490     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Corsostacoli.                                                               |
-| 490     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Hurdle Dash.                                                          |
-| 490     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ダッシュハードル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 490     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Relay Run.                                                                       |
-| 491     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires à la Course de Relais.                                                      |
-| 491     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Relay Run.                                                                       |
-| 491     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won the Relay Run.                                                                       |
-| 491     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-チェンジリレー　１い　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 491     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-체인지릴레이 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 491     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Course de Relais.                                                      |
-| 491     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Staffellauf den 1. Platz
-belegt hast.                                                         |
-| 491     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de premios individuales.                                                                                           |
-| 491     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Staffetta.                                                                  |
-| 491     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Relay Run.                                                            |
-| 491     | 15               | 11          | ポケスロンの　記録が　はいっている。
-チェンジリレー　１位　回数が
-記録された　カード。                                                                                                                       |
-| 491     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-チェンジリレー　１い　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 491     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-체인지릴레이 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 491     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Course de Relais.                                                      |
-| 491     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Staffellauf den 1. Platz
-belegt hast.                                                         |
-| 491     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Carrera de Relevos.                                                                                |
-| 491     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Staffetta.                                                                  |
-| 491     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Relay Run.                                                            |
-| 491     | 17               | 11          | ポケスロンの　記録が　はいっている。
-チェンジリレー　１位　回数が
-記録された　カード。                                                                                                                       |
-| 491     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-チェンジリレー　１い　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 491     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-체인지릴레이 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 491     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Course de Relais.                                                      |
-| 491     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Staffellauf den 1. Platz
-belegt hast.                                                         |
-| 491     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Carrera de Relevos.                                                                                |
-| 491     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Staffetta.                                                                  |
-| 491     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Relay Run.                                                            |
-| 491     | 18               | 11          | ポケスロンの　記録が　はいっている。
-チェンジリレー　１位　回数が
-記録された　カード。                                                                                                                       |
-| 491     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-チェンジリレー　１い　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 491     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-체인지릴레이 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 491     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Course de Relais.                                                      |
-| 491     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Staffellauf den 1. Platz
-belegt hast.                                                         |
-| 491     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Carrera de Relevos.                                                                                |
-| 491     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Staffetta.                                                                  |
-| 491     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Relay Run.                                                            |
-| 491     | 19               | 11          | ポケスロンの　記録が　はいっている。
-チェンジリレー　１位　回数が
-記録された　カード。                                                                                                                       |
-| 491     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-チェンジリレー　１い　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 491     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-체인지릴레이 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 491     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 491     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Course de Relais.                                                      |
-| 491     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Staffellauf den 1. Platz belegt hast.                                                         |
-| 491     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Carrera de Relevos.                                                                                |
-| 491     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Staffetta.                                                                  |
-| 491     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Relay Run.                                                            |
-| 491     | 20               | 11          | ポケスロンの　記録が　はいっている。
-チェンジリレー　１位　回数が
-記録された　カード。                                                                                                                       |
-| 491     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Pennant Capture.                                                                     |
-| 492     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires au Capture Drapeau.                                                         |
-| 492     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Pennant Capture.                                                                     |
-| 492     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Pennant Capture.                                                                     |
-| 492     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-スティールフラッグ　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 492     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-스틸플래그 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 492     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Capture Drapeau.                                                         |
-| 492     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Flaggenschnappen den
-1. Platz belegt hast.                                                    |
-| 492     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que tocaste con el lápiz a tus Pokémon.                                                                   |
-| 492     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Bandierina.                                                                 |
-| 492     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Pennant Capture.                                                      |
-| 492     | 15               | 11          | ポケスロンの　記録が　はいっている。
-スティールフラッグ　１位　回数が
-記録された　カード。                                                                                                                     |
-| 492     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-スティールフラッグ　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 492     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-스틸플래그 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 492     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Capture Drapeau.                                                         |
-| 492     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Flaggenschnappen den
-1. Platz belegt hast.                                                    |
-| 492     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapabanderas.                                                                                    |
-| 492     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Bandierina.                                                                 |
-| 492     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Pennant Capture.                                                      |
-| 492     | 17               | 11          | ポケスロンの　記録が　はいっている。
-スティールフラッグ　１位　回数が
-記録された　カード。                                                                                                                     |
-| 492     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-スティールフラッグ　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 492     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-스틸플래그 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 492     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Capture Drapeau.                                                         |
-| 492     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Flaggenschnappen den
-1. Platz belegt hast.                                                    |
-| 492     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapabanderas.                                                                                    |
-| 492     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Bandierina.                                                                 |
-| 492     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Pennant Capture.                                                      |
-| 492     | 18               | 11          | ポケスロンの　記録が　はいっている。
-スティールフラッグ　１位　回数が
-記録された　カード。                                                                                                                     |
-| 492     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-スティールフラッグ　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 492     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-스틸플래그 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 492     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Capture Drapeau.                                                         |
-| 492     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Flaggenschnappen den
-1. Platz belegt hast.                                                    |
-| 492     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapabanderas.                                                                                    |
-| 492     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Bandierina.                                                                 |
-| 492     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Pennant Capture.                                                      |
-| 492     | 19               | 11          | ポケスロンの　記録が　はいっている。
-スティールフラッグ　１位　回数が
-記録された　カード。                                                                                                                     |
-| 492     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-スティールフラッグ　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 492     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-스틸플래그 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 492     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 492     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Capture Drapeau.                                                         |
-| 492     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Flaggenschnappen den 1. Platz belegt
-hast.                                                    |
-| 492     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Atrapabanderas.                                                                                    |
-| 492     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Bandierina.                                                                 |
-| 492     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Pennant Capture.                                                      |
-| 492     | 20               | 11          | ポケスロンの　記録が　はいっている。
-スティールフラッグ　１位　回数が
-記録された　カード。                                                                                                                     |
-| 492     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Block Smash.                                                                         |
-| 493     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires au Casse Roc.                                                               |
-| 493     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Block Smash.                                                                         |
-| 493     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Block Smash.                                                                         |
-| 493     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ブレイクブロック　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 493     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-브레이크블록 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 493     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Casse Roc.                                                               |
-| 493     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ziegelbrechen den 1. Platz
-belegt hast.                                                       |
-| 493     | 15               | 7           | Contiene los datos del Pokéathlon con el tiempo
-que has pasado en esta competición.                                                                                |
-| 493     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spaccalastra.                                                               |
-| 493     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Block Smash.                                                          |
-| 493     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ブレイクブロック　１位　回数が
-記録された　カード。                                                                                                                      |
-| 493     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ブレイクブロック　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 493     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-브레이크블록 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 493     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Casse Roc.                                                               |
-| 493     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ziegelbrechen den 1. Platz
-belegt hast.                                                       |
-| 493     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Rompelosas.                                                                                        |
-| 493     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spaccalastra.                                                               |
-| 493     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Block Smash.                                                          |
-| 493     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ブレイクブロック　１位　回数が
-記録された　カード。                                                                                                                      |
-| 493     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ブレイクブロック　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 493     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-브레이크블록 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 493     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Casse Roc.                                                               |
-| 493     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ziegelbrechen den 1. Platz
-belegt hast.                                                       |
-| 493     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Rompelosas.                                                                                        |
-| 493     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spaccalastra.                                                               |
-| 493     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Block Smash.                                                          |
-| 493     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ブレイクブロック　１位　回数が
-記録された　カード。                                                                                                                      |
-| 493     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ブレイクブロック　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 493     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-브레이크블록 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 493     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Casse Roc.                                                               |
-| 493     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ziegelbrechen den 1. Platz
-belegt hast.                                                       |
-| 493     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Rompelosas.                                                                                        |
-| 493     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spaccalastra.                                                               |
-| 493     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Block Smash.                                                          |
-| 493     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ブレイクブロック　１位　回数が
-記録された　カード。                                                                                                                      |
-| 493     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ブレイクブロック　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 493     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-브레이크블록 1위 횟수가
-기록된 카드.                                                                                                                             |
-| 493     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 493     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Casse Roc.                                                               |
-| 493     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Ziegelbrechen den 1. Platz belegt hast.                                                       |
-| 493     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Rompelosas.                                                                                        |
-| 493     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spaccalastra.                                                               |
-| 493     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Block Smash.                                                          |
-| 493     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ブレイクブロック　１位　回数が
-記録された　カード。                                                                                                                      |
-| 493     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Disc Catch.                                                                          |
-| 494     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires à l’Attrap’Disques.                                                         |
-| 494     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Disc Catch.                                                                          |
-| 494     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Disc Catch.                                                                          |
-| 494     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-キャッチソーサー　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 494     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-캐치소서 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 494     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à l’Attrap’Disques.                                                         |
-| 494     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Diskusfangen den 1. Platz
-belegt hast.                                                        |
-| 494     | 15               | 7           | Esfera glauca de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                        |
-| 494     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piattello.                                                                  |
-| 494     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Disc Catch.                                                           |
-| 494     | 15               | 11          | ポケスロンの　記録が　はいっている。
-キャッチソーサー　１位　回数が
-記録された　カード。                                                                                                                      |
-| 494     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-キャッチソーサー　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 494     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-캐치소서 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 494     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à l’Attrap’Disques.                                                         |
-| 494     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Diskusfangen den 1. Platz
-belegt hast.                                                        |
-| 494     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapadiscos.                                                                                      |
-| 494     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piattello.                                                                  |
-| 494     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Disc Catch.                                                           |
-| 494     | 17               | 11          | ポケスロンの　記録が　はいっている。
-キャッチソーサー　１位　回数が
-記録された　カード。                                                                                                                      |
-| 494     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-キャッチソーサー　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 494     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-캐치소서 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 494     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à l’Attrap’Disques.                                                         |
-| 494     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Diskusfangen den 1. Platz
-belegt hast.                                                        |
-| 494     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapadiscos.                                                                                      |
-| 494     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piattello.                                                                  |
-| 494     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Disc Catch.                                                           |
-| 494     | 18               | 11          | ポケスロンの　記録が　はいっている。
-キャッチソーサー　１位　回数が
-記録された　カード。                                                                                                                      |
-| 494     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-キャッチソーサー　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 494     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-캐치소서 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 494     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à l’Attrap’Disques.                                                         |
-| 494     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Diskusfangen den 1. Platz
-belegt hast.                                                        |
-| 494     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Atrapadiscos.                                                                                      |
-| 494     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piattello.                                                                  |
-| 494     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Disc Catch.                                                           |
-| 494     | 19               | 11          | ポケスロンの　記録が　はいっている。
-キャッチソーサー　１位　回数が
-記録された　カード。                                                                                                                      |
-| 494     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-キャッチソーサー　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 494     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-캐치소서 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 494     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 494     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à l’Attrap’Disques.                                                         |
+|  item_id | version_group_id | language_id | flavor_text |
+|----------|------------------|-------------|-------------|
+|  293       19 |  |  1 |      ふしぎな　かおりの　おこう。 もたせた　ポケモンは　いつもより こうどうが　おそくなる。 |
+|  293       19 |  |  3 |      이상한 향기의 향로. 지니게 한 포켓몬은 여느 때보다 행동이 느려진다. |
+|  293       19 |  |  4 |      有著神奇香氣的薰香。 攜帶後，寶可夢的行動 會比平時更加緩慢。 |
+|  293       19 |  |  5 |      Objet à tenir. Un encens au parfum exotique qui fait enfler son porteur et le fait se déplacer lentement. |
+|  293       19 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut macht den Träger benommen und langsam. |
+|  293       19 |  |  7 |      Incienso de exótico aroma que hace que el Pokémon que lo lleve esté aturdido y se mueva más despacio. |
+|  293       19 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che rende gonfi e lenti. |
+|  293       19 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving. |
+|  293       19 |  |  11 |     不思議な　香りの　御香。 持たせた　ポケモンは　いつもより 行動が　遅くなる。 |
+|  293       19 |  |  12 |     有着神奇香气的薰香。 携带后，宝可梦的行动 会比平时更加迟缓。 |
+|  293       20 |  |  1 |      ふしぎな　かおりの　おこう。 もたせた　ポケモンは　いつもより こうどうが　おそくなる。 |
+|  293       20 |  |  3 |      이상한 향기의 향로. 지니게 한 포켓몬은 여느 때보다 행동이 느려진다. |
+|  293       20 |  |  4 |      有著神奇香氣的薰香。 攜帶它的寶可夢 行動會比平時更加緩慢。 |
+|  293       20 |  |  5 |      Objet à tenir. Un encens au parfum exotique qui fait enfler son porteur et le fait se déplacer lentement. |
+|  293       20 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut macht den Träger benommen und langsam. |
+|  293       20 |  |  7 |      Incienso de exótico aroma que hace que el Pokémon que lo lleve esté aturdido y se mueva más despacio. |
+|  293       20 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che rende gonfi e lenti. |
+|  293       20 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving. |
+|  293       20 |  |  11 |     不思議な　香りの　御香。 持たせた　ポケモンは　いつもより 行動が　遅くなる。 |
+|  293       20 |  |  12 |     有着神奇香气的薰香。 携带后，宝可梦的行动 会比平时更加迟缓。 |
+|  294       8 |  |   9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Water-type moves. |
+|  294       9 |  |   9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Water-type moves. |
+|  294       10 |  |  9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Water-type moves. |
+|  294       11 |  |  5 |      Objet à tenir. Encens au parfum exotique augmentant la puissance des capacités de type Eau. |
+|  294       11 |  |  9 |      An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves. |
+|  294       14 |  |  9 |      An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves. |
+|  294       15 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　みずタイプの わざの　いりょくが　あがる。 |
+|  294       15 |  |  3 |      이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다. |
+|  294       15 |  |  5 |      Objet à tenir. Un encens au parfum curieux augmentant la puissance des capacités de type Eau. |
+|  294       15 |  |  6 |      Ein Item zum Tragen. Sein ausgefallenes Aroma verstärkt Attacken vom Typ Wasser. |
+|  294       15 |  |  7 |      Invoca una tormenta de granizo que dura cinco turnos y daña a todos los Pokémon excepto a los de tipo Hielo. |
+|  294       15 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal curioso aroma che potenzia le mosse di tipo Acqua. |
+|  294       15 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Water-type moves. |
+|  294       15 |  |  11 |     不思議な　香りの　御香。 持たせると　みずタイプの 技の　威力が　あがる。 |
+|  294       17 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　みずタイプの わざの　いりょくが　あがる。 |
+|  294       17 |  |  3 |      이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다. |
+|  294       17 |  |  4 |      有著神奇香氣的薰香。 攜帶後，水屬性的 招式威力就會提高。 |
+|  294       17 |  |  5 |      Objet à tenir. Un encens au parfum curieux augmentant la puissance des capacités de type Eau. |
+|  294       17 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Wasser. |
+|  294       17 |  |  7 |      Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon. |
+|  294       17 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Acqua. |
+|  294       17 |  |  9 |      An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves. |
+|  294       17 |  |  11 |     不思議な　香りの　御香。 持たせると　みずタイプの 技の　威力が　あがる。 |
+|  294       17 |  |  12 |     有着神奇香气的薰香。 携带后，水属性的 招式威力就会提高。 |
+|  294       18 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　みずタイプの わざの　いりょくが　あがる。 |
+|  294       18 |  |  3 |      이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다. |
+|  294       18 |  |  4 |      有著神奇香氣的薰香。 攜帶後，水屬性的 招式威力就會提高。 |
+|  294       18 |  |  5 |      Objet à tenir. Un encens au parfum curieux augmentant la puissance des capacités de type Eau. |
+|  294       18 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Wasser. |
+|  294       18 |  |  7 |      Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon. |
+|  294       18 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Acqua. |
+|  294       18 |  |  9 |      An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves. |
+|  294       18 |  |  11 |     不思議な　香りの　御香。 持たせると　みずタイプの 技の　威力が　あがる。 |
+|  294       18 |  |  12 |     有着神奇香气的薰香。 携带后，水属性的 招式威力就会提高。 |
+|  294       19 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　みずタイプの わざの　いりょくが　あがる。 |
+|  294       19 |  |  3 |      이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다. |
+|  294       19 |  |  4 |      有著神奇香氣的薰香。 攜帶後，水屬性的 招式威力就會提高。 |
+|  294       19 |  |  5 |      Objet à tenir. Un encens au parfum curieux augmentant la puissance des capacités de type Eau. |
+|  294       19 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Wasser. |
+|  294       19 |  |  7 |      Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon. |
+|  294       19 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Acqua. |
+|  294       19 |  |  9 |      An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves. |
+|  294       19 |  |  11 |     不思議な　香りの　御香。 持たせると　みずタイプの 技の　威力が　あがる。 |
+|  294       19 |  |  12 |     有着神奇香气的薰香。 携带后，水属性的 招式威力就会提高。 |
+|  294       20 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　みずタイプの わざの　いりょくが　あがる。 |
+|  294       20 |  |  3 |      이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다. |
+|  294       20 |  |  4 |      有著神奇香氣的薰香。 攜帶後，水屬性的 招式威力就會提高。 |
+|  294       20 |  |  5 |      Objet à tenir. Un encens au parfum curieux augmentant la puissance des capacités de type Eau. |
+|  294       20 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Wasser. |
+|  294       20 |  |  7 |      Tiene un curioso aroma que potencia los movimientos de tipo Agua. Debe llevarlo un Pokémon. |
+|  294       20 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Acqua. |
+|  294       20 |  |  9 |      An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves. |
+|  294       20 |  |  11 |     不思議な　香りの　御香。 持たせると　みずタイプの 技の　威力が　あがる。 |
+|  294       20 |  |  12 |     有着神奇香气的薰香。 携带后，水属性的 招式威力就会提高。 |
+|  295       8 |  |   9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves. |
+|  295       9 |  |   9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves. |
+|  295       10 |  |  9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves. |
+|  295       11 |  |  5 |      Objet à tenir. Encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       11 |  |  9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves. |
+|  295       14 |  |  9 |      An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves. |
+|  295       15 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　くさタイプの わざの　いりょくが　あがる。 |
+|  295       15 |  |  3 |      이상한 향기의 향로. 지니게 하면 풀타입 기술의 위력이 올라간다. |
+|  295       15 |  |  5 |      Objet à tenir. Un encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       15 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze. |
+|  295       15 |  |  7 |      Tensa los músculos de quien lo usa y potencia su Ataque y su Defensa. |
+|  295       15 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Erba. |
+|  295       15 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves. |
+|  295       15 |  |  11 |     不思議な　香りの　御香。 持たせると　くさタイプの 技の　威力が　あがる。 |
+|  295       17 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　くさタイプの わざの　いりょくが　あがる。 |
+|  295       17 |  |  3 |      이상한 향기의 향로. 지니게 하면 풀타입 기술의 위력이 올라간다. |
+|  295       17 |  |  4 |      有著神奇香氣的薰香。 攜帶後，草屬性的 招式威力就會提高。 |
+|  295       17 |  |  5 |      Objet à tenir. Un encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       17 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze. |
+|  295       17 |  |  7 |      Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon. |
+|  295       17 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Erba. |
+|  295       17 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves. |
+|  295       17 |  |  11 |     不思議な　香りの　御香。 持たせると　くさタイプの 技の　威力が　あがる。 |
+|  295       17 |  |  12 |     有着神奇香气的薰香。 携带后，草属性的 招式威力就会提高。 |
+|  295       18 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　くさタイプの わざの　いりょくが　あがる。 |
+|  295       18 |  |  3 |      이상한 향기의 향로. 지니게 하면 풀타입 기술의 위력이 올라간다. |
+|  295       18 |  |  4 |      有著神奇香氣的薰香。 攜帶後，草屬性的 招式威力就會提高。 |
+|  295       18 |  |  5 |      Objet à tenir. Un encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       18 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze. |
+|  295       18 |  |  7 |      Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon. |
+|  295       18 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Erba. |
+|  295       18 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves. |
+|  295       18 |  |  11 |     不思議な　香りの　御香。 持たせると　くさタイプの 技の　威力が　あがる。 |
+|  295       18 |  |  12 |     有着神奇香气的薰香。 携带后，草属性的 招式威力就会提高。 |
+|  295       19 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　くさタイプの わざの　いりょくが　あがる。 |
+|  295       19 |  |  3 |      이상한 향기의 향로. 지니게 하면 풀타입 기술의 위력이 올라간다. |
+|  295       19 |  |  4 |      有著神奇香氣的薰香。 攜帶後，草屬性的 招式威力就會提高。 |
+|  295       19 |  |  5 |      Objet à tenir. Un encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       19 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze. |
+|  295       19 |  |  7 |      Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon. |
+|  295       19 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Erba. |
+|  295       19 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves. |
+|  295       19 |  |  11 |     不思議な　香りの　御香。 持たせると　くさタイプの 技の　威力が　あがる。 |
+|  295       19 |  |  12 |     有着神奇香气的薰香。 携带后，草属性的 招式威力就会提高。 |
+|  295       20 |  |  1 |      ふしぎな　かおりの　おこう。 もたせると　くさタイプの わざの　いりょくが　あがる。 |
+|  295       20 |  |  3 |      이상한 향기의 향로. 지니게 하면 풀타입 기술의 위력이 올라간다. |
+|  295       20 |  |  4 |      有著神奇香氣的薰香。 攜帶後，草屬性的 招式威力就會提高。 |
+|  295       20 |  |  5 |      Objet à tenir. Un encens au parfum exotique augmentant la puissance des capacités de type Plante. |
+|  295       20 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze. |
+|  295       20 |  |  7 |      Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon. |
+|  295       20 |  |  8 |      Strumento da dare a un Pokémon. Incenso dal profumo esotico che potenzia le mosse di tipo Erba. |
+|  295       20 |  |  9 |      An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves. |
+|  295       20 |  |  11 |     不思議な　香りの　御香。 持たせると　くさタイプの 技の　威力が　あがる。 |
+|  295       20 |  |  12 |     有着神奇香气的薰香。 携带后，草属性的 招式威力就会提高。 |
+|  296       8 |  |   9 |      An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in. |
+|  296       9 |  |   9 |      An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in. |
+|  296       10 |  |  9 |      An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in. |
+|  296       11 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       11 |  |  9 |      An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in. |
+|  296       14 |  |  9 |      An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in. |
+|  296       15 |  |  1 |      もたせた　ポケモンが　いちどでも せんとうに　かおを　だすと おかねが　２ばい　もらえる。 |
+|  296       15 |  |  3 |      지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다. |
+|  296       15 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       15 |  |  6 |      Ein Item, das ein Pokémon trägt und das doppeltes Preisgeld bringt, wenn der Träger am Kampf teilnimmt. |
+|  296       15 |  |  7 |      Un líquido venenoso que cubre al objetivo y provoca un daño doble si este ya estaba envenenado. |
+|  296       15 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha partecipa alla lotta, i guadagni raddoppiano. |
+|  296       15 |  |  9 |      An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle. |
+|  296       15 |  |  11 |     持たせた　ポケモンが　１度でも 戦闘に　顔を　だすと お金が　２倍　もらえる。 |
+|  296       17 |  |  1 |      もたせた　ポケモンが　いちどでも せんとうに　かおを　だすと おかねが　２ばい　もらえる。 |
+|  296       17 |  |  3 |      지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다. |
+|  296       17 |  |  4 |      只要攜帶它的寶可夢 在戰鬥時出場一次， 就能獲得２倍金錢。 |
+|  296       17 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       17 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verdoppelt das Preisgeld, wenn der Träger am Kampf teilnimmt. |
+|  296       17 |  |  7 |      Si el Pokémon que lo lleva lucha en un combate, duplica las ganancias. |
+|  296       17 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha partecipa alla lotta, i guadagni raddoppiano. |
+|  296       17 |  |  9 |      An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle. |
+|  296       17 |  |  11 |     持たせた　ポケモンが　１度でも 戦闘に　顔を　だすと お金が　２倍　もらえる。 |
+|  296       17 |  |  12 |     只要携带它的宝可梦 在战斗时出场一次， 就能获得２倍金钱。 |
+|  296       18 |  |  1 |      もたせた　ポケモンが　いちどでも せんとうに　かおを　だすと おかねが　２ばい　もらえる。 |
+|  296       18 |  |  3 |      지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다. |
+|  296       18 |  |  4 |      只要攜帶它的寶可夢 在戰鬥時出場一次， 就能獲得２倍金錢。 |
+|  296       18 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       18 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verdoppelt das Preisgeld, wenn der Träger am Kampf teilnimmt. |
+|  296       18 |  |  7 |      Si el Pokémon que lo lleva lucha en un combate, duplica las ganancias. |
+|  296       18 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha partecipa alla lotta, i guadagni raddoppiano. |
+|  296       18 |  |  9 |      An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle. |
+|  296       18 |  |  11 |     持たせた　ポケモンが　１度でも 戦闘に　顔を　だすと お金が　２倍　もらえる。 |
+|  296       18 |  |  12 |     只要携带它的宝可梦 在战斗时出场一次， 就能获得２倍金钱。 |
+|  296       19 |  |  1 |      もたせた　ポケモンが　いちどでも せんとうに　かおを　だすと おかねが　２ばい　もらえる。 |
+|  296       19 |  |  3 |      지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다. |
+|  296       19 |  |  4 |      只要攜帶它的寶可夢 在戰鬥時出場一次， 就能獲得２倍金錢。 |
+|  296       19 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       19 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verdoppelt das Preisgeld, wenn der Träger am Kampf teilnimmt. |
+|  296       19 |  |  7 |      Si el Pokémon que lo lleva lucha en un combate, duplica las ganancias. |
+|  296       19 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha partecipa alla lotta, i guadagni raddoppiano. |
+|  296       19 |  |  9 |      An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle. |
+|  296       19 |  |  11 |     持たせた　ポケモンが　１度でも 戦闘に　顔を　だすと お金が　２倍　もらえる。 |
+|  296       19 |  |  12 |     只要携带它的宝可梦 在战斗时出场一次， 就能获得２倍金钱。 |
+|  296       20 |  |  1 |      もたせた　ポケモンが　いちどでも せんとうに　かおを　だすと おかねが　２ばい　もらえる。 |
+|  296       20 |  |  3 |      지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다. |
+|  296       20 |  |  4 |      只要攜帶它的寶可夢 在戰鬥時出場一次， 就能獲得２倍金錢。 |
+|  296       20 |  |  5 |      Objet à tenir. Double l'argent gagné si le porteur se joint au combat. |
+|  296       20 |  |  6 |      Ein Item zum Tragen. Dieses exotische Duftkraut verdoppelt das Preisgeld, wenn der Träger am Kampf teilnimmt. |
+|  296       20 |  |  7 |      Si el Pokémon que lo lleva lucha en un combate, duplica las ganancias. |
+|  296       20 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha partecipa alla lotta, i guadagni raddoppiano. |
+|  296       20 |  |  9 |      An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle. |
+|  296       20 |  |  11 |     持たせた　ポケモンが　１度でも 戦闘に　顔を　だすと お金が　２倍　もらえる。 |
+|  296       20 |  |  12 |     只要携带它的宝可梦 在战斗时出场一次， 就能获得２倍金钱。 |
+|  297       8 |  |   9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. |
+|  297       9 |  |   9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. |
+|  297       10 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. |
+|  297       11 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       11 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. |
+|  297       14 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party. |
+|  297       15 |  |  1 |      いちばん　まえの　ポケモンに もたせると　やせいポケモンが でて　きにくくなる。 |
+|  297       15 |  |  3 |      맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다. |
+|  297       15 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       15 |  |  6 |      Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an erster Stelle steht. |
+|  297       15 |  |  7 |      Movimiento especial que cambia de tipo dependiendo del Pokémon que lo use. |
+|  297       15 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha è il primo della squadra, aiuta ad allontanare i Pokémon selvatici. |
+|  297       15 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. |
+|  297       15 |  |  11 |     １番　前の　ポケモンに 持たせると　野生ポケモンが でて　きにくくなる。 |
+|  297       17 |  |  1 |      いちばん　まえの　ポケモンに もたせると　やせいポケモンが でて　きにくくなる。 |
+|  297       17 |  |  3 |      맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다. |
+|  297       17 |  |  4 |      讓排在最前面的寶可夢 攜帶後，野生寶可夢 會變得不容易出現。 |
+|  297       17 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       17 |  |  6 |      Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an der Spitze deines Teams steht. |
+|  297       17 |  |  7 |      Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes. |
+|  297       17 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha è il primo della squadra, aiuta ad allontanare i Pokémon selvatici. |
+|  297       17 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. |
+|  297       17 |  |  11 |     １番　前の　ポケモンに 持たせると　野生ポケモンが でて　きにくくなる。 |
+|  297       17 |  |  12 |     让排在最前面的宝可梦携带后， 野生宝可梦就会不容易出现。 |
+|  297       18 |  |  1 |      いちばん　まえの　ポケモンに もたせると　やせいポケモンが でて　きにくくなる。 |
+|  297       18 |  |  3 |      맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다. |
+|  297       18 |  |  4 |      讓排在最前面的寶可夢 攜帶後，野生寶可夢 會變得不容易出現。 |
+|  297       18 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       18 |  |  6 |      Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an der Spitze deines Teams steht. |
+|  297       18 |  |  7 |      Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes. |
+|  297       18 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha è il primo della squadra, aiuta ad allontanare i Pokémon selvatici. |
+|  297       18 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. |
+|  297       18 |  |  11 |     １番　前の　ポケモンに 持たせると　野生ポケモンが でて　きにくくなる。 |
+|  297       18 |  |  12 |     让排在最前面的宝可梦携带后， 野生宝可梦就会不容易出现。 |
+|  297       19 |  |  1 |      いちばん　まえの　ポケモンに もたせると　やせいポケモンが でて　きにくくなる。 |
+|  297       19 |  |  3 |      맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다. |
+|  297       19 |  |  4 |      讓排在最前面的寶可夢 攜帶後，野生寶可夢 會變得不容易出現。 |
+|  297       19 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       19 |  |  6 |      Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an der Spitze deines Teams steht. |
+|  297       19 |  |  7 |      Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes. |
+|  297       19 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha è il primo della squadra, aiuta ad allontanare i Pokémon selvatici. |
+|  297       19 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. |
+|  297       19 |  |  11 |     １番　前の　ポケモンに 持たせると　野生ポケモンが でて　きにくくなる。 |
+|  297       19 |  |  12 |     让排在最前面的宝可梦携带后， 野生宝可梦就会不容易出现。 |
+|  297       20 |  |  1 |      いちばん　まえの　ポケモンに もたせると　やせいポケモンが でて　きにくくなる。 |
+|  297       20 |  |  3 |      맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다. |
+|  297       20 |  |  4 |      讓排在最前面的寶可夢 攜帶後，野生寶可夢 會變得不容易出現。 |
+|  297       20 |  |  5 |      Objet à tenir. Aide à repousser les Pokémon sauvages si le porteur est le premier Pokémon de l'équipe. |
+|  297       20 |  |  6 |      Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an der Spitze deines Teams steht. |
+|  297       20 |  |  7 |      Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes. |
+|  297       20 |  |  8 |      Strumento da dare a un Pokémon. Se chi ce l'ha è il primo della squadra, aiuta ad allontanare i Pokémon selvatici. |
+|  297       20 |  |  9 |      An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party. |
+|  297       20 |  |  11 |     １番　前の　ポケモンに 持たせると　野生ポケモンが でて　きにくくなる。 |
+|  297       20 |  |  12 |     让排在最前面的宝可梦携带后， 野生宝可梦就会不容易出现。 |
+|  298       8 |  |   9 |      A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. |
+|  298       9 |  |   9 |      A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. |
+|  298       10 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. |
+|  298       11 |  |  5 |      Objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       11 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. |
+|  298       14 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon. |
+|  298       15 |  |  1 |      なにかの　プロテクター。 とても　かたくて　おもい。 ある　ポケモンが　このんでいる。 |
+|  298       15 |  |  3 |      무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다. |
+|  298       15 |  |  5 |      Un objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       15 |  |  6 |      Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon. |
+|  298       15 |  |  7 |      Quien lo usa intensifica el efecto del sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego. |
+|  298       15 |  |  8 |      Strumento protettivo, molto duro e pesante, prediletto da un Pokémon in particolare. |
+|  298       15 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon. |
+|  298       15 |  |  11 |     なにかの　プロテクター。 とても　硬くて　重い。 ある　ポケモンが　好んでいる。 |
+|  298       17 |  |  1 |      なにかの　プロテクター。 とても　かたくて　おもい。 ある　ポケモンが　このんでいる。 |
+|  298       17 |  |  3 |      무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다. |
+|  298       17 |  |  4 |      某種護具。 非常堅硬而且沉重。 某種寶可夢很喜歡它。 |
+|  298       17 |  |  5 |      Un objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       17 |  |  6 |      Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon. |
+|  298       17 |  |  7 |      Dispositivo de protección muy pesado. Cierto Pokémon lo adora. |
+|  298       17 |  |  8 |      Strumento protettivo, molto duro e pesante, prediletto da un Pokémon in particolare. |
+|  298       17 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon. |
+|  298       17 |  |  11 |     なにかの　プロテクター。 とても　硬くて　重い。 ある　ポケモンが　好んでいる。 |
+|  298       17 |  |  12 |     某种护具。 非常坚硬而且沉重。 某种宝可梦很喜欢它。 |
+|  298       18 |  |  1 |      なにかの　プロテクター。 とても　かたくて　おもい。 ある　ポケモンが　このんでいる。 |
+|  298       18 |  |  3 |      무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다. |
+|  298       18 |  |  4 |      某種護具。 非常堅硬而且沉重。 某種寶可夢很喜歡它。 |
+|  298       18 |  |  5 |      Un objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       18 |  |  6 |      Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon. |
+|  298       18 |  |  7 |      Dispositivo de protección muy pesado. Cierto Pokémon lo adora. |
+|  298       18 |  |  8 |      Strumento protettivo, molto duro e pesante, prediletto da un Pokémon in particolare. |
+|  298       18 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon. |
+|  298       18 |  |  11 |     なにかの　プロテクター。 とても　硬くて　重い。 ある　ポケモンが　好んでいる。 |
+|  298       18 |  |  12 |     某种护具。 非常坚硬而且沉重。 某种宝可梦很喜欢它。 |
+|  298       19 |  |  1 |      なにかの　プロテクター。 とても　かたくて　おもい。 ある　ポケモンが　このんでいる。 |
+|  298       19 |  |  3 |      무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다. |
+|  298       19 |  |  4 |      某種護具。 非常堅硬而且沉重。 某種寶可夢很喜歡它。 |
+|  298       19 |  |  5 |      Un objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       19 |  |  6 |      Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon. |
+|  298       19 |  |  7 |      Dispositivo de protección muy pesado. Cierto Pokémon lo adora. |
+|  298       19 |  |  8 |      Strumento protettivo, molto duro e pesante, prediletto da un Pokémon in particolare. |
+|  298       19 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon. |
+|  298       19 |  |  11 |     なにかの　プロテクター。 とても　硬くて　重い。 ある　ポケモンが　好んでいる。 |
+|  298       19 |  |  12 |     某种护具。 非常坚硬而且沉重。 某种宝可梦很喜欢它。 |
+|  298       20 |  |  1 |      なにかの　プロテクター。 とても　かたくて　おもい。 ある　ポケモンが　このんでいる。 |
+|  298       20 |  |  3 |      무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다. |
+|  298       20 |  |  4 |      某種護具。 非常堅硬而且沉重。 某種寶可夢很喜歡它。 |
+|  298       20 |  |  5 |      Un objet protecteur très dur et très lourd, apprécié d'un certain Pokémon. |
+|  298       20 |  |  6 |      Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon. |
+|  298       20 |  |  7 |      Dispositivo de protección muy pesado. Cierto Pokémon lo adora. |
+|  298       20 |  |  8 |      Strumento protettivo, molto duro e pesante, prediletto da un Pokémon in particolare. |
+|  298       20 |  |  9 |      A protective item of some sort. It is extremely stiff and heavy. It's loved by a certain Pokémon. |
+|  298       20 |  |  11 |     なにかの　プロテクター。 とても　硬くて　重い。 ある　ポケモンが　好んでいる。 |
+|  298       20 |  |  12 |     某种护具。 非常坚硬而且沉重。 某种宝可梦很喜欢它。 |
+|  299       8 |  |   9 |      A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. |
+|  299       9 |  |   9 |      A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. |
+|  299       10 |  |  9 |      A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. |
+|  299       11 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       11 |  |  9 |      A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. |
+|  299       14 |  |  9 |      A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon. |
+|  299       15 |  |  1 |      とてつもない　でんきの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  299       15 |  |  3 |      엄청난 전기의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  299       15 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       15 |  |  6 |      Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  299       15 |  |  7 |      Provoca un ataque de ira en el objetivo que solo le permite usar movimientos de ataque durante tres turnos. |
+|  299       15 |  |  8 |      Scatola strapiena di energia elettrica. Piace a un Pokémon in particolare. |
+|  299       15 |  |  9 |      A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon. |
+|  299       15 |  |  11 |     とてつもない　電気の　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  299       17 |  |  1 |      とてつもない　でんきの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  299       17 |  |  3 |      엄청난 전기의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  299       17 |  |  4 |      蓄積著龐大 電氣能量的箱子。 某種寶可夢很喜歡它。 |
+|  299       17 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       17 |  |  6 |      Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  299       17 |  |  7 |      Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora. |
+|  299       17 |  |  8 |      Scatola strapiena di energia elettrica. Piace a un Pokémon in particolare. |
+|  299       17 |  |  9 |      A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon. |
+|  299       17 |  |  11 |     とてつもない　電気の　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  299       17 |  |  12 |     积蓄着庞大电气能量的箱子。 某种宝可梦很喜欢它。 |
+|  299       18 |  |  1 |      とてつもない　でんきの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  299       18 |  |  3 |      엄청난 전기의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  299       18 |  |  4 |      蓄積著龐大 電氣能量的箱子。 某種寶可夢很喜歡它。 |
+|  299       18 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       18 |  |  6 |      Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  299       18 |  |  7 |      Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora. |
+|  299       18 |  |  8 |      Scatola strapiena di energia elettrica. Piace a un Pokémon in particolare. |
+|  299       18 |  |  9 |      A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon. |
+|  299       18 |  |  11 |     とてつもない　電気の　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  299       18 |  |  12 |     积蓄着庞大电气能量的箱子。 某种宝可梦很喜欢它。 |
+|  299       19 |  |  1 |      とてつもない　でんきの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  299       19 |  |  3 |      엄청난 전기의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  299       19 |  |  4 |      蓄積著龐大 電氣能量的箱子。 某種寶可夢很喜歡它。 |
+|  299       19 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       19 |  |  6 |      Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  299       19 |  |  7 |      Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora. |
+|  299       19 |  |  8 |      Scatola strapiena di energia elettrica. Piace a un Pokémon in particolare. |
+|  299       19 |  |  9 |      A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon. |
+|  299       19 |  |  11 |     とてつもない　電気の　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  299       19 |  |  12 |     积蓄着庞大电气能量的箱子。 某种宝可梦很喜欢它。 |
+|  299       20 |  |  1 |      とてつもない　でんきの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  299       20 |  |  3 |      엄청난 전기의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  299       20 |  |  4 |      蓄積著龐大 電氣能量的箱子。 某種寶可夢很喜歡它。 |
+|  299       20 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie électrique. Appréciée d'un certain Pokémon. |
+|  299       20 |  |  6 |      Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  299       20 |  |  7 |      Este dispositivo contiene una gran cantidad de energía eléctrica. Cierto Pokémon lo adora. |
+|  299       20 |  |  8 |      Scatola strapiena di energia elettrica. Piace a un Pokémon in particolare. |
+|  299       20 |  |  9 |      A box packed with a tremendous amount of electric energy. It's loved by a certain Pokémon. |
+|  299       20 |  |  11 |     とてつもない　電気の　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  299       20 |  |  12 |     积蓄着庞大电气能量的箱子。 某种宝可梦很喜欢它。 |
+|  300       8 |  |   9 |      A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. |
+|  300       9 |  |   9 |      A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. |
+|  300       10 |  |  9 |      A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. |
+|  300       11 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       11 |  |  9 |      A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. |
+|  300       14 |  |  9 |      A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon. |
+|  300       15 |  |  1 |      とてつもない　マグマの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  300       15 |  |  3 |      엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  300       15 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       15 |  |  6 |      Eine Schachtel mit Magmaenergie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  300       15 |  |  7 |      Ataca al objetivo con un rayo de hielo que puede llegar a congelarlo. |
+|  300       15 |  |  8 |      Scatola strapiena di energia lavica. Piace a un Pokémon in particolare. |
+|  300       15 |  |  9 |      A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon. |
+|  300       15 |  |  11 |     とてつもない　マグマの　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  300       17 |  |  1 |      とてつもない　マグマの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  300       17 |  |  3 |      엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  300       17 |  |  4 |      蓄積著龐大 熔岩能量的箱子。 某種寶可夢很喜歡它。 |
+|  300       17 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       17 |  |  6 |      Eine Schachtel mit Magma-Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  300       17 |  |  7 |      Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora. |
+|  300       17 |  |  8 |      Scatola strapiena di energia lavica. Piace a un Pokémon in particolare. |
+|  300       17 |  |  9 |      A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon. |
+|  300       17 |  |  11 |     とてつもない　マグマの　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  300       17 |  |  12 |     积蓄着庞大熔岩能量的箱子。 某种宝可梦很喜欢它。 |
+|  300       18 |  |  1 |      とてつもない　マグマの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  300       18 |  |  3 |      엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  300       18 |  |  4 |      蓄積著龐大 熔岩能量的箱子。 某種寶可夢很喜歡它。 |
+|  300       18 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       18 |  |  6 |      Eine Schachtel mit Magma-Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  300       18 |  |  7 |      Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora. |
+|  300       18 |  |  8 |      Scatola strapiena di energia lavica. Piace a un Pokémon in particolare. |
+|  300       18 |  |  9 |      A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon. |
+|  300       18 |  |  11 |     とてつもない　マグマの　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  300       18 |  |  12 |     积蓄着庞大熔岩能量的箱子。 某种宝可梦很喜欢它。 |
+|  300       19 |  |  1 |      とてつもない　マグマの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  300       19 |  |  3 |      엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  300       19 |  |  4 |      蓄積著龐大 熔岩能量的箱子。 某種寶可夢很喜歡它。 |
+|  300       19 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       19 |  |  6 |      Eine Schachtel mit Magma-Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  300       19 |  |  7 |      Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora. |
+|  300       19 |  |  8 |      Scatola strapiena di energia lavica. Piace a un Pokémon in particolare. |
+|  300       19 |  |  9 |      A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon. |
+|  300       19 |  |  11 |     とてつもない　マグマの　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  300       19 |  |  12 |     积蓄着庞大熔岩能量的箱子。 某种宝可梦很喜欢它。 |
+|  300       20 |  |  1 |      とてつもない　マグマの　エネルギーが たくわえられている　はこ。 ある　ポケモンが　このんでいる。 |
+|  300       20 |  |  3 |      엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다. |
+|  300       20 |  |  4 |      蓄積著龐大 熔岩能量的箱子。 某種寶可夢很喜歡它。 |
+|  300       20 |  |  5 |      Une boîte remplie d'une énorme quantité d'énergie magmatique. Appréciée d'un certain Pokémon. |
+|  300       20 |  |  6 |      Eine Schachtel mit Magma-Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  300       20 |  |  7 |      Esta caja contiene una enorme cantidad de energía magmática. Cierto Pokémon la adora. |
+|  300       20 |  |  8 |      Scatola strapiena di energia lavica. Piace a un Pokémon in particolare. |
+|  300       20 |  |  9 |      A box packed with a tremendous amount of magma energy. It's loved by a certain Pokémon. |
+|  300       20 |  |  11 |     とてつもない　マグマの　エネルギーが 蓄えられている　箱。 ある　ポケモンが　好んでいる。 |
+|  300       20 |  |  12 |     积蓄着庞大熔岩能量的箱子。 某种宝可梦很喜欢它。 |
+|  301       8 |  |   9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       9 |  |   9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       10 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       11 |  |  5 |      Appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       11 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       14 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       15 |  |  1 |      なかに　あやしい　じょうほうが つまった　とうめいな　きかい。 せいさくしゃは　ふめい。 |
+|  301       15 |  |  3 |      안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명. |
+|  301       15 |  |  5 |      Un appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       15 |  |  6 |      Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt. |
+|  301       15 |  |  7 |      Invoca una tormenta de viento y nieve que envuelve al objetivo y puede llegar a congelarlo. |
+|  301       15 |  |  8 |      Dispositivo trasparente strapieno di dati di dubbia origine. Non se ne conosce il produttore. |
+|  301       15 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       15 |  |  11 |     なかに　怪しい　情報が つまった　透明な　機械。 製作者は　不明。 |
+|  301       17 |  |  1 |      なかに　あやしい　じょうほうが つまった　とうめいな　きかい。 せいさくしゃは　ふめい。 |
+|  301       17 |  |  3 |      안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명. |
+|  301       17 |  |  4 |      內部儲存了可疑 資訊的透明機器。 製造者不明。 |
+|  301       17 |  |  5 |      Un appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       17 |  |  6 |      Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt. |
+|  301       17 |  |  7 |      Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido. |
+|  301       17 |  |  8 |      Dispositivo trasparente strapieno di dati di dubbia origine. Non se ne conosce il produttore. |
+|  301       17 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       17 |  |  11 |     なかに　怪しい　情報が つまった　透明な　機械。 製作者は　不明。 |
+|  301       17 |  |  12 |     内部储存了奇怪信息的透明机器。 制造者不明。 |
+|  301       18 |  |  1 |      なかに　あやしい　じょうほうが つまった　とうめいな　きかい。 せいさくしゃは　ふめい。 |
+|  301       18 |  |  3 |      안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명. |
+|  301       18 |  |  4 |      內部儲存了可疑 資訊的透明機器。 製造者不明。 |
+|  301       18 |  |  5 |      Un appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       18 |  |  6 |      Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt. |
+|  301       18 |  |  7 |      Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido. |
+|  301       18 |  |  8 |      Dispositivo trasparente strapieno di dati di dubbia origine. Non se ne conosce il produttore. |
+|  301       18 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       18 |  |  11 |     なかに　怪しい　情報が つまった　透明な　機械。 製作者は　不明。 |
+|  301       18 |  |  12 |     内部储存了奇怪信息的透明机器。 制造者不明。 |
+|  301       19 |  |  1 |      なかに　あやしい　じょうほうが つまった　とうめいな　きかい。 せいさくしゃは　ふめい。 |
+|  301       19 |  |  3 |      안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명. |
+|  301       19 |  |  4 |      內部儲存了可疑 資訊的透明機器。 製造者不明。 |
+|  301       19 |  |  5 |      Un appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       19 |  |  6 |      Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt. |
+|  301       19 |  |  7 |      Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido. |
+|  301       19 |  |  8 |      Dispositivo trasparente strapieno di dati di dubbia origine. Non se ne conosce il produttore. |
+|  301       19 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       19 |  |  11 |     なかに　怪しい　情報が つまった　透明な　機械。 製作者は　不明。 |
+|  301       19 |  |  12 |     内部储存了奇怪信息的透明机器。 制造者不明。 |
+|  301       20 |  |  1 |      なかに　あやしい　じょうほうが つまった　とうめいな　きかい。 せいさくしゃは　ふめい。 |
+|  301       20 |  |  3 |      안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명. |
+|  301       20 |  |  4 |      內部儲存了可疑 資訊的透明機器。 製造者不明。 |
+|  301       20 |  |  5 |      Un appareil transparent rempli de données douteuses. Son fabricant n'est pas connu. |
+|  301       20 |  |  6 |      Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt. |
+|  301       20 |  |  7 |      Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido. |
+|  301       20 |  |  8 |      Dispositivo trasparente strapieno di dati di dubbia origine. Non se ne conosce il produttore. |
+|  301       20 |  |  9 |      A transparent device overflowing with dubious data. Its producer is unknown. |
+|  301       20 |  |  11 |     なかに　怪しい　情報が つまった　透明な　機械。 製作者は　不明。 |
+|  301       20 |  |  12 |     内部储存了奇怪信息的透明机器。 制造者不明。 |
+|  302       8 |  |   9 |      A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. |
+|  302       9 |  |   9 |      A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. |
+|  302       10 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. |
+|  302       11 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       11 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. |
+|  302       14 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon. |
+|  302       15 |  |  1 |      おそろしく　つよい　れいりょくが こめられている　ぬの。 ある　ポケモンが　このんでいる。 |
+|  302       15 |  |  3 |      무섭고 강한 영력이 담겨 있는 천. 어떤 포켓몬이 좋아하는 물건이다. |
+|  302       15 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       15 |  |  6 |      Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  302       15 |  |  7 |      Ataca al objetivo con un potente rayo, pero quien lo usa debe descansar en el siguiente turno para reponer energía. |
+|  302       15 |  |  8 |      Panno intriso di un'energia spirituale terribilmente forte. Piace a un Pokémon in particolare. |
+|  302       15 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon. |
+|  302       15 |  |  11 |     おそろしく　強い　霊力が こめられている　布。 ある　ポケモンが　好んでいる。 |
+|  302       17 |  |  1 |      おそろしく　つよい　れいりょくが こめられている　ぬの。 ある　ポケモンが　このんでいる。 |
+|  302       17 |  |  3 |      무섭고 강한 영력이 담겨 있는 천. 어떤 포켓몬이 좋아하는 물건이다. |
+|  302       17 |  |  4 |      蘊含著驚人的 強大靈力的布。 某種寶可夢很喜歡它。 |
+|  302       17 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       17 |  |  6 |      Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  302       17 |  |  7 |      Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora. |
+|  302       17 |  |  8 |      Panno intriso di un'energia spirituale terribilmente forte. Piace a un Pokémon in particolare. |
+|  302       17 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon. |
+|  302       17 |  |  11 |     おそろしく　強い　霊力が こめられている　布。 ある　ポケモンが　好んでいる。 |
+|  302       17 |  |  12 |     蕴含着惊人强大灵力的布。 某种宝可梦很喜欢它。 |
+|  302       18 |  |  1 |      おそろしく　つよい　れいりょくが こめられている　ぬの。 ある　ポケモンが　このんでいる。 |
+|  302       18 |  |  3 |      무섭고 강한 영력이 담겨 있는 천. 어떤 포켓몬이 좋아하는 물건이다. |
+|  302       18 |  |  4 |      蘊含著驚人的 強大靈力的布。 某種寶可夢很喜歡它。 |
+|  302       18 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       18 |  |  6 |      Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  302       18 |  |  7 |      Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora. |
+|  302       18 |  |  8 |      Panno intriso di un'energia spirituale terribilmente forte. Piace a un Pokémon in particolare. |
+|  302       18 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon. |
+|  302       18 |  |  11 |     おそろしく　強い　霊力が こめられている　布。 ある　ポケモンが　好んでいる。 |
+|  302       18 |  |  12 |     蕴含着惊人强大灵力的布。 某种宝可梦很喜欢它。 |
+|  302       19 |  |  1 |      おそろしく　つよい　れいりょくが こめられている　ぬの。 ある　ポケモンが　このんでいる。 |
+|  302       19 |  |  3 |      무섭고 강한 영력이 담겨 있는 천. 어떤 포켓몬이 좋아하는 물건이다. |
+|  302       19 |  |  4 |      蘊含著驚人的 強大靈力的布。 某種寶可夢很喜歡它。 |
+|  302       19 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       19 |  |  6 |      Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  302       19 |  |  7 |      Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora. |
+|  302       19 |  |  8 |      Panno intriso di un'energia spirituale terribilmente forte. Piace a un Pokémon in particolare. |
+|  302       19 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon. |
+|  302       19 |  |  11 |     おそろしく　強い　霊力が こめられている　布。 ある　ポケモンが　好んでいる。 |
+|  302       19 |  |  12 |     蕴含着惊人强大灵力的布。 某种宝可梦很喜欢它。 |
+|  302       20 |  |  1 |      おそろしく　つよい　れいりょくが こめられている　ぬの。 ある　ポケモンが　このんでいる。 |
+|  302       20 |  |  3 |      무섭고 강한 영력이 담겨 있는 천. 어떤 포켓몬이 좋아하는 물건이다. |
+|  302       20 |  |  4 |      蘊含著驚人的 強大靈力的布。 某種寶可夢很喜歡它。 |
+|  302       20 |  |  5 |      Un tissu imprégné d'une énergie spirituelle horriblement puissante. Apprécié d'un certain Pokémon. |
+|  302       20 |  |  6 |      Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon. |
+|  302       20 |  |  7 |      Tela imbuida de una energía espiritual muy potente. Cierto Pokémon la adora. |
+|  302       20 |  |  8 |      Panno intriso di un'energia spirituale terribilmente forte. Piace a un Pokémon in particolare. |
+|  302       20 |  |  9 |      A cloth imbued with horrifyingly strong spiritual energy. It's loved by a certain Pokémon. |
+|  302       20 |  |  11 |     おそろしく　強い　霊力が こめられている　布。 ある　ポケモンが　好んでいる。 |
+|  302       20 |  |  12 |     蕴含着惊人强大灵力的布。 某种宝可梦很喜欢它。 |
+|  303       8 |  |   9 |      An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. |
+|  303       9 |  |   9 |      An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. |
+|  303       10 |  |  9 |      An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. |
+|  303       11 |  |  5 |      Objet à tenir. Griffe crochue et pointue augmentant le taux de critiques. |
+|  303       11 |  |  9 |      An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. |
+|  303       14 |  |  9 |      An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio. |
+|  303       15 |  |  1 |      するどく　とがった　ツメ。 もたせると　わざが　きゅうしょに あたりやすくなる。 |
+|  303       15 |  |  3 |      날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다. |
+|  303       15 |  |  5 |      Objet à tenir. Une griffe crochue et pointue augmentant le taux de critiques. |
+|  303       15 |  |  6 |      Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers. |
+|  303       15 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques especiales durante cinco turnos. |
+|  303       15 |  |  8 |      Strumento da dare a un Pokémon. Artiglio che aumenta la probabilità di sferrare brutti colpi. |
+|  303       15 |  |  9 |      An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio. |
+|  303       15 |  |  11 |     鋭く　とがった　ツメ。 持たせると　技が　急所に 当たりやすくなる。 |
+|  303       17 |  |  1 |      するどく　とがった　ツメ。 もたせると　わざが　きゅうしょに あたりやすくなる。 |
+|  303       17 |  |  3 |      날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다. |
+|  303       17 |  |  4 |      尖銳的爪子。 攜帶後，招式會 變得容易擊中要害。 |
+|  303       17 |  |  5 |      Objet à tenir. Une griffe crochue et pointue augmentant le taux de critique. |
+|  303       17 |  |  6 |      Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers. |
+|  303       17 |  |  7 |      Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico. |
+|  303       17 |  |  8 |      Strumento da dare a un Pokémon. Artiglio che aumenta la probabilità di sferrare brutti colpi. |
+|  303       17 |  |  9 |      An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio. |
+|  303       17 |  |  11 |     鋭く　とがった　ツメ。 持たせると　技が　急所に 当たりやすくなる。 |
+|  303       17 |  |  12 |     尖锐的爪子。 携带后，招式会 变得容易击中要害。 |
+|  303       18 |  |  1 |      するどく　とがった　ツメ。 もたせると　わざが　きゅうしょに あたりやすくなる。 |
+|  303       18 |  |  3 |      날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다. |
+|  303       18 |  |  4 |      尖銳的爪子。 攜帶後，招式會 變得容易擊中要害。 |
+|  303       18 |  |  5 |      Objet à tenir. Une griffe crochue et pointue augmentant le taux de critique. |
+|  303       18 |  |  6 |      Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers. |
+|  303       18 |  |  7 |      Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico. |
+|  303       18 |  |  8 |      Strumento da dare a un Pokémon. Artiglio che aumenta la probabilità di sferrare brutti colpi. |
+|  303       18 |  |  9 |      An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio. |
+|  303       18 |  |  11 |     鋭く　とがった　ツメ。 持たせると　技が　急所に 当たりやすくなる。 |
+|  303       18 |  |  12 |     尖锐的爪子。 携带后，招式会 变得容易击中要害。 |
+|  303       19 |  |  1 |      するどく　とがった　ツメ。 もたせると　わざが　きゅうしょに あたりやすくなる。 |
+|  303       19 |  |  3 |      날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다. |
+|  303       19 |  |  4 |      尖銳的爪子。 攜帶後，招式會 變得容易擊中要害。 |
+|  303       19 |  |  5 |      Objet à tenir. Une griffe crochue et pointue augmentant le taux de critique. |
+|  303       19 |  |  6 |      Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers. |
+|  303       19 |  |  7 |      Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico. |
+|  303       19 |  |  8 |      Strumento da dare a un Pokémon. Artiglio che aumenta la probabilità di sferrare brutti colpi. |
+|  303       19 |  |  9 |      An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio. |
+|  303       19 |  |  11 |     鋭く　とがった　ツメ。 持たせると　技が　急所に 当たりやすくなる。 |
+|  303       19 |  |  12 |     尖锐的爪子。 携带后，招式会 变得容易击中要害。 |
+|  303       20 |  |  1 |      するどく　とがった　ツメ。 もたせると　わざが　きゅうしょに あたりやすくなる。 |
+|  303       20 |  |  3 |      날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다. |
+|  303       20 |  |  4 |      尖銳的爪子。 攜帶後，招式會 變得容易擊中要害。 |
+|  303       20 |  |  5 |      Objet à tenir. Une griffe crochue et pointue augmentant le taux de critiques. |
+|  303       20 |  |  6 |      Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers. |
+|  303       20 |  |  7 |      Aumenta la probabilidad de que el Pokémon que la lleve consiga un golpe crítico. |
+|  303       20 |  |  8 |      Strumento da dare a un Pokémon. Artiglio che aumenta la probabilità di sferrare brutti colpi. |
+|  303       20 |  |  9 |      An item to be held by a Pokémon. This sharply hooked claw increases the holder's critical-hit ratio. |
+|  303       20 |  |  11 |     鋭く　とがった　ツメ。 持たせると　技が　急所に 当たりやすくなる。 |
+|  303       20 |  |  12 |     尖锐的爪子。 携带后，招式会 变得容易击中要害。 |
+|  304       8 |  |   9 |      An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage. |
+|  304       9 |  |   9 |      An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage. |
+|  304       10 |  |  9 |      An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage. |
+|  304       11 |  |  5 |      Objet à tenir pouvant apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       11 |  |  9 |      An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage. |
+|  304       14 |  |  9 |      An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage. |
+|  304       15 |  |  1 |      するどく　とがった　キバ。 もたせると　ダメージを　あたえたとき ひるませることが　ある。 |
+|  304       15 |  |  3 |      날카롭고 뾰족한 이빨. 지니게 하면 데미지를 줬을 때 풀죽게 하기도 한다. |
+|  304       15 |  |  5 |      Objet à tenir. Peut apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       15 |  |  6 |      Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück. |
+|  304       15 |  |  7 |      Bloquea todos los ataques. Puede fallar si se usa repetidamente. |
+|  304       15 |  |  8 |      Strumento da dare a un Pokémon. Chi ce l'ha può far tentennare il nemico colpito. |
+|  304       15 |  |  9 |      An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch. |
+|  304       15 |  |  11 |     鋭く　とがった　キバ。 持たせると　ダメージを　与えたとき ひるませることが　ある。 |
+|  304       17 |  |  1 |      するどく　とがった　キバ。 もたせると　ダメージを　あたえたとき ひるませることが　ある。 |
+|  304       17 |  |  3 |      날카롭고 뾰족한 이빨. 지니게 하면 데미지를 줬을 때 풀죽게 하기도 한다. |
+|  304       17 |  |  4 |      尖銳的牙齒。 攜帶後，在給予傷害時， 有時會讓對手畏縮。 |
+|  304       17 |  |  5 |      Objet à tenir. Peut apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       17 |  |  6 |      Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück. |
+|  304       17 |  |  7 |      Si lo lleva un Pokémon cuando inflige daño al objetivo, puede hacerle retroceder. |
+|  304       17 |  |  8 |      Strumento da dare a un Pokémon. Chi ce l'ha può far tentennare il nemico colpito. |
+|  304       17 |  |  9 |      An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch. |
+|  304       17 |  |  11 |     鋭く　とがった　キバ。 持たせると　ダメージを　与えたとき ひるませることが　ある。 |
+|  304       17 |  |  12 |     尖锐的牙齿。 携带后，在给予伤害时， 有时会让对手畏缩。 |
+|  304       18 |  |  1 |      するどく　とがった　キバ。 もたせると　ダメージを　あたえたとき ひるませることが　ある。 |
+|  304       18 |  |  3 |      날카롭고 뾰족한 이빨. 지니게 하면 데미지를 줬을 때 풀죽게 하기도 한다. |
+|  304       18 |  |  4 |      尖銳的牙齒。 攜帶後，在給予傷害時， 有時會讓對手畏縮。 |
+|  304       18 |  |  5 |      Objet à tenir. Peut apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       18 |  |  6 |      Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück. |
+|  304       18 |  |  7 |      Si lo lleva un Pokémon cuando inflige daño al objetivo, puede hacerle retroceder. |
+|  304       18 |  |  8 |      Strumento da dare a un Pokémon. Chi ce l'ha può far tentennare il nemico colpito. |
+|  304       18 |  |  9 |      An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch. |
+|  304       18 |  |  11 |     鋭く　とがった　キバ。 持たせると　ダメージを　与えたとき ひるませることが　ある。 |
+|  304       18 |  |  12 |     尖锐的牙齿。 携带后，在给予伤害时， 有时会让对手畏缩。 |
+|  304       19 |  |  1 |      するどく　とがった　キバ。 もたせると　ダメージを　あたえたとき ひるませることが　ある。 |
+|  304       19 |  |  3 |      날카롭고 뾰족한 이빨. 지니게 하면 데미지를 줬을 때 풀죽게 하기도 한다. |
+|  304       19 |  |  4 |      尖銳的牙齒。 攜帶後，在給予傷害時， 有時會讓對手畏縮。 |
+|  304       19 |  |  5 |      Objet à tenir. Peut apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       19 |  |  6 |      Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück. |
+|  304       19 |  |  7 |      Si lo lleva un Pokémon cuando inflige daño al objetivo, puede hacerle retroceder. |
+|  304       19 |  |  8 |      Strumento da dare a un Pokémon. Chi ce l'ha può far tentennare il nemico colpito. |
+|  304       19 |  |  9 |      An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch. |
+|  304       19 |  |  11 |     鋭く　とがった　キバ。 持たせると　ダメージを　与えたとき ひるませることが　ある。 |
+|  304       19 |  |  12 |     尖锐的牙齿。 携带后，在给予伤害时， 有时会让对手畏缩。 |
+|  304       20 |  |  1 |      するどく　とがった　キバ。 もたせると　ダメージを　あたえたとき ひるませることが　ある。 |
+|  304       20 |  |  3 |      날카롭고 뾰족한 이빨. 지니게 하면 데미지를 줬을 때 풀죽게 하기도 한다. |
+|  304       20 |  |  4 |      尖銳的牙齒。 攜帶後，在給予傷害時， 有時會讓對手畏縮。 |
+|  304       20 |  |  5 |      Objet à tenir. Peut apeurer l'ennemi quand le porteur lui inflige des dégâts. |
+|  304       20 |  |  6 |      Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück. |
+|  304       20 |  |  7 |      Si lo lleva un Pokémon, puede amedrentar al objetivo al infligirle daño. |
+|  304       20 |  |  8 |      Strumento da dare a un Pokémon. Chi ce l'ha può far tentennare il nemico colpito. |
+|  304       20 |  |  9 |      An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch. |
+|  304       20 |  |  11 |     鋭く　とがった　キバ。 持たせると　ダメージを　与えたとき ひるませることが　ある。 |
+|  304       20 |  |  12 |     尖锐的牙齿。 携带后，在给予伤害时， 有时会让对手畏缩。 |
+|  305       5 |  |   9 |      Powerful, but makes the user flinch if hit by the foe. |
+|  305       6 |  |   9 |      Powerful, but makes the user flinch if hit by the foe. |
+|  305       7 |  |   9 |      An attack that is executed last. The user flinches if hit beforehand. |
+|  305       8 |  |   9 |      The user focuses its mind before launching this attack. It will fail if the user is hit before it is used. |
+|  305       9 |  |   9 |      The user focuses its mind before launching this attack. It will fail if the user is hit before it is used. |
+|  305       10 |  |  9 |      The user focuses its mind before launching this attack. It will fail if the user is hit before it is used. |
+|  305       11 |  |  5 |      Le lanceur s'aiguise les griffes. Augmente l'Attaque et la Précision. |
+|  305       11 |  |  9 |      The user sharpens its claws to boost its Attack stat and accuracy. |
+|  305       14 |  |  9 |      The user sharpens its claws to boost its Attack stat and accuracy. |
+|  305       15 |  |  1 |      つめを　みがいて　するどく　する。 じぶんの　こうげきと めいちゅうりつを　あげる。 |
+|  305       15 |  |  3 |      손톱을 갈아 날카롭게 만든다. 자신의 공격과 명중률을 올린다. |
+|  305       15 |  |  5 |      Le lanceur s'aiguise les griffes. Augmente l'Attaque et la Précision. |
+|  305       15 |  |  6 |      Der Anwender wetzt seine Klauen, um sie zu schärfen. Angriff und Genauigkeit werden erhöht. |
+|  305       15 |  |  7 |      Quien lo usa invoca una fuerte lluvia que dura cinco turnos y fortalece los movimientos de tipo Agua. |
+|  305       15 |  |  8 |      Chi la usa affila i propri artigli, aumentando Attacco e precisione. |
+|  305       15 |  |  9 |      The user sharpens its claws to boost its Attack stat and accuracy. |
+|  305       15 |  |  11 |     つめを　磨いて　鋭く　する。 自分の　攻撃と 命中率を　あげる。 |
+|  305       17 |  |  1 |      じぶんを　ふるいたてて こうげきと　とくこうを　あげる。 |
+|  305       17 |  |  3 |      스스로 분발해서 공격과 특수공격을 올린다. |
+|  305       17 |  |  4 |      激勵自己， 進而提高攻擊和特攻。 |
+|  305       17 |  |  5 |      Le lanceur se rengorge. Augmente l'Attaque et l'Attaque Spéciale. |
+|  305       17 |  |  6 |      Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht. |
+|  305       17 |  |  7 |      Lima y afila las garras. Aumenta el Ataque y la Precisión. |
+|  305       17 |  |  8 |      Chi la usa si tira su di morale, aumentando il proprio Attacco e l'Attacco Speciale. |
+|  305       17 |  |  9 |      The user is roused, and its Attack and Sp. Atk stats increase. |
+|  305       17 |  |  11 |     自分を　奮いたてて 攻撃と　特攻を　あげる。 |
+|  305       17 |  |  12 |     激励自己， 从而提高攻击和特攻。 |
+|  305       18 |  |  1 |      じぶんを　ふるいたてて こうげきと　とくこうを　あげる。 |
+|  305       18 |  |  3 |      스스로 분발해서 공격과 특수공격을 올린다. |
+|  305       18 |  |  4 |      激勵自己， 進而提高攻擊和特攻。 |
+|  305       18 |  |  5 |      Le lanceur se rengorge. Augmente l'Attaque et l'Attaque Spéciale. |
+|  305       18 |  |  6 |      Anwender erhält einen Kraftschub, der seinen Angriff und Spezial-Angriff erhöht. |
+|  305       18 |  |  7 |      Quien lo usa se concentra y potencia su Ataque y su Ataque Especial. |
+|  305       18 |  |  8 |      Chi la usa si tira su di morale, aumentando il proprio Attacco e l'Attacco Speciale. |
+|  305       18 |  |  9 |      The user is roused, and its Attack and Sp. Atk stats increase. |
+|  305       18 |  |  11 |     自分を　奮いたてて 攻撃と　特攻を　あげる。 |
+|  305       18 |  |  12 |     激励自己， 从而提高攻击和特攻。 |
+|  305       19 |  |  1 |      あたまを　つきだして まっすぐ　つっこんで　こうげきする。 あいてを　ひるませる　ことが　ある。 |
+|  305       19 |  |  3 |      머리를 내밀어 곧장 돌진하여 공격한다. 상대를 풀죽게 만들 때가 있다. |
+|  305       19 |  |  4 |      將頭伸出， 直直衝向對手進行攻擊。 有時會讓對手畏縮。 |
+|  305       19 |  |  5 |      Le lanceur donne un coup de tête. Peut apeurer l'ennemi. |
+|  305       19 |  |  6 |      Rammt das Ziel mit einer Kopfnuss. Ziel schreckt eventuell zurück. |
+|  305       19 |  |  7 |      Lanza un potente cabezazo que puede hacer retroceder al objetivo. |
+|  305       19 |  |  8 |      Chi la usa si lancia diritto di testa contro il bersaglio. Può anche farlo tentennare. |
+|  305       19 |  |  9 |      The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch. |
+|  305       19 |  |  11 |     頭を　突きだして まっすぐ　つっこんで　攻撃する。 相手を　ひるませることが　ある。 |
+|  305       19 |  |  12 |     将头伸出， 笔直地扑向对手进行攻击。 有时会使对手畏缩。 |
+|  305       20 |  |  1 |      ものすごい　ちからを　こめた　キックで あいてを　けとばして　こうげきする。 |
+|  305       20 |  |  3 |      굉장한 힘을 담은 킥으로 상대를 걷어차서 공격한다. |
+|  305       20 |  |  4 |      用灌注了巨大力量的重踢 踢飛對手進行攻擊。 |
+|  305       20 |  |  5 |      Un coup de pied surpuissant qui frappe l'ennemi. |
+|  305       20 |  |  6 |      Das Ziel wird mit einem extrem heftigen Tritt angegriffen. |
+|  305       20 |  |  7 |      Patada de extrema fuerza. |
+|  305       20 |  |  8 |      Colpisce il bersaglio con un calcio sferrato con la forza di muscoli poderosi. |
+|  305       20 |  |  9 |      The target is attacked by a kick launched with muscle-packed power. |
+|  305       20 |  |  11 |     ものすごい　力を　こめた　キックで 相手を　けとばして　攻撃する。 |
+|  305       20 |  |  12 |     使出力大无穷的重踢 踢飞对手进行攻击。 |
+|  306       5 |  |   9 |      Hooks and slashes the foe with long, sharp claws. |
+|  306       6 |  |   9 |      Hooks and slashes the foe with long, sharp claws. |
+|  306       7 |  |   9 |      Sharp, huge claws hook and slash the foe quickly and with great power. |
+|  306       8 |  |   9 |      Sharp, huge claws hook and slash the foe quickly and with great power. |
+|  306       9 |  |   9 |      Sharp, huge claws hook and slash the foe quickly and with great power. |
+|  306       10 |  |  9 |      Sharp, huge claws hook and slash the foe quickly and with great power. |
+|  306       11 |  |  5 |      Le lanceur lacère l'ennemi de ses grandes griffes aiguisées. |
+|  306       11 |  |  9 |      The user slashes the target with huge, sharp claws. |
+|  306       14 |  |  9 |      The user slashes the target with huge, sharp claws. |
+|  306       15 |  |  1 |      するどく　とがった　きょだいな ツメで　ひっかいて　こうげきする。 |
+|  306       15 |  |  3 |      날카롭고 뾰족하며 거대한 발톱으로 상대를 베어 갈라서 공격한다. |
+|  306       15 |  |  5 |      Le lanceur lacère l'ennemi de ses grandes griffes aiguisées. |
+|  306       15 |  |  6 |      Das Ziel wird mit langen, scharfen Krallen brutal attackiert. |
+|  306       15 |  |  7 |      Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS. |
+|  306       15 |  |  8 |      Chi la usa attacca con artigli affilati che graffiano il nemico rapidamente e con grande forza. |
+|  306       15 |  |  9 |      The user slashes the target with huge, sharp claws. |
+|  306       15 |  |  11 |     鋭く　とがった　巨大な　ツメで 相手を　切り裂いて　攻撃する。 |
+|  306       17 |  |  1 |      するどく　とがった　きょだいな　ツメで あいてを　きりさいて　こうげきする。 |
+|  306       17 |  |  3 |      날카롭고 뾰족하며 거대한 발톱으로 상대를 베어 갈라서 공격한다. |
+|  306       17 |  |  4 |      用尖銳的巨爪 撕裂對手進行攻擊。 |
+|  306       17 |  |  5 |      Le lanceur lacère l'ennemi de ses grandes griffes aiguisées. |
+|  306       17 |  |  6 |      Das Ziel wird mit langen, scharfen Krallen brutal attackiert. |
+|  306       17 |  |  7 |      Engancha y araña al objetivo con unas potentes y enormes garras afiladas. |
+|  306       17 |  |  8 |      Chi la usa attacca con artigli affilati che graffiano il bersaglio rapidamente e con grande forza. |
+|  306       17 |  |  9 |      The user slashes the target with huge sharp claws. |
+|  306       17 |  |  11 |     鋭く　とがった　巨大な　ツメで 相手を　切り裂いて　攻撃する。 |
+|  306       17 |  |  12 |     用尖锐的巨爪 劈开对手进行攻击。 |
+|  306       18 |  |  1 |      するどく　とがった　きょだいな　ツメで あいてを　きりさいて　こうげきする。 |
+|  306       18 |  |  3 |      날카롭고 뾰족하며 거대한 발톱으로 상대를 베어 갈라서 공격한다. |
+|  306       18 |  |  4 |      用尖銳的巨爪 撕裂對手進行攻擊。 |
+|  306       18 |  |  5 |      Le lanceur lacère l'ennemi de ses grandes griffes aiguisées. |
+|  306       18 |  |  6 |      Das Ziel wird mit langen, scharfen Krallen brutal attackiert. |
+|  306       18 |  |  7 |      Engancha y araña al objetivo con unas potentes y enormes garras afiladas. |
+|  306       18 |  |  8 |      Chi la usa attacca con artigli affilati che graffiano il bersaglio rapidamente e con grande forza. |
+|  306       18 |  |  9 |      The user slashes the target with huge sharp claws. |
+|  306       18 |  |  11 |     鋭く　とがった　巨大な　ツメで 相手を　切り裂いて　攻撃する。 |
+|  306       18 |  |  12 |     用尖锐的巨爪 劈开对手进行攻击。 |
+|  306       19 |  |  1 |      あいてを　おこらせる。　３ターンの あいだ　あいては　ダメージを あたえる　わざしか　だせなく　なる。 |
+|  306       19 |  |  3 |      상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다. |
+|  306       19 |  |  4 |      激怒對手。 在３回合內讓對手 只能使出給予傷害的招式。 |
+|  306       19 |  |  5 |      Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant trois tours. |
+|  306       19 |  |  6 |      Bringt das Ziel in Rage. Dieses kann über drei Runden hinweg nur noch angreifen. |
+|  306       19 |  |  7 |      Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos. |
+|  306       19 |  |  8 |      Provoca il bersaglio inducendolo a usare solo mosse d'attacco per tre turni. |
+|  306       19 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  306       19 |  |  11 |     相手を　怒らせる。　３ターンの 間　相手は　ダメージを 与える　技しか　だせなくなる。 |
+|  306       19 |  |  12 |     使对手愤怒。 在３回合内让对手 只能使出给予伤害的招式。 |
+|  306       20 |  |  1 |      あいての　からだに こばんを　なげつけて　こうげきする。 せんとうの　あとで　おかねが　もらえる。 |
+|  306       20 |  |  3 |      상대의 몸에 돈을 세게 던져서 공격한다. 배틀 후에 돈을 받을 수 있다. |
+|  306       20 |  |  4 |      往對手身上 投擲金幣進行攻擊。 戰鬥後可以得到錢。 |
+|  306       20 |  |  5 |      Des pièces sont lancées sur l'ennemi. Permet d'obtenir de l'argent à la fin du combat. |
+|  306       20 |  |  6 |      Das Ziel wird mit Münzen beworfen. Das Geld wird nach dem Kampf aufgesammelt. |
+|  306       20 |  |  7 |      Arroja monedas al objetivo y las recupera al final del combate. |
+|  306       20 |  |  8 |      Colpisce il bersaglio con una gran quantità di monete recuperabili dopo la lotta. |
+|  306       20 |  |  9 |      Numerous coins are hurled at the target to inflict damage. Money is earned after the battle. |
+|  306       20 |  |  11 |     相手の　体に 小判を　投げつけて　攻撃する。 戦闘の　あとで　お金が　もらえる。 |
+|  306       20 |  |  12 |     向对手的身体 投掷小金币进行攻击。 战斗后可以拿到钱。 |
+|  307       5 |  |   9 |      Generates an ultrasonic wave that may confuse. |
+|  307       6 |  |   9 |      Generates an ultrasonic wave that may confuse. |
+|  307       7 |  |   9 |      An attack with a pulsing blast of water. It may also confuse the foe. |
+|  307       8 |  |   9 |      The foe is hit with a pulsing blast of water. It may also confuse the target. |
+|  307       9 |  |   9 |      The foe is hit with a pulsing blast of water. It may also confuse the target. |
+|  307       10 |  |  9 |      The foe is hit with a pulsing blast of water. It may also confuse the target. |
+|  307       11 |  |  5 |      Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques. |
+|  307       11 |  |  9 |      The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+|  307       14 |  |  9 |      The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+|  307       15 |  |  1 |      ふしぎな　ねんぱを　じったいかして あいてを　こうげきする。 ぶつりてきな　ダメージを　あたえる。 |
+|  307       15 |  |  3 |      이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다. |
+|  307       15 |  |  5 |      Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques. |
+|  307       15 |  |  6 |      Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt. |
+|  307       15 |  |  7 |      Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos. |
+|  307       15 |  |  8 |      Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici. |
+|  307       15 |  |  9 |      The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+|  307       15 |  |  11 |     不思議な　念波を　実体化して 相手を　攻撃する。 物理的な　ダメージを　与える。 |
+|  307       17 |  |  1 |      ふしぎな　ねんぱを　じったいかして あいてを　こうげきする。 ぶつりてきな　ダメージを　あたえる。 |
+|  307       17 |  |  3 |      이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다. |
+|  307       17 |  |  4 |      將神奇的念力波實體化後攻擊對手。 給予對手物理傷害。 |
+|  307       17 |  |  5 |      Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques. |
+|  307       17 |  |  6 |      Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt. |
+|  307       17 |  |  7 |      Crea una onda psíquica que causa daño físico al objetivo. |
+|  307       17 |  |  8 |      Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici. |
+|  307       17 |  |  9 |      The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+|  307       17 |  |  11 |     不思議な　念波を　実体化して 相手を　攻撃する。 物理的な　ダメージを　与える。 |
+|  307       17 |  |  12 |     将神奇的念波实体化攻击对手。 给予物理伤害。 |
+|  307       18 |  |  1 |      ふしぎな　ねんぱを　じったいかして あいてを　こうげきする。 ぶつりてきな　ダメージを　あたえる。 |
+|  307       18 |  |  3 |      이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다. |
+|  307       18 |  |  4 |      將神奇的念力波實體化後攻擊對手。 給予對手物理傷害。 |
+|  307       18 |  |  5 |      Le lanceur matérialise des ondes mystérieuses qu'il projette sur l'ennemi. Inflige des dégâts physiques. |
+|  307       18 |  |  6 |      Anwender erzeugt eine seltsame Energiewelle, die dem Ziel physischen Schaden zufügt. |
+|  307       18 |  |  7 |      Crea una onda psíquica que causa daño físico al objetivo. |
+|  307       18 |  |  8 |      Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici. |
+|  307       18 |  |  9 |      The user materializes an odd psychic wave to attack the target. This attack does physical damage. |
+|  307       18 |  |  11 |     不思議な　念波を　実体化して 相手を　攻撃する。 物理的な　ダメージを　与える。 |
+|  307       18 |  |  12 |     将神奇的念波实体化攻击对手。 给予物理伤害。 |
+|  307       19 |  |  1 |      なかまを　たすける。 てだすけ　された　ポケモンの　わざの いりょくは　いつもより　おおきく　なる。 |
+|  307       19 |  |  3 |      동료를 돕는다. 도움받은 포켓몬이 쓰는 기술의 위력은 여느 때보다 커진다. |
+|  307       19 |  |  4 |      幫助夥伴。 被幫助的寶可夢， 招式的威力會比原來更大。 |
+|  307       19 |  |  5 |      Une capacité qui augmente la puissance d'attaque d'un allié. |
+|  307       19 |  |  6 |      Anwender steigert die Kraft eines Angriffes eines Mitstreiters. |
+|  307       19 |  |  7 |      El usuario ayuda a un aliado reforzando la potencia de su ataque. |
+|  307       19 |  |  8 |      Mossa che aumenta la potenza dell'attacco di un alleato. |
+|  307       19 |  |  9 |      The user assists an ally by boosting the power of that ally's attack. |
+|  307       19 |  |  11 |     仲間を　助ける。 てだすけ　された　ポケモンの　技の 威力は　いつもより　大きくなる。 |
+|  307       19 |  |  12 |     帮助伙伴。 被帮助的宝可梦， 其招式威力变得比平时大。 |
+|  307       20 |  |  1 |      ほのおを　こめた　パンチで あいてを　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  307       20 |  |  3 |      불꽃을 담은 펀치로 상대를 공격한다. 화상 상태로 만들 때가 있다. |
+|  307       20 |  |  4 |      用帶有火焰的拳頭攻擊對手。 有時會讓對手陷入灼傷狀態。 |
+|  307       20 |  |  5 |      Un coup de poing enflammé vient frapper l'ennemi. Peut le brûler. |
+|  307       20 |  |  6 |      Ein feuriger Schlag, der dem Ziel eventuell Verbrennungen zufügt. |
+|  307       20 |  |  7 |      Puñetazo ardiente que puede causar quemaduras. |
+|  307       20 |  |  8 |      Colpisce il bersaglio con un pugno ardente che può scottarlo. |
+|  307       20 |  |  9 |      The target is punched with a fiery fist. This may also leave the target with a burn. |
+|  307       20 |  |  11 |     炎を　こめた　パンチで 相手を　攻撃する。 やけど状態に　することが　ある。 |
+|  307       20 |  |  12 |     用充满火焰的拳头攻击对手。 有时会让对手陷入灼伤状态。 |
+|  308       5 |  |   9 |      Raises SP. ATK and SP. DEF by focusing the mind. |
+|  308       6 |  |   9 |      Raises SP. ATK and SP. DEF by focusing the mind. |
+|  308       7 |  |   9 |      The user focuses its mind to raise the SP. ATK and SP. DEF stats. |
+|  308       8 |  |   9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       9 |  |   9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       10 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       11 |  |  5 |      Le lanceur se concentre et fait le vide dans son esprit pour monter son Atq. Spé. et sa Déf. Spé. |
+|  308       11 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       14 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       15 |  |  1 |      しずかに　せいしんを　とういつして こころを　しずめることで　じぶんの とくこうと　とくぼうを　あげる。 |
+|  308       15 |  |  3 |      조용히 정신을 통일해서 마음을 가라앉혀 자신의 특수공격과 특수방어를 올린다. |
+|  308       15 |  |  5 |      Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale. |
+|  308       15 |  |  6 |      Der Anwender konzentriert und beruhigt sich. So werden Spezial-Angriff und Spezial-Verteidigung verstärkt. |
+|  308       15 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto menos le guste el Entrenador al Pokémon que lo usa. |
+|  308       15 |  |  8 |      Chi la usa, meditando, placa il proprio spirito per aumentare l'Attacco Speciale e la Difesa Speciale. |
+|  308       15 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       15 |  |  11 |     静かに　精神を　統一し 心を　鎮めることで　自分の 特攻と　特防を　あげる。 |
+|  308       17 |  |  1 |      しずかに　せいしんを　とういつして こころを　しずめることで　じぶんの とくこうと　とくぼうを　あげる。 |
+|  308       17 |  |  3 |      조용히 정신을 통일해서 마음을 가라앉혀 자신의 특수공격과 특수방어를 올린다. |
+|  308       17 |  |  4 |      屏氣凝神， 提高自己的特攻和特防。 |
+|  308       17 |  |  5 |      Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale. |
+|  308       17 |  |  6 |      Der Anwender konzentriert und beruhigt sich. So werden Spezial-Angriff und Spezial-Verteidigung verstärkt. |
+|  308       17 |  |  7 |      Quien lo usa concentra su energía mental y calma su espíritu para aumentar su Ataque Especial y su Defensa Especial. |
+|  308       17 |  |  8 |      Chi la usa placa il proprio spirito meditando per aumentare l'Attacco Speciale e la Difesa Speciale. |
+|  308       17 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       17 |  |  11 |     静かに　精神を　統一し 心を　鎮めることで　自分の 特攻と　特防を　あげる。 |
+|  308       17 |  |  12 |     静心凝神， 从而提高自己的特攻和特防。 |
+|  308       18 |  |  1 |      しずかに　せいしんを　とういつして こころを　しずめることで　じぶんの とくこうと　とくぼうを　あげる。 |
+|  308       18 |  |  3 |      조용히 정신을 통일해서 마음을 가라앉혀 자신의 특수공격과 특수방어를 올린다. |
+|  308       18 |  |  4 |      屏氣凝神， 提高自己的特攻和特防。 |
+|  308       18 |  |  5 |      Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale. |
+|  308       18 |  |  6 |      Der Anwender konzentriert und beruhigt sich. So werden Spezial-Angriff und Spezial-Verteidigung verstärkt. |
+|  308       18 |  |  7 |      Quien lo usa concentra su energía mental y calma su espíritu para aumentar su Ataque Especial y su Defensa Especial. |
+|  308       18 |  |  8 |      Chi la usa placa il proprio spirito meditando per aumentare l'Attacco Speciale e la Difesa Speciale. |
+|  308       18 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  308       18 |  |  11 |     静かに　精神を　統一し 心を　鎮めることで　自分の 特攻と　特防を　あげる。 |
+|  308       18 |  |  12 |     静心凝神， 从而提高自己的特攻和特防。 |
+|  308       19 |  |  1 |      ねんりきを　つかい　いっしゅんで ひかえの　ポケモンと　いれかわる。 |
+|  308       19 |  |  3 |      염동력을 사용해서 순식간에 교대 포켓몬과 교체한다. |
+|  308       19 |  |  4 |      使用念力， 瞬間與後備寶可夢替換。 |
+|  308       19 |  |  5 |      Le lanceur utilise sa force psychique pour se téléporter et échanger sa place avec un autre Pokémon de l'équipe. |
+|  308       19 |  |  6 |      Anwender nutzt telekinetische Energie, um sich sofort gegen ein anderes Pokémon auszutauschen. |
+|  308       19 |  |  7 |      El usuario emplea sus poderes telequinéticos para cambiar al instante el puesto con otro miembro del equipo. |
+|  308       19 |  |  8 |      Chi la usa sfrutta la psicocinesi per farsi sostituire da un Pokémon della squadra. |
+|  308       19 |  |  9 |      The user switches places with a different Pokémon instantly, using telekinetic power. |
+|  308       19 |  |  11 |     念力を　使い　一瞬で 控えの　ポケモンと　入れかわる。 |
+|  308       19 |  |  12 |     使用念力， 瞬间与后备宝可梦进行替换。 |
+|  308       20 |  |  1 |      れいきを　こめた　パンチで あいてを　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  308       20 |  |  3 |      냉기를 담은 펀치로 상대를 공격한다. 얼음 상태로 만들 때가 있다. |
+|  308       20 |  |  4 |      用帶有寒氣的拳頭攻擊對手。 有時會讓對手陷入冰凍狀態。 |
+|  308       20 |  |  5 |      Un coup de poing glacé vient frapper l'ennemi. Peut le geler. |
+|  308       20 |  |  6 |      Ein eisiger Schlag, der das Ziel eventuell einfriert. |
+|  308       20 |  |  7 |      Puñetazo helado que puede llegar a congelar. |
+|  308       20 |  |  8 |      Colpisce il bersaglio con un pugno di ghiaccio che può congelarlo. |
+|  308       20 |  |  9 |      The target is punched with an icy fist. This may also leave the target frozen. |
+|  308       20 |  |  11 |     冷気を　こめた　パンチで 相手を　攻撃する。 こおり状態に　することが　ある。 |
+|  308       20 |  |  12 |     用充满寒气的拳头攻击对手。 有时会让对手陷入冰冻状态。 |
+|  309       5 |  |   9 |      A savage roar that makes the foe flee to end the battle. |
+|  309       6 |  |   9 |      A savage roar that makes the foe flee to end the battle. |
+|  309       7 |  |   9 |      The foe is made to switch out with an ally. In the wild, the battle ends. |
+|  309       8 |  |   9 |      The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends. |
+|  309       9 |  |   9 |      The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends. |
+|  309       10 |  |  9 |      The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends. |
+|  309       11 |  |  5 |      Effraie le Pokémon visé et le remplace par un autre. Dans la nature, met fin au combat. |
+|  309       11 |  |  9 |      The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends. |
+|  309       14 |  |  9 |      The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends. |
+|  309       15 |  |  1 |      あいてを　にがして　ひかえポケモンを ひきずりだす。　やせいポケモンなら せんとうは　おわる。 |
+|  309       15 |  |  3 |      상대를 도망가게 해서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다. |
+|  309       15 |  |  5 |      Effraie le Pokémon ennemi et le remplace par un autre. Dans la nature, met fin au combat. |
+|  309       15 |  |  6 |      Der Brüller schlägt das Ziel in die Flucht. Ein Kampf gegen ein wildes Pokémon wird beendet. |
+|  309       15 |  |  7 |      Ataque de dos turnos. En el primer turno se concentra luz, y en el segundo se canaliza en un rayo para atacar. |
+|  309       15 |  |  8 |      Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici. |
+|  309       15 |  |  9 |      The target is scared off and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+|  309       15 |  |  11 |     相手を　逃がして 控えの　ポケモンを　ひきずりだす。 野生の　場合は　戦闘が　終わる。 |
+|  309       17 |  |  1 |      あいてを　にがして ひかえの　ポケモンを　ひきずりだす。 やせいの　ばあいは　せんとうが　おわる。 |
+|  309       17 |  |  3 |      상대를 도망가게 해서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다. |
+|  309       17 |  |  4 |      趕走對手，強制讓後備寶可夢上場。 對手為野生寶可夢時，戰鬥將直接結束。 |
+|  309       17 |  |  5 |      Effraie le Pokémon ennemi et le remplace par un autre. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat. |
+|  309       17 |  |  6 |      Das Ziel wird in die Flucht geschlagen und durch ein anderes Pokémon ersetzt. Ein Kampf gegen ein wildes Pokémon wird beendet. |
+|  309       17 |  |  7 |      Asusta tanto al objetivo que tiene que cambiarse por otro de su grupo. Si es un Pokémon salvaje, el combate acaba. |
+|  309       17 |  |  8 |      Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici. |
+|  309       17 |  |  9 |      The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+|  309       17 |  |  11 |     相手を　逃がして 控えの　ポケモンを　ひきずりだす。 野生の　場合は　戦闘が　終わる。 |
+|  309       17 |  |  12 |     放走对手，强制拉后备宝可梦上场。 如果对手为野生宝可梦， 战斗将直接结束。 |
+|  309       18 |  |  1 |      あいてを　にがして ひかえの　ポケモンを　ひきずりだす。 やせいの　ばあいは　せんとうが　おわる。 |
+|  309       18 |  |  3 |      상대를 도망가게 해서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다. |
+|  309       18 |  |  4 |      趕走對手，強制讓後備寶可夢上場。 對手為野生寶可夢時，戰鬥將直接結束。 |
+|  309       18 |  |  5 |      Effraie le Pokémon ennemi et le remplace par un autre. Lors d'un combat contre un Pokémon sauvage seul, met fin au combat. |
+|  309       18 |  |  6 |      Das Ziel wird in die Flucht geschlagen und durch ein anderes Pokémon ersetzt. Ein Kampf gegen ein wildes Pokémon wird beendet. |
+|  309       18 |  |  7 |      Asusta tanto al objetivo que tiene que cambiarse por otro de su grupo. Si es un Pokémon salvaje, el combate acaba. |
+|  309       18 |  |  8 |      Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici. |
+|  309       18 |  |  9 |      The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon. |
+|  309       18 |  |  11 |     相手を　逃がして 控えの　ポケモンを　ひきずりだす。 野生の　場合は　戦闘が　終わる。 |
+|  309       18 |  |  12 |     放走对手，强制拉后备宝可梦上场。 如果对手为野生宝可梦， 战斗将直接结束。 |
+|  309       19 |  |  1 |      ２ターンの　あいだ　ねむり　つづける。 じぶんの　ＨＰと　じょうたいいじょうを すべて　かいふく　する。 |
+|  309       19 |  |  3 |      2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다. |
+|  309       19 |  |  4 |      連續睡２回合。 回復自己的全部HP 以及治癒所有異常狀態。 |
+|  309       19 |  |  5 |      Le lanceur regagne tous ses PV et soigne ses altérations de statut, puis il dort pendant deux tours. |
+|  309       19 |  |  6 |      Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden. |
+|  309       19 |  |  7 |      Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos. |
+|  309       19 |  |  8 |      Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni. |
+|  309       19 |  |  9 |      The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions. |
+|  309       19 |  |  11 |     ２ターンの　間　眠り続ける。 自分の　ＨＰと　状態異常を すべて　回復する。 |
+|  309       19 |  |  12 |     连续睡上２回合。 回复自己的全部HP 以及治愈所有异常状态。 |
+|  309       20 |  |  1 |      でんげきを　こめた　パンチで あいてを　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  309       20 |  |  3 |      전격을 담은 펀치로 상대를 공격한다. 마비 상태로 만들 때가 있다. |
+|  309       20 |  |  4 |      用帶有電流的拳頭攻擊對手。 有時會讓對手陷入麻痺狀態。 |
+|  309       20 |  |  5 |      Un coup de poing électrique vient frapper l'ennemi. Peut le paralyser. |
+|  309       20 |  |  6 |      Ein elektrischer Schlag, der das Ziel eventuell paralysiert. |
+|  309       20 |  |  7 |      Puñetazo eléctrico que puede paralizar al adversario. |
+|  309       20 |  |  8 |      Colpisce il bersaglio con un pugno elettrico che può paralizzarlo. |
+|  309       20 |  |  9 |      The target is punched with an electrified fist. This may also leave the target with paralysis. |
+|  309       20 |  |  11 |     電撃を　こめた　パンチで 相手を　攻撃する。 まひ状態に　することが　ある。 |
+|  309       20 |  |  12 |     用充满电流的拳头攻击对手。 有时会让对手陷入麻痹状态。 |
+|  310       5 |  |   9 |      Poisons the foe with a toxin that gradually worsens. |
+|  310       6 |  |   9 |      Poisons the foe with a toxin that gradually worsens. |
+|  310       7 |  |   9 |      A move that badly poisons the foe. Its poison damage worsens every turn. |
+|  310       8 |  |   9 |      A move that leaves the foe badly poisoned. This poison damage worsens every turn. |
+|  310       9 |  |   9 |      A move that leaves the foe badly poisoned. This poison damage worsens every turn. |
+|  310       10 |  |  9 |      A move that leaves the foe badly poisoned. This poison damage worsens every turn. |
+|  310       11 |  |  5 |      Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour. |
+|  310       11 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  310       14 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  310       15 |  |  1 |      もうどくの　じょうたいに　する。 ターンすうが　すすむほど　どくの ダメージりょうは　ふえる。 |
+|  310       15 |  |  3 |      상대를 맹독의 상태로 만든다. 턴이 진행될수록 독의 데미지가 증가한다. |
+|  310       15 |  |  5 |      Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour. |
+|  310       15 |  |  6 |      Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker. |
+|  310       15 |  |  7 |      El usuario ataca lanzando una piedra o un proyectil. Puede estrellar contra el suelo al objetivo si vuela. |
+|  310       15 |  |  8 |      Iperavvelena il nemico con una potente tossina. Il danno peggiora a ogni turno. |
+|  310       15 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  310       15 |  |  11 |     相手を　猛毒の　状態に　する。 ターンが　すすむほど 毒の　ダメージが　増えていく。 |
+|  310       17 |  |  1 |      あいてを　もうどくの じょうたいに　する。ターンが　すすむほど どくの　ダメージが　ふえていく。 |
+|  310       17 |  |  3 |      상대를 맹독의 상태로 만든다. 턴이 진행될수록 독의 데미지가 증가한다. |
+|  310       17 |  |  4 |      讓對手陷入劇毒狀態。 中毒傷害會隨著 回合的進行而增加。 |
+|  310       17 |  |  5 |      Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour. |
+|  310       17 |  |  6 |      Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker. |
+|  310       17 |  |  7 |      Un movimiento altamente tóxico que envenena gravemente al objetivo y causa un daño mayor en cada turno. |
+|  310       17 |  |  8 |      Iperavvelena il bersaglio con una potente tossina. Il danno peggiora a ogni turno. |
+|  310       17 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  310       17 |  |  11 |     相手を　猛毒の　状態に　する。 ターンが　すすむほど 毒の　ダメージが　増えていく。 |
+|  310       17 |  |  12 |     让对手陷入剧毒状态。 随着回合的推进， 中毒伤害会增加。 |
+|  310       18 |  |  1 |      あいてを　もうどくの じょうたいに　する。ターンが　すすむほど どくの　ダメージが　ふえていく。 |
+|  310       18 |  |  3 |      상대를 맹독의 상태로 만든다. 턴이 진행될수록 독의 데미지가 증가한다. |
+|  310       18 |  |  4 |      讓對手陷入劇毒狀態。 中毒傷害會隨著 回合的進行而增加。 |
+|  310       18 |  |  5 |      Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour. |
+|  310       18 |  |  6 |      Das Ziel wird schwer vergiftet. Der Schaden durch das Gift wird in jeder Runde stärker. |
+|  310       18 |  |  7 |      Un movimiento altamente tóxico que envenena gravemente al objetivo y causa un daño mayor en cada turno. |
+|  310       18 |  |  8 |      Iperavvelena il bersaglio con una potente tossina. Il danno peggiora a ogni turno. |
+|  310       18 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  310       18 |  |  11 |     相手を　猛毒の　状態に　する。 ターンが　すすむほど 毒の　ダメージが　増えていく。 |
+|  310       18 |  |  12 |     让对手陷入剧毒状态。 随着回合的推进， 中毒伤害会增加。 |
+|  310       19 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　とくしゅ　こうげきの ダメージを　よわめる。 |
+|  310       19 |  |  3 |      5턴 동안 이상한 장막으로 상대로부터 받는 특수공격의 데미지를 약하게 한다. |
+|  310       19 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的特殊攻擊傷害。 |
+|  310       19 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales durant cinq tours. |
+|  310       19 |  |  6 |      Erzeugt eine Lichtwand und senkt den Schaden durch Spezial-Angriffe für fünf Runden. |
+|  310       19 |  |  7 |      Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales. |
+|  310       19 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni. |
+|  310       19 |  |  9 |      A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+|  310       19 |  |  11 |     ５ターンの　間　不思議な　かべで 相手から　受ける　特殊攻撃の ダメージを　弱める。 |
+|  310       19 |  |  12 |     利用神奇的墙壁， 在５回合内减弱从对手那里 受到的特殊攻击的伤害。 |
+|  310       20 |  |  1 |      １ターンめで　そらへ　とび ２ターンめに　あいてを　こうげきする。 |
+|  310       20 |  |  3 |      1턴째에 하늘을 날아 2턴째에 상대를 공격한다. |
+|  310       20 |  |  4 |      使用後的第１回合飛上天空， 並於第２回合攻擊對手。 |
+|  310       20 |  |  5 |      Le lanceur s'envole au premier tour et frappe au second. |
+|  310       20 |  |  6 |      Steigt in Runde 1 empor und trifft das Ziel in Runde 2. |
+|  310       20 |  |  7 |      El usuario vuela en el primer turno y ataca en el segundo. |
+|  310       20 |  |  8 |      Chi la usa si alza in volo per attaccare al turno seguente. |
+|  310       20 |  |  9 |      The user flies up into the sky and then strikes its target on the next turn. |
+|  310       20 |  |  11 |     １ターン目で　空へ　飛び ２ターン目に　相手を　攻撃する。 |
+|  310       20 |  |  12 |     第１回合飞上天空， 第２回合攻击对手。 |
+|  311       5 |  |   9 |      Summons a hailstorm that hurts all types except ICE. |
+|  311       6 |  |   9 |      Creates a hailstorm that damages all types except ICE. |
+|  311       7 |  |   9 |      A hailstorm lasting five turns damages all POKéMON except the ICE-type. |
+|  311       8 |  |   9 |      Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice. |
+|  311       9 |  |   9 |      Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice. |
+|  311       10 |  |  9 |      Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice. |
+|  311       11 |  |  5 |      Invoque une tempête de grêle qui dure 5 tours. Ne blesse pas les Pokémon de type Glace. |
+|  311       11 |  |  9 |      Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice. |
+|  311       14 |  |  9 |      Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice. |
+|  311       15 |  |  1 |      ５ターンの　あいだ　あられを ふらして　こおりタイプ　いがいの ポケモンに　ダメージを　あたえる。 |
+|  311       15 |  |  3 |      5턴 동안 싸라기눈을 내리게 해서 얼음타입 이외의 포켓몬에게 데미지를 준다. |
+|  311       15 |  |  5 |      Invoque une tempête de grêle qui dure cinq tours. Ne blesse pas les Pokémon de type Glace. |
+|  311       15 |  |  6 |      Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis. |
+|  311       15 |  |  7 |      Ataca al objetivo con una fuerte descarga eléctrica que puede llegar a paralizar. |
+|  311       15 |  |  8 |      Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio. |
+|  311       15 |  |  9 |      The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type. |
+|  311       15 |  |  11 |     ５ターンの　あいだ　あられを 降らして　こおりタイプ　以外の ポケモンに　ダメージを　与える。 |
+|  311       17 |  |  1 |      ５ターンの　あいだ　あられを ふらして　こおりタイプ　いがいの ポケモンに　ダメージを　あたえる。 |
+|  311       17 |  |  3 |      5턴 동안 싸라기눈을 내리게 해서 얼음타입 이외의 포켓몬에게 데미지를 준다. |
+|  311       17 |  |  4 |      降下冰雹，在５回合內 場上除了冰屬性以外的寶可夢 都會受到傷害。 |
+|  311       17 |  |  5 |      Invoque une tempête de grêle qui dure cinq tours. Ne blesse pas les Pokémon de type Glace. |
+|  311       17 |  |  6 |      Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis. |
+|  311       17 |  |  7 |      Invoca una tormenta de granizo que dura cinco turnos y daña a todos los Pokémon excepto a los de tipo Hielo. |
+|  311       17 |  |  8 |      Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio. |
+|  311       17 |  |  9 |      The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type. |
+|  311       17 |  |  11 |     ５ターンの　あいだ　あられを 降らして　こおりタイプ　以外の ポケモンに　ダメージを　与える。 |
+|  311       17 |  |  12 |     在５回合内一直降冰雹， 除冰属性的宝可梦以外， 给予其他宝可梦伤害。 |
+|  311       18 |  |  1 |      ５ターンの　あいだ　あられを ふらして　こおりタイプ　いがいの ポケモンに　ダメージを　あたえる。 |
+|  311       18 |  |  3 |      5턴 동안 싸라기눈을 내리게 해서 얼음타입 이외의 포켓몬에게 데미지를 준다. |
+|  311       18 |  |  4 |      降下冰雹，在５回合內 場上除了冰屬性以外的寶可夢 都會受到傷害。 |
+|  311       18 |  |  5 |      Invoque une tempête de grêle qui dure cinq tours. Ne blesse pas les Pokémon de type Glace. |
+|  311       18 |  |  6 |      Der verursachte Hagelsturm hält 5 Runden an und schadet allen Pokémon, außer denen vom Typ Eis. |
+|  311       18 |  |  7 |      Invoca una tormenta de granizo que dura cinco turnos y daña a todos los Pokémon excepto a los de tipo Hielo. |
+|  311       18 |  |  8 |      Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio. |
+|  311       18 |  |  9 |      The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type. |
+|  311       18 |  |  11 |     ５ターンの　あいだ　あられを 降らして　こおりタイプ　以外の ポケモンに　ダメージを　与える。 |
+|  311       18 |  |  12 |     在５回合内一直降冰雹， 除冰属性的宝可梦以外， 给予其他宝可梦伤害。 |
+|  311       19 |  |  1 |      あいての　こうげきを まったく　うけない。 れんぞくで　だすと　しっぱい　しやすい。 |
+|  311       19 |  |  3 |      상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. |
+|  311       19 |  |  4 |      完全防住對手的所有攻擊。 連續使用時容易失敗。 |
+|  311       19 |  |  5 |      Le lanceur esquive toutes les attaques. Le risque d'échec augmente lorsque la capacité est utilisée plusieurs fois de suite. |
+|  311       19 |  |  6 |      Anwender wehrt jede Attacke ab. Scheitert eventuell bei Wiederholung. |
+|  311       19 |  |  7 |      Frena todos los ataques, pero puede fallar si se usa repetidamente. |
+|  311       19 |  |  8 |      Permette di eludere tutti gli attacchi. Se usata in successione può fallire. |
+|  311       19 |  |  9 |      Enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. |
+|  311       19 |  |  11 |     相手の　攻撃を まったく　受けない。 連続で　だすと　失敗しやすい。 |
+|  311       19 |  |  12 |     完全抵挡 对手的攻击。 连续使出则容易失败。 |
+|  311       20 |  |  1 |      するどい　ハリを あいてに　はっしゃして　こうげきする。 ２ー５かいの　あいだ　れんぞくで　だす。 |
+|  311       20 |  |  3 |      날카로운 침을 상대에게 발사해서 공격한다. 2-5회 동안 연속으로 쓴다. |
+|  311       20 |  |  4 |      向對手發射 銳利的針進行攻擊。 可連續攻擊２～５次。 |
+|  311       20 |  |  5 |      Envoie une rafale de dards. Peut toucher de deux à cinq fois. |
+|  311       20 |  |  6 |      Spitze Nadeln treffen das Ziel zwei- bis fünfmal hintereinander. |
+|  311       20 |  |  7 |      Lanza finas púas que hieren de dos a cinco veces. |
+|  311       20 |  |  8 |      Il bersaglio viene colpito da due a cinque volte in rapida successione con delle spine. |
+|  311       20 |  |  9 |      Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row. |
+|  311       20 |  |  11 |     鋭い　ハリを 相手に　発射して　攻撃する。 ２ー５回の　間　連続で　だす。 |
+|  311       20 |  |  12 |     向对手发射 锐针进行攻击。 连续攻击２～５次。 |
+|  312       5 |  |   9 |      Bulks up the body to boost both ATTACK & DEFENSE. |
+|  312       6 |  |   9 |      Bulks up the body to boost both ATTACK & DEFENSE. |
+|  312       7 |  |   9 |      The user bulks up its body to boost both its ATTACK and DEFENSE stats. |
+|  312       8 |  |   9 |      The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. |
+|  312       9 |  |   9 |      The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. |
+|  312       10 |  |  9 |      The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. |
+|  312       11 |  |  5 |      Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense. |
+|  312       11 |  |  9 |      The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. |
+|  312       14 |  |  9 |      The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats. |
+|  312       15 |  |  1 |      ちからを　こめて　きんにくを ぶあつくする　ことで　じぶんの こうげきと　ぼうぎょを　あげる。 |
+|  312       15 |  |  3 |      몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다. |
+|  312       15 |  |  5 |      Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense. |
+|  312       15 |  |  6 |      Der Anwender spannt seine Muskeln an und steigert damit den Angriffs- und den Verteidigungs-Wert. |
+|  312       15 |  |  7 |      Ataca con un terrible rayo que puede paralizar al objetivo. |
+|  312       15 |  |  8 |      Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco. |
+|  312       15 |  |  9 |      The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. |
+|  312       15 |  |  11 |     体に　力を　こめて 筋肉を　ぶあつく　することで 自分の　攻撃と　防御を　あげる。 |
+|  312       17 |  |  1 |      からだに　ちからを　こめて　きんにくを ぶあつく　することで　じぶんの こうげきと　ぼうぎょを　あげる。 |
+|  312       17 |  |  3 |      몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다. |
+|  312       17 |  |  4 |      將力量集中於體內，增厚肌肉， 提高自己的攻擊和防禦。 |
+|  312       17 |  |  5 |      Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense. |
+|  312       17 |  |  6 |      Der Anwender spannt seine Muskeln an und erhöht damit den Angriffs- und den Verteidigungs-Wert. |
+|  312       17 |  |  7 |      Tensa los músculos de quien lo usa y potencia su Ataque y su Defensa. |
+|  312       17 |  |  8 |      Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco. |
+|  312       17 |  |  9 |      The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. |
+|  312       17 |  |  11 |     体に　力を　こめて 筋肉を　ぶあつく　することで 自分の　攻撃と　防御を　あげる。 |
+|  312       17 |  |  12 |     使出全身力气绷紧肌肉， 从而提高自己的攻击和防御。 |
+|  312       18 |  |  1 |      からだに　ちからを　こめて　きんにくを ぶあつく　することで　じぶんの こうげきと　ぼうぎょを　あげる。 |
+|  312       18 |  |  3 |      몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다. |
+|  312       18 |  |  4 |      將力量集中於體內，增厚肌肉， 提高自己的攻擊和防禦。 |
+|  312       18 |  |  5 |      Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense. |
+|  312       18 |  |  6 |      Der Anwender spannt seine Muskeln an und erhöht damit den Angriffs- und den Verteidigungs-Wert. |
+|  312       18 |  |  7 |      Tensa los músculos de quien lo usa y potencia su Ataque y su Defensa. |
+|  312       18 |  |  8 |      Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco. |
+|  312       18 |  |  9 |      The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. |
+|  312       18 |  |  11 |     体に　力を　こめて 筋肉を　ぶあつく　することで 自分の　攻撃と　防御を　あげる。 |
+|  312       18 |  |  12 |     使出全身力气绷紧肌肉， 从而提高自己的攻击和防御。 |
+|  312       19 |  |  1 |      じぶんの　ＨＰを　すこし　けずって ぶんしんを　だす。 ぶんしんは　じぶんの　みがわりに　なる。 |
+|  312       19 |  |  3 |      자신의 HP를 조금 깎아서 분신을 만든다. 분신은 자신의 대타가 된다. |
+|  312       19 |  |  4 |      消耗一些自己的HP， 製造分身。 分身將成為自己的替身。 |
+|  312       19 |  |  5 |      Le lanceur fait une copie de lui-même en sacrifiant quelques PV. La copie sert de leurre. |
+|  312       19 |  |  6 |      Anwender setzt eine kleine Menge an KP ein, um einen Doppelgänger zu erzeugen, der für ihn Schläge einsteckt. |
+|  312       19 |  |  7 |      Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo. |
+|  312       19 |  |  8 |      Chi la usa crea una copia di se stesso usando alcuni PS. La copia serve come esca per il nemico. |
+|  312       19 |  |  9 |      The user makes a copy of itself using some of its HP. The copy serves as the user's decoy. |
+|  312       19 |  |  11 |     自分の　ＨＰを　少し　削って 分身を　だす。 分身は　自分の　身代わりに　なる。 |
+|  312       19 |  |  12 |     削减少许自己的HP， 制造分身。 分身将成为自己的替身。 |
+|  312       20 |  |  1 |      つよい　こうせんを あいてに　はっしゃして　こうげきする。 つぎの　ターンは　うごけなく　なる。 |
+|  312       20 |  |  3 |      강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다. |
+|  312       20 |  |  4 |      向對手發射 強烈的光線進行攻擊。 下一回合自己將無法動彈。 |
+|  312       20 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  312       20 |  |  6 |      Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen. |
+|  312       20 |  |  7 |      Es eficaz, pero el atacante deberá descansar en el siguiente turno. |
+|  312       20 |  |  8 |      Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia. |
+|  312       20 |  |  9 |      The target is attacked with a powerful beam. The user can't move on the next turn. |
+|  312       20 |  |  11 |     強い　光線を 相手に　発射して　攻撃する。 次の　ターンは　動けなくなる。 |
+|  312       20 |  |  12 |     向对手发射 强烈的光线进行攻击。 下一回合自己将无法动弹。 |
+|  313       5 |  |   9 |      Shoots 2 to 5 seeds in a row to strike the foe. |
+|  313       6 |  |   9 |      Shoots 2 to 5 seeds in a row to strike the foe. |
+|  313       7 |  |   9 |      The user shoots seeds at the foe. Two to five seeds are shot at once. |
+|  313       8 |  |   9 |      The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession. |
+|  313       9 |  |   9 |      The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession. |
+|  313       10 |  |  9 |      The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession. |
+|  313       11 |  |  5 |      Le lanceur inocule un poison spécial à l'ennemi. L'effet est doublé si l'ennemi est déjà empoisonné. |
+|  313       11 |  |  9 |      The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned. |
+|  313       14 |  |  9 |      The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned. |
+|  313       15 |  |  1 |      とくしゅな　どくえきを　あびせる。 どく　じょうたいの　あいてには いりょくが　２ばいに　なる。 |
+|  313       15 |  |  3 |      특수한 독액을 날린다. 독 상태의 상대에게는 위력이 2배가 된다. |
+|  313       15 |  |  5 |      Le lanceur inocule un poison spécial à l'ennemi. L'effet est doublé si l'ennemi est déjà empoisonné. |
+|  313       15 |  |  6 |      Überschüttet das Ziel mit einer speziellen toxischen Flüssigkeit. Doppelt so stark gegen bereits vergiftete Ziele. |
+|  313       15 |  |  7 |      Quien lo usa genera un terremoto que afecta a los Pokémon de alrededor en combate. |
+|  313       15 |  |  8 |      Lancia uno speciale liquido tossico sul bersaglio. Se questi è avvelenato, il danno provocato raddoppia. |
+|  313       15 |  |  9 |      The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned. |
+|  313       15 |  |  11 |     特殊な　毒液を　浴びせかける。 毒状態の　相手には 威力が　２倍に　なる。 |
+|  313       17 |  |  1 |      とくしゅな　どくえきを　あびせかける。 どく　じょうたいの　あいてには いりょくが　２ばいに　なる。 |
+|  313       17 |  |  3 |      특수한 독액을 끼얹는다. 독 상태의 상대에게는 위력이 2배가 된다. |
+|  313       17 |  |  4 |      將特殊的毒液潑向對手。 攻擊陷入中毒狀態的對手時， 威力會變成２倍。 |
+|  313       17 |  |  5 |      Le lanceur inocule un poison spécial à l'ennemi. L'effet est doublé si l'ennemi est déjà empoisonné. |
+|  313       17 |  |  6 |      Überschüttet das Ziel mit einer speziellen toxischen Flüssigkeit. Doppelt so stark gegen bereits vergiftete Ziele. |
+|  313       17 |  |  7 |      Ataca cubriendo al objetivo con un líquido venenoso. El daño será doble si este ya está envenenado. |
+|  313       17 |  |  8 |      Lancia uno speciale liquido tossico sul bersaglio. Se questi è avvelenato, il danno provocato raddoppia. |
+|  313       17 |  |  9 |      The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned. |
+|  313       17 |  |  11 |     特殊な　毒液を　浴びせかける。 毒状態の　相手には 威力が　２倍に　なる。 |
+|  313       17 |  |  12 |     将特殊的毒液泼向对手。 对处于中毒状态的对手， 威力会变成２倍。 |
+|  313       18 |  |  1 |      とくしゅな　どくえきを　あびせかける。 どく　じょうたいの　あいてには いりょくが　２ばいに　なる。 |
+|  313       18 |  |  3 |      특수한 독액을 끼얹는다. 독 상태의 상대에게는 위력이 2배가 된다. |
+|  313       18 |  |  4 |      將特殊的毒液潑向對手。 攻擊陷入中毒狀態的對手時， 威力會變成２倍。 |
+|  313       18 |  |  5 |      Le lanceur inocule un poison spécial à l'ennemi. L'effet est doublé si l'ennemi est déjà empoisonné. |
+|  313       18 |  |  6 |      Überschüttet das Ziel mit einer speziellen toxischen Flüssigkeit. Doppelt so stark gegen bereits vergiftete Ziele. |
+|  313       18 |  |  7 |      Ataca cubriendo al objetivo con un líquido venenoso. El daño será doble si este ya está envenenado. |
+|  313       18 |  |  8 |      Lancia uno speciale liquido tossico sul bersaglio. Se questi è avvelenato, il danno provocato raddoppia. |
+|  313       18 |  |  9 |      The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned. |
+|  313       18 |  |  11 |     特殊な　毒液を　浴びせかける。 毒状態の　相手には 威力が　２倍に　なる。 |
+|  313       18 |  |  12 |     将特殊的毒液泼向对手。 对处于中毒状态的对手， 威力会变成２倍。 |
+|  313       19 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　ぶつり　こうげきの ダメージを　よわめる。 |
+|  313       19 |  |  3 |      5턴 동안 이상한 장막으로 상대로부터 받는 물리공격의 데미지를 약하게 한다. |
+|  313       19 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的物理攻擊傷害。 |
+|  313       19 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques durant cinq tours. |
+|  313       19 |  |  6 |      Eine mysteriöse Wand, die fünf Runden den Schaden von physischen gegnerischen Treffern reduziert. |
+|  313       19 |  |  7 |      Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos. |
+|  313       19 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni. |
+|  313       19 |  |  9 |      A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+|  313       19 |  |  11 |     ５ターンの　間　不思議な　かべで 相手から　受ける　物理攻撃の ダメージを　弱める。 |
+|  313       19 |  |  12 |     利用神奇的墙壁， 在５回合内减弱从对手那里 受到的物理攻击的伤害。 |
+|  313       20 |  |  1 |      もてる　ちからを　すべて　つかって あいてに　とつげきする。 つぎの　ターンは　うごけなく　なる。 |
+|  313       20 |  |  3 |      가진 힘을 모두 사용해서 상대에게 돌격한다. 다음 턴은 움직일 수 없다. |
+|  313       20 |  |  4 |      使出全身上下所有力量突擊對手。 下一回合自己將無法動彈。 |
+|  313       20 |  |  5 |      Le lanceur charge l'ennemi de toute sa puissance et doit ensuite se reposer au tour suivant. |
+|  313       20 |  |  6 |      Anwender rennt mit seiner ganzen Kraft gegen das Ziel an und muss dann eine Runde ruhen. |
+|  313       20 |  |  7 |      El usuario carga contra el objetivo con toda la fuerza que tiene y descansa durante el siguiente turno. |
+|  313       20 |  |  8 |      Chi la usa carica il bersaglio usando tutta la sua forza, ma al turno successivo deve riposarsi. |
+|  313       20 |  |  9 |      The user charges at the target using every bit of its power. The user can't move on the next turn. |
+|  313       20 |  |  11 |     持てる　力を　すべて　使って 相手に　突撃する。 次の　ターンは　動けなくなる。 |
+|  313       20 |  |  12 |     使出自己浑身力量突击对手。 下一回合自己将无法动弹。 |
+|  314       5 |  |   9 |      The attack power varies among different POKéMON. |
+|  314       6 |  |   9 |      The attack power varies among different POKéMON. |
+|  314       7 |  |   9 |      An attack that varies in type and intensity depending on the user. |
+|  314       8 |  |   9 |      A variable move that changes type and power depending on the hidden ability of the Pokémon using it. |
+|  314       9 |  |   9 |      A variable move that changes type and power depending on the hidden ability of the Pokémon using it. |
+|  314       10 |  |  9 |      A variable move that changes type and power depending on the hidden ability of the Pokémon using it. |
+|  314       11 |  |  5 |      La puissance et le type de la capacité dépendent de l'aptitude cachée du lanceur. |
+|  314       11 |  |  9 |      A unique attack that varies in type and intensity depending on the Pokémon using it. |
+|  314       14 |  |  9 |      A unique attack that varies in type and intensity depending on the Pokémon using it. |
+|  314       15 |  |  1 |      わざを　つかった　ポケモンに　よって わざの　タイプが　かわる。 |
+|  314       15 |  |  3 |      기술을 쓴 포켓몬에 따라 기술의 타입이 달라진다. |
+|  314       15 |  |  5 |      Attaque dont le type dépend du Pokémon qui l'utilise. |
+|  314       15 |  |  6 |      Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt. |
+|  314       15 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto más le guste el Entrenador al Pokémon que lo usa. |
+|  314       15 |  |  8 |      Mossa singolare che cambia tipo a seconda del Pokémon che la usa. |
+|  314       15 |  |  9 |      A unique attack that varies in type depending on the Pokémon using it. |
+|  314       15 |  |  11 |     技を　使った　ポケモンに　よって 技の　タイプが　変わる。 |
+|  314       17 |  |  1 |      わざを　つかった　ポケモンに　よって わざの　タイプが　かわる。 |
+|  314       17 |  |  3 |      기술을 쓴 포켓몬에 따라 기술의 타입이 달라진다. |
+|  314       17 |  |  4 |      招式的屬性會隨著 使用此招式的寶可夢而改變。 |
+|  314       17 |  |  5 |      Attaque dont le type dépend du Pokémon qui l'utilise. |
+|  314       17 |  |  6 |      Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt. |
+|  314       17 |  |  7 |      Movimiento especial que cambia de tipo dependiendo del Pokémon que lo use. |
+|  314       17 |  |  8 |      Mossa singolare che cambia tipo a seconda del Pokémon che la usa. |
+|  314       17 |  |  9 |      A unique attack that varies in type depending on the Pokémon using it. |
+|  314       17 |  |  11 |     技を　使った　ポケモンに　よって 技の　タイプが　変わる。 |
+|  314       17 |  |  12 |     根据所使用招式的宝可梦， 招式属性也会改变。 |
+|  314       18 |  |  1 |      わざを　つかった　ポケモンに　よって わざの　タイプが　かわる。 |
+|  314       18 |  |  3 |      기술을 쓴 포켓몬에 따라 기술의 타입이 달라진다. |
+|  314       18 |  |  4 |      招式的屬性會隨著 使用此招式的寶可夢而改變。 |
+|  314       18 |  |  5 |      Attaque dont le type dépend du Pokémon qui l'utilise. |
+|  314       18 |  |  6 |      Der Typ dieser Attacke hängt vom jeweiligen Pokémon ab, das sie einsetzt. |
+|  314       18 |  |  7 |      Movimiento especial que cambia de tipo dependiendo del Pokémon que lo use. |
+|  314       18 |  |  8 |      Mossa singolare che cambia tipo a seconda del Pokémon che la usa. |
+|  314       18 |  |  9 |      A unique attack that varies in type depending on the Pokémon using it. |
+|  314       18 |  |  11 |     技を　使った　ポケモンに　よって 技の　タイプが　変わる。 |
+|  314       18 |  |  12 |     根据所使用招式的宝可梦， 招式属性也会改变。 |
+|  314       19 |  |  1 |      １ターンめに　もぐり　２ターンめで あいてを　こうげきする。 |
+|  314       19 |  |  3 |      1턴째에 파고들어 2턴째에 상대를 공격한다. |
+|  314       19 |  |  4 |      使用後的第１回合潛入地底， 並於第２回合攻擊對手。 |
+|  314       19 |  |  5 |      Le lanceur creuse au premier tour et frappe au second. |
+|  314       19 |  |  6 |      In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. |
+|  314       19 |  |  7 |      Primer turno: cava. Segundo turno: ataca. |
+|  314       19 |  |  8 |      Chi la usa scava al primo turno e attacca al successivo. |
+|  314       19 |  |  9 |      The user burrows into the ground, then attacks on the next turn. |
+|  314       19 |  |  11 |     １ターン目に　潜り　２ターン目で 相手を　攻撃する。 |
+|  314       19 |  |  12 |     第１回合钻入， 第２回合攻击对手。 |
+|  314       20 |  |  1 |      あいてを　ついせきする ふしぎな　はっぱを　まきちらす。 こうげきは　かならず　めいちゅう　する。 |
+|  314       20 |  |  3 |      상대를 추적하는 이상한 잎사귀를 흩뿌린다. 공격은 반드시 명중한다. |
+|  314       20 |  |  4 |      散落可以追蹤 對手的神奇葉子。 攻擊必定會命中。 |
+|  314       20 |  |  5 |      Le lanceur disperse d'étranges feuilles qui poursuivent l'ennemi. N'échoue jamais. |
+|  314       20 |  |  6 |      Magischer Blattangriff, dem nicht auszuweichen ist. |
+|  314       20 |  |  7 |      Esparce extrañas hojas que persiguen al objetivo. No se puede esquivar. |
+|  314       20 |  |  8 |      Chi la usa sparpaglia strane foglie che inseguono il bersaglio. Questa mossa è infallibile. |
+|  314       20 |  |  9 |      The user scatters curious leaves that chase the target. This attack never misses. |
+|  314       20 |  |  11 |     相手を　追跡する 不思議な　はっぱを　まきちらす。 攻撃は　必ず　命中する。 |
+|  314       20 |  |  12 |     散落可以追踪 对手的神奇叶片。 攻击必定会命中。 |
+|  315       5 |  |   9 |      Raises the power of FIRE-type moves for 5 turns. |
+|  315       6 |  |   9 |      Raises the power of FIRE-type moves for 5 turns. |
+|  315       7 |  |   9 |      The sun blazes for five turns, powering up FIRE-type moves. |
+|  315       8 |  |   9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       9 |  |   9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       10 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       11 |  |  5 |      Fait briller le soleil pendant 5 tours et améliore les capacités de type Feu. |
+|  315       11 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       14 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       15 |  |  1 |      ５ターンの　あいだ　ひざしを つよくして　ほのおタイプの わざの　いりょくを　あげる。 |
+|  315       15 |  |  3 |      5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. |
+|  315       15 |  |  5 |      Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu. |
+|  315       15 |  |  6 |      Die Sonne brennt unbarmherzig 5 Runden lang. Dadurch werden Attacken vom Typ Feuer verstärkt. |
+|  315       15 |  |  7 |      Quien lo usa cava en el primer turno y ataca en el segundo. También se puede usar para escapar de lugares cerrados. |
+|  315       15 |  |  8 |      Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco. |
+|  315       15 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. |
+|  315       15 |  |  11 |     ５ターンの　あいだ　日差しを つよくして　ほのおタイプの 技の　威力を　あげる。 |
+|  315       17 |  |  1 |      ５ターンの　あいだ　ひざしを　つよめて ほのおタイプの　いりょくを　あげる。 みずタイプの　いりょくは　さがる。 |
+|  315       17 |  |  3 |      5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. 물타입의 위력은 떨어진다. |
+|  315       17 |  |  4 |      讓陽光增強，在５回合內 提高火屬性招式的威力。 水屬性招式的威力會降低。 |
+|  315       17 |  |  5 |      Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau. |
+|  315       17 |  |  6 |      Die Sonne brennt unbarmherzig 5 Runden lang. Dadurch werden Attacken vom Typ Feuer verstärkt und Attacken vom Typ Wasser geschwächt. |
+|  315       17 |  |  7 |      Intensifica el efecto del sol durante cinco turnos, lo que aumenta la potencia de los movimientos de tipo Fuego y disminuye la de los de tipo Agua. |
+|  315       17 |  |  8 |      Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco e riducendo la potenza di quelle di tipo Acqua. |
+|  315       17 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. This also weakens the power of Water-type moves. |
+|  315       17 |  |  11 |     ５ターンの　あいだ　日差しを　強めて ほのおタイプの　威力を　あげる。 みずタイプの　威力は　さがる。 |
+|  315       17 |  |  12 |     在５回合内阳光变得强烈， 从而提高火属性的招式威力。 水属性的招式威力则降低。 |
+|  315       18 |  |  1 |      ５ターンの　あいだ　ひざしを　つよめて ほのおタイプの　いりょくを　あげる。 みずタイプの　いりょくは　さがる。 |
+|  315       18 |  |  3 |      5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. 물타입의 위력은 떨어진다. |
+|  315       18 |  |  4 |      讓陽光增強，在５回合內 提高火屬性招式的威力。 水屬性招式的威力會降低。 |
+|  315       18 |  |  5 |      Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau. |
+|  315       18 |  |  6 |      Die Sonne brennt unbarmherzig 5 Runden lang. Dadurch werden Attacken vom Typ Feuer verstärkt und Attacken vom Typ Wasser geschwächt. |
+|  315       18 |  |  7 |      Intensifica el efecto del sol durante cinco turnos, lo que aumenta la potencia de los movimientos de tipo Fuego y disminuye la de los de tipo Agua. |
+|  315       18 |  |  8 |      Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco e riducendo la potenza di quelle di tipo Acqua. |
+|  315       18 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. This also weakens the power of Water-type moves. |
+|  315       18 |  |  11 |     ５ターンの　あいだ　日差しを　強めて ほのおタイプの　威力を　あげる。 みずタイプの　威力は　さがる。 |
+|  315       18 |  |  12 |     在５回合内阳光变得强烈， 从而提高火属性的招式威力。 水属性的招式威力则降低。 |
+|  315       19 |  |  1 |      ぶきみで　あやしい　ほのおを　はなって あいてを　やけどの　じょうたいに　する。 |
+|  315       19 |  |  3 |      으스스하고 괴상한 불꽃을 쏘아 상대를 화상 상태로 만든다. |
+|  315       19 |  |  4 |      放出詭異的火焰， 讓對手陷入灼傷狀態。 |
+|  315       19 |  |  5 |      Lance un bouquet de flammes maléfiques à l'ennemi pour lui infliger une brûlure. |
+|  315       19 |  |  6 |      Angriff mit unheimlicher Flamme, die beim Ziel Verbrennungen verursacht. |
+|  315       19 |  |  7 |      Siniestra llama morada que produce quemaduras. |
+|  315       19 |  |  8 |      Fiamme intense di colore viola causano una scottatura al bersaglio. |
+|  315       19 |  |  9 |      The user shoots a sinister flame at the target to inflict a burn. |
+|  315       19 |  |  11 |     不気味で　怪しい　炎を　放って 相手を　やけどの　状態に　する。 |
+|  315       19 |  |  12 |     放出怪异的火焰， 从而让对手陷入灼伤状态。 |
+|  315       20 |  |  1 |      １ターンめに　ひかりを　いっぱいに あつめ　２ターンめに　ひかりの　たばを はっしゃして　こうげきする。 |
+|  315       20 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다. |
+|  315       20 |  |  4 |      使用後的第１回合吸收大量日光， 並於第２回合發射光束進行攻擊。 |
+|  315       20 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  315       20 |  |  6 |      Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff. |
+|  315       20 |  |  7 |      El usuario absorbe luz en el primer turno y en el segundo lanza un potente rayo de energía. |
+|  315       20 |  |  8 |      Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo. |
+|  315       20 |  |  9 |      In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. |
+|  315       20 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　光の　束を 発射して　攻撃する。 |
+|  315       20 |  |  12 |     第１回合收集满满的日光， 第２回合发射光束进行攻击。 |
+|  316       5 |  |   9 |      Enrages the foe so it can only use attack moves. |
+|  316       6 |  |   9 |      Enrages the foe so it can only use attack moves. |
+|  316       7 |  |   9 |      The foe is taunted into a rage that allows it to use only attack moves. |
+|  316       8 |  |   9 |      The foe is taunted into a rage that allows it to use only attack moves for two to four turns. |
+|  316       9 |  |   9 |      The foe is taunted into a rage that allows it to use only attack moves for two to four turns. |
+|  316       10 |  |  9 |      The foe is taunted into a rage that allows it to use only attack moves for two to four turns. |
+|  316       11 |  |  5 |      Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant 3 tours. |
+|  316       11 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  316       14 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  316       15 |  |  1 |      あいてを　おこらせる。３ターンの あいだ　あいては　ダメージを あたえる　わざしか　だせなくなる。 |
+|  316       15 |  |  3 |      상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다. |
+|  316       15 |  |  5 |      Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant trois tours. |
+|  316       15 |  |  6 |      Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt. |
+|  316       15 |  |  7 |      Ataca al objetivo con un potente ataque telequinético que le puede bajar la Defensa Especial. |
+|  316       15 |  |  8 |      Provoca il nemico inducendolo a usare solo mosse d'attacco per tre turni. |
+|  316       15 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  316       15 |  |  11 |     相手を　怒らせる。３ターンの あいだ　相手は　ダメージを 与える　技しか　だせなくなる。 |
+|  316       17 |  |  1 |      あいてを　おこらせる。　３ターンの あいだ　あいては　ダメージを あたえる　わざしか　だせなくなる。 |
+|  316       17 |  |  3 |      상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다. |
+|  316       17 |  |  4 |      激怒對手。 在３回合內讓對手 只能使出給予傷害的招式。 |
+|  316       17 |  |  5 |      Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant trois tours. |
+|  316       17 |  |  6 |      Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt. |
+|  316       17 |  |  7 |      Provoca un agravio tal que el objetivo, cegado por la ira, solo puede usar movimientos de ataque durante tres turnos. |
+|  316       17 |  |  8 |      Provoca il bersaglio inducendolo a usare solo mosse d'attacco per tre turni. |
+|  316       17 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  316       17 |  |  11 |     相手を　怒らせる。　３ターンの あいだ　相手は　ダメージを 与える　技しか　だせなくなる。 |
+|  316       17 |  |  12 |     使对手愤怒。 在３回合内让对手 只能使出给予伤害的招式。 |
+|  316       18 |  |  1 |      あいてを　おこらせる。　３ターンの あいだ　あいては　ダメージを あたえる　わざしか　だせなくなる。 |
+|  316       18 |  |  3 |      상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다. |
+|  316       18 |  |  4 |      激怒對手。 在３回合內讓對手 只能使出給予傷害的招式。 |
+|  316       18 |  |  5 |      Provoque l'ennemi. L'oblige à n'utiliser que des attaques pendant trois tours. |
+|  316       18 |  |  6 |      Das Ziel wird so gereizt, dass es über 3 Runden hinweg nur Angriffsattacken einsetzt. |
+|  316       18 |  |  7 |      Provoca un agravio tal que el objetivo, cegado por la ira, solo puede usar movimientos de ataque durante tres turnos. |
+|  316       18 |  |  8 |      Provoca il bersaglio inducendolo a usare solo mosse d'attacco per tre turni. |
+|  316       18 |  |  9 |      The target is taunted into a rage that allows it to use only attack moves for three turns. |
+|  316       18 |  |  11 |     相手を　怒らせる。　３ターンの あいだ　相手は　ダメージを 与える　技しか　だせなくなる。 |
+|  316       18 |  |  12 |     使对手愤怒。 在３回合内让对手 只能使出给予伤害的招式。 |
+|  316       19 |  |  1 |      じぶんが　どく　まひ　やけど じょうたいの　とき　あいてに　くりだすと わざの　いりょくが　２ばいに　なる。 |
+|  316       19 |  |  3 |      자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다. |
+|  316       19 |  |  4 |      當自己陷入中毒、麻痺、灼傷等 狀態時，向對手使用此招式， 威力會變成２倍。 |
+|  316       19 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  316       19 |  |  6 |      Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke. |
+|  316       19 |  |  7 |      Ataca con el doble de potencia si el usuario está quemado, paralizado o envenenado. |
+|  316       19 |  |  8 |      Mossa d'attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato. |
+|  316       19 |  |  9 |      This attack move doubles its power if the user is poisoned, burned, or paralyzed. |
+|  316       19 |  |  11 |     自分が　毒　まひ　やけど 状態のとき　相手に　くりだすと 技の　威力が　２倍に　なる。 |
+|  316       19 |  |  12 |     当自己处于中毒、麻痹、灼伤状态时， 向对手使出此招式的话， 威力会变成２倍。 |
+|  316       20 |  |  1 |      １ターンめに　ひかりを　いっぱいに あつめ　２ターンめに　そのちからを けんに　こめて　こうげきする。 |
+|  316       20 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 그 힘을 검에 담아 공격한다. |
+|  316       20 |  |  4 |      使用後的第１回合吸收大量日光， 並於第２回合把力量 注入劍裡進行攻擊。 |
+|  316       20 |  |  5 |      Le lanceur absorbe la lumière au premier tour et attaque au second tour en libérant cette énergie sous forme de lames. |
+|  316       20 |  |  6 |      In Runde 1 absorbiert der Anwender Licht, das er in Runde 2 zu einem Schwert formt, mit dem er dann angreift. |
+|  316       20 |  |  7 |      El usuario dedica un turno a absorber energía lumínica y concentrarla en forma de cuchilla con la que ataca al rival en el siguiente turno. |
+|  316       20 |  |  8 |      Chi la usa assorbe la luce condensandola in una lama al primo turno per poi attaccare al turno successivo. |
+|  316       20 |  |  9 |      In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn. |
+|  316       20 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　その　力を 剣に　込めて　攻撃する。 |
+|  316       20 |  |  12 |     第１回合收集满满的日光， 第２回合将此力量 集中在剑上进行攻击。 |
+|  317       5 |  |   9 |      Fires an icy cold beam that may freeze the foe. |
+|  317       6 |  |   9 |      Fires an icy cold beam that may freeze the foe. |
+|  317       7 |  |   9 |      The foe is struck with an icy beam. It may freeze the foe solid. |
+|  317       8 |  |   9 |      The foe is struck with an icy-cold beam of energy. It may also freeze the target solid. |
+|  317       9 |  |   9 |      The foe is struck with an icy-cold beam of energy. It may also freeze the target solid. |
+|  317       10 |  |  9 |      The foe is struck with an icy-cold beam of energy. It may also freeze the target solid. |
+|  317       11 |  |  5 |      Un rayon de glace frappe l'ennemi. Peut aussi le geler. |
+|  317       11 |  |  9 |      The target is struck with an icy-cold beam of energy. It may also freeze the target solid. |
+|  317       14 |  |  9 |      The target is struck with an icy-cold beam of energy. It may also freeze the target solid. |
+|  317       15 |  |  1 |      れいきの　ビームを　はっしゃして こうげきする。　あいてを　こおりの じょうたいに　することが　ある。 |
+|  317       15 |  |  3 |      냉동빔을 상대에게 발사하여 공격한다. 얼음 상태로 만들 때가 있다. |
+|  317       15 |  |  5 |      Un rayon de glace frappe l'ennemi. Peut aussi le geler. |
+|  317       15 |  |  6 |      Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein. |
+|  317       15 |  |  7 |      Lanza una bola oscura que puede bajar la Defensa Especial del objetivo. |
+|  317       15 |  |  8 |      Il nemico è colpito da un raggio di energia gelida che può anche congelarlo. |
+|  317       15 |  |  9 |      The target is struck with an icy- cold beam of energy. This may also leave the target frozen. |
+|  317       15 |  |  11 |     凍える　ビームを 相手に　発射して　攻撃する。 こおり状態に　することが　ある。 |
+|  317       17 |  |  1 |      こごえる　ビームを あいてに　はっしゃして　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  317       17 |  |  3 |      냉동빔을 상대에게 발사하여 공격한다. 얼음 상태로 만들 때가 있다. |
+|  317       17 |  |  4 |      向對手發射 冰凍光束進行攻擊。 有時會讓對手陷入冰凍狀態。 |
+|  317       17 |  |  5 |      Un rayon de glace frappe l'ennemi. Peut aussi le geler. |
+|  317       17 |  |  6 |      Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein. |
+|  317       17 |  |  7 |      Ataca al objetivo con un rayo de hielo que puede llegar a congelarlo. |
+|  317       17 |  |  8 |      Il bersaglio è colpito da un raggio di energia gelida che può anche congelarlo. |
+|  317       17 |  |  9 |      The target is struck with an icy-cold beam of energy. This may also leave the target frozen. |
+|  317       17 |  |  11 |     凍える　ビームを 相手に　発射して　攻撃する。 こおり状態に　することが　ある。 |
+|  317       17 |  |  12 |     向对手发射 冰冻光束进行攻击。 有时会让对手陷入冰冻状态。 |
+|  317       18 |  |  1 |      こごえる　ビームを あいてに　はっしゃして　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  317       18 |  |  3 |      냉동빔을 상대에게 발사하여 공격한다. 얼음 상태로 만들 때가 있다. |
+|  317       18 |  |  4 |      向對手發射 冰凍光束進行攻擊。 有時會讓對手陷入冰凍狀態。 |
+|  317       18 |  |  5 |      Un rayon de glace frappe l'ennemi. Peut aussi le geler. |
+|  317       18 |  |  6 |      Das Ziel wird von einem eiskalten Energiestrahl getroffen. Dieser friert es eventuell ein. |
+|  317       18 |  |  7 |      Ataca al objetivo con un rayo de hielo que puede llegar a congelarlo. |
+|  317       18 |  |  8 |      Il bersaglio è colpito da un raggio di energia gelida che può anche congelarlo. |
+|  317       18 |  |  9 |      The target is struck with an icy-cold beam of energy. This may also leave the target frozen. |
+|  317       18 |  |  11 |     凍える　ビームを 相手に　発射して　攻撃する。 こおり状態に　することが　ある。 |
+|  317       18 |  |  12 |     向对手发射 冰冻光束进行攻击。 有时会让对手陷入冰冻状态。 |
+|  317       19 |  |  1 |      しゅとうを　いきおいよく　ふりおろして あいてを　こうげきする。　ひかりのかべや リフレクター　なども　はかいできる。 |
+|  317       19 |  |  3 |      수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다. |
+|  317       19 |  |  4 |      猛烈地揮下手刀 攻擊對手。還可以破壞 光牆和反射壁等。 |
+|  317       19 |  |  5 |      Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection. |
+|  317       19 |  |  6 |      Ein beherzter Handkantenschlag. Durchbricht Barrieren wie Lichtschild und Reflektor. |
+|  317       19 |  |  7 |      Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo. |
+|  317       19 |  |  8 |      Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce. |
+|  317       19 |  |  9 |      The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+|  317       19 |  |  11 |     手刀を　勢いよく　振りおろして 相手を　攻撃する。　ひかりのかべや リフレクター　なども　破壊できる。 |
+|  317       19 |  |  12 |     将手刀猛烈地挥下攻击对手。 还可以破坏光墙和反射壁等。 |
+|  317       20 |  |  1 |      はげしく　うずをまく　ほのおの　なかに ４ー５ターンの　あいだ あいてを　とじこめて　こうげきする。 |
+|  317       20 |  |  3 |      세차게 소용돌이치는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다. |
+|  317       20 |  |  4 |      將對手困在 熊熊燃燒的火焰旋渦中， 在４～５回合內進行攻擊。 |
+|  317       20 |  |  5 |      Un tourbillon de flammes emprisonne l'ennemi pendant quatre à cinq tours. |
+|  317       20 |  |  6 |      Das Ziel wird für vier bis fünf Runden in einem Feuerkreis gefangen. |
+|  317       20 |  |  7 |      Un aro de fuego que atrapa al objetivo de cuatro a cinco turnos. |
+|  317       20 |  |  8 |      Intrappola il bersaglio in un turbine di fuoco che dura per quattro o cinque turni. |
+|  317       20 |  |  9 |      The target becomes trapped within a fierce vortex of fire that rages for four to five turns. |
+|  317       20 |  |  11 |     激しく　渦をまく　炎の中に ４ー５ターンの　間 相手を　閉じこめて　攻撃する。 |
+|  317       20 |  |  12 |     将对手困在 激烈的火焰旋涡中， 在４～５回合内进行攻击。 |
+|  318       5 |  |   9 |      A vicious snow-and- wind attack that may freeze the foe. |
+|  318       6 |  |   9 |      A brutal snow-and- wind attack that may freeze the foe. |
+|  318       7 |  |   9 |      The foe is blasted with a blizzard. It may freeze the foe solid. |
+|  318       8 |  |   9 |      A howling blizzard is summoned to strike the foe. It may also freeze the target solid. |
+|  318       9 |  |   9 |      A howling blizzard is summoned to strike the foe. It may also freeze the target solid. |
+|  318       10 |  |  9 |      A howling blizzard is summoned to strike the foe. It may also freeze the target solid. |
+|  318       11 |  |  5 |      Une violente tempête de neige est déclenchée sur l'ennemi. Peut aussi le geler. |
+|  318       11 |  |  9 |      A howling blizzard is summoned to strike the opposing team. It may also freeze them solid. |
+|  318       14 |  |  9 |      A howling blizzard is summoned to strike the opposing team. It may also freeze them solid. |
+|  318       15 |  |  1 |      はげしい　ふぶきを　ぶつけて こうげきする。　あいてを　こおりの じょうたいに　することが　ある。 |
+|  318       15 |  |  3 |      세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다. |
+|  318       15 |  |  5 |      Une violente tempête de neige est déclenchée sur l'ennemi. Peut aussi le geler. |
+|  318       15 |  |  6 |      Eine ungnädige Eis-und-Schnee-Attacke, die Pokémon in der Nähe des Anwenders trifft und eventuell einfrieren kann. |
+|  318       15 |  |  7 |      Ataca con contundentes puñetazos. Puede destruir barreras como Pantalla de Luz y Reflejo. |
+|  318       15 |  |  8 |      Colpisce i nemici con una tremenda tempesta di ghiaccio che può anche congelarli. |
+|  318       15 |  |  9 |      A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen. |
+|  318       15 |  |  11 |     激しい　吹雪を 相手に　吹きつけて　攻撃する。 こおり状態に　することが　ある。 |
+|  318       17 |  |  1 |      はげしい　ふぶきを あいてに　ふきつけて　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  318       17 |  |  3 |      세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다. |
+|  318       17 |  |  4 |      將猛烈的暴風雪 吹向對手進行攻擊。 有時會讓對手陷入冰凍狀態。 |
+|  318       17 |  |  5 |      Une violente tempête de neige s'abat sur l'ennemi. Peut aussi le geler. |
+|  318       17 |  |  6 |      Eine ungnädige Eis- und Schnee-Attacke, die Pokémon in der Nähe des Anwenders trifft und eventuell einfrieren kann. |
+|  318       17 |  |  7 |      Invoca una tormenta de viento y nieve que envuelve al objetivo y puede llegar a congelarlo. |
+|  318       17 |  |  8 |      Colpisce i nemici intorno con una tremenda tempesta di ghiaccio che può anche congelarli. |
+|  318       17 |  |  9 |      A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen. |
+|  318       17 |  |  11 |     激しい　吹雪を 相手に　吹きつけて　攻撃する。 こおり状態に　することが　ある。 |
+|  318       17 |  |  12 |     将猛烈的暴风雪 刮向对手进行攻击。 有时会让对手陷入冰冻状态。 |
+|  318       18 |  |  1 |      はげしい　ふぶきを あいてに　ふきつけて　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  318       18 |  |  3 |      세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다. |
+|  318       18 |  |  4 |      將猛烈的暴風雪 吹向對手進行攻擊。 有時會讓對手陷入冰凍狀態。 |
+|  318       18 |  |  5 |      Une violente tempête de neige s'abat sur l'ennemi. Peut aussi le geler. |
+|  318       18 |  |  6 |      Eine ungnädige Eis- und Schnee-Attacke, die Pokémon in der Nähe des Anwenders trifft und eventuell einfrieren kann. |
+|  318       18 |  |  7 |      Invoca una tormenta de viento y nieve que envuelve al objetivo y puede llegar a congelarlo. |
+|  318       18 |  |  8 |      Colpisce i nemici intorno con una tremenda tempesta di ghiaccio che può anche congelarli. |
+|  318       18 |  |  9 |      A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen. |
+|  318       18 |  |  11 |     激しい　吹雪を 相手に　吹きつけて　攻撃する。 こおり状態に　することが　ある。 |
+|  318       18 |  |  12 |     将猛烈的暴风雪 刮向对手进行攻击。 有时会让对手陷入冰冻状态。 |
+|  318       19 |  |  1 |      １ターンめで　そらへ　とび ２ターンめに　あいてを　こうげきする。 |
+|  318       19 |  |  3 |      1턴째에 하늘을 날아 2턴째에 상대를 공격한다. |
+|  318       19 |  |  4 |      使用後的第１回合飛上天空， 並於第２回合攻擊對手。 |
+|  318       19 |  |  5 |      Le lanceur s'envole au premier tour et frappe au second. |
+|  318       19 |  |  6 |      Steigt in Runde 1 empor und trifft das Ziel in Runde 2. |
+|  318       19 |  |  7 |      Vuela en el primer turno y ataca en el segundo. |
+|  318       19 |  |  8 |      Chi la usa si alza in volo per attaccare al turno seguente. |
+|  318       19 |  |  9 |      The user flies up into the sky and then strikes its target on the next turn. |
+|  318       19 |  |  11 |     １ターン目で　空へ　飛び ２ターン目に　相手を　攻撃する。 |
+|  318       19 |  |  12 |     第１回合飞上天空， 第２回合攻击对手。 |
+|  318       20 |  |  1 |      よわい　でんげきを　あびせる　ことで あいてを　まひ　じょうたいに　する。 |
+|  318       20 |  |  3 |      약한 전격을 날려서 상대를 마비 상태로 만든다. |
+|  318       20 |  |  4 |      放出微弱的電流。 讓對手陷入麻痺狀態。 |
+|  318       20 |  |  5 |      Un faible choc électrique frappe l'ennemi. Si l'attaque le touche, celui-ci est paralysé. |
+|  318       20 |  |  6 |      Ein schwacher Stromstoß, der das Ziel paralysiert. |
+|  318       20 |  |  7 |      Una ligera descarga que paraliza al objetivo si lo alcanza. |
+|  318       20 |  |  8 |      Colpisce il bersaglio con una debole scarica elettrica che lo paralizza. |
+|  318       20 |  |  9 |      The user launches a weak jolt of electricity that paralyzes the target. |
+|  318       20 |  |  11 |     弱い　電撃を　浴びせることで 相手を　まひ状態に　する。 |
+|  318       20 |  |  12 |     向对手发出 微弱的电击， 从而让对手陷入麻痹状态。 |
+|  319       5 |  |   9 |      Powerful, but needs recharging the next turn. |
+|  319       6 |  |   9 |      Powerful, but needs recharging the next turn. |
+|  319       7 |  |   9 |      A severely damaging attack that makes the user rest on the next turn. |
+|  319       8 |  |   9 |      The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy. |
+|  319       9 |  |   9 |      The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy. |
+|  319       10 |  |  9 |      The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy. |
+|  319       11 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  319       11 |  |  9 |      The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy. |
+|  319       14 |  |  9 |      The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy. |
+|  319       15 |  |  1 |      つよい　こうせんを　はっしゃする。 つかった　つぎのターンは　はんどうで うごけなくなる。 |
+|  319       15 |  |  3 |      강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다. |
+|  319       15 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  319       15 |  |  6 |      Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen. |
+|  319       15 |  |  7 |      Quien lo usa se mueve tan rápido que deja una estela de sí mismo que aumenta la Evasión. |
+|  319       15 |  |  8 |      Colpisce il nemico con un potente raggio. Chi la usa salta il turno successivo per recuperare energia. |
+|  319       15 |  |  9 |      The target is attacked with a powerful beam. The user can't move on the next turn. |
+|  319       15 |  |  11 |     強い　光線を 相手に　発射して　攻撃する。 次の　ターンは　動けなくなる。 |
+|  319       17 |  |  1 |      つよい　こうせんを あいてに　はっしゃして　こうげきする。 つぎの　ターンは　うごけなく　なる。 |
+|  319       17 |  |  3 |      강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다. |
+|  319       17 |  |  4 |      向對手發射 強烈的光線進行攻擊。 下一回合自己將無法動彈。 |
+|  319       17 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  319       17 |  |  6 |      Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen. |
+|  319       17 |  |  7 |      Ataca al objetivo con un potente rayo, pero quien lo usa debe descansar en el siguiente turno para reponer energía. |
+|  319       17 |  |  8 |      Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia. |
+|  319       17 |  |  9 |      The target is attacked with a powerful beam. The user can't move on the next turn. |
+|  319       17 |  |  11 |     強い　光線を 相手に　発射して　攻撃する。 次の　ターンは　動けなくなる。 |
+|  319       17 |  |  12 |     向对手发射 强烈的光线进行攻击。 下一回合自己将无法动弹。 |
+|  319       18 |  |  1 |      つよい　こうせんを あいてに　はっしゃして　こうげきする。 つぎの　ターンは　うごけなく　なる。 |
+|  319       18 |  |  3 |      강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다. |
+|  319       18 |  |  4 |      向對手發射 強烈的光線進行攻擊。 下一回合自己將無法動彈。 |
+|  319       18 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  319       18 |  |  6 |      Eine äußerst starke Attacke, die viel Schaden anrichtet. Anwender muss sich in der nächsten Runde ausruhen. |
+|  319       18 |  |  7 |      Ataca al objetivo con un potente rayo, pero quien lo usa debe descansar en el siguiente turno para reponer energía. |
+|  319       18 |  |  8 |      Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia. |
+|  319       18 |  |  9 |      The target is attacked with a powerful beam. The user can't move on the next turn. |
+|  319       18 |  |  11 |     強い　光線を 相手に　発射して　攻撃する。 次の　ターンは　動けなくなる。 |
+|  319       18 |  |  12 |     向对手发射 强烈的光线进行攻击。 下一回合自己将无法动弹。 |
+|  319       19 |  |  1 |      いんりょくを　つかい　なげとばす。 じぶんの　レベルと　おなじ　ダメージを あいてに　あたえる。 |
+|  319       19 |  |  3 |      인력을 사용해 내던진다. 자신의 레벨과 똑같은 데미지를 상대에게 준다. |
+|  319       19 |  |  4 |      利用引力將對手甩飛出去。 給予對手和自己等級相同的傷害。 |
+|  319       19 |  |  5 |      L'ennemi est projeté grâce au pouvoir de la gravité. Inflige des dégâts équivalents au niveau du lanceur. |
+|  319       19 |  |  6 |      Ziel wird mit der Kraft der Gravitation umgeworfen. Richtet Schaden gemäß Level des Angreifers an. |
+|  319       19 |  |  7 |      La gravedad derriba al objetivo. Se restarán tantos PS como nivel tenga el agresor. |
+|  319       19 |  |  8 |      Colpisce il bersaglio con la forza di gravità. Infligge un danno pari al livello di chi la usa. |
+|  319       19 |  |  9 |      The target is thrown using the power of gravity. It inflicts damage equal to the user's level. |
+|  319       19 |  |  11 |     引力を　使い　投げとばす。 自分の　レベルと　同じ　ダメージを 相手に　与える。 |
+|  319       19 |  |  12 |     利用引力将对手甩飞出去。 给予对手和自己等级相同的伤害。 |
+|  319       20 |  |  1 |      １ターンめに　もぐり　２ターンめで あいてを　こうげきする。 |
+|  319       20 |  |  3 |      1턴째에 파고들어 2턴째에 상대를 공격한다. |
+|  319       20 |  |  4 |      使用後的第１回合潛入地底， 並於第２回合攻擊對手。 |
+|  319       20 |  |  5 |      Le lanceur creuse au premier tour et frappe au second. |
+|  319       20 |  |  6 |      In Runde 1 gräbt sich der Anwender ein und in Runde 2 greift er an. |
+|  319       20 |  |  7 |      El usuario cava durante el primer turno y ataca en el segundo. |
+|  319       20 |  |  8 |      Chi la usa scava al primo turno e attacca al successivo. |
+|  319       20 |  |  9 |      The user burrows into the ground, then attacks on the next turn. |
+|  319       20 |  |  11 |     １ターン目に　潜り　２ターン目で 相手を　攻撃する。 |
+|  319       20 |  |  12 |     第１回合钻入， 第２回合攻击对手。 |
+|  320       5 |  |   9 |      Creates a wall of light that lowers SP. ATK damage. |
+|  320       6 |  |   9 |      Creates a wall of light that lowers SP. ATK damage. |
+|  320       7 |  |   9 |      A wall of light cuts damage from SP. ATK attacks for five turns. |
+|  320       8 |  |   9 |      A wondrous wall of light is put up to suppress damage from special attacks for five turns. |
+|  320       9 |  |   9 |      A wondrous wall of light is put up to suppress damage from special attacks for five turns. |
+|  320       10 |  |  9 |      A wondrous wall of light is put up to suppress damage from special attacks for five turns. |
+|  320       11 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques spéciales durant 5 tours. |
+|  320       11 |  |  9 |      A wondrous wall of light is put up to suppress damage from special attacks for five turns. |
+|  320       14 |  |  9 |      A wondrous wall of light is put up to suppress damage from special attacks for five turns. |
+|  320       15 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　とくしゅわざの ダメージを　よわめる。 |
+|  320       15 |  |  3 |      5턴 동안 이상한 장막으로 상대로부터 받는 특수 기술의 데미지를 약하게 만든다. |
+|  320       15 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques spéciales durant cinq tours. |
+|  320       15 |  |  6 |      Eine Wand aus Licht wird über 5 Runden errichtet. Sie senkt den durch Spezial-Angriffe herbeigeführten Schaden. |
+|  320       15 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques físicos durante cinco turnos. |
+|  320       15 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni. |
+|  320       15 |  |  9 |      A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+|  320       15 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　特殊攻撃の ダメージを　弱める。 |
+|  320       17 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　とくしゅわざの ダメージを　よわめる。 |
+|  320       17 |  |  3 |      5턴 동안 이상한 장막으로 상대로부터 받는 특수 기술의 데미지를 약하게 만든다. |
+|  320       17 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的特殊攻擊傷害。 |
+|  320       17 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales durant cinq tours. |
+|  320       17 |  |  6 |      Eine Wand aus Licht wird für 5 Runden errichtet. Sie senkt den durch Spezial-Angriffe herbeigeführten Schaden. |
+|  320       17 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques especiales durante cinco turnos. |
+|  320       17 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni. |
+|  320       17 |  |  9 |      A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+|  320       17 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　特殊攻撃の ダメージを　弱める。 |
+|  320       17 |  |  12 |     在５回合内使用神奇的墙， 减弱从对手那受到的 特殊攻击的伤害。 |
+|  320       18 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　とくしゅわざの ダメージを　よわめる。 |
+|  320       18 |  |  3 |      5턴 동안 이상한 장막으로 상대로부터 받는 특수 기술의 데미지를 약하게 만든다. |
+|  320       18 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的特殊攻擊傷害。 |
+|  320       18 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales durant cinq tours. |
+|  320       18 |  |  6 |      Eine Wand aus Licht wird für 5 Runden errichtet. Sie senkt den durch Spezial-Angriffe herbeigeführten Schaden. |
+|  320       18 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques especiales durante cinco turnos. |
+|  320       18 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni. |
+|  320       18 |  |  9 |      A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+|  320       18 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　特殊攻撃の ダメージを　弱める。 |
+|  320       18 |  |  12 |     在５回合内使用神奇的墙， 减弱从对手那受到的 特殊攻击的伤害。 |
+|  320       19 |  |  1 |      よわい　でんげきを　あびせる　ことで あいてを　まひ　じょうたいに　する。 |
+|  320       19 |  |  3 |      약한 전격을 날려서 상대를 마비 상태로 만든다. |
+|  320       19 |  |  4 |      放出微弱的電流。 讓對手陷入麻痺狀態。 |
+|  320       19 |  |  5 |      Un faible choc électrique frappe l'ennemi. Si l'attaque le touche, celui-ci est paralysé. |
+|  320       19 |  |  6 |      Ein schwacher Stromstoß, der das Ziel paralysiert. |
+|  320       19 |  |  7 |      Una ligera descarga que paraliza al objetivo si lo alcanza. |
+|  320       19 |  |  8 |      Colpisce il bersaglio con una debole scarica elettrica che lo paralizza. |
+|  320       19 |  |  9 |      The user launches a weak jolt of electricity that paralyzes the target. |
+|  320       19 |  |  11 |     弱い　電撃を　浴びせることで 相手を　まひ状態に　する。 |
+|  320       19 |  |  12 |     向对手发出 微弱的电击， 从而让对手陷入麻痹状态。 |
+|  320       20 |  |  1 |      おもわず　みみを　ふさぎたくなる いやなおとを　だして あいての　ぼうぎょを　がくっと　さげる。 |
+|  320       20 |  |  3 |      그만 귀를 막아버리고 싶은 싫은 소리를 내어 상대의 방어를 크게 떨어뜨린다. |
+|  320       20 |  |  4 |      發出令人不由自主想要 摀起耳朵的刺耳聲， 大幅降低對手的防禦。 |
+|  320       20 |  |  5 |      Le lanceur émet un son strident qui baisse beaucoup la Défense de l'ennemi. |
+|  320       20 |  |  6 |      Stößt einen Schrei aus, um die Verteidigung des Zieles stark zu senken. |
+|  320       20 |  |  7 |      Alarido agudo que reduce mucho la Defensa del objetivo. |
+|  320       20 |  |  8 |      Stridio assordante che riduce di molto la Difesa del bersaglio. |
+|  320       20 |  |  9 |      An earsplitting screech harshly lowers the target's Defense stat. |
+|  320       20 |  |  11 |     おもわず　耳を　ふさぎたくなる いやなおとを　だして 相手の　防御を　がくっと　さげる。 |
+|  320       20 |  |  12 |     发出不由自主想要 捂起耳朵的刺耳声， 从而大幅降低对手的防御。 |
+|  321       5 |  |   9 |      Negates all damage, but may fail if used in succession. |
+|  321       6 |  |   9 |      Negates all damage, but may fail if used in succession. |
+|  321       7 |  |   9 |      Enables the user to evade all attacks. It may fail if used in succession. |
+|  321       8 |  |   9 |      It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       9 |  |   9 |      It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       10 |  |  9 |      It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       11 |  |  5 |      Le lanceur esquive toutes les attaques. Plus la capacité est utilisée de fois à la suite, plus elle risque d'échouer. |
+|  321       11 |  |  9 |      It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       14 |  |  9 |      It enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       15 |  |  1 |      こうげきを　まったく　うけない。 わざを　れんぞくで　だすと しっぱい　しやすくなる。 |
+|  321       15 |  |  3 |      상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. |
+|  321       15 |  |  5 |      Le lanceur esquive toutes les attaques. Le risque d'échec augmente lorsque la capacité est utilisée plusieurs fois de suite. |
+|  321       15 |  |  6 |      Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen. |
+|  321       15 |  |  7 |      Onda de porquería que afecta a todos los Pokémon de alrededor y puede causar envenenamiento. |
+|  321       15 |  |  8 |      Permette di eludere tutti gli attacchi. Se usata in successione può fallire. |
+|  321       15 |  |  9 |      Enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       15 |  |  11 |     相手の　攻撃を まったく　受けない。 連続で　だすと　失敗しやすい。 |
+|  321       17 |  |  1 |      あいての　こうげきを まったく　うけない。 れんぞくで　だすと　しっぱい　しやすい。 |
+|  321       17 |  |  3 |      상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. |
+|  321       17 |  |  4 |      完全防住對手的所有攻擊。 連續使用時容易失敗。 |
+|  321       17 |  |  5 |      Le lanceur esquive toutes les attaques. Le risque d'échec augmente lorsque la capacité est utilisée plusieurs fois de suite. |
+|  321       17 |  |  6 |      Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen. |
+|  321       17 |  |  7 |      Bloquea todos los ataques. Puede fallar si se usa repetidamente. |
+|  321       17 |  |  8 |      Permette di eludere tutti gli attacchi. Se usata in successione può fallire. |
+|  321       17 |  |  9 |      Enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       17 |  |  11 |     相手の　攻撃を まったく　受けない。 連続で　だすと　失敗しやすい。 |
+|  321       17 |  |  12 |     完全抵挡 对手的攻击。 连续使出则容易失败。 |
+|  321       18 |  |  1 |      あいての　こうげきを まったく　うけない。 れんぞくで　だすと　しっぱい　しやすい。 |
+|  321       18 |  |  3 |      상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. |
+|  321       18 |  |  4 |      完全防住對手的所有攻擊。 連續使用時容易失敗。 |
+|  321       18 |  |  5 |      Le lanceur esquive toutes les attaques. Le risque d'échec augmente lorsque la capacité est utilisée plusieurs fois de suite. |
+|  321       18 |  |  6 |      Garantierter Schutz in der Runde, in der die Attacke eingesetzt wird. Könnte bei häufigem Einsatz versagen. |
+|  321       18 |  |  7 |      Bloquea todos los ataques. Puede fallar si se usa repetidamente. |
+|  321       18 |  |  8 |      Permette di eludere tutti gli attacchi. Se usata in successione può fallire. |
+|  321       18 |  |  9 |      Enables the user to evade all attacks. Its chance of failing rises if it is used in succession. |
+|  321       18 |  |  11 |     相手の　攻撃を まったく　受けない。 連続で　だすと　失敗しやすい。 |
+|  321       18 |  |  12 |     完全抵挡 对手的攻击。 连续使出则容易失败。 |
+|  321       19 |  |  1 |      あいてを　はじきとばして ひかえの　ポケモンを　ひきずりだす。 |
+|  321       19 |  |  3 |      상대를 튕겨내서 교대할 포켓몬을 끌어낸다. |
+|  321       19 |  |  4 |      彈飛對手， 強制讓後備寶可夢上場。 |
+|  321       19 |  |  5 |      Un coup puissant qui blesse la cible et l'envoie au loin pour forcer un autre membre de l'équipe adverse à venir au combat. |
+|  321       19 |  |  6 |      Putzt das Ziel vom Feld und wechselt es mit einem anderen Pokémon aus. |
+|  321       19 |  |  7 |      Ataca al objetivo y lo obliga a cambiarse por otro Pokémon. |
+|  321       19 |  |  8 |      Chi la usa fa volar via il bersaglio in modo che venga sostituito. |
+|  321       19 |  |  9 |      The target is knocked away, and a different Pokémon is dragged out. |
+|  321       19 |  |  11 |     相手を　はじきとばして 控えの　ポケモンを　ひきずりだす。 |
+|  321       19 |  |  12 |     弹飞对手， 强制拉后备宝可梦上场。 |
+|  321       20 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　とくしゅ　こうげきの ダメージを　よわめる。 |
+|  321       20 |  |  3 |      5턴 동안 이상한 장막을 쳐서 상대로부터 받는 특수공격의 데미지를 약하게 한다. |
+|  321       20 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的特殊攻擊傷害。 |
+|  321       20 |  |  5 |      Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités spéciales pendant cinq tours. |
+|  321       20 |  |  6 |      Erzeugt eine Lichtwand und senkt den Schaden durch Spezial-Attacken für fünf Runden. |
+|  321       20 |  |  7 |      Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales. |
+|  321       20 |  |  8 |      Innalza una barriera misteriosa che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni. |
+|  321       20 |  |  9 |      A wondrous wall of light is put up to reduce damage from special attacks for five turns. |
+|  321       20 |  |  11 |     ５ターンの　間　不思議な　かべで 相手から　受ける　特殊攻撃の ダメージを　弱める。 |
+|  321       20 |  |  12 |     利用神奇的墙壁， 在５回合内减弱从对手那里 受到的特殊攻击的伤害。 |
+|  322       5 |  |   9 |      Raises the power of WATER-type moves for 5 turns. |
+|  322       6 |  |   9 |      Raises the power of WATER-type moves for 5 turns. |
+|  322       7 |  |   9 |      A heavy rain falls for five turns, powering up WATER- type moves. |
+|  322       8 |  |   9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       9 |  |   9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       10 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       11 |  |  5 |      Invoque de fortes pluies qui durent 5 tours et améliorent les capacités de type Eau. |
+|  322       11 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       14 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       15 |  |  1 |      ５ターンの　あいだ　あめを　ふらして みずタイプの　わざの　いりょくを あげる。 |
+|  322       15 |  |  3 |      5턴 동안 비를 내려서 물타입 기술의 위력을 올린다. |
+|  322       15 |  |  5 |      Invoque de fortes pluies qui durent cinq tours et augmentent la puissance des capacités de type Eau. |
+|  322       15 |  |  6 |      Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt. |
+|  322       15 |  |  7 |      Abrasa al objetivo con una intensa llamarada que puede causarle quemaduras. |
+|  322       15 |  |  8 |      Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua. |
+|  322       15 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. |
+|  322       15 |  |  11 |     ５ターンの　あいだ　雨を　降らして みずタイプの 技の　威力を　あげる。 |
+|  322       17 |  |  1 |      ５ターンの　あいだ　あめを　ふらせて みずタイプの　いりょくを　あげる。 ほのおタイプの　いりょくは　さがる。 |
+|  322       17 |  |  3 |      5턴 동안 비를 내리게 하여 물타입 기술의 위력을 올린다. 불꽃타입의 위력은 떨어진다. |
+|  322       17 |  |  4 |      降下大雨，在５回合內 提高水屬性招式的威力。 火屬性招式的威力會降低。 |
+|  322       17 |  |  5 |      Invoque de fortes pluies qui durent cinq tours, augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu. |
+|  322       17 |  |  6 |      Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt. |
+|  322       17 |  |  7 |      Quien lo usa invoca una fuerte lluvia que dura cinco turnos. La potencia de los movimientos de tipo Agua aumenta y la de los de tipo Fuego disminuye. |
+|  322       17 |  |  8 |      Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua e riducendo la potenza di quelle di tipo Fuoco. |
+|  322       17 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves. |
+|  322       17 |  |  11 |     ５ターンの　あいだ　雨を　降らせて みずタイプの　威力を　あげる。 ほのおタイプの　威力は　さがる。 |
+|  322       17 |  |  12 |     在５回合内一直降雨， 从而提高水属性的招式威力。 火属性的招式威力则降低。 |
+|  322       18 |  |  1 |      ５ターンの　あいだ　あめを　ふらせて みずタイプの　いりょくを　あげる。 ほのおタイプの　いりょくは　さがる。 |
+|  322       18 |  |  3 |      5턴 동안 비를 내리게 하여 물타입 기술의 위력을 올린다. 불꽃타입의 위력은 떨어진다. |
+|  322       18 |  |  4 |      降下大雨，在５回合內 提高水屬性招式的威力。 火屬性招式的威力會降低。 |
+|  322       18 |  |  5 |      Invoque de fortes pluies qui durent cinq tours, augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu. |
+|  322       18 |  |  6 |      Schwerer Niederschlag setzt für 5 Runden ein. Attacken vom Typ Wasser werden verstärkt und Attacken vom Typ Feuer geschwächt. |
+|  322       18 |  |  7 |      Quien lo usa invoca una fuerte lluvia que dura cinco turnos. La potencia de los movimientos de tipo Agua aumenta y la de los de tipo Fuego disminuye. |
+|  322       18 |  |  8 |      Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua e riducendo la potenza di quelle di tipo Fuoco. |
+|  322       18 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves. |
+|  322       18 |  |  11 |     ５ターンの　あいだ　雨を　降らせて みずタイプの　威力を　あげる。 ほのおタイプの　威力は　さがる。 |
+|  322       18 |  |  12 |     在５回合内一直降雨， 从而提高水属性的招式威力。 火属性的招式威力则降低。 |
+|  322       19 |  |  1 |      こうげき　したあと ものすごい　スピードで　もどってきて ひかえ　ポケモンと　いれかわる。 |
+|  322       19 |  |  3 |      공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다. |
+|  322       19 |  |  4 |      攻擊後迅速返回， 和後備寶可夢進行替換。 |
+|  322       19 |  |  5 |      Après son attaque, le lanceur revient à toute vitesse et change de place avec un Pokémon de l'équipe prêt au combat. |
+|  322       19 |  |  6 |      Nach der Attacke eilt der Anwender zurück und tauscht den Platz mit einem anderen Pokémon. |
+|  322       19 |  |  7 |      Tras atacar, vuelve a toda prisa para dar paso a otro Pokémon del equipo. |
+|  322       19 |  |  8 |      Chi usa questa mossa fa marcia indietro per farsi sostituire dopo aver sferrato l'attacco. |
+|  322       19 |  |  9 |      After making its attack, the user rushes back to switch places with a party Pokémon in waiting. |
+|  322       19 |  |  11 |     攻撃したあと ものすごい　スピードで　もどってきて 控えの　ポケモンと　入れ替わる。 |
+|  322       19 |  |  12 |     在攻击之后急速返回， 和后备宝可梦进行替换。 |
+|  322       20 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　ぶつり　こうげきの ダメージを　よわめる。 |
+|  322       20 |  |  3 |      5턴 동안 이상한 장막을 쳐서 상대로부터 받는 물리공격의 데미지를 약하게 한다. |
+|  322       20 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的物理攻擊傷害。 |
+|  322       20 |  |  5 |      Crée un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques pendant cinq tours. |
+|  322       20 |  |  6 |      Eine mysteriöse Wand, die für fünf Runden den Schaden von physischen gegnerischen Treffern reduziert. |
+|  322       20 |  |  7 |      Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos. |
+|  322       20 |  |  8 |      Innalza una barriera misteriosa che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni. |
+|  322       20 |  |  9 |      A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+|  322       20 |  |  11 |     ５ターンの　間　不思議な　かべで 相手から　受ける　物理攻撃の ダメージを　弱める。 |
+|  322       20 |  |  12 |     利用神奇的墙壁， 在５回合内减弱从对手那里 受到的物理攻击的伤害。 |
+|  323       5 |  |   9 |      Recovers half the HP of the damage this move inflicts. |
+|  323       6 |  |   9 |      Recovers half the HP of the damage this move inflicts. |
+|  323       7 |  |   9 |      A harsh attack that absorbs half the damage it inflicted to restore HP. |
+|  323       8 |  |   9 |      A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. |
+|  323       9 |  |   9 |      A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. |
+|  323       10 |  |  9 |      A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. |
+|  323       11 |  |  5 |      Un pouvoir qui fait flotter l'ennemi dans les airs. Pendant 3 tours, il devient plus facile à atteindre. |
+|  323       11 |  |  9 |      The user makes the target float with its psychic power. The target is easier to hit for three turns. |
+|  323       14 |  |  9 |      The user makes the target float with its psychic power. The target is easier to hit for three turns. |
+|  323       15 |  |  1 |      じめんに　おりて　からだを　やすめる。 さいだい　ＨＰの　はんぶんの ＨＰを　かいふく　する。 |
+|  323       15 |  |  3 |      땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다. |
+|  323       15 |  |  5 |      Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV max. |
+|  323       15 |  |  6 |      Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. |
+|  323       15 |  |  7 |      Descarga de lodo tóxico que puede llegar a envenenar al objetivo. |
+|  323       15 |  |  8 |      Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi. |
+|  323       15 |  |  9 |      The user lands and rests its body. It restores the user's HP by up to half of its max HP. |
+|  323       15 |  |  11 |     地面に　降りて　体を　やすめる。 最大ＨＰの　半分の ＨＰを　回復する。 |
+|  323       17 |  |  1 |      じめんに　おりて　からだを　やすめる。 さいだい　ＨＰの　はんぶんの ＨＰを　かいふく　する。 |
+|  323       17 |  |  3 |      땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다. |
+|  323       17 |  |  4 |      降落到地面，讓身體休息。 回復自己最大ＨＰ的一半。 |
+|  323       17 |  |  5 |      Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV max. |
+|  323       17 |  |  6 |      Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. |
+|  323       17 |  |  7 |      Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS. |
+|  323       17 |  |  8 |      Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi. |
+|  323       17 |  |  9 |      The user lands and rests its body. It restores the user's HP by up to half of its max HP. |
+|  323       17 |  |  11 |     地面に　降りて　体を　やすめる。 最大ＨＰの　半分の ＨＰを　回復する。 |
+|  323       17 |  |  12 |     降到地面，使身体休息。 回复自己最大ＨＰ的一半。 |
+|  323       18 |  |  1 |      じめんに　おりて　からだを　やすめる。 さいだい　ＨＰの　はんぶんの ＨＰを　かいふく　する。 |
+|  323       18 |  |  3 |      땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다. |
+|  323       18 |  |  4 |      降落到地面，讓身體休息。 回復自己最大ＨＰ的一半。 |
+|  323       18 |  |  5 |      Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV max. |
+|  323       18 |  |  6 |      Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. |
+|  323       18 |  |  7 |      Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS. |
+|  323       18 |  |  8 |      Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi. |
+|  323       18 |  |  9 |      The user lands and rests its body. It restores the user's HP by up to half of its max HP. |
+|  323       18 |  |  11 |     地面に　降りて　体を　やすめる。 最大ＨＰの　半分の ＨＰを　回復する。 |
+|  323       18 |  |  12 |     降到地面，使身体休息。 回复自己最大ＨＰ的一半。 |
+|  323       19 |  |  1 |      かたい　しっぽで　あいてを　たたきつけて こうげきする。　あいての　ぼうぎょを さげることが　ある。 |
+|  323       19 |  |  3 |      단단한 꼬리로 상대를 힘껏 쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다. |
+|  323       19 |  |  4 |      將堅硬的尾巴 甩向對手進行攻擊。 有時會降低對手的防禦。 |
+|  323       19 |  |  5 |      Attaque l'ennemi avec une queue de fer. Peut aussi baisser sa Défense. |
+|  323       19 |  |  6 |      Attacke mit hartem Eisenschweif. Senkt eventuell den Verteidigungs-Wert des Zieles. |
+|  323       19 |  |  7 |      Ataca con una cola férrea y puede bajar la Defensa del objetivo. |
+|  323       19 |  |  8 |      Il bersaglio viene colpito da una robusta coda d'acciaio. Può anche ridurne la Difesa. |
+|  323       19 |  |  9 |      The target is slammed with a steel-hard tail. This may also lower the target's Defense stat. |
+|  323       19 |  |  11 |     硬い　しっぽで 相手を　たたきつけて　攻撃する。 相手の　防御を　さげることが　ある。 |
+|  323       19 |  |  12 |     使用坚硬的尾巴 摔打对手进行攻击。 有时会降低对手的防御。 |
+|  323       20 |  |  1 |      ５ターンの　あいだ ふしぎな　ちからに　まもられて じょうたい　いじょうに　ならなくなる。 |
+|  323       20 |  |  3 |      5턴 동안 이상한 힘의 보호를 받아 상태 이상이 되지 않는다. |
+|  323       20 |  |  4 |      在５回合內 被神奇的力量守護， 不會陷入異常狀態。 |
+|  323       20 |  |  5 |      Crée un champ protecteur qui empêche toutes les altérations de statut pendant cinq tours. |
+|  323       20 |  |  6 |      Team des Anwenders ist fünf Runden lang vor Statusproblemen geschützt. |
+|  323       20 |  |  7 |      Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos. |
+|  323       20 |  |  8 |      Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni. |
+|  323       20 |  |  9 |      The user creates a protective field that prevents status conditions for five turns. |
+|  323       20 |  |  11 |     ５ターンの　間 不思議な　力に　守られて 状態異常に　ならなくなる。 |
+|  323       20 |  |  12 |     在５回合内 被神奇的力量守护， 从而不会陷入异常状态。 |
+|  324       5 |  |   9 |      Prevents status abnormality with a mystical power. |
+|  324       6 |  |   9 |      Prevents status abnormality with a mystical power. |
+|  324       7 |  |   9 |      It protects the user's party from all status problems for five turns. |
+|  324       8 |  |   9 |      The user creates a protective field that prevents status problems like poison, paralysis, burn, and sleep. |
+|  324       9 |  |   9 |      The user creates a protective field that prevents status problems like poison, paralysis, burn, and sleep. |
+|  324       10 |  |  9 |      The user creates a protective field that prevents status problems like poison, paralysis, burn, and sleep. |
+|  324       11 |  |  5 |      Champ protecteur empêchant tous les problèmes de statut pendant 5 tours. |
+|  324       11 |  |  9 |      The user creates a protective field that prevents status problems for five turns. |
+|  324       14 |  |  9 |      The user creates a protective field that prevents status problems for five turns. |
+|  324       15 |  |  1 |      ５ターンの　あいだ ふしぎな　ちからに　まもられて じょうたい　いじょうに　ならなくなる。 |
+|  324       15 |  |  3 |      5턴 동안 이상한 힘으로 보호받아 상태 이상이 되지 않는다. |
+|  324       15 |  |  5 |      Crée un champ protecteur qui empêche tous les problèmes de statut pendant cinq tours. |
+|  324       15 |  |  6 |      Ein Schild schützt das Team 5 Runden lang vor Statusproblemen jeglicher Art. |
+|  324       15 |  |  7 |      Tormenta de arena de cinco turnos que daña a todos los Pokémon excepto a los de tipo Roca, Tierra y Acero. |
+|  324       15 |  |  8 |      Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni. |
+|  324       15 |  |  9 |      The user creates a protective field that prevents status conditions for five turns. |
+|  324       15 |  |  11 |     ５ターンの　あいだ 不思議な　力に　守られて 状態異常に　ならなくなる。 |
+|  324       17 |  |  1 |      ５ターンの　あいだ ふしぎな　ちからに　まもられて じょうたい　いじょうに　ならなくなる。 |
+|  324       17 |  |  3 |      5턴 동안 이상한 힘으로 보호받아 상태 이상이 되지 않는다. |
+|  324       17 |  |  4 |      在５回合內 被神奇的力量守護， 不會陷入異常狀態。 |
+|  324       17 |  |  5 |      Crée un champ protecteur qui empêche tous les problèmes de statut pendant cinq tours. |
+|  324       17 |  |  6 |      Ein Schild schützt das Team 5 Runden lang vor Statusproblemen jeglicher Art. |
+|  324       17 |  |  7 |      Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos. |
+|  324       17 |  |  8 |      Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni. |
+|  324       17 |  |  9 |      The user creates a protective field that prevents status conditions for five turns. |
+|  324       17 |  |  11 |     ５ターンの　あいだ 不思議な　力に　守られて 状態異常に　ならなくなる。 |
+|  324       17 |  |  12 |     在５回合内 被神奇的力量守护， 从而不会陷入异常状态。 |
+|  324       18 |  |  1 |      ５ターンの　あいだ ふしぎな　ちからに　まもられて じょうたい　いじょうに　ならなくなる。 |
+|  324       18 |  |  3 |      5턴 동안 이상한 힘으로 보호받아 상태 이상이 되지 않는다. |
+|  324       18 |  |  4 |      在５回合內 被神奇的力量守護， 不會陷入異常狀態。 |
+|  324       18 |  |  5 |      Crée un champ protecteur qui empêche tous les problèmes de statut pendant cinq tours. |
+|  324       18 |  |  6 |      Ein Schild schützt das Team 5 Runden lang vor Statusproblemen jeglicher Art. |
+|  324       18 |  |  7 |      Un escudo que protege de problemas de estado, como el sueño o la parálisis, durante cinco turnos. |
+|  324       18 |  |  8 |      Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni. |
+|  324       18 |  |  9 |      The user creates a protective field that prevents status conditions for five turns. |
+|  324       18 |  |  11 |     ５ターンの　あいだ 不思議な　力に　守られて 状態異常に　ならなくなる。 |
+|  324       18 |  |  12 |     在５回合内 被神奇的力量守护， 从而不会陷入异常状态。 |
+|  324       19 |  |  1 |      からだから　あくいに みちた　おそろしい　オーラを　はっする。 あいてを　ひるませる　ことが　ある。 |
+|  324       19 |  |  3 |      몸에서 악의로 가득한 무서운 오라를 발한다. 상대를 풀죽게 만들 때가 있다. |
+|  324       19 |  |  4 |      從身體散發出 充滿惡意的恐怖氣場。 有時會使對手畏縮。 |
+|  324       19 |  |  5 |      Le lanceur dégage une horrible aura chargée d'idées noires. Peut aussi apeurer l'ennemi. |
+|  324       19 |  |  6 |      Anwender greift mit fürchterlicher Aura schlechter Gedanken an. Ziel schreckt eventuell zurück. |
+|  324       19 |  |  7 |      Libera una horrible aura llena de malos pensamientos y puede hacer retroceder al objetivo. |
+|  324       19 |  |  8 |      Chi la usa emana un'aura impregnata di oscuri pensieri. Può anche far tentennare il Pokémon colpito. |
+|  324       19 |  |  9 |      The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch. |
+|  324       19 |  |  11 |     体から　悪意に　みちた 恐ろしい　オーラを　発する。 相手を　ひるませることが　ある。 |
+|  324       19 |  |  12 |     从体内发出 充满恶意的恐怖气场。 有时会使对手畏缩。 |
+|  324       20 |  |  1 |      ばくはつを　おこして　じぶんの まわりに　いるものを　こうげきする。 つかった　あとに　ひんしに　なる。 |
+|  324       20 |  |  3 |      폭발을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서 기절하게 된다. |
+|  324       20 |  |  4 |      引起爆炸， 攻擊自己周圍所有的寶可夢。 使用後自己會陷入瀕死。 |
+|  324       20 |  |  5 |      Le lanceur explose en blessant tous les Pokémon autour de lui. Le lanceur tombe K.O. |
+|  324       20 |  |  6 |      Der Anwender verursacht eine Explosion, mit der er bei allen Pokémon im Umkreis Riesenschaden anrichtet und selbst kampfunfähig wird. |
+|  324       20 |  |  7 |      El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato. |

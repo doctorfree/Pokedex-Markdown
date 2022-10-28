@@ -1,7027 +1,1752 @@
-| item_id | version_group_id | language_id | flavor_text |
-|---------|------------------|-------------|-------------|
-| 494     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Diskusfangen den 1. Platz belegt hast.                                                        |
-| 494     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Atrapadiscos.                                                                                      |
-| 494     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piattello.                                                                  |
-| 494     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Disc Catch.                                                           |
-| 494     | 20               | 11          | ポケスロンの　記録が　はいっている。
-キャッチソーサー　１位　回数が
-記録された　カード。                                                                                                                      |
-| 494     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Snow Throw.                                                                          |
-| 495     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires à la Bataille Neige.                                                        |
-| 495     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Snow Throw.                                                                          |
-| 495     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Snow Throw.                                                                          |
-| 495     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-シューティングスノー　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 495     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-슈팅스노 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 495     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Bataille Neige.                                                        |
-| 495     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du den 1. Platz bei der
-Schneeschlacht belegt hast.                                                   |
-| 495     | 15               | 7           | Una Cápsula resistente que solo puede abrirse
-con una llave especial.                                                                                              |
-| 495     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Neve Incrociata.                                                            |
-| 495     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Snow Throw.                                                           |
-| 495     | 15               | 11          | ポケスロンの　記録が　はいっている。
-シューティングスノー　１位
-回数が　記録された　カード。                                                                                                                    |
-| 495     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-シューティングスノー　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 495     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-슈팅스노 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 495     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Bataille Neige.                                                        |
-| 495     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du den 1. Platz bei der
-Schneeschlacht belegt hast.                                                   |
-| 495     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Nieve Cruzada.                                                                                     |
-| 495     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Neve Incrociata.                                                            |
-| 495     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Snow Throw.                                                           |
-| 495     | 17               | 11          | ポケスロンの　記録が　はいっている。
-シューティングスノー　１位
-回数が　記録された　カード。                                                                                                                    |
-| 495     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-シューティングスノー　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 495     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-슈팅스노 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 495     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Bataille Neige.                                                        |
-| 495     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du den 1. Platz bei der
-Schneeschlacht belegt hast.                                                   |
-| 495     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Nieve Cruzada.                                                                                     |
-| 495     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Neve Incrociata.                                                            |
-| 495     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Snow Throw.                                                           |
-| 495     | 18               | 11          | ポケスロンの　記録が　はいっている。
-シューティングスノー　１位
-回数が　記録された　カード。                                                                                                                    |
-| 495     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-シューティングスノー　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 495     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-슈팅스노 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 495     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Bataille Neige.                                                        |
-| 495     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du den 1. Platz bei der
-Schneeschlacht belegt hast.                                                   |
-| 495     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Nieve Cruzada.                                                                                     |
-| 495     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Neve Incrociata.                                                            |
-| 495     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Snow Throw.                                                           |
-| 495     | 19               | 11          | ポケスロンの　記録が　はいっている。
-シューティングスノー　１位
-回数が　記録された　カード。                                                                                                                    |
-| 495     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-シューティングスノー　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 495     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-슈팅스노 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 495     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 495     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Bataille Neige.                                                        |
-| 495     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du den 1. Platz bei der Schneeschlacht belegt
-hast.                                                   |
-| 495     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Nieve Cruzada.                                                                                     |
-| 495     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Neve Incrociata.                                                            |
-| 495     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Snow Throw.                                                           |
-| 495     | 20               | 11          | ポケスロンの　記録が　はいっている。
-シューティングスノー　１位
-回数が　記録された　カード。                                                                                                                    |
-| 495     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many points
-your Pokémon scored.                                                                           |
-| 496     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de points gagnés par vos Pokémon.                                                        |
-| 496     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many points
-your Pokémon scored.                                                                           |
-| 496     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many points
-your Pokémon scored.                                                                           |
-| 496     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　かくとく　ポイントが
-きろくされた　カード。                                                                                                                   |
-| 496     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 획득 포인트가
-기록된 카드.                                                                                                                              |
-| 496     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-gagnés par vos Pokémon.                                                        |
-| 496     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon im Wettkampf
-Punkte geholt haben.                                                       |
-| 496     | 15               | 7           | Esfera carmesí de la que se dice que guarda una
-estrecha relación con las leyendas de Hoenn.                                                                       |
-| 496     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti accumulati.                                                                      |
-| 496     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many points your
-Pokémon scored in the Pokéathlon.                                                        |
-| 496     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　獲得ポイントが
-記録された　カード。                                                                                                                        |
-| 496     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　かくとく　ポイントが
-きろくされた　カード。                                                                                                                   |
-| 496     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 획득 포인트가
-기록된 카드.                                                                                                                              |
-| 496     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-gagnés par vos Pokémon.                                                        |
-| 496     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon im Wettkampf Punkte
-geholt haben.                                                       |
-| 496     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos conseguidos.                                                                                             |
-| 496     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti accumulati.                                                                      |
-| 496     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many points your Pokémon scored in
-the Pokéathlon.                                                        |
-| 496     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　獲得ポイントが
-記録された　カード。                                                                                                                        |
-| 496     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　かくとく　ポイントが
-きろくされた　カード。                                                                                                                   |
-| 496     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 획득 포인트가
-기록된 카드.                                                                                                                              |
-| 496     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-gagnés par vos Pokémon.                                                        |
-| 496     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon im Wettkampf Punkte
-geholt haben.                                                       |
-| 496     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos conseguidos.                                                                                             |
-| 496     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti accumulati.                                                                      |
-| 496     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many points your Pokémon scored in
-the Pokéathlon.                                                        |
-| 496     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　獲得ポイントが
-記録された　カード。                                                                                                                        |
-| 496     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　かくとく　ポイントが
-きろくされた　カード。                                                                                                                   |
-| 496     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 획득 포인트가
-기록된 카드.                                                                                                                              |
-| 496     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points gagnés
-par vos Pokémon.                                                        |
-| 496     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon im Wettkampf Punkte
-geholt haben.                                                       |
-| 496     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos conseguidos.                                                                                             |
-| 496     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti accumulati.                                                                      |
-| 496     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many points your Pokémon scored in
-the Pokéathlon.                                                        |
-| 496     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　獲得ポイントが
-記録された　カード。                                                                                                                        |
-| 496     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　かくとく　ポイントが
-きろくされた　カード。                                                                                                                   |
-| 496     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 획득 포인트가
-기록된 카드.                                                                                                                              |
-| 496     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 496     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-gagnés par vos Pokémon.                                                        |
-| 496     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft deine Pokémon im Wettkampf Punkte geholt
-haben.                                                       |
-| 496     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-puntos conseguidos.                                                                                             |
-| 496     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti accumulati.                                                                      |
-| 496     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many points your Pokémon scored in
-the Pokéathlon.                                                        |
-| 496     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　獲得ポイントが
-記録された　カード。                                                                                                                        |
-| 496     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have failed.                                                                       |
-| 497     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-d’erreurs de vos Pokémon.                                                                |
-| 497     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have failed.                                                                       |
-| 497     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have failed.                                                                       |
-| 497     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　しっぱいした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 497     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 실패한 횟수가
-기록된 카드.                                                                                                                              |
-| 497     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre d’erreurs
-de vos Pokémon.                                                                |
-| 497     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Schnitzer du dir geleistet hast.                                                                    |
-| 497     | 15               | 7           | Esfera añil que, según dicen, guarda una estrecha
-relación con las leyendas de Hoenn.                                                                              |
-| 497     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-errori dei tuoi Pokémon.                                                               |
-| 497     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon failed in the Pokéathlon.                                                         |
-| 497     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　失敗した　回数が
-記録された　カード。                                                                                                                       |
-| 497     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　しっぱいした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 497     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 실패한 횟수가
-기록된 카드.                                                                                                                              |
-| 497     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre d’erreurs
-de vos Pokémon.                                                                |
-| 497     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Schnitzer du dir geleistet hast.                                                                    |
-| 497     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de derrotas.                                                                                                       |
-| 497     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-errori dei tuoi Pokémon.                                                               |
-| 497     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon failed in
-the Pokéathlon.                                                         |
-| 497     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　失敗した　回数が
-記録された　カード。                                                                                                                       |
-| 497     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　しっぱいした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 497     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 실패한 횟수가
-기록된 카드.                                                                                                                              |
-| 497     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre d’erreurs
-de vos Pokémon.                                                                |
-| 497     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Schnitzer du dir geleistet hast.                                                                    |
-| 497     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de derrotas.                                                                                                       |
-| 497     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-errori dei tuoi Pokémon.                                                               |
-| 497     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon failed in
-the Pokéathlon.                                                         |
-| 497     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　失敗した　回数が
-記録された　カード。                                                                                                                       |
-| 497     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　しっぱいした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 497     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 실패한 횟수가
-기록된 카드.                                                                                                                              |
-| 497     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre d’erreurs
-de vos Pokémon.                                                                |
-| 497     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Schnitzer du dir geleistet hast.                                                                    |
-| 497     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de derrotas.                                                                                                       |
-| 497     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-errori dei tuoi Pokémon.                                                               |
-| 497     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon failed in
-the Pokéathlon.                                                         |
-| 497     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　失敗した　回数が
-記録された　カード。                                                                                                                       |
-| 497     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　しっぱいした　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 497     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 실패한 횟수가
-기록된 카드.                                                                                                                              |
-| 497     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 497     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre d’erreurs
-de vos Pokémon.                                                                |
-| 497     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viele Schnitzer du dir geleistet hast.                                                                    |
-| 497     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-derrotas.                                                                                                       |
-| 497     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-errori dei tuoi Pokémon.                                                               |
-| 497     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon failed in
-the Pokéathlon.                                                         |
-| 497     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　失敗した　回数が
-記録された　カード。                                                                                                                       |
-| 497     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon impeded themselves.                                                                |
-| 498     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de points perdus par vos Pokémon.                                                        |
-| 498     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon impeded themselves.                                                                |
-| 498     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon impeded themselves.                                                                |
-| 498     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　じめつした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 498     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 자멸한 횟수가
-기록된 카드.                                                                                                                              |
-| 498     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-perdus par vos Pokémon.                                                        |
-| 498     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Punktabzüge dein Team
-kassiert hat.                                                                 |
-| 498     | 15               | 7           | Esfera cristalina encontrada bajo tierra. A pesar
-de estar cubierta de roca y tierra, su belleza es
-increíble.                                                     |
-| 498     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti persi.                                                                           |
-| 498     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times
-your Pokémon impeded themselves.                                                               |
-| 498     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　自滅した　回数が
-記録された　カード。                                                                                                                       |
-| 498     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　じめつした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 498     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 자멸한 횟수가
-기록된 카드.                                                                                                                              |
-| 498     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-perdus par vos Pokémon.                                                        |
-| 498     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Punktabzüge dein Team
-kassiert hat.                                                                 |
-| 498     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos perdidos por tus Pokémon.                                                                                |
-| 498     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti persi.                                                                           |
-| 498     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon
-impeded themselves.                                                               |
-| 498     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　自滅した　回数が
-記録された　カード。                                                                                                                       |
-| 498     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　じめつした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 498     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 자멸한 횟수가
-기록된 카드.                                                                                                                              |
-| 498     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-perdus par vos Pokémon.                                                        |
-| 498     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Punktabzüge dein Team
-kassiert hat.                                                                 |
-| 498     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos perdidos por tus Pokémon.                                                                                |
-| 498     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti persi.                                                                           |
-| 498     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon
-impeded themselves.                                                               |
-| 498     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　自滅した　回数が
-記録された　カード。                                                                                                                       |
-| 498     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　じめつした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 498     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 자멸한 횟수가
-기록된 카드.                                                                                                                              |
-| 498     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points perdus
-par vos Pokémon.                                                        |
-| 498     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Punktabzüge dein Team
-kassiert hat.                                                                 |
-| 498     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de puntos perdidos por tus Pokémon.                                                                                |
-| 498     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti persi.                                                                           |
-| 498     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon
-impeded themselves.                                                               |
-| 498     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　自滅した　回数が
-記録された　カード。                                                                                                                       |
-| 498     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　じめつした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 498     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 자멸한 횟수가
-기록된 카드.                                                                                                                              |
-| 498     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 498     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de points
-perdus par vos Pokémon.                                                        |
-| 498     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viele Punktabzüge dein Team kassiert hat.                                                                 |
-| 498     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-puntos perdidos por tus Pokémon.                                                                                |
-| 498     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-punti persi.                                                                           |
-| 498     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon
-impeded themselves.                                                               |
-| 498     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　自滅した　回数が
-記録された　カード。                                                                                                                       |
-| 498     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have tackled.                                                                      |
-| 499     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de charges de vos Pokémon.                                                               |
-| 499     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have tackled.                                                                      |
-| 499     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have tackled.                                                                      |
-| 499     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　たいあたり　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 499     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 몸통박치기 횟수가
-기록된 카드.                                                                                                                            |
-| 499     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de charges
-de vos Pokémon.                                                               |
-| 499     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Angriffe du schon ausgeführt hast.                                                                  |
-| 499     | 15               | 7           | Curiosa escama que hace evolucionar a
-determinadas especies de Pokémon.
-Brilla con los colores del arcoíris.                                                       |
-| 499     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di azioni
-dei tuoi Pokémon.                                                               |
-| 499     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon tackled in the Pokéathlon.                                                        |
-| 499     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　たいあたり　回数が
-記録された　カード。                                                                                                                      |
-| 499     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　たいあたり　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 499     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 몸통박치기 횟수가
-기록된 카드.                                                                                                                            |
-| 499     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de charges
-de vos Pokémon.                                                               |
-| 499     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Angriffe du schon ausgeführt hast.                                                                  |
-| 499     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de placajes realizados.                                                                                            |
-| 499     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di azioni
-dei tuoi Pokémon.                                                               |
-| 499     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon tackled in
-the Pokéathlon.                                                        |
-| 499     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　たいあたり　回数が
-記録された　カード。                                                                                                                      |
-| 499     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　たいあたり　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 499     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 몸통박치기 횟수가
-기록된 카드.                                                                                                                            |
-| 499     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de charges
-de vos Pokémon.                                                               |
-| 499     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Angriffe du schon ausgeführt hast.                                                                  |
-| 499     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de placajes realizados.                                                                                            |
-| 499     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di azioni
-dei tuoi Pokémon.                                                               |
-| 499     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon tackled in
-the Pokéathlon.                                                        |
-| 499     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　たいあたり　回数が
-記録された　カード。                                                                                                                      |
-| 499     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　たいあたり　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 499     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 몸통박치기 횟수가
-기록된 카드.                                                                                                                            |
-| 499     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de charges
-de vos Pokémon.                                                               |
-| 499     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Angriffe du schon ausgeführt hast.                                                                  |
-| 499     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de placajes realizados.                                                                                            |
-| 499     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di azioni
-dei tuoi Pokémon.                                                               |
-| 499     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon tackled in
-the Pokéathlon.                                                        |
-| 499     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　たいあたり　回数が
-記録された　カード。                                                                                                                      |
-| 499     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　たいあたり　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 499     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 몸통박치기 횟수가
-기록된 카드.                                                                                                                            |
-| 499     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 499     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de charges
-de vos Pokémon.                                                               |
-| 499     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viele Angriffe du schon ausgeführt hast.                                                                  |
-| 499     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-placajes realizados.                                                                                            |
-| 499     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di azioni
-dei tuoi Pokémon.                                                               |
-| 499     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon tackled in
-the Pokéathlon.                                                        |
-| 499     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　たいあたり　回数が
-記録された　カード。                                                                                                                      |
-| 499     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have fallen down.                                                                  |
-| 500     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de fois où vos Pokémon sont tombés.                                                      |
-| 500     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have fallen down.                                                                  |
-| 500     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon have fallen down.                                                                  |
-| 500     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　おちた　かいすうが
-きろくされた　カード。                                                                                                                    |
-| 500     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 떨어진 횟수가
-기록된 카드.                                                                                                                              |
-| 500     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vos Pokémon sont tombés.                                                      |
-| 500     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon schon aus dem Ring
-gefallen sind.                                                       |
-| 500     | 15               | 7           | Piedra evolutiva. El Pokémon portador aumentará
-su Defensa y su Defensa Especial si aún puede
-evolucionar.                                                         |
-| 500     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-cadute dei tuoi Pokémon.                                                               |
-| 500     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon fell down in the Pokéathlon.                                                      |
-| 500     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　落ちた　回数が
-記録された　カード。                                                                                                                        |
-| 500     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　おちた　かいすうが
-きろくされた　カード。                                                                                                                    |
-| 500     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 떨어진 횟수가
-기록된 카드.                                                                                                                              |
-| 500     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vos Pokémon sont tombés.                                                      |
-| 500     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon schon aus dem Ring
-gefallen sind.                                                       |
-| 500     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de caídas que han sufrido tus Pokémon.                                                                             |
-| 500     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-cadute dei tuoi Pokémon.                                                               |
-| 500     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon fell down in
-the Pokéathlon.                                                      |
-| 500     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　落ちた　回数が
-記録された　カード。                                                                                                                        |
-| 500     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　おちた　かいすうが
-きろくされた　カード。                                                                                                                    |
-| 500     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 떨어진 횟수가
-기록된 카드.                                                                                                                              |
-| 500     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vos Pokémon sont tombés.                                                      |
-| 500     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon schon aus dem Ring
-gefallen sind.                                                       |
-| 500     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de caídas que han sufrido tus Pokémon.                                                                             |
-| 500     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-cadute dei tuoi Pokémon.                                                               |
-| 500     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon fell down in
-the Pokéathlon.                                                      |
-| 500     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　落ちた　回数が
-記録された　カード。                                                                                                                        |
-| 500     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　おちた　かいすうが
-きろくされた　カード。                                                                                                                    |
-| 500     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 떨어진 횟수가
-기록된 카드.                                                                                                                              |
-| 500     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vos Pokémon sont tombés.                                                      |
-| 500     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft deine Pokémon schon aus dem Ring
-gefallen sind.                                                       |
-| 500     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de caídas que han sufrido tus Pokémon.                                                                             |
-| 500     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-cadute dei tuoi Pokémon.                                                               |
-| 500     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon fell down in
-the Pokéathlon.                                                      |
-| 500     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　落ちた　回数が
-記録された　カード。                                                                                                                        |
-| 500     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　おちた　かいすうが
-きろくされた　カード。                                                                                                                    |
-| 500     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬이 떨어진 횟수가
-기록된 카드.                                                                                                                              |
-| 500     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 500     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vos Pokémon sont tombés.                                                      |
-| 500     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft deine Pokémon schon aus dem Ring gefallen
-sind.                                                       |
-| 500     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-caídas que han sufrido tus Pokémon.                                                                             |
-| 500     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-cadute dei tuoi Pokémon.                                                               |
-| 500     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon fell down in
-the Pokéathlon.                                                      |
-| 500     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　落ちた　回数が
-記録された　カード。                                                                                                                        |
-| 500     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Ring Drop.                                                                           |
-| 501     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires au Combat Ring-Out.                                                         |
-| 501     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Ring Drop.                                                                           |
-| 501     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Ring Drop.                                                                           |
-| 501     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-リングアウトファイト　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 501     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-링아웃파이트 1위
-횟수가 기록된 카드.                                                                                                                             |
-| 501     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Combat Ring-Out.                                                         |
-| 501     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ringrangeln den 1. Platz
-belegt hast.                                                         |
-| 501     | 15               | 7           | Piedra muy ligera que reduce el peso del
-Pokémon que la lleve.                                                                                                     |
-| 501     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Fuori dal Ring.                                                             |
-| 501     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Ring Drop.                                                            |
-| 501     | 15               | 11          | ポケスロンの　記録が　はいっている。
-リングアウトファイト　１位
-回数が　記録された　カード。                                                                                                                    |
-| 501     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-リングアウトファイト　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 501     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-링아웃파이트 1위
-횟수가 기록된 카드.                                                                                                                             |
-| 501     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Combat Ring-Out.                                                         |
-| 501     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ringrangeln den 1. Platz
-belegt hast.                                                         |
-| 501     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Fuera del Ring.                                                                                    |
-| 501     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Fuori dal Ring.                                                             |
-| 501     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Ring Drop.                                                            |
-| 501     | 17               | 11          | ポケスロンの　記録が　はいっている。
-リングアウトファイト　１位
-回数が　記録された　カード。                                                                                                                    |
-| 501     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-リングアウトファイト　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 501     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-링아웃파이트 1위
-횟수가 기록된 카드.                                                                                                                             |
-| 501     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Combat Ring-Out.                                                         |
-| 501     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ringrangeln den 1. Platz
-belegt hast.                                                         |
-| 501     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Fuera del Ring.                                                                                    |
-| 501     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Fuori dal Ring.                                                             |
-| 501     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Ring Drop.                                                            |
-| 501     | 18               | 11          | ポケスロンの　記録が　はいっている。
-リングアウトファイト　１位
-回数が　記録された　カード。                                                                                                                    |
-| 501     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-リングアウトファイト　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 501     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-링아웃파이트 1위
-횟수가 기록된 카드.                                                                                                                             |
-| 501     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Combat Ring-Out.                                                         |
-| 501     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Ringrangeln den 1. Platz
-belegt hast.                                                         |
-| 501     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Fuera del Ring.                                                                                    |
-| 501     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Fuori dal Ring.                                                             |
-| 501     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Ring Drop.                                                            |
-| 501     | 19               | 11          | ポケスロンの　記録が　はいっている。
-リングアウトファイト　１位
-回数が　記録された　カード。                                                                                                                    |
-| 501     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-リングアウトファイト　１い
-かいすうが　きろくされた　カード。                                                                                                                |
-| 501     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-링아웃파이트 1위
-횟수가 기록된 카드.                                                                                                                             |
-| 501     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 501     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Combat Ring-Out.                                                         |
-| 501     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Ringrangeln den 1. Platz belegt hast.                                                         |
-| 501     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Fuera del Ring.                                                                                    |
-| 501     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Fuori dal Ring.                                                             |
-| 501     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Ring Drop.                                                            |
-| 501     | 20               | 11          | ポケスロンの　記録が　はいっている。
-リングアウトファイト　１位
-回数が　記録された　カード。                                                                                                                    |
-| 501     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Lamp Jump.                                                                           |
-| 502     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires au Saute-Lumière.                                                           |
-| 502     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Lamp Jump.                                                                           |
-| 502     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Lamp Jump.                                                                           |
-| 502     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ゲットトランポリン　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 502     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-겟트램펄린 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 502     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Saute-Lumière.                                                           |
-| 502     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Lampionspringen den
-1. Platz belegt hast.                                                     |
-| 502     | 15               | 7           | Si el portador es alcanzado por un ataque físico,
-el agresor también recibe daño.                                                                                  |
-| 502     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Trampoluci.                                                                 |
-| 502     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Lamp Jump.                                                            |
-| 502     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ゲットトランポリン　１位　回数が
-記録された　カード。                                                                                                                     |
-| 502     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-バウンドフィールド　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 502     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-바운드필드 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 502     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Saute-Lumière.                                                           |
-| 502     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Lampionspringen den 1. Platz
-belegt hast.                                                     |
-| 502     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Botaluces.                                                                                         |
-| 502     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Trampoluci.                                                                 |
-| 502     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Lamp Jump.                                                            |
-| 502     | 17               | 11          | ポケスロンの　記録が　はいっている。
-バウンドフィールド　１位　回数が
-記録された　カード。                                                                                                                     |
-| 502     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-バウンドフィールド　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 502     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-바운드필드 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 502     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Saute-Lumière.                                                           |
-| 502     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Lampionspringen den 1. Platz
-belegt hast.                                                     |
-| 502     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Botaluces.                                                                                         |
-| 502     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Trampoluci.                                                                 |
-| 502     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Lamp Jump.                                                            |
-| 502     | 18               | 11          | ポケスロンの　記録が　はいっている。
-バウンドフィールド　１位　回数が
-記録された　カード。                                                                                                                     |
-| 502     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-バウンドフィールド　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 502     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-바운드필드 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 502     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Saute-Lumière.                                                           |
-| 502     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Lampionspringen den 1. Platz
-belegt hast.                                                     |
-| 502     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Botaluces.                                                                                         |
-| 502     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Trampoluci.                                                                 |
-| 502     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Lamp Jump.                                                            |
-| 502     | 19               | 11          | ポケスロンの　記録が　はいっている。
-バウンドフィールド　１位　回数が
-記録された　カード。                                                                                                                     |
-| 502     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-バウンドフィールド　１い　かいすうが
-きろくされた　カード。                                                                                                                 |
-| 502     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-바운드필드 1위 횟수가
-기록된 카드.                                                                                                                              |
-| 502     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 502     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Saute-Lumière.                                                           |
-| 502     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Lampionspringen den 1. Platz belegt
-hast.                                                     |
-| 502     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Botaluces.                                                                                         |
-| 502     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Trampoluci.                                                                 |
-| 502     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Lamp Jump.                                                            |
-| 502     | 20               | 11          | ポケスロンの　記録が　はいっている。
-バウンドフィールド　１位　回数が
-記録された　カード。                                                                                                                     |
-| 502     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Circle Push.                                                                         |
-| 503     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires au Cercle Musical.                                                          |
-| 503     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Circle Push.                                                                         |
-| 503     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Circle Push.                                                                         |
-| 503     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-プッシュサークル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 503     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-푸시서클 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 503     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Cercle Musical.                                                          |
-| 503     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Drängelkreis den 1. Platz
-belegt hast.                                                        |
-| 503     | 15               | 7           | El Pokémon que lo lleve flotará en el aire.
-Si recibe un golpe, estallará.                                                                                         |
-| 503     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spingicerchio.                                                              |
-| 503     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Circle Push.                                                          |
-| 503     | 15               | 11          | ポケスロンの　記録が　はいっている。
-プッシュサークル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 503     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-プッシュサークル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 503     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-푸시서클 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 503     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Cercle Musical.                                                          |
-| 503     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Drängelkreis den 1. Platz
-belegt hast.                                                        |
-| 503     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Pisacírculos.                                                                                      |
-| 503     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spingicerchio.                                                              |
-| 503     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Circle Push.                                                          |
-| 503     | 17               | 11          | ポケスロンの　記録が　はいっている。
-プッシュサークル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 503     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-プッシュサークル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 503     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-푸시서클 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 503     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Cercle Musical.                                                          |
-| 503     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Drängelkreis den 1. Platz
-belegt hast.                                                        |
-| 503     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Pisacírculos.                                                                                      |
-| 503     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spingicerchio.                                                              |
-| 503     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Circle Push.                                                          |
-| 503     | 18               | 11          | ポケスロンの　記録が　はいっている。
-プッシュサークル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 503     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-プッシュサークル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 503     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-푸시서클 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 503     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Cercle Musical.                                                          |
-| 503     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Drängelkreis den 1. Platz
-belegt hast.                                                        |
-| 503     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Pisacírculos.                                                                                      |
-| 503     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spingicerchio.                                                              |
-| 503     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Circle Push.                                                          |
-| 503     | 19               | 11          | ポケスロンの　記録が　はいっている。
-プッシュサークル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 503     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-プッシュサークル　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 503     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-푸시서클 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 503     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 503     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-au Cercle Musical.                                                          |
-| 503     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Drängelkreis den 1. Platz belegt hast.                                                        |
-| 503     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Pisacírculos.                                                                                      |
-| 503     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Spingicerchio.                                                              |
-| 503     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Circle Push.                                                          |
-| 503     | 20               | 11          | ポケスロンの　記録が　はいっている。
-プッシュサークル　１位　回数が
-記録された　カード。                                                                                                                      |
-| 503     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many 
-Link Pokéathlon wins you’ve had.                                                                     |
-| 504     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires en Link.                                                                    |
-| 504     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many 
-Link Pokéathlon wins you’ve had.                                                                     |
-| 504     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-Link Pokéathlon wins you’ve had.                                                                      |
-| 504     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ゆうしょう
-かいすうが　きろくされた　カード。                                                                                                            |
-| 504     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론의 우승
-횟수가 기록된 카드.                                                                                                                           |
-| 504     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-en Link.                                                                    |
-| 504     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Konnex-Wettkämpfe du gewonnen
-hast.                                                                 |
-| 504     | 15               | 7           | Misteriosa tarjeta que permite al Pokémon que la
-lleva expulsar al oponente cuando este le cause
-daño.                                                             |
-| 504     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie in link.                                                                      |
-| 504     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many Link
-Pokéathlon wins you have had.                                                                   |
-| 504     | 15               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　優勝
-回数が　記録された　カード。                                                                                                                      |
-| 504     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ゆうしょう
-かいすうが　きろくされた　カード。                                                                                                            |
-| 504     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론의 우승
-횟수가 기록된 카드.                                                                                                                           |
-| 504     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-en Link.                                                                    |
-| 504     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Konnex-Wettkämpfe du gewonnen
-hast.                                                                 |
-| 504     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en conexión.                                                                                          |
-| 504     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie in link.                                                                      |
-| 504     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon wins you have had.                                                                   |
-| 504     | 17               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　優勝
-回数が　記録された　カード。                                                                                                                      |
-| 504     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ゆうしょう
-かいすうが　きろくされた　カード。                                                                                                            |
-| 504     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론의 우승
-횟수가 기록된 카드.                                                                                                                           |
-| 504     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-en Link.                                                                    |
-| 504     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Konnex-Wettkämpfe du gewonnen
-hast.                                                                 |
-| 504     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en conexión.                                                                                          |
-| 504     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie in link.                                                                      |
-| 504     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon wins you have had.                                                                   |
-| 504     | 18               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　優勝
-回数が　記録された　カード。                                                                                                                      |
-| 504     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ゆうしょう
-かいすうが　きろくされた　カード。                                                                                                            |
-| 504     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론의 우승
-횟수가 기록된 카드.                                                                                                                           |
-| 504     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires en Link.                                                                    |
-| 504     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viele Konnex-Wettkämpfe du gewonnen
-hast.                                                                 |
-| 504     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en conexión.                                                                                          |
-| 504     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie in link.                                                                      |
-| 504     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon wins you have had.                                                                   |
-| 504     | 19               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　優勝
-回数が　記録された　カード。                                                                                                                      |
-| 504     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ゆうしょう
-かいすうが　きろくされた　カード。                                                                                                            |
-| 504     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론의 우승
-횟수가 기록된 카드.                                                                                                                           |
-| 504     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 504     | 20               | 5           | Contient vos données du Pokéathlon. Sur cette carte
-est inscrit le nombre de victoires en réseau.                                                                  |
-| 504     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viele Konnex-Wettkämpfe du gewonnen hast.                                                                 |
-| 504     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en conexión.                                                                                          |
-| 504     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie in link.                                                                      |
-| 504     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon wins you have had.                                                                   |
-| 504     | 20               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　優勝
-回数が　記録された　カード。                                                                                                                      |
-| 504     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-Link Pokéathlon losses you’ve had.                                                                    |
-| 505     | 11               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où
-vous avez fini en dernier en Link.                                                       |
-| 505     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-Link Pokéathlon losses you’ve had.                                                                    |
-| 505     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many
-Link Pokéathlon losses you’ve had.                                                                    |
-| 505     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ビリになった
-かいすうが　きろくされた　カード。                                                                                                           |
-| 505     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론에서 꼴찌한
-횟수가 기록된 카드.                                                                                                                         |
-| 505     | 15               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier en Link.                                                       |
-| 505     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, bei wie vielen Konnex-Wettkämpfen du
-schon Letzter warst.                                                     |
-| 505     | 15               | 7           | El Pokémon que lo lleva es vulnerable frente a
-movimientos que normalmente no afectan a su
-tipo.                                                                   |
-| 505     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti in link.                                                                  |
-| 505     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many Link
-Pokéathlon losses you have had.                                                                 |
-| 505     | 15               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　ビリになった
-回数が　記録された　カード。                                                                                                                  |
-| 505     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ビリになった
-かいすうが　きろくされた　カード。                                                                                                           |
-| 505     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론에서 꼴찌한
-횟수가 기록된 카드.                                                                                                                         |
-| 505     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 17               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier en Link.                                                       |
-| 505     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, bei wie vielen Konnex-Wettkämpfen du schon
-Letzter warst.                                                     |
-| 505     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar en
-conexión.                                                            |
-| 505     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti in link.                                                                  |
-| 505     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon losses you have had.                                                                 |
-| 505     | 17               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　ビリになった
-回数が　記録された　カード。                                                                                                                  |
-| 505     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ビリになった
-かいすうが　きろくされた　カード。                                                                                                           |
-| 505     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론에서 꼴찌한
-횟수가 기록된 카드.                                                                                                                         |
-| 505     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 18               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier en Link.                                                       |
-| 505     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, bei wie vielen Konnex-Wettkämpfen du schon
-Letzter warst.                                                     |
-| 505     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar en
-conexión.                                                            |
-| 505     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti in link.                                                                  |
-| 505     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon losses you have had.                                                                 |
-| 505     | 18               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　ビリになった
-回数が　記録された　カード。                                                                                                                  |
-| 505     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ビリになった
-かいすうが　きろくされた　カード。                                                                                                           |
-| 505     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론에서 꼴찌한
-횟수가 기록된 카드.                                                                                                                         |
-| 505     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 19               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier en Link.                                                       |
-| 505     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, bei wie vielen Konnex-Wettkämpfen du schon
-Letzter warst.                                                     |
-| 505     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha quedado en último lugar en
-conexión.                                                            |
-| 505     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti in link.                                                                  |
-| 505     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon losses you have had.                                                                 |
-| 505     | 19               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　ビリになった
-回数が　記録された　カード。                                                                                                                  |
-| 505     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-つうしん　ポケスロンの　ビリになった
-かいすうが　きろくされた　カード。                                                                                                           |
-| 505     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-통신 포켓슬론에서 꼴찌한
-횟수가 기록된 카드.                                                                                                                         |
-| 505     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 505     | 20               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier en réseau.                                                     |
-| 505     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-bei wie vielen Konnex-Wettkämpfen du schon Letzter
-warst.                                                     |
-| 505     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-veces que se ha quedado en último lugar en conexión.                                                            |
-| 505     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti in link.                                                                  |
-| 505     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many Link Pokéathlon losses you have had.                                                                 |
-| 505     | 20               | 11          | ポケスロンの　記録が　はいっている。
-通信ポケスロンの　ビリになった
-回数が　記録された　カード。                                                                                                                  |
-| 505     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times
-you’ve won an event.                                                                            |
-| 506     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre
-nombre de victoires aux épreuves.                                                            |
-| 506     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times
-you’ve won an event.                                                                            |
-| 506     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times
-you’ve won an event.                                                                            |
-| 506     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　１い　になった
-かいすうが　きろくされた　カード。                                                                                                                |
-| 506     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 1위 한
-횟수가 기록된 카드.                                                                                                                             |
-| 506     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires aux épreuves.                                                            |
-| 506     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den 1. Platz
-belegt hast.                                                       |
-| 506     | 15               | 7           | Banda que potencia los movimientos que estrujan
-al rival.                                                                                                          |
-| 506     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie nelle gare.                                                                   |
-| 506     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times
-you have won a Pokéathlon event.                                                               |
-| 506     | 15               | 11          | ポケスロンの　記録が　はいっている。
-競技で　１位　になった
-回数が　記録された　カード。                                                                                                                      |
-| 506     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　１い　になった
-かいすうが　きろくされた　カード。                                                                                                                |
-| 506     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 1위 한
-횟수가 기록된 카드.                                                                                                                             |
-| 506     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires aux épreuves.                                                            |
-| 506     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den 1. Platz
-belegt hast.                                                       |
-| 506     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en una disciplina.                                                                                    |
-| 506     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie nelle gare.                                                                   |
-| 506     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have won a Pokéathlon event.                                                               |
-| 506     | 17               | 11          | ポケスロンの　記録が　はいっている。
-競技で　１位　になった
-回数が　記録された　カード。                                                                                                                      |
-| 506     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　１い　になった
-かいすうが　きろくされた　カード。                                                                                                                |
-| 506     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 1위 한
-횟수가 기록된 카드.                                                                                                                             |
-| 506     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de
-victoires aux épreuves.                                                            |
-| 506     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den 1. Platz
-belegt hast.                                                       |
-| 506     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en una disciplina.                                                                                    |
-| 506     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie nelle gare.                                                                   |
-| 506     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have won a Pokéathlon event.                                                               |
-| 506     | 18               | 11          | ポケスロンの　記録が　はいっている。
-競技で　１位　になった
-回数が　記録された　カード。                                                                                                                      |
-| 506     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　１い　になった
-かいすうが　きろくされた　カード。                                                                                                                |
-| 506     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 1위 한
-횟수가 기록된 카드.                                                                                                                             |
-| 506     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de victoires
-aux épreuves.                                                            |
-| 506     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den 1. Platz
-belegt hast.                                                       |
-| 506     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en una disciplina.                                                                                    |
-| 506     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie nelle gare.                                                                   |
-| 506     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have won a Pokéathlon event.                                                               |
-| 506     | 19               | 11          | ポケスロンの　記録が　はいっている。
-競技で　１位　になった
-回数が　記録された　カード。                                                                                                                      |
-| 506     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　１い　になった
-かいすうが　きろくされた　カード。                                                                                                                |
-| 506     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 1위 한
-횟수가 기록된 카드.                                                                                                                             |
-| 506     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 506     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de victoires
-aux épreuves.                                                            |
-| 506     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du in einer Disziplin den 1. Platz belegt hast.                                                       |
-| 506     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en una disciplina.                                                                                    |
-| 506     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie nelle gare.                                                                   |
-| 506     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have won a Pokéathlon event.                                                               |
-| 506     | 20               | 11          | ポケスロンの　記録が　はいっている。
-競技で　１位　になった
-回数が　記録された　カード。                                                                                                                      |
-| 506     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times 
-you’ve lost an event.                                                                          |
-| 507     | 11               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où
-vous avez fini en dernier aux épreuves.                                                  |
-| 507     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times 
-you’ve lost an event.                                                                          |
-| 507     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times
-you’ve lost an event.                                                                           |
-| 507     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　ビリになった
-かいすうが　きろくされた　カード。                                                                                                                 |
-| 507     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 꼴찌 한
-횟수가 기록된 카드.                                                                                                                             |
-| 507     | 15               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier aux épreuves.                                                  |
-| 507     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den
-letzten Platz belegt hast.                                                  |
-| 507     | 15               | 7           | Raíz de usar y tirar que sube el Ataque Especial
-cuando se recibe un ataque de tipo Agua.                                                                          |
-| 507     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti nelle gare.                                                               |
-| 507     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times
-you have lost a Pokéathlon event.                                                              |
-| 507     | 15               | 11          | ポケスロンの　記録が　はいっている。
-競技で　ビリになった
-回数が　記録された　カード。                                                                                                                       |
-| 507     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　ビリになった
-かいすうが　きろくされた　カード。                                                                                                                 |
-| 507     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 꼴찌 한
-횟수가 기록된 카드.                                                                                                                             |
-| 507     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 17               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier aux épreuves.                                                  |
-| 507     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den letzten Platz
-belegt hast.                                                  |
-| 507     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha terminado en última posición
-en una disciplina.                                                 |
-| 507     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti nelle gare.                                                               |
-| 507     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have lost a Pokéathlon event.                                                              |
-| 507     | 17               | 11          | ポケスロンの　記録が　はいっている。
-競技で　ビリになった
-回数が　記録された　カード。                                                                                                                       |
-| 507     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　ビリになった
-かいすうが　きろくされた　カード。                                                                                                                 |
-| 507     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 꼴찌 한
-횟수가 기록된 카드.                                                                                                                             |
-| 507     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 18               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier aux épreuves.                                                  |
-| 507     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den letzten Platz
-belegt hast.                                                  |
-| 507     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha terminado en última posición
-en una disciplina.                                                 |
-| 507     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti nelle gare.                                                               |
-| 507     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have lost a Pokéathlon event.                                                              |
-| 507     | 18               | 11          | ポケスロンの　記録が　はいっている。
-競技で　ビリになった
-回数が　記録された　カード。                                                                                                                       |
-| 507     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　ビリになった
-かいすうが　きろくされた　カード。                                                                                                                 |
-| 507     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 꼴찌 한
-횟수가 기록된 카드.                                                                                                                             |
-| 507     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 19               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier aux épreuves.                                                  |
-| 507     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du in einer Disziplin den letzten Platz
-belegt hast.                                                  |
-| 507     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha terminado en última posición
-en una disciplina.                                                 |
-| 507     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti nelle gare.                                                               |
-| 507     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have lost a Pokéathlon event.                                                              |
-| 507     | 19               | 11          | ポケスロンの　記録が　はいっている。
-競技で　ビリになった
-回数が　記録された　カード。                                                                                                                       |
-| 507     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-きょうぎで　ビリになった
-かいすうが　きろくされた　カード。                                                                                                                 |
-| 507     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-경기에서 꼴찌 한
-횟수가 기록된 카드.                                                                                                                             |
-| 507     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 507     | 20               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez fini
-en dernier aux épreuves.                                                  |
-| 507     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du in einer Disziplin den letzten Platz belegt
-hast.                                                  |
-| 507     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-veces que se ha terminado en última posición en una
-disciplina.                                                 |
-| 507     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-ultimi posti nelle gare.                                                               |
-| 507     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you have lost a Pokéathlon event.                                                              |
-| 507     | 20               | 11          | ポケスロンの　記録が　はいっている。
-競技で　ビリになった
-回数が　記録された　カード。                                                                                                                       |
-| 507     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-switched Pokémon.                                                                        |
-| 508     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de fois où vous avez changé de Pokémon.                                                  |
-| 508     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-switched Pokémon.                                                                        |
-| 508     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-switched Pokémon.                                                                        |
-| 508     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　こうたい　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 508     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 교체 횟수가
-기록된 카드.                                                                                                                               |
-| 508     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vous avez changé de Pokémon.                                                  |
-| 508     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon ausgewechselt
-hast.                                                                  |
-| 508     | 15               | 7           | Batería de usar y tirar que sube el Ataque de
-quien la lleva cuando recibe un golpe de tipo
-Eléctrico.                                                             |
-| 508     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-sostituzioni di Pokémon.                                                               |
-| 508     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-switched Pokémon in the Pokéathlon.                                                        |
-| 508     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　交代　回数が
-記録された　カード。                                                                                                                         |
-| 508     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　こうたい　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 508     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 교체 횟수가
-기록된 카드.                                                                                                                               |
-| 508     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vous avez changé de Pokémon.                                                  |
-| 508     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon ausgewechselt
-hast.                                                                  |
-| 508     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha cambiado de Pokémon.                                                                            |
-| 508     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-sostituzioni di Pokémon.                                                               |
-| 508     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you switched Pokémon in
-the Pokéathlon.                                                        |
-| 508     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　交代　回数が
-記録された　カード。                                                                                                                         |
-| 508     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　こうたい　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 508     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 교체 횟수가
-기록된 카드.                                                                                                                               |
-| 508     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois où
-vous avez changé de Pokémon.                                                  |
-| 508     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon ausgewechselt
-hast.                                                                  |
-| 508     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha cambiado de Pokémon.                                                                            |
-| 508     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-sostituzioni di Pokémon.                                                               |
-| 508     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you switched Pokémon in
-the Pokéathlon.                                                        |
-| 508     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　交代　回数が
-記録された　カード。                                                                                                                         |
-| 508     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　こうたい　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 508     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 교체 횟수가
-기록된 카드.                                                                                                                               |
-| 508     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez changé de Pokémon.                                                  |
-| 508     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon ausgewechselt
-hast.                                                                  |
-| 508     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se ha cambiado de Pokémon.                                                                            |
-| 508     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-sostituzioni di Pokémon.                                                               |
-| 508     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you switched Pokémon in
-the Pokéathlon.                                                        |
-| 508     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　交代　回数が
-記録された　カード。                                                                                                                         |
-| 508     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンの　こうたい　かいすうが
-きろくされた　カード。                                                                                                                   |
-| 508     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬의 교체 횟수가
-기록된 카드.                                                                                                                               |
-| 508     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 508     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de fois
-où vous avez changé de Pokémon.                                                  |
-| 508     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du deine Pokémon ausgewechselt hast.                                                                  |
-| 508     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-veces que se ha cambiado de Pokémon.                                                                            |
-| 508     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-sostituzioni di Pokémon.                                                               |
-| 508     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you switched Pokémon in
-the Pokéathlon.                                                        |
-| 508     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンの　交代　回数が
-記録された　カード。                                                                                                                         |
-| 508     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Goal Roll.                                                                           |
-| 509     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre
-de victoires à la Balle au But.                                                          |
-| 509     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Goal Roll.                                                                           |
-| 509     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-won Goal Roll.                                                                           |
-| 509     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-スマッシュゴール　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 509     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-스매시골 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 509     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Balle au But.                                                          |
-| 509     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Torschießen den 1. Platz
-belegt hast.                                                         |
-| 509     | 15               | 7           | Si el portador es alcanzado por un ataque, saldrá
-del combate y será sustituido por otro Pokémon
-del equipo.                                                       |
-| 509     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piazzagoal.                                                                 |
-| 509     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-won the Pokéathlon’s Goal Roll.                                                            |
-| 509     | 15               | 11          | ポケスロンの　記録が　はいっている。
-スマッシュゴール　１位　回数が
-記録された　カード。                                                                                                                      |
-| 509     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-スマッシュゴール　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 509     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-스매시골 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 509     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Balle au But.                                                          |
-| 509     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Torschießen den 1. Platz
-belegt hast.                                                         |
-| 509     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Metegoles.                                                                                         |
-| 509     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piazzagoal.                                                                 |
-| 509     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Goal Roll.                                                            |
-| 509     | 17               | 11          | ポケスロンの　記録が　はいっている。
-スマッシュゴール　１位　回数が
-記録された　カード。                                                                                                                      |
-| 509     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-スマッシュゴール　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 509     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-스매시골 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 509     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Balle au But.                                                          |
-| 509     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Torschießen den 1. Platz
-belegt hast.                                                         |
-| 509     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Metegoles.                                                                                         |
-| 509     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piazzagoal.                                                                 |
-| 509     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Goal Roll.                                                            |
-| 509     | 18               | 11          | ポケスロンの　記録が　はいっている。
-スマッシュゴール　１位　回数が
-記録された　カード。                                                                                                                      |
-| 509     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-スマッシュゴール　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 509     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-스매시골 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 509     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Balle au But.                                                          |
-| 509     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du beim Torschießen den 1. Platz
-belegt hast.                                                         |
-| 509     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Metegoles.                                                                                         |
-| 509     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piazzagoal.                                                                 |
-| 509     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Goal Roll.                                                            |
-| 509     | 19               | 11          | ポケスロンの　記録が　はいっている。
-スマッシュゴール　１位　回数が
-記録された　カード。                                                                                                                      |
-| 509     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-スマッシュゴール　１い　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 509     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-스매시골 1위 횟수가
-기록된 카드.                                                                                                                               |
-| 509     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 509     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le nombre de victoires
-à la Balle au But.                                                          |
-| 509     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du beim Torschießen den 1. Platz belegt hast.                                                         |
-| 509     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-victorias en Metegoles.                                                                                         |
-| 509     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-vittorie a Piazzagoal.                                                                 |
-| 509     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you won the Pokéathlon’s
-Goal Roll.                                                            |
-| 509     | 20               | 11          | ポケスロンの　記録が　はいっている。
-スマッシュゴール　１位　回数が
-記録された　カード。                                                                                                                      |
-| 509     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon won individual prizes.                                                             |
-| 510     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre
-nombre de prix individuels.                                                                  |
-| 510     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon won individual prizes.                                                             |
-| 510     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times your
-Pokémon won individual prizes.                                                             |
-| 510     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-こじんしょう　かくとく　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 510     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-개인상 획득 횟수가
-기록된 카드.                                                                                                                                |
-| 510     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de prix
-individuels.                                                                  |
-| 510     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft eines deiner Pokémon
-den Einzelpreis gewonnen hat.                                                    |
-| 510     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Fuego. Debe llevarla
-un Pokémon.                                                                          |
-| 510     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-premi individuali.                                                                     |
-| 510     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times your
-Pokémon won individual prizes.                                                            |
-| 510     | 15               | 11          | ポケスロンの　記録が　はいっている。
-個人賞　獲得　回数が
-記録された　カード。                                                                                                                           |
-| 510     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-こじんしょう　かくとく　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 510     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-개인상 획득 횟수가
-기록된 카드.                                                                                                                                |
-| 510     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de prix
-individuels.                                                                  |
-| 510     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft eines deiner Pokémon den Einzelpreis
-gewonnen hat.                                                    |
-| 510     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de premios individuales.                                                                                           |
-| 510     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-premi individuali.                                                                     |
-| 510     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon won
-individual prizes.                                                            |
-| 510     | 17               | 11          | ポケスロンの　記録が　はいっている。
-個人賞　獲得　回数が
-記録された　カード。                                                                                                                           |
-| 510     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-こじんしょう　かくとく　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 510     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-개인상 획득 횟수가
-기록된 카드.                                                                                                                                |
-| 510     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de prix
-individuels.                                                                  |
-| 510     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft eines deiner Pokémon den Einzelpreis
-gewonnen hat.                                                    |
-| 510     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de premios individuales.                                                                                           |
-| 510     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-premi individuali.                                                                     |
-| 510     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon won
-individual prizes.                                                            |
-| 510     | 18               | 11          | ポケスロンの　記録が　はいっている。
-個人賞　獲得　回数が
-記録された　カード。                                                                                                                           |
-| 510     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-こじんしょう　かくとく　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 510     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-개인상 획득 횟수가
-기록된 카드.                                                                                                                                |
-| 510     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de prix
-individuels.                                                                  |
-| 510     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft eines deiner Pokémon den Einzelpreis
-gewonnen hat.                                                    |
-| 510     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de premios individuales.                                                                                           |
-| 510     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-premi individuali.                                                                     |
-| 510     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon won
-individual prizes.                                                            |
-| 510     | 19               | 11          | ポケスロンの　記録が　はいっている。
-個人賞　獲得　回数が
-記録された　カード。                                                                                                                           |
-| 510     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-こじんしょう　かくとく　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 510     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-개인상 획득 횟수가
-기록된 카드.                                                                                                                                |
-| 510     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 510     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit votre nombre de prix
-individuels.                                                                  |
-| 510     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft eines deiner Pokémon den Einzelpreis gewonnen
-hat.                                                    |
-| 510     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-premios individuales.                                                                                           |
-| 510     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di
-premi individuali.                                                                     |
-| 510     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times your Pokémon won
-individual prizes.                                                            |
-| 510     | 20               | 11          | ポケスロンの　記録が　はいっている。
-個人賞　獲得　回数が
-記録された　カード。                                                                                                                           |
-| 510     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-instructed your Pokémon.                                                                 |
-| 511     | 11               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois
-où vous avez touché vos Pokémon.                                                            |
-| 511     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-instructed your Pokémon.                                                                 |
-| 511     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how many times you’ve
-instructed your Pokémon.                                                                 |
-| 511     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンを　タッチした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 511     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬을 터치한 횟수가
-기록된 카드.                                                                                                                              |
-| 511     | 15               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez
-touché vos Pokémon.                                                            |
-| 511     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon mit dem
-Touchpen berührt hast.                                                       |
-| 511     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Agua. Debe llevarla
-un Pokémon.                                                                           |
-| 511     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di volte
-in cui hai toccato i Pokémon.                                                    |
-| 511     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how many times you
-instructed your Pokémon.                                                                   |
-| 511     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンを　タッチした　回数が
-記録された　カード。                                                                                                                      |
-| 511     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンを　タッチした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 511     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬을 터치한 횟수가
-기록된 카드.                                                                                                                              |
-| 511     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 17               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez
-touché vos Pokémon.                                                            |
-| 511     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon mit dem Touchpen
-berührt hast.                                                       |
-| 511     | 17               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se tocó con el lápiz a los Pokémon.                                                                   |
-| 511     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di volte
-in cui hai toccato i Pokémon.                                                    |
-| 511     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you instructed your Pokémon.                                                                   |
-| 511     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンを　タッチした　回数が
-記録された　カード。                                                                                                                      |
-| 511     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンを　タッチした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 511     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬을 터치한 횟수가
-기록된 카드.                                                                                                                              |
-| 511     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 18               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez
-touché vos Pokémon.                                                            |
-| 511     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon mit dem Touchpen
-berührt hast.                                                       |
-| 511     | 18               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se tocó con el lápiz a los Pokémon.                                                                   |
-| 511     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di volte
-in cui hai toccato i Pokémon.                                                    |
-| 511     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you instructed your Pokémon.                                                                   |
-| 511     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンを　タッチした　回数が
-記録された　カード。                                                                                                                      |
-| 511     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンを　タッチした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 511     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬을 터치한 횟수가
-기록된 카드.                                                                                                                              |
-| 511     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 19               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez touché
-vos Pokémon.                                                            |
-| 511     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie oft du deine Pokémon mit dem Touchpen
-berührt hast.                                                       |
-| 511     | 19               | 7           | Contiene los datos del Pokéathlon con el número
-de veces que se tocó con el lápiz a los Pokémon.                                                                   |
-| 511     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di volte
-in cui hai toccato i Pokémon.                                                    |
-| 511     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you instructed your Pokémon.                                                                   |
-| 511     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンを　タッチした　回数が
-記録された　カード。                                                                                                                      |
-| 511     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケモンを　タッチした　かいすうが
-きろくされた　カード。                                                                                                                  |
-| 511     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓몬을 터치한 횟수가
-기록된 카드.                                                                                                                              |
-| 511     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 511     | 20               | 5           | Contient vos données du Pokéathlon.
-Il y est inscrit le nombre de fois où vous avez
-touché vos Pokémon.                                                            |
-| 511     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie oft du deine Pokémon mit dem Touchpen berührt
-hast.                                                       |
-| 511     | 20               | 7           | Contiene los datos del Pokéathlon con el número de
-veces que se tocó con el lápiz a los Pokémon.                                                                   |
-| 511     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda è registrato il numero di volte
-in cui hai toccato i Pokémon.                                                    |
-| 511     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how many times you instructed your Pokémon.                                                                   |
-| 511     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケモンを　タッチした　回数が
-記録された　カード。                                                                                                                      |
-| 511     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 10               | 9           | It holds Pokéathlon records. It’s a
-card that shows how much time you’ve
-spent in the Pokéathlon.                                                                  |
-| 512     | 11               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps
-que vous avez passé à y jouer.                                                            |
-| 512     | 11               | 9           | It holds Pokéathlon records. It’s a
-card that shows how much time you’ve
-spent in the Pokéathlon.                                                                  |
-| 512     | 14               | 9           | It holds Pokéathlon records. It’s a
-card that shows how much time you’ve
-spent in the Pokéathlon.                                                                  |
-| 512     | 15               | 1           | ポケスロンの　きろくが　はいっている。
-ポケスロンで　あそんだ　じかんが
-きろくされた　カード。                                                                                                                   |
-| 512     | 15               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓슬론으로 즐긴 시간이
-기록된 카드.                                                                                                                             |
-| 512     | 15               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps que vous avez
-passé à y jouer.                                                            |
-| 512     | 15               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viel Zeit du beim Pokéathlon verbracht
-hast.                                                              |
-| 512     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Eléctrico. Debe llevarla
-un Pokémon.                                                                      |
-| 512     | 15               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda sono registrate le ore
-che hai passato a giocare.                                                                |
-| 512     | 15               | 9           | It holds Pokéathlon records. It is a
-card that shows how much time you
-spent participating in the Pokéathlon.                                                      |
-| 512     | 15               | 11          | ポケスロンの　記録が　はいっている。
-ポケスロンで　遊んだ　時間が
-記録された　カード。                                                                                                                       |
-| 512     | 17               | 1           | ポケスロンの　きろくが　はいっている。
-ポケスロンで　あそんだ　じかんが
-きろくされた　カード。                                                                                                                   |
-| 512     | 17               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓슬론으로 즐긴 시간이
-기록된 카드.                                                                                                                             |
-| 512     | 17               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 17               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps que vous avez
-passé à y jouer.                                                            |
-| 512     | 17               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viel Zeit du beim Pokéathlon verbracht
-hast.                                                              |
-| 512     | 17               | 7           | Contiene los datos del Pokéathlon con el tiempo
-que se ha pasado en esta competición.                                                                              |
-| 512     | 17               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda sono registrate le ore che hai
-passato a giocare.                                                                |
-| 512     | 17               | 9           | It holds Pokéathlon records. It is a card that shows
-how much time you spent participating in
-the Pokéathlon.                                                      |
-| 512     | 17               | 11          | ポケスロンの　記録が　はいっている。
-ポケスロンで　遊んだ　時間が
-記録された　カード。                                                                                                                       |
-| 512     | 17               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 18               | 1           | ポケスロンの　きろくが　はいっている。
-ポケスロンで　あそんだ　じかんが
-きろくされた　カード。                                                                                                                   |
-| 512     | 18               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓슬론으로 즐긴 시간이
-기록된 카드.                                                                                                                             |
-| 512     | 18               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 18               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps que vous avez
-passé à y jouer.                                                            |
-| 512     | 18               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viel Zeit du beim Pokéathlon verbracht
-hast.                                                              |
-| 512     | 18               | 7           | Contiene los datos del Pokéathlon con el tiempo
-que se ha pasado en esta competición.                                                                              |
-| 512     | 18               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda sono registrate le ore che hai
-passato a giocare.                                                                |
-| 512     | 18               | 9           | It holds Pokéathlon records. It is a card that shows
-how much time you spent participating in
-the Pokéathlon.                                                      |
-| 512     | 18               | 11          | ポケスロンの　記録が　はいっている。
-ポケスロンで　遊んだ　時間が
-記録された　カード。                                                                                                                       |
-| 512     | 18               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 19               | 1           | ポケスロンの　きろくが　はいっている。
-ポケスロンで　あそんだ　じかんが
-きろくされた　カード。                                                                                                                   |
-| 512     | 19               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓슬론으로 즐긴 시간이
-기록된 카드.                                                                                                                             |
-| 512     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 19               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps que vous avez
-passé à y jouer.                                                            |
-| 512     | 19               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte
-zeigt, wie viel Zeit du beim Pokéathlon verbracht
-hast.                                                              |
-| 512     | 19               | 7           | Contiene los datos del Pokéathlon con el tiempo
-que se ha pasado en esta competición.                                                                              |
-| 512     | 19               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda sono registrate le ore che hai
-passato a giocare.                                                                |
-| 512     | 19               | 9           | It holds Pokéathlon records. It is a card that shows
-how much time you spent participating in
-the Pokéathlon.                                                      |
-| 512     | 19               | 11          | ポケスロンの　記録が　はいっている。
-ポケスロンで　遊んだ　時間が
-記録された　カード。                                                                                                                       |
-| 512     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 20               | 1           | ポケスロンの　きろくが　はいっている。
-ポケスロンで　あそんだ　じかんが
-きろくされた　カード。                                                                                                                   |
-| 512     | 20               | 3           | 포켓슬론의 기록이 들어 있다.
-포켓슬론으로 즐긴 시간이
-기록된 카드.                                                                                                                             |
-| 512     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 512     | 20               | 5           | Contient vos données du Pokéathlon.
-Sur cette carte est inscrit le temps que vous avez
-passé à y jouer.                                                            |
-| 512     | 20               | 6           | Speichert deine Pokéathlon-Rekorde. Die Karte zeigt,
-wie viel Zeit du beim Pokéathlon verbracht hast.                                                              |
-| 512     | 20               | 7           | Contiene los datos del Pokéathlon con el tiempo que se
-ha pasado en esta competición.                                                                              |
-| 512     | 20               | 8           | Contiene i tuoi dati Pokéathlon.
-Su questa Scheda sono registrate le ore che hai
-passato a giocare.                                                                |
-| 512     | 20               | 9           | It holds Pokéathlon records. It is a card that shows
-how much time you spent participating in
-the Pokéathlon.                                                      |
-| 512     | 20               | 11          | ポケスロンの　記録が　はいっている。
-ポケスロンで　遊んだ　時間が
-記録された　カード。                                                                                                                       |
-| 512     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 513     | 10               | 9           | A sturdy Capsule that can only be
-opened with a special key.                                                                                                       |
-| 513     | 11               | 5           | Un écrin résistant qui ne s’ouvre
-qu’avec une clé spéciale.                                                                                                        |
-| 513     | 11               | 9           | A sturdy Capsule that can only be
-opened with a special key.                                                                                                       |
-| 513     | 14               | 9           | A sturdy Capsule that can only be
-opened with a special key.                                                                                                       |
-| 513     | 15               | 1           | とくしゅな　カギで　あけられる
-がんじょうな　カプセル。
-                                                                                                                                      |
-| 513     | 15               | 3           | 특수한 열쇠로 열 수 있는
-튼튼한 캡슐.                                                                                                                                             |
-| 513     | 15               | 5           | Un écrin résistant qui ne s’ouvre qu’avec une clé
-spéciale.                                                                                                        |
-| 513     | 15               | 6           | Eine äußerst robuste Kapsel, die sich nur mit
-einem ganz speziellen Schlüssel öffnen lässt.                                                                        |
-| 513     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Hielo. Debe llevarla
-un Pokémon.                                                                          |
-| 513     | 15               | 8           | Scrigno blindato che si apre solo con una chiave
-speciale.                                                                                                         |
-| 513     | 15               | 9           | A sturdy Capsule that can only
-be opened with a special key.                                                                                                       |
-| 513     | 15               | 11          | 特殊な　カギで　あけられる
-頑丈な　カプセル。
-                                                                                                                                           |
-| 513     | 17               | 1           | とくしゅな　カギで　あけられる
-がんじょうな　カプセル。
-                                                                                                                                      |
-| 513     | 17               | 3           | 특수한 열쇠로 열 수 있는
-튼튼한 캡슐.                                                                                                                                             |
-| 513     | 17               | 4           | 需用特殊鑰匙打開的
-堅固的容器。                                                                                                                                                   |
-| 513     | 17               | 5           | Un écrin résistant qui ne s’ouvre qu’avec une clé
-spéciale.                                                                                                        |
-| 513     | 17               | 6           | Eine äußerst robuste Kapsel, die sich nur mit einem
-ganz speziellen Schlüssel öffnen lässt.                                                                        |
-| 513     | 17               | 7           | Una cápsula resistente que solo puede abrirse
-con una llave especial.                                                                                              |
-| 513     | 17               | 8           | Scrigno blindato che si apre solo con una chiave
-speciale.                                                                                                         |
-| 513     | 17               | 9           | A sturdy Capsule that can only be opened with a
-special key.                                                                                                       |
-| 513     | 17               | 11          | 特殊な　カギで　あけられる
-頑丈な　カプセル。
-                                                                                                                                           |
-| 513     | 17               | 12          | 需用特殊钥匙打开的
-坚固的容器。                                                                                                                                                   |
-| 513     | 18               | 1           | とくしゅな　カギで　あけられる
-がんじょうな　カプセル。
-                                                                                                                                      |
-| 513     | 18               | 3           | 특수한 열쇠로 열 수 있는
-튼튼한 캡슐.                                                                                                                                             |
-| 513     | 18               | 4           | 需用特殊鑰匙打開的
-堅固的容器。                                                                                                                                                   |
-| 513     | 18               | 5           | Un écrin résistant qui ne s’ouvre qu’avec une clé
-spéciale.                                                                                                        |
-| 513     | 18               | 6           | Eine äußerst robuste Kapsel, die sich nur mit einem
-ganz speziellen Schlüssel öffnen lässt.                                                                        |
-| 513     | 18               | 7           | Una cápsula resistente que solo puede abrirse
-con una llave especial.                                                                                              |
-| 513     | 18               | 8           | Scrigno blindato che si apre solo con una chiave
-speciale.                                                                                                         |
-| 513     | 18               | 9           | A sturdy Capsule that can only be opened with a
-special key.                                                                                                       |
-| 513     | 18               | 11          | 特殊な　カギで　あけられる
-頑丈な　カプセル。
-                                                                                                                                           |
-| 513     | 18               | 12          | 需用特殊钥匙打开的
-坚固的容器。                                                                                                                                                   |
-| 513     | 19               | 1           | とくしゅな　カギで　あけられる
-がんじょうな　カプセル。
-                                                                                                                                      |
-| 513     | 19               | 3           | 특수한 열쇠로 열 수 있는
-튼튼한 캡슐.                                                                                                                                             |
-| 513     | 19               | 4           | 需用特殊鑰匙打開的
-堅固的容器。                                                                                                                                                   |
-| 513     | 19               | 5           | Un écrin résistant qui ne s’ouvre qu’avec une clé
-spéciale.                                                                                                        |
-| 513     | 19               | 6           | Eine äußerst robuste Kapsel, die sich nur mit einem
-ganz speziellen Schlüssel öffnen lässt.                                                                        |
-| 513     | 19               | 7           | Una cápsula resistente que solo puede abrirse
-con una llave especial.                                                                                              |
-| 513     | 19               | 8           | Scrigno blindato che si apre solo con una chiave
-speciale.                                                                                                         |
-| 513     | 19               | 9           | A sturdy Capsule that can only be opened with a
-special key.                                                                                                       |
-| 513     | 19               | 11          | 特殊な　カギで　あけられる
-頑丈な　カプセル。
-                                                                                                                                           |
-| 513     | 19               | 12          | 需用特殊钥匙打开的
-坚固的容器。                                                                                                                                                   |
-| 513     | 20               | 1           | とくしゅな　カギで　あけられる
-がんじょうな　カプセル。
-                                                                                                                                      |
-| 513     | 20               | 3           | 특수한 열쇠로 열 수 있는
-튼튼한 캡슐.                                                                                                                                             |
-| 513     | 20               | 4           | 需用特殊鑰匙打開的
-堅固容器。                                                                                                                                                    |
-| 513     | 20               | 5           | Un écrin résistant qui ne s’ouvre qu’avec une clé
-spéciale.                                                                                                        |
-| 513     | 20               | 6           | Eine äußerst robuste Kapsel, die sich nur mit einem
-ganz speziellen Schlüssel öffnen lässt.                                                                        |
-| 513     | 20               | 7           | Una cápsula resistente que solo puede abrirse con una
-llave especial.                                                                                              |
-| 513     | 20               | 8           | Scrigno blindato che si apre solo con una chiave
-speciale.                                                                                                         |
-| 513     | 20               | 9           | A sturdy Capsule that can only be opened with a
-special key.                                                                                                       |
-| 513     | 20               | 11          | 特殊な　カギで　あけられる
-頑丈な　カプセル。
-                                                                                                                                           |
-| 513     | 20               | 12          | 需用特殊钥匙打开的
-坚固的容器。                                                                                                                                                   |
-| 514     | 10               | 9           | A nice photo album for storing all the
-photos taken along your adventure.                                                                                          |
-| 514     | 11               | 5           | Un album décoré de photos souvenir
-prises pendant le voyage.                                                                                                       |
-| 514     | 11               | 9           | A nice photo album for storing all the
-photos taken along your adventure.                                                                                          |
-| 514     | 14               | 9           | A nice photo album for storing all the
-photos taken along your adventure.                                                                                          |
-| 514     | 15               | 1           | ぼうけんちゅうに　さつえいした
-きねんしゃしんを　かざる　アルバム。
-                                                                                                                                |
-| 514     | 15               | 3           | 모험 중에 촬영한
-기념사진을 보관하는 앨범.                                                                                                                                           |
-| 514     | 15               | 5           | Un album décoré de photos souvenir prises
-pendant le voyage.                                                                                                       |
-| 514     | 15               | 6           | Ein Album, in dem du Erinnerungsfotos
-aufbewahren kannst, die du auf deinen
-Reisen geschossen hast.                                                                |
-| 514     | 15               | 7           | Contiene los datos del Pokéathlon con el número
-de victorias en Fuera del Ring.                                                                                    |
-| 514     | 15               | 8           | Album dove si possono sistemare le foto
-scattate durante quest’avventura.                                                                                          |
-| 514     | 15               | 9           | A nice photo album for storing all the
-photos taken along your adventure.                                                                                          |
-| 514     | 15               | 11          | 冒険中に　撮影した
-記念写真を　飾る　アルバム。
-                                                                                                                                          |
-| 514     | 17               | 1           | ぼうけんちゅうに　さつえいした
-きねんしゃしんを　かざる　アルバム。
-                                                                                                                                |
-| 514     | 17               | 3           | 모험 중에 촬영한
-기념사진을 보관하는 앨범.                                                                                                                                           |
-| 514     | 17               | 4           | 用來擺放在冒險中拍攝的
-紀念照片的相簿。                                                                                                                                               |
-| 514     | 17               | 5           | Un album décoré de photos souvenirs prises
-pendant le voyage.                                                                                                      |
-| 514     | 17               | 6           | Ein Album, in dem du Erinnerungsfotos aufbewahren
-kannst, die du auf deinen Reisen geschossen hast.                                                                |
-| 514     | 17               | 7           | Álbum que recoge las fotos que se toman a lo
-largo de la aventura.                                                                                                 |
-| 514     | 17               | 8           | Album dove si possono sistemare le foto
-scattate durante quest’avventura.                                                                                          |
-| 514     | 17               | 9           | A nice photo album for storing all the photos taken
-along your adventure.                                                                                          |
-| 514     | 17               | 11          | 冒険中に　撮影した
-記念写真を　飾る　アルバム。
-                                                                                                                                          |
-| 514     | 17               | 12          | 用来摆放在冒险中拍摄的
-纪念相片的相册。                                                                                                                                               |
-| 514     | 18               | 1           | ぼうけんちゅうに　さつえいした
-きねんしゃしんを　かざる　アルバム。
-                                                                                                                                |
-| 514     | 18               | 3           | 모험 중에 촬영한
-기념사진을 보관하는 앨범.                                                                                                                                           |
-| 514     | 18               | 4           | 用來擺放在冒險中拍攝的
-紀念照片的相簿。                                                                                                                                               |
-| 514     | 18               | 5           | Un album décoré de photos souvenirs prises
-pendant le voyage.                                                                                                      |
-| 514     | 18               | 6           | Ein Album, in dem du Erinnerungsfotos aufbewahren
-kannst, die du auf deinen Reisen geschossen hast.                                                                |
-| 514     | 18               | 7           | Álbum que recoge las fotos que se toman a lo
-largo de la aventura.                                                                                                 |
-| 514     | 18               | 8           | Album dove si possono sistemare le foto
-scattate durante quest’avventura.                                                                                          |
-| 514     | 18               | 9           | A nice photo album for storing all the photos taken
-along your adventure.                                                                                          |
-| 514     | 18               | 11          | 冒険中に　撮影した
-記念写真を　飾る　アルバム。
-                                                                                                                                          |
-| 514     | 18               | 12          | 用来摆放在冒险中拍摄的
-纪念相片的相册。                                                                                                                                               |
-| 514     | 19               | 1           | ぼうけんちゅうに　さつえいした
-きねんしゃしんを　かざる　アルバム。
-                                                                                                                                |
-| 514     | 19               | 3           | 모험 중에 촬영한
-기념사진을 보관하는 앨범.                                                                                                                                           |
-| 514     | 19               | 4           | 用來擺放在冒險中拍攝的
-紀念照片的相簿。                                                                                                                                               |
-| 514     | 19               | 5           | Un album décoré de photos souvenirs prises
-pendant le voyage.                                                                                                      |
-| 514     | 19               | 6           | Ein Album, in dem du Erinnerungsfotos aufbewahren
-kannst, die du auf deinen Reisen geschossen hast.                                                                |
-| 514     | 19               | 7           | Álbum que recoge las fotos que se toman a lo largo
-de la aventura.                                                                                                 |
-| 514     | 19               | 8           | Album dove si possono sistemare le foto
-scattate durante quest’avventura.                                                                                          |
-| 514     | 19               | 9           | A nice photo album for storing all the photos taken
-along your adventure.                                                                                          |
-| 514     | 19               | 11          | 冒険中に　撮影した
-記念写真を　飾る　アルバム。
-                                                                                                                                          |
-| 514     | 19               | 12          | 用来摆放在冒险中拍摄的
-纪念相片的相册。                                                                                                                                               |
-| 514     | 20               | 1           | ぼうけんちゅうに　さつえいした
-きねんしゃしんを　かざる　アルバム。
-                                                                                                                                |
-| 514     | 20               | 3           | 모험 중에 촬영한
-기념사진을 보관하는 앨범.                                                                                                                                           |
-| 514     | 20               | 4           | 用來擺放在冒險中拍攝的
-紀念照片的相簿。                                                                                                                                               |
-| 514     | 20               | 5           | Un album décoré de photos souvenirs prises
-pendant le voyage.                                                                                                      |
-| 514     | 20               | 6           | Ein Album, in dem du Erinnerungsfotos aufbewahren
-kannst, die du auf deinen Reisen geschossen hast.                                                                |
-| 514     | 20               | 7           | Álbum que recoge las fotos que se toman a lo largo de
-la aventura.                                                                                                 |
-| 514     | 20               | 8           | Album dove si possono sistemare le foto
-scattate durante quest’avventura.                                                                                          |
-| 514     | 20               | 9           | A nice photo album for storing all the photos taken
-along your adventure.                                                                                          |
-| 514     | 20               | 11          | 冒険中に　撮影した
-記念写真を　飾る　アルバム。
-                                                                                                                                          |
-| 514     | 20               | 12          | 用来摆放在冒险中拍摄的
-纪念相片的相册。                                                                                                                                               |
-| 515     | 5                | 9           | A ZIGZAGOON-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 515     | 6                | 9           | A ZIGZAGOON-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 515     | 7                | 9           | A piece of MAIL featuring a cute
-ZIGZAGOON print.
-It is to be held by a POKéMON.                                                                                   |
-| 516     | 5                | 9           | A WINGULL-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 516     | 6                | 9           | A WINGULL-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 516     | 7                | 9           | A piece of MAIL featuring a cute
-WINGULL print.
-It is to be held by a POKéMON.                                                                                     |
-| 517     | 5                | 9           | A PIKACHU-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 517     | 6                | 9           | A PIKACHU-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 517     | 7                | 9           | A piece of MAIL featuring a cute
-PIKACHU print.
-It is to be held by a POKéMON.                                                                                     |
-| 518     | 5                | 9           | A MAGNEMITE-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 518     | 6                | 9           | A MAGNEMITE-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 518     | 7                | 9           | A piece of MAIL featuring a cute
-MAGNEMITE print.
-It is to be held by a POKéMON.                                                                                   |
-| 519     | 5                | 9           | A SLAKOTH-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 519     | 6                | 9           | A SLAKOTH-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 519     | 7                | 9           | A piece of MAIL featuring a cute
-SLAKOTH print.
-It is to be held by a POKéMON.                                                                                     |
-| 520     | 5                | 9           | A WAILMER-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 520     | 6                | 9           | A WAILMER-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 520     | 7                | 9           | A piece of MAIL featuring a cute
-WAILMER print.
-It is to be held by a POKéMON.                                                                                     |
-| 521     | 5                | 9           | MAIL featuring a
-sketch of the
-holding POKéMON.                                                                                                                    |
-| 521     | 6                | 9           | MAIL featuring a
-sketch of the
-holding POKéMON.                                                                                                                    |
-| 521     | 7                | 9           | A piece of MAIL to be held by a
-POKéMON. It will bear the print of
-the POKéMON holding it.                                                                         |
-| 522     | 5                | 9           | A DUSKULL-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 522     | 6                | 9           | A DUSKULL-print
-MAIL to be held by
-a POKéMON.                                                                                                                      |
-| 522     | 7                | 9           | A piece of MAIL featuring a cute
-DUSKULL print.
-It is to be held by a POKéMON.                                                                                     |
-| 523     | 5                | 9           | A BELLOSSOM-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 523     | 6                | 9           | A BELLOSSOM-print
-MAIL to be held by
-a POKéMON.                                                                                                                    |
-| 523     | 7                | 9           | A piece of MAIL featuring a cute
-BELLOSSOM print.
-It is to be held by a POKéMON.                                                                                   |
-| 524     | 5                | 9           | MAIL featuring a
-sketch of the
-holding POKéMON.                                                                                                                    |
-| 524     | 6                | 9           | MAIL featuring a
-sketch of the
-holding POKéMON.                                                                                                                    |
-| 524     | 7                | 9           | A piece of MAIL to be held by a
-POKéMON. It will bear the print of
-the POKéMON holding it.                                                                         |
-| 525     | 5                | 9           | A gorgeous-print
-MAIL to be held
-by a POKéMON.                                                                                                                     |
-| 525     | 6                | 9           | A gorgeous-print
-MAIL to be held
-by a POKéMON.                                                                                                                     |
-| 525     | 7                | 9           | A piece of MAIL featuring a
-gorgeous, extravagant print.
-It is to be held by a POKéMON.                                                                            |
-| 526     | 5                | 9           | MAIL featuring the
-drawings of three
-POKéMON.                                                                                                                      |
-| 526     | 6                | 9           | MAIL featuring the
-drawings of three
-POKéMON.                                                                                                                      |
-| 526     | 7                | 9           | A piece of MAIL featuring a print
-of three cute POKéMON.
-It is to be held by a POKéMON.                                                                            |
-| 527     | 5                | 9           | A folding bicycle
-that more than
-doubles foot speed.                                                                                                               |
-| 527     | 6                | 9           | A folding bicycle
-that doubles your
-speed or better.                                                                                                               |
-| 527     | 7                | 9           | A folding bicycle that is at least
-twice as fast as walking.                                                                                                       |
-| 527     | 17               | 1           | ２ばい　いじょうの
-はやさで　いどう　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 527     | 17               | 3           | 2배 이상의
-스피드로 이동할 수 있는
-접이식 자전거다.                                                                                                                                     |
-| 527     | 17               | 4           | 能以２倍以上速度移動的
-折疊式自行車。                                                                                                                                                |
-| 527     | 17               | 5           | Un vélo pliable qui roule jusqu’à deux fois plus vite
-qu’une bicyclette ordinaire.                                                                                 |
-| 527     | 17               | 6           | Ein Klapprad, mit dem du dich doppelt so schnell
-fortbewegen kannst wie gewöhnlich.                                                                                |
-| 527     | 17               | 7           | Bicicleta plegable que va a más del doble de
-velocidad que otras.                                                                                                  |
-| 527     | 17               | 8           | Bici pieghevole che permette di spostarsi al doppio
-della velocità normale.                                                                                        |
-| 527     | 17               | 9           | This folding Bike more than doubles your
-movement speed.                                                                                                           |
-| 527     | 17               | 11          | ２倍　以上の
-速さで　移動できる
-おりたたみの　自転車。                                                                                                                                       |
-| 527     | 17               | 12          | 能以２倍以上的速度移动的
-折叠式自行车。                                                                                                                                               |
-| 527     | 18               | 1           | ２ばい　いじょうの
-はやさで　いどう　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 527     | 18               | 3           | 2배 이상의
-스피드로 이동할 수 있는
-접이식 자전거다.                                                                                                                                     |
-| 527     | 18               | 4           | 能以２倍以上速度移動的
-折疊式自行車。                                                                                                                                                |
-| 527     | 18               | 5           | Un vélo pliable qui roule jusqu’à deux fois plus vite
-qu’une bicyclette ordinaire.                                                                                 |
-| 527     | 18               | 6           | Ein Klapprad, mit dem du dich doppelt so schnell
-fortbewegen kannst wie gewöhnlich.                                                                                |
-| 527     | 18               | 7           | Bicicleta plegable que va a más del doble de
-velocidad que otras.                                                                                                  |
-| 527     | 18               | 8           | Bici pieghevole che permette di spostarsi al doppio
-della velocità normale.                                                                                        |
-| 527     | 18               | 9           | This folding Bike more than doubles your
-movement speed.                                                                                                           |
-| 527     | 18               | 11          | ２倍　以上の
-速さで　移動できる
-おりたたみの　自転車。                                                                                                                                       |
-| 527     | 18               | 12          | 能以２倍以上的速度移动的
-折叠式自行车。                                                                                                                                               |
-| 527     | 19               | 1           | ２ばい　いじょうの
-はやさで　いどう　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 527     | 19               | 3           | 2배 이상의
-스피드로 이동할 수 있는
-접이식 자전거다.                                                                                                                                     |
-| 527     | 19               | 4           | 能以２倍以上速度移動的
-折疊式自行車。                                                                                                                                                |
-| 527     | 19               | 5           | Un vélo pliable qui roule jusqu’à deux fois plus vite
-qu’une bicyclette ordinaire.                                                                                 |
-| 527     | 19               | 6           | Ein Klapprad, mit dem du dich doppelt so schnell
-fortbewegen kannst wie gewöhnlich.                                                                                |
-| 527     | 19               | 7           | Bicicleta plegable que va a más del doble de velocidad
-que otras.                                                                                                  |
-| 527     | 19               | 8           | Bici pieghevole che permette di spostarsi al doppio
-della velocità normale.                                                                                        |
-| 527     | 19               | 9           | This folding Bike more than doubles your
-movement speed.                                                                                                           |
-| 527     | 19               | 11          | ２倍　以上の
-速さで　移動できる
-おりたたみの　自転車。                                                                                                                                       |
-| 527     | 19               | 12          | 能以２倍以上的速度移动的
-折叠式自行车。                                                                                                                                               |
-| 527     | 20               | 1           | ２ばい　いじょうの
-はやさで　いどう　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 527     | 20               | 3           | 2배 이상의
-스피드로 이동할 수 있는
-접이식 자전거다.                                                                                                                                     |
-| 527     | 20               | 4           | 能以２倍以上速度移動的
-折疊式自行車。                                                                                                                                                |
-| 527     | 20               | 5           | Un vélo pliable qui roule jusqu’à deux fois plus vite
-qu’une bicyclette ordinaire.                                                                                 |
-| 527     | 20               | 6           | Ein Klapprad, mit dem du dich doppelt so schnell
-fortbewegen kannst wie gewöhnlich.                                                                                |
-| 527     | 20               | 7           | Bicicleta plegable que va a más del doble de velocidad
-que otras.                                                                                                  |
-| 527     | 20               | 8           | Bici pieghevole che permette di spostarsi al doppio
-della velocità normale.                                                                                        |
-| 527     | 20               | 9           | This folding bike more than doubles your
-movement speed.                                                                                                           |
-| 527     | 20               | 11          | ２倍　以上の
-速さで　移動できる
-おりたたみの　自転車。                                                                                                                                       |
-| 527     | 20               | 12          | 能以２倍以上的速度移动的
-折叠式自行车。                                                                                                                                               |
-| 528     | 5                | 9           | A folding bicycle
-capable of jumps
-and wheelies.                                                                                                                   |
-| 528     | 6                | 9           | A folding bicycle
-capable of jumps
-and wheelies.                                                                                                                   |
-| 528     | 7                | 9           | A folding bicycle that is capable
-of stunts like jumps and wheelies.                                                                                               |
-| 528     | 17               | 1           | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 528     | 17               | 3           | 점프나 윌리 액션을
-할 수 있는
-접이식 자전거다.                                                                                                                                        |
-| 528     | 17               | 4           | 能做出跳躍或抬前輪動作的
-折疊式自行車。                                                                                                                                               |
-| 528     | 17               | 5           | Un vélo pliable qui permet de bondir et de rouler
-sur la roue arrière.                                                                                             |
-| 528     | 17               | 6           | Ein Klapprad, mit dem du Kunststücke wie Sprünge
-oder Wheelies ausführen kannst.                                                                                   |
-| 528     | 17               | 7           | Bicicleta plegable capaz de correr sobre una sola
-rueda, realizar saltos y otras acrobacias.                                                                       |
-| 528     | 17               | 8           | Bici pieghevole con cui si possono fare acrobazie
-come salti o impennate.                                                                                          |
-| 528     | 17               | 9           | This folding Bike allows you to perform actions
-such as wheelies and bunny hops.                                                                                   |
-| 528     | 17               | 11          | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　自転車。                                                                                                                                 |
-| 528     | 17               | 12          | 能做出跳跃或抬前轮动作的
-折叠式自行车。                                                                                                                                               |
-| 528     | 18               | 1           | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 528     | 18               | 3           | 점프나 윌리 액션을
-할 수 있는
-접이식 자전거다.                                                                                                                                        |
-| 528     | 18               | 4           | 能做出跳躍或抬前輪動作的
-折疊式自行車。                                                                                                                                               |
-| 528     | 18               | 5           | Un vélo pliable qui permet de bondir et de rouler
-sur la roue arrière.                                                                                             |
-| 528     | 18               | 6           | Ein Klapprad, mit dem du Kunststücke wie Sprünge
-oder Wheelies ausführen kannst.                                                                                   |
-| 528     | 18               | 7           | Bicicleta plegable capaz de correr sobre una sola
-rueda, realizar saltos y otras acrobacias.                                                                       |
-| 528     | 18               | 8           | Bici pieghevole con cui si possono fare acrobazie
-come salti o impennate.                                                                                          |
-| 528     | 18               | 9           | This folding Bike allows you to perform actions
-such as wheelies and bunny hops.                                                                                   |
-| 528     | 18               | 11          | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　自転車。                                                                                                                                 |
-| 528     | 18               | 12          | 能做出跳跃或抬前轮动作的
-折叠式自行车。                                                                                                                                               |
-| 528     | 19               | 1           | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 528     | 19               | 3           | 점프나 윌리 액션을
-할 수 있는
-접이식 자전거다.                                                                                                                                        |
-| 528     | 19               | 4           | 能做出跳躍或抬前輪動作的
-折疊式自行車。                                                                                                                                               |
-| 528     | 19               | 5           | Un vélo pliable qui permet de bondir et de rouler
-sur la roue arrière.                                                                                             |
-| 528     | 19               | 6           | Ein Klapprad, mit dem du Kunststücke wie Sprünge
-oder Wheelies ausführen kannst.                                                                                   |
-| 528     | 19               | 7           | Bicicleta plegable capaz de correr sobre una sola rueda,
-realizar saltos y otras acrobacias.                                                                       |
-| 528     | 19               | 8           | Bici pieghevole con cui si possono fare acrobazie
-come salti o impennate.                                                                                          |
-| 528     | 19               | 9           | This folding Bike allows you to perform actions
-such as wheelies and bunny hops.                                                                                   |
-| 528     | 19               | 11          | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　自転車。                                                                                                                                 |
-| 528     | 19               | 12          | 能做出跳跃或抬前轮动作的
-折叠式自行车。                                                                                                                                               |
-| 528     | 20               | 1           | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　じてんしゃ。                                                                                                                               |
-| 528     | 20               | 3           | 점프나 윌리 액션을
-할 수 있는
-접이식 자전거다.                                                                                                                                        |
-| 528     | 20               | 4           | 能做出跳躍或抬前輪動作的
-折疊式自行車。                                                                                                                                               |
-| 528     | 20               | 5           | Un vélo pliable qui permet de bondir et de rouler
-sur la roue arrière.                                                                                             |
-| 528     | 20               | 6           | Ein Klapprad, mit dem du Kunststücke wie Sprünge
-oder Wheelies ausführen kannst.                                                                                   |
-| 528     | 20               | 7           | Bicicleta plegable capaz de correr sobre una sola rueda,
-realizar saltos y otras acrobacias.                                                                       |
-| 528     | 20               | 8           | Bici pieghevole con cui si possono fare acrobazie
-come salti o impennate.                                                                                          |
-| 528     | 20               | 9           | This folding bike allows you to perform actions
-such as wheelies and bunny hops.                                                                                   |
-| 528     | 20               | 11          | ジャンプや　ウィリーの
-アクションが　できる
-おりたたみの　自転車。                                                                                                                                 |
-| 528     | 20               | 12          | 能做出跳跃或抬前轮动作的
-折叠式自行车。                                                                                                                                               |
-| 529     | 5                | 9           | A tool used for
-watering BERRIES
-and plants.                                                                                                                       |
-| 529     | 6                | 9           | A tool used for
-watering BERRIES
-and plants.                                                                                                                       |
-| 529     | 7                | 9           | A nifty watering pail.
-Use it to promote strong growth in
-BERRIES planted in soft soil.                                                                            |
-| 529     | 17               | 1           | みずを　かける　どうぐ。
-つちに　うめた　きのみを
-すくすく　そだてる。                                                                                                                               |
-| 529     | 17               | 3           | 물을 주는 도구.
-땅에 심은 나무열매를
-쑥쑥 키운다.                                                                                                                                      |
-| 529     | 17               | 4           | 澆水的器具。
-能讓埋在土壤裡的
-樹果快快長大。                                                                                                                                            |
-| 529     | 17               | 5           | Sert à arroser les Baies plantées dans le sol.                                                                                                                     |
-| 529     | 17               | 6           | Eine Gießkanne. Gießt du mit ihr im Boden
-angepflanzte Beeren, wachsen sie schneller.                                                                              |
-| 529     | 17               | 7           | Regadera con forma de Wailmer. Muy útil para que
-crezcan las bayas plantadas.                                                                                      |
-| 529     | 17               | 8           | Annaffiatoio a forma di Wailmer che aiuta a far
-crescere rigogliose le piantine di bacche.                                                                         |
-| 529     | 17               | 9           | This is a tool for watering Berries you planted to
-make them grow more quickly.                                                                                    |
-| 529     | 17               | 11          | みずを　かける　道具。
-土に　うめた　きのみを
-すくすく　育てる。                                                                                                                                  |
-| 529     | 17               | 12          | 浇水的道具。
-能让埋在土壤里的
-树果快快长大。                                                                                                                                            |
-| 529     | 18               | 1           | みずを　かける　どうぐ。
-つちに　うめた　きのみを
-すくすく　そだてる。                                                                                                                               |
-| 529     | 18               | 3           | 물을 주는 도구.
-땅에 심은 나무열매를
-쑥쑥 키운다.                                                                                                                                      |
-| 529     | 18               | 4           | 澆水的器具。
-能讓埋在土壤裡的
-樹果快快長大。                                                                                                                                            |
-| 529     | 18               | 5           | Sert à arroser les Baies plantées dans le sol.                                                                                                                     |
-| 529     | 18               | 6           | Eine Gießkanne. Gießt du mit ihr im Boden
-angepflanzte Beeren, wachsen sie schneller.                                                                              |
-| 529     | 18               | 7           | Regadera con forma de Wailmer. Muy útil para que
-crezcan las bayas plantadas.                                                                                      |
-| 529     | 18               | 8           | Annaffiatoio a forma di Wailmer che aiuta a far
-crescere rigogliose le piantine di bacche.                                                                         |
-| 529     | 18               | 9           | This is a tool for watering Berries you planted to
-make them grow more quickly.                                                                                    |
-| 529     | 18               | 11          | みずを　かける　道具。
-土に　うめた　きのみを
-すくすく　育てる。                                                                                                                                  |
-| 529     | 18               | 12          | 浇水的道具。
-能让埋在土壤里的
-树果快快长大。                                                                                                                                            |
-| 529     | 19               | 1           | みずを　かける　どうぐ。
-つちに　うめた　きのみを
-すくすく　そだてる。                                                                                                                               |
-| 529     | 19               | 3           | 물을 주는 도구.
-땅에 심은 나무열매를
-쑥쑥 키운다.                                                                                                                                      |
-| 529     | 19               | 4           | 澆水的器具。
-能讓埋在土壤裡的
-樹果快快長大。                                                                                                                                            |
-| 529     | 19               | 5           | Sert à arroser les Baies plantées dans le sol.                                                                                                                     |
-| 529     | 19               | 6           | Eine Gießkanne. Gießt du mit ihr im Boden
-angepflanzte Beeren, wachsen sie schneller.                                                                              |
-| 529     | 19               | 7           | Regadera con forma de Wailmer. Muy útil para que
-crezcan las bayas plantadas.                                                                                      |
-| 529     | 19               | 8           | Annaffiatoio a forma di Wailmer che aiuta a far
-crescere rigogliose le piantine di bacche.                                                                         |
-| 529     | 19               | 9           | This is a tool for watering Berries you planted to
-make them grow more quickly.                                                                                    |
-| 529     | 19               | 11          | みずを　かける　道具。
-土に　うめた　きのみを
-すくすく　育てる。                                                                                                                                  |
-| 529     | 19               | 12          | 浇水的道具。
-能让埋在土壤里的
-树果快快长大。                                                                                                                                            |
-| 529     | 20               | 1           | みずを　かける　どうぐ。
-つちに　うめた　きのみを
-すくすく　そだてる。                                                                                                                               |
-| 529     | 20               | 3           | 물을 주는 도구.
-땅에 심은 나무열매를
-쑥쑥 키운다.                                                                                                                                      |
-| 529     | 20               | 4           | 澆水的器具。
-能讓埋在土壤裡的
-樹果快快長大。                                                                                                                                            |
-| 529     | 20               | 5           | Sert à arroser les Baies plantées dans le sol.                                                                                                                     |
-| 529     | 20               | 6           | Eine Gießkanne. Gießt du mit ihr im Boden
-angepflanzte Beeren, wachsen sie schneller.                                                                              |
-| 529     | 20               | 7           | Regadera con forma de Wailmer. Muy útil para que
-crezcan las bayas plantadas.                                                                                      |
-| 529     | 20               | 8           | Annaffiatoio a forma di Wailmer che aiuta a far
-crescere rigogliose le piantine di bacche.                                                                         |
-| 529     | 20               | 9           | This is a tool for watering Berries you planted to
-make them grow more quickly.                                                                                    |
-| 529     | 20               | 11          | みずを　かける　道具。
-土に　うめた　きのみを
-すくすく　育てる。                                                                                                                                  |
-| 529     | 20               | 12          | 浇水的道具。
-能让埋在土壤里的
-树果快快长大。                                                                                                                                            |
-| 530     | 5                | 9           | A package that
-contains DEVON’s
-machine parts.                                                                                                                     |
-| 530     | 6                | 9           | A package that
-contains DEVON’s
-machine parts.                                                                                                                     |
-| 530     | 7                | 9           | A package that contains mechanical
-parts of some sort made by the
-DEVON CORPORATION.                                                                               |
-| 531     | 5                | 9           | A sack used to
-gather and hold
-volcanic ash.                                                                                                                       |
-| 531     | 6                | 9           | A sack used to
-gather and hold
-volcanic ash.                                                                                                                       |
-| 531     | 7                | 9           | A sack used to collect volcanic
-ash automatically during walks
-over deep ash.                                                                                      |
-| 531     | 17               | 1           | つもった　かざんばいを
-あつめるための　ふくろ。                                                                                                                                           |
-| 531     | 17               | 3           | 쌓인 화산재를
-모으기 위한 주머니.                                                                                                                                                |
-| 531     | 17               | 4           | 用於收集堆積的
-火山灰的袋子。                                                                                                                                                    |
-| 531     | 17               | 5           | Un sac utilisé pour ramasser les cendres
-volcaniques accumulées au sol.                                                                                            |
-| 531     | 17               | 6           | Eine Tasche, mit der du herabgerieselte
-Vulkanasche aufsammeln kannst.                                                                                             |
-| 531     | 17               | 7           | Bolsa en la que recoger la ceniza de volcán
-sedimentada en el suelo.                                                                                               |
-| 531     | 17               | 8           | Sacco per raccogliere la cenere vulcanica.                                                                                                                         |
-| 531     | 17               | 9           | A sack used to gather and hold volcanic ash.                                                                                                                       |
-| 531     | 17               | 11          | つもった　かざんばいを
-集めるための　ふくろ。                                                                                                                                            |
-| 531     | 17               | 12          | 将堆积起来的火山灰
-收集起来的袋子。                                                                                                                                                 |
-| 531     | 18               | 1           | つもった　かざんばいを
-あつめるための　ふくろ。                                                                                                                                           |
-| 531     | 18               | 3           | 쌓인 화산재를
-모으기 위한 주머니.                                                                                                                                                |
-| 531     | 18               | 4           | 用於收集堆積的
-火山灰的袋子。                                                                                                                                                    |
-| 531     | 18               | 5           | Un sac utilisé pour ramasser les cendres
-volcaniques accumulées au sol.                                                                                            |
-| 531     | 18               | 6           | Eine Tasche, mit der du herabgerieselte
-Vulkanasche aufsammeln kannst.                                                                                             |
-| 531     | 18               | 7           | Bolsa en la que recoger la ceniza de volcán
-sedimentada en el suelo.                                                                                               |
-| 531     | 18               | 8           | Sacco per raccogliere la cenere vulcanica.                                                                                                                         |
-| 531     | 18               | 9           | A sack used to gather and hold volcanic ash.                                                                                                                       |
-| 531     | 18               | 11          | つもった　かざんばいを
-集めるための　ふくろ。                                                                                                                                            |
-| 531     | 18               | 12          | 将堆积起来的火山灰
-收集起来的袋子。                                                                                                                                                 |
-| 531     | 19               | 1           | つもった　かざんばいを
-あつめるための　ふくろ。                                                                                                                                           |
-| 531     | 19               | 3           | 쌓인 화산재를
-모으기 위한 주머니.                                                                                                                                                |
-| 531     | 19               | 4           | 用於收集堆積的
-火山灰的袋子。                                                                                                                                                    |
-| 531     | 19               | 5           | Un sac utilisé pour ramasser les cendres volcaniques
-accumulées au sol.                                                                                            |
-| 531     | 19               | 6           | Eine Tasche, mit der du herabgerieselte
-Vulkanasche aufsammeln kannst.                                                                                             |
-| 531     | 19               | 7           | Bolsa en la que recoger la ceniza de volcán
-sedimentada en el suelo.                                                                                               |
-| 531     | 19               | 8           | Sacco per raccogliere la cenere vulcanica.                                                                                                                         |
-| 531     | 19               | 9           | A sack used to gather and hold volcanic ash.                                                                                                                       |
-| 531     | 19               | 11          | つもった　かざんばいを
-集めるための　ふくろ。                                                                                                                                            |
-| 531     | 19               | 12          | 将堆积起来的火山灰
-收集起来的袋子。                                                                                                                                                 |
-| 531     | 20               | 1           | つもった　かざんばいを
-あつめるための　ふくろ。                                                                                                                                           |
-| 531     | 20               | 3           | 쌓인 화산재를
-모으기 위한 주머니.                                                                                                                                                |
-| 531     | 20               | 4           | 用於收集堆積的
-火山灰的袋子。                                                                                                                                                    |
-| 531     | 20               | 5           | Un sac utilisé pour ramasser les cendres volcaniques
-accumulées au sol.                                                                                            |
-| 531     | 20               | 6           | Eine Tasche, mit der du herabgerieselte Vulkanasche
-aufsammeln kannst.                                                                                             |
-| 531     | 20               | 7           | Bolsa en la que recoger la ceniza de volcán
-sedimentada en el suelo.                                                                                               |
-| 531     | 20               | 8           | Sacco per raccogliere la cenere vulcanica.                                                                                                                         |
-| 531     | 20               | 9           | A sack used to gather and hold volcanic ash.                                                                                                                       |
-| 531     | 20               | 11          | つもった　かざんばいを
-集めるための　ふくろ。                                                                                                                                            |
-| 531     | 20               | 12          | 将堆积起来的火山灰
-收集起来的袋子。                                                                                                                                                 |
-| 532     | 5                | 9           | A case for holding
-POKéBLOCKS made with
-a BERRY BLENDER.                                                                                                           |
-| 532     | 6                | 9           | A case for holding
-POKéBLOCKS made with
-a BERRY BLENDER.                                                                                                           |
-| 532     | 7                | 9           | A case for holding POKéBLOCKS made
-with a BERRY BLENDER. It releases
-one POKéBLOCK when shaken.                                                                    |
-| 533     | 5                | 9           | A letter to STEVEN
-from the PRESIDENT
-of the DEVON CORP.                                                                                                           |
-| 533     | 6                | 9           | A letter to STEVEN
-from the PRESIDENT
-of the DEVON CORP.                                                                                                           |
-| 533     | 7                | 9           | An extremely important letter to
-STEVEN from the PRESIDENT of the
-DEVON CORPORATION.                                                                               |
-| 533     | 17               | 1           | デボンしゃちょうから
-あずかった　てがみ。                                                                                                                                              |
-| 533     | 17               | 3           | 데봉사장이
-맡긴 편지.                                                                                                                                                       |
-| 533     | 17               | 4           | 得文社長託付的信。                                                                                                                                                          |
-| 533     | 17               | 5           | Une lettre confiée par le directeur de Devon.                                                                                                                      |
-| 533     | 17               | 6           | Ein Brief, den du im Namen des Präsidenten der
-Devon Corporation an Troy aushändigen sollst.                                                                       |
-| 533     | 17               | 7           | Carta que te ha confiado el presidente de
-Devon S. A.                                                                                                              |
-| 533     | 17               | 8           | Lettera che ti è stata affidata dal direttore
-della Devon.                                                                                                         |
-| 533     | 17               | 9           | An extremely important letter to Steven from the
-President of Devon Corporation.                                                                                   |
-| 533     | 17               | 11          | デボン社長から
-あずかった　手紙。                                                                                                                                                  |
-| 533     | 17               | 12          | 从得文社长
-那里得到的信。                                                                                                                                                      |
-| 533     | 18               | 1           | デボンしゃちょうから
-あずかった　てがみ。                                                                                                                                              |
-| 533     | 18               | 3           | 데봉사장이
-맡긴 편지.                                                                                                                                                       |
-| 533     | 18               | 4           | 得文社長託付的信。                                                                                                                                                          |
-| 533     | 18               | 5           | Une lettre confiée par le directeur de Devon.                                                                                                                      |
-| 533     | 18               | 6           | Ein Brief, den du im Namen des Präsidenten der
-Devon Corporation an Troy aushändigen sollst.                                                                       |
-| 533     | 18               | 7           | Carta que te ha confiado el presidente de
-Devon S. A.                                                                                                              |
-| 533     | 18               | 8           | Lettera che ti è stata affidata dal direttore
-della Devon.                                                                                                         |
-| 533     | 18               | 9           | An extremely important letter to Steven from the
-President of Devon Corporation.                                                                                   |
-| 533     | 18               | 11          | デボン社長から
-あずかった　手紙。                                                                                                                                                  |
-| 533     | 18               | 12          | 从得文社长
-那里得到的信。                                                                                                                                                      |
-| 533     | 19               | 1           | デボンしゃちょうから
-あずかった　てがみ。                                                                                                                                              |
-| 533     | 19               | 3           | 데봉사장이
-맡긴 편지.                                                                                                                                                       |
-| 533     | 19               | 4           | 得文社長託付的信。                                                                                                                                                          |
-| 533     | 19               | 5           | Une lettre confiée par le directeur de Devon.                                                                                                                      |
-| 533     | 19               | 6           | Ein Brief, den du im Namen des Präsidenten der
-Devon Corporation an Troy aushändigen sollst.                                                                       |
-| 533     | 19               | 7           | Carta que te ha confiado el presidente de Devon S. A.                                                                                                              |
-| 533     | 19               | 8           | Lettera che ti è stata affidata dal direttore
-della Devon.                                                                                                         |
-| 533     | 19               | 9           | An extremely important letter to Steven from
-the president of Devon Corporation.                                                                                   |
-| 533     | 19               | 11          | デボン社長から
-あずかった　手紙。                                                                                                                                                  |
-| 533     | 19               | 12          | 从得文社长
-那里得到的信。                                                                                                                                                      |
-| 533     | 20               | 1           | デボンしゃちょうから
-あずかった　てがみ。                                                                                                                                              |
-| 533     | 20               | 3           | 데봉사장이
-맡긴 편지.                                                                                                                                                       |
-| 533     | 20               | 4           | 得文社長託付的信。                                                                                                                                                          |
-| 533     | 20               | 5           | Une lettre confiée par le directeur de Devon.                                                                                                                      |
-| 533     | 20               | 6           | Ein Brief, den du im Namen des Präsidenten der
-Devon Corporation an Troy aushändigen sollst.                                                                       |
-| 533     | 20               | 7           | Carta que te ha confiado el presidente de Devon S. A.                                                                                                              |
-| 533     | 20               | 8           | Lettera che ti è stata affidata dal direttore
-della Devon.                                                                                                         |
-| 533     | 20               | 9           | An extremely important letter to Steven from
-the president of Devon Corporation.                                                                                   |
-| 533     | 20               | 11          | デボン社長から
-あずかった　手紙。                                                                                                                                                  |
-| 533     | 20               | 12          | 从得文社长
-那里得到的信。                                                                                                                                                      |
-| 534     | 5                | 9           | The ticket for a
-ferry to a distant
-southern island.                                                                                                               |
-| 534     | 6                | 9           | The ticket for a
-ferry to a distant
-southern island.                                                                                                               |
-| 534     | 7                | 9           | The ticket required for sailing on a
-ferry to a distant southern island.
-It features a drawing of an island.                                                       |
-| 534     | 17               | 1           | みなみのことうへ　いく　ふねの
-チケット。トウカジムの　ジムリーダー
-センリが　ひみつを　しっている！？                                                                                                               |
-| 534     | 17               | 3           | 남쪽의 외딴섬으로 가는 배의
-승선티켓. 등화체육관 관장
-종길이 비밀을 알고 있다!?                                                                                                                     |
-| 534     | 17               | 4           | 前往南方孤島的船票。
-橙華道館的館主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 17               | 5           | Un billet de ferry pour l’Île du Sud.
-Norman, le Champion de l’Arène de Clémenti-Ville,
-semble savoir quelque chose à son sujet.                                   |
-| 534     | 17               | 6           | Ein Bootsticket, mit dem du zu einer fernen Insel im
-Süden schippern kannst. Kennt der Arenaleiter von
-Blütenburg, Norman, ein Geheimnis?!                         |
-| 534     | 17               | 7           | Billete de barco para viajar a Isla del Sur.
-Es posible que Norman, Líder del Gimnasio de
-Ciudad Petalia, sepa algo al respecto.                                   |
-| 534     | 17               | 8           | Biglietto per il traghetto che porta all’Isola Remota.
-Norman, il Capopalestra di Petalipoli, dovrebbe
-sapere come usarlo.                                         |
-| 534     | 17               | 9           | The ticket required for sailing on a ferry to the
-Southern Island. Does Norman, the Petalburg Gym
-Leader, know a secret?!                                          |
-| 534     | 17               | 11          | 南の孤島へ　行く　船の
-チケット。トウカジムの　ジムリーダー
-センリが　秘密を　知っている！？                                                                                                                    |
-| 534     | 17               | 12          | 前往南方孤岛的船票。
-橙华道馆的馆主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 18               | 1           | みなみのことうへ　いく　ふねの
-チケット。トウカジムの　ジムリーダー
-センリが　ひみつを　しっている！？                                                                                                               |
-| 534     | 18               | 3           | 남쪽의 외딴섬으로 가는 배의
-승선티켓. 등화체육관 관장
-종길이 비밀을 알고 있다!?                                                                                                                     |
-| 534     | 18               | 4           | 前往南方孤島的船票。
-橙華道館的館主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 18               | 5           | Un billet de ferry pour l’Île du Sud.
-Norman, le Champion de l’Arène de Clémenti-Ville,
-semble savoir quelque chose à son sujet.                                   |
-| 534     | 18               | 6           | Ein Bootsticket, mit dem du zu einer fernen Insel im
-Süden schippern kannst. Kennt der Arenaleiter von
-Blütenburg, Norman, ein Geheimnis?!                         |
-| 534     | 18               | 7           | Billete de barco para viajar a Isla del Sur.
-Es posible que Norman, Líder del Gimnasio de
-Ciudad Petalia, sepa algo al respecto.                                   |
-| 534     | 18               | 8           | Biglietto per il traghetto che porta all’Isola Remota.
-Norman, il Capopalestra di Petalipoli, dovrebbe
-sapere come usarlo.                                         |
-| 534     | 18               | 9           | The ticket required for sailing on a ferry to the
-Southern Island. Does Norman, the Petalburg Gym
-Leader, know a secret?!                                          |
-| 534     | 18               | 11          | 南の孤島へ　行く　船の
-チケット。トウカジムの　ジムリーダー
-センリが　秘密を　知っている！？                                                                                                                    |
-| 534     | 18               | 12          | 前往南方孤岛的船票。
-橙华道馆的馆主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 19               | 1           | みなみのことうへ　いく　ふねの
-チケット。トウカジムの　ジムリーダー
-センリが　ひみつを　しっている！？                                                                                                               |
-| 534     | 19               | 3           | 남쪽의 외딴섬으로 가는 배의
-승선티켓. 등화체육관 관장
-종길이 비밀을 알고 있다!?                                                                                                                     |
-| 534     | 19               | 4           | 前往南方孤島的船票。
-橙華道館的館主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 19               | 5           | Un billet de ferry pour l’Île du Sud.
-Norman, le Champion de l’Arène de Clémenti-Ville,
-semble savoir quelque chose à son sujet.                                   |
-| 534     | 19               | 6           | Ein Bootsticket, mit dem du zu einer fernen Insel im
-Süden schippern kannst. Kennt der Arenaleiter von
-Blütenburg, Norman, ein Geheimnis?!                         |
-| 534     | 19               | 7           | Billete de barco para viajar a Isla del Sur.
-Es posible que Norman, Líder de Gimnasio de
-Ciudad Petalia, sepa algo al respecto.                                    |
-| 534     | 19               | 8           | Biglietto per il traghetto che porta all’Isola Remota.
-Norman, il Capopalestra di Petalipoli, dovrebbe
-sapere come usarlo.                                         |
-| 534     | 19               | 9           | The ticket required for sailing on a ferry to the
-Southern Island. Does Norman, the Petalburg Gym
-Leader, know a secret?!                                          |
-| 534     | 19               | 11          | 南の孤島へ　行く　船の
-チケット。トウカジムの　ジムリーダー
-センリが　秘密を　知っている！？                                                                                                                    |
-| 534     | 19               | 12          | 前往南方孤岛的船票。
-橙华道馆的馆主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 20               | 1           | みなみのことうへ　いく　ふねの
-チケット。トウカジムの　ジムリーダー
-センリが　ひみつを　しっている！？                                                                                                               |
-| 534     | 20               | 3           | 남쪽의 외딴섬으로 가는 배의
-승선티켓. 등화체육관 관장
-종길이 비밀을 알고 있다!?                                                                                                                     |
-| 534     | 20               | 4           | 前往南方孤島的船票。
-橙華道館的館主千里
-知道其中的秘密！？                                                                                                                                     |
-| 534     | 20               | 5           | Un billet de ferry pour l’Île du Sud.
-Norman, le Champion de l’Arène de Clémenti-Ville,
-semble savoir quelque chose à son sujet.                                   |
-| 534     | 20               | 6           | Ein Bootsticket, mit dem du zu einer fernen Insel im
-Süden schippern kannst. Kennt der Arenaleiter von
-Blütenburg, Norman, ein Geheimnis?!                         |
-| 534     | 20               | 7           | Billete de barco para viajar a Isla del Sur. Es posible que
-Norman, Líder de Gimnasio de Ciudad Petalia, sepa
-algo al respecto.                                    |
-| 534     | 20               | 8           | Biglietto per il traghetto che porta all’Isola Remota.
-Norman, il Capopalestra di Petalipoli, dovrebbe
-sapere come usarlo.                                         |
-| 534     | 20               | 9           | The ticket required for sailing on a ferry to the
-Southern Island. Does Norman, the Petalburg Gym
-Leader, know a secret?!                                          |
-| 534     | 20               | 11          | 南の孤島へ　行く　船の
-チケット。トウカジムの　ジムリーダー
-センリが　秘密を　知っている！？                                                                                                                    |
-| 534     | 20               | 12          | 前往南方孤岛的船票。
-橙华道馆的馆主千里
-知道其中的秘密！？                                                                                                                                     |
-| 535     | 5                | 9           | A device found
-inside the
-ABANDONED SHIP.                                                                                                                          |
-| 535     | 6                | 9           | A device found
-inside the
-ABANDONED SHIP.                                                                                                                          |
-| 535     | 7                | 9           | A device used to search for
-life-forms in water.
-It looks too difficult to use.                                                                                    |
-| 535     | 17               | 1           | シーキンセツの　なかで
-みつけた　どうぐ。                                                                                                                                              |
-| 535     | 17               | 3           | 씨보라 안에서
-발견한 도구.                                                                                                                                                    |
-| 535     | 17               | 4           | 在海紫菫中
-找到的道具。                                                                                                                                                       |
-| 535     | 17               | 5           | Un objet trouvé à Lavandia Sea.                                                                                                                                    |
-| 535     | 17               | 6           | Ein Gerät, das du in Seewoge Malvenfroh gefunden
-hast.                                                                                                             |
-| 535     | 17               | 7           | Objeto hallado en el interior de Malvamar.                                                                                                                         |
-| 535     | 17               | 8           | Dispositivo trovato nella scogliera artificiale
-Ciclamare.                                                                                                         |
-| 535     | 17               | 9           | A device found inside Sea Mauville.                                                                                                                                |
-| 535     | 17               | 11          | シーキンセツの　中で
-みつけた　道具。                                                                                                                                                |
-| 535     | 17               | 12          | 在海紫堇中
-找到的道具。                                                                                                                                                       |
-| 535     | 18               | 1           | シーキンセツの　なかで
-みつけた　どうぐ。                                                                                                                                              |
-| 535     | 18               | 3           | 씨보라 안에서
-발견한 도구.                                                                                                                                                    |
-| 535     | 18               | 4           | 在海紫菫中
-找到的道具。                                                                                                                                                       |
-| 535     | 18               | 5           | Un objet trouvé à Lavandia Sea.                                                                                                                                    |
-| 535     | 18               | 6           | Ein Gerät, das du in Seewoge Malvenfroh gefunden
-hast.                                                                                                             |
-| 535     | 18               | 7           | Objeto hallado en el interior de Malvamar.                                                                                                                         |
-| 535     | 18               | 8           | Dispositivo trovato nella scogliera artificiale
-Ciclamare.                                                                                                         |
-| 535     | 18               | 9           | A device found inside Sea Mauville.                                                                                                                                |
-| 535     | 18               | 11          | シーキンセツの　中で
-みつけた　道具。                                                                                                                                                |
-| 535     | 18               | 12          | 在海紫堇中
-找到的道具。                                                                                                                                                       |
-| 535     | 19               | 1           | シーキンセツの　なかで
-みつけた　どうぐ。                                                                                                                                              |
-| 535     | 19               | 3           | 씨보라 안에서
-발견한 도구.                                                                                                                                                    |
-| 535     | 19               | 4           | 在海紫菫中
-找到的道具。                                                                                                                                                       |
-| 535     | 19               | 5           | Un objet trouvé à Lavandia Sea.                                                                                                                                    |
-| 535     | 19               | 6           | Ein Gerät, das du in Seewoge Malvenfroh gefunden
-hast.                                                                                                             |
-| 535     | 19               | 7           | Objeto hallado en el interior de Malvamar.                                                                                                                         |
-| 535     | 19               | 8           | Dispositivo trovato nella scogliera artificiale
-Ciclamare.                                                                                                         |
-| 535     | 19               | 9           | A device found inside Sea Mauville.                                                                                                                                |
-| 535     | 19               | 11          | シーキンセツの　中で
-みつけた　道具。                                                                                                                                                |
-| 535     | 19               | 12          | 在海紫堇中
-找到的道具。                                                                                                                                                       |
-| 535     | 20               | 1           | シーキンセツの　なかで
-みつけた　どうぐ。                                                                                                                                              |
-| 535     | 20               | 3           | 씨보라 안에서
-발견한 도구.                                                                                                                                                    |
-| 535     | 20               | 4           | 在海紫菫中
-找到的道具。                                                                                                                                                       |
-| 535     | 20               | 5           | Un objet trouvé à Lavandia Sea.                                                                                                                                    |
-| 535     | 20               | 6           | Ein Gerät, das du in Seewoge Malvenfroh gefunden
-hast.                                                                                                             |
-| 535     | 20               | 7           | Objeto hallado en el interior de Malvamar.                                                                                                                         |
-| 535     | 20               | 8           | Dispositivo trovato nella scogliera artificiale
-Ciclamare.                                                                                                         |
-| 535     | 20               | 9           | A device found inside Sea Mauville.                                                                                                                                |
-| 535     | 20               | 11          | シーキンセツの　中で
-みつけた　道具。                                                                                                                                                |
-| 535     | 20               | 12          | 在海紫堇中
-找到的道具。                                                                                                                                                       |
-| 536     | 5                | 9           | Nifty goggles that
-protect eyes from
-desert sandstorms.                                                                                                            |
-| 536     | 6                | 9           | Nifty goggles that
-protect eyes from
-desert sandstorms.                                                                                                            |
-| 536     | 7                | 9           | A pair of protective goggles.
-They enable a TRAINER to travel
-through even desert sandstorms.                                                                      |
-| 536     | 17               | 1           | さばくの　すなあらしから
-めを　まもって　くれる
-すてきな　ゴーグル。                                                                                                                                |
-| 536     | 17               | 3           | 사막의 모래바람으로부터
-눈을 보호해주는
-근사한 고글.                                                                                                                                      |
-| 536     | 17               | 4           | 能在沙漠的沙暴中
-保護眼睛的出色護目鏡。                                                                                                                                               |
-| 536     | 17               | 5           | Une paire de lunettes bien pratique qui protège
-les yeux en cas de tempête de sable dans
-le désert.                                                                |
-| 536     | 17               | 6           | Eine schicke Brille, die deine Augen vor
-Sandstürmen schützt.                                                                                                      |
-| 536     | 17               | 7           | Gafas idóneas para protegerte los ojos de las
-tormentas de arena del desierto.                                                                                     |
-| 536     | 17               | 8           | Occhiali indispensabili per proteggersi dalle
-tempeste di sabbia.                                                                                                  |
-| 536     | 17               | 9           | Nifty goggles to protect eyes from
-desert sandstorms.                                                                                                              |
-| 536     | 17               | 11          | 砂漠の　すなあらしから
-目を　守ってくれる
-すてきな　ゴーグル。                                                                                                                                   |
-| 536     | 17               | 12          | 能在沙漠的沙暴中
-保护眼睛的出色护目镜。                                                                                                                                               |
-| 536     | 18               | 1           | さばくの　すなあらしから
-めを　まもって　くれる
-すてきな　ゴーグル。                                                                                                                                |
-| 536     | 18               | 3           | 사막의 모래바람으로부터
-눈을 보호해주는
-근사한 고글.                                                                                                                                      |
-| 536     | 18               | 4           | 能在沙漠的沙暴中
-保護眼睛的出色護目鏡。                                                                                                                                               |
-| 536     | 18               | 5           | Une paire de lunettes bien pratique qui protège
-les yeux en cas de tempête de sable dans
-le désert.                                                                |
-| 536     | 18               | 6           | Eine schicke Brille, die deine Augen vor
-Sandstürmen schützt.                                                                                                      |
-| 536     | 18               | 7           | Gafas idóneas para protegerte los ojos de las
-tormentas de arena del desierto.                                                                                     |
-| 536     | 18               | 8           | Occhiali indispensabili per proteggersi dalle
-tempeste di sabbia.                                                                                                  |
-| 536     | 18               | 9           | Nifty goggles to protect eyes from
-desert sandstorms.                                                                                                              |
-| 536     | 18               | 11          | 砂漠の　すなあらしから
-目を　守ってくれる
-すてきな　ゴーグル。                                                                                                                                   |
-| 536     | 18               | 12          | 能在沙漠的沙暴中
-保护眼睛的出色护目镜。                                                                                                                                               |
-| 536     | 19               | 1           | さばくの　すなあらしから
-めを　まもって　くれる
-すてきな　ゴーグル。                                                                                                                                |
-| 536     | 19               | 3           | 사막의 모래바람으로부터
-눈을 보호해주는
-근사한 고글.                                                                                                                                      |
-| 536     | 19               | 4           | 能在沙漠的沙暴中
-保護眼睛的出色護目鏡。                                                                                                                                               |
-| 536     | 19               | 5           | Une paire de lunettes bien pratique qui protège
-les yeux en cas de tempête de sable dans le désert.                                                                |
-| 536     | 19               | 6           | Eine schicke Brille, die deine Augen vor
-Sandstürmen schützt.                                                                                                      |
-| 536     | 19               | 7           | Gafas idóneas para protegerte los ojos de las
-tormentas de arena del desierto.                                                                                     |
-| 536     | 19               | 8           | Occhiali indispensabili per proteggersi dalle
-tempeste di sabbia.                                                                                                  |
-| 536     | 19               | 9           | Nifty goggles to protect eyes from
-desert sandstorms.                                                                                                              |
-| 536     | 19               | 11          | 砂漠の　すなあらしから
-目を　守ってくれる
-すてきな　ゴーグル。                                                                                                                                   |
-| 536     | 19               | 12          | 能在沙漠的沙暴中
-保护眼睛的出色护目镜。                                                                                                                                               |
-| 536     | 20               | 1           | さばくの　すなあらしから
-めを　まもって　くれる
-すてきな　ゴーグル。                                                                                                                                |
-| 536     | 20               | 3           | 사막의 모래바람으로부터
-눈을 보호해주는
-근사한 고글.                                                                                                                                      |
-| 536     | 20               | 4           | 能在沙漠的沙暴中
-保護眼睛的出色護目鏡。                                                                                                                                               |
-| 536     | 20               | 5           | Une paire de lunettes bien pratique qui protège
-les yeux en cas de tempête de sable dans le désert.                                                                |
-| 536     | 20               | 6           | Eine schicke Brille, die deine Augen vor Sandstürmen
-schützt.                                                                                                      |
-| 536     | 20               | 7           | Gafas idóneas para protegerte los ojos de las tormentas
-de arena del desierto.                                                                                     |
-| 536     | 20               | 8           | Occhiali indispensabili per proteggersi dalle
-tempeste di sabbia.                                                                                                  |
-| 536     | 20               | 9           | Nifty goggles to protect eyes from
-desert sandstorms.                                                                                                              |
-| 536     | 20               | 11          | 砂漠の　すなあらしから
-目を　守ってくれる
-すてきな　ゴーグル。                                                                                                                                   |
-| 536     | 20               | 12          | 能在沙漠的沙暴中
-保护眼睛的出色护目镜。                                                                                                                                               |
-| 537     | 5                | 9           | A meteorite found
-at METEOR FALLS.                                                                                                                                 |
-| 537     | 6                | 9           | A meteorite found
-at METEOR FALLS.                                                                                                                                 |
-| 537     | 7                | 9           | A meteorite that fell from space
-onto MT. MOON long ago.
-It is very lumpy and hard.                                                                                |
-| 537     | 17               | 1           | もともとは　りゅうせいのたきに
-おちていた　いんせき。
-えんとつやまで　てにいれた。                                                                                                                         |
-| 537     | 17               | 3           | 원래는 유성의 폭포에
-떨어져 있던 운석이다.
-굴뚝산에서 손에 넣었다.                                                                                                                             |
-| 537     | 17               | 4           | 原為墜落在
-流星瀑布裡的隕石。
-在煙囪山得到了它。                                                                                                                                          |
-| 537     | 17               | 5           | Une météorite qui s’est écrasée sur le Site
-Météore, trouvée au Mont Chimnée.                                                                                      |
-| 537     | 17               | 6           | Ein Meteorit, der ursprünglich bei den Meteorfällen
-eingeschlagen ist. Du hast ihn beim Schlotberg
-erhalten.                                                       |
-| 537     | 17               | 7           | Meteorito obtenido en el Monte Cenizo que antes
-se encontraba en la Cascada Meteoro.                                                                               |
-| 537     | 17               | 8           | Meteorite proveniente dalle Cascate Meteora.
-Puoi ottenerlo sul Monte Camino.                                                                                      |
-| 537     | 17               | 9           | A Meteorite originally found at Meteor Falls.
-You got it at Mt. Chimney.                                                                                           |
-| 537     | 17               | 11          | 元々は　流星の滝に
-落ちていた　いんせき。
-えんとつ山で　手に入れた。                                                                                                                                |
-| 537     | 17               | 12          | 原本是落入流星瀑布里的陨石。
-是在烟囱山获得的。                                                                                                                                           |
-| 537     | 18               | 1           | もともとは　りゅうせいのたきに
-おちていた　いんせき。
-えんとつやまで　てにいれた。                                                                                                                         |
-| 537     | 18               | 3           | 원래는 유성의 폭포에
-떨어져 있던 운석이다.
-굴뚝산에서 손에 넣었다.                                                                                                                             |
-| 537     | 18               | 4           | 原為墜落在
-流星瀑布裡的隕石。
-在煙囪山得到了它。                                                                                                                                          |
-| 537     | 18               | 5           | Une météorite qui s’est écrasée sur le Site
-Météore, trouvée au Mont Chimnée.                                                                                      |
-| 537     | 18               | 6           | Ein Meteorit, der ursprünglich bei den Meteorfällen
-eingeschlagen ist. Du hast ihn beim Schlotberg
-erhalten.                                                       |
-| 537     | 18               | 7           | Meteorito obtenido en el Monte Cenizo que antes
-se encontraba en la Cascada Meteoro.                                                                               |
-| 537     | 18               | 8           | Meteorite proveniente dalle Cascate Meteora.
-Puoi ottenerlo sul Monte Camino.                                                                                      |
-| 537     | 18               | 9           | A Meteorite originally found at Meteor Falls.
-You got it at Mt. Chimney.                                                                                           |
-| 537     | 18               | 11          | 元々は　流星の滝に
-落ちていた　いんせき。
-えんとつ山で　手に入れた。                                                                                                                                |
-| 537     | 18               | 12          | 原本是落入流星瀑布里的陨石。
-是在烟囱山获得的。                                                                                                                                           |
-| 537     | 19               | 1           | もともとは　りゅうせいのたきに
-おちていた　いんせき。
-えんとつやまで　てにいれた。                                                                                                                         |
-| 537     | 19               | 3           | 원래는 유성의 폭포에
-떨어져 있던 운석이다.
-굴뚝산에서 손에 넣었다.                                                                                                                             |
-| 537     | 19               | 4           | 原為墜落在
-流星瀑布裡的隕石。
-在煙囪山得到了它。                                                                                                                                          |
-| 537     | 19               | 5           | Une météorite qui s’est écrasée sur le Site Météore,
-trouvée au Mont Chimnée.                                                                                      |
-| 537     | 19               | 6           | Ein Meteorit, der ursprünglich bei den Meteorfällen
-eingeschlagen ist. Du hast ihn beim Schlotberg
-erhalten.                                                       |
-| 537     | 19               | 7           | Meteorito obtenido en el Monte Cenizo que antes
-se encontraba en la Cascada Meteoro.                                                                               |
-| 537     | 19               | 8           | Meteorite proveniente dalle Cascate Meteora.
-Puoi ottenerlo sul Monte Camino.                                                                                      |
-| 537     | 19               | 9           | A Meteorite originally found at Meteor Falls.
-You got it at Mt. Chimney.                                                                                           |
-| 537     | 19               | 11          | 元々は　流星の滝に
-落ちていた　いんせき。
-えんとつ山で　手に入れた。                                                                                                                                |
-| 537     | 19               | 12          | 原本是落入流星瀑布里的陨石。
-是在烟囱山获得的。                                                                                                                                           |
-| 537     | 20               | 1           | もともとは　りゅうせいのたきに
-おちていた　いんせき。
-えんとつやまで　てにいれた。                                                                                                                         |
-| 537     | 20               | 3           | 원래는 유성의 폭포에
-떨어져 있던 운석이다.
-굴뚝산에서 손에 넣었다.                                                                                                                             |
-| 537     | 20               | 4           | 原為墜落在
-流星瀑布裡的隕石。
-在煙囪山得到了它。                                                                                                                                          |
-| 537     | 20               | 5           | Une météorite qui s’est écrasée sur le Site Météore,
-trouvée au Mont Chimnée.                                                                                      |
-| 537     | 20               | 6           | Ein Meteorit, der ursprünglich bei den Meteorfällen
-eingeschlagen ist. Du hast ihn beim Schlotberg erhalten.                                                       |
-| 537     | 20               | 7           | Meteorito obtenido en el Monte Cenizo que antes se
-encontraba en la Cascada Meteoro.                                                                               |
-| 537     | 20               | 8           | Meteorite proveniente dalle Cascate Meteora.
-Puoi ottenerlo sul Monte Camino.                                                                                      |
-| 537     | 20               | 9           | A Meteorite originally found at Meteor Falls.
-You got it at Mt. Chimney.                                                                                           |
-| 537     | 20               | 11          | 元々は　流星の滝に
-落ちていた　いんせき。
-えんとつ山で　手に入れた。                                                                                                                                |
-| 537     | 20               | 12          | 原本是落入流星瀑布里的陨石。
-是在烟囱山获得的。                                                                                                                                           |
-| 538     | 5                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 538     | 6                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 538     | 7                | 9           | A key that opens the door to Room
-1 inside the ABANDONED SHIP.
-It is old and looks easily broken.                                                                  |
-| 539     | 5                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 539     | 6                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 539     | 7                | 9           | A key that opens the door to Room
-2 inside the ABANDONED SHIP.
-It is old and looks easily broken.                                                                  |
-| 540     | 5                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 540     | 6                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 540     | 7                | 9           | A key that opens the door to Room
-4 inside the ABANDONED SHIP.
-It is old and looks easily broken.                                                                  |
-| 541     | 5                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 541     | 6                | 9           | A key that opens a
-door inside the
-ABANDONED SHIP.                                                                                                                 |
-| 541     | 7                | 9           | A key that opens the door to Room
-6 inside the ABANDONED SHIP.
-It is old and looks easily broken.                                                                  |
-| 542     | 5                | 9           | A device by DEVON
-that signals any
-unseeable POKéMON.                                                                                                              |
-| 542     | 6                | 9           | A device by DEVON
-that signals any
-unseeable POKéMON.                                                                                                              |
-| 542     | 7                | 9           | A scope that signals the presence
-of any unseeable POKéMON.
-It is made by the DEVON CORP.                                                                          |
-| 542     | 17               | 1           | みえない　ポケモンに
-はんのうして　おとをだす
-デボンの　とくせいひん。                                                                                                                               |
-| 542     | 17               | 3           | 보이지 않는 포켓몬에
-반응하여 소리를 내는
-데봉의 특제품.                                                                                                                                   |
-| 542     | 17               | 4           | 會對看不見的寶可夢起反應，
-並發出聲音的得文特製產品。                                                                                                                                        |
-| 542     | 17               | 5           | Ce produit en série limitée de Devon émet
-un signal sonore pour signaler la présence
-de Pokémon invisibles.                                                        |
-| 542     | 17               | 6           | Ein von der Devon Corporation hergestelltes Gerät,
-das mit einem Signalton auf unsichtbare Pokémon
-reagiert.                                                       |
-| 542     | 17               | 7           | Artilugio creado por Devon S. A. que reacciona
-a la presencia de Pokémon invisibles emitiendo
-sonidos.                                                             |
-| 542     | 17               | 8           | Congegno prodotto dalla Devon che rileva
-la presenza di Pokémon nascosti emettendo
-un segnale sonoro.                                                              |
-| 542     | 17               | 9           | A special device made by Devon Corporation that
-signals the presence of any unseen Pokémon.                                                                        |
-| 542     | 17               | 11          | 見えない　ポケモンに
-反応して　音をだす
-デボンの　特製品。                                                                                                                                     |
-| 542     | 17               | 12          | 会对看不见的宝可梦起反应，
-并发出声音的得文特制产品。                                                                                                                                        |
-| 542     | 18               | 1           | みえない　ポケモンに
-はんのうして　おとをだす
-デボンの　とくせいひん。                                                                                                                               |
-| 542     | 18               | 3           | 보이지 않는 포켓몬에
-반응하여 소리를 내는
-데봉의 특제품.                                                                                                                                   |
-| 542     | 18               | 4           | 會對看不見的寶可夢起反應，
-並發出聲音的得文特製產品。                                                                                                                                        |
-| 542     | 18               | 5           | Ce produit en série limitée de Devon émet
-un signal sonore pour signaler la présence
-de Pokémon invisibles.                                                        |
-| 542     | 18               | 6           | Ein von der Devon Corporation hergestelltes Gerät,
-das mit einem Signalton auf unsichtbare Pokémon
-reagiert.                                                       |
-| 542     | 18               | 7           | Artilugio creado por Devon S. A. que reacciona
-a la presencia de Pokémon invisibles emitiendo
-sonidos.                                                             |
-| 542     | 18               | 8           | Congegno prodotto dalla Devon che rileva
-la presenza di Pokémon nascosti emettendo
-un segnale sonoro.                                                              |
-| 542     | 18               | 9           | A special device made by Devon Corporation that
-signals the presence of any unseen Pokémon.                                                                        |
-| 542     | 18               | 11          | 見えない　ポケモンに
-反応して　音をだす
-デボンの　特製品。                                                                                                                                     |
-| 542     | 18               | 12          | 会对看不见的宝可梦起反应，
-并发出声音的得文特制产品。                                                                                                                                        |
-| 542     | 19               | 1           | みえない　ポケモンに
-はんのうして　おとをだす
-デボンの　とくせいひん。                                                                                                                               |
-| 542     | 19               | 3           | 보이지 않는 포켓몬에
-반응하여 소리를 내는
-데봉의 특제품.                                                                                                                                   |
-| 542     | 19               | 4           | 會對看不見的寶可夢起反應，
-並發出聲音的得文特製產品。                                                                                                                                        |
-| 542     | 19               | 5           | Ce produit en série limitée de Devon émet un signal
-sonore pour signaler la présence de Pokémon invisibles.                                                        |
-| 542     | 19               | 6           | Ein von der Devon Corporation hergestelltes Gerät,
-das mit einem Signalton auf unsichtbare Pokémon
-reagiert.                                                       |
-| 542     | 19               | 7           | Artilugio creado por Devon S. A. que reacciona
-a la presencia de Pokémon invisibles emitiendo
-sonidos.                                                             |
-| 542     | 19               | 8           | Congegno prodotto dalla Devon che rileva
-la presenza di Pokémon nascosti emettendo
-un segnale sonoro.                                                              |
-| 542     | 19               | 9           | A special device made by Devon Corporation that
-signals the presence of any unseen Pokémon.                                                                        |
-| 542     | 19               | 11          | 見えない　ポケモンに
-反応して　音をだす
-デボンの　特製品。                                                                                                                                     |
-| 542     | 19               | 12          | 会对看不见的宝可梦起反应，
-并发出声音的得文特制产品。                                                                                                                                        |
-| 542     | 20               | 1           | みえない　ポケモンに
-はんのうして　おとをだす
-デボンの　とくせいひん。                                                                                                                               |
-| 542     | 20               | 3           | 보이지 않는 포켓몬에
-반응하여 소리를 내는
-데봉의 특제품.                                                                                                                                   |
-| 542     | 20               | 4           | 會對看不見的寶可夢起反應，
-並發出聲音的得文特製產品。                                                                                                                                        |
-| 542     | 20               | 5           | Ce produit en série limitée de Devon émet un signal
-sonore pour signaler la présence de Pokémon invisibles.                                                        |
-| 542     | 20               | 6           | Ein von der Devon Corporation hergestelltes Gerät,
-das mit einem Signalton auf unsichtbare Pokémon
-reagiert.                                                       |
-| 542     | 20               | 7           | Artilugio creado por Devon S. A. que reacciona a la
-presencia de Pokémon invisibles emitiendo sonidos.                                                             |
-| 542     | 20               | 8           | Congegno prodotto dalla Devon che rileva
-la presenza di Pokémon nascosti emettendo
-un segnale sonoro.                                                              |
-| 542     | 20               | 9           | A special device made by Devon Corporation that
-signals the presence of any unseen Pokémon.                                                                        |
-| 542     | 20               | 11          | 見えない　ポケモンに
-反応して　音をだす
-デボンの　特製品。                                                                                                                                     |
-| 542     | 20               | 12          | 会对看不见的宝可梦起反应，
-并发出声音的得文特制产品。                                                                                                                                        |
-| 543     | 6                | 9           | A parcel for PROF.
-OAK from a POKéMON
-MART’s clerk.                                                                                                                |
-| 543     | 7                | 9           | A parcel to be delivered to PROF.
-OAK from VIRIDIAN CITY’s POKéMON
-MART.                                                                                           |
-| 544     | 6                | 9           | A sweet-sounding
-flute that awakens
-POKéMON.                                                                                                                       |
-| 544     | 7                | 9           | A flute that is said to instantly
-awaken any POKéMON. It has a
-lovely tone.                                                                                        |
-| 544     | 15               | 1           | ねむっている　ポケモンも
-おもわず　めざめるほど　すばらしい
-ねいろを　かなでる　ふえ。                                                                                                                       |
-| 544     | 15               | 3           | 잠자고 있는 포켓몬도
-무심코 잠에서 깨어날 정도로
-멋진 음색을 내는 피리.                                                                                                                          |
-| 544     | 15               | 5           | Une flûte au son si particulier qu’elle permet de
-réveiller les Pokémon les plus profondément
-endormis.                                                            |
-| 544     | 15               | 6           | Eine Flöte, die so wundervolle Töne spielen kann,
-dass selbst schlafende Pokémon aufwachen.                                                                        |
-| 544     | 15               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Scizor en combate.                                                                                   |
-| 544     | 15               | 8           | Flauto dal suono meraviglioso che risveglia
-anche i Pokémon profondamente addormentati.                                                                            |
-| 544     | 15               | 9           | A flute which can play with such a
-beautiful tone that even sleeping
-Pokémon find themselves roused.                                                               |
-| 544     | 15               | 11          | 眠っている　ポケモンも
-思わず　めざめるほど　すばらしい
-音色を　奏でる　ふえ。                                                                                                                           |
-| 544     | 17               | 1           | ねむっている　ポケモンも
-おもわず　めざめるほど　すばらしい
-ねいろを　かなでる　ふえ。                                                                                                                       |
-| 544     | 17               | 3           | 잠자고 있는 포켓몬도
-무심코 잠에서 깨어날 정도로
-멋진 음색을 내는 피리.                                                                                                                          |
-| 544     | 17               | 4           | 能吹出讓睡著的寶可夢
-都會情不自禁醒來的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 17               | 5           | Une flûte au son si particulier qu’elle permet de
-réveiller les Pokémon les plus profondément
-endormis.                                                            |
-| 544     | 17               | 6           | Eine Flöte, die so wundervolle Töne spielen kann,
-dass selbst schlafende Pokémon aufwachen.                                                                        |
-| 544     | 17               | 7           | Una flauta con un timbre tan dulce y hermoso que
-despierta hasta al Pokémon más profundamente
-dormido.                                                             |
-| 544     | 17               | 8           | Flauto dal suono meraviglioso che risveglia anche
-i Pokémon profondamente addormentati.                                                                            |
-| 544     | 17               | 9           | A flute that can play with such a beautiful tone
-that even sleeping Pokémon find
-themselves roused.                                                                |
-| 544     | 17               | 11          | 眠っている　ポケモンも
-思わず　めざめるほど　すばらしい
-音色を　奏でる　ふえ。                                                                                                                           |
-| 544     | 17               | 12          | 能吹出让睡着的宝可梦
-都会情不自禁醒来的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 18               | 1           | ねむっている　ポケモンも
-おもわず　めざめるほど　すばらしい
-ねいろを　かなでる　ふえ。                                                                                                                       |
-| 544     | 18               | 3           | 잠자고 있는 포켓몬도
-무심코 잠에서 깨어날 정도로
-멋진 음색을 내는 피리.                                                                                                                          |
-| 544     | 18               | 4           | 能吹出讓睡著的寶可夢
-都會情不自禁醒來的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 18               | 5           | Une flûte au son si particulier qu’elle permet de
-réveiller les Pokémon les plus profondément
-endormis.                                                            |
-| 544     | 18               | 6           | Eine Flöte, die so wundervolle Töne spielen kann,
-dass selbst schlafende Pokémon aufwachen.                                                                        |
-| 544     | 18               | 7           | Una flauta con un timbre tan dulce y hermoso que
-despierta hasta al Pokémon más profundamente
-dormido.                                                             |
-| 544     | 18               | 8           | Flauto dal suono meraviglioso che risveglia anche
-i Pokémon profondamente addormentati.                                                                            |
-| 544     | 18               | 9           | A flute that can play with such a beautiful tone
-that even sleeping Pokémon find
-themselves roused.                                                                |
-| 544     | 18               | 11          | 眠っている　ポケモンも
-思わず　めざめるほど　すばらしい
-音色を　奏でる　ふえ。                                                                                                                           |
-| 544     | 18               | 12          | 能吹出让睡着的宝可梦
-都会情不自禁醒来的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 19               | 1           | ねむっている　ポケモンも
-おもわず　めざめるほど　すばらしい
-ねいろを　かなでる　ふえ。                                                                                                                       |
-| 544     | 19               | 3           | 잠자고 있는 포켓몬도
-무심코 잠에서 깨어날 정도로
-멋진 음색을 내는 피리.                                                                                                                          |
-| 544     | 19               | 4           | 能吹出讓睡著的寶可夢
-都會情不自禁醒來的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 19               | 5           | Une flûte au son si particulier qu’elle permet de
-réveiller les Pokémon les plus profondément endormis.                                                            |
-| 544     | 19               | 6           | Eine Flöte, die so wundervolle Töne spielen kann,
-dass selbst schlafende Pokémon aufwachen.                                                                        |
-| 544     | 19               | 7           | Una flauta con un timbre tan dulce y hermoso que
-despierta hasta al Pokémon más profundamente
-dormido.                                                             |
-| 544     | 19               | 8           | Flauto dal suono meraviglioso che risveglia anche
-i Pokémon profondamente addormentati.                                                                            |
-| 544     | 19               | 9           | A flute that can play with such a beautiful tone that
-even sleeping Pokémon find themselves woken up.                                                              |
-| 544     | 19               | 11          | 眠っている　ポケモンも
-思わず　めざめるほど　すばらしい
-音色を　奏でる　ふえ。                                                                                                                           |
-| 544     | 19               | 12          | 能吹出让睡着的宝可梦
-都会情不自禁醒来的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 20               | 1           | ねむっている　ポケモンも
-おもわず　めざめるほど　すばらしい
-ねいろを　かなでる　ふえ。                                                                                                                       |
-| 544     | 20               | 3           | 잠자고 있는 포켓몬도
-무심코 잠에서 깨어날 정도로
-멋진 음색을 내는 피리.                                                                                                                          |
-| 544     | 20               | 4           | 能吹出讓睡著的寶可夢
-都會情不自禁醒來的
-美妙音色的笛子。                                                                                                                                      |
-| 544     | 20               | 5           | Une flûte au son si particulier qu’elle permet de
-réveiller les Pokémon les plus profondément endormis.                                                            |
-| 544     | 20               | 6           | Eine Flöte, die so wundervolle Töne spielen kann,
-dass selbst schlafende Pokémon aufwachen.                                                                        |
-| 544     | 20               | 7           | Una flauta con un timbre tan dulce y hermoso que
-despierta hasta al Pokémon más profundamente
-dormido.                                                             |
-| 544     | 20               | 8           | Flauto dal suono meraviglioso che risveglia anche
-i Pokémon profondamente addormentati.                                                                            |
-| 544     | 20               | 9           | A flute that can play with such a beautiful tone that
-even sleeping Pokémon find themselves woken up.                                                              |
-| 544     | 20               | 11          | 眠っている　ポケモンも
-思わず　めざめるほど　すばらしい
-音色を　奏でる　ふえ。                                                                                                                           |
-| 544     | 20               | 12          | 能吹出让睡着的宝可梦
-都会情不自禁醒来的
-美妙音色的笛子。                                                                                                                                      |
-| 545     | 6                | 9           | A voucher for
-obtaining a bicycle
-from the BIKE SHOP.                                                                                                              |
-| 545     | 7                | 9           | Take this voucher to the BIKE SHOP
-in CERULEAN CITY and exchange it
-for a bicycle.                                                                                 |
-| 546     | 6                | 9           | Gold dentures lost
-by the SAFARI
-ZONE’s WARDEN.                                                                                                                    |
-| 546     | 7                | 9           | A set of false teeth lost by the
-SAFARI ZONE’S WARDEN. It makes his
-smile sparkle.                                                                                 |
-| 546     | 19               | 1           | サファリゾーンの　えんちょうが
-おとした　きんいろの　いれば。
-わらうと　とても　まぶしい。                                                                                                                     |
-| 546     | 19               | 3           | 사파리존의 원장이
-떨어뜨린 금색 틀니.
-웃으면 매우 눈부시다.                                                                                                                                 |
-| 546     | 19               | 4           | 狩獵地帶的園長
-遺失的金色假牙。
-裝上它之後笑起來非常耀眼。                                                                                                                                     |
-| 546     | 19               | 5           | Un dentier en or perdu par le directeur du Parc Safari.
-Il lui donne un sourire étincelant.                                                                        |
-| 546     | 19               | 6           | Ein vergoldeter Zahnersatz, den der Direktor der
-Safari-Zone verlegt hat. Setzt er ihn ein, verleiht
-er ihm buchstäblich ein goldiges Lächeln.                     |
-| 546     | 19               | 7           | Unos dientes de oro que perdió el Guarda de la Zona
-Safari con los que tiene una sonrisa deslumbrante.                                                             |
-| 546     | 19               | 8           | Dentiera dorata persa dal guardiano della Zona Safari.
-Rende il suo sorriso davvero scintillante.                                                                  |
-| 546     | 19               | 9           | A set of golden false teeth lost by the Safari Zone’s
-warden. They make his smile sparkle.                                                                         |
-| 546     | 19               | 11          | サファリゾーンの　園長が
-落とした　金色の　入れ歯。
-笑うと　とても　まぶしい。                                                                                                                           |
-| 546     | 19               | 12          | 狩猎地带的园长遗失的金假牙。
-装上它后，笑起来十分耀眼。                                                                                                                                       |
-| 546     | 20               | 1           | サファリゾーンの　えんちょうが
-おとした　きんいろの　いれば。
-わらうと　とても　まぶしい。                                                                                                                     |
-| 546     | 20               | 3           | 사파리존의 원장이
-떨어뜨린 금색 틀니.
-웃으면 매우 눈부시다.                                                                                                                                 |
-| 546     | 20               | 4           | 狩獵地帶的園長
-遺失的金色假牙。
-裝上它之後笑起來非常耀眼。                                                                                                                                     |
-| 546     | 20               | 5           | Un dentier en or perdu par le directeur du Parc Safari.
-Il lui donne un sourire étincelant.                                                                        |
-| 546     | 20               | 6           | Ein vergoldeter Zahnersatz, den der Direktor der
-Safari-Zone verlegt hat. Setzt er ihn ein, verleiht er ihm
-buchstäblich ein goldiges Lächeln.                     |
-| 546     | 20               | 7           | Unos dientes de oro que perdió el Guarda de la Zona
-Safari con los que tiene una sonrisa deslumbrante.                                                             |
-| 546     | 20               | 8           | Dentiera dorata persa dal guardiano della Zona Safari.
-Rende il suo sorriso davvero scintillante.                                                                  |
-| 546     | 20               | 9           | A set of golden false teeth lost by the Safari Zone’s
-warden. They make his smile sparkle.                                                                         |
-| 546     | 20               | 11          | サファリゾーンの　園長が
-落とした　金色の　入れ歯。
-笑うと　とても　まぶしい。                                                                                                                           |
-| 546     | 20               | 12          | 狩猎地带的园长遗失的金假牙。
-装上它后，笑起来十分耀眼。                                                                                                                                       |
-| 547     | 6                | 9           | An elevator key
-used in TEAM
-ROCKET’s HIDEOUT.                                                                                                                     |
-| 547     | 7                | 9           | A key that operates the elevator
-in TEAM ROCKET’s HIDEOUT.
-It bears the TEAM ROCKET logo.                                                                          |
-| 547     | 19               | 1           | ロケットだん　アジトに　ある
-エレベータを　うごかす　カギ。
-ロケットだんの　マークいり。                                                                                                                      |
-| 547     | 19               | 3           | 로켓단아지트에 있는
-엘리베이터를 작동시키는 열쇠.
-로켓단의 마크가 새겨져 있다.                                                                                                                       |
-| 547     | 19               | 4           | 能啟動火箭隊基地
-電梯的鑰匙。
-上面有火箭隊的標誌。                                                                                                                                         |
-| 547     | 19               | 5           | Une clé activant l’ascenseur du Repaire de la Team
-Rocket. Elle porte la marque de l’organisation.                                                                 |
-| 547     | 19               | 6           | Ein Schlüssel, mit dessen Hilfe der Aufzug im
-Rocket-Versteck in Gang gesetzt werden kann.
-Das Logo von Team Rocket ist darauf abgebildet.                         |
-| 547     | 19               | 7           | Llave que permite acceder al ascensor de la Guarida
-del Team Rocket. Lleva grabado el símbolo del
-Team Rocket.                                                     |
-| 547     | 19               | 8           | Chiave per l’ascensore nel Rifugio del Team Rocket.
-Presenta il logo del Team Rocket.                                                                              |
-| 547     | 19               | 9           | A key that operates the elevator in the Team Rocket
-Hideout. It bears the Team Rocket logo.                                                                        |
-| 547     | 19               | 11          | ロケット団　アジトに　ある
-エレベータを　動かす　カギ。
-ロケット団の　マーク入り。                                                                                                                         |
-| 547     | 19               | 12          | 带有火箭队标志的钥匙。
-能启动位于火箭队基地的电梯。                                                                                                                                         |
-| 547     | 20               | 1           | ロケットだん　アジトに　ある
-エレベータを　うごかす　カギ。
-ロケットだんの　マークいり。                                                                                                                      |
-| 547     | 20               | 3           | 로켓단아지트에 있는
-엘리베이터를 작동시키는 열쇠.
-로켓단의 마크가 새겨져 있다.                                                                                                                       |
-| 547     | 20               | 4           | 能啟動火箭隊基地
-電梯的鑰匙。
-上面有火箭隊的標誌。                                                                                                                                         |
-| 547     | 20               | 5           | Une clé activant l’ascenseur du Repaire de la Team
-Rocket. Elle porte la marque de l’organisation.                                                                 |
-| 547     | 20               | 6           | Ein Schlüssel, mit dessen Hilfe der Aufzug im
-Rocket-Versteck in Gang gesetzt werden kann.
-Das Logo von Team Rocket ist darauf abgebildet.                         |
-| 547     | 20               | 7           | Llave que permite acceder al ascensor de la Guarida
-del Team Rocket. Lleva grabado el símbolo del
-Team Rocket.                                                     |
-| 547     | 20               | 8           | Chiave per l’ascensore nel Rifugio del Team Rocket.
-Presenta il logo del Team Rocket.                                                                              |
-| 547     | 20               | 9           | A key that operates the elevator in the Team Rocket
-Hideout. It bears the Team Rocket logo.                                                                        |
-| 547     | 20               | 11          | ロケット団　アジトに　ある
-エレベータを　動かす　カギ。
-ロケット団の　マーク入り。                                                                                                                         |
-| 547     | 20               | 12          | 带有火箭队标志的钥匙。
-能启动位于火箭队基地的电梯。                                                                                                                                         |
-| 548     | 6                | 9           | SILPH CO’s scope
-makes unseeable
-POKéMON visible.                                                                                                                  |
-| 548     | 7                | 9           | A scope that makes unseeable
-POKéMON visible.
-It is made by SILPH CO.                                                                                              |
-| 548     | 19               | 1           | ひとの　めに　みえない　ものを
-みることが　できる　スコープ。
-シルフカンパニーせい。                                                                                                                        |
-| 548     | 19               | 3           | 사람의 눈에 보이지 않는 것을
-볼 수 있게 해 주는 스코프.
-실프주식회사 제품.                                                                                                                       |
-| 548     | 19               | 4           | 西爾佛公司製造的檢視鏡。
-能看見人類肉眼
-看不到的東西。                                                                                                                                       |
-| 548     | 19               | 5           | Un appareil permettant de voir les Pokémon invisibles.
-Il est fabriqué par la Sylphe SARL.                                                                         |
-| 548     | 19               | 6           | Dieses Gerät macht Dinge sichtbar, die dem
-menschlichen Auge sonst verborgen bleiben.
-Es wurde von der Silph Company entwickelt.                                   |
-| 548     | 19               | 7           | Dispositivo que permite ver cosas que, de otra forma,
-resultarían invisibles para el ojo humano. Fabricado por
-Silph S. A.                                         |
-| 548     | 19               | 8           | Sonda che rivela i Pokémon invisibili, prodotta
-dalla Silph S.p.A.                                                                                                 |
-| 548     | 19               | 9           | A scope that lets you see what cannot usually be seen.
-It is made by Silph Co.                                                                                     |
-| 548     | 19               | 11          | 人の　目に　見えない　ものを
-見ることが　できる　スコープ。
-シルフカンパニー製。                                                                                                                          |
-| 548     | 19               | 12          | 西尔佛公司制造的透视镜。
-可以看见人眼无法看见的东西。                                                                                                                                        |
-| 548     | 20               | 1           | ひとの　めに　みえない　ものを
-みることが　できる　スコープ。
-シルフカンパニーせい。                                                                                                                        |
-| 548     | 20               | 3           | 사람의 눈에 보이지 않는 것을
-볼 수 있게 해 주는 스코프.
-실프주식회사 제품.                                                                                                                       |
-| 548     | 20               | 4           | 西爾佛公司製造的檢視鏡。
-能看見人類肉眼
-看不到的東西。                                                                                                                                       |
-| 548     | 20               | 5           | Un appareil permettant de voir les Pokémon invisibles.
-Il est fabriqué par la Sylphe SARL.                                                                         |
-| 548     | 20               | 6           | Dieses Gerät macht Dinge sichtbar, die dem
-menschlichen Auge sonst verborgen bleiben.
-Es wurde von der Silph Company entwickelt.                                   |
-| 548     | 20               | 7           | Dispositivo que permite ver cosas que, de otra forma,
-resultarían invisibles para el ojo humano. Fabricado por
-Silph S. A.                                         |
-| 548     | 20               | 8           | Sonda che rivela i Pokémon invisibili, prodotta
-dalla Silph S.p.A.                                                                                                 |
-| 548     | 20               | 9           | A scope that lets you see what cannot usually be seen.
-It is made by Silph Co.                                                                                     |
-| 548     | 20               | 11          | 人の　目に　見えない　ものを
-見ることが　できる　スコープ。
-シルフカンパニー製。                                                                                                                          |
-| 548     | 20               | 12          | 西尔佛公司制造的透视镜。
-可以看见人眼无法看见的东西。                                                                                                                                        |
-| 549     | 6                | 9           | Stores information
-on famous people
-for instant recall.                                                                                                            |
-| 549     | 7                | 9           | A device that enables you to
-recall what you’ve heard and seen
-about famous people.                                                                                |
-| 550     | 6                | 9           | A convenient case 
-that holds TMs and
-HMs.                                                                                                                         |
-| 550     | 7                | 9           | A case that holds TMs and HMs.
-It is attached to the BAG’s
-compartment for important items.                                                                        |
-| 550     | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 19               | 3           | -
--
--                                                                                                                                                              |
-| 550     | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 19               | 5           | -
--
--                                                                                                                                                              |
-| 550     | 19               | 6           | -
--
--                                                                                                                                                              |
-| 550     | 19               | 7           |                                                                                                                                                                    |
-| 550     | 19               | 8           | -
--
--                                                                                                                                                              |
-| 550     | 19               | 9           | -
--
--                                                                                                                                                              |
-| 550     | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 20               | 3           | -
--
--                                                                                                                                                              |
-| 550     | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 20               | 5           | -
--
--                                                                                                                                                              |
-| 550     | 20               | 6           | -
--
--                                                                                                                                                              |
-| 550     | 20               | 7           |                                                                                                                                                                    |
-| 550     | 20               | 8           | -
--
--                                                                                                                                                              |
-| 550     | 20               | 9           | -
--
--                                                                                                                                                              |
-| 550     | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 550     | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 551     | 6                | 9           | A convenient
-container that
-holds BERRIES.                                                                                                                         |
-| 551     | 7                | 9           | A pouch for carrying BERRIES.
-It is attached to the BAG’s
-compartment for important items.                                                                         |
-| 552     | 6                | 9           | A TV set tuned to
-an advice program
-for TRAINERS.                                                                                                                  |
-| 552     | 7                | 9           | A television set that is tuned to
-a program with useful tips for
-novice TRAINERS.                                                                                  |
-| 553     | 6                | 9           | A pass for ferries
-between ONE, TWO,
-and THREE ISLAND.                                                                                                             |
-| 553     | 7                | 9           | A pass for ferries between ONE,
-TWO, and THREE ISLAND.
-It has a drawing of three islands.                                                                          |
-| 554     | 6                | 9           | For ferries serving
-VERMILION and the
-SEVII ISLANDS.                                                                                                               |
-| 554     | 7                | 9           | A pass for ferries between
-VERMILION and the SEVII ISLANDS.
-It features a drawing of a rainbow.                                                                    |
-| 555     | 6                | 9           | A thirst-quenching
-tea prepared by an
-old lady.                                                                                                                    |
-| 555     | 7                | 9           | An aromatic tea prepared by an old
-lady. It will slake even the worst
-thirst.                                                                                      |
-| 555     | 19               | 1           | すこし　にがくて
-こうばしい　かおりの　おちゃ。
-かわいた　のどが　うるおう。                                                                                                                            |
-| 555     | 19               | 3           | 약간 씁쓸하고
-구수한 향기가 나는 차.
-말랐던 목이 촉촉해진다.                                                                                                                                |
-| 555     | 19               | 4           | 散發著撲鼻芳香，
-喝起來有點苦澀的茶。
-能滋潤乾渴的喉嚨。                                                                                                                                      |
-| 555     | 19               | 5           | Un thé aromatique légèrement amer.
-Il a des vertus désaltérantes.                                                                                                  |
-| 555     | 19               | 6           | Ein aromatischer Tee mit leicht bitterem Geschmack.
-Genau das Richtige, um den Durst zu stillen.                                                                   |
-| 555     | 19               | 7           | Un aromático té de sabor ligeramente amargo que
-resulta ideal para aplacar la sed.                                                                                 |
-| 555     | 19               | 8           | Un tè fragrante dal sapore amarognolo.
-Molto dissetante.                                                                                                           |
-| 555     | 19               | 9           | Aromatic tea that has a slightly bitter taste.
-It soothes a dry throat.                                                                                            |
-| 555     | 19               | 11          | すこし　苦くて
-芳ばしい　香りの　お茶。
-かわいた　喉が　うるおう。                                                                                                                                 |
-| 555     | 19               | 12          | 有一点点苦，
-却又芬芳宜人的香茶。
-抿一口，清咽润喉。                                                                                                                                        |
-| 555     | 20               | 1           | すこし　にがくて
-こうばしい　かおりの　おちゃ。
-かわいた　のどが　うるおう。                                                                                                                            |
-| 555     | 20               | 3           | 약간 씁쓸하고
-구수한 향기가 나는 차.
-말랐던 목이 촉촉해진다.                                                                                                                                |
-| 555     | 20               | 4           | 散發著撲鼻芳香，
-喝起來有點苦澀的茶。
-能滋潤乾渴的喉嚨。                                                                                                                                      |
-| 555     | 20               | 5           | Un thé aromatique légèrement amer.
-Il a des vertus désaltérantes.                                                                                                  |
-| 555     | 20               | 6           | Ein aromatischer Tee mit leicht bitterem Geschmack.
-Genau das Richtige, um den Durst zu stillen.                                                                   |
-| 555     | 20               | 7           | Un aromático té de sabor ligeramente amargo que
-resulta ideal para aplacar la sed.                                                                                 |
-| 555     | 20               | 8           | Un tè fragrante dal sapore amarognolo.
-Molto dissetante.                                                                                                           |
-| 555     | 20               | 9           | Aromatic tea that has a slightly bitter taste.
-It soothes a dry throat.                                                                                            |
-| 555     | 20               | 11          | すこし　苦くて
-芳ばしい　香りの　お茶。
-かわいた　喉が　うるおう。                                                                                                                                 |
-| 555     | 20               | 12          | 有一点点苦，
-却又芬芳宜人的香茶。
-抿一口，清咽润喉。                                                                                                                                        |
-| 556     | 6                | 9           | A ticket required
-to board the ship
-to NAVEL ROCK.                                                                                                                 |
-| 556     | 7                | 9           | A ticket required to board the ship
-to NAVEL ROCK.
-It glows with a mystic light.                                                                                   |
-| 557     | 6                | 9           | A ticket required
-to board the ship
-to BIRTH ISLAND.                                                                                                               |
-| 557     | 7                | 9           | A ticket required to board the ship
-to BIRTH ISLAND.
-It glows beautifully.                                                                                         |
-| 558     | 6                | 9           | Stores BERRY
-POWDER made using
-a BERRY CRUSHER.                                                                                                                    |
-| 558     | 7                | 9           | A jar for storing BERRY POWDER
-made using a BERRY CRUSHER.                                                                                                         |
-| 559     | 6                | 9           | An exquisite, red-
-glowing gem that
-symbolizes passion.                                                                                                            |
-| 559     | 7                | 9           | An exquisitely beautiful gem that
-has a red glow.
-It symbolizes passion.                                                                                           |
-| 560     | 6                | 9           | A brilliant blue gem
-that symbolizes
-honesty.                                                                                                                      |
-| 560     | 7                | 9           | An exquisitely beautiful gem that
-has a blue glow.
-It symbolizes honesty.                                                                                          |
-| 561     | 6                | 9           | A medal-like item in
-the same shape as
-TEAM MAGMA’s mark.                                                                                                          |
-| 562     | 6                | 9           | A faded sea chart
-that shows the way
-to a certain island.                                                                                                          |
-| 563     | 11               | 5           | Tenu par Genesect, ce module
-change la capacité TechnoBuster
-en une capacité de type Eau.                                                                          |
-| 563     | 11               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to a
-Water-type move.                                                                                   |
-| 563     | 14               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to a
-Water-type move.                                                                                   |
-| 563     | 15               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-みずタイプになる　カセット。                                                                                                                         |
-| 563     | 15               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-물타입으로 바뀌는 카세트.                                                                                                                         |
-| 563     | 15               | 5           | Tenu par Genesect, ce module change la
-capacité TechnoBuster en une capacité de type
-Eau.                                                                          |
-| 563     | 15               | 6           | Gibt man es Genesect zum Tragen, wandelt es
-den Typ der Attacke Techblaster in Wasser um.                                                                          |
-| 563     | 15               | 7           | Cartucho que convierte Tecno Shock de
-Genesect en un movimiento de tipo Hielo.                                                                                     |
-| 563     | 15               | 8           | Modulo da dare a Genesect. Trasforma
-Tecnobotto in una mossa di tipo Acqua.                                                                                        |
-| 563     | 15               | 9           | A cassette to be held by Genesect.
-It changes Genesect’s Techno Blast
-move so it becomes Water type.                                                               |
-| 563     | 15               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-みずタイプになる　カセット。                                                                                                                          |
-| 563     | 17               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-みずタイプになる　カセット。                                                                                                                         |
-| 563     | 17               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-물타입으로 바뀌는 카세트.                                                                                                                         |
-| 563     | 17               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為水屬性。                                                                                                                                   |
-| 563     | 17               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Eau.                                                                         |
-| 563     | 17               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Wasser um.                                                                          |
-| 563     | 17               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Agua.                                                                                      |
-| 563     | 17               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Acqua.                                                                                        |
-| 563     | 17               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Water type.                                                               |
-| 563     | 17               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-みずタイプになる　カセット。                                                                                                                          |
-| 563     | 17               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为水属性。                                                                                                                               |
-| 563     | 18               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-みずタイプになる　カセット。                                                                                                                         |
-| 563     | 18               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-물타입으로 바뀌는 카세트.                                                                                                                         |
-| 563     | 18               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為水屬性。                                                                                                                                   |
-| 563     | 18               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Eau.                                                                         |
-| 563     | 18               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Wasser um.                                                                          |
-| 563     | 18               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Agua.                                                                                      |
-| 563     | 18               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Acqua.                                                                                        |
-| 563     | 18               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Water type.                                                               |
-| 563     | 18               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-みずタイプになる　カセット。                                                                                                                          |
-| 563     | 18               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为水属性。                                                                                                                               |
-| 563     | 19               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-みずタイプになる　カセット。                                                                                                                         |
-| 563     | 19               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-물타입으로 바뀌는 카세트.                                                                                                                         |
-| 563     | 19               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為水屬性。                                                                                                                                   |
-| 563     | 19               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Eau.                                                                         |
-| 563     | 19               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Wasser um.                                                                          |
-| 563     | 19               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Agua.                                                                                      |
-| 563     | 19               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Acqua.                                                                                        |
-| 563     | 19               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Water type.                                                               |
-| 563     | 19               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-みずタイプになる　カセット。                                                                                                                          |
-| 563     | 19               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为水属性。                                                                                                                               |
-| 563     | 20               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-みずタイプになる　カセット。                                                                                                                         |
-| 563     | 20               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-물타입으로 바뀌는 카세트.                                                                                                                         |
-| 563     | 20               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為水屬性。                                                                                                                                   |
-| 563     | 20               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Eau.                                                                         |
-| 563     | 20               | 6           | Gibt man es Genesect zum Tragen, wandelt es den Typ
-der Attacke Techblaster in Wasser um.                                                                          |
-| 563     | 20               | 7           | Cartucho que convierte Tecno Shock de Genesect en un
-movimiento de tipo Agua.                                                                                      |
-| 563     | 20               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Acqua.                                                                                        |
-| 563     | 20               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Water type.                                                               |
-| 563     | 20               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-みずタイプになる　カセット。                                                                                                                          |
-| 563     | 20               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为水属性。                                                                                                                               |
-| 564     | 11               | 5           | Tenu par Genesect, ce module
-change la capacité TechnoBuster
-en une capacité de type Électrik.                                                                     |
-| 564     | 11               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to an
-Electric-type move.                                                                               |
-| 564     | 14               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to an
-Electric-type move.                                                                               |
-| 564     | 15               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-でんきタイプになる　カセット。                                                                                                                        |
-| 564     | 15               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-전기타입으로 바뀌는 카세트.                                                                                                                        |
-| 564     | 15               | 5           | Tenu par Genesect, ce module change la
-capacité TechnoBuster en une capacité de type
-Électrik.                                                                     |
-| 564     | 15               | 6           | Gibt man es Genesect zum Tragen, wandelt es
-den Typ der Attacke Techblaster in Elektro um.                                                                         |
-| 564     | 15               | 7           | Chocolatina de sabor dulce. Restaura 20 PS de
-un Pokémon.                                                                                                          |
-| 564     | 15               | 8           | Modulo da dare a Genesect. Trasforma
-Tecnobotto in una mossa di tipo Elettro.                                                                                      |
-| 564     | 15               | 9           | A cassette to be held by Genesect.
-It changes Genesect’s Techno Blast
-move so it becomes Electric type.                                                            |
-| 564     | 15               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-でんきタイプになる　カセット。                                                                                                                         |
-| 564     | 17               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-でんきタイプになる　カセット。                                                                                                                        |
-| 564     | 17               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-전기타입으로 바뀌는 카세트.                                                                                                                        |
-| 564     | 17               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為電屬性。                                                                                                                                   |
-| 564     | 17               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Électrik.                                                                    |
-| 564     | 17               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Elektro um.                                                                         |
-| 564     | 17               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Eléctrico.                                                                                 |
-| 564     | 17               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Elettro.                                                                                      |
-| 564     | 17               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Electric type.                                                            |
-| 564     | 17               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-でんきタイプになる　カセット。                                                                                                                         |
-| 564     | 17               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为电属性。                                                                                                                               |
-| 564     | 18               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-でんきタイプになる　カセット。                                                                                                                        |
-| 564     | 18               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-전기타입으로 바뀌는 카세트.                                                                                                                        |
-| 564     | 18               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為電屬性。                                                                                                                                   |
-| 564     | 18               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Électrik.                                                                    |
-| 564     | 18               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Elektro um.                                                                         |
-| 564     | 18               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Eléctrico.                                                                                 |
-| 564     | 18               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Elettro.                                                                                      |
-| 564     | 18               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Electric type.                                                            |
-| 564     | 18               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-でんきタイプになる　カセット。                                                                                                                         |
-| 564     | 18               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为电属性。                                                                                                                               |
-| 564     | 19               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-でんきタイプになる　カセット。                                                                                                                        |
-| 564     | 19               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-전기타입으로 바뀌는 카세트.                                                                                                                        |
-| 564     | 19               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為電屬性。                                                                                                                                   |
-| 564     | 19               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Électrik.                                                                    |
-| 564     | 19               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Elektro um.                                                                         |
-| 564     | 19               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Eléctrico.                                                                                 |
-| 564     | 19               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Elettro.                                                                                      |
-| 564     | 19               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Electric type.                                                            |
-| 564     | 19               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-でんきタイプになる　カセット。                                                                                                                         |
-| 564     | 19               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为电属性。                                                                                                                               |
-| 564     | 20               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-でんきタイプになる　カセット。                                                                                                                        |
-| 564     | 20               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-전기타입으로 바뀌는 카세트.                                                                                                                        |
-| 564     | 20               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為電屬性。                                                                                                                                   |
-| 564     | 20               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Électrik.                                                                    |
-| 564     | 20               | 6           | Gibt man es Genesect zum Tragen, wandelt es den Typ
-der Attacke Techblaster in Elektro um.                                                                         |
-| 564     | 20               | 7           | Cartucho que convierte Tecno Shock de Genesect en un
-movimiento de tipo Eléctrico.                                                                                 |
-| 564     | 20               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Elettro.                                                                                      |
-| 564     | 20               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Electric type.                                                            |
-| 564     | 20               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-でんきタイプになる　カセット。                                                                                                                         |
-| 564     | 20               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为电属性。                                                                                                                               |
-| 565     | 11               | 5           | Tenu par Genesect, ce module
-change la capacité TechnoBuster
-en une capacité de type Feu.                                                                          |
-| 565     | 11               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to a
-Fire-type move.                                                                                    |
-| 565     | 14               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to a
-Fire-type move.                                                                                    |
-| 565     | 15               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-ほのおタイプになる　カセット。                                                                                                                        |
-| 565     | 15               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-불꽃타입으로 바뀌는 카세트.                                                                                                                        |
-| 565     | 15               | 5           | Tenu par Genesect, ce module change la
-capacité TechnoBuster en une capacité de type
-Feu.                                                                          |
-| 565     | 15               | 6           | Gibt man es Genesect zum Tragen, wandelt es
-den Typ der Attacke Techblaster in Feuer um.                                                                           |
-| 565     | 15               | 7           | Una esfera brillante que potencia los movimientos
-de tipo Acero y Dragón. Debe llevarla Dialga.                                                                    |
-| 565     | 15               | 8           | Modulo da dare a Genesect. Trasforma
-Tecnobotto in una mossa di tipo Fuoco.                                                                                        |
-| 565     | 15               | 9           | A cassette to be held by Genesect.
-It changes Genesect’s Techno Blast
-move so it becomes Fire type.                                                                |
-| 565     | 15               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-ほのおタイプになる　カセット。                                                                                                                         |
-| 565     | 17               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-ほのおタイプになる　カセット。                                                                                                                        |
-| 565     | 17               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-불꽃타입으로 바뀌는 카세트.                                                                                                                        |
-| 565     | 17               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為火屬性。                                                                                                                                   |
-| 565     | 17               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Feu.                                                                         |
-| 565     | 17               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Feuer um.                                                                           |
-| 565     | 17               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Fuego.                                                                                     |
-| 565     | 17               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Fuoco.                                                                                        |
-| 565     | 17               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Fire type.                                                                |
-| 565     | 17               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-ほのおタイプになる　カセット。                                                                                                                         |
-| 565     | 17               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为火属性。                                                                                                                               |
-| 565     | 18               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-ほのおタイプになる　カセット。                                                                                                                        |
-| 565     | 18               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-불꽃타입으로 바뀌는 카세트.                                                                                                                        |
-| 565     | 18               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為火屬性。                                                                                                                                   |
-| 565     | 18               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Feu.                                                                         |
-| 565     | 18               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Feuer um.                                                                           |
-| 565     | 18               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Fuego.                                                                                     |
-| 565     | 18               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Fuoco.                                                                                        |
-| 565     | 18               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Fire type.                                                                |
-| 565     | 18               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-ほのおタイプになる　カセット。                                                                                                                         |
-| 565     | 18               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为火属性。                                                                                                                               |
-| 565     | 19               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-ほのおタイプになる　カセット。                                                                                                                        |
-| 565     | 19               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-불꽃타입으로 바뀌는 카세트.                                                                                                                        |
-| 565     | 19               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為火屬性。                                                                                                                                   |
-| 565     | 19               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Feu.                                                                         |
-| 565     | 19               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Feuer um.                                                                           |
-| 565     | 19               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Fuego.                                                                                     |
-| 565     | 19               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Fuoco.                                                                                        |
-| 565     | 19               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Fire type.                                                                |
-| 565     | 19               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-ほのおタイプになる　カセット。                                                                                                                         |
-| 565     | 19               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为火属性。                                                                                                                               |
-| 565     | 20               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-ほのおタイプになる　カセット。                                                                                                                        |
-| 565     | 20               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-불꽃타입으로 바뀌는 카세트.                                                                                                                        |
-| 565     | 20               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為火屬性。                                                                                                                                   |
-| 565     | 20               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Feu.                                                                         |
-| 565     | 20               | 6           | Gibt man es Genesect zum Tragen, wandelt es den Typ
-der Attacke Techblaster in Feuer um.                                                                           |
-| 565     | 20               | 7           | Cartucho que convierte Tecno Shock de Genesect en un
-movimiento de tipo Fuego.                                                                                     |
-| 565     | 20               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo Fuoco.                                                                                        |
-| 565     | 20               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Fire type.                                                                |
-| 565     | 20               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-ほのおタイプになる　カセット。                                                                                                                         |
-| 565     | 20               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为火属性。                                                                                                                               |
-| 566     | 11               | 5           | Tenu par Genesect, ce module
-change la capacité TechnoBuster
-en une capacité de type Glace.                                                                        |
-| 566     | 11               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to an
-Ice-type move.                                                                                    |
-| 566     | 14               | 9           | A cassette to be held by Genesect.
-It changes Techno Blast to an
-Ice-type move.                                                                                    |
-| 566     | 15               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-こおりタイプになる　カセット。                                                                                                                        |
-| 566     | 15               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-얼음타입으로 바뀌는 카세트.                                                                                                                        |
-| 566     | 15               | 5           | Tenu par Genesect, ce module change la
-capacité TechnoBuster en une capacité de type
-Glace.                                                                        |
-| 566     | 15               | 6           | Gibt man es Genesect zum Tragen, wandelt es
-den Typ der Attacke Techblaster in Eis um.                                                                             |
-| 566     | 15               | 7           | Una bonita esfera que potencia los movimientos
-de tipo Dragón y Agua. Debe llevarla Palkia.                                                                        |
-| 566     | 15               | 8           | Modulo da dare a Genesect. Trasforma
-Tecnobotto in una mossa di tipo Ghiaccio.                                                                                     |
-| 566     | 15               | 9           | A cassette to be held by Genesect.
-It changes Genesect’s Techno Blast
-move so it becomes Ice type.                                                                 |
-| 566     | 15               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-こおりタイプになる　カセット。                                                                                                                         |
-| 566     | 17               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-こおりタイプになる　カセット。                                                                                                                        |
-| 566     | 17               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-얼음타입으로 바뀌는 카세트.                                                                                                                        |
-| 566     | 17               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為冰屬性。                                                                                                                                   |
-| 566     | 17               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Glace.                                                                       |
-| 566     | 17               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Eis um.                                                                             |
-| 566     | 17               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Hielo.                                                                                     |
-| 566     | 17               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo
-Ghiaccio.                                                                                     |
-| 566     | 17               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Ice type.                                                                 |
-| 566     | 17               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-こおりタイプになる　カセット。                                                                                                                         |
-| 566     | 17               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为冰属性。                                                                                                                               |
-| 566     | 18               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-こおりタイプになる　カセット。                                                                                                                        |
-| 566     | 18               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-얼음타입으로 바뀌는 카세트.                                                                                                                        |
-| 566     | 18               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為冰屬性。                                                                                                                                   |
-| 566     | 18               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Glace.                                                                       |
-| 566     | 18               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Eis um.                                                                             |
-| 566     | 18               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Hielo.                                                                                     |
-| 566     | 18               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo
-Ghiaccio.                                                                                     |
-| 566     | 18               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Ice type.                                                                 |
-| 566     | 18               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-こおりタイプになる　カセット。                                                                                                                         |
-| 566     | 18               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为冰属性。                                                                                                                               |
-| 566     | 19               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-こおりタイプになる　カセット。                                                                                                                        |
-| 566     | 19               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-얼음타입으로 바뀌는 카세트.                                                                                                                        |
-| 566     | 19               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為冰屬性。                                                                                                                                   |
-| 566     | 19               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Glace.                                                                       |
-| 566     | 19               | 6           | Gibt man es Genesect zum Tragen, wandelt es den
-Typ der Attacke Techblaster in Eis um.                                                                             |
-| 566     | 19               | 7           | Cartucho que convierte Tecno Shock de Genesect
-en un movimiento de tipo Hielo.                                                                                     |
-| 566     | 19               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo
-Ghiaccio.                                                                                     |
-| 566     | 19               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Ice type.                                                                 |
-| 566     | 19               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-こおりタイプになる　カセット。                                                                                                                         |
-| 566     | 19               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为冰属性。                                                                                                                               |
-| 566     | 20               | 1           | ゲノセクトに　もたせると
-テクノバスターという　わざが
-こおりタイプになる　カセット。                                                                                                                        |
-| 566     | 20               | 3           | 게노세크트에게 지니게 하면
-테크노버스터라는 기술이
-얼음타입으로 바뀌는 카세트.                                                                                                                        |
-| 566     | 20               | 4           | 讓蓋諾賽克特攜帶的卡帶。
-攜帶後，招式高科技光炮
-會變為冰屬性。                                                                                                                                   |
-| 566     | 20               | 5           | Tenu par Genesect, ce module change la capacité
-Techno-Buster en une capacité de type Glace.                                                                       |
-| 566     | 20               | 6           | Gibt man es Genesect zum Tragen, wandelt es den Typ
-der Attacke Techblaster in Eis um.                                                                             |
-| 566     | 20               | 7           | Cartucho que convierte Tecno Shock de Genesect en un
-movimiento de tipo Hielo.                                                                                     |
-| 566     | 20               | 8           | Modulo da dare a Genesect.
-Trasforma Tecnobotto in una mossa di tipo
-Ghiaccio.                                                                                     |
-| 566     | 20               | 9           | A cassette to be held by Genesect. It changes
-Genesect’s Techno Blast move so it becomes
-Ice type.                                                                 |
-| 566     | 20               | 11          | ゲノセクトに　持たせると
-テクノバスターという　技が
-こおりタイプになる　カセット。                                                                                                                         |
-| 566     | 20               | 12          | 这是让盖诺赛克特携带的卡带。
-携带后，高科技光炮这招式
-就会变为冰属性。                                                                                                                               |
-| 567     | 11               | 5           | Un chocolat extrêmement
-sucré. Restaure 20 PV
-à un Pokémon.                                                                                                        |
-| 567     | 11               | 9           | Very sweet chocolate.  
-It restores the HP of one Pokémon
-by only 20 points.                                                                                       |
-| 567     | 14               | 9           | Very sweet chocolate.
-It restores the HP of one Pokémon
-by only 20 points.                                                                                         |
-| 567     | 15               | 1           | とても　あまったるい　チョコレート。
-ポケモン　１ひきの　ＨＰを
-２０だけ　かいふくする。                                                                                                                      |
-| 567     | 15               | 3           | 지나칠 정도로 달콤한 초콜릿.
-포켓몬 1마리의 HP를
-20만큼 회복한다.                                                                                                                           |
-| 567     | 15               | 5           | Un chocolat extrêmement sucré.
-Restaure 20 PV d’un Pokémon.                                                                                                        |
-| 567     | 15               | 6           | Ein süßer Schokosnack, der die KP
-eines Pokémon um 20 Punkte auffüllt.                                                                                             |
-| 567     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-curarse del envenenamiento.                                                                                              |
-| 567     | 15               | 8           | Cioccolato molto dolce.
-Restituisce 20 PS a un Pokémon.                                                                                                            |
-| 567     | 15               | 9           | A piece of cloyingly sweet chocolate.
-When consumed, it restores
-20 HP to an injured Pokémon.                                                                      |
-| 567     | 15               | 11          | とても　甘ったるい　チョコレート。
-ポケモン　１匹の　ＨＰを
-２０だけ　回復する。                                                                                                                          |
-| 567     | 17               | 1           | とても　あまったるい　チョコレート。
-ポケモン　１ひきの　ＨＰを
-２０だけ　かいふくする。                                                                                                                      |
-| 567     | 17               | 3           | 지나칠 정도로 달콤한 초콜릿.
-포켓몬 1마리의 HP를
-20만큼 회복한다.                                                                                                                           |
-| 567     | 17               | 4           | 非常甜膩的巧克力。
-能讓１隻寶可夢
-回復２０ＨＰ。                                                                                                                                          |
-| 567     | 17               | 5           | Un chocolat extrêmement sucré.
-Restaure 20 PV d’un Pokémon.                                                                                                        |
-| 567     | 17               | 6           | Ein süßer Schokosnack, der die KP eines Pokémon
-um 20 Punkte auffüllt.                                                                                             |
-| 567     | 17               | 7           | Chocolatina de sabor dulce. Restaura 20 PS de
-un Pokémon.                                                                                                          |
-| 567     | 17               | 8           | Cioccolato molto dolce.
-Restituisce 20 PS a un Pokémon.                                                                                                            |
-| 567     | 17               | 9           | A piece of cloyingly sweet chocolate.
-When consumed, it restores 20 HP to an
-injured Pokémon.                                                                      |
-| 567     | 17               | 11          | とても　甘ったるい　チョコレート。
-ポケモン　１匹の　ＨＰを
-２０だけ　回復する。                                                                                                                          |
-| 567     | 17               | 12          | 非常甜腻的巧克力。
-能让１只宝可梦
-回复２０ＨＰ。                                                                                                                                          |
-| 567     | 18               | 1           | とても　あまったるい　チョコレート。
-ポケモン　１ひきの　ＨＰを
-２０だけ　かいふくする。                                                                                                                      |
-| 567     | 18               | 3           | 지나칠 정도로 달콤한 초콜릿.
-포켓몬 1마리의 HP를
-20만큼 회복한다.                                                                                                                           |
-| 567     | 18               | 4           | 非常甜膩的巧克力。
-能讓１隻寶可夢
-回復２０ＨＰ。                                                                                                                                          |
-| 567     | 18               | 5           | Un chocolat extrêmement sucré.
-Restaure 20 PV d’un Pokémon.                                                                                                        |
-| 567     | 18               | 6           | Ein süßer Schokosnack, der die KP eines Pokémon
-um 20 Punkte auffüllt.                                                                                             |
-| 567     | 18               | 7           | Chocolatina de sabor dulce. Restaura 20 PS de
-un Pokémon.                                                                                                          |
-| 567     | 18               | 8           | Cioccolato molto dolce.
-Restituisce 20 PS a un Pokémon.                                                                                                            |
-| 567     | 18               | 9           | A piece of cloyingly sweet chocolate.
-When consumed, it restores 20 HP to an
-injured Pokémon.                                                                      |
-| 567     | 18               | 11          | とても　甘ったるい　チョコレート。
-ポケモン　１匹の　ＨＰを
-２０だけ　回復する。                                                                                                                          |
-| 567     | 18               | 12          | 非常甜腻的巧克力。
-能让１只宝可梦
-回复２０ＨＰ。                                                                                                                                          |
-| 567     | 19               | 1           | とても　あまったるい　チョコレート。
-ポケモン　１ひきの　ＨＰを
-２０だけ　かいふくする。                                                                                                                      |
-| 567     | 19               | 3           | 지나칠 정도로 달콤한 초콜릿.
-포켓몬 1마리의 HP를
-20만큼 회복한다.                                                                                                                           |
-| 567     | 19               | 4           | 非常甜膩的巧克力。
-能讓１隻寶可夢
-回復20HP。                                                                                                                                          |
-| 567     | 19               | 5           | Un chocolat extrêmement sucré.
-Restaure 20 PV d’un Pokémon.                                                                                                        |
-| 567     | 19               | 6           | Ein süßer Schokosnack, der die KP eines Pokémon
-um 20 Punkte auffüllt.                                                                                             |
-| 567     | 19               | 7           | Chocolatina de sabor dulce. Restaura 20 PS de
-un Pokémon.                                                                                                          |
-| 567     | 19               | 8           | Cioccolato molto dolce.
-Restituisce 20 PS a un Pokémon.                                                                                                            |
-| 567     | 19               | 9           | A piece of cloyingly sweet chocolate.
-When consumed, it restores 20 HP to an
-injured Pokémon.                                                                      |
-| 567     | 19               | 11          | とても　甘ったるい　チョコレート。
-ポケモン　１匹の　ＨＰを
-２０だけ　回復する。                                                                                                                          |
-| 567     | 19               | 12          | 非常甜腻的巧克力。
-能让１只宝可梦
-回复20HP。                                                                                                                                          |
-| 567     | 20               | 1           | とても　あまったるい　チョコレート。
-ポケモン　１ひきの　ＨＰを
-２０だけ　かいふくする。                                                                                                                      |
-| 567     | 20               | 3           | 지나칠 정도로 달콤한 초콜릿.
-포켓몬 1마리의 HP를
-20만큼 회복한다.                                                                                                                           |
-| 567     | 20               | 4           | 非常甜膩的巧克力。
-能讓１隻寶可夢
-回復２０ＨＰ。                                                                                                                                          |
-| 567     | 20               | 5           | Un chocolat extrêmement sucré.
-Restaure 20 PV d’un Pokémon.                                                                                                        |
-| 567     | 20               | 6           | Ein süßer Schokosnack, der die KP eines Pokémon um
-20 Punkte auffüllt.                                                                                             |
-| 567     | 20               | 7           | Chocolatina de sabor dulce. Restaura 20 PS de un
-Pokémon.                                                                                                          |
-| 567     | 20               | 8           | Cioccolato molto dolce.
-Restituisce 20 PS a un Pokémon.                                                                                                            |
-| 567     | 20               | 9           | A piece of cloyingly sweet chocolate.
-It can be used to restore 20 HP to a single Pokémon.                                                                         |
-| 567     | 20               | 11          | とても　甘ったるい　チョコレート。
-ポケモン　１匹の　ＨＰを
-２０だけ　回復する。                                                                                                                          |
-| 567     | 20               | 12          | 非常甜腻的巧克力。
-能让１只宝可梦
-回复２０ＨＰ。                                                                                                                                          |
-| 568     | 11               | 5           | Un papier à lettres idéal pour
-se présenter. Peut être tenu
-et livré par un Pokémon.                                                                               |
-| 568     | 11               | 9           | Stationery designed for
-introductory greetings.
-Let a Pokémon hold it for delivery.                                                                                |
-| 568     | 14               | 9           | Stationery designed for
-introductory greetings.
-Let a Pokémon hold it for delivery.                                                                                |
-| 568     | 15               | 1           | はじめましての　あいさつが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                          |
-| 568     | 15               | 3           | 첫인사를
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                               |
-| 568     | 15               | 5           | Un papier à lettres idéal pour se présenter.
-Peut être tenu et livré par un Pokémon.                                                                               |
-| 568     | 15               | 6           | Briefpapier, mit dem man sich bei jemandem
-vorstellen kann. Gib es einem Pokémon zum
-Tragen.                                                                       |
-| 568     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar 10 PP de un movimiento.                                                                                        |
-| 568     | 15               | 8           | Carta da lettere ideale per presentarsi a qualcuno.
-Si può dare a un Pokémon affinché la consegni.                                                                 |
-| 568     | 15               | 9           | Stationery designed to be easy to use
-when writing someone for the first time.
-Have a Pokémon hold it for delivery.                                                |
-| 568     | 15               | 11          | はじめましての　あいさつが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 568     | 17               | 1           | はじめましての　あいさつが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                          |
-| 568     | 17               | 3           | 첫인사를
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                               |
-| 568     | 17               | 4           | 方便寫初次見面這類招呼語的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                        |
-| 568     | 17               | 5           | Un papier à lettres idéal pour se présenter.
-Peut être tenu et livré par un Pokémon.                                                                               |
-| 568     | 17               | 6           | Briefpapier, mit dem man sich bei jemandem
-vorstellen kann. Gib es einem Pokémon zum Tragen.                                                                       |
-| 568     | 17               | 7           | Carta para presentarse a alguien. Haz que la
-entregue un Pokémon.                                                                                                  |
-| 568     | 17               | 8           | Carta da lettere ideale per presentarsi a qualcuno.
-Si può dare a un Pokémon affinché la consegni.                                                                 |
-| 568     | 17               | 9           | Stationery designed to be easy to use when writing
-someone for the first time. Have a Pokémon hold it
-for delivery.                                                |
-| 568     | 17               | 11          | はじめましての　あいさつが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 568     | 17               | 12          | 方便写初次见面这类寒暄语的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                              |
-| 568     | 18               | 1           | はじめましての　あいさつが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                          |
-| 568     | 18               | 3           | 첫인사를
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                               |
-| 568     | 18               | 4           | 方便寫初次見面這類招呼語的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                        |
-| 568     | 18               | 5           | Un papier à lettres idéal pour se présenter.
-Peut être tenu et livré par un Pokémon.                                                                               |
-| 568     | 18               | 6           | Briefpapier, mit dem man sich bei jemandem
-vorstellen kann. Gib es einem Pokémon zum Tragen.                                                                       |
-| 568     | 18               | 7           | Carta para presentarse a alguien. Haz que la
-entregue un Pokémon.                                                                                                  |
-| 568     | 18               | 8           | Carta da lettere ideale per presentarsi a qualcuno.
-Si può dare a un Pokémon affinché la consegni.                                                                 |
-| 568     | 18               | 9           | Stationery designed to be easy to use when writing
-someone for the first time. Have a Pokémon hold it
-for delivery.                                                |
-| 568     | 18               | 11          | はじめましての　あいさつが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 568     | 18               | 12          | 方便写初次见面这类寒暄语的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                              |
-| 568     | 19               | 1           | はじめましての　あいさつが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                          |
-| 568     | 19               | 3           | 첫인사를
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                               |
-| 568     | 19               | 4           | 方便寫初次見面這類招呼語的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                        |
-| 568     | 19               | 5           | Un papier à lettres idéal pour se présenter.
-Peut être tenu et livré par un Pokémon.                                                                               |
-| 568     | 19               | 6           | Briefpapier, mit dem man sich bei jemandem
-vorstellen kann. Gib es einem Pokémon zum Tragen.                                                                       |
-| 568     | 19               | 7           | Carta para presentarse a alguien. Haz que la entregue
-un Pokémon.                                                                                                  |
-| 568     | 19               | 8           | Carta da lettere ideale per presentarsi a qualcuno.
-Si può dare a un Pokémon affinché la consegni.                                                                 |
-| 568     | 19               | 9           | Stationery designed to be easy to use when writing
-someone for the first time. Have a Pokémon hold it
-for delivery.                                                |
-| 568     | 19               | 11          | はじめましての　あいさつが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 568     | 19               | 12          | 方便写初次见面这类寒暄语的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                              |
-| 568     | 20               | 1           | はじめましての　あいさつが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                          |
-| 568     | 20               | 3           | 첫인사를
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                               |
-| 568     | 20               | 4           | 方便寫初次見面這類招呼語的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                        |
-| 568     | 20               | 5           | Un papier à lettres idéal pour se présenter.
-Peut être tenu et livré par un Pokémon.                                                                               |
-| 568     | 20               | 6           | Briefpapier, mit dem man sich bei jemandem vorstellen
-kann. Gib es einem Pokémon zum Tragen.                                                                       |
-| 568     | 20               | 7           | Carta para presentarse a alguien. Haz que la entregue
-un Pokémon.                                                                                                  |
-| 568     | 20               | 8           | Carta da lettere ideale per presentarsi a qualcuno.
-Si può dare a un Pokémon affinché la consegni.                                                                 |
-| 568     | 20               | 9           | Stationery designed to be easy to use when writing
-someone for the first time. Have a Pokémon hold it
-for delivery.                                                |
-| 568     | 20               | 11          | はじめましての　あいさつが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 568     | 20               | 12          | 方便写初次见面这类寒暄语的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                              |
-| 569     | 11               | 5           | Un papier à lettres idéal pour parler
-de ce que l’on aime. Peut être tenu
-et livré par un Pokémon.                                                                 |
-| 569     | 11               | 9           | Stationery designed for
-writing about your favorite things.
-Let a Pokémon hold it for delivery.                                                                    |
-| 569     | 14               | 9           | Stationery designed for
-writing about your favorite things.
-Let a Pokémon hold it for delivery.                                                                    |
-| 569     | 15               | 1           | すきなものを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 569     | 15               | 3           | 좋아하는 것을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 569     | 15               | 5           | Un papier à lettres idéal pour parler de ce que
-l’on aime. Peut être tenu et livré par un Pokémon.                                                                 |
-| 569     | 15               | 6           | Briefpapier, mit dem man jemandem verraten
-kann, was man gern mag. Gib es einem Pokémon
-zum Tragen.                                                                |
-| 569     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar 10 PS.                                                                                                         |
-| 569     | 15               | 8           | Carta da lettere ideale per parlare di ciò che si
-ama.
-Si può dare a un Pokémon affinché la consegni.                                                              |
-| 569     | 15               | 9           | Stationery designed to make it easier
-to write about your favorite things.
-Have a Pokémon hold it for delivery.                                                    |
-| 569     | 15               | 11          | 好きなものを　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 569     | 17               | 1           | すきなものを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 569     | 17               | 3           | 좋아하는 것을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 569     | 17               | 4           | 方便寫表達自己喜好這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                       |
-| 569     | 17               | 5           | Un papier à lettres idéal pour parler de ce que
-l’on aime. Peut être tenu et livré par un Pokémon.                                                                 |
-| 569     | 17               | 6           | Briefpapier, mit dem man jemandem verraten kann,
-was man gern mag. Gib es einem Pokémon zum
-Tragen.                                                                |
-| 569     | 17               | 7           | Carta para escribir sobre tus cosas favoritas.
-Haz que la entregue un Pokémon.                                                                                     |
-| 569     | 17               | 8           | Carta da lettere ideale per parlare di ciò che
-si ama.
-Si può dare a un Pokémon affinché la consegni.                                                              |
-| 569     | 17               | 9           | Stationery designed to make it easier to write about
-your favorite things. Have a Pokémon hold it
-for delivery.                                                    |
-| 569     | 17               | 11          | 好きなものを　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 569     | 17               | 12          | 方便写表达自己喜好这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                             |
-| 569     | 18               | 1           | すきなものを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 569     | 18               | 3           | 좋아하는 것을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 569     | 18               | 4           | 方便寫表達自己喜好這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                       |
-| 569     | 18               | 5           | Un papier à lettres idéal pour parler de ce que
-l’on aime. Peut être tenu et livré par un Pokémon.                                                                 |
-| 569     | 18               | 6           | Briefpapier, mit dem man jemandem verraten kann,
-was man gern mag. Gib es einem Pokémon zum
-Tragen.                                                                |
-| 569     | 18               | 7           | Carta para escribir sobre tus cosas favoritas.
-Haz que la entregue un Pokémon.                                                                                     |
-| 569     | 18               | 8           | Carta da lettere ideale per parlare di ciò che
-si ama.
-Si può dare a un Pokémon affinché la consegni.                                                              |
-| 569     | 18               | 9           | Stationery designed to make it easier to write about
-your favorite things. Have a Pokémon hold it
-for delivery.                                                    |
-| 569     | 18               | 11          | 好きなものを　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 569     | 18               | 12          | 方便写表达自己喜好这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                             |
-| 569     | 19               | 1           | すきなものを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 569     | 19               | 3           | 좋아하는 것을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 569     | 19               | 4           | 方便寫表達自己喜好這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                       |
-| 569     | 19               | 5           | Un papier à lettres idéal pour parler de ce que
-l’on aime. Peut être tenu et livré par un Pokémon.                                                                 |
-| 569     | 19               | 6           | Briefpapier, mit dem man jemandem verraten kann,
-was man gern mag. Gib es einem Pokémon zum
-Tragen.                                                                |
-| 569     | 19               | 7           | Carta para escribir sobre tus cosas favoritas. Haz que
-la entregue un Pokémon.                                                                                     |
-| 569     | 19               | 8           | Carta da lettere ideale per parlare di ciò che
-si ama.
-Si può dare a un Pokémon affinché la consegni.                                                              |
-| 569     | 19               | 9           | Stationery designed to make it easier to write about
-your favorite things. Have a Pokémon hold it
-for delivery.                                                    |
-| 569     | 19               | 11          | 好きなものを　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 569     | 19               | 12          | 方便写表达自己喜好这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                             |
-| 569     | 20               | 1           | すきなものを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 569     | 20               | 3           | 좋아하는 것을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 569     | 20               | 4           | 方便寫表達自己喜好這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                       |
-| 569     | 20               | 5           | Un papier à lettres idéal pour parler de ce que
-l’on aime. Peut être tenu et livré par un Pokémon.                                                                 |
-| 569     | 20               | 6           | Briefpapier, mit dem man jemandem verraten kann,
-was man gern mag. Gib es einem Pokémon zum Tragen.                                                                |
-| 569     | 20               | 7           | Carta para escribir sobre tus cosas favoritas. Haz que la
-entregue un Pokémon.                                                                                     |
-| 569     | 20               | 8           | Carta da lettere ideale per parlare di ciò che
-si ama.
-Si può dare a un Pokémon affinché la consegni.                                                              |
-| 569     | 20               | 9           | Stationery designed to make it easier to write about
-your favorite things. Have a Pokémon hold it
-for delivery.                                                    |
-| 569     | 20               | 11          | 好きなものを　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 569     | 20               | 12          | 方便写表达自己喜好这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                             |
-| 570     | 11               | 5           | Un papier à lettres idéal pour
-les invitations. Peut être tenu
-et livré par un Pokémon.                                                                            |
-| 570     | 11               | 9           | Stationery designed for
-invitations.
-Let a Pokémon hold it for delivery.                                                                                           |
-| 570     | 14               | 9           | Stationery designed for
-invitations.
-Let a Pokémon hold it for delivery.                                                                                           |
-| 570     | 15               | 1           | あいてを　おさそいする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 570     | 15               | 3           | 상대를 초대하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                       |
-| 570     | 15               | 5           | Un papier à lettres idéal pour les invitations.
-Peut être tenu et livré par un Pokémon.                                                                            |
-| 570     | 15               | 6           | Briefpapier, mit dem man eine andere Person zu
-etwas einladen kann. Gib es einem Pokémon zum
-Tragen.                                                               |
-| 570     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-librarse de la confusión.                                                                                                |
-| 570     | 15               | 8           | Carta da lettere ideale per scrivere un invito.
-Si può dare a un Pokémon affinché la consegni.                                                                     |
-| 570     | 15               | 9           | Stationery designed to allow you to
-extend an invitation to the recipient.
-Have a Pokémon hold it for delivery.                                                    |
-| 570     | 15               | 11          | 相手を　お誘いする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 570     | 17               | 1           | あいてを　おさそいする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 570     | 17               | 3           | 상대를 초대하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                       |
-| 570     | 17               | 4           | 方便寫邀請對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 570     | 17               | 5           | Un papier à lettres idéal pour les invitations.
-Peut être tenu et livré par un Pokémon.                                                                            |
-| 570     | 17               | 6           | Briefpapier, mit dem man eine andere Person zu
-etwas einladen kann. Gib es einem Pokémon zum
-Tragen.                                                               |
-| 570     | 17               | 7           | Carta para invitar a un compañero. Haz que la
-entregue un Pokémon.                                                                                                 |
-| 570     | 17               | 8           | Carta da lettere ideale per scrivere un invito.
-Si può dare a un Pokémon affinché la consegni.                                                                     |
-| 570     | 17               | 9           | Stationery designed to allow you to extend an
-invitation to the recipient. Have a Pokémon hold it
-for delivery.                                                    |
-| 570     | 17               | 11          | 相手を　お誘いする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 570     | 17               | 12          | 方便写邀请对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 570     | 18               | 1           | あいてを　おさそいする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 570     | 18               | 3           | 상대를 초대하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                       |
-| 570     | 18               | 4           | 方便寫邀請對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 570     | 18               | 5           | Un papier à lettres idéal pour les invitations.
-Peut être tenu et livré par un Pokémon.                                                                            |
-| 570     | 18               | 6           | Briefpapier, mit dem man eine andere Person zu
-etwas einladen kann. Gib es einem Pokémon zum
-Tragen.                                                               |
-| 570     | 18               | 7           | Carta para invitar a un compañero. Haz que la
-entregue un Pokémon.                                                                                                 |
-| 570     | 18               | 8           | Carta da lettere ideale per scrivere un invito.
-Si può dare a un Pokémon affinché la consegni.                                                                     |
-| 570     | 18               | 9           | Stationery designed to allow you to extend an
-invitation to the recipient. Have a Pokémon hold it
-for delivery.                                                    |
-| 570     | 18               | 11          | 相手を　お誘いする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 570     | 18               | 12          | 方便写邀请对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 570     | 19               | 1           | あいてを　おさそいする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 570     | 19               | 3           | 상대를 초대하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                       |
-| 570     | 19               | 4           | 方便寫邀請對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 570     | 19               | 5           | Un papier à lettres idéal pour les invitations.
-Peut être tenu et livré par un Pokémon.                                                                            |
-| 570     | 19               | 6           | Briefpapier, mit dem man eine andere Person zu
-etwas einladen kann. Gib es einem Pokémon zum
-Tragen.                                                               |
-| 570     | 19               | 7           | Carta para invitar a un compañero. Haz que la entregue
-un Pokémon.                                                                                                 |
-| 570     | 19               | 8           | Carta da lettere ideale per scrivere un invito.
-Si può dare a un Pokémon affinché la consegni.                                                                     |
-| 570     | 19               | 9           | Stationery designed to allow you to extend an
-invitation to the recipient. Have a Pokémon hold it
-for delivery.                                                    |
-| 570     | 19               | 11          | 相手を　お誘いする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 570     | 19               | 12          | 方便写邀请对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 570     | 20               | 1           | あいてを　おさそいする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 570     | 20               | 3           | 상대를 초대하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                       |
-| 570     | 20               | 4           | 方便寫邀請對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 570     | 20               | 5           | Un papier à lettres idéal pour les invitations.
-Peut être tenu et livré par un Pokémon.                                                                            |
-| 570     | 20               | 6           | Briefpapier, mit dem man eine andere Person zu etwas
-einladen kann. Gib es einem Pokémon zum Tragen.                                                               |
-| 570     | 20               | 7           | Carta para invitar a un compañero. Haz que la entregue
-un Pokémon.                                                                                                 |
-| 570     | 20               | 8           | Carta da lettere ideale per scrivere un invito.
-Si può dare a un Pokémon affinché la consegni.                                                                     |
-| 570     | 20               | 9           | Stationery designed to allow you to extend an
-invitation to the recipient. Have a Pokémon hold it
-for delivery.                                                    |
-| 570     | 20               | 11          | 相手を　お誘いする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 570     | 20               | 12          | 方便写邀请对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 571     | 11               | 5           | Un papier à lettres idéal pour les
-remerciements. Peut être tenu
-et livré par un Pokémon.                                                                          |
-| 571     | 11               | 9           | Stationery designed for
-a thank-you note.
-Let a Pokémon hold it for delivery.                                                                                      |
-| 571     | 14               | 9           | Stationery designed for
-a thank-you note.
-Let a Pokémon hold it for delivery.                                                                                      |
-| 571     | 15               | 1           | かんしゃを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                        |
-| 571     | 15               | 3           | 감사의 마음을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 571     | 15               | 5           | Un papier à lettres idéal pour les remerciements.
-Peut être tenu et livré par un Pokémon.                                                                          |
-| 571     | 15               | 6           | Briefpapier, mit dem man sich bei jemandem
-bedanken kann. Gib es einem Pokémon zum
-Tragen.                                                                         |
-| 571     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-recuperarse de problemas de estado.                                                                                      |
-| 571     | 15               | 8           | Carta da lettere ideale per scrivere dei
-ringraziamenti.
-Si può dare a un Pokémon affinché la consegni.                                                            |
-| 571     | 15               | 9           | Stationery designed to make it easy
-for you to express thanks. Have a
-Pokémon hold it for delivery.                                                                |
-| 571     | 15               | 11          | 感謝を　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                         |
-| 571     | 17               | 1           | かんしゃを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                        |
-| 571     | 17               | 3           | 감사의 마음을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 571     | 17               | 4           | 方便寫表達感謝這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 571     | 17               | 5           | Un papier à lettres idéal pour les remerciements.
-Peut être tenu et livré par un Pokémon.                                                                          |
-| 571     | 17               | 6           | Briefpapier, mit dem man sich bei jemandem
-bedanken kann. Gib es einem Pokémon zum Tragen.                                                                         |
-| 571     | 17               | 7           | Carta de agradecimiento. Haz que la entregue
-un Pokémon.                                                                                                           |
-| 571     | 17               | 8           | Carta da lettere ideale per scrivere dei
-ringraziamenti.
-Si può dare a un Pokémon affinché la consegni.                                                            |
-| 571     | 17               | 9           | Stationery designed to make it easy for you to
-express thanks. Have a Pokémon hold it
-for delivery.                                                                |
-| 571     | 17               | 11          | 感謝を　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                         |
-| 571     | 17               | 12          | 方便写表达感谢这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 571     | 18               | 1           | かんしゃを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                        |
-| 571     | 18               | 3           | 감사의 마음을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 571     | 18               | 4           | 方便寫表達感謝這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 571     | 18               | 5           | Un papier à lettres idéal pour les remerciements.
-Peut être tenu et livré par un Pokémon.                                                                          |
-| 571     | 18               | 6           | Briefpapier, mit dem man sich bei jemandem
-bedanken kann. Gib es einem Pokémon zum Tragen.                                                                         |
-| 571     | 18               | 7           | Carta de agradecimiento. Haz que la entregue
-un Pokémon.                                                                                                           |
-| 571     | 18               | 8           | Carta da lettere ideale per scrivere dei
-ringraziamenti.
-Si può dare a un Pokémon affinché la consegni.                                                            |
-| 571     | 18               | 9           | Stationery designed to make it easy for you to
-express thanks. Have a Pokémon hold it
-for delivery.                                                                |
-| 571     | 18               | 11          | 感謝を　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                         |
-| 571     | 18               | 12          | 方便写表达感谢这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 571     | 19               | 1           | かんしゃを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                        |
-| 571     | 19               | 3           | 감사의 마음을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 571     | 19               | 4           | 方便寫表達感謝這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 571     | 19               | 5           | Un papier à lettres idéal pour les remerciements.
-Peut être tenu et livré par un Pokémon.                                                                          |
-| 571     | 19               | 6           | Briefpapier, mit dem man sich bei jemandem
-bedanken kann. Gib es einem Pokémon zum Tragen.                                                                         |
-| 571     | 19               | 7           | Carta de agradecimiento. Haz que la entregue
-un Pokémon.                                                                                                           |
-| 571     | 19               | 8           | Carta da lettere ideale per scrivere dei
-ringraziamenti.
-Si può dare a un Pokémon affinché la consegni.                                                            |
-| 571     | 19               | 9           | Stationery designed to make it easy for you to
-express thanks. Have a Pokémon hold it
-for delivery.                                                                |
-| 571     | 19               | 11          | 感謝を　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                         |
-| 571     | 19               | 12          | 方便写表达感谢这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 571     | 20               | 1           | かんしゃを　つたえる　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                        |
-| 571     | 20               | 3           | 감사의 마음을 전하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                    |
-| 571     | 20               | 4           | 方便寫表達感謝這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 571     | 20               | 5           | Un papier à lettres idéal pour les remerciements.
-Peut être tenu et livré par un Pokémon.                                                                          |
-| 571     | 20               | 6           | Briefpapier, mit dem man sich bei jemandem bedanken
-kann. Gib es einem Pokémon zum Tragen.                                                                         |
-| 571     | 20               | 7           | Carta de agradecimiento. Haz que la entregue un
-Pokémon.                                                                                                           |
-| 571     | 20               | 8           | Carta da lettere ideale per scrivere dei
-ringraziamenti.
-Si può dare a un Pokémon affinché la consegni.                                                            |
-| 571     | 20               | 9           | Stationery designed to make it easy for you to
-express thanks. Have a Pokémon hold it
-for delivery.                                                                |
-| 571     | 20               | 11          | 感謝を　伝える　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                         |
-| 571     | 20               | 12          | 方便写表达感谢这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 572     | 11               | 5           | Un papier à lettres idéal pour
-poser des questions. Peut être
-tenu et livré par un Pokémon.                                                                        |
-| 572     | 11               | 9           | Stationery designed for
-writing questions. 
-Let a Pokémon hold it for delivery.                                                                                    |
-| 572     | 14               | 9           | Stationery designed for
-writing questions.
-Let a Pokémon hold it for delivery.                                                                                     |
-| 572     | 15               | 1           | あいてへの　しつもんの　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 572     | 15               | 3           | 상대에게 질문하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 572     | 15               | 5           | Un papier à lettres idéal pour poser des
-questions. Peut être tenu et livré par
-un Pokémon.                                                                        |
-| 572     | 15               | 6           | Briefpapier, mit dem man jemandem eine Frage
-stellen kann. Gib es einem Pokémon zum Tragen.                                                                        |
-| 572     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS.                                                                                                    |
-| 572     | 15               | 8           | Carta da lettere ideale per scrivere una domanda.
-Si può dare a un Pokémon affinché la consegni.                                                                   |
-| 572     | 15               | 9           | Stationery designed to make it easier
-to pose a question about something.
-Have a Pokémon hold it for delivery.                                                     |
-| 572     | 15               | 11          | 相手への　質問の　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 572     | 17               | 1           | あいてへの　しつもんの　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 572     | 17               | 3           | 상대에게 질문하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 572     | 17               | 4           | 方便寫詢問對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 572     | 17               | 5           | Un papier à lettres idéal pour poser des questions.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 572     | 17               | 6           | Briefpapier, mit dem man jemandem eine Frage
-stellen kann. Gib es einem Pokémon zum Tragen.                                                                        |
-| 572     | 17               | 7           | Carta para preguntar a un compañero. Haz que la
-entregue un Pokémon.                                                                                               |
-| 572     | 17               | 8           | Carta da lettere ideale per scrivere una domanda.
-Si può dare a un Pokémon affinché la consegni.                                                                   |
-| 572     | 17               | 9           | Stationery designed to make it easier to pose a
-question about something. Have a Pokémon hold it
-for delivery.                                                     |
-| 572     | 17               | 11          | 相手への　質問の　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 572     | 17               | 12          | 方便写询问对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 572     | 18               | 1           | あいてへの　しつもんの　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 572     | 18               | 3           | 상대에게 질문하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 572     | 18               | 4           | 方便寫詢問對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 572     | 18               | 5           | Un papier à lettres idéal pour poser des questions.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 572     | 18               | 6           | Briefpapier, mit dem man jemandem eine Frage
-stellen kann. Gib es einem Pokémon zum Tragen.                                                                        |
-| 572     | 18               | 7           | Carta para preguntar a un compañero. Haz que la
-entregue un Pokémon.                                                                                               |
-| 572     | 18               | 8           | Carta da lettere ideale per scrivere una domanda.
-Si può dare a un Pokémon affinché la consegni.                                                                   |
-| 572     | 18               | 9           | Stationery designed to make it easier to pose a
-question about something. Have a Pokémon hold it
-for delivery.                                                     |
-| 572     | 18               | 11          | 相手への　質問の　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 572     | 18               | 12          | 方便写询问对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 572     | 19               | 1           | あいてへの　しつもんの　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 572     | 19               | 3           | 상대에게 질문하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 572     | 19               | 4           | 方便寫詢問對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 572     | 19               | 5           | Un papier à lettres idéal pour poser des questions.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 572     | 19               | 6           | Briefpapier, mit dem man jemandem eine Frage
-stellen kann. Gib es einem Pokémon zum Tragen.                                                                        |
-| 572     | 19               | 7           | Carta para preguntar a un compañero. Haz que la
-entregue un Pokémon.                                                                                               |
-| 572     | 19               | 8           | Carta da lettere ideale per scrivere una domanda.
-Si può dare a un Pokémon affinché la consegni.                                                                   |
-| 572     | 19               | 9           | Stationery designed to make it easier to pose a
-question about something. Have a Pokémon hold it
-for delivery.                                                     |
-| 572     | 19               | 11          | 相手への　質問の　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 572     | 19               | 12          | 方便写询问对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 572     | 20               | 1           | あいてへの　しつもんの　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 572     | 20               | 3           | 상대에게 질문하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 572     | 20               | 4           | 方便寫詢問對方這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 572     | 20               | 5           | Un papier à lettres idéal pour poser des questions.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 572     | 20               | 6           | Briefpapier, mit dem man jemandem eine Frage stellen
-kann. Gib es einem Pokémon zum Tragen.                                                                        |
-| 572     | 20               | 7           | Carta para preguntar a un compañero. Haz que la
-entregue un Pokémon.                                                                                               |
-| 572     | 20               | 8           | Carta da lettere ideale per scrivere una domanda.
-Si può dare a un Pokémon affinché la consegni.                                                                   |
-| 572     | 20               | 9           | Stationery designed to make it easier to pose a
-question about something. Have a Pokémon hold it
-for delivery.                                                     |
-| 572     | 20               | 11          | 相手への　質問の　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                        |
-| 572     | 20               | 12          | 方便写询问对方这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 573     | 11               | 5           | Un papier à lettres idéal pour
-donner des conseils. Peut être
-tenu et livré par un Pokémon.                                                                        |
-| 573     | 11               | 9           | Stationery designed for
-writing recommendations.
-Let a Pokémon hold it for delivery.                                                                               |
-| 573     | 14               | 9           | Stationery designed for
-writing recommendations.
-Let a Pokémon hold it for delivery.                                                                               |
-| 573     | 15               | 1           | なにかを　おすすめする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 573     | 15               | 3           | 뭔가 추천하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 573     | 15               | 5           | Un papier à lettres idéal pour donner des
-conseils. Peut être tenu et livré par un Pokémon.                                                                        |
-| 573     | 15               | 6           | Briefpapier, mit dem man jemandem einen Tipp
-geben kann. Gib es einem Pokémon zum Tragen.                                                                          |
-| 573     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS. Su sabor puede causar
-confusión.                                                                   |
-| 573     | 15               | 8           | Carta da lettere ideale per scrivere un consiglio.
-Si può dare a un Pokémon affinché la consegni.                                                                  |
-| 573     | 15               | 9           | Stationery designed to allow you to
-recommend something to the reader.
-Have a Pokémon hold it for delivery.                                                        |
-| 573     | 15               | 11          | なにかを　おすすめする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 573     | 17               | 1           | なにかを　おすすめする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 573     | 17               | 3           | 뭔가 추천하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 573     | 17               | 4           | 方便寫推薦內容這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 573     | 17               | 5           | Un papier à lettres idéal pour donner des conseils.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 573     | 17               | 6           | Briefpapier, mit dem man jemandem einen Tipp
-geben kann. Gib es einem Pokémon zum Tragen.                                                                          |
-| 573     | 17               | 7           | Carta para recomendar algo. Haz que la entregue
-un Pokémon.                                                                                                        |
-| 573     | 17               | 8           | Carta da lettere ideale per scrivere un consiglio.
-Si può dare a un Pokémon affinché la consegni.                                                                  |
-| 573     | 17               | 9           | Stationery designed to allow you to recommend
-something to the reader. Have a Pokémon hold it
-for delivery.                                                        |
-| 573     | 17               | 11          | なにかを　おすすめする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 573     | 17               | 12          | 方便写推荐内容这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 573     | 18               | 1           | なにかを　おすすめする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 573     | 18               | 3           | 뭔가 추천하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 573     | 18               | 4           | 方便寫推薦內容這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 573     | 18               | 5           | Un papier à lettres idéal pour donner des conseils.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 573     | 18               | 6           | Briefpapier, mit dem man jemandem einen Tipp
-geben kann. Gib es einem Pokémon zum Tragen.                                                                          |
-| 573     | 18               | 7           | Carta para recomendar algo. Haz que la entregue
-un Pokémon.                                                                                                        |
-| 573     | 18               | 8           | Carta da lettere ideale per scrivere un consiglio.
-Si può dare a un Pokémon affinché la consegni.                                                                  |
-| 573     | 18               | 9           | Stationery designed to allow you to recommend
-something to the reader. Have a Pokémon hold it
-for delivery.                                                        |
-| 573     | 18               | 11          | なにかを　おすすめする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 573     | 18               | 12          | 方便写推荐内容这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 573     | 19               | 1           | なにかを　おすすめする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 573     | 19               | 3           | 뭔가 추천하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 573     | 19               | 4           | 方便寫推薦內容這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 573     | 19               | 5           | Un papier à lettres idéal pour donner des conseils.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 573     | 19               | 6           | Briefpapier, mit dem man jemandem einen Tipp
-geben kann. Gib es einem Pokémon zum Tragen.                                                                          |
-| 573     | 19               | 7           | Carta para recomendar algo. Haz que la entregue
-un Pokémon.                                                                                                        |
-| 573     | 19               | 8           | Carta da lettere ideale per scrivere un consiglio.
-Si può dare a un Pokémon affinché la consegni.                                                                  |
-| 573     | 19               | 9           | Stationery designed to allow you to recommend
-something to the reader. Have a Pokémon hold it
-for delivery.                                                        |
-| 573     | 19               | 11          | なにかを　おすすめする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 573     | 19               | 12          | 方便写推荐内容这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 573     | 20               | 1           | なにかを　おすすめする　メールが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 573     | 20               | 3           | 뭔가 추천하는 메일을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 573     | 20               | 4           | 方便寫推薦內容這類郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                         |
-| 573     | 20               | 5           | Un papier à lettres idéal pour donner des conseils.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 573     | 20               | 6           | Briefpapier, mit dem man jemandem einen Tipp geben
-kann. Gib es einem Pokémon zum Tragen.                                                                          |
-| 573     | 20               | 7           | Carta para recomendar algo. Haz que la entregue un
-Pokémon.                                                                                                        |
-| 573     | 20               | 8           | Carta da lettere ideale per scrivere un consiglio.
-Si può dare a un Pokémon affinché la consegni.                                                                  |
-| 573     | 20               | 9           | Stationery designed to allow you to recommend
-something to the reader. Have a Pokémon hold it
-for delivery.                                                        |
-| 573     | 20               | 11          | なにかを　おすすめする　メールが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 573     | 20               | 12          | 方便写推荐内容这类邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                               |
-| 574     | 11               | 5           | Un papier à lettres idéal pour répondre
-à un autre courrier. Peut être tenu
-et livré par un Pokémon.                                                               |
-| 574     | 11               | 9           | Stationery designed for
-writing a reply. 
-Let a Pokémon hold it for delivery.                                                                                      |
-| 574     | 14               | 9           | Stationery designed for
-writing a reply.
-Let a Pokémon hold it for delivery.                                                                                       |
-| 574     | 15               | 1           | もらった　メールへの　おかえしが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 574     | 15               | 3           | 받은 메일에 대한 답장을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 574     | 15               | 5           | Un papier à lettres idéal pour répondre à
-un autre courrier. Peut être tenu et livré par
-un Pokémon.                                                               |
-| 574     | 15               | 6           | Briefpapier, mit dem man einen anderen Brief
-beantworten kann. Gib es einem Pokémon zum
-Tragen.                                                                    |
-| 574     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS. Su sabor puede causar
-confusión.                                                                   |
-| 574     | 15               | 8           | Carta da lettere ideale per scrivere una risposta
-a un messaggio.
-Si può dare a un Pokémon affinché la consegni.                                                   |
-| 574     | 15               | 9           | Stationery designed to make it easy
-to respond to a letter you received.
-Have a Pokémon hold it for delivery.                                                      |
-| 574     | 15               | 11          | もらった　メールへの　お返しが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 574     | 17               | 1           | もらった　メールへの　おかえしが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 574     | 17               | 3           | 받은 메일에 대한 답장을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 574     | 17               | 4           | 方便寫回覆郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 574     | 17               | 5           | Un papier à lettres idéal pour répondre à un autre
-courrier. Peut être tenu et livré par un Pokémon.                                                               |
-| 574     | 17               | 6           | Briefpapier, mit dem man einen anderen Brief
-beantworten kann. Gib es einem Pokémon zum
-Tragen.                                                                    |
-| 574     | 17               | 7           | Carta para responder a un mensaje. Haz que la
-entregue un Pokémon.                                                                                                 |
-| 574     | 17               | 8           | Carta da lettere ideale per scrivere una risposta
-a un messaggio.
-Si può dare a un Pokémon affinché la consegni.                                                   |
-| 574     | 17               | 9           | Stationery designed to make it easy to respond
-to a letter you received. Have a Pokémon hold it
-for delivery.                                                      |
-| 574     | 17               | 11          | もらった　メールへの　お返しが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 574     | 17               | 12          | 方便写回复邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 574     | 18               | 1           | もらった　メールへの　おかえしが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 574     | 18               | 3           | 받은 메일에 대한 답장을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 574     | 18               | 4           | 方便寫回覆郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 574     | 18               | 5           | Un papier à lettres idéal pour répondre à un autre
-courrier. Peut être tenu et livré par un Pokémon.                                                               |
-| 574     | 18               | 6           | Briefpapier, mit dem man einen anderen Brief
-beantworten kann. Gib es einem Pokémon zum
-Tragen.                                                                    |
-| 574     | 18               | 7           | Carta para responder a un mensaje. Haz que la
-entregue un Pokémon.                                                                                                 |
-| 574     | 18               | 8           | Carta da lettere ideale per scrivere una risposta
-a un messaggio.
-Si può dare a un Pokémon affinché la consegni.                                                   |
-| 574     | 18               | 9           | Stationery designed to make it easy to respond
-to a letter you received. Have a Pokémon hold it
-for delivery.                                                      |
-| 574     | 18               | 11          | もらった　メールへの　お返しが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 574     | 18               | 12          | 方便写回复邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 574     | 19               | 1           | もらった　メールへの　おかえしが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 574     | 19               | 3           | 받은 메일에 대한 답장을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 574     | 19               | 4           | 方便寫回覆郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 574     | 19               | 5           | Un papier à lettres idéal pour répondre à un autre
-courrier. Peut être tenu et livré par un Pokémon.                                                               |
-| 574     | 19               | 6           | Briefpapier, mit dem man einen anderen Brief
-beantworten kann. Gib es einem Pokémon zum
-Tragen.                                                                    |
-| 574     | 19               | 7           | Carta para responder a un mensaje. Haz que la entregue
-un Pokémon.                                                                                                 |
-| 574     | 19               | 8           | Carta da lettere ideale per scrivere una risposta
-a un messaggio.
-Si può dare a un Pokémon affinché la consegni.                                                   |
-| 574     | 19               | 9           | Stationery designed to make it easy to respond
-to a letter you received. Have a Pokémon hold it
-for delivery.                                                      |
-| 574     | 19               | 11          | もらった　メールへの　お返しが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 574     | 19               | 12          | 方便写回复邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 574     | 20               | 1           | もらった　メールへの　おかえしが
-かきやすい　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                       |
-| 574     | 20               | 3           | 받은 메일에 대한 답장을
-쉽게 쓸 수 있는 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                      |
-| 574     | 20               | 4           | 方便寫回覆郵件的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 574     | 20               | 5           | Un papier à lettres idéal pour répondre à un autre
-courrier. Peut être tenu et livré par un Pokémon.                                                               |
-| 574     | 20               | 6           | Briefpapier, mit dem man einen anderen Brief
-beantworten kann. Gib es einem Pokémon zum Tragen.                                                                    |
-| 574     | 20               | 7           | Carta para responder a un mensaje. Haz que la
-entregue un Pokémon.                                                                                                 |
-| 574     | 20               | 8           | Carta da lettere ideale per scrivere una risposta
-a un messaggio.
-Si può dare a un Pokémon affinché la consegni.                                                   |
-| 574     | 20               | 9           | Stationery designed to make it easy to respond
-to a letter you received. Have a Pokémon hold it
-for delivery.                                                      |
-| 574     | 20               | 11          | もらった　メールへの　お返しが
-書きやすい　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 574     | 20               | 12          | 方便写回复邮件的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 575     | 11               | 5           | Un papier à lettres avec un motif de
-pont traversant le ciel. Peut être
-tenu et livré par un Pokémon.                                                              |
-| 575     | 11               | 9           | Stationery featuring a print of 
-a sky-piercing bridge.  
-Let a Pokémon hold it for use.                                                                           |
-| 575     | 14               | 9           | Stationery featuring a print of
-a sky-piercing bridge.
-Let a Pokémon hold it for use.                                                                              |
-| 575     | 15               | 1           | そらを　つらぬく　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                    |
-| 575     | 15               | 3           | 하늘을 관통하는 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 575     | 15               | 5           | Un papier à lettres avec un motif de pont
-traversant le ciel. Peut être tenu et livré par
-un Pokémon.                                                              |
-| 575     | 15               | 6           | Das Briefpapier hat eine weit in den Himmel
-ragende Brücke als Hintergrund. Gib es einem
-Pokémon zum Tragen.                                                       |
-| 575     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS. Su sabor puede causar
-confusión.                                                                   |
-| 575     | 15               | 8           | Carta da lettere che riporta l’immagine
-di un ponte sospeso nel cielo.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 575     | 15               | 9           | Stationery featuring an illustration of
-a bridge that seems to pierce the sky.
-Have a Pokémon hold it for delivery.                                                |
-| 575     | 15               | 11          | 空を　つらぬく　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 575     | 17               | 1           | そらを　つらぬく　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                    |
-| 575     | 17               | 3           | 하늘을 관통하는 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 575     | 17               | 4           | 印有通天橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 575     | 17               | 5           | Un papier à lettres avec un motif de pont
-traversant le ciel. Peut être tenu et livré par
-un Pokémon.                                                              |
-| 575     | 17               | 6           | Das Briefpapier hat eine weit in den Himmel
-ragende Brücke als Hintergrund. Gib es einem
-Pokémon zum Tragen.                                                       |
-| 575     | 17               | 7           | Carta con la imagen de un puente que se alza
-hacia el cielo. Haz que la entregue un Pokémon.                                                                       |
-| 575     | 17               | 8           | Carta da lettere che riporta l’immagine di un ponte
-sospeso nel cielo.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 575     | 17               | 9           | Stationery featuring an illustration of a bridge that
-seems to pierce the sky. Have a Pokémon hold it
-for delivery.                                                |
-| 575     | 17               | 11          | 空を　つらぬく　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 575     | 17               | 12          | 印有通天桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 575     | 18               | 1           | そらを　つらぬく　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                    |
-| 575     | 18               | 3           | 하늘을 관통하는 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 575     | 18               | 4           | 印有通天橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 575     | 18               | 5           | Un papier à lettres avec un motif de pont
-traversant le ciel. Peut être tenu et livré par
-un Pokémon.                                                              |
-| 575     | 18               | 6           | Das Briefpapier hat eine weit in den Himmel
-ragende Brücke als Hintergrund. Gib es einem
-Pokémon zum Tragen.                                                       |
-| 575     | 18               | 7           | Carta con la imagen de un puente que se alza
-hacia el cielo. Haz que la entregue un Pokémon.                                                                       |
-| 575     | 18               | 8           | Carta da lettere che riporta l’immagine di un ponte
-sospeso nel cielo.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 575     | 18               | 9           | Stationery featuring an illustration of a bridge that
-seems to pierce the sky. Have a Pokémon hold it
-for delivery.                                                |
-| 575     | 18               | 11          | 空を　つらぬく　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 575     | 18               | 12          | 印有通天桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 575     | 19               | 1           | そらを　つらぬく　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                    |
-| 575     | 19               | 3           | 하늘을 관통하는 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 575     | 19               | 4           | 印有通天橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 575     | 19               | 5           | Un papier à lettres avec un motif de pont traversant
-le ciel. Peut être tenu et livré par un Pokémon.                                                              |
-| 575     | 19               | 6           | Das Briefpapier hat eine weit in den Himmel
-ragende Brücke als Hintergrund. Gib es einem
-Pokémon zum Tragen.                                                       |
-| 575     | 19               | 7           | Carta con la imagen de un puente que se alza hacia
-el cielo. Haz que la entregue un Pokémon.                                                                       |
-| 575     | 19               | 8           | Carta da lettere che riporta l’immagine di un ponte
-sospeso nel cielo.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 575     | 19               | 9           | Stationery featuring an illustration of a bridge that
-seems to pierce the sky. Have a Pokémon hold it
-for delivery.                                                |
-| 575     | 19               | 11          | 空を　つらぬく　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 575     | 19               | 12          | 印有通天桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 575     | 20               | 1           | そらを　つらぬく　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                    |
-| 575     | 20               | 3           | 하늘을 관통하는 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                        |
-| 575     | 20               | 4           | 印有通天橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                             |
-| 575     | 20               | 5           | Un papier à lettres avec un motif de pont traversant
-le ciel. Peut être tenu et livré par un Pokémon.                                                              |
-| 575     | 20               | 6           | Das Briefpapier hat eine weit in den Himmel ragende
-Brücke als Hintergrund. Gib es einem Pokémon zum
-Tragen.                                                       |
-| 575     | 20               | 7           | Carta con la imagen de un puente que se alza hacia el
-cielo. Haz que la entregue un Pokémon.                                                                       |
-| 575     | 20               | 8           | Carta da lettere che riporta l’immagine di un ponte
-sospeso nel cielo.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 575     | 20               | 9           | Stationery featuring an illustration of a bridge that
-seems to pierce the sky. Have a Pokémon hold it
-for delivery.                                                |
-| 575     | 20               | 11          | 空を　つらぬく　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                     |
-| 575     | 20               | 12          | 印有通天桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                   |
-| 576     | 11               | 5           | Un papier à lettres avec un motif de
-pont mobile rouge. Peut être tenu
-et livré par un Pokémon.                                                                    |
-| 576     | 11               | 9           | Stationery featuring a print of
-a red drawbridge. 
-Let a Pokémon hold it for use.                                                                                  |
-| 576     | 14               | 9           | Stationery featuring a print of
-a red drawbridge.
-Let a Pokémon hold it for use.                                                                                   |
-| 576     | 15               | 1           | まっかな　はねばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                      |
-| 576     | 15               | 3           | 새빨간 도개교의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                            |
-| 576     | 15               | 5           | Un papier à lettres avec un motif de pont
-mobile rouge. Peut être tenu et livré par
-un Pokémon.                                                                    |
-| 576     | 15               | 6           | Das Briefpapier hat eine knallrote Zugbrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                     |
-| 576     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS. Su sabor puede causar
-confusión.                                                                   |
-| 576     | 15               | 8           | Carta da lettere che riporta l’immagine
-di un ponte mobile di colore rosso fuoco.
-Si può dare a un Pokémon affinché la consegni.                                   |
-| 576     | 15               | 9           | Stationery featuring an illustration of a bright-red
-drawbridge. Have a Pokémon hold it for delivery.                                                              |
-| 576     | 15               | 11          | 真っ赤な　跳ね橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 576     | 17               | 1           | まっかな　はねばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                      |
-| 576     | 17               | 3           | 새빨간 도개교의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                            |
-| 576     | 17               | 4           | 印有大紅色活動橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                          |
-| 576     | 17               | 5           | Un papier à lettres avec un motif de pont mobile
-rouge. Peut être tenu et livré par un Pokémon.                                                                    |
-| 576     | 17               | 6           | Das Briefpapier hat eine knallrote Zugbrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                     |
-| 576     | 17               | 7           | Carta con la imagen de un puente levadizo de
-color rojo. Haz que la entregue un Pokémon.                                                                           |
-| 576     | 17               | 8           | Carta da lettere che riporta l’immagine di un ponte
-mobile di colore rosso fuoco.
-Si può dare a un Pokémon affinché la consegni.                                   |
-| 576     | 17               | 9           | Stationery featuring an illustration of a bright-red
-drawbridge. Have a Pokémon hold it for delivery.                                                              |
-| 576     | 17               | 11          | 真っ赤な　跳ね橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 576     | 17               | 12          | 印有鲜红色活动桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                |
-| 576     | 18               | 1           | まっかな　はねばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                      |
-| 576     | 18               | 3           | 새빨간 도개교의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                            |
-| 576     | 18               | 4           | 印有大紅色活動橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                          |
-| 576     | 18               | 5           | Un papier à lettres avec un motif de pont mobile
-rouge. Peut être tenu et livré par un Pokémon.                                                                    |
-| 576     | 18               | 6           | Das Briefpapier hat eine knallrote Zugbrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                     |
-| 576     | 18               | 7           | Carta con la imagen de un puente levadizo de
-color rojo. Haz que la entregue un Pokémon.                                                                           |
-| 576     | 18               | 8           | Carta da lettere che riporta l’immagine di un ponte
-mobile di colore rosso fuoco.
-Si può dare a un Pokémon affinché la consegni.                                   |
-| 576     | 18               | 9           | Stationery featuring an illustration of a bright-red
-drawbridge. Have a Pokémon hold it for delivery.                                                              |
-| 576     | 18               | 11          | 真っ赤な　跳ね橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 576     | 18               | 12          | 印有鲜红色活动桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                |
-| 576     | 19               | 1           | まっかな　はねばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                      |
-| 576     | 19               | 3           | 새빨간 도개교의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                            |
-| 576     | 19               | 4           | 印有大紅色活動橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                          |
-| 576     | 19               | 5           | Un papier à lettres avec un motif de pont mobile rouge.
-Peut être tenu et livré par un Pokémon.                                                                    |
-| 576     | 19               | 6           | Das Briefpapier hat eine knallrote Zugbrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                     |
-| 576     | 19               | 7           | Carta con la imagen de un puente levadizo de color
-rojo. Haz que la entregue un Pokémon.                                                                           |
-| 576     | 19               | 8           | Carta da lettere che riporta l’immagine di un ponte
-mobile di colore rosso fuoco.
-Si può dare a un Pokémon affinché la consegni.                                   |
-| 576     | 19               | 9           | Stationery featuring an illustration of a bright-red
-drawbridge. Have a Pokémon hold it for delivery.                                                              |
-| 576     | 19               | 11          | 真っ赤な　跳ね橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 576     | 19               | 12          | 印有鲜红色活动桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                |
-| 576     | 20               | 1           | まっかな　はねばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                      |
-| 576     | 20               | 3           | 새빨간 도개교의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                            |
-| 576     | 20               | 4           | 印有大紅色活動橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                          |
-| 576     | 20               | 5           | Un papier à lettres avec un motif de pont mobile rouge.
-Peut être tenu et livré par un Pokémon.                                                                    |
-| 576     | 20               | 6           | Das Briefpapier hat eine knallrote Zugbrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                     |
-| 576     | 20               | 7           | Carta con la imagen de un puente levadizo de color
-rojo. Haz que la entregue un Pokémon.                                                                           |
-| 576     | 20               | 8           | Carta da lettere che riporta l’immagine di un ponte
-mobile di colore rosso fuoco.
-Si può dare a un Pokémon affinché la consegni.                                   |
-| 576     | 20               | 9           | Stationery featuring an illustration of a bright-red
-drawbridge. Have a Pokémon hold it for delivery.                                                              |
-| 576     | 20               | 11          | 真っ赤な　跳ね橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 576     | 20               | 12          | 印有鲜红色活动桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                |
-| 577     | 11               | 5           | Un papier à lettres avec un motif de
-pont suspendu en acier. Peut être
-tenu et livré par un Pokémon.                                                               |
-| 577     | 11               | 9           | Stationery featuring a print of
-a steel suspension bridge. 
-Let a Pokémon hold it for use.                                                                         |
-| 577     | 14               | 9           | Stationery featuring a print of
-a steel suspension bridge.
-Let a Pokémon hold it for use.                                                                          |
-| 577     | 15               | 1           | こうてつの　つりばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 577     | 15               | 3           | 강철의 현수교 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                             |
-| 577     | 15               | 5           | Un papier à lettres avec un motif de pont
-suspendu en acier. Peut être tenu et livré
-par un Pokémon.                                                               |
-| 577     | 15               | 6           | Das Briefpapier hat eine stählerne Hängebrücke
-als Hintergrund. Gib es einem Pokémon zum
-Tragen.                                                                   |
-| 577     | 15               | 7           | Los Pokémon pueden llevarla o usarla para
-restaurar algunos PS. Su sabor puede causar
-confusión.                                                                   |
-| 577     | 15               | 8           | Carta da lettere che riporta l’immagine
-di un ponte d’acciaio sospeso.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 577     | 15               | 9           | Stationery featuring an illustration of a
-high-tension steel suspension bridge.
-Have a Pokémon hold it for delivery.                                               |
-| 577     | 15               | 11          | 鋼鉄の　つり橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 577     | 17               | 1           | こうてつの　つりばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 577     | 17               | 3           | 강철의 현수교 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                             |
-| 577     | 17               | 4           | 印有鋼鐵懸索橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                           |
-| 577     | 17               | 5           | Un papier à lettres avec un motif de pont
-suspendu en acier. Peut être tenu et livré
-par un Pokémon.                                                               |
-| 577     | 17               | 6           | Das Briefpapier hat eine stählerne Hängebrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                   |
-| 577     | 17               | 7           | Carta con la imagen de un puente colgante de
-acero. Haz que la entregue un Pokémon.                                                                                |
-| 577     | 17               | 8           | Carta da lettere che riporta l’immagine di un ponte
-d’acciaio sospeso.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 577     | 17               | 9           | Stationery featuring an illustration of a high-tension
-steel suspension bridge. Have a Pokémon hold it
-for delivery.                                               |
-| 577     | 17               | 11          | 鋼鉄の　つり橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 577     | 17               | 12          | 印有钢铁悬索桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                 |
-| 577     | 18               | 1           | こうてつの　つりばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 577     | 18               | 3           | 강철의 현수교 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                             |
-| 577     | 18               | 4           | 印有鋼鐵懸索橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                           |
-| 577     | 18               | 5           | Un papier à lettres avec un motif de pont
-suspendu en acier. Peut être tenu et livré
-par un Pokémon.                                                               |
-| 577     | 18               | 6           | Das Briefpapier hat eine stählerne Hängebrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                   |
-| 577     | 18               | 7           | Carta con la imagen de un puente colgante de
-acero. Haz que la entregue un Pokémon.                                                                                |
-| 577     | 18               | 8           | Carta da lettere che riporta l’immagine di un ponte
-d’acciaio sospeso.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 577     | 18               | 9           | Stationery featuring an illustration of a high-tension
-steel suspension bridge. Have a Pokémon hold it
-for delivery.                                               |
-| 577     | 18               | 11          | 鋼鉄の　つり橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 577     | 18               | 12          | 印有钢铁悬索桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                 |
-| 577     | 19               | 1           | こうてつの　つりばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 577     | 19               | 3           | 강철의 현수교 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                             |
-| 577     | 19               | 4           | 印有鋼鐵懸索橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                           |
-| 577     | 19               | 5           | Un papier à lettres avec un motif de pont suspendu
-en acier. Peut être tenu et livré par un Pokémon.                                                               |
-| 577     | 19               | 6           | Das Briefpapier hat eine stählerne Hängebrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                   |
-| 577     | 19               | 7           | Carta con la imagen de un puente colgante de acero.
-Haz que la entregue un Pokémon.                                                                                |
-| 577     | 19               | 8           | Carta da lettere che riporta l’immagine di un ponte
-d’acciaio sospeso.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 577     | 19               | 9           | Stationery featuring an illustration of a high-tension
-steel suspension bridge. Have a Pokémon hold it
-for delivery.                                               |
-| 577     | 19               | 11          | 鋼鉄の　つり橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 577     | 19               | 12          | 印有钢铁悬索桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                 |
-| 577     | 20               | 1           | こうてつの　つりばしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 577     | 20               | 3           | 강철의 현수교 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                             |
-| 577     | 20               | 4           | 印有鋼鐵懸索橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                           |
-| 577     | 20               | 5           | Un papier à lettres avec un motif de pont suspendu
-en acier. Peut être tenu et livré par un Pokémon.                                                               |
-| 577     | 20               | 6           | Das Briefpapier hat eine stählerne Hängebrücke als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                   |
-| 577     | 20               | 7           | Carta con la imagen de un puente colgante de acero.
-Haz que la entregue un Pokémon.                                                                                |
-| 577     | 20               | 8           | Carta da lettere che riporta l’immagine di un ponte
-d’acciaio sospeso.
-Si può dare a un Pokémon affinché la consegni.                                              |
-| 577     | 20               | 9           | Stationery featuring an illustration of a high-tension
-steel suspension bridge. Have a Pokémon hold it
-for delivery.                                               |
-| 577     | 20               | 11          | 鋼鉄の　つり橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                       |
-| 577     | 20               | 12          | 印有钢铁吊桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                  |
-| 578     | 11               | 5           | Un papier à lettres avec un motif
-de pont en briques. Peut être tenu
-et livré par un Pokémon.                                                                      |
-| 578     | 11               | 9           | Stationery featuring a print of
-a brick bridge.
-Let a Pokémon hold it for use.                                                                                     |
-| 578     | 14               | 9           | Stationery featuring a print of
-a brick bridge.
-Let a Pokémon hold it for use.                                                                                     |
-| 578     | 15               | 1           | レンガづくりの　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 578     | 15               | 3           | 벽돌로 만든 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                          |
-| 578     | 15               | 5           | Un papier à lettres avec un motif de pont
-en briques. Peut être tenu et livré par
-un Pokémon.                                                                      |
-| 578     | 15               | 6           | Das Briefpapier hat eine Brücke aus Ziegelsteinen
-als Hintergrund. Gib es einem Pokémon zum
-Tragen.                                                                |
-| 578     | 15               | 7           | Una baya muy rara en la región de Teselia.                                                                                                                         |
-| 578     | 15               | 8           | Carta da lettere che riporta l’immagine
-di un ponte di mattoni.
-Si può dare a un Pokémon affinché la consegni.                                                     |
-| 578     | 15               | 9           | Stationery featuring an illustration of
-a vintage-looking brick bridge.
-Have a Pokémon hold it for delivery.                                                       |
-| 578     | 15               | 11          | レンガ造りの　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 578     | 17               | 1           | レンガづくりの　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 578     | 17               | 3           | 벽돌로 만든 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                          |
-| 578     | 17               | 4           | 印有磚橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 578     | 17               | 5           | Un papier à lettres avec un motif de pont
-en briques. Peut être tenu et livré par
-un Pokémon.                                                                      |
-| 578     | 17               | 6           | Das Briefpapier hat eine Brücke aus Ziegelsteinen
-als Hintergrund. Gib es einem Pokémon zum Tragen.                                                                |
-| 578     | 17               | 7           | Carta con la imagen de un puente de ladrillos.
-Haz que la entregue un Pokémon.                                                                                     |
-| 578     | 17               | 8           | Carta da lettere che riporta l’immagine di un ponte
-di mattoni.
-Si può dare a un Pokémon affinché la consegni.                                                     |
-| 578     | 17               | 9           | Stationery featuring an illustration of a
-vintage-looking brick bridge. Have a Pokémon hold
-it for delivery.                                                       |
-| 578     | 17               | 11          | レンガ造りの　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 578     | 17               | 12          | 印有砖桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 578     | 18               | 1           | レンガづくりの　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 578     | 18               | 3           | 벽돌로 만든 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                          |
-| 578     | 18               | 4           | 印有磚橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 578     | 18               | 5           | Un papier à lettres avec un motif de pont
-en briques. Peut être tenu et livré par
-un Pokémon.                                                                      |
-| 578     | 18               | 6           | Das Briefpapier hat eine Brücke aus Ziegelsteinen
-als Hintergrund. Gib es einem Pokémon zum Tragen.                                                                |
-| 578     | 18               | 7           | Carta con la imagen de un puente de ladrillos.
-Haz que la entregue un Pokémon.                                                                                     |
-| 578     | 18               | 8           | Carta da lettere che riporta l’immagine di un ponte
-di mattoni.
-Si può dare a un Pokémon affinché la consegni.                                                     |
-| 578     | 18               | 9           | Stationery featuring an illustration of a
-vintage-looking brick bridge. Have a Pokémon hold
-it for delivery.                                                       |
-| 578     | 18               | 11          | レンガ造りの　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 578     | 18               | 12          | 印有砖桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 578     | 19               | 1           | レンガづくりの　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 578     | 19               | 3           | 벽돌로 만든 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                          |
-| 578     | 19               | 4           | 印有磚橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 578     | 19               | 5           | Un papier à lettres avec un motif de pont en briques.
-Peut être tenu et livré par un Pokémon.                                                                      |
-| 578     | 19               | 6           | Das Briefpapier hat eine Brücke aus Ziegelsteinen
-als Hintergrund. Gib es einem Pokémon zum Tragen.                                                                |
-| 578     | 19               | 7           | Carta con la imagen de un puente de ladrillos.
-Haz que la entregue un Pokémon.                                                                                     |
-| 578     | 19               | 8           | Carta da lettere che riporta l’immagine di un ponte
-di mattoni.
-Si può dare a un Pokémon affinché la consegni.                                                     |
-| 578     | 19               | 9           | Stationery featuring an illustration of a
-vintage-looking brick bridge. Have a Pokémon hold
-it for delivery.                                                       |
-| 578     | 19               | 11          | レンガ造りの　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 578     | 19               | 12          | 印有砖桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 578     | 20               | 1           | レンガづくりの　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                     |
-| 578     | 20               | 3           | 벽돌로 만든 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                          |
-| 578     | 20               | 4           | 印有磚橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 578     | 20               | 5           | Un papier à lettres avec un motif de pont en briques.
-Peut être tenu et livré par un Pokémon.                                                                      |
-| 578     | 20               | 6           | Das Briefpapier hat eine Brücke aus Ziegelsteinen als
-Hintergrund. Gib es einem Pokémon zum Tragen.                                                                |
-| 578     | 20               | 7           | Carta con la imagen de un puente de ladrillos. Haz que
-la entregue un Pokémon.                                                                                     |
-| 578     | 20               | 8           | Carta da lettere che riporta l’immagine di un ponte
-di mattoni.
-Si può dare a un Pokémon affinché la consegni.                                                     |
-| 578     | 20               | 9           | Stationery featuring an illustration of a
-vintage-looking brick bridge. Have a Pokémon hold
-it for delivery.                                                       |
-| 578     | 20               | 11          | レンガ造りの　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                      |
-| 578     | 20               | 12          | 印有砖桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 579     | 11               | 5           | Un papier à lettres avec un motif de
-pont bâti sur des arches. Peut être
-tenu et livré par un Pokémon.                                                             |
-| 579     | 11               | 9           | Stationery featuring a print of
-an arched bridge.
-Let a Pokémon hold it for use.                                                                                   |
-| 579     | 14               | 9           | Stationery featuring a print of
-an arched bridge.
-Let a Pokémon hold it for use.                                                                                   |
-| 579     | 15               | 1           | アーチを　えがいた　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                   |
-| 579     | 15               | 3           | 아치가 그려진 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                         |
-| 579     | 15               | 5           | Un papier à lettres avec un motif de pont
-bâti sur des arches. Peut être tenu et livré
-par un Pokémon.                                                             |
-| 579     | 15               | 6           | Das Briefpapier hat eine geschwungene Brücke
-als Hintergrundmotiv. Gib es einem Pokémon zum
-Tragen.                                                                |
-| 579     | 15               | 7           | Una baya muy rara en la región de Teselia.                                                                                                                         |
-| 579     | 15               | 8           | Carta da lettere che riporta l’immagine
-di un ponte ad arco.
-Si può dare a un Pokémon affinché la consegni.                                                        |
-| 579     | 15               | 9           | Stationery featuring an illustration of
-a majestically arched bridge.
-Have a Pokémon hold it for delivery.                                                         |
-| 579     | 15               | 11          | アーチを　描いた　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                    |
-| 579     | 17               | 1           | アーチを　えがいた　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                   |
-| 579     | 17               | 3           | 아치가 그려진 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                         |
-| 579     | 17               | 4           | 印有拱橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 579     | 17               | 5           | Un papier à lettres avec un motif de pont à voûtes.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 579     | 17               | 6           | Das Briefpapier hat eine geschwungene Brücke
-als Hintergrundmotiv. Gib es einem Pokémon zu
-Tragen.                                                                 |
-| 579     | 17               | 7           | Carta con la imagen de un puente con varios
-arcos. Haz que la entregue un Pokémon.                                                                                 |
-| 579     | 17               | 8           | Carta da lettere che riporta l’immagine di un ponte
-ad arco.
-Si può dare a un Pokémon affinché la consegni.                                                        |
-| 579     | 17               | 9           | Stationery featuring an illustration of a majestically
-arched bridge. Have a Pokémon hold it for delivery.                                                         |
-| 579     | 17               | 11          | アーチを　描いた　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                    |
-| 579     | 17               | 12          | 印有拱桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 579     | 18               | 1           | アーチを　えがいた　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                   |
-| 579     | 18               | 3           | 아치가 그려진 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                         |
-| 579     | 18               | 4           | 印有拱橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 579     | 18               | 5           | Un papier à lettres avec un motif de pont à voûtes.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 579     | 18               | 6           | Das Briefpapier hat eine geschwungene Brücke
-als Hintergrundmotiv. Gib es einem Pokémon zu
-Tragen.                                                                 |
-| 579     | 18               | 7           | Carta con la imagen de un puente con varios
-arcos. Haz que la entregue un Pokémon.                                                                                 |
-| 579     | 18               | 8           | Carta da lettere che riporta l’immagine di un ponte
-ad arco.
-Si può dare a un Pokémon affinché la consegni.                                                        |
-| 579     | 18               | 9           | Stationery featuring an illustration of a majestically
-arched bridge. Have a Pokémon hold it for delivery.                                                         |
-| 579     | 18               | 11          | アーチを　描いた　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                    |
-| 579     | 18               | 12          | 印有拱桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 579     | 19               | 1           | アーチを　えがいた　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                   |
-| 579     | 19               | 3           | 아치가 그려진 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                         |
-| 579     | 19               | 4           | 印有拱橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 579     | 19               | 5           | Un papier à lettres avec un motif de pont à voûtes.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 579     | 19               | 6           | Das Briefpapier hat eine geschwungene Brücke
-als Hintergrundmotiv. Gib es einem Pokémon zu
-Tragen.                                                                 |
-| 579     | 19               | 7           | Carta con la imagen de un puente con varios arcos.
-Haz que la entregue un Pokémon.                                                                                 |
-| 579     | 19               | 8           | Carta da lettere che riporta l’immagine di un ponte
-ad arco.
-Si può dare a un Pokémon affinché la consegni.                                                        |
-| 579     | 19               | 9           | Stationery featuring an illustration of a majestically
-arched bridge. Have a Pokémon hold it for delivery.                                                         |
-| 579     | 19               | 11          | アーチを　描いた　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                    |
-| 579     | 19               | 12          | 印有拱桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 579     | 20               | 1           | アーチを　えがいた　はしの　えがらが
-プリントされた　びんせん。
-ポケモンに　もたせて　つかう。                                                                                                                   |
-| 579     | 20               | 3           | 아치가 그려진 다리의 무늬가
-프린트된 편지지.
-포켓몬에게 지니게 해서 쓴다.                                                                                                                         |
-| 579     | 20               | 4           | 印有拱橋圖案的信紙。
-需讓寶可夢攜帶使用。                                                                                                                                              |
-| 579     | 20               | 5           | Un papier à lettres avec un motif de pont à voûtes.
-Peut être tenu et livré par un Pokémon.                                                                        |
-| 579     | 20               | 6           | Das Briefpapier hat eine geschwungene Brücke als
-Hintergrundmotiv. Gib es einem Pokémon zu Tragen.                                                                 |
-| 579     | 20               | 7           | Carta con la imagen de un puente con varios arcos. Haz
-que la entregue un Pokémon.                                                                                 |
-| 579     | 20               | 8           | Carta da lettere che riporta l’immagine di un ponte
-ad arco.
-Si può dare a un Pokémon affinché la consegni.                                                        |
-| 579     | 20               | 9           | Stationery featuring an illustration of a majestically
-arched bridge. Have a Pokémon hold it for delivery.                                                         |
-| 579     | 20               | 11          | アーチを　描いた　橋の　絵柄が
-プリントされた　レターペーパー。
-ポケモンに　持たせて　使う。                                                                                                                    |
-| 579     | 20               | 12          | 印有拱桥图案的信纸。
-使用该道具时，
-需要让宝可梦携带着来用。                                                                                                                                    |
-| 580     | 11               | 5           | Une écaille étrange qui fait évoluer
-certaines espèces de Pokémon.
-Elle a une couleur arc-en-ciel.                                                                 |
-| 580     | 11               | 9           | A mysterious scale that evolves
-certain Pokémon.
-It shines in rainbow colors.                                                                                      |
-| 580     | 14               | 9           | A mysterious scale that evolves
-certain Pokémon.
-It shines in rainbow colors.                                                                                      |
-| 580     | 15               | 1           | ある　とくていの　ポケモンを
-しんかさせる　ふしぎな　ウロコ。
-にじいろに　かがやいている。                                                                                                                     |
-| 580     | 15               | 3           | 어느 특정 포켓몬을
-진화시키는 이상한 비늘.
-무지갯빛으로 빛나고 있다.                                                                                                                            |
-| 580     | 15               | 5           | Une écaille étrange qui fait évoluer certaines
-espèces de Pokémon. Elle a une couleur
-arc-en-ciel.                                                                 |
-| 580     | 15               | 6           | Eine seltsame Schuppe, durch die sich bestimmte
-Pokémon entwickeln. Sie funkelt in den Farben
-des Regenbogens.                                                     |
-| 580     | 15               | 7           | Joya de un solo uso que potencia los
-movimientos de tipo Volador. Debe llevarla
-un Pokémon.                                                                        |
-| 580     | 15               | 8           | Squama misteriosa che fa evolvere determinate
-specie di Pokémon.
-Riflette i colori dell’arcobaleno.                                                                |
-| 580     | 15               | 9           | A mysterious scale that causes
-a certain Pokémon to evolve.
-It shines in rainbow colors.                                                                           |
-| 580     | 15               | 11          | ある　特定の　ポケモンを
-進化させる　不思議な　ウロコ。
-にじ色に　輝いている。                                                                                                                           |
-| 580     | 17               | 1           | ある　とくていの　ポケモンを
-しんかさせる　ふしぎな　ウロコ。
-にじいろに　かがやいている。                                                                                                                     |
-| 580     | 17               | 3           | 어느 특정 포켓몬을
-진화시키는 이상한 비늘.
-무지갯빛으로 빛나고 있다.                                                                                                                            |
-| 580     | 17               | 4           | 能讓特定寶可夢
-進化的神奇鱗片。
-散發著虹色光輝。                                                                                                                                          |
-| 580     | 17               | 5           | Une écaille étrange qui fait évoluer certaines
-espèces de Pokémon. Elle a une couleur
-arc-en-ciel.                                                                 |
-| 580     | 17               | 6           | Eine seltsame Schuppe, durch die sich ein
-bestimmtes Pokémon entwickelt. Sie funkelt
-in den Farben des Regenbogens.                                                |
-| 580     | 17               | 7           | Curiosa escama que hace evolucionar a
-determinadas especies de Pokémon.
-Brilla con los colores del arcoíris.                                                       |
-| 580     | 17               | 8           | Squama misteriosa che fa evolvere determinate
-specie di Pokémon.
-Riflette i colori dell’arcobaleno.                                                                |
-| 580     | 17               | 9           | A mysterious scale that causes a certain Pokémon
-to evolve. It shines in rainbow colors.                                                                           |
-| 580     | 17               | 11          | ある　特定の　ポケモンを
-進化させる　不思議な　ウロコ。
-にじ色に　輝いている。                                                                                                                           |
-| 580     | 17               | 12          | 能让某些特定宝可梦
-进化的神奇鳞片。
-散发着虹色光辉。                                                                                                                                        |
-| 580     | 18               | 1           | ある　とくていの　ポケモンを
-しんかさせる　ふしぎな　ウロコ。
-にじいろに　かがやいている。                                                                                                                     |
-| 580     | 18               | 3           | 어느 특정 포켓몬을
-진화시키는 이상한 비늘.
-무지갯빛으로 빛나고 있다.                                                                                                                            |
-| 580     | 18               | 4           | 能讓特定寶可夢
-進化的神奇鱗片。
-散發著虹色光輝。                                                                                                                                          |
-| 580     | 18               | 5           | Une écaille étrange qui fait évoluer certaines
-espèces de Pokémon. Elle a une couleur
-arc-en-ciel.                                                                 |
-| 580     | 18               | 6           | Eine seltsame Schuppe, durch die sich ein
-bestimmtes Pokémon entwickelt. Sie funkelt
-in den Farben des Regenbogens.                                                |
-| 580     | 18               | 7           | Curiosa escama que hace evolucionar a
-determinadas especies de Pokémon.
-Brilla con los colores del arcoíris.                                                       |
-| 580     | 18               | 8           | Squama misteriosa che fa evolvere determinate
-specie di Pokémon.
-Riflette i colori dell’arcobaleno.                                                                |
-| 580     | 18               | 9           | A mysterious scale that causes a certain Pokémon
-to evolve. It shines in rainbow colors.                                                                           |
-| 580     | 18               | 11          | ある　特定の　ポケモンを
-進化させる　不思議な　ウロコ。
-にじ色に　輝いている。                                                                                                                           |
-| 580     | 18               | 12          | 能让某些特定宝可梦
-进化的神奇鳞片。
-散发着虹色光辉。                                                                                                                                        |
-| 580     | 19               | 1           | ある　とくていの　ポケモンを
-しんかさせる　ふしぎな　ウロコ。
-にじいろに　かがやいている。                                                                                                                     |
-| 580     | 19               | 3           | 어느 특정 포켓몬을
-진화시키는 이상한 비늘.
-무지갯빛으로 빛나고 있다.                                                                                                                            |
-| 580     | 19               | 4           | 能讓特定寶可夢
-進化的神奇鱗片。
-散發著虹色光輝。                                                                                                                                          |
-| 580     | 19               | 5           | Une écaille étrange qui fait évoluer certaines espèces
-de Pokémon. Elle a une couleur arc-en-ciel.                                                                 |
-| 580     | 19               | 6           | Eine seltsame Schuppe, durch die sich ein
-bestimmtes Pokémon entwickelt. Sie funkelt
-in den Farben des Regenbogens.                                                |
-| 580     | 19               | 7           | Curiosa escama que hace evolucionar a determinadas
-especies de Pokémon. Brilla con los colores del arcoíris.                                                       |
-| 580     | 19               | 8           | Squama misteriosa che fa evolvere determinate
-specie di Pokémon.
-Riflette i colori dell’arcobaleno.                                                                |
-| 580     | 19               | 9           | A mysterious scale that causes a certain Pokémon
-to evolve. It shines in rainbow colors.                                                                           |
-| 580     | 19               | 11          | ある　特定の　ポケモンを
-進化させる　不思議な　ウロコ。
-にじ色に　輝いている。                                                                                                                           |
-| 580     | 19               | 12          | 能让某些特定宝可梦
-进化的神奇鳞片。
-散发着虹色光辉。                                                                                                                                        |
-| 580     | 20               | 1           | ある　とくていの　ポケモンを
-しんかさせる　ふしぎな　ウロコ。
-にじいろに　かがやいている。                                                                                                                     |
-| 580     | 20               | 3           | 어느 특정 포켓몬을
-진화시키는 이상한 비늘.
-무지갯빛으로 빛나고 있다.                                                                                                                            |
-| 580     | 20               | 4           | 能讓特定寶可夢
-進化的神奇鱗片。
-散發著虹色光輝。                                                                                                                                          |
-| 580     | 20               | 5           | Une écaille étrange qui fait évoluer une certaine espèce
-de Pokémon. Elle a une couleur arc-en-ciel.                                                               |
-| 580     | 20               | 6           | Eine seltsame Schuppe, durch die sich ein bestimmtes
-Pokémon entwickelt. Sie funkelt in den Farben des
-Regenbogens.                                                |
-| 580     | 20               | 7           | Curiosa escama que hace evolucionar a cierto Pokémon.
-Brilla con los colores del arcoíris.                                                                         |
+|  item_id | version_group_id | language_id | flavor_text |
+|----------|------------------|-------------|-------------|
+|  324       20 |  |  8 |      Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO. |
+|  324       20 |  |  9 |      The user attacks everything around it by causing an explosion. The user faints upon using this move. |
+|  324       20 |  |  11 |     爆発を　おこして　自分の 周りに　いるものを　攻撃する。 使ったあとに　ひんしに　なる。 |
+|  324       20 |  |  12 |     引发爆炸， 攻击自己周围所有的宝可梦。 使用后陷入濒死。 |
+|  325       5 |  |   9 |      The less the user likes you, the more powerful this move. |
+|  325       6 |  |   9 |      The less the user likes you, the more powerful this move. |
+|  325       7 |  |   9 |      This attack move grows more powerful the less the user likes its TRAINER. |
+|  325       8 |  |   9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       9 |  |   9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       10 |  |  9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       11 |  |  5 |      Moins le Pokémon aime son Dresseur, plus cette attaque est puissante. |
+|  325       11 |  |  9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       14 |  |  9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       15 |  |  1 |      ふまんを　はらすために　ぜんりょくで こうげきする。　なついて　いないほど いりょくは　あがる。 |
+|  325       15 |  |  3 |      불만을 풀기 위해서 전력으로 공격한다. 친밀하지 않을수록 위력이 올라간다. |
+|  325       15 |  |  5 |      Moins le Pokémon aime son Dresseur, plus cette attaque est puissante. |
+|  325       15 |  |  6 |      Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  325       15 |  |  7 |      Ataca con una intensa ráfaga de fuego abrasador que puede causar quemaduras. |
+|  325       15 |  |  8 |      Mossa che diventa tanto più potente quanto minore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  325       15 |  |  9 |      A full-power attack that grows more powerful the less the user likes its Trainer. |
+|  325       15 |  |  11 |     不満を　はらすため　全力で 攻撃する。　なついて　いないほど 威力は　あがる。 |
+|  325       17 |  |  1 |      ふまんを　はらすために　ぜんりょくで こうげきする。　なついて　いないほど いりょくは　あがる。 |
+|  325       17 |  |  3 |      불만을 풀기 위해서 전력으로 공격한다. 친밀하지 않을수록 위력이 올라간다. |
+|  325       17 |  |  4 |      為了發洩不滿而 全力進行攻擊。 親密度越低，威力越大。 |
+|  325       17 |  |  5 |      Moins le Pokémon aime son Dresseur, plus cette attaque est puissante. |
+|  325       17 |  |  6 |      Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  325       17 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto menos le guste el Entrenador al Pokémon que lo usa. |
+|  325       17 |  |  8 |      Mossa che diventa tanto più potente quanto minore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  325       17 |  |  9 |      This full-power attack grows more powerful the less the user likes its Trainer. |
+|  325       17 |  |  11 |     不満を　はらすため　全力で 攻撃する。　なついて　いないほど 威力は　あがる。 |
+|  325       17 |  |  12 |     为了发泄不满而 全力进行攻击。 亲密度越低，威力越大。 |
+|  325       18 |  |  1 |      ふまんを　はらすために　ぜんりょくで こうげきする。　なついて　いないほど いりょくは　あがる。 |
+|  325       18 |  |  3 |      불만을 풀기 위해서 전력으로 공격한다. 친밀하지 않을수록 위력이 올라간다. |
+|  325       18 |  |  4 |      為了發洩不滿而 全力進行攻擊。 親密度越低，威力越大。 |
+|  325       18 |  |  5 |      Moins le Pokémon aime son Dresseur, plus cette attaque est puissante. |
+|  325       18 |  |  6 |      Je unbeliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  325       18 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto menos le guste el Entrenador al Pokémon que lo usa. |
+|  325       18 |  |  8 |      Mossa che diventa tanto più potente quanto minore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  325       18 |  |  9 |      This full-power attack grows more powerful the less the user likes its Trainer. |
+|  325       18 |  |  11 |     不満を　はらすため　全力で 攻撃する。　なついて　いないほど 威力は　あがる。 |
+|  325       18 |  |  12 |     为了发泄不满而 全力进行攻击。 亲密度越低，威力越大。 |
+|  325       19 |  |  1 |      あいての　ちからを　りようする。 たたかっている　あいての　こうげきが たかいほど　ダメージが　あがる。 |
+|  325       19 |  |  3 |      상대의 힘을 이용한다. 싸우고 있는 상대의 공격이 높을수록 데미지가 올라간다. |
+|  325       19 |  |  4 |      利用對手的力量進行攻擊。 對手的攻擊越高， 給予對手的傷害越大。 |
+|  325       19 |  |  5 |      Le lanceur utilise la force de l'ennemi. Plus l'Attaque de l'ennemi est élevée, plus le lanceur inflige de dégâts. |
+|  325       19 |  |  6 |      Anwender macht sich die Kraft des Zieles zunutze. Je höher dessen Angriff, desto mehr Schaden richtet die Attacke an. |
+|  325       19 |  |  7 |      El usuario emplea la fuerza del objetivo para atacarlo. Cuanto mayor es el Ataque del objetivo, más daño provoca. |
+|  325       19 |  |  8 |      Chi la usa sfrutta la forza del bersaglio. Il danno inflitto è proporzionale all'Attacco del nemico. |
+|  325       19 |  |  9 |      The user turns the target's power against it. The higher the target's Attack stat, the greater the damage it deals. |
+|  325       19 |  |  11 |     相手の　力を　利用する。 戦っている　相手の　攻撃が 高いほど　ダメージが　あがる。 |
+|  325       19 |  |  12 |     利用对手的力量进行攻击。 正和自己战斗的对手， 其攻击越高，伤害越大。 |
+|  325       20 |  |  1 |      ２ターンの　あいだ　ねむり　つづける。 じぶんの　ＨＰと　じょうたいいじょうを すべて　かいふく　する。 |
+|  325       20 |  |  3 |      2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다. |
+|  325       20 |  |  4 |      連續睡２回合。 回復自己的全部ＨＰ 以及治癒所有異常狀態。 |
+|  325       20 |  |  5 |      Le lanceur regagne tous ses PV et soigne ses altérations de statut, puis il dort pendant deux tours. |
+|  325       20 |  |  6 |      Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden zwei Runden. |
+|  325       20 |  |  7 |      Restaura todos los PS y cura todos los problemas de estado del usuario, que se duerme los dos turnos siguientes. |
+|  325       20 |  |  8 |      Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni. |
+|  325       20 |  |  9 |      The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions. |
+|  325       20 |  |  11 |     ２ターンの　間　眠り続ける。 自分の　ＨＰと　状態異常を すべて　回復する。 |
+|  325       20 |  |  12 |     连续睡上２回合。 回复自己的全部ＨＰ 以及治愈所有异常状态。 |
+|  326       5 |  |   9 |      Absorbs sunlight in the 1st turn, then attacks next turn. |
+|  326       6 |  |   9 |      Absorbs sunlight in the 1st turn, then attacks next turn. |
+|  326       7 |  |   9 |      A 2-turn move that blasts the foe with absorbed energy in the 2nd turn. |
+|  326       8 |  |   9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. |
+|  326       9 |  |   9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. |
+|  326       10 |  |  9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. |
+|  326       11 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  326       11 |  |  9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. |
+|  326       14 |  |  9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn. |
+|  326       15 |  |  1 |      １ターンめに　ひかりを　あつめて ２ターンめに　ひかりの　こうせんを はっしゃして　こうげきする。 |
+|  326       15 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다. |
+|  326       15 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  326       15 |  |  6 |      Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff. |
+|  326       15 |  |  7 |      Tira rocas que detienen al objetivo y bajan su Velocidad. |
+|  326       15 |  |  8 |      Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo. |
+|  326       15 |  |  9 |      A two-turn attack. The user gathers light, then blasts a bundled beam on the next turn. |
+|  326       15 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　光の　束を 発射して　攻撃する。 |
+|  326       17 |  |  1 |      １ターンめに　ひかりを　いっぱいに あつめ　２ターンめに　ひかりの　たばを はっしゃして　こうげきする。 |
+|  326       17 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다. |
+|  326       17 |  |  4 |      使用後的第１回合吸收大量日光， 並於第２回合發射光束進行攻擊。 |
+|  326       17 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  326       17 |  |  6 |      Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff. |
+|  326       17 |  |  7 |      Ataque de dos turnos. En el primer turno se concentra luz, y en el segundo se canaliza en un rayo para atacar. |
+|  326       17 |  |  8 |      Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo. |
+|  326       17 |  |  9 |      In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. |
+|  326       17 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　光の　束を 発射して　攻撃する。 |
+|  326       17 |  |  12 |     第１回合收集满满的日光， 第２回合发射光束进行攻击。 |
+|  326       18 |  |  1 |      １ターンめに　ひかりを　いっぱいに あつめ　２ターンめに　ひかりの　たばを はっしゃして　こうげきする。 |
+|  326       18 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다. |
+|  326       18 |  |  4 |      使用後的第１回合吸收大量日光， 並於第２回合發射光束進行攻擊。 |
+|  326       18 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  326       18 |  |  6 |      Eine Attacke über 2 Runden. Zunächst wird Sonnenlicht absorbiert, anschließend erfolgt der Angriff. |
+|  326       18 |  |  7 |      Ataque de dos turnos. En el primer turno se concentra luz, y en el segundo se canaliza en un rayo para atacar. |
+|  326       18 |  |  8 |      Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo. |
+|  326       18 |  |  9 |      In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. |
+|  326       18 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　光の　束を 発射して　攻撃する。 |
+|  326       18 |  |  12 |     第１回合收集满满的日光， 第２回合发射光束进行攻击。 |
+|  326       19 |  |  1 |      おおきな　いわを はげしく　ぶつけて　こうげきする。 あいてを　ひるませる　ことが　ある。 |
+|  326       19 |  |  3 |      큰 바위를 세차게 부딪쳐서 공격한다. 상대를 풀죽게 만들 때가 있다. |
+|  326       19 |  |  4 |      將大岩石 猛烈地砸向對手進行攻擊。 有時會讓對手畏縮。 |
+|  326       19 |  |  5 |      Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut aussi l'apeurer. |
+|  326       19 |  |  6 |      Schleudert riesige Felsen auf Ziele in der Umgebung, die eventuell zurückschrecken. |
+|  326       19 |  |  7 |      Lanza grandes pedruscos. Puede hacer retroceder a los rivales. |
+|  326       19 |  |  8 |      I nemici vengono colpiti con violenza da grandi massi che possono anche farli tentennare. |
+|  326       19 |  |  9 |      Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch. |
+|  326       19 |  |  11 |     大きな　岩を 激しく　ぶつけて　攻撃する。 相手を　ひるませることが　ある。 |
+|  326       19 |  |  12 |     将大岩石 猛烈地撞向对手进行攻击。 有时会使对手畏缩。 |
+|  326       20 |  |  1 |      おおきな　いわを はげしく　ぶつけて　こうげきする。 あいてを　ひるませる　ことが　ある。 |
+|  326       20 |  |  3 |      큰 바위를 세차게 부딪쳐서 공격한다. 상대를 풀죽게 만들 때가 있다. |
+|  326       20 |  |  4 |      將大岩石 猛烈地砸向對手進行攻擊。 有時會讓對手畏縮。 |
+|  326       20 |  |  5 |      Envoie de gros rochers sur l'ennemi pour infliger des dégâts. Peut aussi l'apeurer. |
+|  326       20 |  |  6 |      Schleudert riesige Felsen auf gegnerische Pokémon, die eventuell zurückschrecken. |
+|  326       20 |  |  7 |      Lanza grandes pedruscos. Puede amedrentar al objetivo. |
+|  326       20 |  |  8 |      I nemici vengono colpiti con violenza da grandi massi che possono anche farli tentennare. |
+|  326       20 |  |  9 |      Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch. |
+|  326       20 |  |  11 |     大きな　岩を 激しく　ぶつけて　攻撃する。 相手を　ひるませることが　ある。 |
+|  326       20 |  |  12 |     将大岩石 猛烈地撞向对手进行攻击。 有时会使对手畏缩。 |
+|  327       5 |  |   9 |      Slams the foe with a hard tail. It may lower DEFENSE. |
+|  327       6 |  |   9 |      Slams the foe with a hard tail. It may lower DEFENSE. |
+|  327       7 |  |   9 |      An attack with a steel-hard tail. It may lower the foe's DEFENSE stat. |
+|  327       8 |  |   9 |      The foe is slammed with a sturdy tail of steel. It may also lower the target's Defense stat if it hits. |
+|  327       9 |  |   9 |      The foe is slammed with a sturdy tail of steel. It may also lower the target's Defense stat if it hits. |
+|  327       10 |  |  9 |      The foe is slammed with a sturdy tail of steel. It may also lower the target's Defense stat if it hits. |
+|  327       11 |  |  5 |      Le lanceur jette toutes sortes de projectiles à un ennemi. Si ce dernier vole, il tombe au sol. |
+|  327       11 |  |  9 |      The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. |
+|  327       14 |  |  9 |      The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. |
+|  327       15 |  |  1 |      いしや　たまを　なげて　とんでいる あいてを　こうげきする。あいては うちおとされて　じめんに　おちる。 |
+|  327       15 |  |  3 |      돌이나 구슬을 던져서 날고 있는 상대를 공격한다. 맞은 상대는 땅에 떨어진다. |
+|  327       15 |  |  5 |      Le lanceur jette toutes sortes de projectiles à un ennemi. Si ce dernier vole, il tombe au sol. |
+|  327       15 |  |  6 |      Greift das Ziel mit Steinen und Wurfgeschossen an. Fliegende Ziele fallen vom Himmel und landen auf dem Boden. |
+|  327       15 |  |  7 |      Ataque que desconcierta por su rapidez y que no falla nunca. |
+|  327       15 |  |  8 |      Chi la usa lancia una pietra o un proiettile. Può colpire anche un bersaglio in volo e farlo cadere. |
+|  327       15 |  |  9 |      The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. |
+|  327       15 |  |  11 |     石や　弾を　投げて　飛んでいる 相手を　攻撃する。相手は うちおとされて　地面に　おちる。 |
+|  327       17 |  |  1 |      いしや　たまを　なげて　とんでいる あいてを　こうげきする。　あいては うちおとされて　じめんに　おちる。 |
+|  327       17 |  |  3 |      돌이나 구슬을 던져서 날고 있는 상대를 공격한다. 맞은 상대는 땅에 떨어진다. |
+|  327       17 |  |  4 |      向空中的對手投擲石頭或炮彈等物體 進行攻擊。對手會被擊落，掉到地面。 |
+|  327       17 |  |  5 |      Le lanceur jette toutes sortes de projectiles à un ennemi. Si ce dernier vole, il tombe au sol. |
+|  327       17 |  |  6 |      Greift das Ziel mit Steinen und Wurfgeschossen an. Fliegende Ziele fallen vom Himmel und landen auf dem Boden. |
+|  327       17 |  |  7 |      El usuario ataca lanzando una piedra o un proyectil. Puede estrellar contra el suelo al objetivo si vuela. |
+|  327       17 |  |  8 |      Chi la usa lancia una pietra o un proiettile. Può colpire anche un bersaglio in volo e farlo cadere. |
+|  327       17 |  |  9 |      The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. |
+|  327       17 |  |  11 |     石や　弾を　投げて　飛んでいる 相手を　攻撃する。　相手は うちおとされて　地面に　おちる。 |
+|  327       17 |  |  12 |     扔石头或炮弹， 攻击飞行的对手。 对手会被击落，掉到地面。 |
+|  327       18 |  |  1 |      いしや　たまを　なげて　とんでいる あいてを　こうげきする。　あいては うちおとされて　じめんに　おちる。 |
+|  327       18 |  |  3 |      돌이나 구슬을 던져서 날고 있는 상대를 공격한다. 맞은 상대는 땅에 떨어진다. |
+|  327       18 |  |  4 |      向空中的對手投擲石頭或炮彈等物體 進行攻擊。對手會被擊落，掉到地面。 |
+|  327       18 |  |  5 |      Le lanceur jette toutes sortes de projectiles à un ennemi. Si ce dernier vole, il tombe au sol. |
+|  327       18 |  |  6 |      Greift das Ziel mit Steinen und Wurfgeschossen an. Fliegende Ziele fallen vom Himmel und landen auf dem Boden. |
+|  327       18 |  |  7 |      El usuario ataca lanzando una piedra o un proyectil. Puede estrellar contra el suelo al objetivo si vuela. |
+|  327       18 |  |  8 |      Chi la usa lancia una pietra o un proiettile. Può colpire anche un bersaglio in volo e farlo cadere. |
+|  327       18 |  |  9 |      The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit. |
+|  327       18 |  |  11 |     石や　弾を　投げて　飛んでいる 相手を　攻撃する。　相手は うちおとされて　地面に　おちる。 |
+|  327       18 |  |  12 |     扔石头或炮弹， 攻击飞行的对手。 对手会被击落，掉到地面。 |
+|  327       19 |  |  1 |      でんげきを　こめた　パンチで あいてを　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  327       19 |  |  3 |      전격을 담은 펀치로 상대를 공격한다. 마비 상태로 만들 때가 있다. |
+|  327       19 |  |  4 |      用帶有電流的拳頭 攻擊對手。 有時會讓對手陷入麻痺狀態。 |
+|  327       19 |  |  5 |      Un coup de poing électrique vient frapper l'ennemi. Peut le paralyser. |
+|  327       19 |  |  6 |      Ein elektrischer Schlag, der das Ziel eventuell paralysiert. |
+|  327       19 |  |  7 |      Puñetazo eléctrico. Puede paralizar. |
+|  327       19 |  |  8 |      Colpisce il bersaglio con un pugno elettrico che può paralizzarlo. |
+|  327       19 |  |  9 |      The target is punched with an electrified fist. This may also leave the target with paralysis. |
+|  327       19 |  |  11 |     電撃を　こめた　パンチで 相手を　攻撃する。 まひ状態に　することが　ある。 |
+|  327       19 |  |  12 |     用充满电流的拳头攻击对手。 有时会让对手陷入麻痹状态。 |
+|  327       20 |  |  1 |      こうげきと　どうじに　どうぐを　ぬすむ。 じぶんが　どうぐを　もっている　ばあいは ぬすめない。 |
+|  327       20 |  |  3 |      공격과 동시에 도구를 훔친다. 자신이 도구를 지니고 있을 경우에는 훔칠 수 없다. |
+|  327       20 |  |  4 |      在攻擊的同時偷取道具。 當寶可夢自己有攜帶道具時， 則無法偷取。 |
+|  327       20 |  |  5 |      Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet. |
+|  327       20 |  |  6 |      Ermöglicht es, das Item des Zieles zu stehlen, solang der Anwender selbst keins bei sich trägt. |
+|  327       20 |  |  7 |      El agresor ataca y le quita el objeto al objetivo siempre y cuando no lleve ninguno. |
+|  327       20 |  |  8 |      Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno. |
+|  327       20 |  |  9 |      The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item. |
+|  327       20 |  |  11 |     攻撃と　同時に　道具を　盗む。 自分が　道具を　持っている　場合は 盗めない。 |
+|  327       20 |  |  12 |     攻击的同时盗取道具。 当自己携带道具时， 不会去盗取。 |
+|  328       5 |  |   9 |      A powerful electric attack that may cause paralysis. |
+|  328       6 |  |   9 |      A powerful electric attack that may cause paralysis. |
+|  328       7 |  |   9 |      A strong electrical attack that may also leave the foe paralyzed. |
+|  328       8 |  |   9 |      A strong electric blast is loosed at the foe. It may also leave the foe paralyzed. |
+|  328       9 |  |   9 |      A strong electric blast is loosed at the foe. It may also leave the foe paralyzed. |
+|  328       10 |  |  9 |      A strong electric blast is loosed at the foe. It may also leave the foe paralyzed. |
+|  328       11 |  |  5 |      Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser. |
+|  328       11 |  |  9 |      A strong electric blast is loosed at the target. It may also leave the target with paralysis. |
+|  328       14 |  |  9 |      A strong electric blast is loosed at the target. It may also leave the target with paralysis. |
+|  328       15 |  |  1 |      つよい　でんげきを　あびせて こうげきする。　あいてを　まひの じょうたいに　することが　ある。 |
+|  328       15 |  |  3 |      강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다. |
+|  328       15 |  |  5 |      Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser. |
+|  328       15 |  |  6 |      Das Ziel wird von einem verheerenden Stromschlag getroffen. Kann eventuell Paralyse bewirken. |
+|  328       15 |  |  7 |      Atormenta al objetivo y le provoca un ataque de ira que le impide usar el mismo movimiento dos veces seguidas. |
+|  328       15 |  |  8 |      Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo. |
+|  328       15 |  |  9 |      A strong electric blast crashes down on the target. This may also leave the target with paralysis. |
+|  328       15 |  |  11 |     強い　電撃を 相手に　浴びせて　攻撃する。 まひ状態に　することが　ある。 |
+|  328       17 |  |  1 |      つよい　でんげきを あいてに　あびせて　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  328       17 |  |  3 |      강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다. |
+|  328       17 |  |  4 |      向對手放出強力電流進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  328       17 |  |  5 |      Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser. |
+|  328       17 |  |  6 |      Das Ziel wird von einem verheerenden Stromschlag getroffen. Kann eventuell Paralyse bewirken. |
+|  328       17 |  |  7 |      Ataca al objetivo con una fuerte descarga eléctrica que puede llegar a paralizar. |
+|  328       17 |  |  8 |      Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo. |
+|  328       17 |  |  9 |      A strong electric blast crashes down on the target. This may also leave the target with paralysis. |
+|  328       17 |  |  11 |     強い　電撃を 相手に　浴びせて　攻撃する。 まひ状態に　することが　ある。 |
+|  328       17 |  |  12 |     向对手发出 强力电击进行攻击。 有时会让对手陷入麻痹状态。 |
+|  328       18 |  |  1 |      つよい　でんげきを あいてに　あびせて　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  328       18 |  |  3 |      강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다. |
+|  328       18 |  |  4 |      向對手放出強力電流進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  328       18 |  |  5 |      Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser. |
+|  328       18 |  |  6 |      Das Ziel wird von einem verheerenden Stromschlag getroffen. Kann eventuell Paralyse bewirken. |
+|  328       18 |  |  7 |      Ataca al objetivo con una fuerte descarga eléctrica que puede llegar a paralizar. |
+|  328       18 |  |  8 |      Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo. |
+|  328       18 |  |  9 |      A strong electric blast crashes down on the target. This may also leave the target with paralysis. |
+|  328       18 |  |  11 |     強い　電撃を 相手に　浴びせて　攻撃する。 まひ状態に　することが　ある。 |
+|  328       18 |  |  12 |     向对手发出 强力电击进行攻击。 有时会让对手陷入麻痹状态。 |
+|  328       19 |  |  1 |      カマや　ツメを　ハサミのように こうさ　させながら　あいてを　きりさく。 |
+|  328       19 |  |  3 |      낫이나 발톱을 가위처럼 교차시키면서 상대를 베어 가른다. |
+|  328       19 |  |  4 |      將鐮刀或爪子像剪刀般地交叉， 順勢劈開對手。 |
+|  328       19 |  |  5 |      Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux. |
+|  328       19 |  |  6 |      Der Anwender führt eine Attacke aus, die einer Scherenbewegung ähnelt. |
+|  328       19 |  |  7 |      Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras. |
+|  328       19 |  |  8 |      Chi la usa colpisce il bersaglio con un attacco che ricorda un colpo di forbici. |
+|  328       19 |  |  9 |      The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors. |
+|  328       19 |  |  11 |     カマや　ツメを　ハサミのように 交差させながら　相手を　切り裂く。 |
+|  328       19 |  |  12 |     将镰刀或爪子像剪刀般地交叉， 顺势劈开对手。 |
+|  328       20 |  |  1 |      じぶんが　ねている　ときに ざつおんを　だして　こうげきする。 あいてを　ひるませる　ことが　ある。 |
+|  328       20 |  |  3 |      자신이 잠들어 있을 때 소음을 내어 공격한다. 상대를 풀죽게 만들 때가 있다. |
+|  328       20 |  |  4 |      在自己睡著時， 發出噪音進行攻擊。 有時會讓對手畏縮。 |
+|  328       20 |  |  5 |      Une attaque qui ne fonctionne que si le lanceur est endormi. Le boucan peut aussi apeurer l'ennemi. |
+|  328       20 |  |  6 |      Attacke nur im Schlaf möglich. Ziel schreckt eventuell zurück. |
+|  328       20 |  |  7 |      Fuerte ronquido que solo puede usarse dormido. Puede amedrentar al objetivo. |
+|  328       20 |  |  8 |      Mossa che può essere usata solo mentre si dorme. Il chiasso assordante può anche far tentennare il bersaglio. |
+|  328       20 |  |  9 |      This attack can be used only if the user is asleep. The harsh noise may also make the target flinch. |
+|  328       20 |  |  11 |     自分が　寝ているときに 雑音を　だして　攻撃する。 相手を　ひるませることが　ある。 |
+|  328       20 |  |  12 |     在自己睡觉时， 发出噪音进行攻击。 有时会使对手畏缩。 |
+|  329       5 |  |   9 |      Strikes the foe with a thunderbolt. It may paralyze. |
+|  329       6 |  |   9 |      Strikes the foe with a thunderbolt. It may paralyze. |
+|  329       7 |  |   9 |      A brutal lightning attack that may also leave the foe paralyzed. |
+|  329       8 |  |   9 |      A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed. |
+|  329       9 |  |   9 |      A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed. |
+|  329       10 |  |  9 |      A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed. |
+|  329       11 |  |  5 |      La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser. |
+|  329       11 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis. |
+|  329       14 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis. |
+|  329       15 |  |  1 |      はげしい　かみなりを　おとして こうげきする。　あいてを　まひの じょうたいに　することが　ある。 |
+|  329       15 |  |  3 |      강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다. |
+|  329       15 |  |  5 |      La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser. |
+|  329       15 |  |  6 |      Das Ziel wird von einem mächtigen Donnerschlag, der Paralyse bewirken kann, heimgesucht. |
+|  329       15 |  |  7 |      Movimiento de ataque que dobla su potencia si quien lo utiliza está envenenado, quemado o paralizado. |
+|  329       15 |  |  8 |      Il nemico è colpito da un lampo molto violento che può anche paralizzarlo. |
+|  329       15 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis. |
+|  329       15 |  |  11 |     激しい　雷を 相手に　落として　攻撃する。 まひ状態に　することが　ある。 |
+|  329       17 |  |  1 |      はげしい　かみなりを あいてに　おとして　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  329       17 |  |  3 |      강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다. |
+|  329       17 |  |  4 |      向對手劈下暴雷進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  329       17 |  |  5 |      La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser. |
+|  329       17 |  |  6 |      Das Ziel wird von einem mächtigen Donnerschlag, der Paralyse bewirken kann, heimgesucht. |
+|  329       17 |  |  7 |      Ataca con un terrible rayo que puede paralizar al objetivo. |
+|  329       17 |  |  8 |      Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo. |
+|  329       17 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis. |
+|  329       17 |  |  11 |     激しい　雷を 相手に　落として　攻撃する。 まひ状態に　することが　ある。 |
+|  329       17 |  |  12 |     向对手劈下暴雷进行攻击。 有时会让对手陷入麻痹状态。 |
+|  329       18 |  |  1 |      はげしい　かみなりを あいてに　おとして　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  329       18 |  |  3 |      강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다. |
+|  329       18 |  |  4 |      向對手劈下暴雷進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  329       18 |  |  5 |      La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser. |
+|  329       18 |  |  6 |      Das Ziel wird von einem mächtigen Donnerschlag, der Paralyse bewirken kann, heimgesucht. |
+|  329       18 |  |  7 |      Ataca con un terrible rayo que puede paralizar al objetivo. |
+|  329       18 |  |  8 |      Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo. |
+|  329       18 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis. |
+|  329       18 |  |  11 |     激しい　雷を 相手に　落として　攻撃する。 まひ状態に　することが　ある。 |
+|  329       18 |  |  12 |     向对手劈下暴雷进行攻击。 有时会让对手陷入麻痹状态。 |
+|  329       19 |  |  1 |      すごい　いきおいで　あいてに　つっこむ。 あいてを　ひるませる　ことが　ある。 |
+|  329       19 |  |  3 |      굉장한 기세로 상대에게 돌진한다. 상대를 풀죽게 만들 때가 있다. |
+|  329       19 |  |  4 |      以驚人的氣勢撲向對手。 有時會讓對手畏縮。 |
+|  329       19 |  |  5 |      Le lanceur charge l'ennemi à une vitesse remarquable, ce qui peut l'apeurer. |
+|  329       19 |  |  6 |      Eine mächtige Attacke, durch die das Ziel eventuell zurückschreckt. |
+|  329       19 |  |  7 |      Embiste con un gran impulso que puede hacer retroceder. |
+|  329       19 |  |  8 |      Carica il bersaglio a grande velocità e può farlo tentennare. |
+|  329       19 |  |  9 |      The user charges at the target and may make it flinch. |
+|  329       19 |  |  11 |     すごい　勢いで　相手に　つっこむ。 相手を　ひるませることが　ある。 |
+|  329       19 |  |  12 |     以惊人的气势扑向对手。 有时会使对手畏缩。 |
+|  329       20 |  |  1 |      あいての　こうげきを まったく　うけない。 れんぞくで　だすと　しっぱい　しやすい。 |
+|  329       20 |  |  3 |      상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다. |
+|  329       20 |  |  4 |      完全防住對手的所有攻擊。 連續使用時容易失敗。 |
+|  329       20 |  |  5 |      Le lanceur se protège de toutes les attaques. Peut échouer si utilisée plusieurs fois de suite. |
+|  329       20 |  |  6 |      Anwender wehrt jede Attacke ab. Scheitert eventuell bei Wiederholung. |
+|  329       20 |  |  7 |      Frena todos los ataques, pero puede fallar si se usa repetidamente. |
+|  329       20 |  |  8 |      Permette di eludere tutti gli attacchi. Se usata in successione può fallire. |
+|  329       20 |  |  9 |      This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. |
+|  329       20 |  |  11 |     相手の　攻撃を まったく　受けない。 連続で　だすと　失敗しやすい。 |
+|  329       20 |  |  12 |     完全抵挡 对手的攻击。 连续使出则容易失败。 |
+|  330       5 |  |   9 |      Causes a quake that has no effect on flying foes. |
+|  330       6 |  |   9 |      Causes a quake that has no effect on flying foes. |
+|  330       7 |  |   9 |      An earthquake that strikes all POKéMON in battle excluding the user. |
+|  330       8 |  |   9 |      The user sets off an earthquake that hits all the Pokémon in the battle. |
+|  330       9 |  |   9 |      The user sets off an earthquake that hits all the Pokémon in the battle. |
+|  330       10 |  |  9 |      The user sets off an earthquake that hits all the Pokémon in the battle. |
+|  330       11 |  |  5 |      Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui. |
+|  330       11 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  330       14 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  330       15 |  |  1 |      じぶんの　まわりの　ポケモンに じしんの　しょうげきを　あたえて こうげきする。 |
+|  330       15 |  |  3 |      지진의 충격을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. |
+|  330       15 |  |  5 |      Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui. |
+|  330       15 |  |  6 |      Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt. |
+|  330       15 |  |  7 |      Ataca al objetivo envuelto en llamas. Acumula fuerza y hace subir la Velocidad del usuario. |
+|  330       15 |  |  8 |      Chi la usa provoca un potente sisma che colpisce gli altri Pokémon in campo. |
+|  330       15 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  330       15 |  |  11 |     自分の　周りの　ポケモンに 地震の　衝撃を　あたえて 攻撃する。 |
+|  330       17 |  |  1 |      じぶんの　まわりの　ポケモンに じしんの　しょうげきを　あたえて こうげきする。 |
+|  330       17 |  |  3 |      지진의 충격을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. |
+|  330       17 |  |  4 |      用地震的衝擊， 攻擊自己周圍所有的寶可夢。 |
+|  330       17 |  |  5 |      Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui. |
+|  330       17 |  |  6 |      Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt. |
+|  330       17 |  |  7 |      Quien lo usa genera un terremoto que afecta a los Pokémon de alrededor en combate. |
+|  330       17 |  |  8 |      Chi la usa provoca un potente sisma che colpisce gli altri Pokémon in campo. |
+|  330       17 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  330       17 |  |  11 |     自分の　周りの　ポケモンに 地震の　衝撃を　あたえて 攻撃する。 |
+|  330       17 |  |  12 |     利用地震的冲击， 攻击自己周围所有的宝可梦。 |
+|  330       18 |  |  1 |      じぶんの　まわりの　ポケモンに じしんの　しょうげきを　あたえて こうげきする。 |
+|  330       18 |  |  3 |      지진의 충격을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. |
+|  330       18 |  |  4 |      用地震的衝擊， 攻擊自己周圍所有的寶可夢。 |
+|  330       18 |  |  5 |      Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui. |
+|  330       18 |  |  6 |      Ein starkes Beben wird verursacht, das den anderen Pokémon in der Umgebung des Angreifers Schaden zufügt. |
+|  330       18 |  |  7 |      Quien lo usa genera un terremoto que afecta a los Pokémon de alrededor en combate. |
+|  330       18 |  |  8 |      Chi la usa provoca un potente sisma che colpisce gli altri Pokémon in campo. |
+|  330       18 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  330       18 |  |  11 |     自分の　周りの　ポケモンに 地震の　衝撃を　あたえて 攻撃する。 |
+|  330       18 |  |  12 |     利用地震的冲击， 攻击自己周围所有的宝可梦。 |
+|  330       19 |  |  1 |      どくに　そまった　しょくしゅや　うでで あいてを　つきさす。 どく　じょうたいに　することが　ある。 |
+|  330       19 |  |  3 |      독에 물든 촉수나 팔로 상대를 꿰찌른다. 독 상태로 만들 때가 있다. |
+|  330       19 |  |  4 |      以帶有毒性的觸手或手臂刺進對手。 有時會讓對手陷入中毒狀態。 |
+|  330       19 |  |  5 |      Attaque l'ennemi avec un tentacule, un bras, ou un autre membre plein de poison. Peut aussi l'empoisonner. |
+|  330       19 |  |  6 |      Der Anwender greift mit giftigen Gliedmaßen wie Tentakeln oder Armen an. Das Ziel wird dabei eventuell vergiftet. |
+|  330       19 |  |  7 |      Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo. |
+|  330       19 |  |  8 |      Il bersaglio è colpito da un tentacolo o da un arto intriso di una sostanza tossica che può anche avvelenarlo. |
+|  330       19 |  |  9 |      The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target. |
+|  330       19 |  |  11 |     毒に　そまった　触手や　腕で 相手を　突き刺す。 毒状態に　することが　ある。 |
+|  330       19 |  |  12 |     用带毒的触手或手臂刺入对手。 有时会让对手陷入中毒状态。 |
+|  330       20 |  |  1 |      おそろしい　かおで　にらみ　おびえさせて あいての　すばやさを　がくっと　さげる。 |
+|  330       20 |  |  3 |      무서운 얼굴로 노려보고 겁주어 상대의 스피드를 크게 떨어뜨린다. |
+|  330       20 |  |  4 |      用恐怖的表情瞪著對手， 讓對手害怕， 大幅降低對手的速度。 |
+|  330       20 |  |  5 |      Le lanceur fait une grimace qui effraie l'ennemi et réduit beaucoup sa Vitesse. |
+|  330       20 |  |  6 |      Jagt dem Ziel mit einer Grimasse Angst ein. Dessen Initiative-Wert sinkt stark. |
+|  330       20 |  |  7 |      Asusta al objetivo para reducir mucho su Velocidad. |
+|  330       20 |  |  8 |      Chi la usa spaventa il bersaglio con una faccia terribile e ne riduce di molto la Velocità. |
+|  330       20 |  |  9 |      The user frightens the target with a scary face to harshly lower its Speed stat. |
+|  330       20 |  |  11 |     恐ろしい　顔で　にらみ　おびえさせて 相手の　素早さを　がくっと　さげる。 |
+|  330       20 |  |  12 |     用恐怖的表情瞪着对手， 使其害怕， 从而大幅降低对手的速度。 |
+|  331       5 |  |   9 |      The more the user likes you, the more powerful this move. |
+|  331       6 |  |   9 |      The more the user likes you, the more powerful this move. |
+|  331       7 |  |   9 |      This attack move grows more powerful the more the user likes its TRAINER. |
+|  331       8 |  |   9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       9 |  |   9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       10 |  |  9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       11 |  |  5 |      Une attaque furieuse dont la puissance augmente quand le Pokémon apprécie son Dresseur. |
+|  331       11 |  |  9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       14 |  |  9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       15 |  |  1 |      トレーナーのために　ぜんりょくで こうげきする。　なついて　いるほど いりょくは　あがる。 |
+|  331       15 |  |  3 |      트레이너를 위해 전력으로 공격한다. 친밀할수록 위력이 올라간다. |
+|  331       15 |  |  5 |      Plus le Pokémon apprécie son Dresseur, plus la puissance de cette attaque furieuse augmente. |
+|  331       15 |  |  6 |      Je beliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  331       15 |  |  7 |      Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos. |
+|  331       15 |  |  8 |      Mossa che diventa tanto più potente quanto maggiore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  331       15 |  |  9 |      A full-power attack that grows more powerful the more the user likes its Trainer. |
+|  331       15 |  |  11 |     トレーナーの　ために　全力で 攻撃する。　なついて　いるほど 威力は　あがる。 |
+|  331       17 |  |  1 |      トレーナーのために　ぜんりょくで こうげきする。　なついて　いるほど いりょくは　あがる。 |
+|  331       17 |  |  3 |      트레이너를 위해 전력으로 공격한다. 친밀할수록 위력이 올라간다. |
+|  331       17 |  |  4 |      為了訓練家而 全力攻擊對手。 親密度越高，威力越大。 |
+|  331       17 |  |  5 |      Plus le Pokémon apprécie son Dresseur, plus la puissance de cette attaque furieuse augmente. |
+|  331       17 |  |  6 |      Je beliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  331       17 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto mayor sea la amistad entre el Entrenador y el Pokémon que lo usa. |
+|  331       17 |  |  8 |      Mossa che diventa tanto più potente quanto maggiore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  331       17 |  |  9 |      This full-power attack grows more powerful the more the user likes its Trainer. |
+|  331       17 |  |  11 |     トレーナーの　ために　全力で 攻撃する。　なついて　いるほど 威力は　あがる。 |
+|  331       17 |  |  12 |     为了训练家而 全力攻击对手。 亲密度越高，威力越大。 |
+|  331       18 |  |  1 |      トレーナーのために　ぜんりょくで こうげきする。　なついて　いるほど いりょくは　あがる。 |
+|  331       18 |  |  3 |      트레이너를 위해 전력으로 공격한다. 친밀할수록 위력이 올라간다. |
+|  331       18 |  |  4 |      為了訓練家而 全力攻擊對手。 親密度越高，威力越大。 |
+|  331       18 |  |  5 |      Plus le Pokémon apprécie son Dresseur, plus la puissance de cette attaque furieuse augmente. |
+|  331       18 |  |  6 |      Je beliebter der Trainer bei seinem Pokémon ist, desto größer ist die Wirkung. |
+|  331       18 |  |  7 |      Un ataque de gran potencia que resulta más fuerte cuanto mayor sea la amistad entre el Entrenador y el Pokémon que lo usa. |
+|  331       18 |  |  8 |      Mossa che diventa tanto più potente quanto maggiore è il grado di affezione del Pokémon per il proprio Allenatore. |
+|  331       18 |  |  9 |      This full-power attack grows more powerful the more the user likes its Trainer. |
+|  331       18 |  |  11 |     トレーナーの　ために　全力で 攻撃する。　なついて　いるほど 威力は　あがる。 |
+|  331       18 |  |  12 |     为了训练家而 全力攻击对手。 亲密度越高，威力越大。 |
+|  331       19 |  |  1 |      あいてを　もうどくの じょうたいに　する。　ターンが　すすむほど どくの　ダメージが　ふえていく。 |
+|  331       19 |  |  3 |      상대를 맹독의 상태로 만든다. 턴이 진행될수록 독의 데미지가 증가한다. |
+|  331       19 |  |  4 |      讓對手陷入劇毒狀態。 中毒傷害會隨著 回合的進行而增加。 |
+|  331       19 |  |  5 |      Empoisonne gravement l'ennemi. Les dégâts dus au poison augmentent à chaque tour. |
+|  331       19 |  |  6 |      Vergiftet das Ziel mit einem potenten Toxin schwer. Die Vergiftung wird von Runde zu Runde stärker. |
+|  331       19 |  |  7 |      Envenena gravemente al objetivo y causa un daño mayor en cada turno. |
+|  331       19 |  |  8 |      Iperavvelena il bersaglio con una potente tossina. Il danno peggiora a ogni turno. |
+|  331       19 |  |  9 |      A move that leaves the target badly poisoned. Its poison damage worsens every turn. |
+|  331       19 |  |  11 |     相手を　猛毒の　状態に　する。 ターンが　すすむほど 毒の　ダメージが　増えていく。 |
+|  331       19 |  |  12 |     让对手陷入剧毒状态。 随着回合的推进， 中毒伤害会增加。 |
+|  331       20 |  |  1 |      つめたい　れいきを あいてに　ふきつけて　こうげきする。 あいての　すばやさを　さげる。 |
+|  331       20 |  |  3 |      차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다. |
+|  331       20 |  |  4 |      將冰冷的寒氣 吹向對手進行攻擊。 可降低對手的速度。 |
+|  331       20 |  |  5 |      Une bourrasque de vent froid blesse l'ennemi. Réduit aussi sa Vitesse. |
+|  331       20 |  |  6 |      Eis-Attacke, die gegnerischen Pokémon Schaden zufügt und ihren Initiative-Wert senkt. |
+|  331       20 |  |  7 |      Ataque con aire helado que baja la Velocidad de los rivales. |
+|  331       20 |  |  8 |      Chi la usa attacca i nemici intorno con una folata di aria gelida e ne riduce anche la Velocità. |
+|  331       20 |  |  9 |      The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats. |
+|  331       20 |  |  11 |     凍てつく　冷気を 相手に　吹きつけて　攻撃する。 相手の　素早さを　さげる。 |
+|  331       20 |  |  12 |     将结冰的冷气 吹向对手进行攻击。 会降低对手的速度。 |
+|  332       5 |  |   9 |      Digs underground the 1st turn, then strikes next turn. |
+|  332       6 |  |   9 |      Digs underground the 1st turn, then strikes next turn. |
+|  332       7 |  |   9 |      An attack that hits on the 2nd turn. Can also be used to exit dungeons. |
+|  332       8 |  |   9 |      The user burrows, then attacks on the second turn. It can also be used to exit dungeons. |
+|  332       9 |  |   9 |      The user burrows, then attacks on the second turn. It can also be used to exit dungeons. |
+|  332       10 |  |  9 |      The user burrows, then attacks on the second turn. It can also be used to exit dungeons. |
+|  332       11 |  |  5 |      Le lanceur creuse au 1er tour et frappe au 2è. Permet aussi de s'échapper d'un donjon. |
+|  332       11 |  |  9 |      The user burrows, then attacks on the second turn. It can also be used to exit dungeons. |
+|  332       14 |  |  9 |      The user burrows, then attacks on the second turn. It can also be used to exit dungeons. |
+|  332       15 |  |  1 |      １ターンめに　もぐり　２ターンめで こうげきする。　どうくつで　つかうと そとに　だっしゅつ　できる。 |
+|  332       15 |  |  3 |      1턴째에 파고들어 2턴째에 상대를 공격한다. 동굴에서 탈출할 수도 있다. |
+|  332       15 |  |  5 |      Le lanceur creuse au premier tour et frappe au second. Permet aussi de sortir des grottes. |
+|  332       15 |  |  6 |      Eine Attacke über 2 Runden. Zunächst gräbt sich der Angreifer ein, anschließend erfolgt der Angriff. |
+|  332       15 |  |  7 |      Si el objetivo es del sexo opuesto, el enamoramiento reducirá las probabilidades de que ataque. |
+|  332       15 |  |  8 |      Chi la usa scava al primo turno e attacca al successivo. Fuori dalla lotta fa uscire da alcuni luoghi. |
+|  332       15 |  |  9 |      The user burrows, then attacks on the next turn. It can also be used to exit dungeons. |
+|  332       15 |  |  11 |     １ターン目に　潜り　２ターン目で 相手を　攻撃する。 どうくつからの　脱出も　できる。 |
+|  332       17 |  |  1 |      ちを　すいとって　あいてを こうげきする。　あたえた　ダメージの はんぶんの　ＨＰを　かいふく　できる。 |
+|  332       17 |  |  3 |      피를 빨아서 상대를 공격한다. 준 데미지의 절반을 HP로 회복한다. |
+|  332       17 |  |  4 |      吸取對手的血液進行攻擊。 可以回復給予對手 傷害的一半ＨＰ。 |
+|  332       17 |  |  5 |      Une attaque qui aspire le sang de l'ennemi. La moitié des dégâts sont convertis en PV pour le lanceur. |
+|  332       17 |  |  6 |      Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben. |
+|  332       17 |  |  7 |      El usuario recupera los PS equivalentes a la mitad del daño causado al objetivo. |
+|  332       17 |  |  8 |      Mossa succhiasangue. Chi la usa recupera una quantità di PS pari alla metà del danno inferto. |
+|  332       17 |  |  9 |      The user drains the target's blood. The user's HP is restored by half the damage taken by the target. |
+|  332       17 |  |  11 |     血を　吸い取って　相手を 攻撃する。　与えた　ダメージの 半分の　ＨＰを　回復できる。 |
+|  332       17 |  |  12 |     吸取血液攻击对手。 可以回复给予对手 伤害的一半ＨＰ。 |
+|  332       18 |  |  1 |      ちを　すいとって　あいてを こうげきする。　あたえた　ダメージの はんぶんの　ＨＰを　かいふく　できる。 |
+|  332       18 |  |  3 |      피를 빨아서 상대를 공격한다. 준 데미지의 절반을 HP로 회복한다. |
+|  332       18 |  |  4 |      吸取對手的血液進行攻擊。 可以回復給予對手 傷害的一半ＨＰ。 |
+|  332       18 |  |  5 |      Une attaque qui aspire le sang de l'ennemi. La moitié des dégâts sont convertis en PV pour le lanceur. |
+|  332       18 |  |  6 |      Die Hälfte des zugefügten Schadens wird dem Anwender gutgeschrieben. |
+|  332       18 |  |  7 |      El usuario recupera los PS equivalentes a la mitad del daño causado al objetivo. |
+|  332       18 |  |  8 |      Mossa succhiasangue. Chi la usa recupera una quantità di PS pari alla metà del danno inferto. |
+|  332       18 |  |  9 |      The user drains the target's blood. The user's HP is restored by half the damage taken by the target. |
+|  332       18 |  |  11 |     血を　吸い取って　相手を 攻撃する。　与えた　ダメージの 半分の　ＨＰを　回復できる。 |
+|  332       18 |  |  12 |     吸取血液攻击对手。 可以回复给予对手 伤害的一半ＨＰ。 |
+|  332       19 |  |  1 |      ３つの　こうせんで　こうげきする。 まひか　やけどか　こおりじょうたいの どれかに　することが　ある。 |
+|  332       19 |  |  3 |      3개의 광선으로 공격한다. 마비, 화상 또는 얼음 상태 중 어느 하나로 만들 때가 있다. |
+|  332       19 |  |  4 |      用３種光線進行攻擊。 有時會讓對手陷入 麻痺、灼傷或冰凍的狀態。 |
+|  332       19 |  |  5 |      Le lanceur envoie trois boules d'énergie simultanément. Peut aussi paralyser, brûler ou geler l'ennemi. |
+|  332       19 |  |  6 |      Feuert drei Strahlen ab. Verursacht eventuell Paralyse, Verbrennung oder Einfrieren. |
+|  332       19 |  |  7 |      Ataque triple que puede paralizar, quemar o congelar al objetivo. |
+|  332       19 |  |  8 |      Colpisce il bersaglio con tre sfere simultanee che possono paralizzarlo, scottarlo o congelarlo. |
+|  332       19 |  |  9 |      The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target. |
+|  332       19 |  |  11 |     ３つの　光線で　攻撃する。 まひか　やけどか　こおり状態の どれかに　することが　ある。 |
+|  332       19 |  |  12 |     用３种光线进行攻击。 有时会让对手陷入 麻痹、灼伤或冰冻的状态。 |
+|  332       20 |  |  1 |      ようぶんを　すいとり　こうげきする。 あたえた　ダメージの はんぶんの　ＨＰを　かいふく　できる。 |
+|  332       20 |  |  3 |      양분을 흡수하여 공격한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다. |
+|  332       20 |  |  4 |      吸取對手的養分進行攻擊。 可以回復給予對手 傷害的一半ＨＰ。 |
+|  332       20 |  |  5 |      Une attaque qui convertit la moitié des dégâts infligés en PV pour le lanceur. |
+|  332       20 |  |  6 |      Das Ziel wird angegriffen und die Hälfte des zugefügten Schadens dem Anwender als KP gutgeschrieben. |
+|  332       20 |  |  7 |      Un ataque que absorbe nutrientes. Quien lo usa recupera la mitad de los PS del daño que produce. |
+|  332       20 |  |  8 |      Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto. |
+|  332       20 |  |  9 |      A nutrient-draining attack. The user's HP is restored by half the damage taken by the target. |
+|  332       20 |  |  11 |     養分を　吸い取り　攻撃する。 与えた　ダメージの 半分の　ＨＰを　回復できる。 |
+|  332       20 |  |  12 |     吸取对手的养分进行攻击。 可以回复给予对手 伤害的一半ＨＰ。 |
+|  333       5 |  |   9 |      A powerful psychic attack that may lower SP. DEF. |
+|  333       6 |  |   9 |      A powerful psychic attack that may lower SP. DEF. |
+|  333       7 |  |   9 |      A strong telekinetic attack. It may also lower the foe's SP. DEF stat. |
+|  333       8 |  |   9 |      The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat. |
+|  333       9 |  |   9 |      The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat. |
+|  333       10 |  |  9 |      The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat. |
+|  333       11 |  |  5 |      Une puissante force télékinésique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  333       11 |  |  9 |      The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat. |
+|  333       14 |  |  9 |      The target is hit by a strong telekinetic force. It may also reduce the target's Sp. Def stat. |
+|  333       15 |  |  1 |      つよい　ねんりきを　おくって こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  333       15 |  |  3 |      강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  333       15 |  |  5 |      Une puissante force télékinésique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  333       15 |  |  6 |      Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell. |
+|  333       15 |  |  7 |      Quien lo usa ataca y roba el objeto que lleva su objetivo simultáneamente. Si ya lleva un objeto, no podrá robar. |
+|  333       15 |  |  8 |      Il nemico viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale. |
+|  333       15 |  |  9 |      The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat. |
+|  333       15 |  |  11 |     強い　念力を　相手に　送って 攻撃する。相手の　特防を さげることが　ある。 |
+|  333       17 |  |  1 |      つよい　ねんりきを　あいてに　おくって こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  333       17 |  |  3 |      강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  333       17 |  |  4 |      向對手發送 強大的念力進行攻擊。 有時會降低對手的特防。 |
+|  333       17 |  |  5 |      Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  333       17 |  |  6 |      Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell. |
+|  333       17 |  |  7 |      Ataca al objetivo con un potente ataque telequinético que le puede bajar la Defensa Especial. |
+|  333       17 |  |  8 |      Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale. |
+|  333       17 |  |  9 |      The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat. |
+|  333       17 |  |  11 |     強い　念力を　相手に　送って 攻撃する。　相手の　特防を さげることが　ある。 |
+|  333       17 |  |  12 |     向对手发送 强大的念力进行攻击。 有时会降低对手的特防。 |
+|  333       18 |  |  1 |      つよい　ねんりきを　あいてに　おくって こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  333       18 |  |  3 |      강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  333       18 |  |  4 |      向對手發送 強大的念力進行攻擊。 有時會降低對手的特防。 |
+|  333       18 |  |  5 |      Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  333       18 |  |  6 |      Ein mächtiger Strahl telekinetischer Energie trifft das Ziel. Die Spezial-Verteidigung des Zieles sinkt eventuell. |
+|  333       18 |  |  7 |      Ataca al objetivo con un potente ataque telequinético que le puede bajar la Defensa Especial. |
+|  333       18 |  |  8 |      Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale. |
+|  333       18 |  |  9 |      The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat. |
+|  333       18 |  |  11 |     強い　念力を　相手に　送って 攻撃する。　相手の　特防を さげることが　ある。 |
+|  333       18 |  |  12 |     向对手发送 强大的念力进行攻击。 有时会降低对手的特防。 |
+|  333       19 |  |  1 |      あつく　にえたぎる　みずを あいてに　はっしゃして　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  333       19 |  |  3 |      뜨겁게 끓어오르는 물을 상대에게 발사해서 공격한다. 화상 상태로 만들 때가 있다. |
+|  333       19 |  |  4 |      向對手噴射 滾燙的熱水進行攻擊。 有時會讓對手陷入灼傷狀態。 |
+|  333       19 |  |  5 |      L'ennemi est attaqué par un jet d'eau bouillante. Peut aussi le brûler. |
+|  333       19 |  |  6 |      Heizt dem Ziel mit einem Schwall siedend heißen Kochwassers ein. Das Ziel erleidet dabei eventuell Verbrennungen. |
+|  333       19 |  |  7 |      Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras. |
+|  333       19 |  |  8 |      Chi la usa attacca il bersaglio con un getto d'acqua bollente che può anche scottarlo. |
+|  333       19 |  |  9 |      The user shoots boiling hot water at its target. This may also leave the target with a burn. |
+|  333       19 |  |  11 |     熱く　煮えたぎる　水を 相手に　発射して　攻撃する。 やけど状態に　することが　ある。 |
+|  333       19 |  |  12 |     向对手喷射 煮得翻滚的开水进行攻击。 有时会让对手陷入灼伤状态。 |
+|  333       20 |  |  1 |      かわいく　みつめて　ゆだんを　さそい あいての　こうげきを　がくっと　さげる。 |
+|  333       20 |  |  3 |      귀엽게 바라보고 방심을 유도하여 상대의 공격을 크게 떨어뜨린다. |
+|  333       20 |  |  4 |      用撒嬌的眼神 誘使對手疏忽大意， 大幅降低對手的攻擊。 |
+|  333       20 |  |  5 |      Le lanceur fait les yeux doux pour berner l'ennemi et beaucoup réduire son Attaque. |
+|  333       20 |  |  6 |      Betört das Ziel und reduziert dessen Angriffs-Wert stark. |
+|  333       20 |  |  7 |      Engatusa al objetivo y reduce mucho su Ataque. |
+|  333       20 |  |  8 |      Ammalia il bersaglio con lo sguardo per renderlo meno cauto. Ne riduce molto l'Attacco. |
+|  333       20 |  |  9 |      The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat. |
+|  333       20 |  |  11 |     かわいく　みつめて　油断を　誘い 相手の　攻撃を　がくっと　さげる。 |
+|  333       20 |  |  12 |     可爱地凝视， 诱使对手疏忽大意， 从而大幅降低对手的攻击。 |
+|  334       5 |  |   9 |      Hurls a dark lump at the foe. It may lower SP. DEF. |
+|  334       6 |  |   9 |      Hurls a dark lump at the foe. It may lower SP. DEF. |
+|  334       7 |  |   9 |      A shadowy blob is hurled at the foe. May also lower the foe's SP. DEF. |
+|  334       8 |  |   9 |      The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat. |
+|  334       9 |  |   9 |      The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat. |
+|  334       10 |  |  9 |      The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat. |
+|  334       11 |  |  5 |      Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  334       11 |  |  9 |      The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat. |
+|  334       14 |  |  9 |      The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat. |
+|  334       15 |  |  1 |      くろいかげの　かたまりを　なげて こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  334       15 |  |  3 |      까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  334       15 |  |  5 |      Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  334       15 |  |  6 |      Das Ziel wird mit einem dunklen Klumpen attackiert, der eventuell die Spezial-Verteidigung senkt. |
+|  334       15 |  |  7 |      Ataque rápido dirigido a los pies del objetivo que le hace perder Velocidad. |
+|  334       15 |  |  8 |      Lancia sul nemico una sfera nera. Può anche ridurne la Difesa Speciale. |
+|  334       15 |  |  9 |      The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat. |
+|  334       15 |  |  11 |     黒い影の　塊を　投げつけて 攻撃する。相手の　特防を さげることが　ある。 |
+|  334       17 |  |  1 |      くろいかげの　かたまりを　なげつけて こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  334       17 |  |  3 |      까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  334       17 |  |  4 |      投擲一團黑影進行攻擊。 有時會降低對手的特防。 |
+|  334       17 |  |  5 |      Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  334       17 |  |  6 |      Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt. |
+|  334       17 |  |  7 |      Lanza una bola oscura que puede bajar la Defensa Especial del objetivo. |
+|  334       17 |  |  8 |      Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale. |
+|  334       17 |  |  9 |      The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat. |
+|  334       17 |  |  11 |     黒い影の　塊を　投げつけて 攻撃する。　相手の　特防を さげることが　ある。 |
+|  334       17 |  |  12 |     投掷一团黑影进行攻击。 有时会降低对手的特防。 |
+|  334       18 |  |  1 |      くろいかげの　かたまりを　なげつけて こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  334       18 |  |  3 |      까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  334       18 |  |  4 |      投擲一團黑影進行攻擊。 有時會降低對手的特防。 |
+|  334       18 |  |  5 |      Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  334       18 |  |  6 |      Das Ziel wird mit einem dunklen Ball attackiert, der eventuell die Spezial-Verteidigung senkt. |
+|  334       18 |  |  7 |      Lanza una bola oscura que puede bajar la Defensa Especial del objetivo. |
+|  334       18 |  |  8 |      Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale. |
+|  334       18 |  |  9 |      The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat. |
+|  334       18 |  |  11 |     黒い影の　塊を　投げつけて 攻撃する。　相手の　特防を さげることが　ある。 |
+|  334       18 |  |  12 |     投掷一团黑影进行攻击。 有时会降低对手的特防。 |
+|  334       19 |  |  1 |      からだに　ちからを　こめて　きんにくを ぶあつく　することで　じぶんの こうげきと　ぼうぎょを　あげる。 |
+|  334       19 |  |  3 |      몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다. |
+|  334       19 |  |  4 |      將力量集中於體內，增厚肌肉， 提高自己的攻擊和防禦。 |
+|  334       19 |  |  5 |      Le lanceur tend ses muscles pour se gonfler, ce qui booste son Attaque et sa Défense. |
+|  334       19 |  |  6 |      Der Anwender spannt seine Muskeln an, um den Angriff und die Verteidigung zu erhöhen. |
+|  334       19 |  |  7 |      Robustece el cuerpo para subir el Ataque y la Defensa. |
+|  334       19 |  |  8 |      Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco. |
+|  334       19 |  |  9 |      The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats. |
+|  334       19 |  |  11 |     体に　力を　こめて 筋肉を　ぶあつく　することで 自分の　攻撃と　防御を　あげる。 |
+|  334       19 |  |  12 |     使出全身力气绷紧肌肉， 从而提高自己的攻击和防御。 |
+|  334       20 |  |  1 |      かたい　つばさを　あいてに　たたきつけて こうげきする。　じぶんの　ぼうぎょが あがることが　ある。 |
+|  334       20 |  |  3 |      단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다. |
+|  334       20 |  |  4 |      用堅硬的翅膀撞擊 對手進行攻擊。 有時會提高自己的防禦。 |
+|  334       20 |  |  5 |      Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur. |
+|  334       20 |  |  6 |      Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell. |
+|  334       20 |  |  7 |      Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario. |
+|  334       20 |  |  8 |      Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa. |
+|  334       20 |  |  9 |      The target is hit with wings of steel. This may also raise the user's Defense stat. |
+|  334       20 |  |  11 |     硬い　翼を　相手に　たたきつけて 攻撃する。　自分の　防御が あがることが　ある。 |
+|  334       20 |  |  12 |     用坚硬的翅膀敲打 对手进行攻击。 有时会提高自己的防御。 |
+|  335       5 |  |   9 |      Destroys barriers like LIGHT SCREEN and causes damage. |
+|  335       6 |  |   9 |      Destroys barriers like LIGHT SCREEN and causes damage. |
+|  335       7 |  |   9 |      An attack that also breaks any barrier like LIGHT SCREEN and REFLECT. |
+|  335       8 |  |   9 |      The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. |
+|  335       9 |  |   9 |      The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. |
+|  335       10 |  |  9 |      The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. |
+|  335       11 |  |  5 |      Une attaque avec la main ou autre. Peut briser les barrières comme Mur Lumière et Protection. |
+|  335       11 |  |  9 |      The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. |
+|  335       14 |  |  9 |      The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect. |
+|  335       15 |  |  1 |      こぶしなどで　こうげきする。 ひかりのかべや　リフレクターも はかいできる。 |
+|  335       15 |  |  3 |      주먹 등으로 공격한다. 빛의장막이나 리플렉터도 파괴할 수 있다. |
+|  335       15 |  |  5 |      Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection. |
+|  335       15 |  |  6 |      Das Ziel wird mit der Handkante angegriffen. Barrieren wie Lichtschild oder Reflektor werden zerstört. |
+|  335       15 |  |  7 |      Canto que sirve de ataque. Su fuerza aumenta cuantos más Pokémon lo usan en cadena. |
+|  335       15 |  |  8 |      Colpisce il nemico con una mano e rompe barriere come Riflesso e Schermoluce. |
+|  335       15 |  |  9 |      The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+|  335       15 |  |  11 |     硬い　こぶしなどで 相手を　攻撃する。ひかりのかべや リフレクターも　破壊できる。 |
+|  335       17 |  |  1 |      しゅとうを　いきおいよく　ふりおろして こうげきする。　ひかりのかべや リフレクター　なども　はかいできる。 |
+|  335       17 |  |  3 |      수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다. |
+|  335       17 |  |  4 |      猛烈地揮下手刀 攻擊對手。還可以破壞 光牆和反射壁等。 |
+|  335       17 |  |  5 |      Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection. |
+|  335       17 |  |  6 |      Das Ziel wird mit der Handkante angegriffen. Barrieren wie Lichtschild oder Reflektor werden zerstört. |
+|  335       17 |  |  7 |      Ataca con contundentes puñetazos. Puede destruir barreras como Pantalla de Luz y Reflejo. |
+|  335       17 |  |  8 |      Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce. |
+|  335       17 |  |  9 |      The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+|  335       17 |  |  11 |     手刀を　勢いよく　振りおろして 攻撃する。　ひかりのかべや リフレクター　なども　破壊できる。 |
+|  335       17 |  |  12 |     将手刀猛烈地挥下攻击对手。 还可以破坏光墙和反射壁等。 |
+|  335       18 |  |  1 |      しゅとうを　いきおいよく　ふりおろして こうげきする。　ひかりのかべや リフレクター　なども　はかいできる。 |
+|  335       18 |  |  3 |      수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다. |
+|  335       18 |  |  4 |      猛烈地揮下手刀 攻擊對手。還可以破壞 光牆和反射壁等。 |
+|  335       18 |  |  5 |      Une attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection. |
+|  335       18 |  |  6 |      Das Ziel wird mit der Handkante angegriffen. Barrieren wie Lichtschild oder Reflektor werden zerstört. |
+|  335       18 |  |  7 |      Ataca con contundentes puñetazos. Puede destruir barreras como Pantalla de Luz y Reflejo. |
+|  335       18 |  |  8 |      Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce. |
+|  335       18 |  |  9 |      The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+|  335       18 |  |  11 |     手刀を　勢いよく　振りおろして 攻撃する。　ひかりのかべや リフレクター　なども　破壊できる。 |
+|  335       18 |  |  12 |     将手刀猛烈地挥下攻击对手。 还可以破坏光墙和反射壁等。 |
+|  335       19 |  |  1 |      ほのおを　こめた　パンチで あいてを　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  335       19 |  |  3 |      불꽃을 담은 펀치로 상대를 공격한다. 화상 상태로 만들 때가 있다. |
+|  335       19 |  |  4 |      用帶有火焰的拳頭 攻擊對手。 有時會讓對手陷入灼傷狀態。 |
+|  335       19 |  |  5 |      Un coup de poing enflammé vient frapper l'ennemi. Peut le brûler. |
+|  335       19 |  |  6 |      Feuriger Schlag, der dem Ziel eventuell Verbrennungen zufügt. |
+|  335       19 |  |  7 |      Puñetazo ardiente. Puede quemar. |
+|  335       19 |  |  8 |      Colpisce il bersaglio con un pugno ardente che può scottarlo. |
+|  335       19 |  |  9 |      The target is punched with a fiery fist. This may also leave the target with a burn. |
+|  335       19 |  |  11 |     炎を　こめた　パンチで 相手を　攻撃する。 やけど状態に　することが　ある。 |
+|  335       19 |  |  12 |     用充满火焰的拳头攻击对手。 有时会让对手陷入灼伤状态。 |
+|  335       20 |  |  1 |      ♂なら♀を　♀なら♂を　ゆうわくして メロメロに　する。 あいては　わざが　だしにくく　なる。 |
+|  335       20 |  |  3 |      수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다. |
+|  335       20 |  |  4 |      ♂誘惑♀而♀誘惑♂， 讓對手著迷。 對手將難以使用招式。 |
+|  335       20 |  |  5 |      Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer. |
+|  335       20 |  |  6 |      Wenn das Ziel nicht dem Geschlecht des Anwenders angehört, fühlt es sich zu ihm hingezogen und greift eventuell nicht an. |
+|  335       20 |  |  7 |      Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de que ataque. |
+|  335       20 |  |  8 |      Se il bersaglio è del sesso opposto, s'infatua e diventa riluttante ad attaccare. |
+|  335       20 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  335       20 |  |  11 |     ♂なら♀を　♀なら♂を　誘惑して メロメロに　する。 相手は　技が　だしにくくなる。 |
+|  335       20 |  |  12 |     ♂诱惑♀或♀诱惑♂， 让对手着迷。 对手将很难使出招式。 |
+|  336       5 |  |   9 |      Creates illusory copies to enhance elusiveness. |
+|  336       6 |  |   9 |      Creates illusory copies to enhance elusiveness. |
+|  336       7 |  |   9 |      The user creates illusory copies of itself to raise its evasiveness. |
+|  336       8 |  |   9 |      The user begins moving so quickly that it creates illusory copies to raise its evasiveness. |
+|  336       9 |  |   9 |      The user begins moving so quickly that it creates illusory copies to raise its evasiveness. |
+|  336       10 |  |  9 |      The user begins moving so quickly that it creates illusory copies to raise its evasiveness. |
+|  336       11 |  |  5 |      Le lanceur se déplace si vite qu'il crée des copies illusoires de lui, augmentant son Esquive. |
+|  336       11 |  |  9 |      By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+|  336       14 |  |  9 |      By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+|  336       15 |  |  1 |      すばやい　うごきで　ぶんしんを つくる。　あいてを　まどわせることで かいひりつを　あげる。 |
+|  336       15 |  |  3 |      재빠른 움직임으로 분신을 만들어 상대를 혼란시켜 회피율을 올린다. |
+|  336       15 |  |  5 |      Le lanceur se déplace si vite qu'il crée des copies illusoires de lui, augmentant son Esquive. |
+|  336       15 |  |  6 |      Der Angreifer ist so schnell, dass virtuelle Abbilder generiert werden, die den Fluchtwert erhöhen. |
+|  336       15 |  |  7 |      Ataca al objetivo con un susurro. Su fuerza aumenta si cualquiera de los Pokémon lo usa en cada turno. |
+|  336       15 |  |  8 |      Chi la usa si muove in fretta e crea copie illusorie di se stesso che aumentano la capacità di elusione. |
+|  336       15 |  |  9 |      By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+|  336       15 |  |  11 |     素早い　動きで　分身を　つくり 相手を　まどわせて 回避率を　あげる。 |
+|  336       17 |  |  1 |      すばやい　うごきで　ぶんしんを　つくり あいてを　まどわせて かいひりつを　あげる。 |
+|  336       17 |  |  3 |      재빠른 움직임으로 분신을 만들어 상대를 혼란시켜 회피율을 올린다. |
+|  336       17 |  |  4 |      利用快速移動 製造出分身擾亂對手， 提高自己的閃避率。 |
+|  336       17 |  |  5 |      Le lanceur se déplace si vite qu'il crée des copies illusoires de lui-même, augmentant son Esquive. |
+|  336       17 |  |  6 |      Der Angreifer ist so schnell, dass virtuelle Abbilder generiert werden, die den Fluchtwert erhöhen. |
+|  336       17 |  |  7 |      Quien lo usa se mueve tan rápido que deja una estela de sí mismo que aumenta la Evasión. |
+|  336       17 |  |  8 |      Chi la usa si muove in fretta e crea copie illusorie di se stesso che aumentano la capacità di elusione. |
+|  336       17 |  |  9 |      By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+|  336       17 |  |  11 |     素早い　動きで　分身を　つくり 相手を　まどわせて 回避率を　あげる。 |
+|  336       17 |  |  12 |     通过快速移动来制造分身， 扰乱对手，从而提高闪避率。 |
+|  336       18 |  |  1 |      すばやい　うごきで　ぶんしんを　つくり あいてを　まどわせて かいひりつを　あげる。 |
+|  336       18 |  |  3 |      재빠른 움직임으로 분신을 만들어 상대를 혼란시켜 회피율을 올린다. |
+|  336       18 |  |  4 |      利用快速移動 製造出分身擾亂對手， 提高自己的閃避率。 |
+|  336       18 |  |  5 |      Le lanceur se déplace si vite qu'il crée des copies illusoires de lui-même, augmentant son Esquive. |
+|  336       18 |  |  6 |      Der Angreifer ist so schnell, dass virtuelle Abbilder generiert werden, die den Fluchtwert erhöhen. |
+|  336       18 |  |  7 |      Quien lo usa se mueve tan rápido que deja una estela de sí mismo que aumenta la Evasión. |
+|  336       18 |  |  8 |      Chi la usa si muove in fretta e crea copie illusorie di se stesso che aumentano la capacità di elusione. |
+|  336       18 |  |  9 |      By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. |
+|  336       18 |  |  11 |     素早い　動きで　分身を　つくり 相手を　まどわせて 回避率を　あげる。 |
+|  336       18 |  |  12 |     通过快速移动来制造分身， 扰乱对手，从而提高闪避率。 |
+|  336       19 |  |  1 |      きょうりょくな　ひかりを　はなち あいてに　ダメージを　あたえる。 |
+|  336       19 |  |  3 |      강력한 빛을 내어 상대에게 데미지를 준다. |
+|  336       19 |  |  4 |      發出強烈的閃光， 給予對手傷害。 |
+|  336       19 |  |  5 |      Libère une puissante décharge lumineuse qui inflige des dégâts à l'ennemi. |
+|  336       19 |  |  6 |      Der Anwender feuert einen mächtigen Lichtblitz ab, der dem Ziel Schaden zufügt. |
+|  336       19 |  |  7 |      Inflige daño a los oponentes con una potente luz. |
+|  336       19 |  |  8 |      Chi la usa emette una luce potentissima che infligge danni ai nemici intorno. |
+|  336       19 |  |  9 |      The user damages opposing Pokémon by emitting a powerful flash. |
+|  336       19 |  |  11 |     強力な　光を　放ち 相手に　ダメージを　与える。 |
+|  336       19 |  |  12 |     向对手发射强光， 并给予伤害。 |
+|  336       20 |  |  1 |      ５ターンの　あいだ　すなあらしで　いわ じめん　はがねタイプ　いがいに　ダメージ。 いわタイプの　とくぼうが　あがる。 |
+|  336       20 |  |  3 |      5턴 동안 모래바람을 일으켜 바위 땅, 강철타입 이외의 상대에게 데미지를 준다. 바위타입의 특수방어가 올라간다. |
+|  336       20 |  |  4 |      揚起沙暴，在５回合內給予 岩石、地面和鋼屬性以外的寶可夢傷害。 岩石屬性寶可夢的特防會提高。 |
+|  336       20 |  |  5 |      Une tempête de sable blesse tous les Pokémon pendant cinq tours, sauf ceux de type Roche, Sol ou Acier. Augmente la Défense Spéciale des Pokémon Roche. |
+|  336       20 |  |  6 |      Sandsturm für fünf Runden. Schadet Pokémon aller Typen außer Gestein, Boden und Stahl. Erhöht die Spezial-Verteidigung von Gesteins-Pokémon. |
+|  336       20 |  |  7 |      Tormenta de arena que dura cinco turnos y hiere a todos, excepto a los de tipo Roca, Tierra y Acero, y aumenta la Defensa Especial de los de tipo Roca. |
+|  336       20 |  |  8 |      Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi esclusi Terra, Roccia e Acciaio. Aumenta la Dif. Speciale dei Pokémon di tipo Roccia. |
+|  336       20 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types. |
+|  336       20 |  |  11 |     ５ターンの　間　砂あらしで　いわ じめん　はがねタイプ　以外に　ダメージ。 いわタイプの　特防が　あがる。 |
+|  336       20 |  |  12 |     在５回合内扬起沙暴，除岩石、地面和 钢属性以外的宝可梦，都会受到伤害。 岩石属性的特防还会提高。 |
+|  337       5 |  |   9 |      Creates a wall of light that weakens physical attacks. |
+|  337       6 |  |   9 |      Creates a wall of light that weakens physical attacks. |
+|  337       7 |  |   9 |      A wall of light cuts damage from physical attacks for five turns. |
+|  337       8 |  |   9 |      A wondrous wall of light is put up to suppress damage from physical attacks for five turns. |
+|  337       9 |  |   9 |      A wondrous wall of light is put up to suppress damage from physical attacks for five turns. |
+|  337       10 |  |  9 |      A wondrous wall of light is put up to suppress damage from physical attacks for five turns. |
+|  337       11 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques physiques durant 5 tours. |
+|  337       11 |  |  9 |      A wondrous wall of light is put up to suppress damage from physical attacks for five turns. |
+|  337       14 |  |  9 |      A wondrous wall of light is put up to suppress damage from physical attacks for five turns. |
+|  337       15 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　ぶつりわざの ダメージを　よわめる。 |
+|  337       15 |  |  3 |      5턴 동안 이상한 장막으로 상대에게 받은 물리 기술의 데미지를 약하게 만든다. |
+|  337       15 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les attaques physiques durant cinq tours. |
+|  337       15 |  |  6 |      Eine Wand aus Licht wird für 5 Runden errichtet. Sie reduziert den Schaden physischer Attacken. |
+|  337       15 |  |  7 |      Quien lo usa ataca con toda su fuerza, pero ve muy reducido su Ataque Especial. |
+|  337       15 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni. |
+|  337       15 |  |  9 |      A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+|  337       15 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　物理攻撃の ダメージを　弱める。 |
+|  337       17 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　ぶつりわざの ダメージを　よわめる。 |
+|  337       17 |  |  3 |      5턴 동안 이상한 장막으로 상대에게 받은 물리 기술의 데미지를 약하게 만든다. |
+|  337       17 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的物理攻擊傷害。 |
+|  337       17 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques durant cinq tours. |
+|  337       17 |  |  6 |      Eine Wand aus Licht wird für 5 Runden errichtet. Sie reduziert den Schaden physischer Attacken. |
+|  337       17 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques físicos durante cinco turnos. |
+|  337       17 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni. |
+|  337       17 |  |  9 |      A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+|  337       17 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　物理攻撃の ダメージを　弱める。 |
+|  337       17 |  |  12 |     在５回合内使用神奇的墙， 减弱从对手那受到的 物理攻击的伤害。 |
+|  337       18 |  |  1 |      ５ターンの　あいだ　ふしぎな　かべで あいてから　うける　ぶつりわざの ダメージを　よわめる。 |
+|  337       18 |  |  3 |      5턴 동안 이상한 장막으로 상대에게 받은 물리 기술의 데미지를 약하게 만든다. |
+|  337       18 |  |  4 |      利用神奇的屏障， 在５回合內減輕 來自對手的物理攻擊傷害。 |
+|  337       18 |  |  5 |      Un fabuleux mur de lumière qui réduit les dégâts causés par les capacités physiques durant cinq tours. |
+|  337       18 |  |  6 |      Eine Wand aus Licht wird für 5 Runden errichtet. Sie reduziert den Schaden physischer Attacken. |
+|  337       18 |  |  7 |      Impresionante pared de luz que reduce el daño de los ataques físicos durante cinco turnos. |
+|  337       18 |  |  8 |      Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni. |
+|  337       18 |  |  9 |      A wondrous wall of light is put up to reduce damage from physical attacks for five turns. |
+|  337       18 |  |  11 |     ５ターンの　あいだ　不思議な　かべで 相手から　受ける　物理攻撃の ダメージを　弱める。 |
+|  337       18 |  |  12 |     在５回合内使用神奇的墙， 减弱从对手那受到的 物理攻击的伤害。 |
+|  337       19 |  |  1 |      しずかに　せいしんを　とういつし こころを　しずめる　ことで　じぶんの とくこうと　とくぼうを　あげる。 |
+|  337       19 |  |  3 |      조용히 정신을 통일하고 마음을 가라앉혀서 자신의 특수공격과 특수방어를 올린다. |
+|  337       19 |  |  4 |      屏氣凝神， 提高自己的特攻和特防。 |
+|  337       19 |  |  5 |      Le lanceur se concentre et fait le vide dans son esprit pour augmenter son Attaque Spéciale et sa Défense Spéciale. |
+|  337       19 |  |  6 |      Erhöht Spezial-Angriff und Spezial-Verteidigung durch Konzentration. |
+|  337       19 |  |  7 |      Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial. |
+|  337       19 |  |  8 |      Chi la usa placa il proprio spirito meditando per aumentare l'Attacco Speciale e la Difesa Speciale. |
+|  337       19 |  |  9 |      The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats. |
+|  337       19 |  |  11 |     静かに　精神を　統一し 心を　鎮めることで　自分の 特攻と　特防を　あげる。 |
+|  337       19 |  |  12 |     静心凝神， 从而提高自己的特攻和特防。 |
+|  337       20 |  |  1 |      ５ターンの　あいだ　あめを　ふらせて みずタイプの　いりょくを　あげる。 ほのおタイプの　いりょくは　さがる。 |
+|  337       20 |  |  3 |      5턴 동안 비를 내리게 해서 물타입 기술의 위력을 올린다. 불꽃타입의 위력은 떨어진다. |
+|  337       20 |  |  4 |      降下大雨，在５回合內 提高水屬性招式的威力。 火屬性招式的威力會降低。 |
+|  337       20 |  |  5 |      Invoque de fortes pluies qui durent cinq tours, augmentant la puissance des capacités de type Eau et baissant celle des capacités de type Feu. |
+|  337       20 |  |  6 |      Anwender erzeugt starken Regen. Die Stärke von Wasser-Attacken erhöht sich fünf Runden lang, während die Stärke von Feuer-Attacken sinkt. |
+|  337       20 |  |  7 |      Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos y debilita los de tipo Fuego. |
+|  337       20 |  |  8 |      Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua e riducendo la potenza di quelle di tipo Fuoco. |
+|  337       20 |  |  9 |      The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves. |
+|  337       20 |  |  11 |     ５ターンの　間　雨を　降らせて みずタイプの　威力を　あげる。 ほのおタイプの　威力は　さがる。 |
+|  337       20 |  |  12 |     在５回合内一直降雨， 从而提高水属性的招式威力。 火属性的招式威力则降低。 |
+|  338       5 |  |   9 |      Zaps the foe with a jolt of electricity that never misses. |
+|  338       6 |  |   9 |      Zaps the foe with a jolt of electricity that never misses. |
+|  338       7 |  |   9 |      A rapid jolt of electricity strikes the foe. It can't be evaded. |
+|  338       8 |  |   9 |      The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded. |
+|  338       9 |  |   9 |      The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded. |
+|  338       10 |  |  9 |      The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded. |
+|  338       11 |  |  5 |      Attaque tout ce qui se trouve autour avec une vague de crasse. Peut aussi empoisonner. |
+|  338       11 |  |  9 |      It swamps the area around the user with a giant sludge wave. It may also poison those hit. |
+|  338       14 |  |  9 |      It swamps the area around the user with a giant sludge wave. It may also poison those hit. |
+|  338       15 |  |  1 |      ヘドロの　なみで　じぶんの　まわりに いるものを　こうげきする。 どくに　することが　ある。 |
+|  338       15 |  |  3 |      오물의 파장으로 자신의 주위에 있는 포켓몬을 공격한다. 독 상태로 만들기도 한다. |
+|  338       15 |  |  5 |      Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi empoisonner. |
+|  338       15 |  |  6 |      Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet. |
+|  338       15 |  |  7 |      Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario. |
+|  338       15 |  |  8 |      Lancia un'onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli. |
+|  338       15 |  |  9 |      The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit. |
+|  338       15 |  |  11 |     ヘドロの　波で　自分の　周りに いるものを　攻撃する。 毒状態に　することが　ある。 |
+|  338       17 |  |  1 |      ヘドロの　なみで　じぶんの　まわりに いるものを　こうげきする。 どくに　することが　ある。 |
+|  338       17 |  |  3 |      오물의 파장으로 자신의 주위에 있는 포켓몬을 공격한다. 독 상태로 만들기도 한다. |
+|  338       17 |  |  4 |      用污泥波攻擊 自己周圍所有的寶可夢。 有時會讓對手陷入中毒狀態。 |
+|  338       17 |  |  5 |      Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi les empoisonner. |
+|  338       17 |  |  6 |      Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet. |
+|  338       17 |  |  7 |      Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar. |
+|  338       17 |  |  8 |      Lancia un'onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli. |
+|  338       17 |  |  9 |      The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit. |
+|  338       17 |  |  11 |     ヘドロの　波で　自分の　周りに いるものを　攻撃する。 毒状態に　することが　ある。 |
+|  338       17 |  |  12 |     用污泥波攻击 自己周围所有的宝可梦。 有时会陷入中毒状态。 |
+|  338       18 |  |  1 |      ヘドロの　なみで　じぶんの　まわりに いるものを　こうげきする。 どくに　することが　ある。 |
+|  338       18 |  |  3 |      오물의 파장으로 자신의 주위에 있는 포켓몬을 공격한다. 독 상태로 만들기도 한다. |
+|  338       18 |  |  4 |      用污泥波攻擊 自己周圍所有的寶可夢。 有時會讓對手陷入中毒狀態。 |
+|  338       18 |  |  5 |      Une vague de détritus attaque tous les Pokémon autour du lanceur. Peut aussi les empoisonner. |
+|  338       18 |  |  6 |      Greift Pokémon in der Nähe des Anwenders mit einer Schlammwelle an. Diese werden eventuell vergiftet. |
+|  338       18 |  |  7 |      Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar. |
+|  338       18 |  |  8 |      Lancia un'onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli. |
+|  338       18 |  |  9 |      The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit. |
+|  338       18 |  |  11 |     ヘドロの　波で　自分の　周りに いるものを　攻撃する。 毒状態に　することが　ある。 |
+|  338       18 |  |  12 |     用污泥波攻击 自己周围所有的宝可梦。 有时会陷入中毒状态。 |
+|  338       19 |  |  1 |      おおきな　くちから　しょうげきはを まきおこして　あいてを　こうげきする。 |
+|  338       19 |  |  3 |      큰 입으로 충격파를 일으켜서 상대를 공격한다. |
+|  338       19 |  |  4 |      從張大的口中 發射衝擊波攻擊對手。 |
+|  338       19 |  |  5 |      Le lanceur ouvre la bouche pour envoyer une onde de choc qui frappe l'ennemi. |
+|  338       19 |  |  6 |      Das Ziel wird mit einer Schockwelle angegriffen, die aus dem offenen Maul des Anwenders kommt. |
+|  338       19 |  |  7 |      Abre mucho la boca y libera una onda de choque que ataca al objetivo. |
+|  338       19 |  |  8 |      Chi la usa spalanca la bocca e genera un'onda d'urto che colpisce il bersaglio. |
+|  338       19 |  |  9 |      The target is attacked with a shock wave generated by the user's gaping mouth. |
+|  338       19 |  |  11 |     大きな　口から　衝撃波を まきおこして　相手を　攻撃する。 |
+|  338       19 |  |  12 |     从大大的口中 掀起冲击波攻击对手。 |
+|  338       20 |  |  1 |      ５ターンの　あいだ　ひざしを　つよくして ほのおタイプの　いりょくを　あげる。 みずタイプの　いりょくは　さがる。 |
+|  338       20 |  |  3 |      5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. 물타입의 위력은 떨어진다. |
+|  338       20 |  |  4 |      讓日照增強，在５回合內 提高火屬性招式的威力。 水屬性招式的威力會降低。 |
+|  338       20 |  |  5 |      Fait briller le soleil pendant cinq tours, augmentant la puissance des capacités de type Feu et baissant celle des capacités de type Eau. |
+|  338       20 |  |  6 |      Die Sonne brennt unbarmherzig fünf Runden lang. Dadurch werden Attacken vom Typ Feuer verstärkt, während Wasser-Attacken abgeschwächt werden. |
+|  338       20 |  |  7 |      Hace que se intensifique el efecto del sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego y debilita los de tipo Agua. |
+|  338       20 |  |  8 |      Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco e riducendo la potenza di quelle di tipo Acqua. |
+|  338       20 |  |  9 |      The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves. |
+|  338       20 |  |  11 |     ５ターンの　間　日差しを　強くして ほのおタイプの　威力を　あげる。 みずタイプの　威力は　さがる。 |
+|  338       20 |  |  12 |     在５回合内让日照变得强烈， 从而提高火属性的招式威力。 水属性的招式威力则降低。 |
+|  339       5 |  |   9 |      Looses a stream of fire that may burn the foe. |
+|  339       6 |  |   9 |      Looses a stream of fire that may burn the foe. |
+|  339       7 |  |   9 |      The foe is scorched with intense flames. The foe may suffer a burn. |
+|  339       8 |  |   9 |      The foe is scorched with an intense blast of fire. The target may also be left with a burn. |
+|  339       9 |  |   9 |      The foe is scorched with an intense blast of fire. The target may also be left with a burn. |
+|  339       10 |  |  9 |      The foe is scorched with an intense blast of fire. The target may also be left with a burn. |
+|  339       11 |  |  5 |      L'ennemi reçoit un torrent de flammes. Peut aussi le brûler. |
+|  339       11 |  |  9 |      The target is scorched with an intense blast of fire. It may also leave the target with a burn. |
+|  339       14 |  |  9 |      The target is scorched with an intense blast of fire. It may also leave the target with a burn. |
+|  339       15 |  |  1 |      はげしい　ほのおを　はっしゃして こうげきする。　あいてを　やけどの じょうたいに　することが　ある。 |
+|  339       15 |  |  3 |      세찬 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다. |
+|  339       15 |  |  5 |      L'ennemi reçoit un torrent de flammes. Peut aussi le brûler. |
+|  339       15 |  |  6 |      Das Ziel wird in ein Flammenmeer gehüllt. Verursacht eventuell Verbrennungen. |
+|  339       15 |  |  7 |      Quien lo usa ataca con toda su energía. También puede bajar la Defensa Especial del objetivo si lo alcanza. |
+|  339       15 |  |  8 |      Il nemico viene colpito da intense fiammate che possono anche scottarlo. |
+|  339       15 |  |  9 |      The target is scorched with an intense blast of fire. This may also leave the target with a burn. |
+|  339       15 |  |  11 |     激しい　炎を 相手に　発射して　攻撃する。 やけど状態に　することが　ある。 |
+|  339       17 |  |  1 |      はげしい　ほのおを あいてに　はっしゃして　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  339       17 |  |  3 |      세찬 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다. |
+|  339       17 |  |  4 |      向對手發射 強烈火焰進行攻擊。 有時會讓對手陷入灼傷狀態。 |
+|  339       17 |  |  5 |      L'ennemi reçoit un torrent de flammes. Peut aussi le brûler. |
+|  339       17 |  |  6 |      Das Ziel wird in ein Flammenmeer gehüllt. Verursacht eventuell Verbrennungen. |
+|  339       17 |  |  7 |      Abrasa al objetivo con una intensa llamarada que puede causarle quemaduras. |
+|  339       17 |  |  8 |      Il bersaglio viene colpito da intense fiammate che possono anche scottarlo. |
+|  339       17 |  |  9 |      The target is scorched with an intense blast of fire. This may also leave the target with a burn. |
+|  339       17 |  |  11 |     激しい　炎を 相手に　発射して　攻撃する。 やけど状態に　することが　ある。 |
+|  339       17 |  |  12 |     向对手发射 烈焰进行攻击。 有时会让对手陷入灼伤状态。 |
+|  339       18 |  |  1 |      はげしい　ほのおを あいてに　はっしゃして　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  339       18 |  |  3 |      세찬 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다. |
+|  339       18 |  |  4 |      向對手發射 強烈火焰進行攻擊。 有時會讓對手陷入灼傷狀態。 |
+|  339       18 |  |  5 |      L'ennemi reçoit un torrent de flammes. Peut aussi le brûler. |
+|  339       18 |  |  6 |      Das Ziel wird in ein Flammenmeer gehüllt. Verursacht eventuell Verbrennungen. |
+|  339       18 |  |  7 |      Abrasa al objetivo con una intensa llamarada que puede causarle quemaduras. |
+|  339       18 |  |  8 |      Il bersaglio viene colpito da intense fiammate che possono anche scottarlo. |
+|  339       18 |  |  9 |      The target is scorched with an intense blast of fire. This may also leave the target with a burn. |
+|  339       18 |  |  11 |     激しい　炎を 相手に　発射して　攻撃する。 やけど状態に　することが　ある。 |
+|  339       18 |  |  12 |     向对手发射 烈焰进行攻击。 有时会让对手陷入灼伤状态。 |
+|  339       19 |  |  1 |      れいきを　こめた　パンチで あいてを　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  339       19 |  |  3 |      냉기를 담은 펀치로 상대를 공격한다. 얼음 상태로 만들 때가 있다. |
+|  339       19 |  |  4 |      用帶有寒氣的拳頭 攻擊對手。 有時會讓對手陷入冰凍狀態。 |
+|  339       19 |  |  5 |      Un coup de poing glacé vient frapper l'ennemi. Peut le geler. |
+|  339       19 |  |  6 |      Ein eisiger Schlag, der das Ziel eventuell einfriert. |
+|  339       19 |  |  7 |      Puñetazo helado. Puede congelar. |
+|  339       19 |  |  8 |      Colpisce il bersaglio con un pugno di ghiaccio che può congelarlo. |
+|  339       19 |  |  9 |      The target is punched with an icy fist. This may also leave the target frozen. |
+|  339       19 |  |  11 |     冷気を　こめた　パンチで 相手を　攻撃する。 こおり状態に　することが　ある。 |
+|  339       19 |  |  12 |     用充满寒气的拳头攻击对手。 有时会让对手陷入冰冻状态。 |
+|  339       20 |  |  1 |      ５ターンの　あいだ　あられを　ふらして こおりタイプで　ない　ポケモン ぜんいんに　ダメージを　あたえる。 |
+|  339       20 |  |  3 |      5턴 동안 싸라기눈을 내리게 해서 얼음타입이 아닌 포켓몬 모두에게 데미지를 준다. |
+|  339       20 |  |  4 |      降下冰雹，在５回合內 場上除了冰屬性以外的寶可夢 都會受到傷害。 |
+|  339       20 |  |  5 |      Invoque une tempête de grêle qui dure cinq tours. Blesse tous les Pokémon, sauf ceux de type Glace. |
+|  339       20 |  |  6 |      Hagelsturm für fünf Runden. Schadet allen außer Eis-Pokémon. |
+|  339       20 |  |  7 |      Tormenta de granizo que dura cinco turnos. Hiere a todos los Pokémon excepto a los de tipo Hielo. |
+|  339       20 |  |  8 |      Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio. |
+|  339       20 |  |  9 |      The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types. |
+|  339       20 |  |  11 |     ５ターンの　間　あられを　降らして こおりタイプで　ない　ポケモン 全員に　ダメージを　与える。 |
+|  339       20 |  |  12 |     在５回合内一直降冰雹， 除冰属性的宝可梦以外， 给予全体宝可梦伤害。 |
+|  340       5 |  |   9 |      Hurls sludge at the foe. It may poison the foe. |
+|  340       6 |  |   9 |      Hurls sludge at the foe. It may poison the foe. |
+|  340       7 |  |   9 |      Filthy sludge is hurled at the foe. It may poison the target. |
+|  340       8 |  |   9 |      Unsanitary sludge is hurled at the foe. It may also poison the target. |
+|  340       9 |  |   9 |      Unsanitary sludge is hurled at the foe. It may also poison the target. |
+|  340       10 |  |  9 |      Unsanitary sludge is hurled at the foe. It may also poison the target. |
+|  340       11 |  |  5 |      Envoie des détritus sur l'ennemi. Peut aussi l'empoisonner. |
+|  340       11 |  |  9 |      Unsanitary sludge is hurled at the target. It may also poison the target. |
+|  340       14 |  |  9 |      Unsanitary sludge is hurled at the target. It may also poison the target. |
+|  340       15 |  |  1 |      きたない　ヘドロを　なげつける。 あいてを　どくの　じょうたいに することが　ある。 |
+|  340       15 |  |  3 |      더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다. |
+|  340       15 |  |  5 |      Le lanceur envoie des détritus sur l'ennemi. Peut aussi l'empoisonner. |
+|  340       15 |  |  6 |      Das Ziel versinkt im Giftschlamm. Kann eventuell Vergiftungen hervorrufen. |
+|  340       15 |  |  7 |      Extrae energía de la naturaleza y la lanza contra el objetivo. También puede reducir su Defensa Especial. |
+|  340       15 |  |  8 |      Chi la usa attacca lanciando fango sul bersaglio. Può anche avvelenarlo. |
+|  340       15 |  |  9 |      Unsanitary sludge is hurled at the target. This may also poison the target. |
+|  340       15 |  |  11 |     汚い　ヘドロを 相手に　投げつけて　攻撃する。 毒状態に　することが　ある。 |
+|  340       17 |  |  1 |      きたない　ヘドロを あいてに　なげつけて　こうげきする。 どく　じょうたいに　することが　ある。 |
+|  340       17 |  |  3 |      더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다. |
+|  340       17 |  |  4 |      向對手投擲污泥進行攻擊。 有時會讓對手陷入中毒狀態。 |
+|  340       17 |  |  5 |      Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner. |
+|  340       17 |  |  6 |      Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen. |
+|  340       17 |  |  7 |      Descarga de lodo tóxico que puede llegar a envenenar al objetivo. |
+|  340       17 |  |  8 |      Chi la usa lancia fango malsano sul bersaglio. Può anche avvelenarlo. |
+|  340       17 |  |  9 |      Unsanitary sludge is hurled at the target. This may also poison the target. |
+|  340       17 |  |  11 |     汚い　ヘドロを 相手に　投げつけて　攻撃する。 毒状態に　することが　ある。 |
+|  340       17 |  |  12 |     用污泥投掷对手进行攻击。 有时会让对手陷入中毒状态。 |
+|  340       18 |  |  1 |      きたない　ヘドロを あいてに　なげつけて　こうげきする。 どく　じょうたいに　することが　ある。 |
+|  340       18 |  |  3 |      더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다. |
+|  340       18 |  |  4 |      向對手投擲污泥進行攻擊。 有時會讓對手陷入中毒狀態。 |
+|  340       18 |  |  5 |      Des détritus toxiques sont projetés sur l'ennemi. Peut aussi l'empoisonner. |
+|  340       18 |  |  6 |      Das Ziel wird mit Giftschlamm beworfen. Kann eventuell Vergiftungen hervorrufen. |
+|  340       18 |  |  7 |      Descarga de lodo tóxico que puede llegar a envenenar al objetivo. |
+|  340       18 |  |  8 |      Chi la usa lancia fango malsano sul bersaglio. Può anche avvelenarlo. |
+|  340       18 |  |  9 |      Unsanitary sludge is hurled at the target. This may also poison the target. |
+|  340       18 |  |  11 |     汚い　ヘドロを 相手に　投げつけて　攻撃する。 毒状態に　することが　ある。 |
+|  340       18 |  |  12 |     用污泥投掷对手进行攻击。 有时会让对手陷入中毒状态。 |
+|  340       19 |  |  1 |      つよい　でんげきを あいてに　あびせて　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  340       19 |  |  3 |      강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다. |
+|  340       19 |  |  4 |      向對手放出強力電流進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  340       19 |  |  5 |      Une grosse décharge électrique tombe sur l'ennemi. Peut aussi le paralyser. |
+|  340       19 |  |  6 |      Eine starke Elektro-Attacke, die das Ziel eventuell paralysiert. |
+|  340       19 |  |  7 |      Potente ataque eléctrico que puede paralizar al objetivo. |
+|  340       19 |  |  8 |      Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo. |
+|  340       19 |  |  9 |      A strong electric blast crashes down on the target. This may also leave the target with paralysis. |
+|  340       19 |  |  11 |     強い　電撃を 相手に　浴びせて　攻撃する。 まひ状態に　することが　ある。 |
+|  340       19 |  |  12 |     向对手发出 强力电击进行攻击。 有时会让对手陷入麻痹状态。 |
+|  340       20 |  |  1 |      はげしく　うずをまく　みずの　なかに ４ー５ターンの　あいだ あいてを　とじこめて　こうげきする。 |
+|  340       20 |  |  3 |      세차게 소용돌이치는 물속에 4-5턴 동안 상대를 가두어 공격한다. |
+|  340       20 |  |  4 |      將對手困在激烈的 水流漩渦中， 在４～５回合內進行攻擊。 |
+|  340       20 |  |  5 |      Piège l'ennemi dans une trombe d'eau pendant quatre à cinq tours. |
+|  340       20 |  |  6 |      Das Ziel wird für vier bis fünf Runden in einer Wasserhose gefangen. |
+|  340       20 |  |  7 |      Una tromba de agua atrapa al objetivo durante cuatro o cinco turnos. |
+|  340       20 |  |  8 |      Intrappola il bersaglio in un turbine d'acqua per quattro o cinque turni infliggendo danni a ogni turno. |
+|  340       20 |  |  9 |      The user traps the target in a violent swirling whirlpool for four to five turns. |
+|  340       20 |  |  11 |     激しく　渦をまく　水の中に ４ー５ターンの　間 相手を　閉じこめて　攻撃する。 |
+|  340       20 |  |  12 |     将对手困在激烈的 水流旋涡中， 在４～５回合内进行攻击。 |
+|  341       5 |  |   9 |      Causes a sandstorm that hits the foe over several turns. |
+|  341       6 |  |   9 |      Causes a sandstorm that hits the foe over several turns. |
+|  341       7 |  |   9 |      A 5-turn sandstorm that damages all types except ROCK, GROUND, and STEEL. |
+|  341       8 |  |   9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. |
+|  341       9 |  |   9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. |
+|  341       10 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. |
+|  341       11 |  |  5 |      Une tempête de sable de 5 tours qui blesse tous les Pokémon sauf les types Roche, Sol et Acier. |
+|  341       11 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. |
+|  341       14 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. |
+|  341       15 |  |  1 |      ５ターンの　あいだ　すなあらしで じめん　いわ　はがね　タイプいがいに ダメージを　あたえる。 |
+|  341       15 |  |  3 |      5턴 동안 모래바람으로 바위, 땅, 강철타입 이외의 포켓몬에게 데미지를 준다. |
+|  341       15 |  |  5 |      Une tempête de sable qui blesse tous les Pokémon durant cinq tours, sauf ceux de types Roche, Sol et Acier. |
+|  341       15 |  |  6 |      Ein Sandsturm trifft für 5 Runden alle Pokémon, außer die vom Typ Boden, Gestein und Stahl. |
+|  341       15 |  |  7 |      Ataque controlado que impide que el objetivo se debilite al dejarle con un mínimo de 1 PS. |
+|  341       15 |  |  8 |      Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi in campo esclusi Terra, Roccia e Acciaio. |
+|  341       15 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except for Rock, Ground, and Steel types. |
+|  341       15 |  |  11 |     ５ターンの　あいだ　砂あらしで いわ　じめん　はがねタイプ　以外の ポケモンに　ダメージを　与える。 |
+|  341       17 |  |  1 |      ５ターンの　あいだ　いわ　じめん はがねタイプ　いがいに　ダメージ。 いわタイプの　とくぼうが　あがる。 |
+|  341       17 |  |  3 |      5턴 동안 바위, 땅, 강철타입 이외에 데미지를 준다. 바위타입의 특수방어가 올라간다. |
+|  341       17 |  |  4 |      在５回合內給予 岩石、地面和鋼屬性以外的寶可夢傷害。 岩石屬性寶可夢的特防會提高。 |
+|  341       17 |  |  5 |      Une tempête de sable qui blesse tous les Pokémon durant cinq tours, sauf ceux de type Roche, Sol ou Acier. Augmente la Déf. Spé. des Pokémon Roche. |
+|  341       17 |  |  6 |      Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon. |
+|  341       17 |  |  7 |      Daña durante cinco turnos a todos los Pokémon excepto a los de tipo Roca, Tierra y Acero. Aumenta la Defensa Especial de los Pokémon de tipo Roca. |
+|  341       17 |  |  8 |      Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi esclusi Terra, Roccia e Acciaio. Aumenta la Dif. Speciale dei Pokémon di tipo Roccia. |
+|  341       17 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. Raises the Sp. Def of Rock types. |
+|  341       17 |  |  11 |     ５ターンの　あいだ　いわ　じめん はがねタイプ　以外に　ダメージ。 いわタイプの　特防が　あがる。 |
+|  341       17 |  |  12 |     在５回合内，除岩石、地面和 钢属性以外的宝可梦，都会受到伤害。 岩石属性的特防还会提高。 |
+|  341       18 |  |  1 |      ５ターンの　あいだ　いわ　じめん はがねタイプ　いがいに　ダメージ。 いわタイプの　とくぼうが　あがる。 |
+|  341       18 |  |  3 |      5턴 동안 바위, 땅, 강철타입 이외에 데미지를 준다. 바위타입의 특수방어가 올라간다. |
+|  341       18 |  |  4 |      在５回合內給予 岩石、地面和鋼屬性以外的寶可夢傷害。 岩石屬性寶可夢的特防會提高。 |
+|  341       18 |  |  5 |      Une tempête de sable qui blesse tous les Pokémon durant cinq tours, sauf ceux de type Roche, Sol ou Acier. Augmente la Déf. Spé. des Pokémon Roche. |
+|  341       18 |  |  6 |      Ein Sandsturm trifft für 5 Runden alle Pokémon, bis auf jene vom Typ Boden, Gestein und Stahl. Erhöht die Sp.-Vert. von Gesteins-Pokémon. |
+|  341       18 |  |  7 |      Daña durante cinco turnos a todos los Pokémon excepto a los de tipo Roca, Tierra y Acero. Aumenta la Defensa Especial de los Pokémon de tipo Roca. |
+|  341       18 |  |  8 |      Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi esclusi Terra, Roccia e Acciaio. Aumenta la Dif. Speciale dei Pokémon di tipo Roccia. |
+|  341       18 |  |  9 |      A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. Raises the Sp. Def of Rock types. |
+|  341       18 |  |  11 |     ５ターンの　あいだ　いわ　じめん はがねタイプ　以外に　ダメージ。 いわタイプの　特防が　あがる。 |
+|  341       18 |  |  12 |     在５回合内，除岩石、地面和 钢属性以外的宝可梦，都会受到伤害。 岩石属性的特防还会提高。 |
+|  341       19 |  |  1 |      はげしい　ほのおを あいてに　はっしゃして　こうげきする。 やけど　じょうたいに　することが　ある。 |
+|  341       19 |  |  3 |      세찬 불꽃을 상대에게 발사하여 공격한다. 화상 상태로 만들 때가 있다. |
+|  341       19 |  |  4 |      向對手發射 強烈火焰進行攻擊。 有時會讓對手陷入灼傷狀態。 |
+|  341       19 |  |  5 |      L'ennemi reçoit un torrent de flammes. Peut aussi le brûler. |
+|  341       19 |  |  6 |      Starke Feuer-Attacke, durch die das Ziel eventuell Verbrennungen erleidet. |
+|  341       19 |  |  7 |      Ataca con una gran ráfaga de fuego que puede causar quemaduras. |
+|  341       19 |  |  8 |      Il bersaglio viene colpito da intense fiammate che possono anche scottarlo. |
+|  341       19 |  |  9 |      The target is scorched with an intense blast of fire. This may also leave the target with a burn. |
+|  341       19 |  |  11 |     激しい　炎を 相手に　発射して　攻撃する。 やけど状態に　することが　ある。 |
+|  341       19 |  |  12 |     向对手发射 烈焰进行攻击。 有时会让对手陷入灼伤状态。 |
+|  341       20 |  |  1 |      みかた　ぜんいんで　こうげきする。 なかまの　ポケモンが　おおいほど わざの　こうげきかいすうが　ふえる。 |
+|  341       20 |  |  3 |      같은 편 전원이 공격한다. 동료 포켓몬이 많을수록 기술의 공격 횟수가 증가한다. |
+|  341       20 |  |  4 |      讓我方所有寶可夢進行攻擊。 同行的寶可夢越多， 招式的攻擊次數越多。 |
+|  341       20 |  |  5 |      Le lanceur appelle tous les Pokémon de son équipe à attaquer. Plus ils sont nombreux, plus il y a d'attaques. |
+|  341       20 |  |  6 |      Der Anwender greift zusammen mit allen Mitgliedern seines Teams das Ziel an. Je mehr Pokémon sich im Team befinden, desto höher die Anzahl der Angriffe. |
+|  341       20 |  |  7 |      Ataque de todo el equipo Pokémon. Cuantos más haya, más veces se atacará. |
+|  341       20 |  |  8 |      Chi la usa chiama in aiuto i Pokémon della squadra: più ce ne sono, maggiore è il numero di attacchi. |
+|  341       20 |  |  9 |      The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks. |
+|  341       20 |  |  11 |     味方　全員で　攻撃する。 仲間の　ポケモンが　多いほど 技の　攻撃回数が　増える。 |
+|  341       20 |  |  12 |     我方全员进行攻击。 同行的宝可梦越多， 招式的攻击次数越多。 |
+|  342       5 |  |   9 |      A powerful fire attack that may burn the foe. |
+|  342       6 |  |   9 |      A powerful fire attack that may burn the foe. |
+|  342       7 |  |   9 |      The foe is hit with an intense flame. It may leave the target with a burn. |
+|  342       8 |  |   9 |      The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. |
+|  342       9 |  |   9 |      The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. |
+|  342       10 |  |  9 |      The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. |
+|  342       11 |  |  5 |      Un déluge de flammes ardentes submerge l'ennemi. Peut le brûler. |
+|  342       11 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. |
+|  342       14 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn. |
+|  342       15 |  |  1 |      だいのじの　ほのおで　あいてを やきつくす。　やけどの　じょうたいに することが　ある。 |
+|  342       15 |  |  3 |      큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다. |
+|  342       15 |  |  5 |      Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler. |
+|  342       15 |  |  6 |      Dem Ziel wird ordentlich eingeheizt. Kann eventuell Verbrennungen hervorrufen. |
+|  342       15 |  |  7 |      Abrasa al objetivo con agua hirviendo y puede causarle quemaduras. |
+|  342       15 |  |  8 |      Investe il nemico con un'intensa fiammata che fa terra bruciata. Può anche scottarlo. |
+|  342       15 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. |
+|  342       15 |  |  11 |     大の字の　炎で 相手を　焼きつくす。 やけど状態に　することが　ある。 |
+|  342       17 |  |  1 |      だいのじの　ほのおで　あいてを やきつくす。　やけどの　じょうたいに することが　ある。 |
+|  342       17 |  |  3 |      큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다. |
+|  342       17 |  |  4 |      用大字形狀的火焰燒盡對手。 有時會讓對手陷入灼傷狀態。 |
+|  342       17 |  |  5 |      Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler. |
+|  342       17 |  |  6 |      Dem Ziel wird ordentlich eingeheizt. Kann eventuell Verbrennungen hervorrufen. |
+|  342       17 |  |  7 |      Ataca con una intensa ráfaga de fuego abrasador que puede causar quemaduras. |
+|  342       17 |  |  8 |      Investe il bersaglio con un'intensa fiammata che fa terra bruciata. Può anche scottarlo. |
+|  342       17 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. |
+|  342       17 |  |  11 |     大の字の　炎で 相手を　焼きつくす。 やけど状態に　することが　ある。 |
+|  342       17 |  |  12 |     用大字的火焰烧尽对手。 有时会让对手陷入灼伤状态。 |
+|  342       18 |  |  1 |      だいのじの　ほのおで　あいてを やきつくす。　やけどの　じょうたいに することが　ある。 |
+|  342       18 |  |  3 |      큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다. |
+|  342       18 |  |  4 |      用大字形狀的火焰燒盡對手。 有時會讓對手陷入灼傷狀態。 |
+|  342       18 |  |  5 |      Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler. |
+|  342       18 |  |  6 |      Dem Ziel wird ordentlich eingeheizt. Kann eventuell Verbrennungen hervorrufen. |
+|  342       18 |  |  7 |      Ataca con una intensa ráfaga de fuego abrasador que puede causar quemaduras. |
+|  342       18 |  |  8 |      Investe il bersaglio con un'intensa fiammata che fa terra bruciata. Può anche scottarlo. |
+|  342       18 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. |
+|  342       18 |  |  11 |     大の字の　炎で 相手を　焼きつくす。 やけど状態に　することが　ある。 |
+|  342       18 |  |  12 |     用大字的火焰烧尽对手。 有时会让对手陷入灼伤状态。 |
+|  342       19 |  |  1 |      はげしい　かみなりを あいてに　おとして　こうげきする。 まひ　じょうたいに　することが　ある。 |
+|  342       19 |  |  3 |      강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다. |
+|  342       19 |  |  4 |      向對手劈下暴雷進行攻擊。 有時會讓對手陷入麻痺狀態。 |
+|  342       19 |  |  5 |      La foudre tombe sur l'ennemi pour lui infliger des dégâts. Peut aussi le paralyser. |
+|  342       19 |  |  6 |      Eine verheerende Elektro-Attacke, die das Ziel eventuell paralysiert. |
+|  342       19 |  |  7 |      Un poderoso rayo que daña al objetivo y puede paralizarlo. |
+|  342       19 |  |  8 |      Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo. |
+|  342       19 |  |  9 |      A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis. |
+|  342       19 |  |  11 |     激しい　雷を 相手に　落として　攻撃する。 まひ状態に　することが　ある。 |
+|  342       19 |  |  12 |     向对手劈下暴雷进行攻击。 有时会让对手陷入麻痹状态。 |
+|  342       20 |  |  1 |      ぶきみで　あやしい　ほのおを　はなって あいてを　やけどの　じょうたいに　する。 |
+|  342       20 |  |  3 |      으스스하고 괴상한 불꽃을 쏘아 상대를 화상 상태로 만든다. |
+|  342       20 |  |  4 |      放出詭異的火焰， 讓對手陷入灼傷狀態。 |
+|  342       20 |  |  5 |      Lance un bouquet de flammes maléfiques à l'ennemi pour lui infliger une brûlure. |
+|  342       20 |  |  6 |      Anwender feuert unheimliche Flammen ab, die beim Ziel Verbrennungen verursachen. |
+|  342       20 |  |  7 |      Siniestra llama morada que produce quemaduras. |
+|  342       20 |  |  8 |      Fiamme sinistre e misteriose causano una scottatura al bersaglio. |
+|  342       20 |  |  9 |      The user shoots a sinister flame at the target to inflict a burn. |
+|  342       20 |  |  11 |     不気味で　怪しい　炎を　放って 相手を　やけどの　状態に　する。 |
+|  342       20 |  |  12 |     放出怪异的火焰， 从而让对手陷入灼伤状态。 |
+|  343       5 |  |   9 |      Stops the foe from moving with rocks. May lower SPEED. |
+|  343       6 |  |   9 |      Stops the foe from moving with rocks. May lower SPEED. |
+|  343       7 |  |   9 |      Boulders are hurled at the foe. It also lowers the foe's SPEED if it hits. |
+|  343       8 |  |   9 |      Large boulders are hurled at the foe to inflict damage. It may also make the target flinch. |
+|  343       9 |  |   9 |      Large boulders are hurled at the foe to inflict damage. It lowers the foe's Speed. |
+|  343       10 |  |  9 |      Large boulders are hurled at the foe to inflict damage. It lowers the foe's Speed. |
+|  343       11 |  |  5 |      Des rochers frappent l'ennemi. Réduit aussi sa Vitesse en l'empêchant de se déplacer. |
+|  343       11 |  |  9 |      Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement. |
+|  343       14 |  |  9 |      Boulders are hurled at the target. It also lowers the target's Speed by preventing its movement. |
+|  343       15 |  |  1 |      いわを　なげつけ　こうげきする。 おちた　いわが　うごきを　ふうじて あいての　すばやさを　さげる。 |
+|  343       15 |  |  3 |      암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다. |
+|  343       15 |  |  5 |      Des rochers frappent l'ennemi. Réduit aussi sa Vitesse en l'empêchant de se déplacer. |
+|  343       15 |  |  6 |      Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles. |
+|  343       15 |  |  7 |      El usuario ataca al objetivo arrojando el objeto que lleve. La potencia y los efectos dependen del objeto arrojado. |
+|  343       15 |  |  8 |      Colpisce il nemico con rocce. Inoltre, lo rallenta riducendone la Velocità. |
+|  343       15 |  |  9 |      Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement. |
+|  343       15 |  |  11 |     岩石を　投げつけて　攻撃する。 相手の　動きを　封じることで 素早さを　さげる。 |
+|  343       17 |  |  1 |      がんせきを　なげつけて　こうげきする。 あいての　うごきを　ふうじることで すばやさを　さげる。 |
+|  343       17 |  |  3 |      암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다. |
+|  343       17 |  |  4 |      投擲岩石進行攻擊。 封住對手的行動， 進而降低其速度。 |
+|  343       17 |  |  5 |      Des rochers frappent l'ennemi. Réduit aussi sa Vitesse. |
+|  343       17 |  |  6 |      Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles. |
+|  343       17 |  |  7 |      Tira rocas que detienen al objetivo y bajan su Velocidad. |
+|  343       17 |  |  8 |      Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità. |
+|  343       17 |  |  9 |      Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement. |
+|  343       17 |  |  11 |     岩石を　投げつけて　攻撃する。 相手の　動きを　封じることで 素早さを　さげる。 |
+|  343       17 |  |  12 |     投掷岩石进行攻击。 封住对手的行动， 从而降低速度。 |
+|  343       18 |  |  1 |      がんせきを　なげつけて　こうげきする。 あいての　うごきを　ふうじることで すばやさを　さげる。 |
+|  343       18 |  |  3 |      암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다. |
+|  343       18 |  |  4 |      投擲岩石進行攻擊。 封住對手的行動， 進而降低其速度。 |
+|  343       18 |  |  5 |      Des rochers frappent l'ennemi. Réduit aussi sa Vitesse. |
+|  343       18 |  |  6 |      Das Ziel wird mit Felsen beworfen. Senkt den Initiative-Wert des Zieles. |
+|  343       18 |  |  7 |      Tira rocas que detienen al objetivo y bajan su Velocidad. |
+|  343       18 |  |  8 |      Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità. |
+|  343       18 |  |  9 |      Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement. |
+|  343       18 |  |  11 |     岩石を　投げつけて　攻撃する。 相手の　動きを　封じることで 素早さを　さげる。 |
+|  343       18 |  |  12 |     投掷岩石进行攻击。 封住对手的行动， 从而降低速度。 |
+|  343       19 |  |  1 |      ２ー３ターンの　あいだ あばれまくって　こうげきする。 あばれた　あとは　こんらん　する。 |
+|  343       19 |  |  3 |      2-3턴 동안 마구 난동 부려서 공격한다. 난동 부린 뒤에는 혼란에 빠진다. |
+|  343       19 |  |  4 |      在２～３回合內 瘋狂亂打對手進行攻擊。 大鬧一番後自己會陷入混亂。 |
+|  343       19 |  |  5 |      Le lanceur enrage et attaque pendant deux ou trois tours avant de devenir confus. |
+|  343       19 |  |  6 |      Attacke über zwei bis drei Runden, die den Anwender verwirrt. |
+|  343       19 |  |  7 |      Ataca de dos a tres turnos y acaba confundiendo al agresor. |
+|  343       19 |  |  8 |      Chi la usa sfoga la sua ira e attacca il nemico per due o tre turni prima di essere lasciato in preda alla confusione. |
+|  343       19 |  |  9 |      The Pokémon rampages and attacks for two to three turns. It then becomes confused. |
+|  343       19 |  |  11 |     ２ー３ターンの　間 暴れまくって　攻撃する。 暴れたあとは　混乱する。 |
+|  343       19 |  |  12 |     在２～３回合内， 乱打一气地进行攻击。 大闹一番后自己会陷入混乱。 |
+|  343       20 |  |  1 |      じぶんが　どく　まひ　やけど じょうたいの　とき　あいてに　くりだすと わざの　いりょくが　２ばいに　なる。 |
+|  343       20 |  |  3 |      자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다. |
+|  343       20 |  |  4 |      當自己陷入中毒、麻痺、灼傷等 狀態時，向對手使用此招式， 威力會變成２倍。 |
+|  343       20 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  343       20 |  |  6 |      Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke. |
+|  343       20 |  |  7 |      Si el usuario está quemado, paralizado o envenenado, ataca con el doble de potencia. |
+|  343       20 |  |  8 |      Mossa d'attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato. |
+|  343       20 |  |  9 |      This attack move doubles its power if the user is poisoned, burned, or paralyzed. |
+|  343       20 |  |  11 |     自分が　毒　まひ　やけど 状態のとき　相手に　くりだすと 技の　威力が　２倍に　なる。 |
+|  343       20 |  |  12 |     当自己处于中毒、麻痹、灼伤状态时， 向对手使出此招式的话， 威力会变成２倍。 |
+|  344       5 |  |   9 |      An extremely fast attack that can't be avoided. |
+|  344       6 |  |   9 |      An extremely fast attack that can't be avoided. |
+|  344       7 |  |   9 |      An extremely fast attack against one target. It can't be evaded. |
+|  344       8 |  |   9 |      The user confounds the foe with speed, then strikes. The attack lands without fail. |
+|  344       9 |  |   9 |      The user confounds the foe with speed, then strikes. The attack lands without fail. |
+|  344       10 |  |  9 |      The user confounds the foe with speed, then strikes. The attack lands without fail. |
+|  344       11 |  |  5 |      Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais. |
+|  344       11 |  |  9 |      The user confounds the target with speed, then slashes. The attack lands without fail. |
+|  344       14 |  |  9 |      The user confounds the target with speed, then slashes. The attack lands without fail. |
+|  344       15 |  |  1 |      すばやい　うごきで　ほんろうする。 こうげきは　かならず　あいてに めいちゅうする。 |
+|  344       15 |  |  3 |      재빠른 움직임으로 상대를 농락해 벤다. 공격은 반드시 명중한다. |
+|  344       15 |  |  5 |      Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais. |
+|  344       15 |  |  6 |      Der Anwender irritiert das Ziel durch Schnelligkeit, bevor er angreift. Diese Attacke trifft ihr Ziel immer. |
+|  344       15 |  |  7 |      Quien lo usa ataca con una descarga eléctrica y puede utilizar la electricidad restante para subir su Ataque Especial. |
+|  344       15 |  |  8 |      Chi la usa attacca il nemico a grande velocità. Questa mossa è infallibile. |
+|  344       15 |  |  9 |      The user confounds the target with speed, then slashes. This attack never misses. |
+|  344       15 |  |  11 |     素早い　動きで 相手を　ほんろうして　切りつける。 攻撃は　必ず　命中する。 |
+|  344       17 |  |  1 |      すばやい　うごきで あいてを　ほんろうして　きりつける。 こうげきは　かならず　めいちゅう　する。 |
+|  344       17 |  |  3 |      재빠른 움직임으로 상대를 농락해 벤다. 공격은 반드시 명중한다. |
+|  344       17 |  |  4 |      以敏捷的動作 戲弄對手後進行切斬。 攻擊必定會命中。 |
+|  344       17 |  |  5 |      Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais. |
+|  344       17 |  |  6 |      Der Anwender irritiert das Ziel durch Schnelligkeit, bevor er angreift. Diese Attacke trifft ihr Ziel immer. |
+|  344       17 |  |  7 |      Ataque que desconcierta por su rapidez y que no falla nunca. |
+|  344       17 |  |  8 |      Chi la usa attacca il bersaglio a grande velocità. Questa mossa è infallibile. |
+|  344       17 |  |  9 |      The user confounds the target with speed, then slashes. This attack never misses. |
+|  344       17 |  |  11 |     素早い　動きで 相手を　ほんろうして　切りつける。 攻撃は　必ず　命中する。 |
+|  344       17 |  |  12 |     以敏捷的动作 戏弄对手后进行切斩。 攻击必定会命中。 |
+|  344       18 |  |  1 |      すばやい　うごきで あいてを　ほんろうして　きりつける。 こうげきは　かならず　めいちゅう　する。 |
+|  344       18 |  |  3 |      재빠른 움직임으로 상대를 농락해 벤다. 공격은 반드시 명중한다. |
+|  344       18 |  |  4 |      以敏捷的動作 戲弄對手後進行切斬。 攻擊必定會命中。 |
+|  344       18 |  |  5 |      Le lanceur prend l'ennemi de vitesse et le lacère. N'échoue jamais. |
+|  344       18 |  |  6 |      Der Anwender irritiert das Ziel durch Schnelligkeit, bevor er angreift. Diese Attacke trifft ihr Ziel immer. |
+|  344       18 |  |  7 |      Ataque que desconcierta por su rapidez y que no falla nunca. |
+|  344       18 |  |  8 |      Chi la usa attacca il bersaglio a grande velocità. Questa mossa è infallibile. |
+|  344       18 |  |  9 |      The user confounds the target with speed, then slashes. This attack never misses. |
+|  344       18 |  |  11 |     素早い　動きで 相手を　ほんろうして　切りつける。 攻撃は　必ず　命中する。 |
+|  344       18 |  |  12 |     以敏捷的动作 戏弄对手后进行切斩。 攻击必定会命中。 |
+|  344       19 |  |  1 |      つよい　ねんりきを　あいてに　おくって こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  344       19 |  |  3 |      강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  344       19 |  |  4 |      向對手發送 強大的念力進行攻擊。 有時會降低對手的特防。 |
+|  344       19 |  |  5 |      Une puissante force télékinétique frappe l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  344       19 |  |  6 |      Starke Psycho-Attacke, die eventuell die Spezial-Verteidigung des Zieles senkt. |
+|  344       19 |  |  7 |      Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo. |
+|  344       19 |  |  8 |      Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale. |
+|  344       19 |  |  9 |      The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat. |
+|  344       19 |  |  11 |     強い　念力を　相手に　送って 攻撃する。　相手の　特防を さげることが　ある。 |
+|  344       19 |  |  12 |     向对手发送 强大的念力进行攻击。 有时会降低对手的特防。 |
+|  344       20 |  |  1 |      ほしがたの　ひかりを　はっしゃして あいてを　こうげきする。 こうげきは　かならず　めいちゅう　する。 |
+|  344       20 |  |  3 |      별 모양의 빛을 발사해서 상대를 공격한다. 공격은 반드시 명중한다. |
+|  344       20 |  |  4 |      發射星型光線攻擊對手。 攻擊必定會命中。 |
+|  344       20 |  |  5 |      Le lanceur envoie des rayons d'étoiles. Touche toujours l'ennemi. |
+|  344       20 |  |  6 |      Verschießt sternförmige Strahlen, die stets treffen, auf gegnerische Pokémon. |
+|  344       20 |  |  7 |      Lanza rayos en forma de estrella que no fallan nunca. |
+|  344       20 |  |  8 |      Chi la usa colpisce i nemici intorno con raggi a forma di stella. Questo attacco è infallibile. |
+|  344       20 |  |  9 |      Star-shaped rays are shot at opposing Pokémon. This attack never misses. |
+|  344       20 |  |  11 |     星型の　光を　発射して 相手を　攻撃する。 攻撃は　必ず　命中する。 |
+|  344       20 |  |  12 |     发射星形的光攻击对手。 攻击必定会命中。 |
+|  345       5 |  |   9 |      Prevents the foe from using the same move in a row. |
+|  345       6 |  |   9 |      Prevents the foe from using the same move in a row. |
+|  345       7 |  |   9 |      It enrages the foe, making it incapable of using the same move successively. |
+|  345       8 |  |   9 |      The user torments and enrages the foe, making it incapable of using the same move twice in a row. |
+|  345       9 |  |   9 |      The user torments and enrages the foe, making it incapable of using the same move twice in a row. |
+|  345       10 |  |  9 |      The user torments and enrages the foe, making it incapable of using the same move twice in a row. |
+|  345       11 |  |  5 |      Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité 2 fois de suite. |
+|  345       11 |  |  9 |      The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+|  345       14 |  |  9 |      The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+|  345       15 |  |  1 |      いちゃもんを　つけて　おなじわざを れんぞくで　だせない　ようにする。 |
+|  345       15 |  |  3 |      트집을 잡아서 똑같은 기술을 연속으로 쓸 수 없게 한다. |
+|  345       15 |  |  5 |      Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité deux fois de suite. |
+|  345       15 |  |  6 |      Der Anwender bringt das Ziel in Rage. Dieses ist nicht mehr in der Lage, eine Attacke zweimal hintereinander anzuwenden. |
+|  345       15 |  |  7 |      Arroja al objetivo por los aires y lo estrella contra el suelo en el siguiente turno, impidiéndole moverse en el aire. |
+|  345       15 |  |  8 |      Chi la usa tormenta e fa infuriare il nemico, impedendogli di usare la stessa mossa due volte di seguito. |
+|  345       15 |  |  9 |      The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+|  345       15 |  |  11 |     相手に　いちゃもんを　つけて 同じ　技を　２回　連続で だせなくする。 |
+|  345       17 |  |  1 |      あいてに　いちゃもんを　つけて おなじ　わざを　２かい　れんぞくで だせなくする。 |
+|  345       17 |  |  3 |      상대에게 트집을 잡아서 똑같은 기술을 2회 연속으로 쓸 수 없게 한다. |
+|  345       17 |  |  4 |      無理取鬧， 讓對手不能連續２次 使出相同招式。 |
+|  345       17 |  |  5 |      Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité deux fois de suite. |
+|  345       17 |  |  6 |      Der Anwender bringt das Ziel in Rage. Dieses ist nicht mehr in der Lage, eine Attacke zweimal hintereinander anzuwenden. |
+|  345       17 |  |  7 |      Atormenta al objetivo y le provoca un ataque de ira que le impide usar el mismo movimiento dos veces seguidas. |
+|  345       17 |  |  8 |      Chi la usa tormenta e fa infuriare il bersaglio, impedendogli di usare la stessa mossa due volte di seguito. |
+|  345       17 |  |  9 |      The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+|  345       17 |  |  11 |     相手に　いちゃもんを　つけて 同じ　技を　２回　連続で だせなくする。 |
+|  345       17 |  |  12 |     向对手无理取闹， 令其不能连续２次 使出相同招式。 |
+|  345       18 |  |  1 |      あいてに　いちゃもんを　つけて おなじ　わざを　２かい　れんぞくで だせなくする。 |
+|  345       18 |  |  3 |      상대에게 트집을 잡아서 똑같은 기술을 2회 연속으로 쓸 수 없게 한다. |
+|  345       18 |  |  4 |      無理取鬧， 讓對手不能連續２次 使出相同招式。 |
+|  345       18 |  |  5 |      Le lanceur irrite l'ennemi pour l'empêcher d'utiliser la même capacité deux fois de suite. |
+|  345       18 |  |  6 |      Der Anwender bringt das Ziel in Rage. Dieses ist nicht mehr in der Lage, eine Attacke zweimal hintereinander anzuwenden. |
+|  345       18 |  |  7 |      Atormenta al objetivo y le provoca un ataque de ira que le impide usar el mismo movimiento dos veces seguidas. |
+|  345       18 |  |  8 |      Chi la usa tormenta e fa infuriare il bersaglio, impedendogli di usare la stessa mossa due volte di seguito. |
+|  345       18 |  |  9 |      The user torments and enrages the target, making it incapable of using the same move twice in a row. |
+|  345       18 |  |  11 |     相手に　いちゃもんを　つけて 同じ　技を　２回　連続で だせなくする。 |
+|  345       18 |  |  12 |     向对手无理取闹， 令其不能连续２次 使出相同招式。 |
+|  345       19 |  |  1 |      じしんの　しょうげきで　じぶんの まわりに　いるものを　こうげきする。 |
+|  345       19 |  |  3 |      지진의 충격으로 자신의 주위에 있는 포켓몬을 공격한다. |
+|  345       19 |  |  4 |      用地震的衝擊， 攻擊自己周圍所有的寶可夢。 |
+|  345       19 |  |  5 |      Le lanceur provoque un tremblement de terre touchant tous les Pokémon autour de lui. |
+|  345       19 |  |  6 |      Ein mächtiges Beben, das die anderen Pokémon in der Nähe des Anwenders trifft. |
+|  345       19 |  |  7 |      Un terremoto que afecta a los Pokémon de alrededor en combate. |
+|  345       19 |  |  8 |      Chi la usa provoca un potente sisma che colpisce i Pokémon che ha intorno. |
+|  345       19 |  |  9 |      The user sets off an earthquake that strikes every Pokémon around it. |
+|  345       19 |  |  11 |     地震の　衝撃で　自分の 周りに　いるものを　攻撃する。 |
+|  345       19 |  |  12 |     利用地震的冲击， 攻击自己周围所有的宝可梦。 |
+|  345       20 |  |  1 |      なかまを　たすける。 てだすけ　された　ポケモンの　わざの いりょくは　いつもより　おおきく　なる。 |
+|  345       20 |  |  3 |      동료를 돕는다. 도움받은 포켓몬이 쓰는 기술의 위력은 여느 때보다 커진다. |
+|  345       20 |  |  4 |      幫助夥伴。 被幫助的寶可夢， 招式的威力會比原來更大。 |
+|  345       20 |  |  5 |      Une capacité qui augmente la puissance d'attaque d'un allié. |
+|  345       20 |  |  6 |      Anwender steigert die Stärke der Attacke eines Mitstreiters. |
+|  345       20 |  |  7 |      El usuario ayuda a un aliado reforzando la potencia de su ataque. |
+|  345       20 |  |  8 |      Mossa che aumenta la potenza dell'attacco di un alleato. |
+|  345       20 |  |  9 |      The user assists an ally by boosting the power of that ally's attack. |
+|  345       20 |  |  11 |     仲間を　助ける。 てだすけ　された　ポケモンの　技の 威力は　いつもより　大きくなる。 |
+|  345       20 |  |  12 |     帮助伙伴。 被帮助的宝可梦， 其招式威力变得比平时大。 |
+|  346       5 |  |   9 |      Raises ATTACK when poisoned, burned, or paralyzed. |
+|  346       6 |  |   9 |      Raises ATTACK when poisoned, burned, or paralyzed. |
+|  346       7 |  |   9 |      An attack that is boosted if user is burned, poisoned, or paralyzed. |
+|  346       8 |  |   9 |      An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. |
+|  346       9 |  |   9 |      An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. |
+|  346       10 |  |  9 |      An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. |
+|  346       11 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  346       11 |  |  9 |      An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. |
+|  346       14 |  |  9 |      An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn. |
+|  346       15 |  |  1 |      どく　まひ　やけど　のじょうたいで わざを　だすと　２ばいの　いりょくで こうげき　できる。 |
+|  346       15 |  |  3 |      독, 마비, 화상 상태에서 기술을 쓰면 2배의 위력으로 공격할 수 있다. |
+|  346       15 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  346       15 |  |  6 |      Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke. |
+|  346       15 |  |  7 |      Llamas que golpean a los objetivos adyacentes. Si estos llevan bayas u otros objetos, estos se quemarán y ya no se podrán usar. |
+|  346       15 |  |  8 |      Mossa d'attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato. |
+|  346       15 |  |  9 |      An attack move that doubles its power if the user is poisoned, burned, or has paralysis. |
+|  346       15 |  |  11 |     自分が　どく　まひ　やけど 状態のとき　相手に　くりだすと 技の　威力が　２倍に　なる。 |
+|  346       17 |  |  1 |      じぶんが　どく　まひ　やけど じょうたいの　とき　あいてに　くりだすと わざの　いりょくが　２ばいに　なる。 |
+|  346       17 |  |  3 |      자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다. |
+|  346       17 |  |  4 |      當自己陷入中毒、麻痺、灼傷等 狀態時，向對手使用此招式， 威力會變成２倍。 |
+|  346       17 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  346       17 |  |  6 |      Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke. |
+|  346       17 |  |  7 |      Movimiento de ataque que dobla su potencia si quien lo utiliza está envenenado, quemado o paralizado. |
+|  346       17 |  |  8 |      Mossa d'attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato. |
+|  346       17 |  |  9 |      This attack move doubles its power if the user is poisoned or burned, or if it has paralysis. |
+|  346       17 |  |  11 |     自分が　どく　まひ　やけど 状態のとき　相手に　くりだすと 技の　威力が　２倍に　なる。 |
+|  346       17 |  |  12 |     当自己处于中毒、麻痹、灼伤状态时， 向对手使出此招式的话， 威力会变成２倍。 |
+|  346       18 |  |  1 |      じぶんが　どく　まひ　やけど じょうたいの　とき　あいてに　くりだすと わざの　いりょくが　２ばいに　なる。 |
+|  346       18 |  |  3 |      자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다. |
+|  346       18 |  |  4 |      當自己陷入中毒、麻痺、灼傷等 狀態時，向對手使用此招式， 威力會變成２倍。 |
+|  346       18 |  |  5 |      Une attaque dont la puissance double lorsque le lanceur est empoisonné, paralysé ou brûlé. |
+|  346       18 |  |  6 |      Ist der Anwender vergiftet, paralysiert oder leidet er unter Verbrennungen, verdoppelt sich die Kraft der Attacke. |
+|  346       18 |  |  7 |      Movimiento de ataque que dobla su potencia si quien lo utiliza está envenenado, quemado o paralizado. |
+|  346       18 |  |  8 |      Mossa d'attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato. |
+|  346       18 |  |  9 |      This attack move doubles its power if the user is poisoned or burned, or if it has paralysis. |
+|  346       18 |  |  11 |     自分が　どく　まひ　やけど 状態のとき　相手に　くりだすと 技の　威力が　２倍に　なる。 |
+|  346       18 |  |  12 |     当自己处于中毒、麻痹、灼伤状态时， 向对手使出此招式的话， 威力会变成２倍。 |
+|  346       19 |  |  1 |      ばくはつを　おこして　じぶんの まわりに　いるものを　こうげきする。 つかった　あとに　ひんしに　なる。 |
+|  346       19 |  |  3 |      폭발을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서 기절하게 된다. |
+|  346       19 |  |  4 |      引起爆炸， 攻擊自己周圍所有的寶可夢。 使用後自己會陷入瀕死。 |
+|  346       19 |  |  5 |      Le lanceur explose en blessant tous les Pokémon autour de lui. Le lanceur tombe K.O. |
+|  346       19 |  |  6 |      Anwender verursacht eine Explosion, mit der er rundum Riesenschaden anrichtet und selbst kampfunfähig wird. |
+|  346       19 |  |  7 |      El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato. |
+|  346       19 |  |  8 |      Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO. |
+|  346       19 |  |  9 |      The user attacks everything around it by causing an explosion. The user faints upon using this move. |
+|  346       19 |  |  11 |     爆発を　おこして　自分の 周りに　いるものを　攻撃する。 使ったあとに　ひんしに　なる。 |
+|  346       19 |  |  12 |     引发爆炸， 攻击自己周围所有的宝可梦。 使用后陷入濒死。 |
+|  346       20 |  |  1 |      あいてから　わざを　うけていると その　あいてに　たいして あたえる　ダメージが　２ばいに　なる。 |
+|  346       20 |  |  3 |      상대에게 기술을 받으면 그 상대에게 주는 데미지가 2배가 된다. |
+|  346       20 |  |  4 |      如果受到對手的招式攻擊， 給予該對手的傷害就會變成２倍。 |
+|  346       20 |  |  5 |      Une attaque deux fois plus puissante si le lanceur a été blessé par l'ennemi durant ce tour. |
+|  346       20 |  |  6 |      Schaden verdoppelt sich, wenn der Anwender in der Runde bereits Schaden durch das Ziel erlitten hat. |
+|  346       20 |  |  7 |      Ataque que produce el doble de daño si el usuario resulta herido en el mismo turno. |
+|  346       20 |  |  8 |      Mossa d'attacco che infligge un danno doppio se si è stati colpiti dal Pokémon bersaglio nello stesso turno. |
+|  346       20 |  |  9 |      This attack move's power is doubled if the user has been hurt by the opponent in the same turn. |
+|  346       20 |  |  11 |     相手から　技を　受けていると その相手に　対して 与える　ダメージが　２倍に　なる。 |
+|  346       20 |  |  12 |     如果受到对手的招式攻击， 就能给予对手２倍的伤害。 |
+|  347       5 |  |   9 |      Adds an effect to attack depending on the location. |
+|  347       6 |  |   9 |      Adds an effect to attack depending on the location. |
+|  347       7 |  |   9 |      An attack that may have an additional effect that varies with the terrain. |
+|  347       8 |  |   9 |      An attack move with effects that vary depending on the user's environment. |
+|  347       9 |  |   9 |      An attack move with effects that vary depending on the user's environment. |
+|  347       10 |  |  9 |      An attack move with effects that vary depending on the user's environment. |
+|  347       11 |  |  5 |      Le lanceur s'entoure de feu et charge l'ennemi. Augmente aussi la Vitesse. |
+|  347       11 |  |  9 |      The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat. |
+|  347       14 |  |  9 |      The user cloaks itself with flame and attacks. Building up more power, it raises the user's Speed stat. |
+|  347       15 |  |  1 |      ほのおを　まとい　あいてを こうげきする。　ちからを　ためて じぶんの　すばやさを　あげる。 |
+|  347       15 |  |  3 |      불꽃을 둘러 상대를 공격한다. 힘을 모아서 자신의 스피드를 올린다. |
+|  347       15 |  |  5 |      Le lanceur s'entoure de flammes pour attaquer l'ennemi. Il se concentre et sa Vitesse augmente. |
+|  347       15 |  |  6 |      Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative. |
+|  347       15 |  |  7 |      Consigue que el objetivo sea el último en moverse. |
+|  347       15 |  |  8 |      Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità. |
+|  347       15 |  |  9 |      Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat. |
+|  347       15 |  |  11 |     炎を　まとい　相手を　攻撃する。 力を　ためて　自分の 素早さを　あげる。 |
+|  347       17 |  |  1 |      ほのおを　まとい　あいてを こうげきする。　ちからを　ためて じぶんの　すばやさを　あげる。 |
+|  347       17 |  |  3 |      불꽃을 둘러 상대를 공격한다. 힘을 모아서 자신의 스피드를 올린다. |
+|  347       17 |  |  4 |      讓火焰圍繞全身後攻擊對手。 同時蓄積力量來提高自己的速度。 |
+|  347       17 |  |  5 |      Le lanceur s'entoure de flammes pour attaquer l'ennemi. Il se concentre et sa Vitesse augmente. |
+|  347       17 |  |  6 |      Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative. |
+|  347       17 |  |  7 |      Ataca al objetivo envuelto en llamas. Acumula fuerza y hace subir la Velocidad del usuario. |
+|  347       17 |  |  8 |      Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità. |
+|  347       17 |  |  9 |      Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat. |
+|  347       17 |  |  11 |     炎を　まとい　相手を　攻撃する。 力を　ためて　自分の 素早さを　あげる。 |
+|  347       17 |  |  12 |     将火焰围绕身体攻击对手。 积蓄力量并提高自己的速度。 |
+|  347       18 |  |  1 |      ほのおを　まとい　あいてを こうげきする。　ちからを　ためて じぶんの　すばやさを　あげる。 |
+|  347       18 |  |  3 |      불꽃을 둘러 상대를 공격한다. 힘을 모아서 자신의 스피드를 올린다. |
+|  347       18 |  |  4 |      讓火焰圍繞全身後攻擊對手。 同時蓄積力量來提高自己的速度。 |
+|  347       18 |  |  5 |      Le lanceur s'entoure de flammes pour attaquer l'ennemi. Il se concentre et sa Vitesse augmente. |
+|  347       18 |  |  6 |      Anwender hüllt sich in Flammen und greift das Ziel an. Er sammelt seine Kräfte und erhöht so die eigene Initiative. |
+|  347       18 |  |  7 |      Ataca al objetivo envuelto en llamas. Acumula fuerza y hace subir la Velocidad del usuario. |
+|  347       18 |  |  8 |      Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità. |
+|  347       18 |  |  9 |      Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat. |
+|  347       18 |  |  11 |     炎を　まとい　相手を　攻撃する。 力を　ためて　自分の 素早さを　あげる。 |
+|  347       18 |  |  12 |     将火焰围绕身体攻击对手。 积蓄力量并提高自己的速度。 |
+|  347       19 |  |  1 |      くろいかげの　かたまりを　なげつけて こうげきする。　あいての　とくぼうを さげることが　ある。 |
+|  347       19 |  |  3 |      까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다. |
+|  347       19 |  |  4 |      投擲一團黑影進行攻擊。 有時會降低對手的特防。 |
+|  347       19 |  |  5 |      Projette une grande ombre sur l'ennemi. Peut aussi faire baisser sa Défense Spéciale. |
+|  347       19 |  |  6 |      Bewirft das Ziel mit gruseligem Ball und senkt eventuell die Spezial-Verteidigung. |
+|  347       19 |  |  7 |      Lanza una bola oscura que puede bajar la Defensa Especial del objetivo. |
+|  347       19 |  |  8 |      Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale. |
+|  347       19 |  |  9 |      The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat. |
+|  347       19 |  |  11 |     黒い影の　塊を　投げつけて 攻撃する。　相手の　特防を さげることが　ある。 |
+|  347       19 |  |  12 |     投掷一团黑影进行攻击。 有时会降低对手的特防。 |
+|  347       20 |  |  1 |      しゅとうを　いきおいよく　ふりおろして あいてを　こうげきする。　ひかりのかべや リフレクター　なども　はかいできる。 |
+|  347       20 |  |  3 |      수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다. |
+|  347       20 |  |  4 |      猛烈地揮下手刀 攻擊對手。還可以破壞 光牆和反射壁等。 |
+|  347       20 |  |  5 |      Le lanceur attaque avec le tranchant de la main. Permet aussi de briser les barrières comme Mur Lumière et Protection. |
+|  347       20 |  |  6 |      Ein beherzter Handkantenschlag. Durchbricht Barrieren wie Lichtschild und Reflektor. |
+|  347       20 |  |  7 |      Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo. |
+|  347       20 |  |  8 |      Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce. |
+|  347       20 |  |  9 |      The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect. |
+|  347       20 |  |  11 |     手刀を　勢いよく　振りおろして 相手を　攻撃する。　ひかりのかべや リフレクター　なども　破壊できる。 |
+|  347       20 |  |  12 |     将手刀猛烈地挥下攻击对手。 还可以破坏光墙和反射壁等。 |
+|  348       5 |  |   9 |      The user sleeps for 2 turns to restore health and status. |
+|  348       6 |  |   9 |      The user sleeps for 2 turns to restore health and status. |
+|  348       7 |  |   9 |      The user sleeps for two turns to fully restore HP and heal any status problem. |
+|  348       8 |  |   9 |      The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem. |
+|  348       9 |  |   9 |      The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem. |
+|  348       10 |  |  9 |      The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem. |
+|  348       11 |  |  5 |      Le lanceur dort pendant 2 tours. Il regagne tous ses PV et n'a plus de problèmes de statut. |
+|  348       11 |  |  9 |      The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem. |
+|  348       14 |  |  9 |      The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem. |
+|  348       15 |  |  1 |      ２ターンの　あいだ　ねむりつづける。 ＨＰと　からだの　いじょうを すべて　かいふくする。 |
+|  348       15 |  |  3 |      2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다. |
+|  348       15 |  |  5 |      Le lanceur dort pendant deux tours. Il regagne tous ses PV et n'a plus de problèmes de statut. |
+|  348       15 |  |  6 |      Anwender wird vollkommen geheilt und schläft die folgenden 2 Runden. |
+|  348       15 |  |  7 |      Lanza una siniestra llamarada morada que provoca quemaduras al objetivo. |
+|  348       15 |  |  8 |      Chi la usa dorme per due turni. Recupera però tutti i PS e guarisce da tutti i suoi problemi di stato. |
+|  348       15 |  |  9 |      The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions. |
+|  348       15 |  |  11 |     ２ターンの　あいだ　眠り続ける。 自分の　ＨＰと　状態異常を すべて　回復する。 |
+|  348       17 |  |  1 |      ２ターンの　あいだ　ねむり　つづける。 じぶんの　ＨＰと　じょうたいいじょうを すべて　かいふく　する。 |
+|  348       17 |  |  3 |      2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다. |
+|  348       17 |  |  4 |      連續睡２回合。 回復自己的全部ＨＰ 以及治癒所有異常狀態。 |
+|  348       17 |  |  5 |      Le lanceur regagne tous ses PV et soigne ses problèmes de statut, puis il dort pendant deux tours. |
+|  348       17 |  |  6 |      Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden. |
+|  348       17 |  |  7 |      Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos. |
+|  348       17 |  |  8 |      Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni. |
+|  348       17 |  |  9 |      The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions. |
+|  348       17 |  |  11 |     ２ターンの　あいだ　眠り続ける。 自分の　ＨＰと　状態異常を すべて　回復する。 |
+|  348       17 |  |  12 |     连续睡上２回合。 回复自己的全部ＨＰ 以及治愈所有异常状态。 |
+|  348       18 |  |  1 |      ２ターンの　あいだ　ねむり　つづける。 じぶんの　ＨＰと　じょうたいいじょうを すべて　かいふく　する。 |
+|  348       18 |  |  3 |      2턴 동안 계속 잠잔다. 자신의 HP와 상태 이상을 모두 회복한다. |
+|  348       18 |  |  4 |      連續睡２回合。 回復自己的全部ＨＰ 以及治癒所有異常狀態。 |
+|  348       18 |  |  5 |      Le lanceur regagne tous ses PV et soigne ses problèmes de statut, puis il dort pendant deux tours. |
+|  348       18 |  |  6 |      Anwender wird vollkommen geheilt, von allen Statusproblemen befreit und schläft die folgenden 2 Runden. |
+|  348       18 |  |  7 |      Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos. |
+|  348       18 |  |  8 |      Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni. |
+|  348       18 |  |  9 |      The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions. |
+|  348       18 |  |  11 |     ２ターンの　あいだ　眠り続ける。 自分の　ＨＰと　状態異常を すべて　回復する。 |
+|  348       18 |  |  12 |     连续睡上２回合。 回复自己的全部ＨＰ 以及治愈所有异常状态。 |
+|  348       19 |  |  1 |      あいてに　じゃれついて こうげきする。　あいての こうげきを　さげる　ことがある。 |
+|  348       19 |  |  3 |      상대에게 치근거리며 공격한다. 상대의 공격을 떨어뜨릴 때가 있다. |
+|  348       19 |  |  4 |      在和對手嬉鬧的同時進行攻擊。 有時會降低對手的攻擊。 |
+|  348       19 |  |  5 |      Attaque l'ennemi avec un câlin. Peut diminuer son Attaque. |
+|  348       19 |  |  6 |      Der Anwender knuddelt das Ziel und greift es an. Gelegentlich sinkt dabei auch dessen Angriffs-Wert. |
+|  348       19 |  |  7 |      El Pokémon que lo usa le hace cucamonas al objetivo y lo ataca. Puede disminuir el Ataque del objetivo. |
+|  348       19 |  |  8 |      Chi la usa attacca il bersaglio con delle carinerie. Può anche ridurne l'Attacco. |
+|  348       19 |  |  9 |      The user plays rough with the target and attacks it. This may also lower the target's Attack stat. |
+|  348       19 |  |  11 |     相手に　じゃれついて 攻撃する。　相手の 攻撃を　さげる　ことがある。 |
+|  348       19 |  |  12 |     与对手嬉闹并攻击。 有时会降低对手的攻击。 |
+|  348       20 |  |  1 |      あいてが　じぶんと　おなじ　わざを おぼえていたら　あいてだけ そのわざを　つかえなく　する。 |
+|  348       20 |  |  3 |      상대가 자신과 같은 기술을 배웠다면 상대만 그 기술을 사용할 수 없게 한다. |
+|  348       20 |  |  4 |      如果對手也學會了和自己 相同的招式，則對手將 不能使用該招式。 |
+|  348       20 |  |  5 |      Si l'ennemi et le lanceur ont des capacités en commun, l'ennemi ne pourra pas les utiliser. |
+|  348       20 |  |  6 |      Hindert Gegner am Einsatz von Attacken, die der Anwender selbst auch kennt. |
+|  348       20 |  |  7 |      Impide a los contrincantes usar ataques conocidos por el usuario durante el combate. |
+|  348       20 |  |  8 |      Chi la usa impedisce al nemico di usare mosse che conoscono entrambi. |
+|  348       20 |  |  9 |      If opposing Pokémon know any move also known by the user, they are prevented from using it. |
+|  348       20 |  |  11 |     相手が　自分と　同じ　技を おぼえていたら　相手だけ その技を　使えなくする。 |
+|  348       20 |  |  12 |     如果对手有和自己相同的招式， 那么只有对手无法使用该招式。 |
+|  349       5 |  |   9 |      Makes it tough to attack a foe of the opposite gender. |
+|  349       6 |  |   9 |      Makes it tough to attack a foe of the opposite gender. |
+|  349       7 |  |   9 |      If it is the other gender, the foe is made infatuated and unlikely to attack. |
+|  349       8 |  |   9 |      If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack. |
+|  349       9 |  |   9 |      If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack. |
+|  349       10 |  |  9 |      If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack. |
+|  349       11 |  |  5 |      Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer. |
+|  349       11 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  349       14 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  349       15 |  |  1 |      ♂なら♀を　♀なら♂を　ゆうわくして メロメロにする。　メロメロに　なった あいては　わざが　だしにくくなる。 |
+|  349       15 |  |  3 |      수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다. |
+|  349       15 |  |  5 |      Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer. |
+|  349       15 |  |  6 |      Gehört das Ziel dem anderen Geschlecht an, verliebt es sich und greift eventuell nicht an. |
+|  349       15 |  |  7 |      Quien lo usa realiza un ataque rápido que aumenta de potencia si el atacante no lleva ningún objeto. |
+|  349       15 |  |  8 |      Se il nemico è del sesso opposto, s'infatua e diventa riluttante ad attaccare. |
+|  349       15 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  349       15 |  |  11 |     ♂なら♀を　♀なら♂を　誘惑して メロメロに　する。 相手は　技が　だしにくくなる。 |
+|  349       17 |  |  1 |      ♂なら♀を　♀なら♂を　ゆうわくして メロメロに　する。 あいては　わざが　だしにくく　なる。 |
+|  349       17 |  |  3 |      수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다. |
+|  349       17 |  |  4 |      ♂誘惑♀而♀誘惑♂， 讓對手著迷。 對手將難以使用招式。 |
+|  349       17 |  |  5 |      Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer. |
+|  349       17 |  |  6 |      Gehört das Ziel dem anderen Geschlecht an, verliebt es sich und greift eventuell nicht an. |
+|  349       17 |  |  7 |      Si el objetivo es del sexo opuesto, el enamoramiento reducirá las probabilidades de que ataque. |
+|  349       17 |  |  8 |      Se il bersaglio è del sesso opposto, s'infatua e diventa riluttante ad attaccare. |
+|  349       17 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  349       17 |  |  11 |     ♂なら♀を　♀なら♂を　誘惑して メロメロに　する。 相手は　技が　だしにくくなる。 |
+|  349       17 |  |  12 |     ♂诱惑♀或♀诱惑♂， 让对手着迷。 对手将很难使出招式。 |
+|  349       18 |  |  1 |      ♂なら♀を　♀なら♂を　ゆうわくして メロメロに　する。 あいては　わざが　だしにくく　なる。 |
+|  349       18 |  |  3 |      수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다. |
+|  349       18 |  |  4 |      ♂誘惑♀而♀誘惑♂， 讓對手著迷。 對手將難以使用招式。 |
+|  349       18 |  |  5 |      Si l'ennemi est du sexe opposé, il tombe amoureux et rechigne alors à attaquer. |
+|  349       18 |  |  6 |      Gehört das Ziel dem anderen Geschlecht an, verliebt es sich und greift eventuell nicht an. |
+|  349       18 |  |  7 |      Si el objetivo es del sexo opuesto, el enamoramiento reducirá las probabilidades de que ataque. |
+|  349       18 |  |  8 |      Se il bersaglio è del sesso opposto, s'infatua e diventa riluttante ad attaccare. |
+|  349       18 |  |  9 |      If it is the opposite gender of the user, the target becomes infatuated and less likely to attack. |
+|  349       18 |  |  11 |     ♂なら♀を　♀なら♂を　誘惑して メロメロに　する。 相手は　技が　だしにくくなる。 |
+|  349       18 |  |  12 |     ♂诱惑♀或♀诱惑♂， 让对手着迷。 对手将很难使出招式。 |
+|  349       19 |  |  1 |      １ターンめに　ひかりを　いっぱいに あつめ　２ターンめに　ひかりの　たばを はっしゃして　こうげきする。 |
+|  349       19 |  |  3 |      1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다. |
+|  349       19 |  |  4 |      使用後的第１回合吸收大量日光， 並於第２回合發射光束進行攻擊。 |
+|  349       19 |  |  5 |      Absorbe la lumière au premier tour et envoie un rayon puissant au tour suivant. |
+|  349       19 |  |  6 |      Absorbiert Licht in Runde 1. In Runde 2 erfolgt der Angriff. |
+|  349       19 |  |  7 |      Primer turno: absorbe luz. Segundo turno: lanza un potente rayo de energía. |
+|  349       19 |  |  8 |      Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo. |
+|  349       19 |  |  9 |      In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn. |
+|  349       19 |  |  11 |     １ターン目に　光を　いっぱいに　集め ２ターン目に　光の　束を 発射して　攻撃する。 |
+|  349       19 |  |  12 |     第１回合收集满满的日光， 第２回合发射光束进行攻击。 |
+|  349       20 |  |  1 |      １ターンめで　もぐり　２ターンめに うきあがって　こうげきする。 |
+|  349       20 |  |  3 |      1턴째에 잠수했다가 2턴째에 떠올라 공격한다. |
+|  349       20 |  |  4 |      使用後的第１回合潛入水中， 並於第２回合浮上來進行攻擊。 |
+|  349       20 |  |  5 |      Le lanceur plonge sous l'eau au premier tour et frappe au second. |
+|  349       20 |  |  6 |      Anwender taucht in Runde 1 ab und greift in Runde 2 aus der Tiefe an. |
+|  349       20 |  |  7 |      El usuario se sumerge en el primer turno y ataca en el segundo. |
+|  349       20 |  |  8 |      Chi la usa si tuffa in acqua per emergere e attaccare al turno successivo. |
+|  349       20 |  |  9 |      Diving on the first turn, the user floats up and attacks on the next turn. |
+|  349       20 |  |  11 |     １ターン目で　潜り　２ターン目に 浮きあがって　攻撃する。 |
+|  349       20 |  |  12 |     第１回合潜入， 第２回合浮上来进行攻击。 |
+|  350       5 |  |   9 |      While attacking, it may steal the foe's held item. |
+|  350       6 |  |   9 |      While attacking, it may steal the foe's held item. |
+|  350       7 |  |   9 |      An attack that may take the foe's held item if the user isn't holding one. |
+|  350       8 |  |   9 |      The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item. |
+|  350       9 |  |   9 |      The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item. |
+|  350       10 |  |  9 |      The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item. |
+|  350       11 |  |  5 |      Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet. |
+|  350       11 |  |  9 |      The user attacks and steals the target's held item simultaneously. It can't steal if the user holds an item. |
+|  350       14 |  |  9 |      The user attacks and steals the target's held item simultaneously. It can't steal if the user holds an item. |
+|  350       15 |  |  1 |      こうげきと　どうじに　もちものを ぬすむ。　じぶんに　もちものが あると　しっぱいする。 |
+|  350       15 |  |  3 |      공격과 동시에 도구를 훔친다. 자신이 도구를 지니고 있을 경우에는 훔칠 수 없다. |
+|  350       15 |  |  5 |      Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet. |
+|  350       15 |  |  6 |      Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt. |
+|  350       15 |  |  7 |      Impide que el objetivo utilice el objeto que lleve y que su Entrenador use objetos sobre él. |
+|  350       15 |  |  8 |      Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno. |
+|  350       15 |  |  9 |      The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item. |
+|  350       15 |  |  11 |     攻撃と　同時に　道具を　盗む。 自分が　道具を　持っている　場合は 盗めない。 |
+|  350       17 |  |  1 |      こうげきと　どうじに　どうぐを　ぬすむ。 じぶんが　どうぐを　もっている　ばあいは ぬすめない。 |
+|  350       17 |  |  3 |      공격과 동시에 도구를 훔친다. 자신이 도구를 지니고 있을 경우에는 훔칠 수 없다. |
+|  350       17 |  |  4 |      在攻擊的同時偷取道具。 當寶可夢自己有攜帶道具時， 則無法偷取。 |
+|  350       17 |  |  5 |      Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet. |
+|  350       17 |  |  6 |      Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt. |
+|  350       17 |  |  7 |      Quien lo usa ataca y roba el objeto que lleva su objetivo simultáneamente. Si ya lleva un objeto, no podrá robar ninguno. |
+|  350       17 |  |  8 |      Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno. |
+|  350       17 |  |  9 |      The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item. |
+|  350       17 |  |  11 |     攻撃と　同時に　道具を　盗む。 自分が　道具を　持っている　場合は 盗めない。 |
+|  350       17 |  |  12 |     攻击的同时盗取道具。 当自己携带道具时， 不会去盗取。 |
+|  350       18 |  |  1 |      こうげきと　どうじに　どうぐを　ぬすむ。 じぶんが　どうぐを　もっている　ばあいは ぬすめない。 |
+|  350       18 |  |  3 |      공격과 동시에 도구를 훔친다. 자신이 도구를 지니고 있을 경우에는 훔칠 수 없다. |
+|  350       18 |  |  4 |      在攻擊的同時偷取道具。 當寶可夢自己有攜帶道具時， 則無法偷取。 |
+|  350       18 |  |  5 |      Le lanceur attaque la cible et vole son objet. Le lanceur ne peut rien voler s'il tient déjà un objet. |
+|  350       18 |  |  6 |      Der Anwender greift an und stiehlt dem Ziel gleichzeitig ein Item, sofern er selbst gerade kein Item trägt. |
+|  350       18 |  |  7 |      Quien lo usa ataca y roba el objeto que lleva su objetivo simultáneamente. Si ya lleva un objeto, no podrá robar ninguno. |
+|  350       18 |  |  8 |      Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno. |
+|  350       18 |  |  9 |      The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item. |
+|  350       18 |  |  11 |     攻撃と　同時に　道具を　盗む。 自分が　道具を　持っている　場合は 盗めない。 |
+|  350       18 |  |  12 |     攻击的同时盗取道具。 当自己携带道具时， 不会去盗取。 |
+|  350       19 |  |  1 |      だいのじの　ほのおで あいてを　やきつくす。 やけど　じょうたいに　することが　ある。 |
+|  350       19 |  |  3 |      큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다. |
+|  350       19 |  |  4 |      用大字形狀的火焰燒盡對手。 有時會讓對手陷入灼傷狀態。 |
+|  350       19 |  |  5 |      Un déluge de flammes ardentes submerge l'ennemi. Peut aussi le brûler. |
+|  350       19 |  |  6 |      Feuersbrunst, die das Ziel versengt und ihm eventuell eine Verbrennung zufügt. |
+|  350       19 |  |  7 |      Llama intensa que chamusca y puede causar quemaduras. |
+|  350       19 |  |  8 |      Investe il bersaglio con un'intensa fiammata che fa terra bruciata. Può anche scottarlo. |
+|  350       19 |  |  9 |      The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn. |
+|  350       19 |  |  11 |     大の字の　炎で 相手を　焼きつくす。 やけど状態に　することが　ある。 |
+|  350       19 |  |  12 |     用大字形状的火焰烧尽对手。 有时会让对手陷入灼伤状态。 |
+|  350       20 |  |  1 |      つかった　ときの　てんきに　よって わざの　タイプと　いりょくが　かわる。 |
+|  350       20 |  |  3 |      사용했을 때의 날씨에 따라서 기술 타입과 위력이 바뀐다. |
+|  350       20 |  |  4 |      招式屬性和威力會隨著 使用時天氣的不同而改變。 |
+|  350       20 |  |  5 |      Une attaque dont la puissance et le type varient en fonction du temps qu'il fait. |
+|  350       20 |  |  6 |      Typ und Stärke der Attacke sind vom Wetter zum Zeitpunkt der Anwendung abhängig. |
+|  350       20 |  |  7 |      El tipo y fuerza del ataque varían según el tiempo que haga. |
+|  350       20 |  |  8 |      Mossa d'attacco il cui tipo e la cui potenza variano in base alle condizioni atmosferiche. |
+|  350       20 |  |  9 |      This attack move varies in power and type depending on the weather. |
+|  350       20 |  |  11 |     使ったときの　天気に　よって 技の　タイプと　威力が　変わる。 |
+|  350       20 |  |  12 |     根据使用时的天气， 招式属性和威力会改变。 |
+|  351       5 |  |   9 |      Spreads hard-edged wings and slams into the foe. |
+|  351       6 |  |   9 |      Spreads hard- edged wings and slams into the foe. |
+|  351       7 |  |   9 |      The foe is hit with wings of steel. It may also raise the user's DEFENSE. |
+|  351       8 |  |   9 |      The foe is hit with wings of steel. It may also raise the user's Defense stat. |
+|  351       9 |  |   9 |      The foe is hit with wings of steel. It may also raise the user's Defense stat. |
+|  351       10 |  |  9 |      The foe is hit with wings of steel. It may also raise the user's Defense stat. |
+|  351       11 |  |  5 |      Un coup rapide qui vise les pieds de l'ennemi et diminue sa Vitesse. |
+|  351       11 |  |  9 |      The user attacks the target's legs swiftly, reducing the target's Speed stat. |
+|  351       14 |  |  9 |      The user attacks the target's legs swiftly, reducing the target's Speed stat. |
+|  351       15 |  |  1 |      すばやい　うごきで　あいての　あしを ねらって　こうげきする。 あいての　すばやさを　さげる。 |
+|  351       15 |  |  3 |      재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다. |
+|  351       15 |  |  5 |      Un coup rapide qui vise les pieds de l'ennemi et diminue sa Vitesse. |
+|  351       15 |  |  6 |      Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative. |
+|  351       15 |  |  7 |      Quien lo usa explosiona en combate e inflige daño a todos los Pokémon a su alrededor. El usuario se debilita. |
+|  351       15 |  |  8 |      Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità. |
+|  351       15 |  |  9 |      The user makes a swift attack on the target's legs, which lowers the target's Speed stat. |
+|  351       15 |  |  11 |     素早い　動きで　相手の　足を ねらって　攻撃する。 相手の　素早さを　さげる。 |
+|  351       17 |  |  1 |      すばやい　うごきで　あいての　あしを ねらって　こうげきする。 あいての　すばやさを　さげる。 |
+|  351       17 |  |  3 |      재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다. |
+|  351       17 |  |  4 |      瞄準對手的腳， 以敏捷的動作進行攻擊。 可降低對手的速度。 |
+|  351       17 |  |  5 |      Un coup rapide qui affecte la mobilité de l'ennemi et diminue sa Vitesse. |
+|  351       17 |  |  6 |      Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative. |
+|  351       17 |  |  7 |      Ataque rápido dirigido a los pies del objetivo que le hace perder Velocidad. |
+|  351       17 |  |  8 |      Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità. |
+|  351       17 |  |  9 |      The user makes a swift attack on the target's legs, which lowers the target's Speed stat. |
+|  351       17 |  |  11 |     素早い　動きで　相手の　足を ねらって　攻撃する。 相手の　素早さを　さげる。 |
+|  351       17 |  |  12 |     以敏捷的动作瞄准 对手的脚进行攻击。 降低对手的速度。 |
+|  351       18 |  |  1 |      すばやい　うごきで　あいての　あしを ねらって　こうげきする。 あいての　すばやさを　さげる。 |
+|  351       18 |  |  3 |      재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다. |
+|  351       18 |  |  4 |      瞄準對手的腳， 以敏捷的動作進行攻擊。 可降低對手的速度。 |
+|  351       18 |  |  5 |      Un coup rapide qui affecte la mobilité de l'ennemi et diminue sa Vitesse. |
+|  351       18 |  |  6 |      Anwender greift mit blitzschnellen Bewegungen die Beine des Zieles an und senkt dessen Initiative. |
+|  351       18 |  |  7 |      Ataque rápido dirigido a los pies del objetivo que le hace perder Velocidad. |
+|  351       18 |  |  8 |      Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità. |
+|  351       18 |  |  9 |      The user makes a swift attack on the target's legs, which lowers the target's Speed stat. |
+|  351       18 |  |  11 |     素早い　動きで　相手の　足を ねらって　攻撃する。 相手の　素早さを　さげる。 |
+|  351       18 |  |  12 |     以敏捷的动作瞄准 对手的脚进行攻击。 降低对手的速度。 |
+|  351       19 |  |  1 |      おおきな　なみで　じぶんの まわりに　いるものを　こうげきする。 |
+|  351       19 |  |  3 |      큰 파도로 자신의 주위에 있는 포켓몬을 공격한다. |
+|  351       19 |  |  4 |      使用大浪 攻擊自己周圍所有的寶可夢。 |
+|  351       19 |  |  5 |      Une énorme vague s'abat sur le champ de bataille et inflige des dégâts à tous les Pokémon autour du lanceur. |
+|  351       19 |  |  6 |      Anwender greift mit einer gewaltigen Welle alle Pokémon in seiner Umgebung an. |
+|  351       19 |  |  7 |      Inunda el terreno de combate con una ola gigante. |
+|  351       19 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |
+|  351       19 |  |  9 |      The user attacks everything around it by swamping its surroundings with a giant wave. |
+|  351       19 |  |  11 |     大きな　波で　自分の 周りに　いるものを　攻撃する。 |
+|  351       19 |  |  12 |     利用大浪 攻击自己周围所有的宝可梦。 |
+|  351       20 |  |  1 |      ないた　ふりをして　なみだを　ながす。 こまらせる　ことで あいての　とくぼうを　がくっと　さげる。 |
+|  351       20 |  |  3 |      우는 척을 하며 눈물을 흘린다. 난처하게 만들어 상대의 특수방어를 크게 떨어뜨린다. |
+|  351       20 |  |  4 |      裝哭掉眼淚。 讓對手不知所措， 大幅降低對手的特防。 |
+|  351       20 |  |  5 |      Le lanceur fait semblant de pleurer pour troubler l'ennemi et beaucoup baisser sa Défense Spéciale. |
+|  351       20 |  |  6 |      Täuscht Weinen vor, um die Spezial-Verteidigung des Zieles stark zu senken. |
+|  351       20 |  |  7 |      Lágrimas de cocodrilo que bajan mucho la Defensa Especial del objetivo. |
+|  351       20 |  |  8 |      Chi la usa inscena un pianto teatrale per commuovere il bersaglio. Ne riduce di molto la Difesa Speciale. |
+|  351       20 |  |  9 |      The user feigns crying to fluster the target, harshly lowering its Sp. Def stat. |
+|  351       20 |  |  11 |     ないた　ふりをして　涙を　流す。 こまらせる　ことで 相手の　特防を　がくっと　さげる。 |
+|  351       20 |  |  12 |     装哭流泪。 使对手不知所措， 从而大幅降低对手的特防。 |
+|  352       5 |  |   9 |      Switches abilities with the foe on the turn this is used. |
+|  352       6 |  |   9 |      Switches abilities with the foe on the turn this is used. |
+|  352       7 |  |   9 |      The user employs its psychic power to swap abilities with the foe. |
+|  352       8 |  |   9 |      The user employs its psychic power to exchange abilities with the foe. |
+|  352       9 |  |   9 |      The user employs its psychic power to exchange abilities with the foe. |
+|  352       10 |  |  9 |      The user employs its psychic power to exchange abilities with the foe. |
+|  352       11 |  |  5 |      Le lanceur chante et attaque l'ennemi. Si plusieurs Pokémon déclenchent cette attaque à la suite, l'effet augmente. |
+|  352       11 |  |  9 |      The user attacks the target with a song. Others can join in the Round and make the attack do greater damage. |
+|  352       14 |  |  9 |      The user attacks the target with a song. Others can join in the Round and make the attack do greater damage. |
+|  352       15 |  |  1 |      うたで　あいてを　こうげきする。 みんなで　つかうと　れんぞくで だせて　いりょくも　あがる。 |
+|  352       15 |  |  3 |      노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다. |
+|  352       15 |  |  5 |      Le lanceur attaque l'ennemi en chantant. Si plusieurs Pokémon déclenchent cette attaque à la suite, l'effet augmente. |
+|  352       15 |  |  6 |      Angriff mit Gesang. Singt der Anwender mit allen im Kanon, kann er die Attacke mehrfach auslösen und die Stärke steigt. |
+|  352       15 |  |  7 |      Quien lo usa ataca con una afilada garra de sombras. Su índice de golpe crítico es muy alto. |
+|  352       15 |  |  8 |      Attacca il bersaglio con una melodia. Se usata durante lo stesso turno da più Pokémon, i danni inflitti aumentano. |
+|  352       15 |  |  9 |      The user attacks the target with a song. Others can join in the Round and make the attack do greater damage. |
+|  352       15 |  |  11 |     歌で　相手を　攻撃する。 みんなで　輪唱すると　続けて だすことが　でき　威力も　あがる。 |
+|  352       17 |  |  1 |      うたで　あいてを　こうげきする。 みんなで　りんしょう　すると　つづけて だすことが　でき　いりょくも　あがる。 |
+|  352       17 |  |  3 |      노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다. |
+|  352       17 |  |  4 |      用歌聲攻擊對手。 大家一起輪唱便可以接連使出， 威力也會提高。 |
+|  352       17 |  |  5 |      Le lanceur attaque l'ennemi en chantant. Si plusieurs Pokémon déclenchent cette attaque à la suite, l'effet augmente. |
+|  352       17 |  |  6 |      Angriff mit Gesang. Singt der Anwender mit allen im Kanon, kann er die Attacke mehrfach auslösen und die Stärke steigt. |
+|  352       17 |  |  7 |      Canto que sirve de ataque. Su fuerza aumenta cuantos más Pokémon lo usan en cadena. |
+|  352       17 |  |  8 |      Attacca il bersaglio con una melodia. Se usata durante lo stesso turno da più Pokémon, i danni inflitti aumentano. |
+|  352       17 |  |  9 |      The user attacks the target with a song. Others can join in the Round to increase the power of the attack. |
+|  352       17 |  |  11 |     歌で　相手を　攻撃する。 みんなで　輪唱すると　続けて だすことが　でき　威力も　あがる。 |
+|  352       17 |  |  12 |     用歌声攻击对手。 同伴还可以接着使出轮唱招式， 威力也会提高。 |
+|  352       18 |  |  1 |      うたで　あいてを　こうげきする。 みんなで　りんしょう　すると　つづけて だすことが　でき　いりょくも　あがる。 |
+|  352       18 |  |  3 |      노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다. |
+|  352       18 |  |  4 |      用歌聲攻擊對手。 大家一起輪唱便可以接連使出， 威力也會提高。 |
+|  352       18 |  |  5 |      Le lanceur attaque l'ennemi en chantant. Si plusieurs Pokémon déclenchent cette attaque à la suite, l'effet augmente. |
+|  352       18 |  |  6 |      Angriff mit Gesang. Singt der Anwender mit allen im Kanon, kann er die Attacke mehrfach auslösen und die Stärke steigt. |
+|  352       18 |  |  7 |      Canto que sirve de ataque. Su fuerza aumenta cuantos más Pokémon lo usan en cadena. |
+|  352       18 |  |  8 |      Attacca il bersaglio con una melodia. Se usata durante lo stesso turno da più Pokémon, i danni inflitti aumentano. |
+|  352       18 |  |  9 |      The user attacks the target with a song. Others can join in the Round to increase the power of the attack. |
+|  352       18 |  |  11 |     歌で　相手を　攻撃する。 みんなで　輪唱すると　続けて だすことが　でき　威力も　あがる。 |
+|  352       18 |  |  12 |     用歌声攻击对手。 同伴还可以接着使出轮唱招式， 威力也会提高。 |
+|  352       19 |  |  1 |      つよい　こうせんを あいてに　はっしゃして　こうげきする。 つぎの　ターンは　うごけなく　なる。 |
+|  352       19 |  |  3 |      강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다. |
+|  352       19 |  |  4 |      向對手發射 強烈的光線進行攻擊。 下一回合自己將無法動彈。 |
+|  352       19 |  |  5 |      Projette un puissant rayon sur l'ennemi. Le lanceur doit se reposer au tour suivant. |
+|  352       19 |  |  6 |      Starke Attacke, die den Anwender zwingt, eine Runde auszusetzen. |
+|  352       19 |  |  7 |      Es eficaz, pero el atacante deberá descansar en el siguiente turno. |
+|  352       19 |  |  8 |      Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia. |
+|  352       19 |  |  9 |      The target is attacked with a powerful beam. The user can't move on the next turn. |
+|  352       19 |  |  11 |     強い　光線を 相手に　発射して　攻撃する。 次の　ターンは　動けなくなる。 |
+|  352       19 |  |  12 |     向对手发射 强烈的光线进行攻击。 下一回合自己将无法动弹。 |
+|  352       20 |  |  1 |      がんせきを　なげつけて　こうげきする。 あいての　うごきを　ふうじることで すばやさを　さげる。 |
+|  352       20 |  |  3 |      암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다. |
+|  352       20 |  |  4 |      投擲岩石進行攻擊。 封住對手的行動， 進而降低其速度。 |
+|  352       20 |  |  5 |      Des rochers frappent l'ennemi. Réduit aussi sa Vitesse. |
+|  352       20 |  |  6 |      Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt. |
+|  352       20 |  |  7 |      Tira rocas que detienen al objetivo y bajan su Velocidad. |
+|  352       20 |  |  8 |      Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità. |
+|  352       20 |  |  9 |      Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement. |
+|  352       20 |  |  11 |     岩石を　投げつけて　攻撃する。 相手の　動きを　封じることで 素早さを　さげる。 |
+|  352       20 |  |  12 |     投掷岩石进行攻击。 封住对手的行动， 从而降低速度。 |
+|  353       5 |  |   9 |      Steals the effects of the move the foe is trying to use. |
+|  353       6 |  |   9 |      Steals the effects of the move the foe is trying to use. |
+|  353       7 |  |   9 |      Steals the effects of the foe's healing or status- changing move. |
+|  353       8 |  |   9 |      The user steals the effects of any healing or status-changing move the foe attempts to use. |
+|  353       9 |  |   9 |      The user steals the effects of any healing or status-changing move the foe attempts to use. |
+|  353       10 |  |  9 |      The user steals the effects of any healing or status-changing move the foe attempts to use. |
+|  353       11 |  |  5 |      Attaque l'ennemi avec la voix. Cette attaque devient plus efficace si à chaque tour quelqu'un l'utilise. |
+|  353       11 |  |  9 |      The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage. |
+|  353       14 |  |  9 |      The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage. |
+|  353       15 |  |  1 |      こえで　あいてを　こうげきする。 まいターン　だれかが　つかうと いりょくが　あがる。 |
+|  353       15 |  |  3 |      목소리로 상대를 공격한다. 매 턴 누군가 기술을 계속해서 쓰면 위력이 올라간다. |
+|  353       15 |  |  5 |      Un cri retentissant blesse l'ennemi. Si le lanceur ou d'autres Pokémon l'utilisent à chaque tour, l'effet augmente. |
+|  353       15 |  |  6 |      Angriff mit widerhallender Stimme. Wird dieser in jeder Runde von jemandem wiederholt, steigt die Stärke. |
+|  353       15 |  |  7 |      Quien lo usa se carga de energía y luego ataca. Y, si ataca después del objetivo, dobla la potencia del ataque. |
+|  353       15 |  |  8 |      Attacca il bersaglio con la propria voce echeggiante. Se usata a ripetizione da uno o più Pokémon il danno aumenta. |
+|  353       15 |  |  9 |      The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage. |
+|  353       15 |  |  11 |     響く　声で　相手を　攻撃する。 毎ターン　だれかが　使い続けると 威力が　あがる。 |
+|  353       17 |  |  1 |      ひびく　こえで　あいてを　こうげきする。 まいターン　だれかが　わざを つかい　つづけると　いりょくが　あがる。 |
+|  353       17 |  |  3 |      울리는 목소리로 상대를 공격한다. 매 턴 누군가 이 기술을 계속해서 쓰면 위력이 올라간다. |
+|  353       17 |  |  4 |      用回聲攻擊對手。 每回合有寶可夢持續使用回聲時， 招式的威力會提高。 |
+|  353       17 |  |  5 |      Un cri retentissant blesse l'ennemi. Si le lanceur ou d'autres Pokémon l'utilisent à chaque tour, l'effet augmente. |
+|  353       17 |  |  6 |      Angriff mit widerhallender Stimme. Wird dieser in jeder Runde von jemandem wiederholt, steigt die Stärke. |
+|  353       17 |  |  7 |      Ataca al objetivo con un susurro. Su fuerza aumenta si cualquiera de los Pokémon lo usa en cada turno. |
+|  353       17 |  |  8 |      Attacca il bersaglio con la propria voce echeggiante. Se usata a ripetizione da uno o più Pokémon il danno aumenta. |
+|  353       17 |  |  9 |      The user attacks the target with an echoing voice. If this move is used every turn, its power is increased. |
+|  353       17 |  |  11 |     響く　声で　相手を　攻撃する。 毎ターン　だれかが　使い続けると 威力が　あがる。 |
+|  353       17 |  |  12 |     用回声攻击对手。 如果每回合都有宝可梦接着 使用该招式，威力就会提高。 |
+|  353       18 |  |  1 |      ひびく　こえで　あいてを　こうげきする。 まいターン　だれかが　わざを つかい　つづけると　いりょくが　あがる。 |
+|  353       18 |  |  3 |      울리는 목소리로 상대를 공격한다. 매 턴 누군가 이 기술을 계속해서 쓰면 위력이 올라간다. |
+|  353       18 |  |  4 |      用回聲攻擊對手。 每回合有寶可夢持續使用回聲時， 招式的威力會提高。 |
+|  353       18 |  |  5 |      Un cri retentissant blesse l'ennemi. Si le lanceur ou d'autres Pokémon l'utilisent à chaque tour, l'effet augmente. |
+|  353       18 |  |  6 |      Angriff mit widerhallender Stimme. Wird dieser in jeder Runde von jemandem wiederholt, steigt die Stärke. |
+|  353       18 |  |  7 |      Ataca al objetivo con un susurro. Su fuerza aumenta si cualquiera de los Pokémon lo usa en cada turno. |
+|  353       18 |  |  8 |      Attacca il bersaglio con la propria voce echeggiante. Se usata a ripetizione da uno o più Pokémon il danno aumenta. |
+|  353       18 |  |  9 |      The user attacks the target with an echoing voice. If this move is used every turn, its power is increased. |
+|  353       18 |  |  11 |     響く　声で　相手を　攻撃する。 毎ターン　だれかが　使い続けると 威力が　あがる。 |
+|  353       18 |  |  12 |     用回声攻击对手。 如果每回合都有宝可梦接着 使用该招式，威力就会提高。 |
+|  353       19 |  |  1 |      すごい　ちからを　はっきして あいてを　こうげきする。じぶんの こうげきと　ぼうぎょが　さがる。 |
+|  353       19 |  |  3 |      엄청난 힘을 발휘하여 상대를 공격한다. 자신의 공격과 방어가 떨어진다. |
+|  353       19 |  |  4 |      發揮驚人的力量攻擊對手。 自己的攻擊和防禦會降低。 |
+|  353       19 |  |  5 |      Une attaque puissante, mais qui baisse l'Attaque et la Défense du lanceur. |
+|  353       19 |  |  6 |      Starke Attacke, die jedoch auch den Angriff und die Verteidigung des Anwenders senkt. |
+|  353       19 |  |  7 |      Ataque de gran potencia, pero que reduce el Ataque y la Defensa del agresor. |
+|  353       19 |  |  8 |      Chi la usa attacca il bersaglio con grande forza, ma il suo Attacco e la sua Difesa diminuiscono. |
+|  353       19 |  |  9 |      The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats. |
+|  353       19 |  |  11 |     すごい　力を　発揮して 相手を　攻撃する。自分の 攻撃と　防御が　さがる。 |
+|  353       19 |  |  12 |     发挥惊人的力量攻击对手。 自己的攻击和防御会降低。 |
+|  353       20 |  |  1 |      はげしく　ふきあれる　すなあらしの なかに　４ー５ターンの　あいだ あいてを　とじこめて　こうげきする。 |
+|  353       20 |  |  3 |      세차게 불어대는 모래바람 속에 4-5턴 동안 상대를 가두어 공격한다. |
+|  353       20 |  |  4 |      將對手困在 鋪天蓋地的沙暴中， 在４～５回合內進行攻擊。 |
+|  353       20 |  |  5 |      Le lanceur emprisonne l'ennemi dans une tempête de sable terrifiante qui dure de quatre à cinq tours. |
+|  353       20 |  |  6 |      Das Ziel leidet für vier bis fünf Runden in einer Sandhose. |
+|  353       20 |  |  7 |      Enreda al objetivo en un remolino de arena de cuatro a cinco turnos. |
+|  353       20 |  |  8 |      Chi la usa intrappola il bersaglio in una tempesta di sabbia per quattro o cinque turni. |
+|  353       20 |  |  9 |      The user traps the target inside a harshly raging sandstorm for four to five turns. |
+|  353       20 |  |  11 |     激しく　吹きあれる　砂あらしの 中に　４ー５ターンの　間 相手を　閉じこめて　攻撃する。 |
+|  353       20 |  |  12 |     将对手困在 铺天盖地的沙暴中， 在４～５回合内进行攻击。 |
+|  354       5 |  |   9 |      Enables full-power attack, but sharply lowers SP. ATK. |
+|  354       6 |  |   9 |      Enables full-power attack, but sharply lowers SP. ATK. |
+|  354       7 |  |   9 |      An intense attack that also sharply reduces the user's SP. ATK stat. |
+|  354       8 |  |   9 |      The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk. |
+|  354       9 |  |   9 |      The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk. |
+|  354       10 |  |  9 |      The user attacks the foe at full power using fiery energy. It also sharply reduces the user's Sp. Atk. |
+|  354       11 |  |  5 |      Attaque l'ennemi à pleine puissance. Le contrecoup baisse énormément l'Attaque Spéciale du lanceur. |
+|  354       11 |  |  9 |      The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat. |
+|  354       14 |  |  9 |      The user attacks the target at full power. The attack's recoil harshly reduces the user's Sp. Atk stat. |
+|  354       15 |  |  1 |      フルパワーで　ほのおの　こうげき。 つかったあと　じぶんの　とくこうは がくっと　さがる。 |
+|  354       15 |  |  3 |      풀 파워로 불꽃 공격을 한다. 사용한 뒤 자신의 특수공격이 크게 떨어진다. |
+|  354       15 |  |  5 |      Attaque l'ennemi à pleine puissance. Le contrecoup baisse énormément l'Attaque Spéciale du lanceur. |
+|  354       15 |  |  6 |      Angriff mit maximaler Kraft und feuriger Energie, der gleichzeitig den Spezial-Angriff des Angreifers senkt. |
+|  354       15 |  |  7 |      Quien lo usa puede vengar a sus amigos. El daño causado será mayor si en el turno anterior han debilitado a alguno. |
+|  354       15 |  |  8 |      Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale. |
+|  354       15 |  |  9 |      The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat. |
+|  354       15 |  |  11 |     フルパワーで　相手を　攻撃する。 使うと　反動で 自分の　特攻が　がくっと　さがる。 |
+|  354       17 |  |  1 |      フルパワーで　あいてを　こうげきする。 つかうと　はんどうで じぶんの　とくこうが　がくっと　さがる。 |
+|  354       17 |  |  3 |      풀 파워로 상대를 공격한다. 쓰면 반동으로 자신의 특수공격이 크게 떨어진다. |
+|  354       17 |  |  4 |      釋放全部能量攻擊對手。 使用後因為反作用力， 自己的特攻會大幅降低。 |
+|  354       17 |  |  5 |      Attaque l'ennemi à pleine puissance. Le contrecoup baisse beaucoup l'Attaque Spéciale du lanceur. |
+|  354       17 |  |  6 |      Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt. |
+|  354       17 |  |  7 |      Quien lo usa ataca con toda su fuerza, pero ve muy reducido su Ataque Especial. |
+|  354       17 |  |  8 |      Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale. |
+|  354       17 |  |  9 |      The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat. |
+|  354       17 |  |  11 |     フルパワーで　相手を　攻撃する。 使うと　反動で 自分の　特攻が　がくっと　さがる。 |
+|  354       17 |  |  12 |     使出全部力量攻击对手。 使用之后会因为反作用力， 自己的特攻大幅降低。 |
+|  354       18 |  |  1 |      フルパワーで　あいてを　こうげきする。 つかうと　はんどうで じぶんの　とくこうが　がくっと　さがる。 |
+|  354       18 |  |  3 |      풀 파워로 상대를 공격한다. 쓰면 반동으로 자신의 특수공격이 크게 떨어진다. |
+|  354       18 |  |  4 |      釋放全部能量攻擊對手。 使用後因為反作用力， 自己的特攻會大幅降低。 |
+|  354       18 |  |  5 |      Attaque l'ennemi à pleine puissance. Le contrecoup baisse beaucoup l'Attaque Spéciale du lanceur. |
+|  354       18 |  |  6 |      Angriff mit maximaler Kraft, der gleichzeitig den Spezial-Angriff des Angreifers stark senkt. |
+|  354       18 |  |  7 |      Quien lo usa ataca con toda su fuerza, pero ve muy reducido su Ataque Especial. |
+|  354       18 |  |  8 |      Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale. |
+|  354       18 |  |  9 |      The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat. |
+|  354       18 |  |  11 |     フルパワーで　相手を　攻撃する。 使うと　反動で 自分の　特攻が　がくっと　さがる。 |
+|  354       18 |  |  12 |     使出全部力量攻击对手。 使用之后会因为反作用力， 自己的特攻大幅降低。 |
+|  354       19 |  |  1 |      じめんに　おりて　からだを　やすめる。 さいだい　ＨＰの　はんぶんの ＨＰを　かいふく　する。 |
+|  354       19 |  |  3 |      땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다. |
+|  354       19 |  |  4 |      降落到地面，讓身體休息。 回復自己最大HP的一半。 |
+|  354       19 |  |  5 |      Le lanceur atterrit et se repose. Restaure jusqu'à la moitié de ses PV max. |
+|  354       19 |  |  6 |      Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt. |
+|  354       19 |  |  7 |      Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS. |
+|  354       19 |  |  8 |      Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi. |
+|  354       19 |  |  9 |      The user lands and rests its body. This move restores the user's HP by up to half of its max HP. |
+|  354       19 |  |  11 |     地面に　降りて　体を　やすめる。 最大ＨＰの　半分の ＨＰを　回復する。 |
+|  354       19 |  |  12 |     降到地面，使身体休息。 回复自己最大HP的一半。 |
+|  354       20 |  |  1 |      タネを　いきおいよく あいてに　はっしゃして　こうげきする。 ２ー５かいの　あいだ　れんぞくで　だす。 |
+|  354       20 |  |  3 |      씨앗을 기세 좋게 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다. |
+|  354       20 |  |  4 |      向對手猛烈地 發射種子進行攻擊。 連續攻擊２～５次。 |
+|  354       20 |  |  5 |      Le lanceur mitraille l'ennemi avec une rafale de graines. De deux à cinq rafales sont lancées à la suite. |
+|  354       20 |  |  6 |      Der Anwender wirft zwei- bis fünfmal in rascher Folge Samen auf das Ziel. |
+|  354       20 |  |  7 |      Dispara rápido de dos a cinco ráfagas de semillas de manera consecutiva. |
+|  354       20 |  |  8 |      Chi la usa spara da due a cinque raffiche di semi contro il bersaglio in successione. |
+|  354       20 |  |  9 |      The user forcefully shoots seeds at the target two to five times in a row. |
+|  354       20 |  |  11 |     タネを　勢いよく 相手に　発射して　攻撃する。 ２ー５回の　間　連続で　だす。 |
+|  354       20 |  |  12 |     向对手猛烈地 发射种子进行攻击。 连续攻击２～５次。 |
+|  355       8 |  |   9 |      The user lands and rests its body. It restores the user's HP by up to half of its top HP. |
+|  355       9 |  |   9 |      The user lands and rests its body. It restores the user's HP by up to half of its max HP. |
+|  355       10 |  |  9 |      The user lands and rests its body. It restores the user's HP by up to half of its max HP. |
+|  355       11 |  |  5 |      Le lanceur se téléporte à l'aide d'un pouvoir mystérieux. Il échange sa place avec celle d'un allié sur le terrain. |
+|  355       11 |  |  9 |      The user teleports using a strange power and switches its place with one of its allies. |
+|  355       14 |  |  9 |      The user teleports using a strange power and switches its place with one of its allies. |
+|  355       15 |  |  1 |      かたい　つばさを　あいてに　たたきつけて こうげきする。じぶんの　ぼうぎょが あがることが　ある。 |
+|  355       15 |  |  3 |      단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다. |
+|  355       15 |  |  5 |      Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur. |
+|  355       15 |  |  6 |      Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell. |
+|  355       15 |  |  7 |      Quien lo usa carga contra el objetivo usando toda su energía y en el turno siguiente tiene que descansar. |
+|  355       15 |  |  8 |      Colpisce il nemico con ali d'acciaio. Può anche aumentare la Difesa di chi la usa. |
+|  355       15 |  |  9 |      The target is hit with wings of steel. This may also raise the user's Defense stat. |
+|  355       15 |  |  11 |     硬い　翼を　相手に　たたきつけて 攻撃する。自分の　防御が あがることが　ある。 |
+|  355       17 |  |  1 |      かたい　つばさを　あいてに　たたきつけて こうげきする。　じぶんの　ぼうぎょが あがることが　ある。 |
+|  355       17 |  |  3 |      단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다. |
+|  355       17 |  |  4 |      用堅硬的翅膀撞擊 對手進行攻擊。 有時會提高自己的防禦。 |
+|  355       17 |  |  5 |      Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur. |
+|  355       17 |  |  6 |      Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell. |
+|  355       17 |  |  7 |      Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario. |
+|  355       17 |  |  8 |      Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa. |
+|  355       17 |  |  9 |      The target is hit with wings of steel. This may also raise the user's Defense stat. |
+|  355       17 |  |  11 |     硬い　翼を　相手に　たたきつけて 攻撃する。　自分の　防御が あがることが　ある。 |
+|  355       17 |  |  12 |     用坚硬的翅膀敲打 对手进行攻击。 有时会提高自己的防御。 |
+|  355       18 |  |  1 |      かたい　つばさを　あいてに　たたきつけて こうげきする。　じぶんの　ぼうぎょが あがることが　ある。 |
+|  355       18 |  |  3 |      단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다. |
+|  355       18 |  |  4 |      用堅硬的翅膀撞擊 對手進行攻擊。 有時會提高自己的防禦。 |
+|  355       18 |  |  5 |      Le lanceur frappe l'ennemi avec des ailes d'acier. Peut aussi augmenter la Défense du lanceur. |
+|  355       18 |  |  6 |      Trifft das Ziel mit Stahlflügeln. Verteidigungs-Wert des Anwenders steigt eventuell. |
+|  355       18 |  |  7 |      Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario. |
+|  355       18 |  |  8 |      Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa. |
+|  355       18 |  |  9 |      The target is hit with wings of steel. This may also raise the user's Defense stat. |
+|  355       18 |  |  11 |     硬い　翼を　相手に　たたきつけて 攻撃する。　自分の　防御が あがることが　ある。 |
+|  355       18 |  |  12 |     用坚硬的翅膀敲打 对手进行攻击。 有时会提高自己的防御。 |
+|  355       19 |  |  1 |      はげしい　ふぶきを あいてに　ふきつけて　こうげきする。 こおり　じょうたいに　することが　ある。 |
+|  355       19 |  |  3 |      세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다. |

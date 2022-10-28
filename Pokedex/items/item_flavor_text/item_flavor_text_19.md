@@ -1,7032 +1,1752 @@
-| item_id | version_group_id | language_id | flavor_text |
-|---------|------------------|-------------|-------------|
-| 1422    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1422    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1422    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1422    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1422    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1423    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1423    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1423    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1423    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1423    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1423    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1423    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1423    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1423    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1423    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1424    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1424    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1424    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1424    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1424    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1424    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1424    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1424    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1424    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1424    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1425    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1425    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1425    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1425    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1425    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1425    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1425    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1425    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1425    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1425    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1426    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1426    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1426    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1426    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1426    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1426    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1426    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1426    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1426    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1426    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1427    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1427    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1427    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1427    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1427    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1427    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1427    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1427    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1427    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1427    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1428    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1428    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1428    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1428    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1428    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1428    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1428    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1428    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1428    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1428    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1429    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1429    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1429    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1429    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1429    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1429    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1429    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1429    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1429    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1429    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1430    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1430    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1430    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1430    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1430    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1430    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1430    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1430    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1430    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1430    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1431    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1431    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1431    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1431    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1431    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1431    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1431    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1431    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1431    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1431    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1432    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1432    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1432    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1432    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1432    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1432    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1432    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1432    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1432    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1432    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1433    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1433    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1433    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1433    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1433    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1433    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1433    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1433    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1433    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1433    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1434    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1434    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1434    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1434    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1434    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1434    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1434    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1434    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1434    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1434    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1435    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1435    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1435    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1435    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1435    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1435    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1435    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1435    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1435    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1435    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1436    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1436    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1436    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1436    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1436    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1436    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1436    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1436    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1436    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1436    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1437    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1437    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1437    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1437    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1437    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1437    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1437    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1437    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1437    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1437    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1438    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1438    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1438    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1438    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1438    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1438    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1438    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1438    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1438    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1438    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1439    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1439    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1439    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1439    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1439    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1439    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1439    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1439    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1439    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1439    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1440    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1440    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1440    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1440    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1440    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1440    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1440    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1440    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1440    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1440    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1441    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1441    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1441    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1441    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1441    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1441    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1441    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1441    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1441    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1441    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1442    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1442    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1442    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1442    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1442    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1442    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1442    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1442    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1442    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1442    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1443    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1443    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1443    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1443    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1443    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1443    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1443    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1443    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1443    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1443    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1444    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1444    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1444    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1444    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1444    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1444    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1444    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1444    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1444    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1444    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1445    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1445    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1445    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1445    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1445    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1445    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1445    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1445    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1445    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1445    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1446    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1446    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1446    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1446    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1446    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1446    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1446    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1446    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1446    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1446    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1447    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1447    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1447    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1447    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1447    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1447    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1447    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1447    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1447    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1447    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1448    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1448    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1448    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1448    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1448    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1448    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1448    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1448    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1448    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1448    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1449    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1449    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1449    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1449    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1449    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1449    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1449    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1449    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1449    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1449    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1450    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1450    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1450    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1450    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1450    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1450    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1450    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1450    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1450    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1450    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1451    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1451    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1451    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1451    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1451    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1451    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1451    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1451    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1451    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1451    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1452    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1452    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1452    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1452    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1452    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1452    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1452    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1452    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1452    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1452    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1453    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1453    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1453    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1453    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1453    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1453    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1453    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1453    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1453    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1453    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1454    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1454    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1454    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1454    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1454    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1454    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1454    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1454    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1454    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1454    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1455    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1455    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1455    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1455    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1455    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1455    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1455    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1455    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1455    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1455    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1456    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1456    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1456    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1456    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1456    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1456    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1456    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1456    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1456    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1456    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1457    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1457    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1457    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1457    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1457    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1457    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1457    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1457    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1457    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1457    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1458    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1458    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1458    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1458    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1458    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1458    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1458    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1458    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1458    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1458    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1459    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1459    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1459    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1459    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1459    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1459    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1459    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1459    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1459    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1459    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1460    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1460    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1460    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1460    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1460    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1460    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1460    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1460    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1460    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1460    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1461    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1461    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1461    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1461    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1461    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1461    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1461    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1461    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1461    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1461    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1462    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1462    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1462    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1462    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1462    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1462    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1462    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1462    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1462    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1462    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1463    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1463    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1463    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1463    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1463    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1463    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1463    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1463    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1463    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1463    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1464    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1464    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1464    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1464    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1464    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1464    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1464    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1464    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1464    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1464    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1465    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1465    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1465    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1465    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1465    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1465    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1465    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1465    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1465    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1465    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1466    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1466    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1466    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1466    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1466    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1466    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1466    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1466    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1466    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1466    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1467    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1467    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1467    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1467    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1467    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1467    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1467    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1467    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1467    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1467    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1468    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1468    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1468    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1468    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1468    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1468    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1468    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1468    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1468    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1468    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1469    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1469    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1469    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1469    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1469    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1469    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1469    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1469    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1469    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1469    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1470    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1470    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1470    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1470    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1470    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1470    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1470    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1470    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1470    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1470    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1471    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1471    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1471    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1471    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1471    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1471    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1471    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1471    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1471    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1471    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1472    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1472    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1472    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1472    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1472    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1472    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1472    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1472    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1472    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1472    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1473    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1473    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1473    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1473    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1473    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1473    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1473    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1473    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1473    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1473    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1474    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1474    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1474    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1474    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1474    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1474    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1474    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1474    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1474    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1474    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1475    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1475    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1475    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1475    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1475    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1475    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1475    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1475    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1475    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1475    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1476    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1476    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1476    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1476    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1476    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1476    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1476    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1476    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1476    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1476    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1477    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1477    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1477    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1477    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1477    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1477    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1477    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1477    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1477    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1477    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1478    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1478    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1478    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1478    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1478    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1478    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1478    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1478    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1478    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1478    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1479    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1479    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1479    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1479    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1479    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1479    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1479    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1479    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1479    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1479    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1480    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1480    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1480    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1480    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1480    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1480    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1480    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1480    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1480    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1480    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1481    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1481    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1481    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1481    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1481    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1481    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1481    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1481    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1481    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1481    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1482    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1482    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1482    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1482    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1482    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1482    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1482    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1482    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1482    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1482    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1483    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1483    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1483    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1483    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1483    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1483    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1483    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1483    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1483    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1483    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1484    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1484    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1484    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1484    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1484    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1484    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1484    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1484    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1484    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1484    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1485    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1485    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1485    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1485    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1485    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1485    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1485    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1485    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1485    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1485    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1486    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1486    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1486    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1486    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1486    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1486    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1486    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1486    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1486    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1486    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1487    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1487    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1487    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1487    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1487    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1487    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1487    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1487    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1487    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1487    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1488    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1488    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1488    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1488    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1488    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1488    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1488    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1488    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1488    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1488    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1489    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1489    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1489    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1489    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1489    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1489    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1489    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1489    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1489    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1489    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1490    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1490    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1490    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1490    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1490    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1490    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1490    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1490    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1490    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1490    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1491    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1491    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1491    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1491    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1491    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1491    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1491    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1491    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1491    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1491    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1492    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1492    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1492    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1492    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1492    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1492    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1492    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1492    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1492    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1492    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1493    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1493    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1493    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1493    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1493    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1493    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1493    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1493    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1493    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1493    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1494    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1494    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1494    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1494    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1494    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1494    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1494    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1494    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1494    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1494    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1495    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1495    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1495    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1495    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1495    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1495    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1495    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1495    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1495    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1495    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1496    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1496    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1496    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1496    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1496    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1496    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1496    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1496    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1496    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1496    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1497    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1497    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1497    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1497    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1497    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1497    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1497    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1497    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1497    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1497    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1498    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1498    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1498    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1498    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1498    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1498    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1498    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1498    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1498    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1498    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1499    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1499    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1499    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1499    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1499    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1499    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1499    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1499    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1499    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1499    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1500    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1500    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1500    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1500    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1500    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1500    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1500    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1500    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1500    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1500    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1501    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1501    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1501    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1501    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1501    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1501    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1501    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1501    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1501    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1501    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1502    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1502    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1502    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1502    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1502    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1502    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1502    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1502    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1502    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1502    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1503    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1503    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1503    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1503    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1503    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1503    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1503    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1503    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1503    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1503    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1504    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1504    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1504    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1504    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1504    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1504    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1504    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1504    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1504    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1504    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1505    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1505    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1505    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1505    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1505    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1505    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1505    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1505    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1505    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1505    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1506    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1506    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1506    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1506    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1506    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1506    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1506    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1506    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1506    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1506    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1507    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1507    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1507    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1507    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1507    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1507    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1507    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1507    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1507    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1507    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1508    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1508    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1508    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1508    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1508    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1508    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1508    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1508    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1508    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1508    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1509    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1509    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1509    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1509    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1509    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1509    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1509    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1509    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1509    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1509    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1510    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1510    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1510    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1510    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1510    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1510    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1510    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1510    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1510    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1510    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1511    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1511    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1511    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1511    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1511    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1511    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1511    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1511    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1511    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1511    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1512    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1512    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1512    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1512    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1512    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1512    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1512    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1512    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1512    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1512    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1513    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1513    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1513    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1513    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1513    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1513    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1513    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1513    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1513    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1513    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1514    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1514    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1514    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1514    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1514    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1514    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1514    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1514    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1514    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1514    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1515    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1515    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1515    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1515    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1515    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1515    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1515    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1515    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1515    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1515    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1516    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1516    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1516    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1516    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1516    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1516    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1516    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1516    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1516    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1516    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1517    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1517    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1517    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1517    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1517    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1517    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1517    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1517    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1517    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1517    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1518    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1518    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1518    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1518    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1518    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1518    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1518    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1518    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1518    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1518    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1519    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1519    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1519    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1519    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1519    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1519    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1519    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1519    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1519    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1519    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1520    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1520    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1520    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1520    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1520    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1520    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1520    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1520    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1520    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1520    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1521    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1521    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1521    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1521    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1521    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1521    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1521    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1521    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1521    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1521    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1522    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1522    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1522    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1522    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1522    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1522    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1522    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1522    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1522    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1522    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1523    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1523    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1523    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1523    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1523    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1523    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1523    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1523    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1523    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1523    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1524    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1524    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1524    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1524    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1524    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1524    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1524    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1524    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1524    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1524    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1525    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1525    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1525    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1525    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1525    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1525    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1525    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1525    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1525    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1525    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1526    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1526    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1526    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1526    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1526    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1526    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1526    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1526    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1526    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1526    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1527    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1527    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1527    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1527    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1527    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1527    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1527    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1527    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1527    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1527    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1528    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1528    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1528    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1528    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1528    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1528    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1528    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1528    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1528    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1528    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1529    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1529    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1529    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1529    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1529    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1529    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1529    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1529    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1529    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1529    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1530    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1530    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1530    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1530    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1530    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1530    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1530    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1530    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1530    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1530    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1531    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1531    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1531    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1531    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1531    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1531    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1531    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1531    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1531    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1531    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1532    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1532    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1532    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1532    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1532    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1532    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1532    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1532    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1532    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1532    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1533    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1533    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1533    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1533    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1533    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1533    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1533    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1533    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1533    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1533    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1534    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1534    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1534    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1534    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1534    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1534    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1534    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1534    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1534    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1534    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1535    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1535    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1535    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1535    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1535    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1535    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1535    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1535    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1535    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1535    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1536    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1536    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1536    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1536    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1536    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1536    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1536    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1536    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1536    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1536    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1537    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1537    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1537    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1537    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1537    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1537    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1537    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1537    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1537    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1537    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1538    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1538    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1538    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1538    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1538    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1538    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1538    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1538    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1538    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1538    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1539    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1539    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1539    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1539    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1539    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1539    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1539    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1539    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1539    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1539    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1540    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1540    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1540    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1540    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1540    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1540    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1540    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1540    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1540    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1540    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1541    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1541    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1541    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1541    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1541    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1541    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1541    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1541    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1541    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1541    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1542    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1542    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1542    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1542    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1542    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1542    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1542    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1542    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1542    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1542    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1543    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1543    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1543    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1543    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1543    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1543    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1543    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1543    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1543    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1543    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1544    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1544    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1544    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1544    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1544    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1544    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1544    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1544    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1544    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1544    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1545    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1545    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1545    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1545    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1545    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1545    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1545    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1545    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1545    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1545    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1546    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1546    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1546    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1546    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1546    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1546    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1546    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1546    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1546    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1546    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1547    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1547    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1547    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1547    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1547    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1547    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1547    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1547    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1547    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1547    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1548    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1548    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1548    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1548    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1548    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1548    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1548    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1548    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1548    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1548    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1549    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1549    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1549    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1549    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1549    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1549    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1549    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1549    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1549    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1549    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1550    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1550    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1550    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1550    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1550    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1550    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1550    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1550    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1550    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1550    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1551    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1551    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1551    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1551    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1551    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1551    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1551    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1551    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1551    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1551    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1552    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1552    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1552    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1552    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1552    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1552    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1552    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1552    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1552    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1552    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1553    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1553    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1553    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1553    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1553    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1553    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1553    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1553    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1553    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1553    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1554    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1554    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1554    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1554    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1554    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1554    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1554    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1554    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1554    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1554    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1555    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1555    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1555    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1555    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1555    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1555    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1555    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1555    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1555    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1555    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1556    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1556    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1556    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1556    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1556    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1556    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1556    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1556    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1556    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1556    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1557    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1557    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1557    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1557    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1557    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1557    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1557    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1557    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1557    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1557    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1558    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1558    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1558    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1558    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1558    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1558    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1558    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1558    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1558    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1558    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1559    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1559    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1559    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1559    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1559    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1559    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1559    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1559    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1559    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1559    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1560    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1560    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1560    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1560    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1560    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1560    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1560    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1560    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1560    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1560    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1561    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1561    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1561    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1561    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1561    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1561    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1561    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1561    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1561    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1561    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1562    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1562    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1562    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1562    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1562    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1562    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1562    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1562    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1562    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1562    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1563    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1563    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1563    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1563    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1563    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1563    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1563    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1563    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1563    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1563    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1564    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1564    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1564    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1564    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1564    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1564    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1564    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1564    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1564    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1564    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1565    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1565    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1565    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1565    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1565    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1565    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1565    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1565    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1565    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1565    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1566    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1566    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1566    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1566    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1566    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1566    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1566    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1566    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1566    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1566    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1567    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1567    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1567    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1567    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1567    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1567    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1567    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1567    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1567    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1567    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1568    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1568    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1568    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1568    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1568    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1568    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1568    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1568    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1568    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1568    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1569    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1569    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1569    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1569    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1569    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1569    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1569    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1569    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1569    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1569    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1570    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1570    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1570    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1570    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1570    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1570    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1570    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1570    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1570    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1570    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1571    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1571    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1571    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1571    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1571    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1571    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1571    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1571    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1571    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1571    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1572    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1572    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1572    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1572    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1572    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1572    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1572    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1572    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1572    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1572    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1573    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1573    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1573    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1573    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1573    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1573    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1573    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1573    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1573    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1573    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1574    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1574    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1574    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1574    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1574    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1574    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1574    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1574    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1574    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1574    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1575    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1575    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1575    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1575    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1575    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1575    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1575    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1575    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1575    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1575    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1576    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1576    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1576    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1576    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1576    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1576    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1576    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1576    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1576    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1576    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1577    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1577    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1577    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1577    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1577    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1577    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1577    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1577    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1577    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1577    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1578    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1578    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1578    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1578    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1578    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1578    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1578    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1578    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1578    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1578    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1579    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1579    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1579    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1579    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1579    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1579    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1579    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1579    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1579    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1579    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1580    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1580    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1580    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1580    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1580    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1580    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1580    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1580    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1580    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1580    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1581    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1581    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1581    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1581    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1581    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1581    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1581    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1581    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1581    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1581    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1582    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1582    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1582    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1582    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1582    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1582    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1582    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1582    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1582    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1582    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1583    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1583    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1583    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1583    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1583    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1583    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1583    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1583    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1583    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1583    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1584    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1584    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1584    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1584    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1584    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1584    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1584    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1584    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1584    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1584    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1585    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1585    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1585    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1585    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1585    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1585    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1585    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1585    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1585    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1585    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1586    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1586    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1586    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1586    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1586    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1586    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1586    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1586    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1586    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1586    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1587    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1587    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1587    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1587    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1587    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1587    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1587    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1587    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1587    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1587    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1588    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1588    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1588    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1588    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1588    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1588    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1588    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1588    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1588    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1588    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1589    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1589    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1589    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1589    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1589    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1589    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1589    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1589    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1589    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1589    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1590    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1590    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1590    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1590    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1590    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1590    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1590    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1590    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1590    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1590    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1591    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1591    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1591    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1591    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1591    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1591    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1591    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1591    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1591    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1591    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1592    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1592    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1592    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1592    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1592    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1592    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1592    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1592    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1592    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1592    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1593    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1593    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1593    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1593    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1593    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1593    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1593    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1593    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1593    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1593    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1594    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1594    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1594    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1594    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1594    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1594    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1594    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1594    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1594    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1594    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1595    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1595    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1595    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1595    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1595    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1595    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1595    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1595    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1595    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1595    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1596    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1596    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1596    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1596    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1596    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1596    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1596    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1596    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1596    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1596    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1597    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1597    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1597    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1597    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1597    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1597    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1597    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1597    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1597    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1597    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1598    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1598    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1598    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1598    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1598    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1598    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1598    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1598    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1598    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1598    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1599    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1599    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1599    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1599    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1599    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1599    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1599    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1599    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1599    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1599    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1600    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1600    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1600    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1600    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1600    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1600    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1600    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1600    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1600    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1600    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1601    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1601    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1601    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1601    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1601    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1601    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1601    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1601    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1601    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1601    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1602    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1602    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1602    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1602    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1602    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1602    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1602    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1602    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1602    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1602    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1603    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1603    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1603    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1603    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1603    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1603    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1603    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1603    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1603    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1603    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1604    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1604    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1604    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1604    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1604    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1604    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1604    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1604    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1604    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1604    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1605    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1605    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1605    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1605    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1605    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1605    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1605    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1605    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1605    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1605    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1606    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1606    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1606    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1606    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1606    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1606    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1606    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1606    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1606    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1606    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1607    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1607    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1607    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1607    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1607    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1607    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1607    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1607    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1607    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1607    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1608    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1608    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1608    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1608    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1608    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1608    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1608    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1608    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1608    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1608    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1609    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1609    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1609    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1609    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1609    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1609    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1609    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1609    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1609    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1609    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1610    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1610    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1610    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1610    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1610    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1610    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1610    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1610    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1610    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1610    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1611    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1611    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1611    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1611    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1611    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1611    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1611    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1611    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1611    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1611    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1612    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1612    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1612    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1612    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1612    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1612    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1612    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1612    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1612    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1612    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1613    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1613    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1613    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1613    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1613    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1613    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1613    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1613    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1613    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1613    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1614    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1614    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1614    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1614    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1614    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1614    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1614    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1614    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1614    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1614    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1615    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1615    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1615    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1615    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1615    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1615    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1615    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1615    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1615    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1615    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1616    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1616    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1616    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1616    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1616    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1616    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1616    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1616    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1616    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1616    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1617    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1617    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1617    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1617    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1617    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1617    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1617    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1617    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1617    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1617    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1618    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1618    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1618    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1618    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1618    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1618    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1618    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1618    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1618    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1618    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1619    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1619    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1619    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1619    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1619    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1619    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1619    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1619    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1619    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1619    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1620    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1620    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1620    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1620    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1620    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1620    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1620    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1620    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1620    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1620    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1621    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1621    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1621    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1621    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1621    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1621    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1621    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1621    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1621    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1621    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1622    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1622    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1622    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1622    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1622    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1622    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1622    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1622    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1622    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1622    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1623    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1623    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1623    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1623    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1623    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1623    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1623    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1623    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1623    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1623    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1624    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1624    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1624    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1624    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1624    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1624    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1624    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1624    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1624    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1624    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1625    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1625    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1625    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1625    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1625    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1625    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1625    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1625    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1625    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1625    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1626    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1626    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1626    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1626    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1626    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1626    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1626    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1626    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1626    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1626    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1627    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1627    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1627    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1627    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1627    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1627    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1627    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1627    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1627    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1627    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1628    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1628    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1628    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1628    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1628    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1628    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1628    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1628    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1628    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1628    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1629    | 20               | 1           | つかった　ひに　ワイルドエリアの
-みはりとうのダイすあな　から
-[VAR (0000)]が　あらわれる。                                                                                                               |
-| 1629    | 20               | 3           | 사용한 당일에만 와일드에리어에 있는
-감시탑의 다이맥스굴에서
-[VAR (0000)][VAR (0003)] 나타난다.                                                                                                    |
-| 1629    | 20               | 4           | 使用後的當天，
-[VAR (0000)]會出現在
-曠野地帶的瞭望塔巨巢。                                                                                                                               |
-| 1629    | 20               | 5           | Un objet faisant apparaître un [VAR (0000)]
-dans l’antre géant de la Tour en ruines
-des Terres Sauvages jusqu’à la fin de la journée.                              |
-| 1629    | 20               | 6           | Dieses Item bewirkt, dass im Wachturm-Nest in der
-Naturzone ein [VAR (0000)] bis zum Ende des Tages
-erscheint, an dem das Item eingesetzt wurde.                   |
-| 1629    | 20               | 7           | Posibilita la aparición de [VAR (0000)] en el nido
-Dinamax de la Atalaya del Área Silvestre hasta finalizar
-el día en que se ha usado.                             |
-| 1629    | 20               | 8           | Strumento che fa apparire [VAR (0000)] nella
-dynatana della Torre Diroccata, nelle Terre Selvagge,
-fino alla fine del giorno in cui viene usato.                   |
-| 1629    | 20               | 9           | An item that causes [VAR (0000)] to appear from
-the Watchtower Lair in the Wild Area until the end of
-the day.                                                     |
-| 1629    | 20               | 11          | 使った　日に　ワイルドエリアの
-見張り塔のダイ巣穴　から
-[VAR (0000)]が　現れる。                                                                                                                    |
-| 1629    | 20               | 12          | 使用后的当天，
-旷野地带的瞭望塔巨巢中
-会出现[VAR (0000)]。                                                                                                                               |
-| 1630    | 20               | 1           | ダイマックスした　ビークインが　つくる　ミツ。
-ダイスープに　いれると　まろやかになる。
-げんきのかたまりと　おなじ　こうかも　ある。                                                                                                |
-| 1630    | 20               | 3           | 다이맥스한 비퀸이 만드는 꿀.
-다이수프에 넣으면 부드러워진다.
-기력의덩어리와 같은 효과도 있다.                                                                                                              |
-| 1630    | 20               | 4           | 由極巨化的蜂女王製造的蜜汁。
-放進極巨湯裡，湯就會變得又甜又醇。
-也有與活力塊相同的效果。                                                                                                                      |
-| 1630    | 20               | 5           | Un miel crémeux produit par un Apireine Dynamax
-qui permet d’adoucir le goût de la Maxi Soupe.
-Il a également le même effet qu’un Rappel Max.                      |
-| 1630    | 20               | 6           | Honig, der von dynamaximierten Honweisel hergestellt
-wird und den Geschmack einer Dyna-Suppe abrundet.
-Verfügt über denselben Effekt wie Top-Beleber.              |
-| 1630    | 20               | 7           | Panal construido por Vespiquen Dinamax cuya densa
-miel suaviza el sabor de la Maxisopa. También tiene
-el mismo efecto que un Revivir Máximo.                       |
-| 1630    | 20               | 8           | Miele prodotto dai Vespiquen dynamaxizzati.
-Se aggiunto alla Zuppamax la rende molto saporita.
-Ha anche gli stessi effetti di un Revitalizzante Max.               |
-| 1630    | 20               | 9           | Honey that Dynamax Vespiquen produces. Adding this
-honey to Max Soup makes the taste very smooth. It also
-has the same effect as a Max Revive.                     |
-| 1630    | 20               | 11          | ダイマックスした　ビークインが　作る　ミツ。
-ダイスープに　入れると　まろやかになる。
-げんきのかたまりと　同じ　効果も　ある。                                                                                                   |
-| 1630    | 20               | 12          | 极巨化的蜂女王制造出的蜜汁。
-放进极巨汤里，就能让汤的味道变得很温和。
-与活力块具有相同的效果。                                                                                                                   |
-| 1631    | 20               | 1           | ダイマックスの　すがたを　かえる
-ちからを　もった　キノコ。　せんとうちゅう
-ポケモンの　すべての　のうりょくを　あげる。                                                                                                      |
-| 1631    | 20               | 3           | 다이맥스의 모습을 바꿀 수 있는 힘을 가진 버섯.
-배틀 중인 포켓몬의 모든 능력을 올린다.                                                                                                                 |
-| 1631    | 20               | 4           | 蘊藏著神奇力量的蘑菇，
-可以讓寶可夢改變極巨化的樣子。
-在戰鬥中能提高寶可夢的所有能力。                                                                                                                       |
-| 1631    | 20               | 5           | Un champignon pouvant modifier l’apparence
-des Pokémon Dynamax. Utilisé en combat,
-il augmente toutes les stats d’un Pokémon.                                      |
-| 1631    | 20               | 6           | Ein Pilz, der über die Eigenschaft verfügt, die Gestalt
-von Dynamax-Pokémon zu ändern. Im Kampf hebt er
-alle Statuswerte eines Pokémon an.                         |
-| 1631    | 20               | 7           | Una seta capaz de cambiar el aspecto de los Pokémon
-al dinamaxizarse. Aumenta todas las características de
-un Pokémon si se usa en combate.                        |
-| 1631    | 20               | 8           | Un fungo con il potere di modificare la forma dei
-Pokémon Dynamax. Se usato durante la lotta,
-aumenta tutte le statistiche.                                        |
-| 1631    | 20               | 9           | Mushrooms that have the power of changing Dynamax
-forms. They boost all stats of a Pokémon during battle.                                                          |
-| 1631    | 20               | 11          | ダイマックスの　姿を　変える
-力を　持った　キノコ。　戦闘中
-ポケモンの　すべての　能力を　あげる。                                                                                                                 |
-| 1631    | 20               | 12          | 拥有某种神奇力量的蘑菇，
-能改变宝可梦极巨化的样子。
-在战斗中，可以提高宝可梦所有的能力。                                                                                                                      |
-| 1632    | 20               | 1           | ガラルちほうの　いちぶに　はえる
-ガラナツという　きの　えだ。　とある　ポケモンの
-アクセサリーの　ざいりょうとして　つかわれる。                                                                                                  |
-| 1632    | 20               | 3           | 가라르지방의 일부 지역에서 자라는
-가라두구라는 나무의 가지.
-어떤 포켓몬의 액세서리 재료로 쓰인다.                                                                                                            |
-| 1632    | 20               | 4           | 生長在伽勒爾部分地區的
-伽勒荳蔻的嫩枝。
-常被用來製成某種寶可夢的飾品。                                                                                                                               |
-| 1632    | 20               | 5           | Une branche de Galanoa, un arbre qui pousse dans
-certains endroits de Galar. Elle sert à fabriquer
-des accessoires pour un Pokémon en particulier.                 |
-| 1632    | 20               | 6           | Ein Zweig eines Baumes namens Galarnuss, der in
-Teilen der Galar-Region wächst. Er dient als Material zur
-Herstellung von Schmuck für ein bestimmtes Pokémon.      |
-| 1632    | 20               | 7           | Una rama de un árbol llamado Galanuez, que crece en
-determinadas zonas de Galar. Con ella se pueden crear
-accesorios para cierto Pokémon.                          |
-| 1632    | 20               | 8           | Un ramo di Galarnoce, un albero che cresce in alcune
-zone di Galar. Viene usato per realizzare accessori
-per un certo Pokémon.                                     |
-| 1632    | 20               | 9           | A twig from a species of tree called Galarica that grows
-in certain areas around the Galar region. It’s a material
-for an accessory for a certain Pokémon.         |
-| 1632    | 20               | 11          | ガラル地方の　一部に　生える
-ガラナツという　木の枝。　とある　ポケモンの
-アクセサリーの　材料として　使われる。                                                                                                          |
-| 1632    | 20               | 12          | 伽勒尔部分地区生长的
-伽勒豆蔻这种植物的枝条。
-可以用来制作某种宝可梦的饰品。                                                                                                                            |
-| 1633    | 20               | 1           | ガラナツのえだを　あみこんだ　ブレスレット。
-ガラルちほうの　ヤドンに
-つけてあげると　よろこぶ。                                                                                                                  |
-| 1633    | 20               | 3           | 가라두구가지를 엮어서 만든 팔찌.
-가라르지방의 야돈에게 채워주면 기뻐한다.                                                                                                                          |
-| 1633    | 20               | 4           | 用伽勒荳蔻枝編成的手環。
-幫伽勒爾地區的呆呆獸戴上，
-牠就會很高興。                                                                                                                                 |
-| 1633    | 20               | 5           | Un bracelet confectionné à partir de Branches Galanoa.
-Les Ramoloss de Galar adorent en porter.                                                                    |
-| 1633    | 20               | 6           | Ein Armreif, der aus Galarnuss-Zweigen gewoben wird.
-Galar-Flegmon freuen sich, wenn sie diesen anlegen
-dürfen.                                                    |
-| 1633    | 20               | 7           | Un brazalete hecho de Ramas de Galanuez trenzadas.
-Los Slowpoke de Galar se ponen contentísimos si lo
-reciben como regalo.                                         |
-| 1633    | 20               | 8           | Un bracciale ottenuto intrecciando Rami Galarnoce.
-Gli Slowpoke di Galar amano indossarlo.                                                                         |
-| 1633    | 20               | 9           | A cuff made from woven-together Galarica Twigs.
-Giving it to Galarian Slowpoke makes the
-Pokémon very happy.                                                       |
-| 1633    | 20               | 11          | ガラナツのえだを　編み込んだ　ブレスレット。
-ガラル地方の　ヤドンに
-つけてあげると　喜ぶ。                                                                                                                     |
-| 1633    | 20               | 12          | 用伽勒豆蔻枝编织的手环。
-给伽勒尔地区的呆呆兽戴上，
-它就会很开心。                                                                                                                                 |
-| 1634    | 20               | 1           | もっていると　ブティックで　かえる
-しなものが　ふえる。　ヘアサロンでは
-えらべる　かみがたが　ふえる　カード。                                                                                                           |
-| 1634    | 20               | 3           | 지니고 있으면 부티크에서 살 수 있는
-품목이 늘어나고, 헤어살롱에서는
-고를 수 있는 헤어스타일이 늘어나는 카드.                                                                                                     |
-| 1634    | 20               | 4           | 擁有這張卡，就能在時裝店買到
-更多商品。到美髮沙龍時，
-也能有更多樣化的髮型選項。                                                                                                                          |
-| 1634    | 20               | 5           | Une carte permettant d’accéder à un plus vaste choix
-d’articles dans les boutiques chics et à davantage de
-coiffures dans les salons Salle à Mèche.                |
-| 1634    | 20               | 6           | Wer diese Karte bei sich trägt, erhält in Boutiquen
-und Friseursalons eine größere Auswahl.                                                                        |
-| 1634    | 20               | 7           | Una tarjeta que aumenta la selección de artículos
-disponibles en las tiendas y permite elegir entre una
-mayor variedad de peinados en las peluquerías.             |
-| 1634    | 20               | 8           | Una tessera che amplia la scelta di acconciature
-disponibili dai Parrucchieri e di articoli acquistabili
-nei Negozi di vestiti.                                    |
-| 1634    | 20               | 9           | A card that increases the selection in boutiques and
-hair salons.                                                                                                  |
-| 1634    | 20               | 11          | 持っていると　ブティックで　買える
-品物が　増える。　ヘアサロンでは
-選べる　髪型が　増える　カード。                                                                                                                |
-| 1634    | 20               | 12          | 拥有后，在时装店可以买到的物品
-和在美发沙龙可以选择的发型
-都会有所增加的卡片。                                                                                                                           |
-| 1635    | 20               | 1           | ヨロイじまに　いくための　パス。
-ブラッシータウンの　えきで
-えきいんさんに　みせよう。                                                                                                                       |
-| 1635    | 20               | 3           | 갑옷섬에 갈 수 있는 패스.
-브래시마을역에 있는
-역무원에게 보여주자.                                                                                                                             |
-| 1635    | 20               | 4           | 前往鎧島的車票。
-在木桿鎮的車站
-把它出示給站務員看吧。                                                                                                                                       |
-| 1635    | 20               | 5           | Un pass pour se rendre à Isolarmure.
-Montrez-le à l’employé de la Gare de Brasswick.                                                                               |
-| 1635    | 20               | 6           | Ein Pass, mit dem du zur Rüstungsinsel gelangst.
-Zeige ihn dem Personal am Brassbury-Bahnhof.                                                                      |
-| 1635    | 20               | 7           | Un pase que permite viajar hasta la Isla de la Armadura.
-Hay que mostrárselo al empleado de la estación de
-Pueblo Par.                                             |
-| 1635    | 20               | 8           | Un pass necessario per raggiungere l’Isola
-dell’Armatura. Mostralo al personale della
-Stazione di Brassbury.                                                       |
-| 1635    | 20               | 9           | A pass to go to the Isle of Armor. Show it to the rail
-staff at Wedgehurst Station.                                                                                |
-| 1635    | 20               | 11          | ヨロイ島に　行くための　パス。
-ブラッシータウンの　駅で
-駅員さんに　見せよう。                                                                                                                           |
-| 1635    | 20               | 12          | 前往铠岛的车票。
-在木杆镇的车站，
-把它出示给站务员看吧。                                                                                                                                      |
-| 1636    | 20               | 1           | ロトムの　ちからで　ターボが　でき
-すいじょうも　はしれる　じてんしゃ。
-しろく　かがやく　ぴかぴかホワイト。                                                                                                            |
-| 1636    | 20               | 3           | 로토무의 힘으로 터보를 사용할 수 있고
-물 위에서도 달릴 수 있는 자전거.
-하얗게 빛나는 스파클링 화이트 디자인이다.                                                                                                  |
-| 1636    | 20               | 4           | 能用洛托姆的力量進行渦輪加速，
-還能在水上移動的自行車。
-潔白耀眼的閃亮白。                                                                                                                             |
-| 1636    | 20               | 5           | Une bicyclette qui permet de mettre le turbo et de
-se déplacer sur l’eau grâce à Motisma. D’une blancheur
-éclatante, elle projette des étincelles sur son passage. |
-| 1636    | 20               | 6           | Ein glitzernd weißes Fahrrad, das dank Rotom über
-einen Turbo verfügt und auf dem Wasser gefahren
-werden kann. Versprüht weiße Funken.                             |
-| 1636    | 20               | 7           | Gracias al poder de Rotom, esta bicicleta permite usar
-el turbo y desplazarse sobre el agua. Tiene un color
-blanco centelleante.                                   |
-| 1636    | 20               | 8           | Una bicicletta dotata del turbo che può anche spostarsi
-in acqua grazie ai poteri di Rotom. È di un bianco
-sfavillante.                                            |
-| 1636    | 20               | 9           | This bike can do a turbo boost and run on the water
-using Rotom’s power. It’s a sparkling white that
-shines brilliantly.                                           |
-| 1636    | 20               | 11          | ロトムの　力で　ターボが　でき
-水上も　走れる　じてんしゃ。
-白く　輝く　ぴかぴかホワイト。                                                                                                                     |
-| 1636    | 20               | 12          | 能借助洛托姆的力量进行涡轮加速，
-且可在水面上骑行的自行车。
-洁白耀眼的闪亮白。                                                                                                                           |
-| 1637    | 20               | 1           | ロトムの　ちからで　ターボが　でき
-すいじょうも　はしれる　じてんしゃ。
-あかぐろく　ひかる　ギラギラブラック。                                                                                                           |
-| 1637    | 20               | 3           | 로토무의 힘으로 터보를 사용할 수 있고
-물 위에서도 달릴 수 있는 자전거.
-검붉게 빛나는 글리터링 블랙 디자인이다.                                                                                                   |
-| 1637    | 20               | 4           | 能用洛托姆的力量進行渦輪加速，
-還能在水上移動的自行車。
-會閃閃發出赤黑亮光的炫耀黑。                                                                                                                        |
-| 1637    | 20               | 5           | Une bicyclette qui permet de mettre le turbo
-et de se déplacer sur l’eau grâce à Motisma.
-Son noir crépusculaire brille d’une lueur rouge.                         |
-| 1637    | 20               | 6           | Ein gleißend schwarzes Fahrrad, das dank Rotom über
-einen Turbo verfügt und auf dem Wasser gefahren
-werden kann. Versprüht schwarz-rote Funken.                    |
-| 1637    | 20               | 7           | Gracias al poder de Rotom, esta bicicleta permite usar
-el turbo y desplazarse sobre el agua. De color negro y
-con una fulgurante estela rojinegra.                 |
-| 1637    | 20               | 8           | Una bicicletta dotata del turbo che può anche spostarsi
-in acqua grazie ai poteri di Rotom. È di colore nero
-scintillante ed emana una luce rossastra.             |
-| 1637    | 20               | 9           | This bike can do a turbo boost and run on the water
-using Rotom’s power. It’s a glistening black that
-shines reddish-black.                                        |
-| 1637    | 20               | 11          | ロトムの　力で　ターボが　でき
-水上も　走れる　じてんしゃ。
-赤黒く　光る　ギラギラブラック。                                                                                                                    |
-| 1637    | 20               | 12          | 能借助洛托姆的力量进行涡轮加速，
-且可在水面上骑行的自行车。
-闪烁着红黑色光泽的炫耀黑。                                                                                                                       |
-| 1638    | 20               | 1           | もっていると　ポケモンが　えられる
-けいけんちが　ふえる　おまもり。
-きかいのような　ものが　はいっている。                                                                                                             |
-| 1638    | 20               | 3           | 지니고 있으면 포켓몬이 받는
-경험치가 늘어나는 부적.
-기계 같은 것이 들어 있다.                                                                                                                      |
-| 1638    | 20               | 4           | 只要擁有這個護符，
-寶可夢能獲得的經驗值就會增加。
-內部有類似機械的東西。                                                                                                                              |
-| 1638    | 20               | 5           | Un charme permettant aux Pokémon de gagner
-davantage de Points d’Expérience. Il renferme
-une espèce de mécanisme.                                                  |
-| 1638    | 20               | 6           | Ein Glücksbringer, der Pokémon mehr Erfahrungspunkte
-erhalten lässt. Im Inneren scheint eine Art Maschine zu
-stecken.                                              |
-| 1638    | 20               | 7           | Amuleto que aumenta los Puntos de Experiencia que
-reciben los Pokémon. Su interior contiene una especie
-de mecanismo.                                              |
-| 1638    | 20               | 8           | Un amuleto che fa aumentare i Punti Esperienza
-che i Pokémon possono ottenere.
-Pare che contenga dei componenti meccanici.                                         |
-| 1638    | 20               | 9           | A charm that increases the Exp. Points that Pokémon
-can get. A machine-like object is inside the charm.                                                            |
-| 1638    | 20               | 11          | 持っていると　ポケモンが　得られる
-経験値が　増える　おまもり。
-機械のような　ものが　入っている。                                                                                                                 |
-| 1638    | 20               | 12          | 训练家拥有这个护符后，
-宝可梦获得的经验值就会增加。
-里面装有类似于机器的部件。                                                                                                                           |
-| 1639    | 20               | 1           | ヨロイじまで　とれる　めずらしい　いし。
-ヨロイじまの　コレクターに　あげると
-なにか　いいことが　ある。                                                                                                              |
-| 1639    | 20               | 3           | 갑옷섬에서 얻을 수 있는 희귀한 광석.
-갑옷섬의 컬렉터에게 주면 좋은 일이 일어난다.                                                                                                                    |
-| 1639    | 20               | 4           | 能夠在鎧島找到的稀奇石頭。
-把它送給鎧島上的收藏家，
-就會有好事發生。                                                                                                                                |
-| 1639    | 20               | 5           | Un minerai rare que l’on trouve à Isolarmure.
-Vous pourriez avoir une bonne surprise
-en le donnant à un collectionneur de l’île.                                   |
-| 1639    | 20               | 6           | Ein seltenes Gestein, das auf der Rüstungsinsel zu
-finden ist. Gibst du es einem Sammler auf der Insel,
-passiert etwas Gutes.                                      |
-| 1639    | 20               | 7           | Un mineral poco común que se encuentra en la Isla de
-la Armadura. Tal vez ocurra algo bueno al dárselo a un
-coleccionista de dicha isla.                           |
-| 1639    | 20               | 8           | Una pietra rara che si può trovare sull’Isola
-dell’Armatura. Se la consegni a un collezionista
-di quella zona, potresti guadagnarci qualcosa.                      |
-| 1639    | 20               | 9           | Rare ore that can be obtained on the Isle of Armor.
-Something good will happen if you give it to a collector
-on the Isle of Armor.                                 |
-| 1639    | 20               | 11          | ヨロイ島で　採れる　珍しい石。
-ヨロイ島の　コレクターに　あげると
-なにか　いいことが　ある。                                                                                                                    |
-| 1639    | 20               | 12          | 能够在铠岛找出的珍稀石头。
-把它送给铠岛的收藏家，
-就会有好事发生。                                                                                                                                 |
-| 1640    | 20               | 1           | もっていると　あかしが　ついた
-ポケモンと　であいやすくなる
-ふしぎで　こせいてきな　おまもり。                                                                                                                   |
-| 1640    | 20               | 3           | 지니고 있으면 증표가 붙은 포켓몬과
-만나기 쉬워지는 이상하고 개성적인 부적.                                                                                                                         |
-| 1640    | 20               | 4           | 又神奇又個性十足的護符。
-只要擁有它，就會變得
-容易遇見有證章的寶可夢。                                                                                                                               |
-| 1640    | 20               | 5           | Un charme mystérieux qui permet de rencontrer
-plus facilement des Pokémon avec des insignes.                                                                       |
-| 1640    | 20               | 6           | Ein mysteriöser, individueller Glücksbringer, der die
-Wahrscheinlichkeit erhöht, Pokémon zu finden,
-die über ein Zeichen verfügen.                                 |
-| 1640    | 20               | 7           | Misterioso y particular amuleto que aumenta las
-posibilidades de encontrar Pokémon con emblemas.                                                                   |
-| 1640    | 20               | 8           | Misterioso e singolare amuleto che rende più facile
-incontrare Pokémon con un emblema.                                                                             |
-| 1640    | 20               | 9           | A mysterious and unique charm that increases the
-chance of finding a Pokémon with a mark.                                                                          |
-| 1640    | 20               | 11          | 持っていると　あかしが　ついた
-ポケモンと　出会いやすくなる
-不思議で　個性的な　おまもり。                                                                                                                     |
-| 1640    | 20               | 12          | 神奇而富有个性的护符。
-拥有该护符后，
-会更容易遇到带有证章的宝可梦。                                                                                                                                |
-| 1641    | 20               | 1           | ひとが　おうに　けんじょうしていた　タヅナ。
-ほうじょうの　ちからを　ぞうふくし
-バドレックスと　あいばを　がったい　させる。                                                                                                    |
-| 1641    | 20               | 3           | 인간들이 왕에게 바친 고삐.
-풍요의 힘을 증폭시켜서
-버드렉스와 애마를 합체시킨다.                                                                                                                      |
-| 1641    | 20               | 4           | 過去曾由人們獻給國王的韁繩。
-能夠增強豐饒之力，
-使蕾冠王與愛馬合體。                                                                                                                                |
-| 1641    | 20               | 5           | Une offrande des humains au roi. Ces rênes permettent
-d’unir Sylveroy à son fidèle destrier, et renforcent son
-habilité à prodiguer d’abondantes récoltes.         |
-| 1641    | 20               | 6           | Zügel, die dem König vom Volk dargeboten wurden.
-Sie verstärken Coronospas Macht über reiche Ernten
-und ermöglichen das Bündnis mit seinem treuen Ross.            |
-| 1641    | 20               | 7           | Riendas que se entregaron como ofrenda al rey.
-Potencian los poderes de Calyrex para mejorar las
-cosechas y le permiten unirse con su amado corcel.                |
-| 1641    | 20               | 8           | Briglie offerte in dono al re dagli esseri umani.
-Amplificano il potere di Calyrex di donare prosperità
-e gli permettono di unirsi al suo destriero.               |
-| 1641    | 20               | 9           | Reins that people presented to the king. They enhance
-Calyrex’s power over bountiful harvests and unite
-Calyrex with its beloved steed.                            |
-| 1641    | 20               | 11          | 人が　王に　献上していた　タヅナ。
-豊穣の力を　増幅し
-バドレックスと　愛馬を　合体させる。                                                                                                                     |
-| 1641    | 20               | 12          | 人们曾经用来进献给国王的缰绳。
-可增强丰饶之力，
-并使蕾冠王与爱马合二为一。                                                                                                                             |
-| 1642    | 20               | 1           | ひとが　おうに　けんじょうしていた　タヅナ。
-つながったもの　どうし　いしそつうが　できる。
-バドレックスと　あいばを　ぶんり　させる。                                                                                               |
-| 1642    | 20               | 3           | 인간들이 왕에게 바친 고삐.
-연결된 이들은 의사소통할 수 있게 된다.
-버드렉스와 애마를 분리시킨다.                                                                                                            |
-| 1642    | 20               | 4           | 過去曾由人們獻給國王的韁繩。
-韁繩相繫的生物可以彼此溝通。
-能夠解開蕾冠王與愛馬的合體。                                                                                                                       |
-| 1642    | 20               | 5           | Une offrande des humains au roi. Ces rênes permettent
-à ceux qu’elles unissent de se comprendre. Elles
-permettent aussi de séparer Sylveroy de son destrier.       |
-| 1642    | 20               | 6           | Zügel, die dem König vom Volk dargeboten wurden.
-Sie sorgen für Verständnis zwischen Coronospa und
-seinem treuen Ross und ermöglichen ihre Trennung.               |
-| 1642    | 20               | 7           | Riendas que se entregaron como ofrenda al rey.
-Permiten el entendimiento mutuo entre aquellos que
-están unidos y separan a Calyrex de su amado corcel.             |
-| 1642    | 20               | 8           | Briglie offerte in dono al re dagli esseri umani.
-Permettono a coloro che sono uniti di comprendersi
-e consentono a Calyrex di separarsi dal suo destriero.        |
-| 1642    | 20               | 9           | Reins that people presented to the king. They enable
-those who are connected to communicate with each
-other. The reins separate Calyrex and its beloved steed.     |
-| 1642    | 20               | 11          | 人が　王に　献上していた　タヅナ。
-繋がった者　同士　意思疎通が　できる。
-バドレックスと　愛馬を　分離させる。                                                                                                           |
-| 1642    | 20               | 12          | 人们曾经用来进献给国王的缰绳。
-通过缰绳连接的二者可以相互交流。
-可使蕾冠王与爱马一分为二。                                                                                                                     |
-| 1643    | 20               | 1           | ガラナツのえだを　あみこんだ　かんむり。
-ガラルちほうの　ヤドンに
-かぶせてあげると　よろこぶ。                                                                                                                   |
-| 1643    | 20               | 3           | 가라두구가지를 엮어서 만든 머리 장식.
-가라르지방의 야돈에게 씌워주면 기뻐한다.                                                                                                                       |
-| 1643    | 20               | 4           | 用伽勒荳蔻枝編成的花冠。
-給伽勒爾地區的呆呆獸戴上它，
-呆呆獸就會很開心。                                                                                                                              |
-| 1643    | 20               | 5           | Une couronne confectionnée à partir de Branches
-Galanoa. Les Ramoloss de Galar adorent en porter.                                                                  |
-| 1643    | 20               | 6           | Ein Kranz, der aus Galarnuss-Zweigen gewoben wurde.
-Galar-Flegmon freuen sich, wenn sie diesen tragen
-dürfen.                                                      |
-| 1643    | 20               | 7           | Una corona hecha de Ramas de Galanuez trenzadas.
-Los Slowpoke de Galar se ponen contentísimos cuando
-la llevan puesta.                                             |
-| 1643    | 20               | 8           | Una corona ottenuta intrecciando Rami Galarnoce.
-Gli Slowpoke di Galar amano indossarla.                                                                           |
-| 1643    | 20               | 9           | A wreath made from woven-together Galarica Twigs.
-Placing it on the head of a Galarian Slowpoke makes
-the Pokémon very happy.                                      |
-| 1643    | 20               | 11          | ガラナツのえだを　編み込んだ　冠。
-ガラル地方の　ヤドンに
-かぶせてあげると　喜ぶ。                                                                                                                         |
-| 1643    | 20               | 12          | 用伽勒豆蔻枝编织的花环头饰。
-给伽勒尔地区的呆呆兽戴上这种头饰，
-它就会很开心。                                                                                                                           |
-| 1644    | 20               | 1           | ほうじょうのおう　でんせつについて
-ピオニーが　まとめた　メモ。
-ふるい　しゃしんが　はりつけられている。                                                                                                              |
-| 1644    | 20               | 3           | 풍요의 왕 전설에 대해
-피오니가 정리한 메모.
-오래된 사진이 붙어 있다.                                                                                                                           |
-| 1644    | 20               | 4           | 皮歐尼針對豐饒之王傳說
-所整理的筆記。
-上面貼著很舊的照片。                                                                                                                                     |
-| 1644    | 20               | 5           | Les notes de Dhilan sur le légendaire Seigneur
-des récoltes. Elles sont accompagnées d’une vieille
-photographie.                                                   |
-| 1644    | 20               | 6           | Gesammelte Notizen von Peony über die Legende des
-Königs der reichen Ernte. Ein altes Foto ist auch dabei.                                                         |
-| 1644    | 20               | 7           | Una nota escrita por Peony acerca de la leyenda del
-Rey de las Cosechas. Lleva adjunta una vieja fotografía.                                                       |
-| 1644    | 20               | 8           | Appunti presi da Peony sulla leggenda del Re
-dell’abbondanza. C’è attaccata una vecchia foto.                                                                      |
-| 1644    | 20               | 9           | A clue about the King of Bountiful Harvests. It’s written
-by Peony, and an old photo is attached to it.                                                            |
-| 1644    | 20               | 11          | 豊穣の王　伝説について
-ピオニーが　まとめた　メモ。
-古い　写真が　貼り付けられている。                                                                                                                       |
-| 1644    | 20               | 12          | 皮欧尼整理的
-有关丰饶之王传说的笔记。
-上面贴着很旧的照片。                                                                                                                                     |
-| 1645    | 20               | 1           | きょじん　でんせつについて
-ピオニーが　まとめた　メモ。
-こせいてきな　えが　かかれている。                                                                                                                     |
-| 1645    | 20               | 3           | 거인의 전설에 대해
-피오니가 정리한 메모.
-개성적인 그림이 그려져 있다.                                                                                                                           |
-| 1645    | 20               | 4           | 皮歐尼針對巨人傳說
-所整理的筆記。
-上面畫有個性十足的圖案。                                                                                                                                     |
-| 1645    | 20               | 5           | Les notes de Dhilan sur les colosses légendaires.
-Il a pris le temps de les accompagner d’illustrations.                                                           |
-| 1645    | 20               | 6           | Gesammelte Notizen von Peony über die Legende der
-Giganten. Ein paar einzigartige Illustrationen sind
-auch dabei.                                                  |
-| 1645    | 20               | 7           | Una nota escrita por Peony acerca de la leyenda de los
-gigantes. Contiene unas ilustraciones muy particulares.                                                     |
-| 1645    | 20               | 8           | Appunti presi da Peony sulla leggenda dei giganti.
-Contengono un’illustrazione singolare.                                                                          |
-| 1645    | 20               | 9           | A clue about the legend of giants. It’s written
-by Peony and has unique drawings.                                                                                  |
-| 1645    | 20               | 11          | 巨人　伝説について
-ピオニーが　まとめた　メモ。
-個性的な　絵が　描かれている。                                                                                                                           |
-| 1645    | 20               | 12          | 皮欧尼整理的
-有关巨人传说的笔记。
-上面绘有充满个性的画。                                                                                                                                      |
-| 1646    | 20               | 1           | とりポケモン　でんせつについて
-ピオニーが　まとめた　メモ。
-こせいてきな　えが　かかれている。                                                                                                                   |
-| 1646    | 20               | 3           | 새포켓몬 전설에 대해
-피오니가 정리한 메모.
-개성적인 그림이 그려져 있다.                                                                                                                          |
-| 1646    | 20               | 4           | 皮歐尼針對鳥寶可夢傳說
-所整理的筆記。
-上面畫有個性十足的圖案。                                                                                                                                   |
-| 1646    | 20               | 5           | Les notes de Dhilan sur les oiseaux de légende.
-Il a pris le temps de les accompagner d’une illustration.                                                          |
-| 1646    | 20               | 6           | Gesammelte Notizen von Peony über die Legende der
-Vogel-Pokémon. Eine einzigartige Illustration ist auch
-dabei.                                                    |
-| 1646    | 20               | 7           | Una nota escrita por Peony acerca de la leyenda de
-las aves legendarias. Contiene una ilustración muy
-particular.                                                  |
-| 1646    | 20               | 8           | Appunti presi da Peony sulla leggenda dei Pokémon
-alati. Contengono un’illustrazione singolare.                                                                    |
-| 1646    | 20               | 9           | A clue about the legend of bird Pokémon. It’s written
-by Peony and has a unique drawing.                                                                           |
-| 1646    | 20               | 11          | とりポケモン　伝説について
-ピオニーが　まとめた　メモ。
-個性的な　絵が　描かれている。                                                                                                                       |
-| 1646    | 20               | 12          | 皮欧尼整理的
-有关鸟宝可梦传说的笔记。
-上面绘有充满个性的画。                                                                                                                                    |
-| 1647    | 20               | 1           | ピオニーが　おとした　ふしぎなメモ。
-マックスダイすあなに　ひかる　あなが
-ひらかれた　しゃしんが　はりつけてある。                                                                                                         |
-| 1647    | 20               | 3           | 피오니가 떨어뜨린 수상한 메모.
-맥스다이맥스굴에 빛나는 구멍이 열린
-사진이 붙어 있다.                                                                                                                   |
-| 1647    | 20               | 4           | 皮歐尼掉落的神秘筆記。
-上面貼的照片裡可以看見
-極巨巢穴有個發光的大洞。                                                                                                                               |
-| 1647    | 20               | 5           | Une note mystérieuse que Dhilan a égarée.
-On peut y voir la photo d’un trou de lumière,
-dans le Grand Antre Dynamax.                                               |
-| 1647    | 20               | 6           | Eine rätselhafte Notiz, die Peony verloren hat.
-Darin klebt ein Foto eines leuchtenden Lochs,
-das sich über dem Dyna-Riesennest geöffnet hat.                      |
-| 1647    | 20               | 7           | Una extraña nota que se le cayó a Peony. Tiene pegada
-una foto del Supernido Dinamax en la que se ve una
-cavidad luminosa.                                         |
-| 1647    | 20               | 8           | Appunti misteriosi perduti da Peony.
-Vi è incollata una foto di uno squarcio luminoso
-apertosi in una dynatana max.                                                |
-| 1647    | 20               | 9           | A mysterious clue that Peony seems to have dropped.
-There’s a photo attached to it showing a shining hole
-opening above the Max Lair.                              |
-| 1647    | 20               | 11          | ピオニーが　落とした　不思議なメモ。
-マックスダイ巣穴に　光の穴が
-開かれた　写真が　貼り付けてある。                                                                                                                |
-| 1647    | 20               | 12          | 皮欧尼掉落的神秘笔记。
-上面贴有极巨巢穴
-出现光洞的照片。                                                                                                                                      |
-| 1648    | 20               | 1           | カンムリせつげんに　いくための　パス。
-ブラッシータウンの　えきで
-えきいんさんに　みせよう。                                                                                                                    |
-| 1648    | 20               | 3           | 왕관설원에 갈 수 있는 패스.
-브래시마을역에 있는
-역무원에게 보여주자.                                                                                                                            |
-| 1648    | 20               | 4           | 前往王冠雪原的車票。
-在木桿鎮的車站
-把它出示給站務員看吧。                                                                                                                                     |
-| 1648    | 20               | 5           | Un pass pour se rendre à Couronneige.
-Montrez-le à l’employé de la Gare de Brasswick.                                                                              |
-| 1648    | 20               | 6           | Ein Pass, mit dem du zu den Kronen-Schneelanden
-gelangst. Zeige ihn dem Personal am Brassbury-Bahnhof.                                                             |
-| 1648    | 20               | 7           | Un pase que permite viajar hasta las Nieves de la
-Corona. Hay que mostrárselo al empleado de la
-estación de Pueblo Par.                                            |
-| 1648    | 20               | 8           | Un pass necessario per raggiungere la Landa Corona.
-Mostralo al personale della Stazione di Brassbury.                                                             |
-| 1648    | 20               | 9           | A pass to go to the Crown Tundra. Show it to the rail
-staff at Wedgehurst Station.                                                                                 |
-| 1648    | 20               | 11          | カンムリ雪原に　行くための　パス。
-ブラッシータウンの　駅で
-駅員さんに　見せよう。                                                                                                                         |
-| 1648    | 20               | 12          | 前往王冠雪原的车票。
-在木杆镇的车站，
-把它出示给站务员看吧。                                                                                                                                    |
-| 1649    | 20               | 1           | き　で　ほられた　なぞの　かたまり。
-かけているような　あとが　あり
-なにかの　いちぶ　なのかもしれない。                                                                                                              |
-| 1649    | 20               | 3           | 나무로 만들어진 수수께끼의 덩어리.
-뭔가가 빠진 듯한 흔적이 있는 것으로 보아
-무엇인가의 일부일지도 모른다.                                                                                                       |
-| 1649    | 20               | 4           | 神秘的木頭雕刻。
-上面有著像是缺損的痕跡，
-很可能是某種東西的一部分。                                                                                                                                |
-| 1649    | 20               | 5           | Une mystérieuse sculpture en bois.
-On dirait qu’il lui manque un morceau, comme
-s’il s’agissait d’un fragment de quelque chose.                                    |
-| 1649    | 20               | 6           | Eine rätselhafte Holzschnitzerei, die aussieht, als sei
-etwas von ihr abgebrochen. Vielleicht ist sie Teil von
-etwas anderem.                                      |
-| 1649    | 20               | 7           | Un misterioso objeto hecho de madera. Las marcas que
-presenta parecen indicar que no está completo, como si
-formase parte de algo.                                 |
-| 1649    | 20               | 8           | Un misterioso pezzo di legno intagliato. Ha dei segni
-che fanno pensare a una parte mancante.                                                                      |
-| 1649    | 20               | 9           | A mysterious object made of wood. Part of it seems to
-be chipped. Maybe it’s meant to be part of something.                                                        |
-| 1649    | 20               | 11          | 木で　彫られた　謎の　かたまり。
-欠けているような　跡が　あり
-なにかの一部　なのかもしれない。                                                                                                                   |
-| 1649    | 20               | 12          | 用木头雕制而成的神秘物体。
-上面有看起来缺了什么的痕迹。
-可能是其他物品的一部分。                                                                                                                          |
-| 1650    | 20               | 1           | ほうじょうのおう　から　もらった
-ひとひらの　はなびら。
-あわい　ひかりを　はなっている。                                                                                                                      |
-| 1650    | 20               | 3           | 풍요의 왕에게서 받은 한 장의 꽃잎.
-희미하게 빛을 내고 있다.                                                                                                                                |
-| 1650    | 20               | 4           | 從豐饒之王那裡
-得到的一片花瓣。
-散發著淡淡的光輝。                                                                                                                                         |
-| 1650    | 20               | 5           | Un pétale offert par le Seigneur des récoltes.
-Il en émane une faible lueur.                                                                                       |
-| 1650    | 20               | 6           | Ein Blütenblatt, das du vom König der reichen Ernte
-erhalten hast. Es strahlt ein sanftes Licht aus.                                                               |
-| 1650    | 20               | 7           | Un pétalo recibido del Rey de las Cosechas.
-Emite una luz tenue.                                                                                                   |
-| 1650    | 20               | 8           | Un petalo ricevuto dal Re dell’abbondanza.
-Emana una luce fioca.                                                                                                   |
-| 1650    | 20               | 9           | A single petal that the King of Bountiful Harvests
-gave you. It radiates faint light.                                                                              |
-| 1650    | 20               | 11          | 豊穣の王　から　もらった
-ひとひらの　はなびら。
-淡い　ひかりを　放っている。                                                                                                                            |
-| 1650    | 20               | 12          | 从丰饶之王那里
-得到的一片花瓣。
-散发着朦胧的光辉。                                                                                                                                         |
-| 1651    | 20               | 1           | ほうじょうのおうの　あいば
-ブリザポスの　たてがみ。
-じょうぶで　よく　しなる。                                                                                                                           |
-| 1651    | 20               | 3           | 풍요의 왕의 애마
-블리자포스의 갈기.
-튼튼하고도 매우 유연하다.                                                                                                                                |
-| 1651    | 20               | 4           | 豐饒之王的愛馬
-「雪暴馬」的鬃毛。
-既結實又柔韌。                                                                                                                                          |
-| 1651    | 20               | 5           | Des crins de Blizzeval, le fidèle destrier du Seigneur
-des récoltes. Ils sont à la fois souples et robustes.                                                       |
-| 1651    | 20               | 6           | Eine Haarsträhne von Polaross, dem treuen Ross des
-Königs der reichen Ernte. Sie ist robust und biegsam.                                                           |
-| 1651    | 20               | 7           | Parte de la crin de Glastrier, el amado corcel del Rey de
-las Cosechas. Es flexible y resistente.                                                                  |
-| 1651    | 20               | 8           | Un ciuffo di crini di Glastrier, il fedele destriero
-del Re dell’abbondanza. Sono resistenti e flessibili.                                                         |
-| 1651    | 20               | 9           | Mane hair that belonged to the King of Bountiful
-Harvests’ beloved steed, Glastrier. The hair is strong
-and very flexible.                                         |
-| 1651    | 20               | 11          | 豊穣の王の　愛馬
-ブリザポスの　たてがみ。
-丈夫で　よく　しなる。                                                                                                                                  |
-| 1651    | 20               | 12          | 丰饶之王的爱马
-雪暴马的鬃毛。
-既结实又柔韧。                                                                                                                                            |
-| 1652    | 20               | 1           | ほうじょうのおうの　あいば
-レイスポスの　たてがみ。
-なめらかな　はだざわりだ。                                                                                                                           |
-| 1652    | 20               | 3           | 풍요의 왕의 애마
-레이스포스의 갈기.
-촉감이 매우 부드럽다.                                                                                                                                  |
-| 1652    | 20               | 4           | 豐饒之王的愛馬
-「靈幽馬」的鬃毛。
-觸感柔滑。                                                                                                                                            |
-| 1652    | 20               | 5           | Des crins de Spectreval, le fidèle destrier du Seigneur
-des récoltes. Ils sont soyeux au toucher.                                                                  |
-| 1652    | 20               | 6           | Eine Haarsträhne von Phantoross, dem treuen Ross des
-Königs der reichen Ernte. Sie fühlt sich weich und
-geschmeidig an.                                            |
-| 1652    | 20               | 7           | Parte de la crin de Spectrier, el amado corcel del Rey de
-las Cosechas. Es suave al tacto.                                                                         |
-| 1652    | 20               | 8           | Un ciuffo di crini di Spectrier, il fedele destriero
-del Re dell’abbondanza. Sono morbidi al tatto.                                                                |
-| 1652    | 20               | 9           | Mane hair that belonged to the King of Bountiful
-Harvests’ beloved steed, Spectrier. The hair is very
-smooth to the touch.                                         |
-| 1652    | 20               | 11          | 豊穣の王の　愛馬
-レイスポスの　たてがみ。
-なめらかな　肌ざわりだ。                                                                                                                                 |
-| 1652    | 20               | 12          | 丰饶之王的爱马
-灵幽马的鬃毛。
-摸起来非常柔顺。                                                                                                                                           |
-| 1653    | 20               | 1           | ほうじょうのおうの　あいばが
-このんで　たべる　さくもつ。
-ゆきぶかい　はたけで　そだった。                                                                                                                     |
-| 1653    | 20               | 3           | 풍요의 왕의 애마가
-즐겨 먹는 작물.
-눈 덮인 밭에서 자랐다.                                                                                                                                 |
-| 1653    | 20               | 4           | 豐饒之王的愛馬喜歡吃的農作物。
-生長在積雪深厚的田地。                                                                                                                                        |
-| 1653    | 20               | 5           | Un légume très apprécié du fidèle destrier
-du Seigneur des récoltes. Il a été cultivé
-dans un champ entouré d’une neige épaisse.                                   |
-| 1653    | 20               | 6           | Eine Karotte, die auf einem tief verschneiten Feld
-heranwuchs. Das treue Ross des Königs der reichen
-Ernte mag sie besonders gern.                                 |
-| 1653    | 20               | 7           | Una zanahoria cultivada en un huerto rebosante de
-nieve. Es la hortaliza preferida del amado corcel del
-Rey de las Cosechas.                                       |
-| 1653    | 20               | 8           | Un ortaggio molto apprezzato dal fedele destriero
-del Re dell’abbondanza. Cresce in campi coperti
-di neve.                                                         |
-| 1653    | 20               | 9           | Produce that the King of Bountiful Harvests’ beloved
-steed likes to eat. It grew in a field covered in snow.                                                       |
-| 1653    | 20               | 11          | 豊穣の王の　愛馬が
-好んで　食べる　作物。
-雪深い　畑で　育った。                                                                                                                                  |
-| 1653    | 20               | 12          | 丰饶之王的爱马
-喜欢吃的农作物。
-生长于白雪皑皑的田地。                                                                                                                                       |
-| 1654    | 20               | 1           | ほうじょうのおうの　あいばが
-このんで　たべる　さくもつ。
-うすぐらい　はたけで　そだった。                                                                                                                     |
-| 1654    | 20               | 3           | 풍요의 왕의 애마가
-즐겨 먹는 작물.
-어두컴컴한 밭에서 자랐다.                                                                                                                                |
-| 1654    | 20               | 4           | 豐饒之王的愛馬喜歡吃的農作物。
-生長在光線幽暗的田地。                                                                                                                                        |
-| 1654    | 20               | 5           | Un légume très apprécié du fidèle destrier
-du Seigneur des récoltes. Il a été cultivé
-dans un champ ombragé.                                                       |
-| 1654    | 20               | 6           | Eine Karotte, die auf einem in Schatten getauchten
-Feld heranwuchs. Das treue Ross des Königs der
-reichen Ernte mag sie besonders gern.                            |
-| 1654    | 20               | 7           | Una zanahoria cultivada en un huerto sombrío. Es la
-hortaliza preferida del amado corcel del Rey de las
-Cosechas.                                                  |
-| 1654    | 20               | 8           | Un ortaggio molto apprezzato dal fedele destriero
-del Re dell’abbondanza. Cresce nei campi ombreggiati.                                                            |
-| 1654    | 20               | 9           | Produce that the King of Bountiful Harvests’ beloved
-steed likes to eat. It grew in a gloomy field.                                                                |
-| 1654    | 20               | 11          | 豊穣の王の　愛馬が
-好んで　食べる　作物。
-薄暗い　畑で　育った。                                                                                                                                  |
-| 1654    | 20               | 12          | 丰饶之王的爱马
-喜欢吃的农作物。
-生长于光线暗淡的田地。                                                                                                                                       |
-| 1655    | 20               | 1           | マックスダイすあなで　とれる　なぞの　いし。
-カンムリせつげんの　コレクターに　あげると
-なにか　いいことが　ある。                                                                                                         |
-| 1655    | 20               | 3           | 맥스다이맥스굴에서 얻을 수 있는 수수께끼의 광석.
-왕관설원의 컬렉터에게 주면 좋은 일이 일어난다.                                                                                                             |
-| 1655    | 20               | 4           | 能夠在極巨巢穴找到的神秘石頭。
-把它送給王冠雪原上的收藏家，
-就會有好事發生。                                                                                                                            |
-| 1655    | 20               | 5           | Un minerai mystérieux que l’on trouve dans le Grand
-Antre Dynamax. Vous pourriez avoir une bonne surprise
-en le donnant à un collectionneur de Couronneige.        |
-| 1655    | 20               | 6           | Ein mysteriöses Gestein, das im Dyna-Riesennest
-zu finden ist. Gibst du es einem Sammler in den
-Kronen-Schneelanden, passiert etwas Gutes.                         |
-| 1655    | 20               | 7           | Un extraño mineral que se encuentra en el Supernido
-Dinamax. Tal vez ocurra algo bueno al dárselo a un
-coleccionista de las Nieves de la Corona.                   |
-| 1655    | 20               | 8           | Una pietra misteriosa che si può trovare nella
-dynatana max. Se la consegni a un collezionista
-della Landa Corona, potresti guadagnarci qualcosa.                  |
-| 1655    | 20               | 9           | Mysterious ore that can be obtained in the Max Lair.
-Something good will happen if you give it to a
-collector in the Crown Tundra.                                 |
-| 1655    | 20               | 11          | マックスダイ巣穴で　採れる　謎の石。
-カンムリ雪原の　コレクターに　あげると
-なにか　いいことが　ある。                                                                                                               |
-| 1655    | 20               | 12          | 能够在极巨巢穴找出的神秘石头。
-把它送给王冠雪原的收藏家，
-就会有好事发生。                                                                                                                             |
-| 1656    | 20               | 1           | はたけに　うえて　つかう　タネ。
-うえる　はたけに　よって　できる
-にんじんの　しゅるいが　かわる。                                                                                                                 |
-| 1656    | 20               | 3           | 밭에 심을 수 있는 씨.
-심은 밭에 따라
-자라는 당근의 종류가 달라진다.                                                                                                                           |
-| 1656    | 20               | 4           | 可以種在田地裡的種子。
-長出來的蘿蔔種類會根據
-種下它的田地而不同。                                                                                                                                 |
-| 1656    | 20               | 5           | Des graines à planter dans un champ. L’espèce
-de carotte obtenue varie selon le type de sol.                                                                       |
-| 1656    | 20               | 6           | Samen, die sich auf einem Feld einpflanzen lassen.
-Je nachdem, wie dieses beschaffen ist, wächst dort
-eine andere Karottenart.                                     |
-| 1656    | 20               | 7           | Semillas para plantar en un huerto. Permiten obtener
-un tipo u otro de zanahoria en función del lugar elegido
-para su cultivo.                                     |
-| 1656    | 20               | 8           | Dei semi da piantare in un campo. La varietà di carote
-ottenibili cambia in base al terreno.                                                                       |
-| 1656    | 20               | 9           | Seeds to plant in a field. The kind of carrot you’ll get is
-determined by which field you plant the seeds in.                                                      |
-| 1656    | 20               | 11          | 畑に　植えて　使う　タネ。
-植える　畑に　よって　できる
-にんじんの　種類が　変わる。                                                                                                                        |
-| 1656    | 20               | 12          | 种在田地里使用的种子。
-出产的萝卜种类会根据
-种下的田地而有所不同。                                                                                                                                 |
-| 1657    | 20               | 1           | つうじょうの　とくせいを　もつ
-ポケモンに　つかうと　めずらしい
-とくせいに　かえられる　パッチ。                                                                                                                  |
-| 1657    | 20               | 3           | 일반적인 특성을 가진 포켓몬에게 사용하면
-희귀한 특성으로 바꿀 수 있는 패치.                                                                                                                        |
-| 1657    | 20               | 4           | 使用於擁有常見特性的寶可夢，
-就能把寶可夢的特性改變成
-稀有特性的膏藥。                                                                                                                               |
-| 1657    | 20               | 5           | Un objet qui permet de remplacer le talent ordinaire
-d’un Pokémon par un talent rare.                                                                              |
-| 1657    | 20               | 6           | Ein Pflaster, das es ermöglicht, die reguläre Fähigkeit
-eines Pokémon zu einer seltenen Fähigkeit zu ändern.                                                       |
-| 1657    | 20               | 7           | Parche que permite cambiar la habilidad normal de un
-Pokémon a otra menos común.                                                                                   |
-| 1657    | 20               | 8           | Cerotto che permette a un Pokémon dotato
-di un’abilità comune di cambiarla in una più rara.                                                                        |
-| 1657    | 20               | 9           | A patch that allows a Pokémon with a regular Ability
-to have a rare Ability.                                                                                       |
-| 1657    | 20               | 11          | 通常の　特性を　持つ
-ポケモンに　使うと　珍しい
-特性に　変えられる　パッチ。                                                                                                                            |
-| 1657    | 20               | 12          | 可以改变宝可梦特性的膏药。
-给拥有常见特性的宝可梦使用后，
-其特性会转变为稀有特性。                                                                                                                         |
-| 1658    | 20               | 1           | ひかりに　かざすと　かがやく　ぬの。
-むかし　にんげんが　ほうじょうのおうに
-かんしゃの　きもちとして　ささげていた。                                                                                                        |
-| 1658    | 20               | 3           | 빛에 비추면 반짝이는 천.
-과거에 인간들이 풍요의 왕에게
-감사하는 마음을 담아 바쳤다고 한다.                                                                                                               |
-| 1658    | 20               | 4           | 透光時會熠熠生輝的布料。
-人們曾經將它獻給豐饒之王，
-藉此表達感謝之意。                                                                                                                               |
-| 1658    | 20               | 5           | Une courroie faite d’un tissu qui scintille à la lumière.
-Les humains en offraient autrefois au Seigneur
-des récoltes en gage de leur gratitude.                   |
-| 1658    | 20               | 6           | Zügel gewoben aus Stoff, der leuchtet, wenn man ihn
-ins Licht hält. Einst schenkten die Menschen sie dem
-König der reichen Ernte als Zeichen ihrer Dankbarkeit.    |
-| 1658    | 20               | 7           | Correas elaboradas con un tejido que brilla bajo la luz.
-En el pasado, los humanos las entregaban como ofrenda
-al Rey de las Cosechas en señal de gratitud.        |
-| 1658    | 20               | 8           | Nastri che risplendono se illuminati. Un tempo venivano
-offerti dagli esseri umani al Re dell’abbondanza in
-segno di gratitudine.                                  |
-| 1658    | 20               | 9           | Cords that shine when you hold them up to the light.
-The people of old times presented these to the King of
-Bountiful Harvests to express their gratitude.         |
-| 1658    | 20               | 11          | 光に　かざすと　かがやく　布。
-昔　人間が　豊穣の王に
-感謝の　気持ちとして　捧げていた。                                                                                                                      |
-| 1658    | 20               | 12          | 拿到光下即可生辉的布。
-人们曾经将其进献给
-丰饶之王以表感谢之意。                                                                                                                                  |
+|  item_id | version_group_id | language_id | flavor_text |
+|----------|------------------|-------------|-------------|
+|  660       17 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |
+|  660       17 |  |  9 |      The user attacks everything around it by swamping its surroundings with a giant wave. |
+|  660       17 |  |  11 |     大きな　波で　自分の 周りに　いるものを　攻撃する。 |
+|  660       17 |  |  12 |     利用大浪 攻击自己周围所有的宝可梦。 |
+|  660       18 |  |  1 |      おおきな　なみで　じぶんの まわりに　いるものを　こうげきする。 |
+|  660       18 |  |  3 |      큰 파도로 자신의 주위에 있는 포켓몬을 공격한다. |
+|  660       18 |  |  4 |      使用大浪 攻擊自己周圍所有的寶可夢。 |
+|  660       18 |  |  5 |      Une énorme vague s'abat sur le champ de bataille et inflige des dégâts à tous les Pokémon autour du lanceur. |
+|  660       18 |  |  6 |      Anwender greift mit einer gewaltigen Welle alle Pokémon in seiner Umgebung an. |
+|  660       18 |  |  7 |      Inunda el terreno de combate con una ola gigante. |
+|  660       18 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |
+|  660       18 |  |  9 |      The user attacks everything around it by swamping its surroundings with a giant wave. |
+|  660       18 |  |  11 |     大きな　波で　自分の 周りに　いるものを　攻撃する。 |
+|  660       18 |  |  12 |     利用大浪 攻击自己周围所有的宝可梦。 |
+|  660       19 |  |  1 |      おおきな　なみで　じぶんの まわりに　いるものを　こうげきする。 |
+|  660       19 |  |  3 |      큰 파도로 자신의 주위에 있는 포켓몬을 공격한다. |
+|  660       19 |  |  4 |      使用大浪 攻擊自己周圍所有的寶可夢。 |
+|  660       19 |  |  5 |      Une énorme vague s'abat sur le champ de bataille et inflige des dégâts à tous les Pokémon autour du lanceur. |
+|  660       19 |  |  6 |      Anwender greift mit einer gewaltigen Welle alle Pokémon in seiner Umgebung an. |
+|  660       19 |  |  7 |      Inunda el terreno de combate con una ola gigante. |
+|  660       19 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |
+|  660       19 |  |  9 |      The user attacks everything around it by swamping its surroundings with a giant wave. |
+|  660       19 |  |  11 |     大きな　波で　自分の 周りに　いるものを　攻撃する。 |
+|  660       19 |  |  12 |     利用大浪 攻击自己周围所有的宝可梦。 |
+|  660       20 |  |  1 |      あいての　ＨＰが かならず　１だけ　のこる　ように てかげん　して　こうげきする。 |
+|  660       20 |  |  3 |      상대의 HP가 반드시 1만 남도록 조절하여 공격한다. |
+|  660       20 |  |  4 |      手下留情地攻擊對手， 一定會讓對手剩下１ＨＰ。 |
+|  660       20 |  |  5 |      Le lanceur retient ses coups pour que l'ennemi garde au moins 1 PV et ne tombe pas K.O. |
+|  660       20 |  |  6 |      Ein Angriff, der dem Ziel zumindest 1 KP lässt. |
+|  660       20 |  |  7 |      Ataque moderado que no debilita al objetivo y le deja al menos 1 PS. |
+|  660       20 |  |  8 |      Chi la usa trattiene il colpo per impedire al bersaglio di andare KO, lasciandolo con almeno un PS. |
+|  660       20 |  |  9 |      A restrained attack that prevents the target from fainting. The target is left with at least 1 HP. |
+|  660       20 |  |  11 |     相手の　ＨＰが 必ず　１だけ　残るように 手加減して　攻撃する。 |
+|  660       20 |  |  12 |     对手的ＨＰ 至少会留下１ＨＰ， 如此般手下留情地攻击。 |
+|  661       11 |  |  5 |      Le lanceur hurle sur l'ennemi. Baisse l'Atq. Spé. de l'ennemi. |
+|  661       11 |  |  9 |      The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease. |
+|  661       14 |  |  9 |      The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease. |
+|  661       15 |  |  1 |      まくしたてる　ように　どなりつけて あいての　とくこうを　さげる。 |
+|  661       15 |  |  3 |      호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다. |
+|  661       15 |  |  5 |      Le lanceur hurle sur l'ennemi. Baisse l'Attaque Spéciale de l'ennemi. |
+|  661       15 |  |  6 |      Gibt Gegnern mit einer nicht enden wollenden Standpauke was auf die Ohren und senkt dabei deren Spezial-Angriff. |
+|  661       15 |  |  7 |      Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil. |
+|  661       15 |  |  8 |      Chi la usa si mette a urlare per un po', riducendo l'Attacco Speciale dei nemici. |
+|  661       15 |  |  9 |      The user yells as if it's ranting about something, which lowers the Sp. Atk stat of opposing Pokémon. |
+|  661       15 |  |  11 |     まくしたてる　ように　怒鳴りつけて 相手の　特攻を　さげる。 |
+|  661       17 |  |  1 |      まくしたてる　ように　どなりつけて あいての　とくこうを　さげる。 |
+|  661       17 |  |  3 |      호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다. |
+|  661       17 |  |  4 |      沒完沒了地向對手大聲咆哮， 降低對手的特攻。 |
+|  661       17 |  |  5 |      Le lanceur hurle sur l'ennemi. Baisse l'Attaque Spéciale de l'ennemi. |
+|  661       17 |  |  6 |      Gibt Gegnern mit einer nicht enden wollenden Standpauke was auf die Ohren und senkt dabei deren Spezial-Angriff. |
+|  661       17 |  |  7 |      Ataca con un chillido desagradable que baja el Ataque Especial del rival. |
+|  661       17 |  |  8 |      Chi la usa si mette a urlare per un po', riducendo l'Attacco Speciale dei nemici intorno. |
+|  661       17 |  |  9 |      The user yells as if it's ranting about something, which lowers the Sp. Atk stat of opposing Pokémon. |
+|  661       17 |  |  11 |     まくしたてる　ように　怒鳴りつけて 相手の　特攻を　さげる。 |
+|  661       17 |  |  12 |     没完没了地大声斥责， 从而降低对手的特攻。 |
+|  661       18 |  |  1 |      まくしたてる　ように　どなりつけて あいての　とくこうを　さげる。 |
+|  661       18 |  |  3 |      호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다. |
+|  661       18 |  |  4 |      沒完沒了地向對手大聲咆哮， 降低對手的特攻。 |
+|  661       18 |  |  5 |      Le lanceur hurle sur l'ennemi. Baisse l'Attaque Spéciale de l'ennemi. |
+|  661       18 |  |  6 |      Gibt Gegnern mit einer nicht enden wollenden Standpauke was auf die Ohren und senkt dabei deren Spezial-Angriff. |
+|  661       18 |  |  7 |      Ataca con un chillido desagradable que baja el Ataque Especial del rival. |
+|  661       18 |  |  8 |      Chi la usa si mette a urlare per un po', riducendo l'Attacco Speciale dei nemici intorno. |
+|  661       18 |  |  9 |      The user yells as if it's ranting about something, which lowers the Sp. Atk stat of opposing Pokémon. |
+|  661       18 |  |  11 |     まくしたてる　ように　怒鳴りつけて 相手の　特攻を　さげる。 |
+|  661       18 |  |  12 |     没完没了地大声斥责， 从而降低对手的特攻。 |
+|  661       19 |  |  1 |      まくしたてる　ように　どなりつけて あいての　とくこうを　さげる。 |
+|  661       19 |  |  3 |      호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다. |
+|  661       19 |  |  4 |      沒完沒了地向對手大聲咆哮， 降低對手的特攻。 |
+|  661       19 |  |  5 |      Le lanceur hurle sur l'ennemi. Baisse l'Attaque Spéciale de l'ennemi. |
+|  661       19 |  |  6 |      Gibt Gegnern mit einer nicht enden wollenden Standpauke was auf die Ohren und senkt dabei deren Spezial-Angriff. |
+|  661       19 |  |  7 |      Ataca con un chillido desagradable que baja el Ataque Especial del rival. |
+|  661       19 |  |  8 |      Chi la usa si mette a urlare per un po', riducendo l'Attacco Speciale dei nemici intorno. |
+|  661       19 |  |  9 |      The user yells as if it's ranting about something, which lowers the Sp. Atk stat of opposing Pokémon. |
+|  661       19 |  |  11 |     まくしたてる　ように　怒鳴りつけて 相手の　特攻を　さげる。 |
+|  661       19 |  |  12 |     没完没了地大声斥责， 从而降低对手的特攻。 |
+|  661       20 |  |  1 |      そらをも　きりさく くうきの　やいばで　こうげきする。 あいてを　ひるませる　ことが　ある。 |
+|  661       20 |  |  3 |      하늘까지 베어 가르는 공기의 칼날로 공격한다. 상대를 풀죽게 만들 때가 있다. |
+|  661       20 |  |  4 |      用連天空也能劈開的 空氣之刃進行攻擊。 有時會使對手畏縮。 |
+|  661       20 |  |  5 |      Le lanceur attaque avec une lame d'air qui fend tout. Peut aussi apeurer l'ennemi. |
+|  661       20 |  |  6 |      Das Ziel wird mit einer Luftklinge angegriffen. Ziel schreckt eventuell zurück. |
+|  661       20 |  |  7 |      Ataca con un viento afilado que incluso corta el aire. También puede amedrentar al objetivo. |
+|  661       20 |  |  8 |      Chi la usa attacca con un vento tagliente che squarcia il cielo. Può anche far tentennare il Pokémon colpito. |
+|  661       20 |  |  9 |      The user attacks with a blade of air that slices even the sky. This may also make the target flinch. |
+|  661       20 |  |  11 |     空をも　切り裂く 空気の　刃で　攻撃する。 相手を　ひるませることが　ある。 |
+|  661       20 |  |  12 |     用连天空也能劈开的 空气之刃进行攻击。 有时会使对手畏缩。 |
+|  662       11 |  |  5 |      Transmetteur high-tech permettant à 4 personnes de communiquer par le son et l'image. |
+|  662       11 |  |  9 |      A high-tech transceiver with a camera function. It allows up to four-way calls. |
+|  662       14 |  |  9 |      A high-tech transceiver with a camera function. It allows up to four-way calls. |
+|  662       15 |  |  1 |      さいだい　４にんで　つうわができる テレビカメラきのうつきの さいしんがた　トランシーバー。 |
+|  662       15 |  |  3 |      영상 통화 기능이 내장된 최신식 무전기. 최대 4명이 동시에 통화할 수 있다. |
+|  662       15 |  |  5 |      Un transmetteur high-tech permettant à quatre personnes de communiquer par le son et l'image. |
+|  662       15 |  |  6 |      Ein hochmodernes Gerät, mit dem bis zu 4 Personen miteinander kommunizieren können. Es ermöglicht sogar Video-Chat! |
+|  662       15 |  |  7 |      Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar ataques de estado. |
+|  662       15 |  |  8 |      Ricetrasmittente all'avanguardia che permette di fare videochiamate con un gruppo massimo di quattro persone. |
+|  662       15 |  |  9 |      A high-tech transceiver with a camera function. It allows up to four-way calls. |
+|  662       15 |  |  11 |     最大４人で　通話ができる テレビカメラ機能つきの 最新型トランシーバー。 |
+|  662       20 |  |  1 |      さいだい　４にんで　つうわができる テレビカメラきのうつきの さいしんがた　トランシーバー。 |
+|  662       20 |  |  3 |      영상 통화 기능이 내장된 최신식 무전기. 최대 4명이 동시에 통화할 수 있다. |
+|  662       20 |  |  4 |      附影像鏡頭功能， 最多能讓４人進行通話的 最新型對講機。 |
+|  662       20 |  |  5 |      Un transmetteur high-tech permettant à quatre personnes de communiquer par le son et l'image. |
+|  662       20 |  |  6 |      Ein hochmodernes Gerät, mit dem bis zu vier Personen miteinander kommunizieren können. Es ermöglicht sogar Video-Chat! |
+|  662       20 |  |  7 |      Comunicador de alta tecnología con cámara que permite hablar a cuatro personas a la vez. |
+|  662       20 |  |  8 |      Ricetrasmittente all'avanguardia che permette di fare videochiamate con un gruppo massimo di quattro persone. |
+|  662       20 |  |  9 |      A high-tech transceiver with a camera function. It allows up to four-way calls. |
+|  662       20 |  |  11 |     最大４人で　通話ができる テレビカメラ機能つきの 最新型トランシーバー。 |
+|  662       20 |  |  12 |     带摄像头功能， 最多能让４人进行通话的 最新型对讲机。 |
+|  663       11 |  |  5 |      Une pierre fantomatique. |
+|  663       11 |  |  9 |      A rare stone. |
+|  663       14 |  |  9 |      A rare stone. |
+|  663       15 |  |  1 |      まぼろしの　いし。 |
+|  663       15 |  |  3 |      환상의 돌. |
+|  663       15 |  |  5 |      Une pierre fantomatique. |
+|  663       15 |  |  6 |      Ein mysteriöser Stein. |
+|  663       15 |  |  7 |      Este aparato permite recibir vídeos holográficos y visualizarlos en cualquier momento. |
+|  663       15 |  |  8 |      Una pietra magica. |
+|  663       15 |  |  9 |      A rare stone. |
+|  663       15 |  |  11 |     幻の　石。 |
+|  664       11 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       11 |  |  9 |      An important letter which Wingull delivers. |
+|  664       14 |  |  9 |      An important letter which Wingull delivers. |
+|  664       15 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  664       15 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  664       15 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       15 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  664       15 |  |  7 |      Una carta sutilmente perfumada que el Profesor Ciprés le ha escrito a tu madre. |
+|  664       15 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  664       15 |  |  9 |      An important letter that Wingull delivers. |
+|  664       15 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  664       17 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  664       17 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  664       17 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  664       17 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       17 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  664       17 |  |  7 |      Carta importante que entrega Wingull. |
+|  664       17 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  664       17 |  |  9 |      An important letter that Wingull delivers. |
+|  664       17 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  664       17 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  664       18 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  664       18 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  664       18 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  664       18 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       18 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  664       18 |  |  7 |      Carta importante que entrega Wingull. |
+|  664       18 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  664       18 |  |  9 |      An important letter that Wingull delivers. |
+|  664       18 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  664       18 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  664       19 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  664       19 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  664       19 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  664       19 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       19 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  664       19 |  |  7 |      Carta importante que entrega Wingull. |
+|  664       19 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  664       19 |  |  9 |      An important letter that Wingull delivers. |
+|  664       19 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  664       19 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  664       20 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  664       20 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  664       20 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  664       20 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  664       20 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  664       20 |  |  7 |      Carta importante que entrega Wingull. |
+|  664       20 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  664       20 |  |  9 |      An important letter that Wingull delivers. |
+|  664       20 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  664       20 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  665       11 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       11 |  |  9 |      An important letter which Wingull delivers. |
+|  665       14 |  |  9 |      An important letter which Wingull delivers. |
+|  665       15 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  665       15 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  665       15 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       15 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  665       15 |  |  7 |      Ruedas que se acoplan a la suela del calzado y te permiten ir más rápido y realizar piruetas espectaculares. |
+|  665       15 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  665       15 |  |  9 |      An important letter that Wingull delivers. |
+|  665       15 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  665       17 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  665       17 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  665       17 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  665       17 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       17 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  665       17 |  |  7 |      Carta importante que entrega Wingull. |
+|  665       17 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  665       17 |  |  9 |      An important letter that Wingull delivers. |
+|  665       17 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  665       17 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  665       18 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  665       18 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  665       18 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  665       18 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       18 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  665       18 |  |  7 |      Carta importante que entrega Wingull. |
+|  665       18 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  665       18 |  |  9 |      An important letter that Wingull delivers. |
+|  665       18 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  665       18 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  665       19 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  665       19 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  665       19 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  665       19 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       19 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  665       19 |  |  7 |      Carta importante que entrega Wingull. |
+|  665       19 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  665       19 |  |  9 |      An important letter that Wingull delivers. |
+|  665       19 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  665       19 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  665       20 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  665       20 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  665       20 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  665       20 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  665       20 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  665       20 |  |  7 |      Carta importante que entrega Wingull. |
+|  665       20 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  665       20 |  |  9 |      An important letter that Wingull delivers. |
+|  665       20 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  665       20 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  666       11 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       11 |  |  9 |      An important letter which Wingull delivers. |
+|  666       14 |  |  9 |      An important letter which Wingull delivers. |
+|  666       15 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  666       15 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  666       15 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       15 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  666       15 |  |  7 |      Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon. |
+|  666       15 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  666       15 |  |  9 |      An important letter that Wingull delivers. |
+|  666       15 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  666       17 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  666       17 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  666       17 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  666       17 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       17 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  666       17 |  |  7 |      Carta importante que entrega Wingull. |
+|  666       17 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  666       17 |  |  9 |      An important letter that Wingull delivers. |
+|  666       17 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  666       17 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  666       18 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  666       18 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  666       18 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  666       18 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       18 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  666       18 |  |  7 |      Carta importante que entrega Wingull. |
+|  666       18 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  666       18 |  |  9 |      An important letter that Wingull delivers. |
+|  666       18 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  666       18 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  666       19 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  666       19 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  666       19 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  666       19 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       19 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  666       19 |  |  7 |      Carta importante que entrega Wingull. |
+|  666       19 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  666       19 |  |  9 |      An important letter that Wingull delivers. |
+|  666       19 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  666       19 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  666       20 |  |  1 |      キャモメが　はいたつ　している たいせつな　てがみ。 |
+|  666       20 |  |  3 |      갈모매가 배달하는 소중한 편지. |
+|  666       20 |  |  4 |      長翅鷗投遞的 重要信件。 |
+|  666       20 |  |  5 |      Un courrier important transporté par un Goélise. |
+|  666       20 |  |  6 |      Eine wichtige Briefpost, überbracht von Wingull. |
+|  666       20 |  |  7 |      Carta importante que entrega Wingull. |
+|  666       20 |  |  8 |      Un'importante lettera che Wingull deve consegnare. |
+|  666       20 |  |  9 |      An important letter that Wingull delivers. |
+|  666       20 |  |  11 |     キャモメが　配達している たいせつな　手紙。 |
+|  666       20 |  |  12 |     长翅鸥投递的 重要信件。 |
+|  668       11 |  |  5 |      Objet à tenir. Joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       11 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once. |
+|  668       14 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once. |
+|  668       15 |  |  1 |      ドラゴンの　タイプの　ジュエル。 もたせると　いちどだけ　ドラゴンの わざの　いりょくが　つよまる。 |
+|  668       15 |  |  3 |      드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다. |
+|  668       15 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       15 |  |  6 |      Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache. |
+|  668       15 |  |  7 |      Extraña seta que desprende un agradable aroma. Puede alcanzar un alto precio en las tiendas. |
+|  668       15 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Drago. |
+|  668       15 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time. |
+|  668       15 |  |  11 |     ドラゴンの　タイプの　ジュエル。 持たせると　１度だけ　ドラゴンの 技の　威力が　強まる。 |
+|  668       17 |  |  1 |      ドラゴンの　タイプの　ジュエル。 もたせると　いちどだけ　ドラゴンの わざの　いりょくが　つよまる。 |
+|  668       17 |  |  3 |      드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다. |
+|  668       17 |  |  4 |      龍屬性的寶石。 攜帶後，龍屬性招式的 威力會僅增強１次。 |
+|  668       17 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       17 |  |  6 |      Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache. |
+|  668       17 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon. |
+|  668       17 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Drago. |
+|  668       17 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time. |
+|  668       17 |  |  11 |     ドラゴンの　タイプの　ジュエル。 持たせると　１度だけ　ドラゴンの 技の　威力が　強まる。 |
+|  668       17 |  |  12 |     龙属性的宝石。 携带后，龙属性的 招式威力仅会增强１次。 |
+|  668       18 |  |  1 |      ドラゴンの　タイプの　ジュエル。 もたせると　いちどだけ　ドラゴンの わざの　いりょくが　つよまる。 |
+|  668       18 |  |  3 |      드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다. |
+|  668       18 |  |  4 |      龍屬性的寶石。 攜帶後，龍屬性招式的 威力會僅增強１次。 |
+|  668       18 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       18 |  |  6 |      Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache. |
+|  668       18 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon. |
+|  668       18 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Drago. |
+|  668       18 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time. |
+|  668       18 |  |  11 |     ドラゴンの　タイプの　ジュエル。 持たせると　１度だけ　ドラゴンの 技の　威力が　強まる。 |
+|  668       18 |  |  12 |     龙属性的宝石。 携带后，龙属性的 招式威力仅会增强１次。 |
+|  668       19 |  |  1 |      ドラゴンの　タイプの　ジュエル。 もたせると　いちどだけ　ドラゴンの わざの　いりょくが　つよまる。 |
+|  668       19 |  |  3 |      드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다. |
+|  668       19 |  |  4 |      龍屬性的寶石。 攜帶後，龍屬性招式的 威力會僅增強１次。 |
+|  668       19 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       19 |  |  6 |      Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache. |
+|  668       19 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon. |
+|  668       19 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Drago. |
+|  668       19 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time. |
+|  668       19 |  |  11 |     ドラゴンの　タイプの　ジュエル。 持たせると　１度だけ　ドラゴンの 技の　威力が　強まる。 |
+|  668       19 |  |  12 |     龙属性的宝石。 携带后，龙属性的 招式威力仅会增强１次。 |
+|  668       20 |  |  1 |      ドラゴンの　タイプの　ジュエル。 もたせると　いちどだけ　ドラゴンの わざの　いりょくが　つよまる。 |
+|  668       20 |  |  3 |      드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다. |
+|  668       20 |  |  4 |      龍屬性的寶石。 攜帶後，龍屬性招式的 威力會僅增強１次。 |
+|  668       20 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Dragon. |
+|  668       20 |  |  6 |      Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache. |
+|  668       20 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon. |
+|  668       20 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Drago. |
+|  668       20 |  |  9 |      A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time. |
+|  668       20 |  |  11 |     ドラゴンの　タイプの　ジュエル。 持たせると　１度だけ　ドラゴンの 技の　威力が　強まる。 |
+|  668       20 |  |  12 |     龙属性的宝石。 携带后，龙属性的 招式威力仅会增强１次。 |
+|  669       11 |  |  5 |      Objet à tenir. Joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       11 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once. |
+|  669       14 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once. |
+|  669       15 |  |  1 |      ノーマルの　タイプの　ジュエル。 もたせると　いちどだけ　ノーマルの わざの　いりょくが　つよまる。 |
+|  669       15 |  |  3 |      노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다. |
+|  669       15 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       15 |  |  6 |      Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal. |
+|  669       15 |  |  7 |      Fragmento de un cometa caído al suelo al atravesar la atmósfera. Muy valorado por los coleccionistas. |
+|  669       15 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Normale. |
+|  669       15 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time. |
+|  669       15 |  |  11 |     ノーマルの　タイプの　ジュエル。 持たせると　１度だけ　ノーマルの 技の　威力が　強まる。 |
+|  669       17 |  |  1 |      ノーマルの　タイプの　ジュエル。 もたせると　いちどだけ　ノーマルの わざの　いりょくが　つよまる。 |
+|  669       17 |  |  3 |      노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다. |
+|  669       17 |  |  4 |      一般屬性的寶石。 攜帶後，一般屬性招式的 威力會僅增強１次。 |
+|  669       17 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       17 |  |  6 |      Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal. |
+|  669       17 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon. |
+|  669       17 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Normale. |
+|  669       17 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time. |
+|  669       17 |  |  11 |     ノーマルの　タイプの　ジュエル。 持たせると　１度だけ　ノーマルの 技の　威力が　強まる。 |
+|  669       17 |  |  12 |     一般属性的宝石。 携带后，一般属性的 招式威力仅会增强１次。 |
+|  669       18 |  |  1 |      ノーマルの　タイプの　ジュエル。 もたせると　いちどだけ　ノーマルの わざの　いりょくが　つよまる。 |
+|  669       18 |  |  3 |      노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다. |
+|  669       18 |  |  4 |      一般屬性的寶石。 攜帶後，一般屬性招式的 威力會僅增強１次。 |
+|  669       18 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       18 |  |  6 |      Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal. |
+|  669       18 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon. |
+|  669       18 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Normale. |
+|  669       18 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time. |
+|  669       18 |  |  11 |     ノーマルの　タイプの　ジュエル。 持たせると　１度だけ　ノーマルの 技の　威力が　強まる。 |
+|  669       18 |  |  12 |     一般属性的宝石。 携带后，一般属性的 招式威力仅会增强１次。 |
+|  669       19 |  |  1 |      ノーマルの　タイプの　ジュエル。 もたせると　いちどだけ　ノーマルの わざの　いりょくが　つよまる。 |
+|  669       19 |  |  3 |      노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다. |
+|  669       19 |  |  4 |      一般屬性的寶石。 攜帶後，一般屬性招式的 威力會僅增強１次。 |
+|  669       19 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       19 |  |  6 |      Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal. |
+|  669       19 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon. |
+|  669       19 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Normale. |
+|  669       19 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time. |
+|  669       19 |  |  11 |     ノーマルの　タイプの　ジュエル。 持たせると　１度だけ　ノーマルの 技の　威力が　強まる。 |
+|  669       19 |  |  12 |     一般属性的宝石。 携带后，一般属性的 招式威力仅会增强１次。 |
+|  669       20 |  |  1 |      ノーマルの　タイプの　ジュエル。 もたせると　いちどだけ　ノーマルの わざの　いりょくが　つよまる。 |
+|  669       20 |  |  3 |      노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다. |
+|  669       20 |  |  4 |      一般屬性的寶石。 攜帶後，一般屬性招式的 威力會僅增強１次。 |
+|  669       20 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Normal. |
+|  669       20 |  |  6 |      Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal. |
+|  669       20 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon. |
+|  669       20 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Normale. |
+|  669       20 |  |  9 |      A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time. |
+|  669       20 |  |  11 |     ノーマルの　タイプの　ジュエル。 持たせると　１度だけ　ノーマルの 技の　威力が　強まる。 |
+|  669       20 |  |  12 |     一般属性的宝石。 携带后，一般属性的 招式威力仅会增强１次。 |
+|  670       14 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       15 |  |  1 |      かくとくした　メダルを　しゅうのうし メダルについての　じょうほうを きろくする　はこがたの　きかい。 |
+|  670       15 |  |  3 |      획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계. |
+|  670       15 |  |  5 |      Une boîte qui permet de ranger les Médailles et d'enregistrer des informations à leur sujet. |
+|  670       15 |  |  6 |      Ein Gerät in Form einer Box, in der Medaillen aufbewahrt und Informationen dazu gespeichert werden. |
+|  670       15 |  |  7 |      Un dulce a base de suave y esponjosa nata montada. A algunos Pokémon les encanta. |
+|  670       15 |  |  8 |      Apparecchio rettangolare usato per custodire i Premi ottenuti e tutte le informazioni che li riguardano. |
+|  670       15 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       15 |  |  11 |     獲得した　メダルを　収納し メダルについての　情報を 記録する　箱型の　機械。 |
+|  670       17 |  |  1 |      かくとくした　メダルを　しゅうのうし メダルについての　じょうほうを きろくする　はこがたの　きかい。 |
+|  670       17 |  |  3 |      획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계. |
+|  670       17 |  |  4 |      可以放入獲得的獎牌， 並記錄獎牌資訊的 箱形機器。 |
+|  670       17 |  |  5 |      Une boîte qui permet de ranger les Médailles et d'enregistrer des informations à leur sujet. |
+|  670       17 |  |  6 |      Ein Gerät in Form einer Box, in der Medaillen aufbewahrt und Informationen dazu gespeichert werden. |
+|  670       17 |  |  7 |      Un dispositivo con forma de caja que almacena las insignias y la información relacionada. |
+|  670       17 |  |  8 |      Apparecchio rettangolare usato per custodire i Premi ottenuti e tutte le informazioni che li riguardano. |
+|  670       17 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       17 |  |  11 |     獲得した　メダルを　収納し メダルについての　情報を 記録する　箱型の　機械。 |
+|  670       17 |  |  12 |     可以放入获得的奖牌， 并记录奖牌信息的箱形机器。 |
+|  670       18 |  |  1 |      かくとくした　メダルを　しゅうのうし メダルについての　じょうほうを きろくする　はこがたの　きかい。 |
+|  670       18 |  |  3 |      획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계. |
+|  670       18 |  |  4 |      可以放入獲得的獎牌， 並記錄獎牌資訊的 箱形機器。 |
+|  670       18 |  |  5 |      Une boîte qui permet de ranger les Médailles et d'enregistrer des informations à leur sujet. |
+|  670       18 |  |  6 |      Ein Gerät in Form einer Box, in der Medaillen aufbewahrt und Informationen dazu gespeichert werden. |
+|  670       18 |  |  7 |      Un dispositivo con forma de caja que almacena las insignias y la información relacionada. |
+|  670       18 |  |  8 |      Apparecchio rettangolare usato per custodire i Premi ottenuti e tutte le informazioni che li riguardano. |
+|  670       18 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       18 |  |  11 |     獲得した　メダルを　収納し メダルについての　情報を 記録する　箱型の　機械。 |
+|  670       18 |  |  12 |     可以放入获得的奖牌， 并记录奖牌信息的箱形机器。 |
+|  670       19 |  |  1 |      かくとくした　メダルを　しゅうのうし メダルについての　じょうほうを きろくする　はこがたの　きかい。 |
+|  670       19 |  |  3 |      획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계. |
+|  670       19 |  |  4 |      可以放入獲得的獎牌， 並記錄獎牌資訊的 箱形機器。 |
+|  670       19 |  |  5 |      Une boîte qui permet de ranger les Médailles et d'enregistrer des informations à leur sujet. |
+|  670       19 |  |  6 |      Ein Gerät in Form einer Box, in der Medaillen aufbewahrt und Informationen dazu gespeichert werden. |
+|  670       19 |  |  7 |      Un dispositivo con forma de caja que almacena las insignias y la información relacionada. |
+|  670       19 |  |  8 |      Apparecchio rettangolare usato per custodire i Premi ottenuti e tutte le informazioni che li riguardano. |
+|  670       19 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       19 |  |  11 |     獲得した　メダルを　収納し メダルについての　情報を 記録する　箱型の　機械。 |
+|  670       19 |  |  12 |     可以放入获得的奖牌， 并记录奖牌信息的箱形机器。 |
+|  670       20 |  |  1 |      かくとくした　メダルを　しゅうのうし メダルについての　じょうほうを きろくする　はこがたの　きかい。 |
+|  670       20 |  |  3 |      획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계. |
+|  670       20 |  |  4 |      可以放入獲得的獎牌， 並記錄獎牌資訊的 箱形機器。 |
+|  670       20 |  |  5 |      Une boîte qui permet de ranger les Médailles et d'enregistrer des informations à leur sujet. |
+|  670       20 |  |  6 |      Ein Gerät in Form einer Box, in der Medaillen aufbewahrt und Informationen dazu gespeichert werden. |
+|  670       20 |  |  7 |      Un dispositivo con forma de caja que almacena las insignias y la información relacionada. |
+|  670       20 |  |  8 |      Apparecchio rettangolare usato per custodire i Premi ottenuti e tutte le informazioni che li riguardano. |
+|  670       20 |  |  9 |      A box-shaped machine that stores Medals and Medal information. |
+|  670       20 |  |  11 |     獲得した　メダルを　収納し メダルについての　情報を 記録する　箱型の　機械。 |
+|  670       20 |  |  12 |     可以放入获得的奖牌， 并记录奖牌信息的箱形机器。 |
+|  671       14 |  |  9 |      A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning. |
+|  671       15 |  |  1 |      もとは　ひとつだったと　いわれる キュレムと　あるポケモンを がったいさせる　いっついの　くさび。 |
+|  671       15 |  |  3 |      원래는 하나였다고 전해지는 큐레무와 어떤 포켓몬을 합체시키는 한 쌍의 쐐기. |
+|  671       15 |  |  5 |      Un outil qui permet la fusiorption de Kyurem et d'un autre Pokémon avec lequel il ne faisait qu'un à l'origine. |
+|  671       15 |  |  6 |      Ein Keil, der Kyurem und ein gewisses anderes Pokémon, die vermeintlich einst eins gewesen sind, vereinigt. |
+|  671       15 |  |  7 |      Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a ciertos Pokémon les encanta. |
+|  671       15 |  |  8 |      Cuneo che permette di fondere Kyurem con il Pokémon al quale era unito in origine. |
+|  671       15 |  |  9 |      A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning. |
+|  671       15 |  |  11 |     元は　ひとつだったと　いわれる キュレムと　あるポケモンを 合体させる　一対の　くさび。 |
+|  671       20 |  |  1 |      もとは　ひとつだったと　いわれる キュレムと　あるポケモンを がったいさせる　いっついの　くさび。 |
+|  671       20 |  |  3 |      원래는 하나였다고 전해지는 큐레무와 어떤 포켓몬을 합체시키는 한 쌍의 쐐기. |
+|  671       20 |  |  4 |      能讓據說原是一體的酋雷姆和 某寶可夢合體的一對楔子。 |
+|  671       20 |  |  5 |      Un outil qui permet la fusiorption de Kyurem et d'un autre Pokémon avec lequel il ne faisait qu'un à l'origine. |
+|  671       20 |  |  6 |      Ein Keil, der Kyurem und ein gewisses anderes Pokémon, die vermeintlich einst eins gewesen sind, vereinigt. |
+|  671       20 |  |  7 |      Punta que permite fusionar a Kyurem con cierto Pokémon con el que, originariamente, formaba un solo ser. |
+|  671       20 |  |  8 |      Cuneo che permette di fondere Kyurem con il Pokémon al quale era unito in origine. |
+|  671       20 |  |  9 |      A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning. |
+|  671       20 |  |  11 |     元は　ひとつだったと　いわれる キュレムと　あるポケモンを 合体させる　一対の　くさび。 |
+|  671       20 |  |  12 |     据说是能让原本为一体的 酋雷姆和某宝可梦 合体的一对楔子。 |
+|  673       14 |  |  9 |      A permit needed to enter the Nature Preserve. Only a few know about this place. |
+|  673       15 |  |  1 |      わずかな　ひとしか　しらない しぜんほごくに　はいるために ひつような　ライセンスカード。 |
+|  673       15 |  |  3 |      소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드. |
+|  673       15 |  |  5 |      Un permis nécessaire pour pénétrer dans la Réserve Naturelle, lieu protégé des foules modernes. |
+|  673       15 |  |  6 |      Eine Genehmigung in Form einer Karte, die den Zutritt ins Naturschutzgebiet ermöglicht. Nur wenige kennen den Ort. |
+|  673       15 |  |  7 |      Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo. |
+|  673       15 |  |  8 |      Tessera che permette di accedere a una Riserva Naturale conosciuta da pochi. |
+|  673       15 |  |  9 |      A permit that is needed to enter the Nature Preserve. Not many know about it. |
+|  673       15 |  |  11 |     わずかな　人しか　知らない 自然保護区に　入るために 必要な　ライセンスカード。 |
+|  673       17 |  |  1 |      わずかな　ひとしか　しらない しぜんほごくに　はいるために ひつような　ライセンスカード。 |
+|  673       17 |  |  3 |      소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드. |
+|  673       17 |  |  4 |      進入只有極少數人 才知道的自然保護區時， 所需的授權卡。 |
+|  673       17 |  |  5 |      Un permis nécessaire pour pénétrer dans la Réserve Naturelle, lieu protégé des foules modernes. |
+|  673       17 |  |  6 |      Eine Genehmigung in Form einer Karte, die den Zutritt ins Naturschutzgebiet ermöglicht. Nur wenige kennen den Ort. |
+|  673       17 |  |  7 |      Permiso necesario para acceder a la Reserva Natural, lugar que solo unos pocos conocen. |
+|  673       17 |  |  8 |      Tessera che permette di accedere a una Riserva Naturale conosciuta da pochi. |
+|  673       17 |  |  9 |      A permit that is needed to enter the Nature Preserve. Not many know about it. |
+|  673       17 |  |  11 |     わずかな　人しか　知らない 自然保護区に　入るために 必要な　ライセンスカード。 |
+|  673       17 |  |  12 |     只有极少数人才知道的， 进入自然保护区所需的授权卡。 |
+|  673       18 |  |  1 |      わずかな　ひとしか　しらない しぜんほごくに　はいるために ひつような　ライセンスカード。 |
+|  673       18 |  |  3 |      소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드. |
+|  673       18 |  |  4 |      進入只有極少數人 才知道的自然保護區時， 所需的授權卡。 |
+|  673       18 |  |  5 |      Un permis nécessaire pour pénétrer dans la Réserve Naturelle, lieu protégé des foules modernes. |
+|  673       18 |  |  6 |      Eine Genehmigung in Form einer Karte, die den Zutritt ins Naturschutzgebiet ermöglicht. Nur wenige kennen den Ort. |
+|  673       18 |  |  7 |      Permiso necesario para acceder a la Reserva Natural, lugar que solo unos pocos conocen. |
+|  673       18 |  |  8 |      Tessera che permette di accedere a una Riserva Naturale conosciuta da pochi. |
+|  673       18 |  |  9 |      A permit that is needed to enter the Nature Preserve. Not many know about it. |
+|  673       18 |  |  11 |     わずかな　人しか　知らない 自然保護区に　入るために 必要な　ライセンスカード。 |
+|  673       18 |  |  12 |     只有极少数人才知道的， 进入自然保护区所需的授权卡。 |
+|  673       19 |  |  1 |      わずかな　ひとしか　しらない しぜんほごくに　はいるために ひつような　ライセンスカード。 |
+|  673       19 |  |  3 |      소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드. |
+|  673       19 |  |  4 |      進入只有極少數人 才知道的自然保護區時， 所需的授權卡。 |
+|  673       19 |  |  5 |      Un permis nécessaire pour pénétrer dans la Réserve Naturelle, lieu protégé des foules modernes. |
+|  673       19 |  |  6 |      Eine Genehmigung in Form einer Karte, die den Zutritt ins Naturschutzgebiet ermöglicht. Nur wenige kennen den Ort. |
+|  673       19 |  |  7 |      Permiso necesario para acceder a la Reserva Natural, lugar que solo unos pocos conocen. |
+|  673       19 |  |  8 |      Tessera che permette di accedere a una Riserva Naturale conosciuta da pochi. |
+|  673       19 |  |  9 |      A permit that is needed to enter the Nature Preserve. Not many know about it. |
+|  673       19 |  |  11 |     わずかな　人しか　知らない 自然保護区に　入るために 必要な　ライセンスカード。 |
+|  673       19 |  |  12 |     只有极少数人才知道的， 进入自然保护区所需的授权卡。 |
+|  673       20 |  |  1 |      わずかな　ひとしか　しらない しぜんほごくに　はいるために ひつような　ライセンスカード。 |
+|  673       20 |  |  3 |      소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드. |
+|  673       20 |  |  4 |      進入只有極少數人 才知道的自然保護區時， 所需的授權卡。 |
+|  673       20 |  |  5 |      Un permis nécessaire pour pénétrer dans la Réserve Naturelle, lieu protégé des foules modernes. |
+|  673       20 |  |  6 |      Eine Genehmigung in Form einer Karte, die den Zutritt ins Naturschutzgebiet ermöglicht. Nur wenige kennen den Ort. |
+|  673       20 |  |  7 |      Permiso necesario para acceder a la Reserva Natural, lugar que solo unos pocos conocen. |
+|  673       20 |  |  8 |      Tessera che permette di accedere a una Riserva Naturale conosciuta da pochi. |
+|  673       20 |  |  9 |      A permit that is needed to enter the Nature Preserve. Not many know about it. |
+|  673       20 |  |  11 |     わずかな　人しか　知らない 自然保護区に　入るために 必要な　ライセンスカード。 |
+|  673       20 |  |  12 |     只有极少数人才知道的， 进入自然保护区所需的授权卡。 |
+|  674       14 |  |  9 |      An oval charm said to increase the chance of Eggs being found at the Day Care. |
+|  674       15 |  |  1 |      もっていると　そだてやさんで タマゴが　みつかりやすくなる ふしぎで　とてもまるい　おまもり。 |
+|  674       15 |  |  3 |      지니고 있으면 키우미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적. |
+|  674       15 |  |  5 |      Un mystérieux charme rond qui permet de trouver plus facilement des Œufs à la Pension Pokémon. |
+|  674       15 |  |  6 |      Ein mysteriöser, ovaler Glücksbringer, der die Wahrscheinlichkeit erhöht, in der Pension Eier zu finden. |
+|  674       15 |  |  7 |      Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales. |
+|  674       15 |  |  8 |      Misterioso amuleto di forma sferica che aumenta la probabilità di trovare Uova nella Pensione Pokémon. |
+|  674       15 |  |  9 |      An oval charm said to increase the chance of Pokémon Eggs being found at the Day Care. |
+|  674       15 |  |  11 |     持っていると　育て屋さんで タマゴが　みつかりやすくなる 不思議で　とてもまるい　おまもり。 |
+|  674       17 |  |  1 |      もっていると　あずかりやさんで タマゴが　みつかりやすくなる ふしぎで　とてもまるい　おまもり。 |
+|  674       17 |  |  3 |      지니고 있으면 맡기미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적. |
+|  674       17 |  |  4 |      只要擁有它，便會變得 更容易在寄放屋裡發現蛋的 神奇渾圓護符。 |
+|  674       17 |  |  5 |      Un mystérieux charme rond qui permet de trouver plus facilement des Œufs à la Garderie Pokémon. |
+|  674       17 |  |  6 |      Ein mysteriöser, ovaler Glücksbringer, der die Wahrscheinlichkeit erhöht, im Hort Eier zu finden. |
+|  674       17 |  |  7 |      Misterioso amuleto ovalado que aumenta la posibilidad de encontrar Huevos en Cuidados Pokémon. |
+|  674       17 |  |  8 |      Misterioso amuleto di forma sferica che aumenta la probabilità di trovare Uova nell'Ostello Pokémon. |
+|  674       17 |  |  9 |      An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery. |
+|  674       17 |  |  11 |     持っていると　預かり屋さんで タマゴが　みつかりやすくなる 不思議で　とてもまるい　おまもり。 |
+|  674       17 |  |  12 |     拥有它之后，在寄放屋里 会更容易找到蛋的 神奇浑圆护符。 |
+|  674       18 |  |  1 |      もっていると　あずかりやさんで タマゴが　みつかりやすくなる ふしぎで　とてもまるい　おまもり。 |
+|  674       18 |  |  3 |      지니고 있으면 맡기미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적. |
+|  674       18 |  |  4 |      只要擁有它，便會變得 更容易在寄放屋裡發現蛋的 神奇渾圓護符。 |
+|  674       18 |  |  5 |      Un mystérieux charme rond qui permet de trouver plus facilement des Œufs à la Garderie Pokémon. |
+|  674       18 |  |  6 |      Ein mysteriöser, ovaler Glücksbringer, der die Wahrscheinlichkeit erhöht, im Hort Eier zu finden. |
+|  674       18 |  |  7 |      Misterioso amuleto ovalado que aumenta la posibilidad de encontrar Huevos en Cuidados Pokémon. |
+|  674       18 |  |  8 |      Misterioso amuleto di forma sferica che aumenta la probabilità di trovare Uova nell'Ostello Pokémon. |
+|  674       18 |  |  9 |      An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery. |
+|  674       18 |  |  11 |     持っていると　預かり屋さんで タマゴが　みつかりやすくなる 不思議で　とてもまるい　おまもり。 |
+|  674       18 |  |  12 |     拥有它之后，在寄放屋里 会更容易找到蛋的 神奇浑圆护符。 |
+|  674       19 |  |  1 |      もっていると　あずかりやさんで タマゴが　みつかりやすくなる ふしぎで　とてもまるい　おまもり。 |
+|  674       19 |  |  3 |      지니고 있으면 맡기미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적. |
+|  674       19 |  |  4 |      只要擁有它，便會變得 更容易在寄放屋裡發現蛋的 神奇渾圓護符。 |
+|  674       19 |  |  5 |      Un mystérieux charme rond qui permet de trouver plus facilement des Œufs à la Garderie Pokémon. |
+|  674       19 |  |  6 |      Ein mysteriöser, ovaler Glücksbringer, der die Wahrscheinlichkeit erhöht, im Hort Eier zu finden. |
+|  674       19 |  |  7 |      Misterioso amuleto ovalado que aumenta la posibilidad de encontrar Huevos en Cuidados Pokémon. |
+|  674       19 |  |  8 |      Misterioso amuleto di forma sferica che aumenta la probabilità di trovare Uova nell'Ostello Pokémon. |
+|  674       19 |  |  9 |      An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery. |
+|  674       19 |  |  11 |     持っていると　預かり屋さんで タマゴが　みつかりやすくなる 不思議で　とてもまるい　おまもり。 |
+|  674       19 |  |  12 |     拥有它之后，在寄放屋里 会更容易找到蛋的 神奇浑圆护符。 |
+|  674       20 |  |  1 |      もっていると　あずかりやさんで タマゴが　みつかりやすくなる ふしぎで　とてもまるい　おまもり。 |
+|  674       20 |  |  3 |      지니고 있으면 맡기미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적. |
+|  674       20 |  |  4 |      只要擁有它，便會變得 更容易在寄放屋裡發現蛋的 神奇渾圓護符。 |
+|  674       20 |  |  5 |      Un mystérieux charme rond qui permet de trouver plus facilement des Œufs à la Garderie Pokémon. |
+|  674       20 |  |  6 |      Ein mysteriöser, ovaler Glücksbringer, der die Wahrscheinlichkeit erhöht, im Hort Eier zu finden. |
+|  674       20 |  |  7 |      Misterioso amuleto ovalado que aumenta la posibilidad de encontrar Huevos en Cuidados Pokémon. |
+|  674       20 |  |  8 |      Misterioso amuleto di forma sferica che aumenta la probabilità di trovare Uova nell'Ostello Pokémon. |
+|  674       20 |  |  9 |      An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery. |
+|  674       20 |  |  11 |     持っていると　預かり屋さんで タマゴが　みつかりやすくなる 不思議で　とてもまるい　おまもり。 |
+|  674       20 |  |  12 |     拥有它之后，在寄放屋里 会更容易找到蛋的 神奇浑圆护符。 |
+|  675       14 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon. |
+|  675       15 |  |  1 |      もっていると　ひかる　ポケモンと であいやすくなる　といわれる ふしぎで　ひかりかがやく　おまもり。 |
+|  675       15 |  |  3 |      지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적. |
+|  675       15 |  |  5 |      Un mystérieux charme scintillant qui facilite la rencontre avec les Pokémon chromatiques. |
+|  675       15 |  |  6 |      Ein mysteriöser, schillernder Glücksbringer, der die Wahrscheinlichkeit erhöht, Schillernde Pokémon zu finden. |
+|  675       15 |  |  7 |      Una flauta con un timbre tan dulce y hermoso que despierta hasta el Pokémon más profundamente dormido. |
+|  675       15 |  |  8 |      Misterioso amuleto luminoso che aumenta la probabilità di incontrare Pokémon cromatici. |
+|  675       15 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild. |
+|  675       15 |  |  11 |     持っていると　ひかる　ポケモンと 出会いやすくなる　といわれる 不思議で　ひかりかがやく　おまもり。 |
+|  675       17 |  |  1 |      もっていると　ひかる　ポケモンと であいやすくなる　といわれる ふしぎで　ひかりかがやく　おまもり。 |
+|  675       17 |  |  3 |      지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적. |
+|  675       17 |  |  4 |      只要擁有它，據說會變得 更容易遇見發光寶可夢的 神奇閃光護符。 |
+|  675       17 |  |  5 |      Un mystérieux charme scintillant qui facilite la rencontre avec les Pokémon chromatiques. |
+|  675       17 |  |  6 |      Ein mysteriöser, schillernder Glücksbringer, der die Wahrscheinlichkeit erhöht, Schillernde Pokémon zu finden. |
+|  675       17 |  |  7 |      Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolor. |
+|  675       17 |  |  8 |      Misterioso amuleto luminoso che aumenta la probabilità di incontrare Pokémon cromatici. |
+|  675       17 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild. |
+|  675       17 |  |  11 |     持っていると　ひかる　ポケモンと 出会いやすくなる　といわれる 不思議で　ひかりかがやく　おまもり。 |
+|  675       17 |  |  12 |     拥有它之后，据说会 更容易遇见发光宝可梦的 神奇闪光护符。 |
+|  675       18 |  |  1 |      もっていると　ひかる　ポケモンと であいやすくなる　といわれる ふしぎで　ひかりかがやく　おまもり。 |
+|  675       18 |  |  3 |      지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적. |
+|  675       18 |  |  4 |      只要擁有它，據說會變得 更容易遇見發光寶可夢的 神奇閃光護符。 |
+|  675       18 |  |  5 |      Un mystérieux charme scintillant qui facilite la rencontre avec les Pokémon chromatiques. |
+|  675       18 |  |  6 |      Ein mysteriöser, schillernder Glücksbringer, der die Wahrscheinlichkeit erhöht, Schillernde Pokémon zu finden. |
+|  675       18 |  |  7 |      Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolor. |
+|  675       18 |  |  8 |      Misterioso amuleto luminoso che aumenta la probabilità di incontrare Pokémon cromatici. |
+|  675       18 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild. |
+|  675       18 |  |  11 |     持っていると　ひかる　ポケモンと 出会いやすくなる　といわれる 不思議で　ひかりかがやく　おまもり。 |
+|  675       18 |  |  12 |     拥有它之后，据说会 更容易遇见发光宝可梦的 神奇闪光护符。 |
+|  675       19 |  |  1 |      もっていると　ひかる　ポケモンと であいやすくなる　といわれる ふしぎで　ひかりかがやく　おまもり。 |
+|  675       19 |  |  3 |      지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적. |
+|  675       19 |  |  4 |      只要擁有它，據說會變得 更容易遇見發光寶可夢的 神奇閃光護符。 |
+|  675       19 |  |  5 |      Un mystérieux charme scintillant qui facilite la rencontre avec les Pokémon chromatiques. |
+|  675       19 |  |  6 |      Ein mysteriöser, schillernder Glücksbringer, der die Wahrscheinlichkeit erhöht, Schillernde Pokémon zu finden. |
+|  675       19 |  |  7 |      Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolor. |
+|  675       19 |  |  8 |      Misterioso amuleto luminoso che aumenta la probabilità di incontrare Pokémon cromatici. |
+|  675       19 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild. |
+|  675       19 |  |  11 |     持っていると　ひかる　ポケモンと 出会いやすくなる　といわれる 不思議で　ひかりかがやく　おまもり。 |
+|  675       19 |  |  12 |     拥有它之后，据说会 更容易遇见发光宝可梦的 神奇闪光护符。 |
+|  675       20 |  |  1 |      もっていると　ひかる　ポケモンと であいやすくなる　といわれる ふしぎで　ひかりかがやく　おまもり。 |
+|  675       20 |  |  3 |      지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적. |
+|  675       20 |  |  4 |      只要擁有它，據說會變得 更容易遇見發光寶可夢的 神奇閃光護符。 |
+|  675       20 |  |  5 |      Un mystérieux charme scintillant qui facilite la rencontre avec les Pokémon chromatiques. |
+|  675       20 |  |  6 |      Ein mysteriöser, schillernder Glücksbringer, der die Wahrscheinlichkeit erhöht, Schillernde Pokémon zu finden. |
+|  675       20 |  |  7 |      Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolor. |
+|  675       20 |  |  8 |      Misterioso amuleto luminoso che aumenta la probabilità di incontrare Pokémon cromatici. |
+|  675       20 |  |  9 |      A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild. |
+|  675       20 |  |  11 |     持っていると　ひかる　ポケモンと 出会いやすくなる　といわれる 不思議で　ひかりかがやく　おまもり。 |
+|  675       20 |  |  12 |     拥有它之后，据说会 更容易遇见发光宝可梦的 神奇闪光护符。 |
+|  676       14 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       15 |  |  1 |      プラズマフリゲートの　せんないで パスワードを　にゅうりょくするときに ひつようとなる　カードキー。 |
+|  676       15 |  |  3 |      플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키. |
+|  676       15 |  |  5 |      Une clé magnétique indispensable pour entrer le mot de passe sur la Frégate Plasma. |
+|  676       15 |  |  6 |      Ein Kartenschlüssel, der bei der Eingabe des Passworts an Bord der Plasma-Fregatte benötigt wird. |
+|  676       15 |  |  7 |      Al usarse en un huerto de bayas, multiplica la cosecha sin necesidad de cuidados especiales. |
+|  676       15 |  |  8 |      Carta magnetica necessaria per inserire la password sulla Fregata Plasma. |
+|  676       15 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       15 |  |  11 |     プラズマフリゲートの　船内で パスワードを　入力するときに 必要となる　カードキー。 |
+|  676       17 |  |  1 |      プラズマフリゲートの　せんないで パスワードを　にゅうりょくするときに ひつようとなる　カードキー。 |
+|  676       17 |  |  3 |      플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키. |
+|  676       17 |  |  4 |      在等離子驅逐艦的 船內輸入密碼時， 需要用到的鑰匙卡。 |
+|  676       17 |  |  5 |      Une clé magnétique indispensable pour entrer le mot de passe sur la Frégate Plasma. |
+|  676       17 |  |  6 |      Ein Kartenschlüssel, der bei der Eingabe des Passworts an Bord der Plasma-Fregatte benötigt wird. |
+|  676       17 |  |  7 |      Tarjeta necesaria para introducir la contraseña en la Fragata Plasma. |
+|  676       17 |  |  8 |      Carta magnetica necessaria per inserire la password sulla Fregata Plasma. |
+|  676       17 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       17 |  |  11 |     プラズマフリゲートの　船内で パスワードを　入力するときに 必要となる　カードキー。 |
+|  676       17 |  |  12 |     在等离子驱逐舰的 船内输入密码时， 需要用到的钥匙卡。 |
+|  676       18 |  |  1 |      プラズマフリゲートの　せんないで パスワードを　にゅうりょくするときに ひつようとなる　カードキー。 |
+|  676       18 |  |  3 |      플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키. |
+|  676       18 |  |  4 |      在等離子驅逐艦的 船內輸入密碼時， 需要用到的鑰匙卡。 |
+|  676       18 |  |  5 |      Une clé magnétique indispensable pour entrer le mot de passe sur la Frégate Plasma. |
+|  676       18 |  |  6 |      Ein Kartenschlüssel, der bei der Eingabe des Passworts an Bord der Plasma-Fregatte benötigt wird. |
+|  676       18 |  |  7 |      Tarjeta necesaria para introducir la contraseña en la Fragata Plasma. |
+|  676       18 |  |  8 |      Carta magnetica necessaria per inserire la password sulla Fregata Plasma. |
+|  676       18 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       18 |  |  11 |     プラズマフリゲートの　船内で パスワードを　入力するときに 必要となる　カードキー。 |
+|  676       18 |  |  12 |     在等离子驱逐舰的 船内输入密码时， 需要用到的钥匙卡。 |
+|  676       19 |  |  1 |      プラズマフリゲートの　せんないで パスワードを　にゅうりょくするときに ひつようとなる　カードキー。 |
+|  676       19 |  |  3 |      플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키. |
+|  676       19 |  |  4 |      在等離子驅逐艦的 船內輸入密碼時， 需要用到的鑰匙卡。 |
+|  676       19 |  |  5 |      Une clé magnétique indispensable pour entrer le mot de passe sur la Frégate Plasma. |
+|  676       19 |  |  6 |      Ein Kartenschlüssel, der bei der Eingabe des Passworts an Bord der Plasma-Fregatte benötigt wird. |
+|  676       19 |  |  7 |      Tarjeta necesaria para introducir la contraseña en la Fragata Plasma. |
+|  676       19 |  |  8 |      Carta magnetica necessaria per inserire la password sulla Fregata Plasma. |
+|  676       19 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       19 |  |  11 |     プラズマフリゲートの　船内で パスワードを　入力するときに 必要となる　カードキー。 |
+|  676       19 |  |  12 |     在等离子驱逐舰的 船内输入密码时， 需要用到的钥匙卡。 |
+|  676       20 |  |  1 |      プラズマフリゲートの　せんないで パスワードを　にゅうりょくするときに ひつようとなる　カードキー。 |
+|  676       20 |  |  3 |      플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키. |
+|  676       20 |  |  4 |      在等離子驅逐艦的 船內輸入密碼時， 需要用到的鑰匙卡。 |
+|  676       20 |  |  5 |      Une clé magnétique indispensable pour entrer le mot de passe sur la Frégate Plasma. |
+|  676       20 |  |  6 |      Ein Kartenschlüssel, der bei der Eingabe des Passworts an Bord der Plasma-Fregatte benötigt wird. |
+|  676       20 |  |  7 |      Tarjeta necesaria para introducir la contraseña en la Fragata Plasma. |
+|  676       20 |  |  8 |      Carta magnetica necessaria per inserire la password sulla Fregata Plasma. |
+|  676       20 |  |  9 |      A card key needed to enter the password inside the Plasma Frigate. |
+|  676       20 |  |  11 |     プラズマフリゲートの　船内で パスワードを　入力するときに 必要となる　カードキー。 |
+|  676       20 |  |  12 |     在等离子驱逐舰的 船内输入密码时， 需要用到的钥匙卡。 |
+|  677       14 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       15 |  |  1 |      シッポウシティにある　カフェソーコの じょうれんが　おとした　ハンカチ。 ほのかに　ポケモンの　かおりがする。 |
+|  677       15 |  |  3 |      칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다. |
+|  677       15 |  |  5 |      Un mouchoir égaré par un habitué du Café de la Grange. Il sent légèrement le Pokémon. |
+|  677       15 |  |  6 |      Ein Taschentuch, das ein Stammkunde im Café Lagerhaus in Septerna City verloren hat. Riecht leicht nach Pokémon. |
+|  677       15 |  |  7 |      Al usarse en un huerto de bayas, provoca extrañas mutaciones según la combinación de las mismas. |
+|  677       15 |  |  8 |      Pezzo di stoffa perso al Bar Magazzino di Zefiropoli da un cliente abituale. Odora leggermente di Pokémon. |
+|  677       15 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       15 |  |  11 |     シッポウシティにある　カフェソーコの 常連が　落とした　ハンカチ。 ほのかに　ポケモンの　香りがする。 |
+|  677       17 |  |  1 |      シッポウシティにある　カフェソーコの じょうれんが　おとした　ハンカチ。 ほのかに　ポケモンの　かおりがする。 |
+|  677       17 |  |  3 |      칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다. |
+|  677       17 |  |  4 |      七寶市倉庫咖啡館的 熟客遺失的手帕。 隱約有著寶可夢的香氣。 |
+|  677       17 |  |  5 |      Un mouchoir égaré par un habitué du Café de la Grange. Il sent légèrement le Pokémon. |
+|  677       17 |  |  6 |      Ein Taschentuch, das ein Stammkunde im Café Lagerhaus in Septerna City verloren hat. Riecht leicht nach Pokémon. |
+|  677       17 |  |  7 |      Pañuelo perdido por un cliente habitual del Café Alma en Ciudad Esmalte. Desprende el olor de un Pokémon. |
+|  677       17 |  |  8 |      Pezzo di stoffa perso al Bar Magazzino di Zefiropoli da un cliente abituale. Odora leggermente di Pokémon. |
+|  677       17 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       17 |  |  11 |     シッポウシティにある　カフェソーコの 常連が　落とした　ハンカチ。 ほのかに　ポケモンの　香りがする。 |
+|  677       17 |  |  12 |     七宝市仓库咖啡馆的 熟客遗失的手帕。 隐约有着宝可梦的香气。 |
+|  677       18 |  |  1 |      シッポウシティにある　カフェソーコの じょうれんが　おとした　ハンカチ。 ほのかに　ポケモンの　かおりがする。 |
+|  677       18 |  |  3 |      칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다. |
+|  677       18 |  |  4 |      七寶市倉庫咖啡館的 熟客遺失的手帕。 隱約有著寶可夢的香氣。 |
+|  677       18 |  |  5 |      Un mouchoir égaré par un habitué du Café de la Grange. Il sent légèrement le Pokémon. |
+|  677       18 |  |  6 |      Ein Taschentuch, das ein Stammkunde im Café Lagerhaus in Septerna City verloren hat. Riecht leicht nach Pokémon. |
+|  677       18 |  |  7 |      Pañuelo perdido por un cliente habitual del Café Alma en Ciudad Esmalte. Desprende el olor de un Pokémon. |
+|  677       18 |  |  8 |      Pezzo di stoffa perso al Bar Magazzino di Zefiropoli da un cliente abituale. Odora leggermente di Pokémon. |
+|  677       18 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       18 |  |  11 |     シッポウシティにある　カフェソーコの 常連が　落とした　ハンカチ。 ほのかに　ポケモンの　香りがする。 |
+|  677       18 |  |  12 |     七宝市仓库咖啡馆的 熟客遗失的手帕。 隐约有着宝可梦的香气。 |
+|  677       19 |  |  1 |      シッポウシティにある　カフェソーコの じょうれんが　おとした　ハンカチ。 ほのかに　ポケモンの　かおりがする。 |
+|  677       19 |  |  3 |      칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다. |
+|  677       19 |  |  4 |      七寶市倉庫咖啡館的 熟客遺失的手帕。 隱約有著寶可夢的香氣。 |
+|  677       19 |  |  5 |      Un mouchoir égaré par un habitué du Café de la Grange. Il sent légèrement le Pokémon. |
+|  677       19 |  |  6 |      Ein Taschentuch, das ein Stammkunde im Café Lagerhaus in Septerna City verloren hat. Riecht leicht nach Pokémon. |
+|  677       19 |  |  7 |      Pañuelo perdido por un cliente habitual del Café Alma en Ciudad Esmalte. Desprende el olor de un Pokémon. |
+|  677       19 |  |  8 |      Pezzo di stoffa perso al Bar Magazzino di Zefiropoli da un cliente abituale. Odora leggermente di Pokémon. |
+|  677       19 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       19 |  |  11 |     シッポウシティにある　カフェソーコの 常連が　落とした　ハンカチ。 ほのかに　ポケモンの　香りがする。 |
+|  677       19 |  |  12 |     七宝市仓库咖啡馆的 熟客遗失的手帕。 隐约有着宝可梦的香气。 |
+|  677       20 |  |  1 |      シッポウシティにある　カフェソーコの じょうれんが　おとした　ハンカチ。 ほのかに　ポケモンの　かおりがする。 |
+|  677       20 |  |  3 |      칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다. |
+|  677       20 |  |  4 |      七寶市倉庫咖啡館的 熟客遺失的手帕。 隱約有著寶可夢的香氣。 |
+|  677       20 |  |  5 |      Un mouchoir égaré par un habitué du Café de la Grange. Il sent légèrement le Pokémon. |
+|  677       20 |  |  6 |      Ein Taschentuch, das ein Stammkunde im Café Lagerhaus in Septerna City verloren hat. Riecht leicht nach Pokémon. |
+|  677       20 |  |  7 |      Pañuelo perdido por un cliente habitual del Café Alma en Ciudad Esmalte. Desprende el olor de un Pokémon. |
+|  677       20 |  |  8 |      Pezzo di stoffa perso al Bar Magazzino di Zefiropoli da un cliente abituale. Odora leggermente di Pokémon. |
+|  677       20 |  |  9 |      A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon. |
+|  677       20 |  |  11 |     シッポウシティにある　カフェソーコの 常連が　落とした　ハンカチ。 ほのかに　ポケモンの　香りがする。 |
+|  677       20 |  |  12 |     七宝市仓库咖啡馆的 熟客遗失的手帕。 隐约有着宝可梦的香气。 |
+|  678       14 |  |  9 |      A special device that wrings out the potential of Pokémon. It is an imperfect prototype. |
+|  678       15 |  |  1 |      ポケモンの　のうりょくを　むりやり めざめさせる　とくしゅな　そうち。 だが　しさくひんのため　ふかんぜん。 |
+|  678       15 |  |  3 |      포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다. |
+|  678       15 |  |  5 |      Un appareil spécial qui permet d'éveiller de force la puissance des Pokémon. Mais il ne s'agit que d'un prototype. |
+|  678       15 |  |  6 |      Eine Vorrichtung, die verborgene Kräfte in den Pokémon weckt. Es handelt sich dabei um einen unfertigen Prototyp. |
+|  678       15 |  |  7 |      Al usarse en un huerto de bayas, aumenta la cosecha obtenida si se riega con frecuencia. |
+|  678       15 |  |  8 |      Prototipo imperfetto di un dispositivo speciale ideato per risvegliare in modo forzato le capacità dei Pokémon. |
+|  678       15 |  |  9 |      A special device that wrings out the potential of Pokémon. It is an imperfect prototype. |
+|  678       15 |  |  11 |     ポケモンの　能力を　無理やり 目覚めさせる　特殊な　装置。 だが　試作品のため　不完全。 |
+|  678       17 |  |  1 |      ポケモンの　のうりょくを　むりやり めざめさせる　とくしゅな　そうち。 だが　しさくひんのため　ふかんぜん。 |
+|  678       17 |  |  3 |      포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다. |
+|  678       17 |  |  4 |      能強行讓寶可夢的能力 覺醒的特殊裝置。 但由於是試作品，功能還不完全。 |
+|  678       17 |  |  5 |      Un appareil spécial qui permet d'éveiller de force la puissance des Pokémon. Mais il ne s'agit que d'un prototype. |
+|  678       17 |  |  6 |      Eine Vorrichtung, die verborgene Kräfte in den Pokémon weckt. Es handelt sich dabei um einen unfertigen Prototyp. |
+|  678       17 |  |  7 |      Dispositivo que permite aumentar forzadamente las características de los Pokémon. Es un prototipo imperfecto. |
+|  678       17 |  |  8 |      Prototipo imperfetto di un dispositivo speciale ideato per risvegliare in modo forzato le capacità dei Pokémon. |
+|  678       17 |  |  9 |      A special device that wrings out the potential of Pokémon. It's an imperfect prototype. |
+|  678       17 |  |  11 |     ポケモンの　能力を　無理やり 目覚めさせる　特殊な　装置。 だが　試作品のため　不完全。 |
+|  678       17 |  |  12 |     能强行让宝可梦的能力 觉醒的特殊装置。 但由于是试制品，功能尚未完善。 |
+|  678       18 |  |  1 |      ポケモンの　のうりょくを　むりやり めざめさせる　とくしゅな　そうち。 だが　しさくひんのため　ふかんぜん。 |
+|  678       18 |  |  3 |      포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다. |
+|  678       18 |  |  4 |      能強行讓寶可夢的能力 覺醒的特殊裝置。 但由於是試作品，功能還不完全。 |
+|  678       18 |  |  5 |      Un appareil spécial qui permet d'éveiller de force la puissance des Pokémon. Mais il ne s'agit que d'un prototype. |
+|  678       18 |  |  6 |      Eine Vorrichtung, die verborgene Kräfte in den Pokémon weckt. Es handelt sich dabei um einen unfertigen Prototyp. |
+|  678       18 |  |  7 |      Dispositivo que permite aumentar forzadamente las características de los Pokémon. Es un prototipo imperfecto. |
+|  678       18 |  |  8 |      Prototipo imperfetto di un dispositivo speciale ideato per risvegliare in modo forzato le capacità dei Pokémon. |
+|  678       18 |  |  9 |      A special device that wrings out the potential of Pokémon. It's an imperfect prototype. |
+|  678       18 |  |  11 |     ポケモンの　能力を　無理やり 目覚めさせる　特殊な　装置。 だが　試作品のため　不完全。 |
+|  678       18 |  |  12 |     能强行让宝可梦的能力 觉醒的特殊装置。 但由于是试制品，功能尚未完善。 |
+|  678       19 |  |  1 |      ポケモンの　のうりょくを　むりやり めざめさせる　とくしゅな　そうち。 だが　しさくひんのため　ふかんぜん。 |
+|  678       19 |  |  3 |      포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다. |
+|  678       19 |  |  4 |      能強行讓寶可夢的能力 覺醒的特殊裝置。 但由於是試作品，功能還不完全。 |
+|  678       19 |  |  5 |      Un appareil spécial qui permet d'éveiller de force la puissance des Pokémon. Mais il ne s'agit que d'un prototype. |
+|  678       19 |  |  6 |      Eine Vorrichtung, die verborgene Kräfte in den Pokémon weckt. Es handelt sich dabei um einen unfertigen Prototyp. |
+|  678       19 |  |  7 |      Dispositivo que permite aumentar forzadamente las características de los Pokémon. Es un prototipo imperfecto. |
+|  678       19 |  |  8 |      Prototipo imperfetto di un dispositivo speciale ideato per risvegliare in modo forzato le capacità dei Pokémon. |
+|  678       19 |  |  9 |      A special device that wrings out the potential of Pokémon. It's an imperfect prototype. |
+|  678       19 |  |  11 |     ポケモンの　能力を　無理やり 目覚めさせる　特殊な　装置。 だが　試作品のため　不完全。 |
+|  678       19 |  |  12 |     能强行让宝可梦的能力 觉醒的特殊装置。 但由于是试制品，功能尚未完善。 |
+|  678       20 |  |  1 |      ポケモンの　のうりょくを　むりやり めざめさせる　とくしゅな　そうち。 だが　しさくひんのため　ふかんぜん。 |
+|  678       20 |  |  3 |      포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다. |
+|  678       20 |  |  4 |      能強行讓寶可夢的能力 覺醒的特殊裝置。 但由於是試作品，功能還不完全。 |
+|  678       20 |  |  5 |      Un appareil spécial qui permet d'éveiller de force la puissance des Pokémon. Mais il ne s'agit que d'un prototype. |
+|  678       20 |  |  6 |      Eine Vorrichtung, die verborgene Kräfte in den Pokémon weckt. Es handelt sich dabei um einen unfertigen Prototyp. |
+|  678       20 |  |  7 |      Dispositivo que permite aumentar forzadamente las características de los Pokémon. Es un prototipo imperfecto. |
+|  678       20 |  |  8 |      Prototipo imperfetto di un dispositivo speciale ideato per risvegliare in modo forzato le capacità dei Pokémon. |
+|  678       20 |  |  9 |      A special device that wrings out the potential of Pokémon. It's an imperfect prototype. |
+|  678       20 |  |  11 |     ポケモンの　能力を　無理やり 目覚めさせる　特殊な　装置。 だが　試作品のため　不完全。 |
+|  678       20 |  |  12 |     能强行让宝可梦的能力 觉醒的特殊装置。 但由于是试制品，功能尚未完善。 |
+|  679       14 |  |  9 |      The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy. |
+|  679       15 |  |  1 |      ライモンシティの　ゆうえんちで ひろった　ライブキャスター。 おとしぬしは　おとこのこ　らしい。 |
+|  679       15 |  |  3 |      뇌문시티의 유원지에서 주운 라이브캐스터. 잃어버린 사람은 남자인 것 같다. |
+|  679       15 |  |  5 |      Un Vokit trouvé au parc d'attractions de Méanville. C'est un modèle pour garçons. |
+|  679       15 |  |  6 |      Ein Viso-Caster, der im Vergnügungspark von Rayono City gefunden wurde. Er scheint einem Jungen zu gehören. |
+|  679       15 |  |  7 |      Un abono increíble, con todas las propiedades de los Abonos Fértil, Sorpresa y Fructífero. |
+|  679       15 |  |  8 |      Interpoké rinvenuto nel parco giochi di Sciroccopoli. Pare che appartenga a un ragazzo. |
+|  679       15 |  |  9 |      The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy. |
+|  679       15 |  |  11 |     ライモンシティの　遊園地で 拾った　ライブキャスター。 落とし主は　男の子らしい。 |
+|  679       20 |  |  1 |      ライモンシティの　ゆうえんちで ひろった　ライブキャスター。 おとしぬしは　おとこのこ　らしい。 |
+|  679       20 |  |  3 |      뇌문시티의 유원지에서 주운 라이브캐스터. 잃어버린 사람은 남자인 것 같다. |
+|  679       20 |  |  4 |      在雷文市的遊樂園裡 撿到的即時通訊器。 失主好像是個男孩子。 |
+|  679       20 |  |  5 |      Un Vokit trouvé au parc d'attractions de Méanville. C'est un modèle pour garçons. |
+|  679       20 |  |  6 |      Ein Viso-Caster, der im Vergnügungspark von Rayono City gefunden wurde. Er scheint einem Jungen zu gehören. |
+|  679       20 |  |  7 |      Videomisor encontrado en el parque de atracciones de Ciudad Mayólica. Parece que pertenece a un chico. |
+|  679       20 |  |  8 |      Interpoké rinvenuto nel parco giochi di Sciroccopoli. Pare che appartenga a un ragazzo. |
+|  679       20 |  |  9 |      The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy. |
+|  679       20 |  |  11 |     ライモンシティの　遊園地で 拾った　ライブキャスター。 落とし主は　男の子らしい。 |
+|  679       20 |  |  12 |     在雷文市的游乐园里 捡到的即时通讯器。 失主好像是个男孩子。 |
+|  681       14 |  |  9 |      A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape. |
+|  681       15 |  |  1 |      しんじつを　うつしだすことで ポケモンを　ほんらいの　すがたに かえてしまう　ふしぎな　かがみ。 |
+|  681       15 |  |  3 |      진실을 비춰줌으로 포켓몬을 본래의 모습으로 바꿔버리는 이상한 거울. |
+|  681       15 |  |  5 |      Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle. |
+|  681       15 |  |  6 |      Ein mysteriöser Spiegel, der Pokémon in ihre eigentliche Form verwandelt, indem er die Wahrheit widerspiegelt. |
+|  681       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate. |
+|  681       15 |  |  8 |      Specchio misterioso che, riflettendo la verità, fa riacquistare ai Pokémon la loro forma originaria. |
+|  681       15 |  |  9 |      A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape. |
+|  681       15 |  |  11 |     真実を　映しだすことで ポケモンを　本来の　姿に 変えてしまう　不思議な　鏡。 |
+|  681       17 |  |  1 |      しんじつを　うつしだすことで ポケモンを　ほんらいの　すがたに かえてしまう　ふしぎな　かがみ。 |
+|  681       17 |  |  3 |      진실을 비춰줌으로 포켓몬을 본래의 모습으로 바꿔버리는 이상한 거울. |
+|  681       17 |  |  4 |      能藉由照出真實， 讓寶可夢變回原來 樣子的神奇鏡子。 |
+|  681       17 |  |  5 |      Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle. |
+|  681       17 |  |  6 |      Ein mysteriöser Spiegel, der Pokémon in ihre eigentliche Form verwandelt, indem er die Wahrheit widerspiegelt. |
+|  681       17 |  |  7 |      Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original. |
+|  681       17 |  |  8 |      Specchio misterioso che, riflettendo la verità, fa riacquistare ai Pokémon la loro forma originaria. |
+|  681       17 |  |  9 |      A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape. |
+|  681       17 |  |  11 |     真実を　映しだすことで ポケモンを　本来の　姿に 変えてしまう　不思議な　鏡。 |
+|  681       17 |  |  12 |     能够通过照出真实， 让宝可梦变回原来 样子的神奇镜子。 |
+|  681       18 |  |  1 |      しんじつを　うつしだすことで ポケモンを　ほんらいの　すがたに かえてしまう　ふしぎな　かがみ。 |
+|  681       18 |  |  3 |      진실을 비춰줌으로 포켓몬을 본래의 모습으로 바꿔버리는 이상한 거울. |
+|  681       18 |  |  4 |      能藉由照出真實， 讓寶可夢變回原來 樣子的神奇鏡子。 |
+|  681       18 |  |  5 |      Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle. |
+|  681       18 |  |  6 |      Ein mysteriöser Spiegel, der Pokémon in ihre eigentliche Form verwandelt, indem er die Wahrheit widerspiegelt. |
+|  681       18 |  |  7 |      Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original. |
+|  681       18 |  |  8 |      Specchio misterioso che, riflettendo la verità, fa riacquistare ai Pokémon la loro forma originaria. |
+|  681       18 |  |  9 |      A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape. |
+|  681       18 |  |  11 |     真実を　映しだすことで ポケモンを　本来の　姿に 変えてしまう　不思議な　鏡。 |
+|  681       18 |  |  12 |     能够通过照出真实， 让宝可梦变回原来 样子的神奇镜子。 |
+|  681       19 |  |  1 |      しんじつを　うつしだすことで ポケモンを　ほんらいの　すがたに かえてしまう　ふしぎな　かがみ。 |
+|  681       19 |  |  3 |      진실을 비춰줌으로 포켓몬을 본래의 모습으로 바꿔버리는 이상한 거울. |
+|  681       19 |  |  4 |      能藉由照出真實， 讓寶可夢變回原來 樣子的神奇鏡子。 |
+|  681       19 |  |  5 |      Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle. |
+|  681       19 |  |  6 |      Ein mysteriöser Spiegel, der Pokémon in ihre eigentliche Form verwandelt, indem er die Wahrheit widerspiegelt. |
+|  681       19 |  |  7 |      Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original. |
+|  681       19 |  |  8 |      Specchio misterioso che, riflettendo la verità, fa riacquistare ai Pokémon la loro forma originaria. |
+|  681       19 |  |  9 |      A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape. |
+|  681       19 |  |  11 |     真実を　映しだすことで ポケモンを　本来の　姿に 変えてしまう　不思議な　鏡。 |
+|  681       19 |  |  12 |     能够通过照出真实， 让宝可梦变回原来 样子的神奇镜子。 |
+|  681       20 |  |  1 |      しんじつを　うつしだすことで ポケモンを　ほんらいの　すがたに かえてしまう　ふしぎな　かがみ。 |
+|  681       20 |  |  3 |      진실을 비춰줌으로 포켓몬을 본래의 모습으로 바꿔버리는 이상한 거울. |
+|  681       20 |  |  4 |      能藉由照出真實， 讓寶可夢變回原來 樣子的神奇鏡子。 |
+|  681       20 |  |  5 |      Un mystérieux miroir qui, en reflétant la vérité, permet de redonner à un Pokémon sa forme originelle. |
+|  681       20 |  |  6 |      Ein mysteriöser Spiegel, der Pokémon in ihre eigentliche Form verwandelt, indem er die Wahrheit widerspiegelt. |
+|  681       20 |  |  7 |      Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original. |
+|  681       20 |  |  8 |      Specchio misterioso che, riflettendo la verità, fa riacquistare ai Pokémon la loro forma originaria. |
+|  681       20 |  |  9 |      A looking glass that reveals the truth. It's a mysterious glass that returns a Pokémon to its original shape. |
+|  681       20 |  |  11 |     真実を　映しだすことで ポケモンを　本来の　姿に 変えてしまう　不思議な　鏡。 |
+|  681       20 |  |  12 |     能够通过照出真实， 让宝可梦变回原来 样子的神奇镜子。 |
+|  682       15 |  |  1 |      じゃくてんを　つかれたとき こうげきと　とくこうが それぞれ　ぐーんと　あがる。 |
+|  682       15 |  |  3 |      약점을 공격당했을 때 공격과 특수공격이 각각 크게 올라간다. |
+|  682       15 |  |  5 |      Objet à tenir. Augmente beaucoup l'Attaque et l'Attaque Spéciale du Pokémon lorsqu'il reçoit un coup d'un type auquel il est vulnérable. |
+|  682       15 |  |  6 |      Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird. |
+|  682       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate. |
+|  682       15 |  |  8 |      Se il Pokémon viene colpito da una mossa contro cui è debole, l'Attacco e l'Attacco Speciale aumentano considerevolmente. |
+|  682       15 |  |  9 |      An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to. |
+|  682       15 |  |  11 |     弱点を　つかれたとき 攻撃と　特攻が それぞれ　ぐーんと　あがる。 |
+|  682       17 |  |  1 |      じゃくてんを　つかれたとき こうげきと　とくこうが それぞれ　ぐーんと　あがる。 |
+|  682       17 |  |  3 |      약점을 공격당했을 때 공격과 특수공격이 각각 크게 올라간다. |
+|  682       17 |  |  4 |      被攻擊到弱點時， 攻擊和特攻就會 分別大幅提高。 |
+|  682       17 |  |  5 |      Objet à tenir. Augmente beaucoup l'Attaque et l'Attaque Spéciale du Pokémon lorsqu'il est touché par une capacité d'un type auquel il est vulnérable. |
+|  682       17 |  |  6 |      Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird. |
+|  682       17 |  |  7 |      Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil. |
+|  682       17 |  |  8 |      Se il Pokémon viene colpito da una mossa contro cui è debole, l'Attacco e l'Attacco Speciale aumentano considerevolmente. |
+|  682       17 |  |  9 |      An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to. |
+|  682       17 |  |  11 |     弱点を　つかれたとき 攻撃と　特攻が それぞれ　ぐーんと　あがる。 |
+|  682       17 |  |  12 |     被针对弱点时， 攻击和特攻就会大幅提高。 |
+|  682       18 |  |  1 |      じゃくてんを　つかれたとき こうげきと　とくこうが それぞれ　ぐーんと　あがる。 |
+|  682       18 |  |  3 |      약점을 공격당했을 때 공격과 특수공격이 각각 크게 올라간다. |
+|  682       18 |  |  4 |      被攻擊到弱點時， 攻擊和特攻就會 分別大幅提高。 |
+|  682       18 |  |  5 |      Objet à tenir. Augmente beaucoup l'Attaque et l'Attaque Spéciale du Pokémon lorsqu'il est touché par une capacité d'un type auquel il est vulnérable. |
+|  682       18 |  |  6 |      Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird. |
+|  682       18 |  |  7 |      Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil. |
+|  682       18 |  |  8 |      Se il Pokémon viene colpito da una mossa contro cui è debole, l'Attacco e l'Attacco Speciale aumentano considerevolmente. |
+|  682       18 |  |  9 |      An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to. |
+|  682       18 |  |  11 |     弱点を　つかれたとき 攻撃と　特攻が それぞれ　ぐーんと　あがる。 |
+|  682       18 |  |  12 |     被针对弱点时， 攻击和特攻就会大幅提高。 |
+|  682       19 |  |  1 |      じゃくてんを　つかれたとき こうげきと　とくこうが それぞれ　ぐーんと　あがる。 |
+|  682       19 |  |  3 |      약점을 공격당했을 때 공격과 특수공격이 각각 크게 올라간다. |
+|  682       19 |  |  4 |      被攻擊到弱點時， 攻擊和特攻就會 分別大幅提高。 |
+|  682       19 |  |  5 |      Objet à tenir. Augmente beaucoup l'Attaque et l'Attaque Spéciale du Pokémon lorsqu'il est touché par une capacité d'un type auquel il est vulnérable. |
+|  682       19 |  |  6 |      Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird. |
+|  682       19 |  |  7 |      Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil. |
+|  682       19 |  |  8 |      Se il Pokémon viene colpito da una mossa contro cui è debole, l'Attacco e l'Attacco Speciale aumentano considerevolmente. |
+|  682       19 |  |  9 |      An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to. |
+|  682       19 |  |  11 |     弱点を　つかれたとき 攻撃と　特攻が それぞれ　ぐーんと　あがる。 |
+|  682       19 |  |  12 |     被针对弱点时， 攻击和特攻就会大幅提高。 |
+|  682       20 |  |  1 |      じゃくてんを　つかれたとき こうげきと　とくこうが それぞれ　ぐーんと　あがる。 |
+|  682       20 |  |  3 |      약점을 공격당했을 때 공격과 특수공격이 각각 크게 올라간다. |
+|  682       20 |  |  4 |      被攻擊到弱點時， 攻擊和特攻就會 分別大幅提高。 |
+|  682       20 |  |  5 |      Objet à tenir. Augmente beaucoup l'Attaque et l'Attaque Spéciale du Pokémon lorsqu'il est touché par une capacité d'un type auquel il est vulnérable. |
+|  682       20 |  |  6 |      Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird. |
+|  682       20 |  |  7 |      Aumenta mucho el Ataque y el Ataque Especial cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil. |
+|  682       20 |  |  8 |      Se il Pokémon viene colpito da una mossa contro cui è debole, l'Attacco e l'Attacco Speciale aumentano considerevolmente. |
+|  682       20 |  |  9 |      An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it's weak to. |
+|  682       20 |  |  11 |     弱点を　つかれたとき 攻撃と　特攻が それぞれ　ぐーんと　あがる。 |
+|  682       20 |  |  12 |     被针对弱点时， 攻击和特攻就会大幅提高。 |
+|  683       15 |  |  1 |      こうげきてきに　なる　チョッキ。 もたせると　とくぼうが　あがるが へんかわざを　だせなくなる。 |
+|  683       15 |  |  3 |      공격적으로 변하는 조끼. 지니게 하면 특수방어가 올라가지만 변화 기술을 쓸 수 없게 된다. |
+|  683       15 |  |  5 |      Objet à tenir. Une veste augmentant la Défense Spéciale, mais empêchant d'utiliser des attaques de statut. |
+|  683       15 |  |  6 |      Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen. |
+|  683       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate. |
+|  683       15 |  |  8 |      Strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale ma impedisce l'uso di mosse di stato. |
+|  683       15 |  |  9 |      An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. |
+|  683       15 |  |  11 |     攻撃的に　なる　チョッキ。 持たせると　特防が　あがるが 変化技を　だせなくなる。 |
+|  683       17 |  |  1 |      こうげきてきに　なる　チョッキ。 もたせると　とくぼうが　あがるが へんかわざを　だせなくなる。 |
+|  683       17 |  |  3 |      공격적으로 변하는 조끼. 지니게 하면 특수방어가 올라가지만 변화 기술을 쓸 수 없게 된다. |
+|  683       17 |  |  4 |      會變得富有攻擊性的背心。 雖然攜帶後特防會提高， 但會無法使出變化招式。 |
+|  683       17 |  |  5 |      Objet à tenir. Une veste augmentant la Défense Spéciale, mais empêchant d'utiliser des attaques de statut. |
+|  683       17 |  |  6 |      Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen. |
+|  683       17 |  |  7 |      Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar ataques de estado. |
+|  683       17 |  |  8 |      Strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale ma impedisce l'uso di mosse di stato. |
+|  683       17 |  |  9 |      An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. |
+|  683       17 |  |  11 |     攻撃的に　なる　チョッキ。 持たせると　特防が　あがるが 変化技を　だせなくなる。 |
+|  683       17 |  |  12 |     会变得富有攻击性的背心。 虽然携带后特防会提高， 但会无法使出变化招式。 |
+|  683       18 |  |  1 |      こうげきてきに　なる　チョッキ。 もたせると　とくぼうが　あがるが へんかわざを　だせなくなる。 |
+|  683       18 |  |  3 |      공격적으로 변하는 조끼. 지니게 하면 특수방어가 올라가지만 변화 기술을 쓸 수 없게 된다. |
+|  683       18 |  |  4 |      會變得富有攻擊性的背心。 雖然攜帶後特防會提高， 但會無法使出變化招式。 |
+|  683       18 |  |  5 |      Objet à tenir. Une veste augmentant la Défense Spéciale, mais empêchant d'utiliser des attaques de statut. |
+|  683       18 |  |  6 |      Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen. |
+|  683       18 |  |  7 |      Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar ataques de estado. |
+|  683       18 |  |  8 |      Strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale ma impedisce l'uso di mosse di stato. |
+|  683       18 |  |  9 |      An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. |
+|  683       18 |  |  11 |     攻撃的に　なる　チョッキ。 持たせると　特防が　あがるが 変化技を　だせなくなる。 |
+|  683       18 |  |  12 |     会变得富有攻击性的背心。 虽然携带后特防会提高， 但会无法使出变化招式。 |
+|  683       19 |  |  1 |      こうげきてきに　なる　チョッキ。 もたせると　とくぼうが　あがるが へんかわざを　だせなくなる。 |
+|  683       19 |  |  3 |      공격적으로 변하는 조끼. 지니게 하면 특수방어가 올라가지만 변화 기술을 쓸 수 없게 된다. |
+|  683       19 |  |  4 |      會變得富有攻擊性的背心。 雖然攜帶後特防會提高， 但會無法使出變化招式。 |
+|  683       19 |  |  5 |      Objet à tenir. Une veste augmentant la Défense Spéciale, mais empêchant d'utiliser des attaques de statut. |
+|  683       19 |  |  6 |      Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen. |
+|  683       19 |  |  7 |      Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar ataques de estado. |
+|  683       19 |  |  8 |      Strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale ma impedisce l'uso di mosse di stato. |
+|  683       19 |  |  9 |      An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. |
+|  683       19 |  |  11 |     攻撃的に　なる　チョッキ。 持たせると　特防が　あがるが 変化技を　だせなくなる。 |
+|  683       19 |  |  12 |     会变得富有攻击性的背心。 虽然携带后特防会提高， 但会无法使出变化招式。 |
+|  683       20 |  |  1 |      こうげきてきに　なる　チョッキ。 もたせると　とくぼうが　あがるが へんかわざを　だせなくなる。 |
+|  683       20 |  |  3 |      공격적으로 변하는 조끼. 지니게 하면 특수방어가 올라가지만 변화 기술을 쓸 수 없게 된다. |
+|  683       20 |  |  4 |      會變得富有攻擊性的背心。 雖然攜帶後特防會提高， 但會無法使出變化招式。 |
+|  683       20 |  |  5 |      Objet à tenir. Une veste augmentant la Défense Spéciale, mais empêchant d'utiliser des capacités de statut. |
+|  683       20 |  |  6 |      Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen. |
+|  683       20 |  |  7 |      Chaleco que potencia la Defensa Especial del Pokémon que lo lleva, pero le impide lanzar movimientos de estado. |
+|  683       20 |  |  8 |      Strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale ma impedisce l'uso di mosse di stato. |
+|  683       20 |  |  9 |      An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves. |
+|  683       20 |  |  11 |     攻撃的に　なる　チョッキ。 持たせると　特防が　あがるが 変化技を　だせなくなる。 |
+|  683       20 |  |  12 |     会变得富有攻击性的背心。 虽然携带后特防会提高， 但会无法使出变化招式。 |
+|  684       15 |  |  1 |      フェアリーの　タイプの　せきばん。 もたせると　フェアリータイプの わざの　いりょくが　つよまる。 |
+|  684       15 |  |  3 |      페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다. |
+|  684       15 |  |  5 |      Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée. |
+|  684       15 |  |  6 |      Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee. |
+|  684       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate. |
+|  684       15 |  |  8 |      Strumento da dare a un Pokémon. Lastra di pietra che potenzia le mosse di tipo Folletto. |
+|  684       15 |  |  9 |      An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves. |
+|  684       15 |  |  11 |     フェアリーの　タイプの　石盤。 持たせると　フェアリータイプの 技の　威力が　強まる。 |
+|  684       17 |  |  1 |      フェアリーの　タイプの　せきばん。 もたせると　フェアリータイプの わざの　いりょくが　つよまる。 |
+|  684       17 |  |  3 |      페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다. |
+|  684       17 |  |  4 |      妖精屬性的石板。 攜帶後，妖精屬性的 招式威力就會增強。 |
+|  684       17 |  |  5 |      Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée. |
+|  684       17 |  |  6 |      Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee. |
+|  684       17 |  |  7 |      Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon. |
+|  684       17 |  |  8 |      Strumento da dare a un Pokémon. Lastra di pietra che potenzia le mosse di tipo Folletto. |
+|  684       17 |  |  9 |      An item to be held by a Pokémon. It's a stone tablet that boosts the power of Fairy-type moves. |
+|  684       17 |  |  11 |     フェアリーの　タイプの　石盤。 持たせると　フェアリータイプの 技の　威力が　強まる。 |
+|  684       17 |  |  12 |     妖精属性的石板。 携带后，妖精属性的 招式威力就会增强。 |
+|  684       18 |  |  1 |      フェアリーの　タイプの　せきばん。 もたせると　フェアリータイプの わざの　いりょくが　つよまる。 |
+|  684       18 |  |  3 |      페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다. |
+|  684       18 |  |  4 |      妖精屬性的石板。 攜帶後，妖精屬性的 招式威力就會增強。 |
+|  684       18 |  |  5 |      Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée. |
+|  684       18 |  |  6 |      Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee. |
+|  684       18 |  |  7 |      Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon. |
+|  684       18 |  |  8 |      Strumento da dare a un Pokémon. Lastra di pietra che potenzia le mosse di tipo Folletto. |
+|  684       18 |  |  9 |      An item to be held by a Pokémon. It's a stone tablet that boosts the power of Fairy-type moves. |
+|  684       18 |  |  11 |     フェアリーの　タイプの　石盤。 持たせると　フェアリータイプの 技の　威力が　強まる。 |
+|  684       18 |  |  12 |     妖精属性的石板。 携带后，妖精属性的 招式威力就会增强。 |
+|  684       19 |  |  1 |      フェアリーの　タイプの　せきばん。 もたせると　フェアリータイプの わざの　いりょくが　つよまる。 |
+|  684       19 |  |  3 |      페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다. |
+|  684       19 |  |  4 |      妖精屬性的石板。 攜帶後，妖精屬性的 招式威力就會增強。 |
+|  684       19 |  |  5 |      Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée. |
+|  684       19 |  |  6 |      Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee. |
+|  684       19 |  |  7 |      Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon. |
+|  684       19 |  |  8 |      Strumento da dare a un Pokémon. Lastra di pietra che potenzia le mosse di tipo Folletto. |
+|  684       19 |  |  9 |      An item to be held by a Pokémon. It's a stone tablet that boosts the power of Fairy-type moves. |
+|  684       19 |  |  11 |     フェアリーの　タイプの　石盤。 持たせると　フェアリータイプの 技の　威力が　強まる。 |
+|  684       19 |  |  12 |     妖精属性的石板。 携带后，妖精属性的 招式威力就会增强。 |
+|  684       20 |  |  1 |      フェアリーの　タイプの　せきばん。 もたせると　フェアリータイプの わざの　いりょくが　つよまる。 |
+|  684       20 |  |  3 |      페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다. |
+|  684       20 |  |  4 |      妖精屬性的石板。 攜帶後，妖精屬性的 招式威力就會增強。 |
+|  684       20 |  |  5 |      Objet à tenir. Une tablette en pierre augmentant la puissance des capacités de type Fée. |
+|  684       20 |  |  6 |      Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee. |
+|  684       20 |  |  7 |      Tabla de piedra que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon. |
+|  684       20 |  |  8 |      Strumento da dare a un Pokémon. Lastra di pietra che potenzia le mosse di tipo Folletto. |
+|  684       20 |  |  9 |      An item to be held by a Pokémon. It's a stone tablet that boosts the power of Fairy-type moves. |
+|  684       20 |  |  11 |     フェアリーの　タイプの　石盤。 持たせると　フェアリータイプの 技の　威力が　強まる。 |
+|  684       20 |  |  12 |     妖精属性的石板。 携带后，妖精属性的 招式威力就会增强。 |
+|  685       15 |  |  1 |      ２しゅるいの　とくせいを　もつ ポケモンに　つかうと　いまとはちがう とくせいに　かえられる　カプセル。 |
+|  685       15 |  |  3 |      2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐. |
+|  685       15 |  |  5 |      Une capsule permettant à un Pokémon pouvant avoir deux talents de changer de l'un à l'autre. |
+|  685       15 |  |  6 |      Bei Anwendung auf ein Pokémon, das zwei verschiedene Fähigkeiten haben kann, wird seine aktuelle Fähigkeit mit der anderen ausgewechselt. |
+|  685       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaziken en combate. |
+|  685       15 |  |  8 |      Se usata su un Pokémon che ha due abilità, questa capsula permette di cambiare quella attiva. |
+|  685       15 |  |  9 |      A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used. |
+|  685       15 |  |  11 |     ２種類の　特性を　持つ ポケモンに　使うと　今とは違う 特性に　変えられる　カプセル。 |
+|  685       17 |  |  1 |      ２しゅるいの　とくせいを　もつ ポケモンに　つかうと　いまとはちがう とくせいに　かえられる　カプセル。 |
+|  685       17 |  |  3 |      2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐. |
+|  685       17 |  |  4 |      如果用於有著２種特性的 寶可夢，就能使其特性 變為另外一種的膠囊。 |
+|  685       17 |  |  5 |      Une capsule permettant à un Pokémon pouvant avoir deux talents de passer de l'un à l'autre. |
+|  685       17 |  |  6 |      Bei Anwendung auf ein Pokémon, das zwei verschiedene Fähigkeiten haben kann, wird seine aktuelle Fähigkeit mit der anderen ausgewechselt. |
+|  685       17 |  |  7 |      Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos. |
+|  685       17 |  |  8 |      Se usata su un Pokémon che può avere due abilità, questa capsula permette di cambiare quella attiva. |
+|  685       17 |  |  9 |      A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used. |
+|  685       17 |  |  11 |     ２種類の　特性を　持つ ポケモンに　使うと　今とは違う 特性に　変えられる　カプセル。 |
+|  685       17 |  |  12 |     如果用于有着２种特性的宝可梦， 就能令其现有特性变为另一种的胶囊。 |
+|  685       18 |  |  1 |      ２しゅるいの　とくせいを　もつ ポケモンに　つかうと　いまとはちがう とくせいに　かえられる　カプセル。 |
+|  685       18 |  |  3 |      2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐. |
+|  685       18 |  |  4 |      如果用於有著２種特性的 寶可夢，就能使其特性 變為另外一種的膠囊。 |
+|  685       18 |  |  5 |      Une capsule permettant à un Pokémon pouvant avoir deux talents de passer de l'un à l'autre. |
+|  685       18 |  |  6 |      Bei Anwendung auf ein Pokémon, das zwei verschiedene Fähigkeiten haben kann, wird seine aktuelle Fähigkeit mit der anderen ausgewechselt. |
+|  685       18 |  |  7 |      Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos. |
+|  685       18 |  |  8 |      Se usata su un Pokémon che può avere due abilità, questa capsula permette di cambiare quella attiva. |
+|  685       18 |  |  9 |      A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used. |
+|  685       18 |  |  11 |     ２種類の　特性を　持つ ポケモンに　使うと　今とは違う 特性に　変えられる　カプセル。 |
+|  685       18 |  |  12 |     如果用于有着２种特性的宝可梦， 就能令其现有特性变为另一种的胶囊。 |
+|  685       19 |  |  1 |      ２しゅるいの　とくせいを　もつ ポケモンに　つかうと　いまとはちがう とくせいに　かえられる　カプセル。 |
+|  685       19 |  |  3 |      2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐. |
+|  685       19 |  |  4 |      如果用於有著２種特性的 寶可夢，就能使其特性 變為另外一種的膠囊。 |
+|  685       19 |  |  5 |      Une capsule permettant à un Pokémon pouvant avoir deux talents de passer de l'un à l'autre. |
+|  685       19 |  |  6 |      Bei Anwendung auf ein Pokémon, das zwei verschiedene Fähigkeiten haben kann, wird seine aktuelle Fähigkeit mit der anderen ausgewechselt. |
+|  685       19 |  |  7 |      Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos. |
+|  685       19 |  |  8 |      Se usata su un Pokémon che può avere due abilità, questa capsula permette di cambiare quella attiva. |
+|  685       19 |  |  9 |      A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used. |
+|  685       19 |  |  11 |     ２種類の　特性を　持つ ポケモンに　使うと　今とは違う 特性に　変えられる　カプセル。 |
+|  685       19 |  |  12 |     如果用于有着２种特性的宝可梦， 就能令其现有特性变为另一种的胶囊。 |
+|  685       20 |  |  1 |      ２しゅるいの　とくせいを　もつ ポケモンに　つかうと　いまとはちがう とくせいに　かえられる　カプセル。 |
+|  685       20 |  |  3 |      2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐. |
+|  685       20 |  |  4 |      如果用於有著２種特性的 寶可夢，就能使其特性 變為另外一種的膠囊。 |
+|  685       20 |  |  5 |      Une capsule permettant à un Pokémon pouvant avoir deux talents de passer de l'un à l'autre. |
+|  685       20 |  |  6 |      Bei Anwendung auf ein Pokémon, das zwei verschiedene Fähigkeiten haben kann, wird seine aktuelle Fähigkeit mit der anderen ausgewechselt. |
+|  685       20 |  |  7 |      Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos. |
+|  685       20 |  |  8 |      Se usata su un Pokémon che può avere due abilità, questa capsula permette di cambiare quella attiva. |
+|  685       20 |  |  9 |      A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used. |
+|  685       20 |  |  11 |     ２種類の　特性を　持つ ポケモンに　使うと　今とは違う 特性に　変えられる　カプセル。 |
+|  685       20 |  |  12 |     如果用于有着２种特性的宝可梦， 就能令其现有特性变为另一种的胶囊。 |
+|  686       15 |  |  1 |      ふんわり　ふわふわに　あわだてた ほんのり　あまい　クリーム。 ある　ポケモンが　このんでいる。 |
+|  686       15 |  |  3 |      풍성하게 거품을 낸 살짝 달콤한 크림. 어떤 포켓몬이 좋아한다. |
+|  686       15 |  |  5 |      Une crème sucrée qui fond dans la bouche, légère comme un nuage. Elle est appréciée d'un certain Pokémon. |
+|  686       15 |  |  6 |      Ein lockeres, leicht süßliches Häubchen aus Schlagsahne, das bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  686       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Medicham en combate. |
+|  686       15 |  |  8 |      Una spuma soffice, delicata e leggermente dolce. Piace a un Pokémon in particolare. |
+|  686       15 |  |  9 |      A soft and sweet treat made of fluffy, puffy, whipped and whirled cream. It's loved by a certain Pokémon. |
+|  686       15 |  |  11 |     ふんわり　ふわふわに　泡立てた ほんのり　甘い　クリーム。 ある　ポケモンが　好んでいる。 |
+|  686       17 |  |  1 |      ふんわり　ふわふわに　あわだてた ほんのり　あまい　クリーム。 ある　ポケモンが　このんでいる。 |
+|  686       17 |  |  3 |      풍성하게 거품을 낸 살짝 달콤한 크림. 어떤 포켓몬이 좋아한다. |
+|  686       17 |  |  4 |      鬆鬆軟軟起著泡的， 稍微有點甜的奶油。 某種寶可夢很喜歡它。 |
+|  686       17 |  |  5 |      Une crème sucrée qui fond dans la bouche, légère comme un nuage. Elle est appréciée d'un certain Pokémon. |
+|  686       17 |  |  6 |      Ein lockeres, leicht süßliches Häubchen aus Schlagsahne, das bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  686       17 |  |  7 |      Un dulce a base de suave y esponjosa nata montada. A algunos Pokémon les encanta. |
+|  686       17 |  |  8 |      Una spuma soffice, delicata e leggermente dolce. Piace a un Pokémon in particolare. |
+|  686       17 |  |  9 |      A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It's loved by a certain Pokémon. |
+|  686       17 |  |  11 |     ふんわり　ふわふわに　泡立てた ほんのり　甘い　クリーム。 ある　ポケモンが　好んでいる。 |
+|  686       17 |  |  12 |     松松软软起着泡的， 稍微有点甜的奶油。 某种宝可梦很喜欢它。 |
+|  686       18 |  |  1 |      ふんわり　ふわふわに　あわだてた ほんのり　あまい　クリーム。 ある　ポケモンが　このんでいる。 |
+|  686       18 |  |  3 |      풍성하게 거품을 낸 살짝 달콤한 크림. 어떤 포켓몬이 좋아한다. |
+|  686       18 |  |  4 |      鬆鬆軟軟起著泡的， 稍微有點甜的奶油。 某種寶可夢很喜歡它。 |
+|  686       18 |  |  5 |      Une crème sucrée qui fond dans la bouche, légère comme un nuage. Elle est appréciée d'un certain Pokémon. |
+|  686       18 |  |  6 |      Ein lockeres, leicht süßliches Häubchen aus Schlagsahne, das bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  686       18 |  |  7 |      Un dulce a base de suave y esponjosa nata montada. A algunos Pokémon les encanta. |
+|  686       18 |  |  8 |      Una spuma soffice, delicata e leggermente dolce. Piace a un Pokémon in particolare. |
+|  686       18 |  |  9 |      A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It's loved by a certain Pokémon. |
+|  686       18 |  |  11 |     ふんわり　ふわふわに　泡立てた ほんのり　甘い　クリーム。 ある　ポケモンが　好んでいる。 |
+|  686       18 |  |  12 |     松松软软起着泡的， 稍微有点甜的奶油。 某种宝可梦很喜欢它。 |
+|  686       19 |  |  1 |      ふんわり　ふわふわに　あわだてた ほんのり　あまい　クリーム。 ある　ポケモンが　このんでいる。 |
+|  686       19 |  |  3 |      풍성하게 거품을 낸 살짝 달콤한 크림. 어떤 포켓몬이 좋아한다. |
+|  686       19 |  |  4 |      鬆鬆軟軟起著泡的， 稍微有點甜的奶油。 某種寶可夢很喜歡它。 |
+|  686       19 |  |  5 |      Une crème sucrée qui fond dans la bouche, légère comme un nuage. Elle est appréciée d'un certain Pokémon. |
+|  686       19 |  |  6 |      Ein lockeres, leicht süßliches Häubchen aus Schlagsahne, das bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  686       19 |  |  7 |      Un dulce a base de suave y esponjosa nata montada. A cierto Pokémon le encanta. |
+|  686       19 |  |  8 |      Una spuma soffice, delicata e leggermente dolce. Piace a un Pokémon in particolare. |
+|  686       19 |  |  9 |      A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It's loved by a certain Pokémon. |
+|  686       19 |  |  11 |     ふんわり　ふわふわに　泡立てた ほんのり　甘い　クリーム。 ある　ポケモンが　好んでいる。 |
+|  686       19 |  |  12 |     松松软软起着泡的， 稍微有点甜的奶油。 某种宝可梦很喜欢它。 |
+|  686       20 |  |  1 |      ふんわり　ふわふわに　あわだてた ほんのり　あまい　クリーム。 ある　ポケモンが　このんでいる。 |
+|  686       20 |  |  3 |      풍성하게 거품을 낸 살짝 달콤한 크림. 어떤 포켓몬이 좋아한다. |
+|  686       20 |  |  4 |      鬆鬆軟軟起著泡的， 稍微有點甜的奶油。 某種寶可夢很喜歡它。 |
+|  686       20 |  |  5 |      Une crème sucrée qui fond dans la bouche, légère comme un nuage. Elle est appréciée d'un certain Pokémon. |
+|  686       20 |  |  6 |      Ein lockeres, leicht süßliches Häubchen aus Schlagsahne, das bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  686       20 |  |  7 |      Un dulce a base de suave y esponjosa nata montada. A cierto Pokémon le encanta. |
+|  686       20 |  |  8 |      Una spuma soffice, delicata e leggermente dolce. Piace a un Pokémon in particolare. |
+|  686       20 |  |  9 |      A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It's loved by a certain Pokémon. |
+|  686       20 |  |  11 |     ふんわり　ふわふわに　泡立てた ほんのり　甘い　クリーム。 ある　ポケモンが　好んでいる。 |
+|  686       20 |  |  12 |     松松软软起着泡的， 稍微有点甜的奶油。 某种宝可梦很喜欢它。 |
+|  687       15 |  |  1 |      ちょっと　きつめの　かおりをだす こうりょうを　つめた　ふくろ。 ある　ポケモンが　このんでいる。 |
+|  687       15 |  |  3 |      살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다. |
+|  687       15 |  |  5 |      Un sachet d'herbes et d'épices, au parfum trop marqué pour beaucoup, mais néanmoins apprécié d'un certain Pokémon. |
+|  687       15 |  |  6 |      Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  687       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Houndoom en combate. |
+|  687       15 |  |  8 |      Una bustina che contiene aromi dal profumo piuttosto intenso. Piace a un Pokémon in particolare. |
+|  687       15 |  |  9 |      A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon. |
+|  687       15 |  |  11 |     ちょっと　きつめの　香りをだす 香料を　詰めた　袋。 ある　ポケモンが　好んでいる。 |
+|  687       17 |  |  1 |      ちょっと　きつめの　かおりをだす こうりょうを　つめた　ふくろ。 ある　ポケモンが　このんでいる。 |
+|  687       17 |  |  3 |      살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다. |
+|  687       17 |  |  4 |      裝著散發有點濃的香氣的 香料的袋子。 某種寶可夢很喜歡它。 |
+|  687       17 |  |  5 |      Un sachet d'herbes et d'épices, au parfum trop marqué pour beaucoup, mais néanmoins apprécié d'un certain Pokémon. |
+|  687       17 |  |  6 |      Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  687       17 |  |  7 |      Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a ciertos Pokémon les encanta. |
+|  687       17 |  |  8 |      Una bustina che contiene aromi dal profumo piuttosto intenso. Piace a un Pokémon in particolare. |
+|  687       17 |  |  9 |      A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon. |
+|  687       17 |  |  11 |     ちょっと　きつめの　香りをだす 香料を　詰めた　袋。 ある　ポケモンが　好んでいる。 |
+|  687       17 |  |  12 |     装着散发微浓香气的 香料的袋子。 某种宝可梦很喜欢它。 |
+|  687       18 |  |  1 |      ちょっと　きつめの　かおりをだす こうりょうを　つめた　ふくろ。 ある　ポケモンが　このんでいる。 |
+|  687       18 |  |  3 |      살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다. |
+|  687       18 |  |  4 |      裝著散發有點濃的香氣的 香料的袋子。 某種寶可夢很喜歡它。 |
+|  687       18 |  |  5 |      Un sachet d'herbes et d'épices, au parfum trop marqué pour beaucoup, mais néanmoins apprécié d'un certain Pokémon. |
+|  687       18 |  |  6 |      Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  687       18 |  |  7 |      Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a ciertos Pokémon les encanta. |
+|  687       18 |  |  8 |      Una bustina che contiene aromi dal profumo piuttosto intenso. Piace a un Pokémon in particolare. |
+|  687       18 |  |  9 |      A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon. |
+|  687       18 |  |  11 |     ちょっと　きつめの　香りをだす 香料を　詰めた　袋。 ある　ポケモンが　好んでいる。 |
+|  687       18 |  |  12 |     装着散发微浓香气的 香料的袋子。 某种宝可梦很喜欢它。 |
+|  687       19 |  |  1 |      ちょっと　きつめの　かおりをだす こうりょうを　つめた　ふくろ。 ある　ポケモンが　このんでいる。 |
+|  687       19 |  |  3 |      살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다. |
+|  687       19 |  |  4 |      裝著散發有點濃的香氣的 香料的袋子。 某種寶可夢很喜歡它。 |
+|  687       19 |  |  5 |      Un sachet d'herbes et d'épices, au parfum trop marqué pour beaucoup, mais néanmoins apprécié d'un certain Pokémon. |
+|  687       19 |  |  6 |      Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  687       19 |  |  7 |      Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a cierto Pokémon le encanta. |
+|  687       19 |  |  8 |      Una bustina che contiene aromi dal profumo piuttosto intenso. Piace a un Pokémon in particolare. |
+|  687       19 |  |  9 |      A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon. |
+|  687       19 |  |  11 |     ちょっと　きつめの　香りをだす 香料を　詰めた　袋。 ある　ポケモンが　好んでいる。 |
+|  687       19 |  |  12 |     装着散发微浓香气的 香料的袋子。 某种宝可梦很喜欢它。 |
+|  687       20 |  |  1 |      ちょっと　きつめの　かおりをだす こうりょうを　つめた　ふくろ。 ある　ポケモンが　このんでいる。 |
+|  687       20 |  |  3 |      살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다. |
+|  687       20 |  |  4 |      裝著散發有點濃的香氣的 香料的袋子。 某種寶可夢很喜歡它。 |
+|  687       20 |  |  5 |      Un sachet d'herbes et d'épices, au parfum trop marqué pour beaucoup, mais néanmoins apprécié d'un certain Pokémon. |
+|  687       20 |  |  6 |      Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist. |
+|  687       20 |  |  7 |      Un saquito lleno de sustancias aromáticas cuyo perfume resulta abrumador, pero que a cierto Pokémon le encanta. |
+|  687       20 |  |  8 |      Una bustina che contiene aromi dal profumo piuttosto intenso. Piace a un Pokémon in particolare. |
+|  687       20 |  |  9 |      A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it's loved by a certain Pokémon. |
+|  687       20 |  |  11 |     ちょっと　きつめの　香りをだす 香料を　詰めた　袋。 ある　ポケモンが　好んでいる。 |
+|  687       20 |  |  12 |     装着散发微浓香气的 香料的袋子。 某种宝可梦很喜欢它。 |
+|  688       15 |  |  1 |      つかいすての　ひかりごけ。 もたせて　みずの　わざを　うけると とくぼうが　あがる。 |
+|  688       15 |  |  3 |      단 한 번 쓰면 없어지는 빛이끼. 지니게 하고 물 기술을 받으면 특수방어가 올라간다. |
+|  688       15 |  |  5 |      Du lichen à usage unique. Tenu, il augmente la Défense Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  688       15 |  |  6 |      Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet. |
+|  688       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggron en combate. |
+|  688       15 |  |  8 |      Muschio luminoso monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, la sua Difesa Speciale aumenta. |
+|  688       15 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water- type attack. It can only be used once. |
+|  688       15 |  |  11 |     使い捨ての　ひかりごけ。 持たせて　みずの　技を　受けると 特防が　あがる。 |
+|  688       17 |  |  1 |      つかいすての　ひかりごけ。 もたせて　みずの　わざを　うけると とくぼうが　あがる。 |
+|  688       17 |  |  3 |      단 한 번 쓰면 없어지는 빛이끼. 지니게 하고 물 기술을 받으면 특수방어가 올라간다. |
+|  688       17 |  |  4 |      只能使用一次的光苔。 攜帶它的寶可夢如果受到水屬性 招式攻擊，特防就會提高。 |
+|  688       17 |  |  5 |      Du lichen à usage unique. Tenu, il augmente la Défense Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  688       17 |  |  6 |      Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet. |
+|  688       17 |  |  7 |      Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua. |
+|  688       17 |  |  8 |      Muschio luminoso monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, la sua Difesa Speciale aumenta. |
+|  688       17 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once. |
+|  688       17 |  |  11 |     使い捨ての　ひかりごけ。 持たせて　みずの　技を　受けると 特防が　あがる。 |
+|  688       17 |  |  12 |     一次性使用的光苔。 携带它的宝可梦如果受到水属性 招式攻击，特防就会提高。 |
+|  688       18 |  |  1 |      つかいすての　ひかりごけ。 もたせて　みずの　わざを　うけると とくぼうが　あがる。 |
+|  688       18 |  |  3 |      단 한 번 쓰면 없어지는 빛이끼. 지니게 하고 물 기술을 받으면 특수방어가 올라간다. |
+|  688       18 |  |  4 |      只能使用一次的光苔。 攜帶它的寶可夢如果受到水屬性 招式攻擊，特防就會提高。 |
+|  688       18 |  |  5 |      Du lichen à usage unique. Tenu, il augmente la Défense Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  688       18 |  |  6 |      Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet. |
+|  688       18 |  |  7 |      Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua. |
+|  688       18 |  |  8 |      Muschio luminoso monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, la sua Difesa Speciale aumenta. |
+|  688       18 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once. |
+|  688       18 |  |  11 |     使い捨ての　ひかりごけ。 持たせて　みずの　技を　受けると 特防が　あがる。 |
+|  688       18 |  |  12 |     一次性使用的光苔。 携带它的宝可梦如果受到水属性 招式攻击，特防就会提高。 |
+|  688       19 |  |  1 |      つかいすての　ひかりごけ。 もたせて　みずの　わざを　うけると とくぼうが　あがる。 |
+|  688       19 |  |  3 |      단 한 번 쓰면 없어지는 빛이끼. 지니게 하고 물 기술을 받으면 특수방어가 올라간다. |
+|  688       19 |  |  4 |      只能使用一次的光苔。 攜帶它的寶可夢如果受到水屬性 招式攻擊，特防就會提高。 |
+|  688       19 |  |  5 |      Du lichen à usage unique. Tenu, il augmente la Défense Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  688       19 |  |  6 |      Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet. |
+|  688       19 |  |  7 |      Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua. |
+|  688       19 |  |  8 |      Muschio luminoso monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, la sua Difesa Speciale aumenta. |
+|  688       19 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Def if the holder is hit with a Water-type attack. It can only be used once. |
+|  688       19 |  |  11 |     使い捨ての　ひかりごけ。 持たせて　みずの　技を　受けると 特防が　あがる。 |
+|  688       19 |  |  12 |     一次性使用的光苔。 携带它的宝可梦如果受到水属性 招式攻击，特防就会提高。 |
+|  688       20 |  |  1 |      つかいすての　ひかりごけ。 もたせて　みずの　わざを　うけると とくぼうが　あがる。 |
+|  688       20 |  |  3 |      단 한 번 쓰면 없어지는 빛이끼. 지니게 하고 물 기술을 받으면 특수방어가 올라간다. |
+|  688       20 |  |  4 |      只能使用一次的光苔。 攜帶它的寶可夢如果受到水屬性 招式攻擊，特防就會提高。 |
+|  688       20 |  |  5 |      Objet à tenir. Du lichen à usage unique qui augmente la Défense Spéciale du porteur lorsqu'il encaisse une attaque de type Eau. |
+|  688       20 |  |  6 |      Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet. |
+|  688       20 |  |  7 |      Objeto de un solo uso. Aumenta la Defensa Especial del Pokémon que lo lleva si este recibe un ataque de tipo Agua. |
+|  688       20 |  |  8 |      Muschio luminoso monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, la sua Difesa Speciale aumenta. |
+|  688       20 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Def if the holder is hit with a Water-type attack. It can only be used once. |
+|  688       20 |  |  11 |     使い捨ての　ひかりごけ。 持たせて　みずの　技を　受けると 特防が　あがる。 |
+|  688       20 |  |  12 |     一次性使用的光苔。 携带它的宝可梦如果受到水属性 招式攻击，特防就会提高。 |
+|  689       15 |  |  1 |      つかいすての　ゆきだま。 もたせて　こおりの　わざを　うけると こうげきが　あがる。 |
+|  689       15 |  |  3 |      단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다. |
+|  689       15 |  |  5 |      Objet à usage unique. Tenue, elle augmente l'Attaque du Pokémon lorsqu'il est touché par une capacité de type Glace. |
+|  689       15 |  |  6 |      Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet. |
+|  689       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Banette en combate. |
+|  689       15 |  |  8 |      Palla di neve monouso. Se il Pokémon che ce l'ha subisce una mossa di tipo Ghiaccio, il suo Attacco aumenta. |
+|  689       15 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once. |
+|  689       15 |  |  11 |     使い捨ての　ゆきだま。 持たせて　こおりの　技を　受けると 攻撃が　あがる。 |
+|  689       17 |  |  1 |      つかいすての　ゆきだま。 もたせて　こおりの　わざを　うけると こうげきが　あがる。 |
+|  689       17 |  |  3 |      단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다. |
+|  689       17 |  |  4 |      只能使用一次的雪球。 攜帶它的寶可夢如果受到冰屬性 招式攻擊，攻擊就會提高。 |
+|  689       17 |  |  5 |      Objet à usage unique. Tenue, elle augmente l'Attaque du Pokémon lorsqu'il est touché par une capacité de type Glace. |
+|  689       17 |  |  6 |      Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet. |
+|  689       17 |  |  7 |      Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo. |
+|  689       17 |  |  8 |      Palla di neve monouso. Se il Pokémon che ce l'ha subisce una mossa di tipo Ghiaccio, il suo Attacco aumenta. |
+|  689       17 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once. |
+|  689       17 |  |  11 |     使い捨ての　ゆきだま。 持たせて　こおりの　技を　受けると 攻撃が　あがる。 |
+|  689       17 |  |  12 |     一次性使用的雪球。 携带它的宝可梦如果受到冰属性 招式攻击，攻击就会提高。 |
+|  689       18 |  |  1 |      つかいすての　ゆきだま。 もたせて　こおりの　わざを　うけると こうげきが　あがる。 |
+|  689       18 |  |  3 |      단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다. |
+|  689       18 |  |  4 |      只能使用一次的雪球。 攜帶它的寶可夢如果受到冰屬性 招式攻擊，攻擊就會提高。 |
+|  689       18 |  |  5 |      Objet à usage unique. Tenue, elle augmente l'Attaque du Pokémon lorsqu'il est touché par une capacité de type Glace. |
+|  689       18 |  |  6 |      Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet. |
+|  689       18 |  |  7 |      Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo. |
+|  689       18 |  |  8 |      Palla di neve monouso. Se il Pokémon che ce l'ha subisce una mossa di tipo Ghiaccio, il suo Attacco aumenta. |
+|  689       18 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once. |
+|  689       18 |  |  11 |     使い捨ての　ゆきだま。 持たせて　こおりの　技を　受けると 攻撃が　あがる。 |
+|  689       18 |  |  12 |     一次性使用的雪球。 携带它的宝可梦如果受到冰属性 招式攻击，攻击就会提高。 |
+|  689       19 |  |  1 |      つかいすての　ゆきだま。 もたせて　こおりの　わざを　うけると こうげきが　あがる。 |
+|  689       19 |  |  3 |      단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다. |
+|  689       19 |  |  4 |      只能使用一次的雪球。 攜帶它的寶可夢如果受到冰屬性 招式攻擊，攻擊就會提高。 |
+|  689       19 |  |  5 |      Objet à usage unique. Tenue, elle augmente l'Attaque du Pokémon lorsqu'il est touché par une capacité de type Glace. |
+|  689       19 |  |  6 |      Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet. |
+|  689       19 |  |  7 |      Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo. |
+|  689       19 |  |  8 |      Palla di neve monouso. Se il Pokémon che ce l'ha subisce una mossa di tipo Ghiaccio, il suo Attacco aumenta. |
+|  689       19 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once. |
+|  689       19 |  |  11 |     使い捨ての　ゆきだま。 持たせて　こおりの　技を　受けると 攻撃が　あがる。 |
+|  689       19 |  |  12 |     一次性使用的雪球。 携带它的宝可梦如果受到冰属性 招式攻击，攻击就会提高。 |
+|  689       20 |  |  1 |      つかいすての　ゆきだま。 もたせて　こおりの　わざを　うけると こうげきが　あがる。 |
+|  689       20 |  |  3 |      단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다. |
+|  689       20 |  |  4 |      只能使用一次的雪球。 攜帶它的寶可夢如果受到冰屬性 招式攻擊，攻擊就會提高。 |
+|  689       20 |  |  5 |      Objet à tenir. Une boule de neige à usage unique qui augmente l'Attaque du porteur lorsqu'il encaisse une attaque de type Glace. |
+|  689       20 |  |  6 |      Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet. |
+|  689       20 |  |  7 |      Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo Hielo. |
+|  689       20 |  |  8 |      Palla di neve monouso. Se il Pokémon che ce l'ha subisce una mossa di tipo Ghiaccio, il suo Attacco aumenta. |
+|  689       20 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once. |
+|  689       20 |  |  11 |     使い捨ての　ゆきだま。 持たせて　こおりの　技を　受けると 攻撃が　あがる。 |
+|  689       20 |  |  12 |     一次性使用的雪球。 携带它的宝可梦如果受到冰属性 招式攻击，攻击就会提高。 |
+|  690       15 |  |  1 |      てんこうの　ダメージだけでなく こなを　だす　わざの こうかも　ふせげる　ゴーグル。 |
+|  690       15 |  |  3 |      날씨로 인한 데미지뿐만 아니라 가루를 내보내는 기술의 효과도 막을 수 있는 고글. |
+|  690       15 |  |  5 |      Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre. |
+|  690       15 |  |  6 |      Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird. |
+|  690       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyranitar en combate. |
+|  690       15 |  |  8 |      Visiera che protegge dai danni legati alle condizioni atmosferiche e dalla maggior parte delle mosse che rilasciano polvere. |
+|  690       15 |  |  9 |      An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder. |
+|  690       15 |  |  11 |     天候の　ダメージだけでなく 粉を　だす　技の 効果も　防げる　ゴーグル。 |
+|  690       17 |  |  1 |      てんこうの　ダメージだけでなく こなを　だす　わざの こうかも　ふせげる　ゴーグル。 |
+|  690       17 |  |  3 |      날씨로 인한 데미지뿐만 아니라 가루를 내보내는 기술의 효과도 막을 수 있는 고글. |
+|  690       17 |  |  4 |      不單是天氣造成的傷害， 連放出粉末的招式效果 也能防止的護目鏡。 |
+|  690       17 |  |  5 |      Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre. |
+|  690       17 |  |  6 |      Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird. |
+|  690       17 |  |  7 |      Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales. |
+|  690       17 |  |  8 |      Visiera che protegge dai danni legati alle condizioni atmosferiche e dalla maggior parte delle mosse che rilasciano polvere. |
+|  690       17 |  |  9 |      An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder. |
+|  690       17 |  |  11 |     天候の　ダメージだけでなく 粉を　だす　技の 効果も　防げる　ゴーグル。 |
+|  690       17 |  |  12 |     不单是天气造成的伤害， 就连粉末类招式的效果 也能防御的护目镜。 |
+|  690       18 |  |  1 |      てんこうの　ダメージだけでなく こなを　だす　わざの こうかも　ふせげる　ゴーグル。 |
+|  690       18 |  |  3 |      날씨로 인한 데미지뿐만 아니라 가루를 내보내는 기술의 효과도 막을 수 있는 고글. |
+|  690       18 |  |  4 |      不單是天氣造成的傷害， 連放出粉末的招式效果 也能防止的護目鏡。 |
+|  690       18 |  |  5 |      Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre. |
+|  690       18 |  |  6 |      Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird. |
+|  690       18 |  |  7 |      Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales. |
+|  690       18 |  |  8 |      Visiera che protegge dai danni legati alle condizioni atmosferiche e dalla maggior parte delle mosse che rilasciano polvere. |
+|  690       18 |  |  9 |      An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder. |
+|  690       18 |  |  11 |     天候の　ダメージだけでなく 粉を　だす　技の 効果も　防げる　ゴーグル。 |
+|  690       18 |  |  12 |     不单是天气造成的伤害， 就连粉末类招式的效果 也能防御的护目镜。 |
+|  690       19 |  |  1 |      てんこうの　ダメージだけでなく こなを　だす　わざの こうかも　ふせげる　ゴーグル。 |
+|  690       19 |  |  3 |      날씨로 인한 데미지뿐만 아니라 가루를 내보내는 기술의 효과도 막을 수 있는 고글. |
+|  690       19 |  |  4 |      不單是天氣造成的傷害， 連放出粉末的招式效果 也能防止的護目鏡。 |
+|  690       19 |  |  5 |      Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre. |
+|  690       19 |  |  6 |      Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird. |
+|  690       19 |  |  7 |      Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales. |
+|  690       19 |  |  8 |      Visiera che protegge dai danni legati alle condizioni atmosferiche e dalla maggior parte delle mosse che rilasciano polvere. |
+|  690       19 |  |  9 |      An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder. |
+|  690       19 |  |  11 |     天候の　ダメージだけでなく 粉を　だす　技の 効果も　防げる　ゴーグル。 |
+|  690       19 |  |  12 |     不单是天气造成的伤害， 就连粉末类招式的效果 也能防御的护目镜。 |
+|  690       20 |  |  1 |      てんこうの　ダメージだけでなく こなを　だす　わざの こうかも　ふせげる　ゴーグル。 |
+|  690       20 |  |  3 |      날씨로 인한 데미지뿐만 아니라 가루를 내보내는 기술의 효과도 막을 수 있는 고글. |
+|  690       20 |  |  4 |      不單是天氣造成的傷害， 連放出粉末的招式效果 也能防止的護目鏡。 |
+|  690       20 |  |  5 |      Objet à tenir. Protège le Pokémon contre les dégâts dus à la météo et la plupart des capacités utilisant de la poudre. |
+|  690       20 |  |  6 |      Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird. |
+|  690       20 |  |  7 |      Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales. |
+|  690       20 |  |  8 |      Visiera che protegge dai danni legati alle condizioni atmosferiche e dalla maggior parte delle mosse che rilasciano polvere. |
+|  690       20 |  |  9 |      An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder. |
+|  690       20 |  |  11 |     天候の　ダメージだけでなく 粉を　だす　技の 効果も　防げる　ゴーグル。 |
+|  690       20 |  |  12 |     不单是天气造成的伤害， 就连粉末类招式的效果 也能防御的护目镜。 |
+|  691       15 |  |  1 |      きのみばたけで　つかえる。 こまめに　せわを　しなくても とれる　きのみの　かずが　ふえる。 |
+|  691       15 |  |  3 |      나무열매 밭에서 쓸 수 있다. 자주 돌보지 않아도 얻을 수 있는 나무열매의 수가 늘어난다. |
+|  691       15 |  |  5 |      Un engrais servant à faire pousser des Baies. Il augmente le nombre de Baies récoltées sans que le jardinier ait à s'occuper du plant. |
+|  691       15 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Ohne viel Zutun erhöht er die Ausbeute bei der Beerenernte. |
+|  691       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Pinsir en combate. |
+|  691       15 |  |  8 |      Fertilizzante usato nell'orto delle bacche. Aumenta la quantità di bacche ottenute senza che siano necessarie cure particolari. |
+|  691       15 |  |  9 |      Mulch to be used in a Berry field. It increases the Berry harvest without the need for particularly diligent care. |
+|  691       15 |  |  11 |     きのみ畑で　使える。 こまめに　世話を　しなくても 採れる　きのみの　数が　増える。 |
+|  691       17 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  691       17 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  691       17 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  691       17 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  691       17 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  691       17 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  691       17 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  691       17 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  691       17 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  691       17 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  691       18 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  691       18 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  691       18 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  691       18 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  691       18 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  691       18 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  691       18 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  691       18 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  691       18 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  691       18 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  691       19 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  691       19 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  691       19 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  691       19 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  691       19 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  691       19 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  691       19 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  691       19 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  691       19 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  691       19 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  691       20 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  691       20 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  691       20 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  691       20 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  691       20 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  691       20 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  691       20 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  691       20 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  691       20 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  691       20 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  692       15 |  |  1 |      きのみばたけで　つかえる。 きのみの　くみあわせに　よっては とつぜんへんいが　はっせい　する。 |
+|  692       15 |  |  3 |      나무열매 밭에서 쓸 수 있다. 나무열매의 조합에 따라 돌연변이가 발생한다. |
+|  692       15 |  |  5 |      Un engrais servant à faire pousser des Baies. Il provoque des mutations soudaines en fonction de la combinaison de Baies plantées. |
+|  692       15 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Je nach Anordnung der Beeren kann er bei der Ernte Mutationen hervorrufen. |
+|  692       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Aerodactyl en combate. |
+|  692       15 |  |  8 |      Fertilizzante usato nell'orto delle bacche. Produce delle mutazioni inaspettate in base alla combinazione di bacche. |
+|  692       15 |  |  9 |      Mulch to be used in a Berry field. It causes strange, sudden mutations based on the combination of Berries. |
+|  692       15 |  |  11 |     きのみ畑で　使える。 きのみの　組み合わせに　よっては 突然変異が　発生　する。 |
+|  692       17 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  692       17 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  692       17 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  692       17 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  692       17 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  692       17 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  692       17 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  692       17 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  692       17 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  692       17 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  692       18 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  692       18 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  692       18 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  692       18 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  692       18 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  692       18 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  692       18 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  692       18 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  692       18 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  692       18 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  692       19 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  692       19 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  692       19 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  692       19 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  692       19 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  692       19 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  692       19 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  692       19 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  692       19 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  692       19 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  692       20 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  692       20 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  692       20 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  692       20 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  692       20 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  692       20 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  692       20 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  692       20 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  692       20 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  692       20 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  693       15 |  |  1 |      きのみばたけで　つかえる。 みずを　おおく　まくことで とれる　きのみの　かずが　ふえる。 |
+|  693       15 |  |  3 |      나무열매 밭에서 쓸 수 있다. 물을 많이 주면 얻을 수 있는 나무열매의 수가 늘어난다. |
+|  693       15 |  |  5 |      Un engrais servant à faire pousser des Baies. Il augmente le nombre de Baies récoltées si elles sont arrosées avec beaucoup d'eau. |
+|  693       15 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Er erhöht die Ausbeute bei der Ernte, wenn das Feld oft bewässert wird. |
+|  693       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Lucario en combate. |
+|  693       15 |  |  8 |      Fertilizzante usato nell'orto delle bacche. Aumenta la quantità di bacche raccolte grazie a un'abbondante annaffiatura. |
+|  693       15 |  |  9 |      Mulch to be used in a Berry field. It increases the Berry harvest that can be grown by diligent watering. |
+|  693       15 |  |  11 |     きのみ畑で　使える。 水を　おおく　まくことで 採れる　きのみの　数が　増える。 |
+|  693       17 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  693       17 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  693       17 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  693       17 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  693       17 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  693       17 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  693       17 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  693       17 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  693       17 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  693       17 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  693       18 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  693       18 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  693       18 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  693       18 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  693       18 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  693       18 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  693       18 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  693       18 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  693       18 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  693       18 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  693       19 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  693       19 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  693       19 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  693       19 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  693       19 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  693       19 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  693       19 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  693       19 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  693       19 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  693       19 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  693       20 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  693       20 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  693       20 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  693       20 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  693       20 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  693       20 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  693       20 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  693       20 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  693       20 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  693       20 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  694       15 |  |  1 |      たわわこやし　びっくりこやし ぐんぐんこやしの　とくちょうを すべて　そなえた　すごい　こやし。 |
+|  694       15 |  |  3 |      주렁주렁비료와 깜놀비료, 부쩍부쩍비료의 특징을 모두 지닌 굉장한 비료. |
+|  694       15 |  |  5 |      Un engrais servant à faire pousser des Baies. Il combine les effets du Fertibondance, du Fertistantané et du Fertibérance. |
+|  694       15 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Ein Spitzenmulch, der die Wirkung von Wucher-, Wunder- und Sprießmulch in sich vereint. |
+|  694       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Abomasnow en combate. |
+|  694       15 |  |  8 |      Un fertilizzante incredibile che combina gli effetti di Fertilflorido, Fertilsorpresa e Fertilcopioso. |
+|  694       15 |  |  9 |      Mulch to be used in a Berry field. An amazing Mulch with the effects of Rich, Surprise, and Boost Mulch. |
+|  694       15 |  |  11 |     たわわこやし　びっくりこやし ぐんぐんこやしの　特徴を すべて　備えた　すごい　こやし。 |
+|  694       17 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  694       17 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  694       17 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  694       17 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  694       17 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  694       17 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  694       17 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  694       17 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  694       17 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  694       17 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  694       18 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  694       18 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  694       18 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  694       18 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  694       18 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  694       18 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  694       18 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  694       18 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  694       18 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  694       18 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  694       19 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  694       19 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  694       19 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  694       19 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  694       19 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  694       19 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  694       19 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  694       19 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  694       19 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  694       19 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  694       20 |  |  1 |      きのみを　そだてるときの　ひりょう。 しかし　ホウエンちほうの　つちには まるで　なじまないので　こうかが　ない。 |
+|  694       20 |  |  3 |      나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다. |
+|  694       20 |  |  4 |      培育樹果時的肥料。 但完全不適合豐緣地區的土壤， 所以沒什麼效果。 |
+|  694       20 |  |  5 |      Un engrais à utiliser sur un sol meuble. Il n'est cependant pas adapté aux terres de Hoenn et n'y a aucun effet. |
+|  694       20 |  |  6 |      Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung. |
+|  694       20 |  |  7 |      Un fertilizante usado para el cultivo de bayas. Parece que no se asienta bien en el suelo de Hoenn, por lo que no tiene efecto en esta región. |
+|  694       20 |  |  8 |      Fertilizzante usato per coltivare le bacche. Tuttavia, non ha effetto a Hoenn, perché non è adatto al terreno della regione. |
+|  694       20 |  |  9 |      A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect. |
+|  694       20 |  |  11 |     きのみを　育てるときの　肥料。 しかし　ホウエン地方の　土には まるで　なじまないので　効果が　ない。 |
+|  694       20 |  |  12 |     培育树果时的肥料。 但完全不适合丰缘地区的土壤， 所以没什么效果。 |
+|  695       15 |  |  1 |      ゲンガーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  695       15 |  |  3 |      팬텀에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  695       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Ectoplasma, elle lui permet de méga-évoluer durant un combat. |
+|  695       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Gengar getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  695       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Kangaskhan en combate. |
+|  695       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gengar, gli permette di megaevolversi durante la lotta. |
+|  695       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle. |
+|  695       15 |  |  11 |     ゲンガーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  695       17 |  |  1 |      ゲンガーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  695       17 |  |  3 |      팬텀에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  695       17 |  |  4 |      讓耿鬼攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  695       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Ectoplasma, elle lui permet de méga-évoluer durant un combat. |
+|  695       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Gengar getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  695       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate. |
+|  695       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gengar, gli permette di megaevolversi durante la lotta. |
+|  695       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle. |
+|  695       17 |  |  11 |     ゲンガーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  695       17 |  |  12 |     让耿鬼携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  695       18 |  |  1 |      ゲンガーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  695       18 |  |  3 |      팬텀에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  695       18 |  |  4 |      讓耿鬼攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  695       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Ectoplasma, elle lui permet de méga-évoluer durant un combat. |
+|  695       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Gengar getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  695       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate. |
+|  695       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gengar, gli permette di megaevolversi durante la lotta. |
+|  695       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle. |
+|  695       18 |  |  11 |     ゲンガーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  695       18 |  |  12 |     让耿鬼携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  695       19 |  |  1 |      たたかいのとき　ゲンガーを メガシンカ　させることが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  695       19 |  |  3 |      배틀할 때 팬텀을 메가진화시킬 수 있는 신비한 메가스톤의 일종. |
+|  695       19 |  |  4 |      能在戰鬥時 讓耿鬼進行超級進化的 一種神奇超級石。 |
+|  695       19 |  |  5 |      Une variété de Méga-Gemme. Elle permet à un Ectoplasma de méga-évoluer durant un combat. |
+|  695       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Ermöglicht es einem Gengar, im Kampf die Mega-Entwicklung durchzuführen. |
+|  695       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate. |
+|  695       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Permette a Gengar di megaevolversi durante la lotta. |
+|  695       19 |  |  9 |      One of a variety of mysterious Mega Stones. This stone will enable Gengar to Mega Evolve during battle. |
+|  695       19 |  |  11 |     戦いのとき　ゲンガーを メガシンカ　させることが　できる 不思議な　メガストーンの　一種。 |
+|  695       19 |  |  12 |     能在战斗时让耿鬼 进行超级进化的 一种神奇超级石。 |
+|  695       20 |  |  1 |      ゲンガーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  695       20 |  |  3 |      팬텀에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  695       20 |  |  4 |      讓耿鬼攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  695       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Ectoplasma, elle lui permet de méga-évoluer durant un combat. |
+|  695       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Gengar getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  695       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate. |
+|  695       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gengar, gli permette di megaevolversi durante la lotta. |
+|  695       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle. |
+|  695       20 |  |  11 |     ゲンガーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  695       20 |  |  12 |     让耿鬼携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  696       15 |  |  1 |      サーナイトに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  696       15 |  |  3 |      가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  696       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Gardevoir, elle lui permet de méga-évoluer durant un combat. |
+|  696       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Guardevoir getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  696       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyarados en combate. |
+|  696       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gardevoir, gli permette di megaevolversi durante la lotta. |
+|  696       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle. |
+|  696       15 |  |  11 |     サーナイトに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  696       17 |  |  1 |      サーナイトに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  696       17 |  |  3 |      가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  696       17 |  |  4 |      讓沙奈朵攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  696       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Gardevoir, elle lui permet de méga-évoluer durant un combat. |
+|  696       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Guardevoir getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  696       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate. |
+|  696       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gardevoir, gli permette di megaevolversi durante la lotta. |
+|  696       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle. |
+|  696       17 |  |  11 |     サーナイトに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  696       17 |  |  12 |     让沙奈朵携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  696       18 |  |  1 |      サーナイトに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  696       18 |  |  3 |      가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  696       18 |  |  4 |      讓沙奈朵攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  696       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Gardevoir, elle lui permet de méga-évoluer durant un combat. |
+|  696       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Guardevoir getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  696       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate. |
+|  696       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gardevoir, gli permette di megaevolversi durante la lotta. |
+|  696       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle. |
+|  696       18 |  |  11 |     サーナイトに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  696       18 |  |  12 |     让沙奈朵携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  696       19 |  |  1 |      サーナイトに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  696       19 |  |  3 |      가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  696       19 |  |  4 |      讓沙奈朵攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  696       19 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Gardevoir, elle lui permet de méga-évoluer durant un combat. |
+|  696       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Guardevoir getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  696       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate. |
+|  696       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gardevoir, gli permette di megaevolversi durante la lotta. |
+|  696       19 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle. |
+|  696       19 |  |  11 |     サーナイトに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  696       19 |  |  12 |     让沙奈朵携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  696       20 |  |  1 |      サーナイトに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  696       20 |  |  3 |      가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  696       20 |  |  4 |      讓沙奈朵攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  696       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Gardevoir, elle lui permet de méga-évoluer durant un combat. |
+|  696       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Guardevoir getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  696       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate. |
+|  696       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Gardevoir, gli permette di megaevolversi durante la lotta. |
+|  696       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle. |
+|  696       20 |  |  11 |     サーナイトに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  696       20 |  |  12 |     让沙奈朵携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  697       15 |  |  1 |      デンリュウに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  697       15 |  |  3 |      전룡에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  697       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Pharamp, elle lui permet de méga-évoluer durant un combat. |
+|  697       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Ampharos getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  697       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Absol en combate. |
+|  697       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data ad Ampharos, gli permette di megaevolversi durante la lotta. |
+|  697       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle. |
+|  697       15 |  |  11 |     デンリュウに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  697       17 |  |  1 |      デンリュウに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  697       17 |  |  3 |      전룡에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  697       17 |  |  4 |      讓電龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  697       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Pharamp, elle lui permet de méga-évoluer durant un combat. |
+|  697       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Ampharos getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  697       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate. |
+|  697       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data ad Ampharos, gli permette di megaevolversi durante la lotta. |
+|  697       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle. |
+|  697       17 |  |  11 |     デンリュウに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  697       17 |  |  12 |     让电龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  697       18 |  |  1 |      デンリュウに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  697       18 |  |  3 |      전룡에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  697       18 |  |  4 |      讓電龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  697       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Pharamp, elle lui permet de méga-évoluer durant un combat. |
+|  697       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Ampharos getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  697       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate. |
+|  697       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data ad Ampharos, gli permette di megaevolversi durante la lotta. |
+|  697       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle. |
+|  697       18 |  |  11 |     デンリュウに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  697       18 |  |  12 |     让电龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  697       19 |  |  1 |      デンリュウに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  697       19 |  |  3 |      전룡에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  697       19 |  |  4 |      讓電龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  697       19 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Pharamp, elle lui permet de méga-évoluer durant un combat. |
+|  697       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Ampharos getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  697       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate. |
+|  697       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Data ad Ampharos, gli permette di megaevolversi durante la lotta. |
+|  697       19 |  |  9 |      One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle. |
+|  697       19 |  |  11 |     デンリュウに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  697       19 |  |  12 |     让电龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  697       20 |  |  1 |      デンリュウに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  697       20 |  |  3 |      전룡에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  697       20 |  |  4 |      讓電龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  697       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Pharamp, elle lui permet de méga-évoluer durant un combat. |
+|  697       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Ampharos getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  697       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate. |
+|  697       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data ad Ampharos, gli permette di megaevolversi durante la lotta. |
+|  697       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle. |
+|  697       20 |  |  11 |     デンリュウに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  697       20 |  |  12 |     让电龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  698       15 |  |  1 |      フシギバナに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  698       15 |  |  3 |      이상해꽃에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  698       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Florizarre, elle lui permet de méga-évoluer durant un combat. |
+|  698       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Bisaflor getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  698       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate. |
+|  698       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Venusaur, gli permette di megaevolversi durante la lotta. |
+|  698       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle. |
+|  698       15 |  |  11 |     フシギバナに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  698       17 |  |  1 |      フシギバナに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  698       17 |  |  3 |      이상해꽃에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  698       17 |  |  4 |      讓妙蛙花攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  698       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Florizarre, elle lui permet de méga-évoluer durant un combat. |
+|  698       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Bisaflor getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  698       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate. |
+|  698       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Venusaur, gli permette di megaevolversi durante la lotta. |
+|  698       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle. |
+|  698       17 |  |  11 |     フシギバナに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  698       17 |  |  12 |     让妙蛙花携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  698       18 |  |  1 |      フシギバナに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  698       18 |  |  3 |      이상해꽃에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  698       18 |  |  4 |      讓妙蛙花攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  698       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Florizarre, elle lui permet de méga-évoluer durant un combat. |
+|  698       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Bisaflor getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  698       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate. |
+|  698       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Venusaur, gli permette di megaevolversi durante la lotta. |
+|  698       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle. |
+|  698       18 |  |  11 |     フシギバナに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  698       18 |  |  12 |     让妙蛙花携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  698       19 |  |  1 |      たたかいのとき　フシギバナを メガシンカ　させることが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  698       19 |  |  3 |      배틀할 때 이상해꽃을 메가진화시킬 수 있는 신비한 메가스톤의 일종. |
+|  698       19 |  |  4 |      能在戰鬥時 讓妙蛙花進行超級進化的 一種神奇超級石。 |
+|  698       19 |  |  5 |      Une variété de Méga-Gemme. Elle permet à un Florizarre de méga-évoluer durant un combat. |
+|  698       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Ermöglicht es einem Bisaflor, im Kampf die Mega-Entwicklung durchzuführen. |
+|  698       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate. |
+|  698       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Permette a Venusaur di megaevolversi durante la lotta. |
+|  698       19 |  |  9 |      One of a variety of mysterious Mega Stones. This stone will enable Venusaur to Mega Evolve during battle. |
+|  698       19 |  |  11 |     戦いのとき　フシギバナを メガシンカ　させることが　できる 不思議な　メガストーンの　一種。 |
+|  698       19 |  |  12 |     能在战斗时让妙蛙花 进行超级进化的 一种神奇超级石。 |
+|  698       20 |  |  1 |      フシギバナに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  698       20 |  |  3 |      이상해꽃에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  698       20 |  |  4 |      讓妙蛙花攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  698       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Florizarre, elle lui permet de méga-évoluer durant un combat. |
+|  698       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Bisaflor getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  698       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate. |
+|  698       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Venusaur, gli permette di megaevolversi durante la lotta. |
+|  698       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle. |
+|  698       20 |  |  11 |     フシギバナに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  698       20 |  |  12 |     让妙蛙花携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  699       15 |  |  1 |      リザードンに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  699       15 |  |  3 |      리자몽에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  699       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Dracaufeu, elle lui permet de méga-évoluer durant un combat. |
+|  699       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Glurak getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  699       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Alakazam en combate. |
+|  699       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Charizard, gli permette di megaevolversi durante la lotta. |
+|  699       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle. |
+|  699       15 |  |  11 |     リザードンに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  699       17 |  |  1 |      リザードンに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  699       17 |  |  3 |      리자몽에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  699       17 |  |  4 |      讓噴火龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  699       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Dracaufeu, elle lui permet de méga-évoluer durant un combat. |
+|  699       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Glurak getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  699       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate. |
+|  699       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Charizard, gli permette di megaevolversi durante la lotta. |
+|  699       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle. |
+|  699       17 |  |  11 |     リザードンに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  699       17 |  |  12 |     让喷火龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  699       18 |  |  1 |      リザードンに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  699       18 |  |  3 |      리자몽에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  699       18 |  |  4 |      讓噴火龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  699       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Dracaufeu, elle lui permet de méga-évoluer durant un combat. |
+|  699       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Glurak getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  699       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate. |
+|  699       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Charizard, gli permette di megaevolversi durante la lotta. |
+|  699       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle. |
+|  699       18 |  |  11 |     リザードンに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  699       18 |  |  12 |     让喷火龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  699       19 |  |  1 |      たたかいのとき　リザードンを メガシンカ　させることが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  699       19 |  |  3 |      배틀할 때 리자몽을 메가진화시킬 수 있는 신비한 메가스톤의 일종. |
+|  699       19 |  |  4 |      能在戰鬥時 讓噴火龍進行超級進化的 一種神奇超級石。 |
+|  699       19 |  |  5 |      Une variété de Méga-Gemme. Elle permet à un Dracaufeu de méga-évoluer durant un combat. |
+|  699       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Ermöglicht es einem Glurak, im Kampf die Mega-Entwicklung durchzuführen. |
+|  699       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate. |
+|  699       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Permette a Charizard di megaevolversi durante la lotta. |
+|  699       19 |  |  9 |      One of a variety of mysterious Mega Stones. This stone will enable Charizard to Mega Evolve during battle. |
+|  699       19 |  |  11 |     戦いのとき　リザードンを メガシンカ　させることが　できる 不思議な　メガストーンの　一種。 |
+|  699       19 |  |  12 |     能在战斗时让喷火龙 进行超级进化的 一种神奇超级石。 |
+|  699       20 |  |  1 |      リザードンに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  699       20 |  |  3 |      리자몽에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  699       20 |  |  4 |      讓噴火龍攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  699       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Dracaufeu, elle lui permet de méga-évoluer durant un combat. |
+|  699       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Glurak getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  699       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate. |
+|  699       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Charizard, gli permette di megaevolversi durante la lotta. |
+|  699       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle. |
+|  699       20 |  |  11 |     リザードンに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  699       20 |  |  12 |     让喷火龙携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  700       15 |  |  1 |      カメックスに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  700       15 |  |  3 |      거북왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  700       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Tortank, elle lui permet de méga-évoluer durant un combat. |
+|  700       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Turtok getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  700       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Heracross en combate. |
+|  700       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Blastoise, gli permette di megaevolversi durante la lotta. |
+|  700       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle. |
+|  700       15 |  |  11 |     カメックスに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  700       17 |  |  1 |      カメックスに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  700       17 |  |  3 |      거북왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  700       17 |  |  4 |      讓水箭龜攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  700       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Tortank, elle lui permet de méga-évoluer durant un combat. |
+|  700       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Turtok getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  700       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate. |
+|  700       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Blastoise, gli permette di megaevolversi durante la lotta. |
+|  700       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle. |
+|  700       17 |  |  11 |     カメックスに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  700       17 |  |  12 |     让水箭龟携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  700       18 |  |  1 |      カメックスに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  700       18 |  |  3 |      거북왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  700       18 |  |  4 |      讓水箭龜攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  700       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Tortank, elle lui permet de méga-évoluer durant un combat. |
+|  700       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Turtok getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  700       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate. |
+|  700       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Blastoise, gli permette di megaevolversi durante la lotta. |
+|  700       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle. |
+|  700       18 |  |  11 |     カメックスに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  700       18 |  |  12 |     让水箭龟携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  700       19 |  |  1 |      たたかいのとき　カメックスを メガシンカ　させることが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  700       19 |  |  3 |      배틀할 때 거북왕을 메가진화시킬 수 있는 신비한 메가스톤의 일종. |
+|  700       19 |  |  4 |      能在戰鬥時 讓水箭龜進行超級進化的 一種神奇超級石。 |
+|  700       19 |  |  5 |      Une variété de Méga-Gemme. Elle permet à un Tortank de méga-évoluer durant un combat. |
+|  700       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Ermöglicht es einem Turtok, im Kampf die Mega-Entwicklung durchzuführen. |
+|  700       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate. |
+|  700       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Permette a Blastoise di megaevolversi durante la lotta. |
+|  700       19 |  |  9 |      One of a variety of mysterious Mega Stones. This stone will enable Blastoise to Mega Evolve during battle. |
+|  700       19 |  |  11 |     戦いのとき　カメックスを メガシンカ　させることが　できる 不思議な　メガストーンの　一種。 |
+|  700       19 |  |  12 |     能在战斗时让水箭龟 进行超级进化的 一种神奇超级石。 |
+|  700       20 |  |  1 |      カメックスに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  700       20 |  |  3 |      거북왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  700       20 |  |  4 |      讓水箭龜攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  700       20 |  |  5 |      Une variété de Méga-Gemme. Tenue par un Tortank, elle lui permet de méga-évoluer durant un combat. |
+|  700       20 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Turtok getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  700       20 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate. |
+|  700       20 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Blastoise, gli permette di megaevolversi durante la lotta. |
+|  700       20 |  |  9 |      One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle. |
+|  700       20 |  |  11 |     カメックスに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  700       20 |  |  12 |     让水箭龟携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  701       15 |  |  1 |      ミュウツーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  701       15 |  |  3 |      뮤츠에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  701       15 |  |  5 |      Une variété de Méga-Gemme. Tenue par Mewtwo, elle lui permet de méga-évoluer durant un combat. |
+|  701       15 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Mewtu getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  701       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawile en combate. |
+|  701       15 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Mewtwo, gli permette di megaevolversi durante la lotta. |
+|  701       15 |  |  9 |      One variety of the mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle. |
+|  701       15 |  |  11 |     ミュウツーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  701       17 |  |  1 |      ミュウツーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  701       17 |  |  3 |      뮤츠에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  701       17 |  |  4 |      讓超夢攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  701       17 |  |  5 |      Une variété de Méga-Gemme. Tenue par Mewtwo, elle lui permet de méga-évoluer durant un combat. |
+|  701       17 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Mewtu getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  701       17 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate. |
+|  701       17 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Mewtwo, gli permette di megaevolversi durante la lotta. |
+|  701       17 |  |  9 |      One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle. |
+|  701       17 |  |  11 |     ミュウツーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  701       17 |  |  12 |     让超梦携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  701       18 |  |  1 |      ミュウツーに　もたせておくと たたかいのとき　メガシンカが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  701       18 |  |  3 |      뮤츠에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종. |
+|  701       18 |  |  4 |      讓超夢攜帶後， 在戰鬥時就能進行超級進化的 一種神奇超級石。 |
+|  701       18 |  |  5 |      Une variété de Méga-Gemme. Tenue par Mewtwo, elle lui permet de méga-évoluer durant un combat. |
+|  701       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Mewtu getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
+|  701       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate. |
+|  701       18 |  |  8 |      Un esemplare delle misteriose Megapietre. Data a Mewtwo, gli permette di megaevolversi durante la lotta. |
+|  701       18 |  |  9 |      One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle. |
+|  701       18 |  |  11 |     ミュウツーに　持たせておくと 戦いのとき　メガシンカが　できる 不思議な　メガストーンの　一種。 |
+|  701       18 |  |  12 |     让超梦携带后， 在战斗时就能进行超级进化的 一种神奇超级石。 |
+|  701       19 |  |  1 |      たたかいのとき　ミュウツーを メガシンカ　させることが　できる ふしぎな　メガストーンの　いっしゅ。 |
+|  701       19 |  |  3 |      배틀할 때 뮤츠를 메가진화시킬 수 있는 신비한 메가스톤의 일종. |
+|  701       19 |  |  4 |      能在戰鬥時 讓超夢進行超級進化的 一種神奇超級石。 |
+|  701       19 |  |  5 |      Une variété de Méga-Gemme. Elle permet à un Mewtwo de méga-évoluer durant un combat. |
+|  701       19 |  |  6 |      Einer der mysteriösen Mega-Steine. Ermöglicht es einem Mewtu, im Kampf die Mega-Entwicklung durchzuführen. |
+|  701       19 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate. |
+|  701       19 |  |  8 |      Un esemplare delle misteriose Megapietre. Permette a Mewtwo di megaevolversi durante la lotta. |
+|  701       19 |  |  9 |      One of a variety of mysterious Mega Stones. This stone will enable Mewtwo to Mega Evolve during battle. |

@@ -1,7030 +1,1752 @@
-| item_id | version_group_id | language_id | flavor_text |
-|---------|------------------|-------------|-------------|
-| 922     | 19               | 12          | 带摄像头功能，
-最多能让４人进行通话的
-最新型对讲机。                                                                                                                                        |
-| 923     | 18               | 1           | さいだい　４にんで　つうわができる
-テレビカメラきのうつきの
-さいしんがた　トランシーバー。                                                                                                                     |
-| 923     | 18               | 3           | 영상 통화 기능이 내장된
-최신식 무전기.
-최대 4명이 동시에 통화할 수 있다.                                                                                                                        |
-| 923     | 18               | 4           | 附影像鏡頭功能，
-最多能讓４人進行通話的
-最新型對講機。                                                                                                                                       |
-| 923     | 18               | 5           | Un transmetteur high-tech permettant à quatre
-personnes de communiquer par le son et l’image.                                                                      |
-| 923     | 18               | 6           | Ein hochmodernes Gerät, mit dem bis zu vier
-Personen miteinander kommunizieren können.
-Es ermöglicht sogar Video-Chat!                                             |
-| 923     | 18               | 7           | Comunicador de alta tecnología con cámara que
-permite hablar a cuatro personas a la vez.                                                                           |
-| 923     | 18               | 8           | Ricetrasmittente all’avanguardia che permette
-di fare videochiamate con un gruppo massimo
-di quattro persone.                                                      |
-| 923     | 18               | 9           | A high-tech transceiver with a camera function.
-It allows up to four-way calls.                                                                                    |
-| 923     | 18               | 11          | 最大４人で　通話ができる
-テレビカメラ機能つきの
-最新型トランシーバー。                                                                                                                               |
-| 923     | 18               | 12          | 带摄像头功能，
-最多能让４人进行通话的
-最新型对讲机。                                                                                                                                        |
-| 923     | 19               | 1           | さいだい　４にんで　つうわができる
-テレビカメラきのうつきの
-さいしんがた　トランシーバー。                                                                                                                     |
-| 923     | 19               | 3           | 영상 통화 기능이 내장된
-최신식 무전기.
-최대 4명이 동시에 통화할 수 있다.                                                                                                                        |
-| 923     | 19               | 4           | 附影像鏡頭功能，
-最多能讓４人進行通話的
-最新型對講機。                                                                                                                                       |
-| 923     | 19               | 5           | Un transmetteur high-tech permettant à quatre
-personnes de communiquer par le son et l’image.                                                                      |
-| 923     | 19               | 6           | Ein hochmodernes Gerät, mit dem bis zu vier
-Personen miteinander kommunizieren können.
-Es ermöglicht sogar Video-Chat!                                             |
-| 923     | 19               | 7           | Comunicador de alta tecnología con cámara que
-permite hablar a cuatro personas a la vez.                                                                           |
-| 923     | 19               | 8           | Ricetrasmittente all’avanguardia che permette
-di fare videochiamate con un gruppo massimo
-di quattro persone.                                                      |
-| 923     | 19               | 9           | A high-tech transceiver with a camera function.
-It allows up to four-way calls.                                                                                    |
-| 923     | 19               | 11          | 最大４人で　通話ができる
-テレビカメラ機能つきの
-最新型トランシーバー。                                                                                                                               |
-| 923     | 19               | 12          | 带摄像头功能，
-最多能让４人进行通话的
-最新型对讲机。                                                                                                                                        |
-| 923     | 20               | 1           | さいだい　４にんで　つうわができる
-テレビカメラきのうつきの
-さいしんがた　トランシーバー。                                                                                                                     |
-| 923     | 20               | 3           | 영상 통화 기능이 내장된
-최신식 무전기.
-최대 4명이 동시에 통화할 수 있다.                                                                                                                        |
-| 923     | 20               | 4           | 附影像鏡頭功能，
-最多能讓４人進行通話的
-最新型對講機。                                                                                                                                       |
-| 923     | 20               | 5           | Un transmetteur high-tech permettant à quatre
-personnes de communiquer par le son et l’image.                                                                      |
-| 923     | 20               | 6           | Ein hochmodernes Gerät, mit dem bis zu vier Personen
-miteinander kommunizieren können. Es ermöglicht sogar
-Video-Chat!                                             |
-| 923     | 20               | 7           | Comunicador de alta tecnología con cámara que
-permite hablar a cuatro personas a la vez.                                                                           |
-| 923     | 20               | 8           | Ricetrasmittente all’avanguardia che permette
-di fare videochiamate con un gruppo massimo
-di quattro persone.                                                      |
-| 923     | 20               | 9           | A high-tech transceiver with a camera function.
-It allows up to four-way calls.                                                                                    |
-| 923     | 20               | 11          | 最大４人で　通話ができる
-テレビカメラ機能つきの
-最新型トランシーバー。                                                                                                                               |
-| 923     | 20               | 12          | 带摄像头功能，
-最多能让４人进行通话的
-最新型对讲机。                                                                                                                                        |
-| 924     | 18               | 1           | もとは　ひとつだったと　いわれる
-キュレムと　あるポケモンを
-がったいさせる　いっついの　くさび。                                                                                                                  |
-| 924     | 18               | 3           | 원래는 하나였다고 전해지는
-큐레무와 어떤 포켓몬을
-합체시키는 한 쌍의 쐐기.                                                                                                                         |
-| 924     | 18               | 4           | 能讓據說原是一體的酋雷姆和
-某寶可夢合體的一對楔子。                                                                                                                                         |
-| 924     | 18               | 5           | Un outil qui permet la fusiorption de Kyurem
-et d’un autre Pokémon avec lequel il ne faisait
-qu’un à l’origine.                                                    |
-| 924     | 18               | 6           | Ein Keil, der Kyurem und ein gewisses anderes
-Pokémon, die vermeintlich einst eins gewesen sind,
-vereinigt.                                                        |
-| 924     | 18               | 7           | Punta que permite fusionar a Kyurem con cierto
-Pokémon con el que, originariamente, formaba
-un solo ser.                                                           |
-| 924     | 18               | 8           | Cuneo che permette di fondere Kyurem con il
-Pokémon al quale era unito in origine.                                                                                 |
-| 924     | 18               | 9           | A splicer that fuses Kyurem and a certain Pokémon.
-They are said to have been one in the beginning.                                                                |
-| 924     | 18               | 11          | 元は　ひとつだったと　いわれる
-キュレムと　あるポケモンを
-合体させる　一対の　くさび。                                                                                                                       |
-| 924     | 18               | 12          | 据说是能让原本为一体的
-酋雷姆和某宝可梦
-合体的一对楔子。                                                                                                                                      |
-| 924     | 19               | 1           | もとは　ひとつだったと　いわれる
-キュレムと　あるポケモンを
-がったいさせる　いっついの　くさび。                                                                                                                  |
-| 924     | 19               | 3           | 원래는 하나였다고 전해지는
-큐레무와 어떤 포켓몬을
-합체시키는 한 쌍의 쐐기.                                                                                                                         |
-| 924     | 19               | 4           | 能讓據說原是一體的酋雷姆和
-某寶可夢合體的一對楔子。                                                                                                                                         |
-| 924     | 19               | 5           | Un outil qui permet la fusiorption de Kyurem
-et d’un autre Pokémon avec lequel il ne faisait
-qu’un à l’origine.                                                    |
-| 924     | 19               | 6           | Ein Keil, der Kyurem und ein gewisses anderes
-Pokémon, die vermeintlich einst eins gewesen sind,
-vereinigt.                                                        |
-| 924     | 19               | 7           | Punta que permite fusionar a Kyurem con cierto
-Pokémon con el que, originariamente, formaba
-un solo ser.                                                           |
-| 924     | 19               | 8           | Cuneo che permette di fondere Kyurem con il
-Pokémon al quale era unito in origine.                                                                                 |
-| 924     | 19               | 9           | A splicer that fuses Kyurem and a certain Pokémon.
-They are said to have been one in the beginning.                                                                |
-| 924     | 19               | 11          | 元は　ひとつだったと　いわれる
-キュレムと　あるポケモンを
-合体させる　一対の　くさび。                                                                                                                       |
-| 924     | 19               | 12          | 据说是能让原本为一体的
-酋雷姆和某宝可梦
-合体的一对楔子。                                                                                                                                      |
-| 925     | 18               | 1           | がったいした　キュレムと
-あるポケモンを　もとどおりに
-ぶんりさせる　いっついの　くさび。                                                                                                                      |
-| 925     | 18               | 3           | 합체한 큐레무와
-어떤 포켓몬을 원래대로
-분리시키는 한 쌍의 쐐기.                                                                                                                               |
-| 925     | 18               | 4           | 能讓合體後的
-酋雷姆和某寶可夢
-分離至原狀的一對楔子。                                                                                                                                        |
-| 925     | 18               | 5           | Un outil qui permet de séparer Kyurem et
-le Pokémon avec lequel il a fusiorbé.                                                                                     |
-| 925     | 18               | 6           | Ein Keil, der Kyurem und ein gewisses anderes
-Pokémon, die vereinigt wurden, voneinander trennt.                                                                   |
-| 925     | 18               | 7           | Punta que permite separar a Kyurem del Pokémon
-con el que se ha fusionado.                                                                                         |
-| 925     | 18               | 8           | Cuneo che permette di separare Kyurem
-dal Pokémon con cui era fuso.                                                                                                |
-| 925     | 18               | 9           | A splicer that separates Kyurem and a certain
-Pokémon when they have been fused.                                                                                   |
-| 925     | 18               | 11          | 合体した　キュレムと
-あるポケモンを　元通りに
-分離させる　一対の　くさび。                                                                                                                             |
-| 925     | 18               | 12          | 能让合体后的
-酋雷姆和某宝可梦
-分离成原状的一对楔子。                                                                                                                                        |
-| 925     | 19               | 1           | がったいした　キュレムと
-あるポケモンを　もとどおりに
-ぶんりさせる　いっついの　くさび。                                                                                                                      |
-| 925     | 19               | 3           | 합체한 큐레무와
-어떤 포켓몬을 원래대로
-분리시키는 한 쌍의 쐐기.                                                                                                                               |
-| 925     | 19               | 4           | 能讓合體後的
-酋雷姆和某寶可夢
-分離至原狀的一對楔子。                                                                                                                                        |
-| 925     | 19               | 5           | Un outil qui permet de séparer Kyurem et le Pokémon
-avec lequel il a fusiorbé.                                                                                     |
-| 925     | 19               | 6           | Ein Keil, der Kyurem und ein gewisses anderes
-Pokémon, die vereinigt wurden, voneinander trennt.                                                                   |
-| 925     | 19               | 7           | Punta que permite separar a Kyurem del Pokémon
-con el que se ha fusionado.                                                                                         |
-| 925     | 19               | 8           | Cuneo che permette di separare Kyurem
-dal Pokémon con cui era fuso.                                                                                                |
-| 925     | 19               | 9           | A splicer that separates Kyurem and a certain
-Pokémon when they have been fused.                                                                                   |
-| 925     | 19               | 11          | 合体した　キュレムと
-あるポケモンを　元通りに
-分離させる　一対の　くさび。                                                                                                                             |
-| 925     | 19               | 12          | 能让合体后的
-酋雷姆和某宝可梦
-分离成原状的一对楔子。                                                                                                                                        |
-| 925     | 20               | 1           | がったいした　キュレムと
-あるポケモンを　もとどおりに
-ぶんりさせる　いっついの　くさび。                                                                                                                      |
-| 925     | 20               | 3           | 합체한 큐레무와
-어떤 포켓몬을 원래대로
-분리시키는 한 쌍의 쐐기.                                                                                                                               |
-| 925     | 20               | 4           | 能讓合體後的
-酋雷姆和某寶可夢
-分離至原狀的一對楔子。                                                                                                                                        |
-| 925     | 20               | 5           | Un outil qui permet de séparer Kyurem et le Pokémon
-avec lequel il a fusiorbé.                                                                                     |
-| 925     | 20               | 6           | Ein Keil, der Kyurem und ein gewisses anderes
-Pokémon, die vereinigt wurden, voneinander trennt.                                                                   |
-| 925     | 20               | 7           | Punta que permite separar a Kyurem del Pokémon con
-el que se ha fusionado.                                                                                         |
-| 925     | 20               | 8           | Cuneo che permette di separare Kyurem
-dal Pokémon con cui era fuso.                                                                                                |
-| 925     | 20               | 9           | A splicer that separates Kyurem and a certain
-Pokémon when they have been fused.                                                                                   |
-| 925     | 20               | 11          | 合体した　キュレムと
-あるポケモンを　元通りに
-分離させる　一対の　くさび。                                                                                                                             |
-| 925     | 20               | 12          | 能让合体后的
-酋雷姆和某宝可梦
-分离成原状的一对楔子。                                                                                                                                        |
-| 926     | 18               | 1           | ライモンシティの　ゆうえんちで
-ひろった　ライブキャスター。
-おとしぬしは　おとこのこ　らしい。                                                                                                                   |
-| 926     | 18               | 3           | 뇌문시티의 유원지에서
-주운 라이브캐스터.
-잃어버린 사람은 남자인 것 같다.                                                                                                                          |
-| 926     | 18               | 4           | 在雷文市的遊樂園裡
-撿到的即時通訊器。
-失主好像是個男孩子。                                                                                                                                     |
-| 926     | 18               | 5           | Un Vokit trouvé au parc d’attractions de Méanville.
-C’est un modèle pour garçons.                                                                                  |
-| 926     | 18               | 6           | Ein Viso-Caster, der im Vergnügungspark von
-Rayono City gefunden wurde. Er scheint einem
-Jungen zu gehören.                                                        |
-| 926     | 18               | 7           | Videomisor encontrado en el parque de
-atracciones de Ciudad Mayólica. Parece que
-pertenece a un chico.                                                             |
-| 926     | 18               | 8           | Interpoké rinvenuto nel parco giochi di Sciroccopoli.
-Pare che appartenga a un ragazzo.                                                                            |
-| 926     | 18               | 9           | The Xtransceiver found at the Nimbasa City
-amusement park. It seems it belongs to a boy.                                                                           |
-| 926     | 18               | 11          | ライモンシティの　遊園地で
-拾った　ライブキャスター。
-落とし主は　男の子らしい。                                                                                                                          |
-| 926     | 18               | 12          | 在雷文市的游乐园里
-捡到的即时通讯器。
-失主好像是个男孩子。                                                                                                                                     |
-| 926     | 19               | 1           | ライモンシティの　ゆうえんちで
-ひろった　ライブキャスター。
-おとしぬしは　おとこのこ　らしい。                                                                                                                   |
-| 926     | 19               | 3           | 뇌문시티의 유원지에서
-주운 라이브캐스터.
-잃어버린 사람은 남자인 것 같다.                                                                                                                          |
-| 926     | 19               | 4           | 在雷文市的遊樂園裡
-撿到的即時通訊器。
-失主好像是個男孩子。                                                                                                                                     |
-| 926     | 19               | 5           | Un Vokit trouvé au parc d’attractions de Méanville.
-C’est un modèle pour garçons.                                                                                  |
-| 926     | 19               | 6           | Ein Viso-Caster, der im Vergnügungspark von
-Rayono City gefunden wurde. Er scheint einem
-Jungen zu gehören.                                                        |
-| 926     | 19               | 7           | Videomisor encontrado en el parque de atracciones
-de Ciudad Mayólica. Parece que pertenece a un chico.                                                             |
-| 926     | 19               | 8           | Interpoké rinvenuto nel parco giochi di Sciroccopoli.
-Pare che appartenga a un ragazzo.                                                                            |
-| 926     | 19               | 9           | The Xtransceiver found at the Nimbasa City
-amusement park. It seems it belongs to a boy.                                                                           |
-| 926     | 19               | 11          | ライモンシティの　遊園地で
-拾った　ライブキャスター。
-落とし主は　男の子らしい。                                                                                                                          |
-| 926     | 19               | 12          | 在雷文市的游乐园里
-捡到的即时通讯器。
-失主好像是个男孩子。                                                                                                                                     |
-| 927     | 18               | 1           | ライモンシティの　ゆうえんちで
-ひろった　ライブキャスター。
-おとしぬしは　おんなのこ　らしい。                                                                                                                   |
-| 927     | 18               | 3           | 뇌문시티의 유원지에서
-주운 라이브캐스터.
-잃어버린 사람은 여자인 것 같다.                                                                                                                          |
-| 927     | 18               | 4           | 在雷文市的遊樂園裡
-撿到的即時通訊器。
-失主好像是個女孩子。                                                                                                                                     |
-| 927     | 18               | 5           | Un Vokit trouvé au parc d’attractions de Méanville.
-C’est un modèle pour filles.                                                                                   |
-| 927     | 18               | 6           | Ein Viso-Caster, der im Vergnügungspark von
-Rayono City gefunden wurde. Er scheint einem
-Mädchen zu gehören.                                                       |
-| 927     | 18               | 7           | Videomisor encontrado en el parque de
-atracciones de Ciudad Mayólica. Parece que
-pertenece a una chica.                                                            |
-| 927     | 18               | 8           | Interpoké rinvenuto nel parco giochi di Sciroccopoli.
-Pare che appartenga a una ragazza.                                                                           |
-| 927     | 18               | 9           | The Xtransceiver found at the Nimbasa City
-amusement park. It seems it belongs to a girl.                                                                          |
-| 927     | 18               | 11          | ライモンシティの　遊園地で
-拾った　ライブキャスター。
-落とし主は　女の子らしい。                                                                                                                          |
-| 927     | 18               | 12          | 在雷文市的游乐园里
-捡到的即时通讯器。
-失主好像是个女孩子。                                                                                                                                     |
-| 927     | 19               | 1           | ライモンシティの　ゆうえんちで
-ひろった　ライブキャスター。
-おとしぬしは　おんなのこ　らしい。                                                                                                                   |
-| 927     | 19               | 3           | 뇌문시티의 유원지에서
-주운 라이브캐스터.
-잃어버린 사람은 여자인 것 같다.                                                                                                                          |
-| 927     | 19               | 4           | 在雷文市的遊樂園裡
-撿到的即時通訊器。
-失主好像是個女孩子。                                                                                                                                     |
-| 927     | 19               | 5           | Un Vokit trouvé au parc d’attractions de Méanville.
-C’est un modèle pour filles.                                                                                   |
-| 927     | 19               | 6           | Ein Viso-Caster, der im Vergnügungspark von
-Rayono City gefunden wurde. Er scheint einem
-Mädchen zu gehören.                                                       |
-| 927     | 19               | 7           | Videomisor encontrado en el parque de atracciones
-de Ciudad Mayólica. Parece que pertenece a una chica.                                                            |
-| 927     | 19               | 8           | Interpoké rinvenuto nel parco giochi di Sciroccopoli.
-Pare che appartenga a una ragazza.                                                                           |
-| 927     | 19               | 9           | The Xtransceiver found at the Nimbasa City
-amusement park. It seems it belongs to a girl.                                                                          |
-| 927     | 19               | 11          | ライモンシティの　遊園地で
-拾った　ライブキャスター。
-落とし主は　女の子らしい。                                                                                                                          |
-| 927     | 19               | 12          | 在雷文市的游乐园里
-捡到的即时通讯器。
-失主好像是个女孩子。                                                                                                                                     |
-| 927     | 20               | 1           | ライモンシティの　ゆうえんちで
-ひろった　ライブキャスター。
-おとしぬしは　おんなのこ　らしい。                                                                                                                   |
-| 927     | 20               | 3           | 뇌문시티의 유원지에서
-주운 라이브캐스터.
-잃어버린 사람은 여자인 것 같다.                                                                                                                          |
-| 927     | 20               | 4           | 在雷文市的遊樂園裡
-撿到的即時通訊器。
-失主好像是個女孩子。                                                                                                                                     |
-| 927     | 20               | 5           | Un Vokit trouvé au parc d’attractions de Méanville.
-C’est un modèle pour filles.                                                                                   |
-| 927     | 20               | 6           | Ein Viso-Caster, der im Vergnügungspark von
-Rayono City gefunden wurde. Er scheint einem
-Mädchen zu gehören.                                                       |
-| 927     | 20               | 7           | Videomisor encontrado en el parque de atracciones de
-Ciudad Mayólica. Parece que pertenece a una chica.                                                            |
-| 927     | 20               | 8           | Interpoké rinvenuto nel parco giochi di Sciroccopoli.
-Pare che appartenga a una ragazza.                                                                           |
-| 927     | 20               | 9           | The Xtransceiver found at the Nimbasa City
-amusement park. It seems it belongs to a girl.                                                                          |
-| 927     | 20               | 11          | ライモンシティの　遊園地で
-拾った　ライブキャスター。
-落とし主は　女の子らしい。                                                                                                                          |
-| 927     | 20               | 12          | 在雷文市的游乐园里
-捡到的即时通讯器。
-失主好像是个女孩子。                                                                                                                                     |
-| 928     | 18               | 1           | じゅしんした　ホログラムの
-えいぞうデータを　いつでも
-みることが　できる　そうち。                                                                                                                         |
-| 928     | 18               | 3           | 수신한 홀로그램
-영상 데이터를 언제라도
-볼 수 있는 장치.                                                                                                                                   |
-| 928     | 18               | 4           | 可以隨時查看接收到的
-全像投影資料的裝置。                                                                                                                                              |
-| 928     | 18               | 5           | Un appareil portable permettant de recevoir et
-de visualiser des hologrammes à volonté.                                                                            |
-| 928     | 18               | 6           | Ein Gerät, das Hologramm-Nachrichten empfangen
-und jederzeit abspielen kann.                                                                                       |
-| 928     | 18               | 7           | Este aparato permite recibir vídeos holográficos
-y visualizarlos en cualquier momento.                                                                             |
-| 928     | 18               | 8           | Dispositivo in grado di ricevere e riprodurre
-in qualsiasi momento comunicazioni olografiche.                                                                      |
-| 928     | 18               | 9           | A device that allows users to receive and view
-hologram clips at any time. It’s also used to chat
-with others.                                                     |
-| 928     | 18               | 11          | 受信した　ホログラムの
-映像データを　いつでも
-観ることが　できる　装置。                                                                                                                              |
-| 928     | 18               | 12          | 可以随时查看接收到的
-全息影像数据的装置。                                                                                                                                              |
-| 928     | 19               | 1           | じゅしんした　ホログラムの
-えいぞうデータを　いつでも
-みることが　できる　そうち。                                                                                                                         |
-| 928     | 19               | 3           | 수신한 홀로그램
-영상 데이터를 언제라도
-볼 수 있는 장치.                                                                                                                                   |
-| 928     | 19               | 4           | 可以隨時查看接收到的
-全像投影資料的裝置。                                                                                                                                              |
-| 928     | 19               | 5           | Un appareil portable permettant de recevoir et de
-visualiser des hologrammes à volonté.                                                                            |
-| 928     | 19               | 6           | Ein Gerät, das Hologramm-Nachrichten empfangen
-und jederzeit abspielen kann.                                                                                       |
-| 928     | 19               | 7           | Este aparato permite recibir vídeos holográficos
-y visualizarlos en cualquier momento.                                                                             |
-| 928     | 19               | 8           | Dispositivo in grado di ricevere e riprodurre
-in qualsiasi momento comunicazioni olografiche.                                                                      |
-| 928     | 19               | 9           | A device that allows users to receive and view
-hologram clips at any time. It’s also used to chat
-with others.                                                     |
-| 928     | 19               | 11          | 受信した　ホログラムの
-映像データを　いつでも
-観ることが　できる　装置。                                                                                                                              |
-| 928     | 19               | 12          | 可以随时查看接收到的
-全息影像数据的装置。                                                                                                                                              |
-| 929     | 18               | 1           | ランニングシューズ　よりも
-はやく　はしることが　できる
-おりたたみしきの　じてんしゃ。                                                                                                                       |
-| 929     | 18               | 3           | 러닝슈즈보다도
-빨리 달릴 수 있는
-접이식 자전거다.                                                                                                                                       |
-| 929     | 18               | 4           | 能跑得比跑步鞋還快的
-折疊式自行車。                                                                                                                                                 |
-| 929     | 18               | 5           | Une Bicyclette pliable permettant de se déplacer
-bien plus rapidement qu’en marchant.                                                                              |
-| 929     | 18               | 6           | Ein Klapprad, mit dem man schneller ist als zu Fuß.                                                                                                                |
-| 929     | 18               | 7           | Bicicleta plegable con la que se va más rápido
-que corriendo.                                                                                                      |
-| 929     | 18               | 8           | Bici pieghevole che permette di spostarsi
-più velocemente che con le Scarpe da Corsa.                                                                              |
-| 929     | 18               | 9           | A folding Bike that enables a rider to get around
-much faster than with Running Shoes.                                                                             |
-| 929     | 18               | 11          | ランニングシューズ　よりも
-速く　走ることが　できる
-折りたたみ式の　じてんしゃ。                                                                                                                          |
-| 929     | 18               | 12          | 能比跑步鞋跑得还快的
-折叠式自行车。                                                                                                                                                 |
-| 929     | 19               | 1           | ランニングシューズ　よりも
-はやく　はしることが　できる
-おりたたみしきの　じてんしゃ。                                                                                                                       |
-| 929     | 19               | 3           | 러닝슈즈보다도
-빨리 달릴 수 있는
-접이식 자전거다.                                                                                                                                       |
-| 929     | 19               | 4           | 能跑得比跑步鞋還快的
-折疊式自行車。                                                                                                                                                 |
-| 929     | 19               | 5           | Une Bicyclette pliable permettant de se déplacer
-bien plus rapidement qu’en marchant.                                                                              |
-| 929     | 19               | 6           | Ein Klapprad, mit dem man schneller ist als zu Fuß.                                                                                                                |
-| 929     | 19               | 7           | Bicicleta plegable con la que se va más rápido
-que corriendo.                                                                                                      |
-| 929     | 19               | 8           | Bici pieghevole che permette di spostarsi
-più velocemente che con le Scarpe da Corsa.                                                                              |
-| 929     | 19               | 9           | A folding Bike that enables a rider to get around
-much faster than with Running Shoes.                                                                             |
-| 929     | 19               | 11          | ランニングシューズ　よりも
-速く　走ることが　できる
-折りたたみ式の　じてんしゃ。                                                                                                                          |
-| 929     | 19               | 12          | 能比跑步鞋跑得还快的
-折叠式自行车。                                                                                                                                                 |
-| 929     | 20               | 1           | ランニングシューズ　よりも
-はやく　はしることが　できる
-おりたたみしきの　じてんしゃ。                                                                                                                       |
-| 929     | 20               | 3           | 러닝슈즈보다도
-빨리 달릴 수 있는
-접이식 자전거다.                                                                                                                                       |
-| 929     | 20               | 4           | 能跑得比跑步鞋還快的
-折疊式自行車。                                                                                                                                                 |
-| 929     | 20               | 5           | Une Bicyclette pliable permettant de se déplacer
-bien plus rapidement qu’en marchant.                                                                              |
-| 929     | 20               | 6           | Ein Klapprad, mit dem man schneller ist als zu Fuß.                                                                                                                |
-| 929     | 20               | 7           | Bicicleta plegable con la que se va más rápido que
-corriendo.                                                                                                      |
-| 929     | 20               | 8           | Bici pieghevole che permette di spostarsi
-più velocemente che con le Scarpe da Corsa.                                                                              |
-| 929     | 20               | 9           | A folding bike that enables a rider to get around
-much faster than with Running Shoes.                                                                             |
-| 929     | 20               | 11          | ランニングシューズ　よりも
-速く　走ることが　できる
-折りたたみ式の　じてんしゃ。                                                                                                                          |
-| 929     | 20               | 12          | 能比跑步鞋跑得还快的
-折叠式自行车。                                                                                                                                                 |
-| 930     | 18               | 1           | じゅしんした　ホログラムの
-えいぞうデータを　いつでも
-みることが　できる　そうち。                                                                                                                         |
-| 930     | 18               | 3           | 수신한 홀로그램
-영상 데이터를 언제라도
-볼 수 있는 장치.                                                                                                                                   |
-| 930     | 18               | 4           | 可以隨時查看接收到的
-全像投影資料的裝置。                                                                                                                                              |
-| 930     | 18               | 5           | Un appareil portable permettant de recevoir et
-de visualiser des hologrammes à volonté.                                                                            |
-| 930     | 18               | 6           | Ein Gerät, das Hologramm-Nachrichten empfangen
-und jederzeit abspielen kann.                                                                                       |
-| 930     | 18               | 7           | Este aparato permite recibir vídeos holográficos
-y visualizarlos en cualquier momento.                                                                             |
-| 930     | 18               | 8           | Dispositivo in grado di ricevere e riprodurre
-in qualsiasi momento comunicazioni olografiche.                                                                      |
-| 930     | 18               | 9           | A device that allows users to receive and view
-hologram clips at any time. It’s also used to chat
-with others.                                                     |
-| 930     | 18               | 11          | 受信した　ホログラムの
-映像データを　いつでも
-観ることが　できる　装置。                                                                                                                              |
-| 930     | 18               | 12          | 可以随时查看接收到的
-全息影像数据的装置。                                                                                                                                              |
-| 930     | 19               | 1           | じゅしんした　ホログラムの
-えいぞうデータを　いつでも
-みることが　できる　そうち。                                                                                                                         |
-| 930     | 19               | 3           | 수신한 홀로그램
-영상 데이터를 언제라도
-볼 수 있는 장치.                                                                                                                                   |
-| 930     | 19               | 4           | 可以隨時查看接收到的
-全像投影資料的裝置。                                                                                                                                              |
-| 930     | 19               | 5           | Un appareil portable permettant de recevoir et de
-visualiser des hologrammes à volonté.                                                                            |
-| 930     | 19               | 6           | Ein Gerät, das Hologramm-Nachrichten empfangen
-und jederzeit abspielen kann.                                                                                       |
-| 930     | 19               | 7           | Este aparato permite recibir vídeos holográficos
-y visualizarlos en cualquier momento.                                                                             |
-| 930     | 19               | 8           | Dispositivo in grado di ricevere e riprodurre
-in qualsiasi momento comunicazioni olografiche.                                                                      |
-| 930     | 19               | 9           | A device that allows users to receive and view
-hologram clips at any time. It’s also used to chat
-with others.                                                     |
-| 930     | 19               | 11          | 受信した　ホログラムの
-映像データを　いつでも
-観ることが　できる　装置。                                                                                                                              |
-| 930     | 19               | 12          | 可以随时查看接收到的
-全息影像数据的装置。                                                                                                                                              |
-| 930     | 20               | 1           | じゅしんした　ホログラムの
-えいぞうデータを　いつでも
-みることが　できる　そうち。                                                                                                                         |
-| 930     | 20               | 3           | 수신한 홀로그램
-영상 데이터를 언제라도
-볼 수 있는 장치.                                                                                                                                   |
-| 930     | 20               | 4           | 可以隨時查看接收到的
-全像投影資料的裝置。                                                                                                                                              |
-| 930     | 20               | 5           | Un appareil portable permettant de recevoir
-et de visualiser des hologrammes à volonté.                                                                            |
-| 930     | 20               | 6           | Ein Gerät, das Hologramm-Nachrichten empfangen
-und jederzeit abspielen kann.                                                                                       |
-| 930     | 20               | 7           | Este aparato permite recibir vídeos holográficos
-y visualizarlos en cualquier momento.                                                                             |
-| 930     | 20               | 8           | Dispositivo in grado di ricevere e riprodurre
-in qualsiasi momento comunicazioni olografiche.                                                                      |
-| 930     | 20               | 9           | A device that allows users to receive and view
-hologram clips at any time. It’s also used to chat
-with others.                                                     |
-| 930     | 20               | 11          | 受信した　ホログラムの
-映像データを　いつでも
-観ることが　できる　装置。                                                                                                                              |
-| 930     | 20               | 12          | 可以随时查看接收到的
-全息影像数据的装置。                                                                                                                                              |
-| 931     | 18               | 1           | キンセツの　ちかにある
-ニューキンセツに
-はいる　ための　カギ。                                                                                                                                   |
-| 931     | 18               | 3           | 보라시티 근처에 있는
-뉴보라에 들어가기 위한
-열쇠다.                                                                                                                                      |
-| 931     | 18               | 4           | 用於進入紫菫地下的
-新紫菫的鑰匙。                                                                                                                                                  |
-| 931     | 18               | 5           | Une clé permettant d’accéder à New Lavandia,
-dans les sous-sols de Lavandia.                                                                                       |
-| 931     | 18               | 6           | Ein Schlüssel, der dir Zugang nach Neu Malvenfroh
-verschafft, welches unter Malvenfroh City liegt.                                                                 |
-| 931     | 18               | 7           | Llave que da acceso a Malvalanova, situada en
-los subterráneos de Ciudad Malvalona.                                                                                |
-| 931     | 18               | 8           | Chiave che permette di accedere a Ciclanova,
-la città sotterranea costruita sotto a Ciclamipoli.                                                                   |
-| 931     | 18               | 9           | The key to New Mauville, which was constructed
-beneath Mauville City.                                                                                              |
-| 931     | 18               | 11          | キンセツの　地下にある
-ニューキンセツに
-入るための　カギ。                                                                                                                                     |
-| 931     | 18               | 12          | 进入紫堇地下的新紫堇时，
-所使用的钥匙。                                                                                                                                               |
-| 931     | 19               | 1           | キンセツの　ちかにある
-ニューキンセツに
-はいる　ための　カギ。                                                                                                                                   |
-| 931     | 19               | 3           | 보라시티 근처에 있는
-뉴보라에 들어가기 위한
-열쇠다.                                                                                                                                      |
-| 931     | 19               | 4           | 用於進入紫菫地下的
-新紫菫的鑰匙。                                                                                                                                                  |
-| 931     | 19               | 5           | Une clé permettant d’accéder à New Lavandia,
-dans les sous-sols de Lavandia.                                                                                       |
-| 931     | 19               | 6           | Ein Schlüssel, der dir Zugang nach Neu Malvenfroh
-verschafft, welches unter Malvenfroh City liegt.                                                                 |
-| 931     | 19               | 7           | Llave que da acceso a Malvalanova, situada en
-los subterráneos de Ciudad Malvalona.                                                                                |
-| 931     | 19               | 8           | Chiave che permette di accedere a Ciclanova,
-la città sotterranea costruita sotto a Ciclamipoli.                                                                   |
-| 931     | 19               | 9           | The key to New Mauville, which was constructed
-beneath Mauville City.                                                                                              |
-| 931     | 19               | 11          | キンセツの　地下にある
-ニューキンセツに
-入るための　カギ。                                                                                                                                     |
-| 931     | 19               | 12          | 进入紫堇地下的新紫堇时，
-所使用的钥匙。                                                                                                                                               |
-| 931     | 20               | 1           | キンセツの　ちかにある
-ニューキンセツに
-はいる　ための　カギ。                                                                                                                                   |
-| 931     | 20               | 3           | 보라시티 지하에 있는
-뉴보라에 들어가기 위한
-열쇠다.                                                                                                                                      |
-| 931     | 20               | 4           | 用於進入紫菫地下的
-新紫菫的鑰匙。                                                                                                                                                  |
-| 931     | 20               | 5           | Une clé permettant d’accéder à New Lavandia,
-dans les sous-sols de Lavandia.                                                                                       |
-| 931     | 20               | 6           | Ein Schlüssel, der dir Zugang nach Neu Malvenfroh
-verschafft, welches unter Malvenfroh City liegt.                                                                 |
-| 931     | 20               | 7           | Llave que da acceso a Malvalanova, situada en los
-subterráneos de Ciudad Malvalona.                                                                                |
-| 931     | 20               | 8           | Chiave che permette di accedere a Ciclanova,
-la città sotterranea costruita sotto a Ciclamipoli.                                                                   |
-| 931     | 20               | 9           | The key to New Mauville, which was constructed
-beneath Mauville City.                                                                                              |
-| 931     | 20               | 11          | キンセツの　地下にある
-ニューキンセツに
-入るための　カギ。                                                                                                                                     |
-| 931     | 20               | 12          | 进入紫堇地下的新紫堇时，
-所使用的钥匙。                                                                                                                                               |
-| 932     | 18               | 1           | シーキンセツの　そうこに
-はいる　ための　カギ。                                                                                                                                           |
-| 932     | 18               | 3           | 씨보라의 창고로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 932     | 18               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 932     | 18               | 5           | La clé de la réserve de Lavandia Sea.                                                                                                                              |
-| 932     | 18               | 6           | Ein Schlüssel, der in das Schloss des Lagerraums
-auf Seewoge Malvenfroh passt.                                                                                     |
-| 932     | 18               | 7           | Llave de acceso al almacén de Malvamar.                                                                                                                            |
-| 932     | 18               | 8           | Chiave per accedere al magazzino di Ciclamare.                                                                                                                     |
-| 932     | 18               | 9           | A key that opens the storage hold inside
-Sea Mauville.                                                                                                             |
-| 932     | 18               | 11          | シーキンセツの　倉庫に
-入るための　カギ。                                                                                                                                              |
-| 932     | 18               | 12          | 进入海紫堇的仓库时
-所需的钥匙。                                                                                                                                                   |
-| 932     | 19               | 1           | シーキンセツの　そうこに
-はいる　ための　カギ。                                                                                                                                           |
-| 932     | 19               | 3           | 씨보라의 창고로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 932     | 19               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 932     | 19               | 5           | La clé de la réserve de Lavandia Sea.                                                                                                                              |
-| 932     | 19               | 6           | Ein Schlüssel, der in das Schloss des Lagerraums
-auf Seewoge Malvenfroh passt.                                                                                     |
-| 932     | 19               | 7           | Llave de acceso al almacén de Malvamar.                                                                                                                            |
-| 932     | 19               | 8           | Chiave per accedere al magazzino di Ciclamare.                                                                                                                     |
-| 932     | 19               | 9           | A key that opens the storage hold inside
-Sea Mauville.                                                                                                             |
-| 932     | 19               | 11          | シーキンセツの　倉庫に
-入るための　カギ。                                                                                                                                              |
-| 932     | 19               | 12          | 进入海紫堇的仓库时
-所需的钥匙。                                                                                                                                                   |
-| 932     | 20               | 1           | シーキンセツの　そうこに
-はいる　ための　カギ。                                                                                                                                           |
-| 932     | 20               | 3           | 씨보라의 창고로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 932     | 20               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 932     | 20               | 5           | La clé de la réserve de Lavandia Sea.                                                                                                                              |
-| 932     | 20               | 6           | Ein Schlüssel, der in das Schloss des Lagerraums auf
-Seewoge Malvenfroh passt.                                                                                     |
-| 932     | 20               | 7           | Llave de acceso al almacén de Malvamar.                                                                                                                            |
-| 932     | 20               | 8           | Chiave per accedere al magazzino di Ciclamare.                                                                                                                     |
-| 932     | 20               | 9           | A key that opens the storage hold inside
-Sea Mauville.                                                                                                             |
-| 932     | 20               | 11          | シーキンセツの　倉庫に
-入るための　カギ。                                                                                                                                              |
-| 932     | 20               | 12          | 进入海紫堇的仓库时
-所需的钥匙。                                                                                                                                                   |
-| 933     | 18               | 1           | れんらくせんに
-のるとき　ひつよう。                                                                                                                                                 |
-| 933     | 18               | 3           | 연락선에
-탈 때 필요하다.                                                                                                                                                     |
-| 933     | 18               | 4           | 乘坐交通船時
-需要用到。                                                                                                                                                       |
-| 933     | 18               | 5           | Indispensable pour prendre le ferry.                                                                                                                               |
-| 933     | 18               | 6           | Ein Ticket, mit dem man die Fähre benutzen kann.                                                                                                                   |
-| 933     | 18               | 7           | Necesario para montar en barcos de línea regular.                                                                                                                  |
-| 933     | 18               | 8           | Biglietto necessario per imbarcarsi su un traghetto.                                                                                                               |
-| 933     | 18               | 9           | Ticket required for sailing on a ferry.                                                                                                                            |
-| 933     | 18               | 11          | 連絡船に
-乗るとき　必要。                                                                                                                                                      |
-| 933     | 18               | 12          | 乘坐渡船时需要用到。                                                                                                                                                         |
-| 933     | 19               | 1           | れんらくせんに
-のるとき　ひつよう。                                                                                                                                                 |
-| 933     | 19               | 3           | 연락선에
-탈 때 필요하다.                                                                                                                                                     |
-| 933     | 19               | 4           | 乘坐交通船時
-需要用到。                                                                                                                                                       |
-| 933     | 19               | 5           | Indispensable pour prendre le ferry.                                                                                                                               |
-| 933     | 19               | 6           | Ein Ticket, mit dem man die Fähre benutzen kann.                                                                                                                   |
-| 933     | 19               | 7           | Necesario para montar en barcos de línea regular.                                                                                                                  |
-| 933     | 19               | 8           | Biglietto necessario per imbarcarsi su un traghetto.                                                                                                               |
-| 933     | 19               | 9           | Ticket required for sailing on a ferry.                                                                                                                            |
-| 933     | 19               | 11          | 連絡船に
-乗るとき　必要。                                                                                                                                                      |
-| 933     | 19               | 12          | 乘坐渡船时需要用到。                                                                                                                                                         |
-| 933     | 20               | 1           | れんらくせんに
-のるとき　ひつよう。                                                                                                                                                 |
-| 933     | 20               | 3           | 연락선에
-탈 때 필요하다.                                                                                                                                                     |
-| 933     | 20               | 4           | 乘坐交通船時
-需要用到。                                                                                                                                                       |
-| 933     | 20               | 5           | Indispensable pour prendre le ferry.                                                                                                                               |
-| 933     | 20               | 6           | Ein Ticket, mit dem man die Fähre benutzen kann.                                                                                                                   |
-| 933     | 20               | 7           | Necesario para montar en barcos de línea regular.                                                                                                                  |
-| 933     | 20               | 8           | Biglietto necessario per imbarcarsi su un traghetto.                                                                                                               |
-| 933     | 20               | 9           | Ticket required for sailing on a ferry.                                                                                                                            |
-| 933     | 20               | 11          | 連絡船に
-乗るとき　必要。                                                                                                                                                      |
-| 933     | 20               | 12          | 乘坐渡船时需要用到。                                                                                                                                                         |
-| 934     | 18               | 1           | コンテストライブで　きる
-とっても　かわいい　ドレス。                                                                                                                                        |
-| 934     | 18               | 3           | 콘테스트 라이브에서 입는
-아주 귀여운 드레스다.                                                                                                                                         |
-| 934     | 18               | 4           | 在華麗大賽上演出時穿的
-非常可愛的禮裙。                                                                                                                                               |
-| 934     | 18               | 5           | Une robe très mignonne portée pour le Concours
-Pokémon Live !                                                                                                      |
-| 934     | 18               | 6           | Ein niedliches Kleidchen, das bei
-Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                   |
-| 934     | 18               | 7           | Vestido de lo más espectacular para lucir en el
-Gran Concurso.                                                                                                     |
-| 934     | 18               | 8           | Grazioso vestito da indossare durante le
-Gare Live.                                                                                                                |
-| 934     | 18               | 9           | A very cute dress to be worn during the
-Contest Spectacular.                                                                                                       |
-| 934     | 18               | 11          | コンテストライブで　着る
-とっても　可愛い　ドレス。                                                                                                                                         |
-| 934     | 18               | 12          | 在华丽大赛上演出时穿的
-非常可爱的礼裙。                                                                                                                                               |
-| 934     | 19               | 1           | コンテストライブで　きる
-とっても　かわいい　ドレス。                                                                                                                                        |
-| 934     | 19               | 3           | 콘테스트 라이브에서 입는
-아주 귀여운 드레스다.                                                                                                                                         |
-| 934     | 19               | 4           | 在華麗大賽上演出時穿的
-非常可愛的禮裙。                                                                                                                                               |
-| 934     | 19               | 5           | Une robe très mignonne portée pour le Concours
-Pokémon Live !                                                                                                      |
-| 934     | 19               | 6           | Ein niedliches Kleidchen, das bei
-Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                   |
-| 934     | 19               | 7           | Vestido de lo más espectacular para lucir en el
-Gran Concurso.                                                                                                     |
-| 934     | 19               | 8           | Grazioso vestito da indossare durante le
-Gare Live.                                                                                                                |
-| 934     | 19               | 9           | A very cute dress to be worn during the
-Contest Spectacular.                                                                                                       |
-| 934     | 19               | 11          | コンテストライブで　着る
-とっても　可愛い　ドレス。                                                                                                                                         |
-| 934     | 19               | 12          | 在华丽大赛上演出时穿的
-非常可爱的礼裙。                                                                                                                                               |
-| 934     | 20               | 1           | コンテストライブで　きる
-とっても　かわいい　ドレス。                                                                                                                                        |
-| 934     | 20               | 3           | 콘테스트 라이브에서 입는
-아주 귀여운 드레스다.                                                                                                                                         |
-| 934     | 20               | 4           | 在華麗現場大賽上演出時穿的
-非常可愛的禮裙。                                                                                                                                             |
-| 934     | 20               | 5           | Une robe très mignonne portée pour le Concours
-Pokémon Live !                                                                                                      |
-| 934     | 20               | 6           | Ein niedliches Kleidchen, das bei
-Pokémon-Wettbewerb Live! getragen werden kann.                                                                                   |
-| 934     | 20               | 7           | Vestido de lo más espectacular para lucir en el Gran
-Concurso.                                                                                                     |
-| 934     | 20               | 8           | Grazioso vestito da indossare durante le
-Gare Live.                                                                                                                |
-| 934     | 20               | 9           | A very cute dress to be worn during the
-Contest Spectacular.                                                                                                       |
-| 934     | 20               | 11          | コンテストライブで　着る
-とっても　可愛い　ドレス。                                                                                                                                         |
-| 934     | 20               | 12          | 在华丽现场大赛上演出时穿的
-非常可爱的礼裙。                                                                                                                                             |
-| 935     | 18               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかに　かがやきを　はなっている。                                                                                                                             |
-| 935     | 18               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은하게 빛을 발하고 있다.                                                                                                                                    |
-| 935     | 18               | 4           | 在煙囪山上獲得的隕石。
-隱約散發著光芒。                                                                                                                                               |
-| 935     | 18               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une légère lueur.                                                                                                 |
-| 935     | 18               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Vom ihm geht ein schwaches Leuchten aus.                                                                       |
-| 935     | 18               | 7           | Meteorito obtenido en el Monte Cenizo.
-Desprende un tenue brillo.                                                                                                  |
-| 935     | 18               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.                                                                                               |
-| 935     | 18               | 9           | A Meteorite that you got at Mt. Chimney. It gives off
-a faint glow.                                                                                                |
-| 935     | 18               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかに　輝きを　放っている。                                                                                                                                 |
-| 935     | 18               | 12          | 在烟囱山上获得的陨石。
-隐约散发着光辉。                                                                                                                                               |
-| 935     | 19               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかに　かがやきを　はなっている。                                                                                                                             |
-| 935     | 19               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은하게 빛을 발하고 있다.                                                                                                                                    |
-| 935     | 19               | 4           | 在煙囪山上獲得的隕石。
-隱約散發著光芒。                                                                                                                                               |
-| 935     | 19               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une légère lueur.                                                                                                 |
-| 935     | 19               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Vom ihm geht ein schwaches Leuchten aus.                                                                       |
-| 935     | 19               | 7           | Meteorito obtenido en el Monte Cenizo.
-Desprende un tenue brillo.                                                                                                  |
-| 935     | 19               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.                                                                                               |
-| 935     | 19               | 9           | A Meteorite that you got at Mt. Chimney. It gives off
-a faint glow.                                                                                                |
-| 935     | 19               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかに　輝きを　放っている。                                                                                                                                 |
-| 935     | 19               | 12          | 在烟囱山上获得的陨石。
-隐约散发着光辉。                                                                                                                                               |
-| 935     | 20               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかに　かがやきを　はなっている。                                                                                                                             |
-| 935     | 20               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은하게 빛을 발하고 있다.                                                                                                                                    |
-| 935     | 20               | 4           | 在煙囪山上獲得的隕石。
-隱約散發著光芒。                                                                                                                                               |
-| 935     | 20               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une légère lueur.                                                                                                 |
-| 935     | 20               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Vom ihm geht ein schwaches Leuchten aus.                                                                       |
-| 935     | 20               | 7           | Meteorito obtenido en el Monte Cenizo. Desprende un
-tenue brillo.                                                                                                  |
-| 935     | 20               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.                                                                                               |
-| 935     | 20               | 9           | A Meteorite that you got at Mt. Chimney. It gives off
-a faint glow.                                                                                                |
-| 935     | 20               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかに　輝きを　放っている。                                                                                                                                 |
-| 935     | 20               | 12          | 在烟囱山上获得的陨石。
-隐约散发着光辉。                                                                                                                                               |
-| 936     | 18               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかな　ひかりを　はなちつづけている。
-ふれると　じんわり　あたたかい。                                                                                                          |
-| 936     | 18               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은한 빛을 계속해서 발하고 있다.
-만지면 은근히 따뜻하다.                                                                                                                  |
-| 936     | 18               | 4           | 在煙囪山上獲得的隕石。
-持續散發著微微光芒。
-摸起來有點暖暖的。                                                                                                                                   |
-| 936     | 18               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une faible lueur de façon continue,
-et est légèrement tiède au toucher.                                           |
-| 936     | 18               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Von ihm geht ein schwaches Licht aus. Wenn man
-ihn berührt, wird er warm.                                      |
-| 936     | 18               | 7           | Meteorito obtenido en el Monte Cenizo. Sigue
-desprendiendo un tenue brillo y es ligeramente
-cálido al tacto.                                                       |
-| 936     | 18               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.
-Toccandolo, si avverte un certo calore.                                                       |
-| 936     | 18               | 9           | A Meteorite that you got at Mt. Chimney.
-It continues to give off a faint glow and is slightly
-warm to the touch.                                                  |
-| 936     | 18               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかな　光を　放ち続けている。
-触れると　じんわり　暖かい。                                                                                                                 |
-| 936     | 18               | 12          | 在烟囱山上获得的陨石。
-持续散发着微光。
-摸上去隐约有点暖暖的。                                                                                                                                   |
-| 936     | 19               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかな　ひかりを　はなちつづけている。
-ふれると　じんわり　あたたかい。                                                                                                          |
-| 936     | 19               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은한 빛을 계속해서 발하고 있다.
-만지면 은근히 따뜻하다.                                                                                                                  |
-| 936     | 19               | 4           | 在煙囪山上獲得的隕石。
-持續散發著微微光芒。
-摸起來有點暖暖的。                                                                                                                                   |
-| 936     | 19               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une faible lueur de façon continue,
-et est légèrement tiède au toucher.                                           |
-| 936     | 19               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Von ihm geht ein schwaches Licht aus. Wenn man
-ihn berührt, wird er warm.                                      |
-| 936     | 19               | 7           | Meteorito obtenido en el Monte Cenizo. Sigue
-desprendiendo un tenue brillo y es ligeramente
-cálido al tacto.                                                       |
-| 936     | 19               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.
-Toccandolo, si avverte un certo calore.                                                       |
-| 936     | 19               | 9           | A Meteorite that you got at Mt. Chimney.
-It continues to give off a faint glow and is slightly
-warm to the touch.                                                  |
-| 936     | 19               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかな　光を　放ち続けている。
-触れると　じんわり　暖かい。                                                                                                                 |
-| 936     | 19               | 12          | 在烟囱山上获得的陨石。
-持续散发着微光。
-摸上去隐约有点暖暖的。                                                                                                                                   |
-| 936     | 20               | 1           | えんとつやまで　てにいれた　いんせき。
-ほのかな　ひかりを　はなちつづけている。
-ふれると　じんわり　あたたかい。                                                                                                          |
-| 936     | 20               | 3           | 굴뚝산에서 손에 넣은 운석.
-은은한 빛을 계속해서 발하고 있다.
-만지면 은근히 따뜻하다.                                                                                                                  |
-| 936     | 20               | 4           | 在煙囪山上獲得的隕石。
-持續散發著微微光芒。
-摸起來有點暖暖的。                                                                                                                                   |
-| 936     | 20               | 5           | Une météorite trouvée au Mont Chimnée.
-Elle émet une faible lueur de façon continue,
-et est légèrement tiède au toucher.                                           |
-| 936     | 20               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Von ihm geht ein schwaches Licht aus. Wenn man ihn
-berührt, wird er warm.                                      |
-| 936     | 20               | 7           | Meteorito obtenido en el Monte Cenizo. Sigue
-desprendiendo un tenue brillo y es ligeramente cálido
-al tacto.                                                       |
-| 936     | 20               | 8           | Meteorite ottenuto sul Monte Camino.
-Emette una debole luminescenza.
-Toccandolo, si avverte un certo calore.                                                       |
-| 936     | 20               | 9           | A Meteorite that you got at Mt. Chimney.
-It continues to give off a faint glow and is slightly
-warm to the touch.                                                  |
-| 936     | 20               | 11          | えんとつ山で　手に入れた　いんせき。
-ほのかな　光を　放ち続けている。
-触れると　じんわり　暖かい。                                                                                                                 |
-| 936     | 20               | 12          | 在烟囱山上获得的陨石。
-持续散发着微光。
-摸上去隐约有点暖暖的。                                                                                                                                   |
-| 937     | 18               | 1           | えんとつやまで　てにいれた　いんせき。
-なにかの　もんようが　うかびあがり
-なないろの　ひかりが　あふれだす。                                                                                                            |
-| 937     | 18               | 3           | 굴뚝산에서 손에 넣은 운석.
-어떤 문양이 드러나며
-일곱 색깔의 빛이 넘쳐난다.                                                                                                                        |
-| 937     | 18               | 4           | 在煙囪山上獲得的隕石。
-上面浮現出某種花紋，
-並流瀉著七色光芒。                                                                                                                                   |
-| 937     | 18               | 5           | Une météorite trouvée au Mont Chimnée.
-Un étrange symbole est gravé à sa surface,
-et luit des sept couleurs de l’arc-en-ciel.                                      |
-| 937     | 18               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Er ist seltsam gemustert und aus seinem Inneren
-strahlt ein regenbogenfarbenes Licht.                          |
-| 937     | 18               | 7           | Meteorito obtenido en el Monte Cenizo. Presenta
-unos peculiares grabados e irradia una luz con los
-siete colores del arcoíris.                                     |
-| 937     | 18               | 8           | Meteorite ottenuto sul Monte Camino.
-Sulla superficie è visibile un motivo in rilievo
-che brilla dei colori dell’arcobaleno.                                       |
-| 937     | 18               | 9           | A Meteorite that you got at Mt. Chimney.
-Some sort of pattern has risen to the surface,
-and it’s shining with seven colors of light.                               |
-| 937     | 18               | 11          | えんとつ山で　手に入れた　いんせき。
-なにかの　文様が　浮かび上がり
-七色の　光が　あふれだす。                                                                                                                   |
-| 937     | 18               | 12          | 在烟囱山上获得的陨石。
-上面浮现着某些花纹，
-并散发着七色光芒。                                                                                                                                   |
-| 937     | 19               | 1           | えんとつやまで　てにいれた　いんせき。
-なにかの　もんようが　うかびあがり
-なないろの　ひかりが　あふれだす。                                                                                                            |
-| 937     | 19               | 3           | 굴뚝산에서 손에 넣은 운석.
-어떤 문양이 드러나며
-일곱 색깔의 빛이 넘쳐난다.                                                                                                                        |
-| 937     | 19               | 4           | 在煙囪山上獲得的隕石。
-上面浮現出某種花紋，
-並流瀉著七色光芒。                                                                                                                                   |
-| 937     | 19               | 5           | Une météorite trouvée au Mont Chimnée.
-Un étrange symbole est gravé à sa surface,
-et luit des sept couleurs de l’arc-en-ciel.                                      |
-| 937     | 19               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Er ist seltsam gemustert und aus seinem Inneren
-strahlt ein regenbogenfarbenes Licht.                          |
-| 937     | 19               | 7           | Meteorito obtenido en el Monte Cenizo. Presenta
-unos peculiares grabados e irradia una luz con los
-siete colores del arcoíris.                                     |
-| 937     | 19               | 8           | Meteorite ottenuto sul Monte Camino.
-Sulla superficie è visibile un motivo in rilievo
-che brilla dei colori dell’arcobaleno.                                       |
-| 937     | 19               | 9           | A Meteorite that you got at Mt. Chimney.
-Some sort of pattern has risen to the surface,
-and it’s shining with seven colors of light.                               |
-| 937     | 19               | 11          | えんとつ山で　手に入れた　いんせき。
-なにかの　文様が　浮かび上がり
-七色の　光が　あふれだす。                                                                                                                   |
-| 937     | 19               | 12          | 在烟囱山上获得的陨石。
-上面浮现着某些花纹，
-并散发着七色光芒。                                                                                                                                   |
-| 937     | 20               | 1           | えんとつやまで　てにいれた　いんせき。
-なにかの　もんようが　うかびあがり
-なないろの　ひかりが　あふれだす。                                                                                                            |
-| 937     | 20               | 3           | 굴뚝산에서 손에 넣은 운석.
-어떤 문양이 드러나며
-일곱 색깔의 빛이 넘쳐난다.                                                                                                                        |
-| 937     | 20               | 4           | 在煙囪山上獲得的隕石。
-上面浮現出某種花紋，
-並流瀉著七色光芒。                                                                                                                                   |
-| 937     | 20               | 5           | Une météorite trouvée au Mont Chimnée.
-Un étrange symbole est gravé à sa surface,
-et luit des sept couleurs de l’arc-en-ciel.                                      |
-| 937     | 20               | 6           | Ein Meteorit, den du beim Schlotberg erhalten hast.
-Er ist seltsam gemustert und aus seinem Inneren strahlt
-ein regenbogenfarbenes Licht.                          |
-| 937     | 20               | 7           | Meteorito obtenido en el Monte Cenizo. Presenta unos
-peculiares grabados e irradia una luz con los siete
-colores del arcoíris.                                     |
-| 937     | 20               | 8           | Meteorite ottenuto sul Monte Camino.
-Sulla superficie è visibile un motivo in rilievo
-che brilla dei colori dell’arcobaleno.                                       |
-| 937     | 20               | 9           | A Meteorite that you got at Mt. Chimney.
-Some sort of pattern has risen to the surface,
-and it’s shining with seven colors of light.                               |
-| 937     | 20               | 11          | えんとつ山で　手に入れた　いんせき。
-なにかの　文様が　浮かび上がり
-七色の　光が　あふれだす。                                                                                                                   |
-| 937     | 20               | 12          | 在烟囱山上获得的陨石。
-上面浮现着某些花纹，
-并散发着七色光芒。                                                                                                                                   |
-| 938     | 18               | 1           | ノーマルタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 938     | 18               | 3           | 노말타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 938     | 18               | 4           | 會製造出把一般屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 938     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Normal en capacité Z.                                  |
-| 938     | 18               | 6           | Kristallisierte Z-Kraft, die Normal-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 938     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Normal en movimientos Z.                                         |
-| 938     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Normale in mosse Z.                                     |
-| 938     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Normal-type moves to Normal-type Z-Moves.                                                                           |
-| 938     | 18               | 11          | ノーマルタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 938     | 18               | 12          | 可用它来制造用于对战
-并能将一般属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 938     | 19               | 1           | ノーマルタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 938     | 19               | 3           | 노말타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 938     | 19               | 4           | 會製造出把一般屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 938     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Normal en capacité Z.                                  |
-| 938     | 19               | 6           | Kristallisierte Z-Kraft, die Normal-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 938     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Normal en movimientos Z.                                         |
-| 938     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Normale in mosse Z.                                     |
-| 938     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Normal-type moves to Normal-type Z-Moves.                                                                           |
-| 938     | 19               | 11          | ノーマルタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 938     | 19               | 12          | 可用它来制造用于对战
-并能将一般属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 938     | 20               | 1           | ノーマルタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 938     | 20               | 3           | 노말타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 938     | 20               | 4           | 會製造出把一般屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 938     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Normal en capacité Z.                                  |
-| 938     | 20               | 6           | Kristallisierte Z-Kraft, die Normal-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 938     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Normal
-en movimientos Z.                                         |
-| 938     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Normale in mosse Z.                                     |
-| 938     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Normal-type moves to Normal-type Z-Moves.                                                                           |
-| 938     | 20               | 11          | ノーマルタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 938     | 20               | 12          | 可用它来制造用于对战
-并能将一般属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 939     | 18               | 1           | ほのおタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 939     | 18               | 3           | 불꽃타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 939     | 18               | 4           | 會製造出把火屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 939     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Feu en capacité Z.                                     |
-| 939     | 18               | 6           | Kristallisierte Z-Kraft, die Feuer-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 939     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Fuego en movimientos Z.                                          |
-| 939     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Fuoco in mosse Z.                                       |
-| 939     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Fire-type moves to Fire-type Z-Moves.                                                                               |
-| 939     | 18               | 11          | ほのおタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 939     | 18               | 12          | 可用它来制造用于对战
-并能将火属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 939     | 19               | 1           | ほのおタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 939     | 19               | 3           | 불꽃타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 939     | 19               | 4           | 會製造出把火屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 939     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Feu en capacité Z.                                     |
-| 939     | 19               | 6           | Kristallisierte Z-Kraft, die Feuer-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 939     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Fuego en movimientos Z.                                          |
-| 939     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Fuoco in mosse Z.                                       |
-| 939     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Fire-type moves to Fire-type Z-Moves.                                                                               |
-| 939     | 19               | 11          | ほのおタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 939     | 19               | 12          | 可用它来制造用于对战
-并能将火属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 939     | 20               | 1           | ほのおタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 939     | 20               | 3           | 불꽃타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 939     | 20               | 4           | 會製造出把火屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 939     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Feu en capacité Z.                                     |
-| 939     | 20               | 6           | Kristallisierte Z-Kraft, die Feuer-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                      |
-| 939     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Fuego en
-movimientos Z.                                          |
-| 939     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Fuoco in mosse Z.                                       |
-| 939     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Fire-type moves to Fire-type Z-Moves.                                                                               |
-| 939     | 20               | 11          | ほのおタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 939     | 20               | 12          | 可用它来制造用于对战
-并能将火属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 940     | 18               | 1           | みずタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 940     | 18               | 3           | 물타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 940     | 18               | 4           | 會製造出把水屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 940     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Eau en capacité Z.                                     |
-| 940     | 18               | 6           | Kristallisierte Z-Kraft, die Wasser-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 940     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Agua en movimientos Z.                                           |
-| 940     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acqua in mosse Z.                                       |
-| 940     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Water-type moves to Water-type Z-Moves.                                                                             |
-| 940     | 18               | 11          | みずタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 940     | 18               | 12          | 可用它来制造用于对战
-并能将水属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 940     | 19               | 1           | みずタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 940     | 19               | 3           | 물타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 940     | 19               | 4           | 會製造出把水屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 940     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Eau en capacité Z.                                     |
-| 940     | 19               | 6           | Kristallisierte Z-Kraft, die Wasser-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 940     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Agua en movimientos Z.                                           |
-| 940     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acqua in mosse Z.                                       |
-| 940     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Water-type moves to Water-type Z-Moves.                                                                             |
-| 940     | 19               | 11          | みずタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 940     | 19               | 12          | 可用它来制造用于对战
-并能将水属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 940     | 20               | 1           | みずタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 940     | 20               | 3           | 물타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 940     | 20               | 4           | 會製造出把水屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 940     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Eau en capacité Z.                                     |
-| 940     | 20               | 6           | Kristallisierte Z-Kraft, die Wasser-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 940     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Agua en
-movimientos Z.                                           |
-| 940     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acqua in mosse Z.                                       |
-| 940     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Water-type moves to Water-type Z-Moves.                                                                             |
-| 940     | 20               | 11          | みずタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 940     | 20               | 12          | 可用它来制造用于对战
-并能将水属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 941     | 18               | 1           | でんきタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 941     | 18               | 3           | 전기타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 941     | 18               | 4           | 會製造出把電屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 941     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Électrik en capacité Z.                                |
-| 941     | 18               | 6           | Kristallisierte Z-Kraft, die Elektro-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 941     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Eléctrico en movimientos Z.                                      |
-| 941     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Elettro in mosse Z.                                     |
-| 941     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Electric-type moves to Electric-type Z-Moves.                                                                       |
-| 941     | 18               | 11          | でんきタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 941     | 18               | 12          | 可用它来制造用于对战
-并能将电属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 941     | 19               | 1           | でんきタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 941     | 19               | 3           | 전기타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 941     | 19               | 4           | 會製造出把電屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 941     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Électrik en capacité Z.                                |
-| 941     | 19               | 6           | Kristallisierte Z-Kraft, die Elektro-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 941     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Eléctrico en movimientos Z.                                      |
-| 941     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Elettro in mosse Z.                                     |
-| 941     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Electric-type moves to Electric-type Z-Moves.                                                                       |
-| 941     | 19               | 11          | でんきタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 941     | 19               | 12          | 可用它来制造用于对战
-并能将电属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 941     | 20               | 1           | でんきタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 941     | 20               | 3           | 전기타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 941     | 20               | 4           | 會製造出把電屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 941     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Électrik en capacité Z.                                |
-| 941     | 20               | 6           | Kristallisierte Z-Kraft, die Elektro-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 941     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Eléctrico
-en movimientos Z.                                      |
-| 941     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Elettro in mosse Z.                                     |
-| 941     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Electric-type moves to Electric-type Z-Moves.                                                                       |
-| 941     | 20               | 11          | でんきタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 941     | 20               | 12          | 可用它来制造用于对战
-并能将电属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 942     | 18               | 1           | くさタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 942     | 18               | 3           | 풀타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 942     | 18               | 4           | 會製造出把草屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 942     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Plante en capacité Z.                                  |
-| 942     | 18               | 6           | Kristallisierte Z-Kraft, die Pflanzen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 942     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Planta en movimientos Z.                                         |
-| 942     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Erba in mosse Z.                                        |
-| 942     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Grass-type moves to Grass-type Z-Moves.                                                                             |
-| 942     | 18               | 11          | くさタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 942     | 18               | 12          | 可用它来制造用于对战
-并能将草属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 942     | 19               | 1           | くさタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 942     | 19               | 3           | 풀타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 942     | 19               | 4           | 會製造出把草屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 942     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Plante en capacité Z.                                  |
-| 942     | 19               | 6           | Kristallisierte Z-Kraft, die Pflanzen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 942     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Planta en movimientos Z.                                         |
-| 942     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Erba in mosse Z.                                        |
-| 942     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Grass-type moves to Grass-type Z-Moves.                                                                             |
-| 942     | 19               | 11          | くさタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 942     | 19               | 12          | 可用它来制造用于对战
-并能将草属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 942     | 20               | 1           | くさタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 942     | 20               | 3           | 풀타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 942     | 20               | 4           | 會製造出把草屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 942     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Plante en capacité Z.                                  |
-| 942     | 20               | 6           | Kristallisierte Z-Kraft, die Pflanzen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 942     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Planta en
-movimientos Z.                                         |
-| 942     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Erba in mosse Z.                                        |
-| 942     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Grass-type moves to Grass-type Z-Moves.                                                                             |
-| 942     | 20               | 11          | くさタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 942     | 20               | 12          | 可用它来制造用于对战
-并能将草属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 943     | 18               | 1           | こおりタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 943     | 18               | 3           | 얼음타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 943     | 18               | 4           | 會製造出把冰屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 943     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Glace en capacité Z.                                   |
-| 943     | 18               | 6           | Kristallisierte Z-Kraft, die Eis-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                        |
-| 943     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Hielo en movimientos Z.                                          |
-| 943     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Ghiaccio in mosse Z.                                    |
-| 943     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Ice-type moves to Ice-type Z-Moves.                                                                                 |
-| 943     | 18               | 11          | こおりタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 943     | 18               | 12          | 可用它来制造用于对战
-并能将冰属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 943     | 19               | 1           | こおりタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 943     | 19               | 3           | 얼음타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 943     | 19               | 4           | 會製造出把冰屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 943     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Glace en capacité Z.                                   |
-| 943     | 19               | 6           | Kristallisierte Z-Kraft, die Eis-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                        |
-| 943     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Hielo en movimientos Z.                                          |
-| 943     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Ghiaccio in mosse Z.                                    |
-| 943     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Ice-type moves to Ice-type Z-Moves.                                                                                 |
-| 943     | 19               | 11          | こおりタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 943     | 19               | 12          | 可用它来制造用于对战
-并能将冰属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 943     | 20               | 1           | こおりタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 943     | 20               | 3           | 얼음타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 943     | 20               | 4           | 會製造出把冰屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 943     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Glace en capacité Z.                                   |
-| 943     | 20               | 6           | Kristallisierte Z-Kraft, die Eis-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                        |
-| 943     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Hielo en
-movimientos Z.                                          |
-| 943     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Ghiaccio in mosse Z.                                    |
-| 943     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Ice-type moves to Ice-type Z-Moves.                                                                                 |
-| 943     | 20               | 11          | こおりタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 943     | 20               | 12          | 可用它来制造用于对战
-并能将冰属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 944     | 18               | 1           | かくとうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 944     | 18               | 3           | 격투타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 944     | 18               | 4           | 會製造出把格鬥屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 944     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Combat en capacité Z.                                  |
-| 944     | 18               | 6           | Kristallisierte Z-Kraft, die Kampf-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 944     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Lucha en movimientos Z.                                          |
-| 944     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Lotta in mosse Z.                                       |
-| 944     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Fighting-type moves to Fighting-type Z-Moves.                                                                       |
-| 944     | 18               | 11          | かくとうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 944     | 18               | 12          | 可用它来制造用于对战
-并能将格斗属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 944     | 19               | 1           | かくとうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 944     | 19               | 3           | 격투타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 944     | 19               | 4           | 會製造出把格鬥屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 944     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Combat en capacité Z.                                  |
-| 944     | 19               | 6           | Kristallisierte Z-Kraft, die Kampf-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 944     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Lucha en movimientos Z.                                          |
-| 944     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Lotta in mosse Z.                                       |
-| 944     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Fighting-type moves to Fighting-type Z-Moves.                                                                       |
-| 944     | 19               | 11          | かくとうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 944     | 19               | 12          | 可用它来制造用于对战
-并能将格斗属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 944     | 20               | 1           | かくとうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 944     | 20               | 3           | 격투타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 944     | 20               | 4           | 會製造出把格鬥屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 944     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Combat en capacité Z.                                  |
-| 944     | 20               | 6           | Kristallisierte Z-Kraft, die Kampf-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 944     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Lucha en
-movimientos Z.                                          |
-| 944     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Lotta in mosse Z.                                       |
-| 944     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Fighting-type moves to Fighting-type Z-Moves.                                                                       |
-| 944     | 20               | 11          | かくとうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 944     | 20               | 12          | 可用它来制造用于对战
-并能将格斗属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 945     | 18               | 1           | どくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 945     | 18               | 3           | 독타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 945     | 18               | 4           | 會製造出把毒屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 945     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Poison en capacité Z.                                  |
-| 945     | 18               | 6           | Kristallisierte Z-Kraft, die Gift-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 945     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Veneno en movimientos Z.                                         |
-| 945     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Veleno in mosse Z.                                      |
-| 945     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Poison-type moves to Poison-type Z-Moves.                                                                           |
-| 945     | 18               | 11          | どくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 945     | 18               | 12          | 可用它来制造用于对战
-并能将毒属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 945     | 19               | 1           | どくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 945     | 19               | 3           | 독타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 945     | 19               | 4           | 會製造出把毒屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 945     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Poison en capacité Z.                                  |
-| 945     | 19               | 6           | Kristallisierte Z-Kraft, die Gift-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 945     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Veneno en movimientos Z.                                         |
-| 945     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Veleno in mosse Z.                                      |
-| 945     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Poison-type moves to Poison-type Z-Moves.                                                                           |
-| 945     | 19               | 11          | どくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 945     | 19               | 12          | 可用它来制造用于对战
-并能将毒属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 945     | 20               | 1           | どくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 945     | 20               | 3           | 독타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 945     | 20               | 4           | 會製造出把毒屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 945     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Poison en capacité Z.                                  |
-| 945     | 20               | 6           | Kristallisierte Z-Kraft, die Gift-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                       |
-| 945     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Veneno
-en movimientos Z.                                         |
-| 945     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Veleno in mosse Z.                                      |
-| 945     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Poison-type moves to Poison-type Z-Moves.                                                                           |
-| 945     | 20               | 11          | どくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 945     | 20               | 12          | 可用它来制造用于对战
-并能将毒属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 946     | 18               | 1           | じめんタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 946     | 18               | 3           | 땅타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 946     | 18               | 4           | 會製造出把地面屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 946     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Sol en capacité Z.                                     |
-| 946     | 18               | 6           | Kristallisierte Z-Kraft, die Boden-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 946     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Tierra en movimientos Z.                                         |
-| 946     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Terra in mosse Z.                                       |
-| 946     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Ground-type moves to Ground-type Z-Moves.                                                                           |
-| 946     | 18               | 11          | じめんタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 946     | 18               | 12          | 可用它来制造用于对战
-并能将地面属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 946     | 19               | 1           | じめんタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 946     | 19               | 3           | 땅타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 946     | 19               | 4           | 會製造出把地面屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 946     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Sol en capacité Z.                                     |
-| 946     | 19               | 6           | Kristallisierte Z-Kraft, die Boden-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 946     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Tierra en movimientos Z.                                         |
-| 946     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Terra in mosse Z.                                       |
-| 946     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Ground-type moves to Ground-type Z-Moves.                                                                           |
-| 946     | 19               | 11          | じめんタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 946     | 19               | 12          | 可用它来制造用于对战
-并能将地面属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 946     | 20               | 1           | じめんタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 946     | 20               | 3           | 땅타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 946     | 20               | 4           | 會製造出把地面屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 946     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Sol en capacité Z.                                     |
-| 946     | 20               | 6           | Kristallisierte Z-Kraft, die Boden-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 946     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Tierra en
-movimientos Z.                                         |
-| 946     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Terra in mosse Z.                                       |
-| 946     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Ground-type moves to Ground-type Z-Moves.                                                                           |
-| 946     | 20               | 11          | じめんタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 946     | 20               | 12          | 可用它来制造用于对战
-并能将地面属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 947     | 18               | 1           | ひこうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 947     | 18               | 3           | 비행타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 947     | 18               | 4           | 會製造出把飛行屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 947     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Vol en capacité Z.                                     |
-| 947     | 18               | 6           | Kristallisierte Z-Kraft, die Flug-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 947     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Volador en movimientos Z.                                        |
-| 947     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Volante in mosse Z.                                     |
-| 947     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Flying-type moves to Flying-type Z-Moves.                                                                           |
-| 947     | 18               | 11          | ひこうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 947     | 18               | 12          | 可用它来制造用于对战
-并能将飞行属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 947     | 19               | 1           | ひこうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 947     | 19               | 3           | 비행타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 947     | 19               | 4           | 會製造出把飛行屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 947     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Vol en capacité Z.                                     |
-| 947     | 19               | 6           | Kristallisierte Z-Kraft, die Flug-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 947     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Volador en movimientos Z.                                        |
-| 947     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Volante in mosse Z.                                     |
-| 947     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Flying-type moves to Flying-type Z-Moves.                                                                           |
-| 947     | 19               | 11          | ひこうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 947     | 19               | 12          | 可用它来制造用于对战
-并能将飞行属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 947     | 20               | 1           | ひこうタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 947     | 20               | 3           | 비행타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 947     | 20               | 4           | 會製造出把飛行屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 947     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Vol en capacité Z.                                     |
-| 947     | 20               | 6           | Kristallisierte Z-Kraft, die Flug-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                       |
-| 947     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Volador
-en movimientos Z.                                        |
-| 947     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Volante in mosse Z.                                     |
-| 947     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Flying-type moves to Flying-type Z-Moves.                                                                           |
-| 947     | 20               | 11          | ひこうタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 947     | 20               | 12          | 可用它来制造用于对战
-并能将飞行属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 948     | 18               | 1           | エスパータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 948     | 18               | 3           | 에스퍼타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 948     | 18               | 4           | 會製造出把超能力屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 948     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Psy en capacité Z.                                     |
-| 948     | 18               | 6           | Kristallisierte Z-Kraft, die Psycho-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 948     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Psíquico en movimientos Z.                                       |
-| 948     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Psico in mosse Z.                                       |
-| 948     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Psychic-type moves to Psychic-type Z-Moves.                                                                         |
-| 948     | 18               | 11          | エスパータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 948     | 18               | 12          | 可用它来制造用于对战
-并能将超能力属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 948     | 19               | 1           | エスパータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 948     | 19               | 3           | 에스퍼타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 948     | 19               | 4           | 會製造出把超能力屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 948     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Psy en capacité Z.                                     |
-| 948     | 19               | 6           | Kristallisierte Z-Kraft, die Psycho-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 948     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Psíquico en movimientos Z.                                       |
-| 948     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Psico in mosse Z.                                       |
-| 948     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Psychic-type moves to Psychic-type Z-Moves.                                                                         |
-| 948     | 19               | 11          | エスパータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 948     | 19               | 12          | 可用它来制造用于对战
-并能将超能力属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 948     | 20               | 1           | エスパータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 948     | 20               | 3           | 에스퍼타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 948     | 20               | 4           | 會製造出把超能力屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 948     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Psy en capacité Z.                                     |
-| 948     | 20               | 6           | Kristallisierte Z-Kraft, die Psycho-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                     |
-| 948     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Psíquico
-en movimientos Z.                                       |
-| 948     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Psico in mosse Z.                                       |
-| 948     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Psychic-type moves to Psychic-type Z-Moves.                                                                         |
-| 948     | 20               | 11          | エスパータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 948     | 20               | 12          | 可用它来制造用于对战
-并能将超能力属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 949     | 18               | 1           | むしタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 949     | 18               | 3           | 벌레타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 949     | 18               | 4           | 會製造出把蟲屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 949     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Insecte en capacité Z.                                 |
-| 949     | 18               | 6           | Kristallisierte Z-Kraft, die Käfer-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 949     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Bicho en movimientos Z.                                          |
-| 949     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Coleottero in mosse Z.                                  |
-| 949     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Bug-type moves to Bug-type Z-Moves.                                                                                 |
-| 949     | 18               | 11          | むしタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 949     | 18               | 12          | 可用它来制造用于对战
-并能将虫属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 949     | 19               | 1           | むしタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 949     | 19               | 3           | 벌레타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 949     | 19               | 4           | 會製造出把蟲屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 949     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Insecte en capacité Z.                                 |
-| 949     | 19               | 6           | Kristallisierte Z-Kraft, die Käfer-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 949     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Bicho en movimientos Z.                                          |
-| 949     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Coleottero in mosse Z.                                  |
-| 949     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Bug-type moves to Bug-type Z-Moves.                                                                                 |
-| 949     | 19               | 11          | むしタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 949     | 19               | 12          | 可用它来制造用于对战
-并能将虫属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 949     | 20               | 1           | むしタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 949     | 20               | 3           | 벌레타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 949     | 20               | 4           | 會製造出把蟲屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 949     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Insecte en capacité Z.                                 |
-| 949     | 20               | 6           | Kristallisierte Z-Kraft, die Käfer-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                      |
-| 949     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Bicho en
-movimientos Z.                                          |
-| 949     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Coleottero in mosse Z.                                  |
-| 949     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Bug-type moves to Bug-type Z-Moves.                                                                                 |
-| 949     | 20               | 11          | むしタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 949     | 20               | 12          | 可用它来制造用于对战
-并能将虫属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 950     | 18               | 1           | いわタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 950     | 18               | 3           | 바위타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 950     | 18               | 4           | 會製造出把岩石屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 950     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Roche en capacité Z.                                   |
-| 950     | 18               | 6           | Kristallisierte Z-Kraft, die Gesteins-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 950     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Roca en movimientos Z.                                           |
-| 950     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Roccia in mosse Z.                                      |
-| 950     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Rock-type moves to Rock-type Z-Moves.                                                                               |
-| 950     | 18               | 11          | いわタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 950     | 18               | 12          | 可用它来制造用于对战
-并能将岩石属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 950     | 19               | 1           | いわタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 950     | 19               | 3           | 바위타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 950     | 19               | 4           | 會製造出把岩石屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 950     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Roche en capacité Z.                                   |
-| 950     | 19               | 6           | Kristallisierte Z-Kraft, die Gesteins-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 950     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Roca en movimientos Z.                                           |
-| 950     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Roccia in mosse Z.                                      |
-| 950     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Rock-type moves to Rock-type Z-Moves.                                                                               |
-| 950     | 19               | 11          | いわタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 950     | 19               | 12          | 可用它来制造用于对战
-并能将岩石属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 950     | 20               | 1           | いわタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 950     | 20               | 3           | 바위타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 950     | 20               | 4           | 會製造出把岩石屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 950     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Roche en capacité Z.                                   |
-| 950     | 20               | 6           | Kristallisierte Z-Kraft, die Gesteins-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                   |
-| 950     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Roca en
-movimientos Z.                                           |
-| 950     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Roccia in mosse Z.                                      |
-| 950     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Rock-type moves to Rock-type Z-Moves.                                                                               |
-| 950     | 20               | 11          | いわタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 950     | 20               | 12          | 可用它来制造用于对战
-并能将岩石属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 951     | 18               | 1           | ゴーストタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 951     | 18               | 3           | 고스트타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 951     | 18               | 4           | 會製造出把幽靈屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 951     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Spectre en capacité Z.                                 |
-| 951     | 18               | 6           | Kristallisierte Z-Kraft, die Geister-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 951     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Fantasma en movimientos Z.                                       |
-| 951     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Spettro in mosse Z.                                     |
-| 951     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Ghost-type moves to Ghost-type Z-Moves.                                                                             |
-| 951     | 18               | 11          | ゴーストタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 951     | 18               | 12          | 可用它来制造用于对战
-并能将幽灵属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 951     | 19               | 1           | ゴーストタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 951     | 19               | 3           | 고스트타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 951     | 19               | 4           | 會製造出把幽靈屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 951     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Spectre en capacité Z.                                 |
-| 951     | 19               | 6           | Kristallisierte Z-Kraft, die Geister-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 951     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Fantasma en movimientos Z.                                       |
-| 951     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Spettro in mosse Z.                                     |
-| 951     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Ghost-type moves to Ghost-type Z-Moves.                                                                             |
-| 951     | 19               | 11          | ゴーストタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 951     | 19               | 12          | 可用它来制造用于对战
-并能将幽灵属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 951     | 20               | 1           | ゴーストタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 951     | 20               | 3           | 고스트타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 951     | 20               | 4           | 會製造出把幽靈屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 951     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Spectre en capacité Z.                                 |
-| 951     | 20               | 6           | Kristallisierte Z-Kraft, die Geister-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 951     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Fantasma
-en movimientos Z.                                       |
-| 951     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Spettro in mosse Z.                                     |
-| 951     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Ghost-type moves to Ghost-type Z-Moves.                                                                             |
-| 951     | 20               | 11          | ゴーストタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 951     | 20               | 12          | 可用它来制造用于对战
-并能将幽灵属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 952     | 18               | 1           | ドラゴンタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 952     | 18               | 3           | 드래곤타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 952     | 18               | 4           | 會製造出把龍屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 952     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Dragon en capacité Z.                                  |
-| 952     | 18               | 6           | Kristallisierte Z-Kraft, die Drachen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 952     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Dragón en movimientos Z.                                         |
-| 952     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Drago in mosse Z.                                       |
-| 952     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Dragon-type moves to Dragon-type Z-Moves.                                                                           |
-| 952     | 18               | 11          | ドラゴンタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 952     | 18               | 12          | 可用它来制造用于对战
-并能将龙属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 952     | 19               | 1           | ドラゴンタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 952     | 19               | 3           | 드래곤타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 952     | 19               | 4           | 會製造出把龍屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 952     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Dragon en capacité Z.                                  |
-| 952     | 19               | 6           | Kristallisierte Z-Kraft, die Drachen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 952     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Dragón en movimientos Z.                                         |
-| 952     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Drago in mosse Z.                                       |
-| 952     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Dragon-type moves to Dragon-type Z-Moves.                                                                           |
-| 952     | 19               | 11          | ドラゴンタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 952     | 19               | 12          | 可用它来制造用于对战
-并能将龙属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 952     | 20               | 1           | ドラゴンタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                    |
-| 952     | 20               | 3           | 드래곤타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 952     | 20               | 4           | 會製造出把龍屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 952     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Dragon en capacité Z.                                  |
-| 952     | 20               | 6           | Kristallisierte Z-Kraft, die Drachen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 952     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Dragón
-en movimientos Z.                                         |
-| 952     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Drago in mosse Z.                                       |
-| 952     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Dragon-type moves to Dragon-type Z-Moves.                                                                           |
-| 952     | 20               | 11          | ドラゴンタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                         |
-| 952     | 20               | 12          | 可用它来制造用于对战
-并能将龙属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 953     | 18               | 1           | あくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 953     | 18               | 3           | 악타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 953     | 18               | 4           | 會製造出把惡屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 953     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Ténèbres en capacité Z.                                |
-| 953     | 18               | 6           | Kristallisierte Z-Kraft, die Unlicht-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 953     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Siniestro en movimientos Z.                                      |
-| 953     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Buio in mosse Z.                                        |
-| 953     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Dark-type moves to Dark-type Z-Moves.                                                                               |
-| 953     | 18               | 11          | あくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 953     | 18               | 12          | 可用它来制造用于对战
-并能将恶属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 953     | 19               | 1           | あくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 953     | 19               | 3           | 악타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 953     | 19               | 4           | 會製造出把惡屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 953     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Ténèbres en capacité Z.                                |
-| 953     | 19               | 6           | Kristallisierte Z-Kraft, die Unlicht-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 953     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Siniestro en movimientos Z.                                      |
-| 953     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Buio in mosse Z.                                        |
-| 953     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Dark-type moves to Dark-type Z-Moves.                                                                               |
-| 953     | 19               | 11          | あくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 953     | 19               | 12          | 可用它来制造用于对战
-并能将恶属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 953     | 20               | 1           | あくタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                      |
-| 953     | 20               | 3           | 악타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                              |
-| 953     | 20               | 4           | 會製造出把惡屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 953     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Ténèbres en capacité Z.                                |
-| 953     | 20               | 6           | Kristallisierte Z-Kraft, die Unlicht-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                    |
-| 953     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Siniestro
-en movimientos Z.                                      |
-| 953     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Buio in mosse Z.                                        |
-| 953     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Dark-type moves to Dark-type Z-Moves.                                                                               |
-| 953     | 20               | 11          | あくタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                           |
-| 953     | 20               | 12          | 可用它来制造用于对战
-并能将恶属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 954     | 18               | 1           | はがねタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 954     | 18               | 3           | 강철타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 954     | 18               | 4           | 會製造出把鋼屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 954     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Acier en capacité Z.                                   |
-| 954     | 18               | 6           | Kristallisierte Z-Kraft, die Stahl-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 954     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Acero en movimientos Z.                                          |
-| 954     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acciaio in mosse Z.                                     |
-| 954     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Steel-type moves to Steel-type Z-Moves.                                                                             |
-| 954     | 18               | 11          | はがねタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 954     | 18               | 12          | 可用它来制造用于对战
-并能将钢属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 954     | 19               | 1           | はがねタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 954     | 19               | 3           | 강철타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 954     | 19               | 4           | 會製造出把鋼屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 954     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Acier en capacité Z.                                   |
-| 954     | 19               | 6           | Kristallisierte Z-Kraft, die Stahl-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                      |
-| 954     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Acero en movimientos Z.                                          |
-| 954     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acciaio in mosse Z.                                     |
-| 954     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Steel-type moves to Steel-type Z-Moves.                                                                             |
-| 954     | 19               | 11          | はがねタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 954     | 19               | 12          | 可用它来制造用于对战
-并能将钢属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 954     | 20               | 1           | はがねタイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                     |
-| 954     | 20               | 3           | 강철타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                             |
-| 954     | 20               | 4           | 會製造出把鋼屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                           |
-| 954     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Acier en capacité Z.                                   |
-| 954     | 20               | 6           | Kristallisierte Z-Kraft, die Stahl-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                      |
-| 954     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Acero en
-movimientos Z.                                          |
-| 954     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Acciaio in mosse Z.                                     |
-| 954     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Steel-type moves to Steel-type Z-Moves.                                                                             |
-| 954     | 20               | 11          | はがねタイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                          |
-| 954     | 20               | 12          | 可用它来制造用于对战
-并能将钢属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                  |
-| 955     | 18               | 1           | フェアリータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 955     | 18               | 3           | 페어리타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 955     | 18               | 4           | 會製造出把妖精屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 955     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses
-capacités de type Fée en capacité Z.                                     |
-| 955     | 18               | 6           | Kristallisierte Z-Kraft, die Feen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 955     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Hada en movimientos Z.                                           |
-| 955     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Folletto in mosse Z.                                    |
-| 955     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Fairy-type moves to Fairy-type Z-Moves.                                                                             |
-| 955     | 18               | 11          | フェアリータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                        |
-| 955     | 18               | 12          | 可用它来制造用于对战
-并能将妖精属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 955     | 19               | 1           | フェアリータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 955     | 19               | 3           | 페어리타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 955     | 19               | 4           | 會製造出把妖精屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 955     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Fée en capacité Z.                                     |
-| 955     | 19               | 6           | Kristallisierte Z-Kraft, die Feen-Attacken zu
-Z-Attacken aufstuft. Wird bei Bedarf automatisch
-vervielfacht.                                                       |
-| 955     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los portadores convertir sus movimientos de tipo
-Hada en movimientos Z.                                           |
-| 955     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Folletto in mosse Z.                                    |
-| 955     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Fairy-type moves to Fairy-type Z-Moves.                                                                             |
-| 955     | 19               | 11          | フェアリータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                        |
-| 955     | 19               | 12          | 可用它来制造用于对战
-并能将妖精属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 955     | 20               | 1           | フェアリータイプの　わざを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 955     | 20               | 3           | 페어리타입 기술을
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                            |
-| 955     | 20               | 4           | 會製造出把妖精屬性招式
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                          |
-| 955     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise son porteur à transformer ses capacités
-de type Fée en capacité Z.                                     |
-| 955     | 20               | 6           | Kristallisierte Z-Kraft, die Feen-Attacken zu Z-Attacken
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                                                       |
-| 955     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-portadores convertir sus movimientos de tipo Hada en
-movimientos Z.                                           |
-| 955     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Pokémon di trasformare le mosse
-di tipo Folletto in mosse Z.                                    |
-| 955     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Fairy-type moves to Fairy-type Z-Moves.                                                                             |
-| 955     | 20               | 11          | フェアリータイプの　技を
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                        |
-| 955     | 20               | 12          | 可用它来制造用于对战
-并能将妖精属性招式升级成
-Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 956     | 18               | 1           | ピカチュウの　ボルテッカーを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 956     | 18               | 3           | 피카츄의 볼트태클을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 956     | 18               | 4           | 會製造出把皮卡丘的伏特攻擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 956     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu qui le tient à transformer
-son Électacle en capacité Z.                                     |
-| 956     | 18               | 6           | Kristallisierte Z-Kraft, die Pikachus Attacke
-Volttackle zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 956     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Pikachu convertir su Placaje Eléc en un
-movimiento Z.                                                             |
-| 956     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu di trasformare la mossa
-Locomovolt in una mossa Z.                                       |
-| 956     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Pikachu’s Volt Tackle to an exclusive Z-Move.                                                                       |
-| 956     | 18               | 11          | ピカチュウの　ボルテッカーを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 956     | 18               | 12          | 可用它来制造用于对战
-并能将皮卡丘的伏特攻击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 956     | 19               | 1           | ピカチュウの　ボルテッカーを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 956     | 19               | 3           | 피카츄의 볼트태클을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 956     | 19               | 4           | 會製造出把皮卡丘的伏特攻擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 956     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu qui le tient à transformer
-son Électacle en capacité Z.                                     |
-| 956     | 19               | 6           | Kristallisierte Z-Kraft, die Pikachus Attacke
-Volttackle zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 956     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Pikachu convertir su Placaje Eléc en un movimiento Z.                                                             |
-| 956     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu di trasformare la mossa
-Locomovolt in una mossa Z.                                       |
-| 956     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Pikachu’s Volt Tackle to an exclusive Z-Move.                                                                       |
-| 956     | 19               | 11          | ピカチュウの　ボルテッカーを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 956     | 19               | 12          | 可用它来制造用于对战
-并能将皮卡丘的伏特攻击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 956     | 20               | 1           | ピカチュウの　ボルテッカーを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 956     | 20               | 3           | 피카츄의 볼트태클을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 956     | 20               | 4           | 會製造出把皮卡丘的伏特攻擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 956     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu qui le tient à transformer
-son Électacle en capacité Z.                                     |
-| 956     | 20               | 6           | Kristallisierte Z-Kraft, die Pikachus Attacke
-Volttackle zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 956     | 20               | 7           | Concentra el Poder Z en cristales que permiten
-a Pikachu convertir su Placaje Eléctrico en un
-movimiento Z.                                                        |
-| 956     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu di trasformare la mossa
-Locomovolt in una mossa Z.                                       |
-| 956     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Pikachu’s Volt Tackle to an exclusive Z-Move.                                                                       |
-| 956     | 20               | 11          | ピカチュウの　ボルテッカーを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 956     | 20               | 12          | 可用它来制造用于对战
-并能将皮卡丘的伏特攻击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 957     | 18               | 1           | ジュナイパーの　かげぬいを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 957     | 18               | 3           | 모크나이퍼의 그림자꿰매기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                   |
-| 957     | 18               | 4           | 會製造出把狙射樹梟的縫影
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 957     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Archéduc qui le tient à transformer
-son Tisse Ombre en capacité Z.                                   |
-| 957     | 18               | 6           | Kristallisierte Z-Kraft, die Silvarros Attacke
-Schattenfessel zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                               |
-| 957     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Decidueye convertir su Puntada Sombría en un
-movimiento Z.                                                        |
-| 957     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Decidueye di trasformare la mossa
-Cucitura d’Ombra in una mossa Z.                               |
-| 957     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Decidueye’s Spirit Shackle to an exclusive Z-Move.                                                                  |
-| 957     | 18               | 11          | ジュナイパーの　かげぬいを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 957     | 18               | 12          | 可用它来制造用于对战
-并能将狙射树枭的缝影
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 957     | 19               | 1           | ジュナイパーの　かげぬいを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 957     | 19               | 3           | 모크나이퍼의 그림자꿰매기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                   |
-| 957     | 19               | 4           | 會製造出把狙射樹梟的縫影
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 957     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Archéduc qui le tient à transformer
-son Tisse Ombre en capacité Z.                                   |
-| 957     | 19               | 6           | Kristallisierte Z-Kraft, die Silvarros Attacke
-Schattenfessel zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                               |
-| 957     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Decidueye convertir su Puntada Sombría en un
-movimiento Z.                                                        |
-| 957     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Decidueye di trasformare la mossa
-Cucitura d’Ombra in una mossa Z.                               |
-| 957     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Decidueye’s Spirit Shackle to an exclusive Z-Move.                                                                  |
-| 957     | 19               | 11          | ジュナイパーの　かげぬいを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 957     | 19               | 12          | 可用它来制造用于对战
-并能将狙射树枭的缝影
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 957     | 20               | 1           | ジュナイパーの　かげぬいを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 957     | 20               | 3           | 모크나이퍼의 그림자꿰매기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                   |
-| 957     | 20               | 4           | 會製造出把狙射樹梟的縫影
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 957     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Archéduc qui le tient à transformer
-son Tisse Ombre en capacité Z.                                   |
-| 957     | 20               | 6           | Kristallisierte Z-Kraft, die Silvarros Attacke
-Schattenfessel zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                               |
-| 957     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Decidueye convertir su Puntada Sombría en un
-movimiento Z.                                                        |
-| 957     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Decidueye di trasformare la mossa
-Cucitura d’Ombra in una mossa Z.                               |
-| 957     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Decidueye’s Spirit Shackle to an exclusive Z-Move.                                                                  |
-| 957     | 20               | 11          | ジュナイパーの　かげぬいを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 957     | 20               | 12          | 可用它来制造用于对战
-并能将狙射树枭的缝影
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 958     | 18               | 1           | ガオガエンの　ＤＤラリアットを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 958     | 18               | 3           | 어흥염의 DD래리어트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                     |
-| 958     | 18               | 4           | 會製造出把熾焰咆哮虎的ＤＤ金勾臂
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 958     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Félinferno qui le tient à transformer
-son Dark Lariat en capacité Z.                                |
-| 958     | 18               | 6           | Kristallisierte Z-Kraft, die Fuegros Attacke
-Dark Lariat zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 958     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Incineroar convertir su Lariat Oscuro en un
-movimiento Z.                                                         |
-| 958     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Incineroar di trasformare la mossa
-Braccioteso in una mossa Z.                                   |
-| 958     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Incineroar’s Darkest Lariat to an exclusive Z-Move.                                                                 |
-| 958     | 18               | 11          | ガオガエンの　ＤＤラリアットを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                 |
-| 958     | 18               | 12          | 可用它来制造用于对战
-并能将炽焰咆哮虎的ＤＤ金勾臂
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 958     | 19               | 1           | ガオガエンの　ＤＤラリアットを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 958     | 19               | 3           | 어흥염의 DD래리어트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                     |
-| 958     | 19               | 4           | 會製造出把熾焰咆哮虎的DD金勾臂
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 958     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Félinferno qui le tient à transformer
-son Dark Lariat en capacité Z.                                |
-| 958     | 19               | 6           | Kristallisierte Z-Kraft, die Fuegros Attacke
-Dark Lariat zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 958     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Incineroar convertir su Lariat Oscuro en un
-movimiento Z.                                                         |
-| 958     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Incineroar di trasformare la mossa
-Braccioteso in una mossa Z.                                   |
-| 958     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Incineroar’s Darkest Lariat to an exclusive Z-Move.                                                                 |
-| 958     | 19               | 11          | ガオガエンの　ＤＤラリアットを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                 |
-| 958     | 19               | 12          | 可用它来制造用于对战
-并能将炽焰咆哮虎的DD金勾臂
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 958     | 20               | 1           | ガオガエンの　ＤＤラリアットを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 958     | 20               | 3           | 어흥염의 DD래리어트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                     |
-| 958     | 20               | 4           | 會製造出把熾焰咆哮虎的ＤＤ金勾臂
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 958     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Félinferno qui le tient à transformer
-son Dark Lariat en capacité Z.                                |
-| 958     | 20               | 6           | Kristallisierte Z-Kraft, die Fuegros Attacke
-Dark Lariat zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                    |
-| 958     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Incineroar convertir su Lariat Oscuro en un
-movimiento Z.                                                         |
-| 958     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Incineroar di trasformare la mossa
-Braccioteso in una mossa Z.                                   |
-| 958     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Incineroar’s Darkest Lariat to an exclusive Z-Move.                                                                 |
-| 958     | 20               | 11          | ガオガエンの　ＤＤラリアットを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                 |
-| 958     | 20               | 12          | 可用它来制造用于对战
-并能将炽焰咆哮虎的ＤＤ金勾臂
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 959     | 18               | 1           | アシレーヌの　うたかたのアリアを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                          |
-| 959     | 18               | 3           | 누리레느의 물거품아리아를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 959     | 18               | 4           | 會製造出把西獅海壬的泡影的詠歎調
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 959     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Oratoria qui le tient à transformer
-son Aria de l’Écume en capacité Z.                               |
-| 959     | 18               | 6           | Kristallisierte Z-Kraft, die Primarenes Attacke
-Schaumserenade zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 959     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Primarina convertir su Aria Burbuja en un
-movimiento Z.                                                           |
-| 959     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Primarina di trasformare la mossa
-Canto Effimero in una mossa Z.                                 |
-| 959     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Primarina’s Sparkling Aria to an exclusive Z-Move.                                                                  |
-| 959     | 18               | 11          | アシレーヌの　うたかたのアリアを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 959     | 18               | 12          | 可用它来制造用于对战
-并能将西狮海壬的泡影的咏叹调
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 959     | 19               | 1           | アシレーヌの　うたかたのアリアを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                          |
-| 959     | 19               | 3           | 누리레느의 물거품아리아를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 959     | 19               | 4           | 會製造出把西獅海壬的泡影的詠歎調
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 959     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Oratoria qui le tient à transformer
-son Aria de l’Écume en capacité Z.                               |
-| 959     | 19               | 6           | Kristallisierte Z-Kraft, die Primarenes Attacke
-Schaumserenade zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 959     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Primarina convertir su Aria Burbuja en un movimiento Z.                                                           |
-| 959     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Primarina di trasformare la mossa
-Canto Effimero in una mossa Z.                                 |
-| 959     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Primarina’s Sparkling Aria to an exclusive Z-Move.                                                                  |
-| 959     | 19               | 11          | アシレーヌの　うたかたのアリアを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 959     | 19               | 12          | 可用它来制造用于对战
-并能将西狮海壬的泡影的咏叹调
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 959     | 20               | 1           | アシレーヌの　うたかたのアリアを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                          |
-| 959     | 20               | 3           | 누리레느의 물거품아리아를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 959     | 20               | 4           | 會製造出把西獅海壬的泡影的詠歎調
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                   |
-| 959     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Oratoria qui le tient à transformer
-son Aria de l’Écume en capacité Z.                               |
-| 959     | 20               | 6           | Kristallisierte Z-Kraft, die Primarenes Attacke
-Schaumserenade zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 959     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Primarina convertir su Aria Burbuja en un movimiento Z.                                                           |
-| 959     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Primarina di trasformare la mossa
-Canto Effimero in una mossa Z.                                 |
-| 959     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Primarina’s Sparkling Aria to an exclusive Z-Move.                                                                  |
-| 959     | 20               | 11          | アシレーヌの　うたかたのアリアを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 959     | 20               | 12          | 可用它来制造用于对战
-并能将西狮海壬的泡影的咏叹调
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                          |
-| 960     | 18               | 1           | カプたちの　しぜんのいかりを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 960     | 18               | 3           | 카푸들의 자연의분노를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 960     | 18               | 4           | 會製造出把卡璞們的自然之怒
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 960     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pokémon Tutélaire qui le tient à
-transformer son Ire de la Nature en capacité Z.                    |
-| 960     | 18               | 6           | Kristallisierte Z-Kraft, die die Kapu-Attacke
-Naturzorn zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                     |
-| 960     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los Tapu convertir su Furia Natural en un
-movimiento Z.                                                           |
-| 960     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Tapu di trasformare la mossa
-Ira della Natura in una mossa Z.                                   |
-| 960     | 18               | 9           | It converts Z-Power into crystals that upgrade the
-tapu’s Nature’s Madness to an exclusive Z-Move.                                                                 |
-| 960     | 18               | 11          | カプたちの　しぜんのいかりを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 960     | 18               | 12          | 可用它来制造用于对战
-并能将卡璞们的自然之怒
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 960     | 19               | 1           | カプたちの　しぜんのいかりを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 960     | 19               | 3           | 카푸들의 자연의분노를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 960     | 19               | 4           | 會製造出把卡璞們的自然之怒
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 960     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pokémon Tutélaire qui le tient à
-transformer son Ire de la Nature en capacité Z.                    |
-| 960     | 19               | 6           | Kristallisierte Z-Kraft, die die Kapu-Attacke
-Naturzorn zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                     |
-| 960     | 19               | 7           | Concentra el Poder Z en cristales que permiten a los
-Tapu convertir su Furia Natural en un movimiento Z.                                                           |
-| 960     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Tapu di trasformare la mossa
-Ira della Natura in una mossa Z.                                   |
-| 960     | 19               | 9           | It converts Z-Power into crystals that upgrade the
-tapu’s Nature’s Madness to an exclusive Z-Move.                                                                 |
-| 960     | 19               | 11          | カプたちの　しぜんのいかりを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 960     | 19               | 12          | 可用它来制造用于对战
-并能将卡璞们的自然之怒
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 960     | 20               | 1           | カプたちの　しぜんのいかりを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 960     | 20               | 3           | 카푸들의 자연의분노를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 960     | 20               | 4           | 會製造出把卡璞們的自然之怒
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 960     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pokémon Tutélaire qui le tient
-à transformer son Ire de la Nature en capacité Z.                    |
-| 960     | 20               | 6           | Kristallisierte Z-Kraft, die die Kapu-Attacke
-Naturzorn zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                     |
-| 960     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-los Tapu convertir su Furia Natural en un movimiento Z.                                                           |
-| 960     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono ai Tapu di trasformare la mossa
-Ira della Natura in una mossa Z.                                   |
-| 960     | 20               | 9           | It converts Z-Power into crystals that upgrade the
-tapu’s Nature’s Madness to an exclusive Z-Move.                                                                 |
-| 960     | 20               | 11          | カプたちの　しぜんのいかりを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 960     | 20               | 12          | 可用它来制造用于对战
-并能将卡璞们的自然之怒
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 961     | 18               | 1           | マーシャドーの　シャドースチールを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                         |
-| 961     | 18               | 3           | 마샤도의 섀도스틸을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 961     | 18               | 4           | 會製造出把瑪夏多的暗影偷盜
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 961     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Marshadow qui le tient à transformer
-son Clepto-Mânes en capacité Z.                                |
-| 961     | 18               | 6           | Kristallisierte Z-Kraft, die Marshadows Attacke
-Diebesschatten zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 961     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Marshadow convertir su Robasombra en un
-movimiento Z.                                                             |
-| 961     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Marshadow di trasformare la mossa
-Ombrafurto in una mossa Z.                                     |
-| 961     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Marshadow’s Spectral Thief to an
-exclusive Z-Move.                                                                  |
-| 961     | 18               | 11          | マーシャドーの　シャドースチールを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                               |
-| 961     | 18               | 12          | 可用它来制造用于对战
-并能将玛夏多的暗影偷盗
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 961     | 19               | 1           | マーシャドーの　シャドースチールを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                         |
-| 961     | 19               | 3           | 마샤도의 섀도스틸을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 961     | 19               | 4           | 會製造出把瑪夏多的暗影偷盜
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 961     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Marshadow qui le tient à transformer
-son Clepto-Mânes en capacité Z.                                |
-| 961     | 19               | 6           | Kristallisierte Z-Kraft, die Marshadows Attacke
-Diebesschatten zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 961     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Marshadow convertir su Robasombra en un
-movimiento Z.                                                             |
-| 961     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Marshadow di trasformare la mossa
-Ombrafurto in una mossa Z.                                     |
-| 961     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Marshadow’s Spectral Thief to an
-exclusive Z-Move.                                                                  |
-| 961     | 19               | 11          | マーシャドーの　シャドースチールを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                               |
-| 961     | 19               | 12          | 可用它来制造用于对战
-并能将玛夏多的暗影偷盗
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 961     | 20               | 1           | マーシャドーの　シャドースチールを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                         |
-| 961     | 20               | 3           | 마샤도의 섀도스틸을
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 961     | 20               | 4           | 會製造出把瑪夏多的暗影偷盜
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 961     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Marshadow qui le tient à transformer
-son Clepto-Mânes en capacité Z.                                |
-| 961     | 20               | 6           | Kristallisierte Z-Kraft, die Marshadows Attacke
-Diebesschatten zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 961     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Marshadow convertir su Robasombra en un
-movimiento Z.                                                             |
-| 961     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Marshadow di trasformare la mossa
-Ombrafurto in una mossa Z.                                     |
-| 961     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Marshadow’s Spectral Thief to an
-exclusive Z-Move.                                                                  |
-| 961     | 20               | 11          | マーシャドーの　シャドースチールを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                               |
-| 961     | 20               | 12          | 可用它来制造用于对战
-并能将玛夏多的暗影偷盗
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 962     | 18               | 1           | アローラちほうに　いる　ライチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 962     | 18               | 3           | 알로라지방에 있는 라이츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 962     | 18               | 4           | 會製造出把阿羅拉地區雷丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                  |
-| 962     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Raichu de la région d’Alola qui le
-tient à transformer son Tonnerre en capacité Z.                  |
-| 962     | 18               | 6           | Kristallisierte Z-Kraft, die Alola-Raichus Attacke
-Donnerblitz zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 962     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los Raichu de Alola convertir su Rayo en un
-movimiento Z.                                                         |
-| 962     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono al Raichu di Alola di trasformare la
-mossa Fulmine in una mossa Z.                                 |
-| 962     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Alolan Raichu’s Thunderbolt to an exclusive Z-Move.                                                                 |
-| 962     | 18               | 11          | アローラ地方に　いる　ライチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 962     | 18               | 12          | 可用它来制造用于对战
-并能将阿罗拉地区雷丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                         |
-| 962     | 19               | 1           | アローラちほうに　いる　ライチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 962     | 19               | 3           | 알로라지방에 있는 라이츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 962     | 19               | 4           | 會製造出把阿羅拉地區雷丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                  |
-| 962     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Raichu de la région d’Alola qui le tient
-à transformer son Tonnerre en capacité Z.                  |
-| 962     | 19               | 6           | Kristallisierte Z-Kraft, die Alola-Raichus Attacke
-Donnerblitz zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 962     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los Raichu de Alola convertir su Rayo en un
-movimiento Z.                                                         |
-| 962     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono al Raichu di Alola di trasformare la
-mossa Fulmine in una mossa Z.                                 |
-| 962     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Alolan Raichu’s Thunderbolt to an exclusive Z-Move.                                                                 |
-| 962     | 19               | 11          | アローラ地方に　いる　ライチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 962     | 19               | 12          | 可用它来制造用于对战
-并能将阿罗拉地区雷丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                         |
-| 962     | 20               | 1           | アローラちほうに　いる　ライチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                           |
-| 962     | 20               | 3           | 알로라지방에 있는 라이츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                    |
-| 962     | 20               | 4           | 會製造出把阿羅拉地區雷丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                  |
-| 962     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Raichu de la région d’Alola qui
-le tient à transformer son Tonnerre en capacité Z.                  |
-| 962     | 20               | 6           | Kristallisierte Z-Kraft, die Alola-Raichus Attacke
-Donnerblitz zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                              |
-| 962     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-los Raichu de Alola convertir su Rayo en un
-movimiento Z.                                                         |
-| 962     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono al Raichu di Alola di trasformare la
-mossa Fulmine in una mossa Z.                                 |
-| 962     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Alolan Raichu’s Thunderbolt to an exclusive Z-Move.                                                                 |
-| 962     | 20               | 11          | アローラ地方に　いる　ライチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 962     | 20               | 12          | 可用它来制造用于对战
-并能将阿罗拉地区雷丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                         |
-| 963     | 18               | 1           | カビゴンの　ギガインパクトを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 963     | 18               | 3           | 잠만보의 기가임팩트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 963     | 18               | 4           | 會製造出把卡比獸的終極衝擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 963     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Ronflex qui le tient à transformer
-son Giga Impact en capacité Z.                                   |
-| 963     | 18               | 6           | Kristallisierte Z-Kraft, die Relaxos Attacke
-Gigastoß zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                       |
-| 963     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Snorlax convertir su Giga Impacto en un
-movimiento Z.                                                             |
-| 963     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Snorlax di trasformare la mossa
-Gigaimpatto in una mossa Z.                                      |
-| 963     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Snorlax’s Giga Impact to an exclusive Z-Move.                                                                       |
-| 963     | 18               | 11          | カビゴンの　ギガインパクトを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 963     | 18               | 12          | 可用它来制造用于对战
-并能将卡比兽的终极冲击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 963     | 19               | 1           | カビゴンの　ギガインパクトを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 963     | 19               | 3           | 잠만보의 기가임팩트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 963     | 19               | 4           | 會製造出把卡比獸的終極衝擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 963     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Ronflex qui le tient à transformer
-son Giga Impact en capacité Z.                                   |
-| 963     | 19               | 6           | Kristallisierte Z-Kraft, die Relaxos Attacke
-Gigastoß zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                       |
-| 963     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Snorlax convertir su Giga Impacto en un
-movimiento Z.                                                             |
-| 963     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Snorlax di trasformare la mossa
-Gigaimpatto in una mossa Z.                                      |
-| 963     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Snorlax’s Giga Impact to an exclusive Z-Move.                                                                       |
-| 963     | 19               | 11          | カビゴンの　ギガインパクトを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 963     | 19               | 12          | 可用它来制造用于对战
-并能将卡比兽的终极冲击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 963     | 20               | 1           | カビゴンの　ギガインパクトを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 963     | 20               | 3           | 잠만보의 기가임팩트를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 963     | 20               | 4           | 會製造出把卡比獸的終極衝擊
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                      |
-| 963     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Ronflex qui le tient à transformer
-son Giga Impact en capacité Z.                                   |
-| 963     | 20               | 6           | Kristallisierte Z-Kraft, die Relaxos Attacke
-Gigastoß zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                       |
-| 963     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Snorlax convertir su Gigaimpacto en un movimiento Z.                                                              |
-| 963     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Snorlax di trasformare la mossa
-Gigaimpatto in una mossa Z.                                      |
-| 963     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Snorlax’s Giga Impact to an exclusive Z-Move.                                                                       |
-| 963     | 20               | 11          | カビゴンの　ギガインパクトを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                  |
-| 963     | 20               | 12          | 可用它来制造用于对战
-并能将卡比兽的终极冲击
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 964     | 18               | 1           | イーブイの　とっておきを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                              |
-| 964     | 18               | 3           | 이브이의 뒀다쓰기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 964     | 18               | 4           | 會製造出把伊布的珍藏
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 964     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Évoli qui le tient à transformer
-son Dernier Recours en capacité Z.                                  |
-| 964     | 18               | 6           | Kristallisierte Z-Kraft, die Evolis Attacke
-Zuflucht zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                        |
-| 964     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Eevee convertir su Última Baza en un movimiento Z.                                                                |
-| 964     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Eevee di trasformare la mossa
-Ultimascelta in una mossa Z.                                       |
-| 964     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Eevee’s Last Resort to an exclusive Z-Move.                                                                         |
-| 964     | 18               | 11          | イーブイの　とっておきを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                    |
-| 964     | 18               | 12          | 可用它来制造用于对战
-并能将伊布的珍藏
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 964     | 19               | 1           | イーブイの　とっておきを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                              |
-| 964     | 19               | 3           | 이브이의 뒀다쓰기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 964     | 19               | 4           | 會製造出把伊布的珍藏
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 964     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Évoli qui le tient à transformer
-son Dernier Recours en capacité Z.                                  |
-| 964     | 19               | 6           | Kristallisierte Z-Kraft, die Evolis Attacke
-Zuflucht zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                        |
-| 964     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Eevee convertir su Última Baza en un movimiento Z.                                                                |
-| 964     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Eevee di trasformare la mossa
-Ultimascelta in una mossa Z.                                       |
-| 964     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Eevee’s Last Resort to an exclusive Z-Move.                                                                         |
-| 964     | 19               | 11          | イーブイの　とっておきを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                    |
-| 964     | 19               | 12          | 可用它来制造用于对战
-并能将伊布的珍藏
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 964     | 20               | 1           | イーブイの　とっておきを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                              |
-| 964     | 20               | 3           | 이브이의 뒀다쓰기를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 964     | 20               | 4           | 會製造出把伊布的珍藏
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                         |
-| 964     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Évoli qui le tient à transformer
-son Dernier Recours en capacité Z.                                  |
-| 964     | 20               | 6           | Kristallisierte Z-Kraft, die Evolis Attacke
-Zuflucht zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                        |
-| 964     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Eevee convertir su Última Baza en un movimiento Z.                                                                |
-| 964     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Eevee di trasformare la mossa
-Ultimascelta in una mossa Z.                                       |
-| 964     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Eevee’s Last Resort to an exclusive Z-Move.                                                                         |
-| 964     | 20               | 11          | イーブイの　とっておきを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                    |
-| 964     | 20               | 12          | 可用它来制造用于对战
-并能将伊布的珍藏
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                                |
-| 965     | 18               | 1           | ミュウの　サイコキネシスを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 965     | 18               | 3           | 뮤의 사이코키네시스를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 965     | 18               | 4           | 會製造出把夢幻的精神強念
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 965     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mew qui le tient à transformer
-son Psyko en capacité Z.                                             |
-| 965     | 18               | 6           | Kristallisierte Z-Kraft, die Mews Attacke
-Psychokinese zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                      |
-| 965     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Mew convertir su Psíquico en un movimiento Z.                                                                     |
-| 965     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mew di trasformare la mossa
-Psichico in una mossa Z.                                             |
-| 965     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Mew’s Psychic to an exclusive Z-Move.                                                                               |
-| 965     | 18               | 11          | ミュウの　サイコキネシスを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 965     | 18               | 12          | 可用它来制造用于对战
-并能将梦幻的精神强念
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 965     | 19               | 1           | ミュウの　サイコキネシスを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 965     | 19               | 3           | 뮤의 사이코키네시스를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 965     | 19               | 4           | 會製造出把夢幻的精神強念
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 965     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mew qui le tient à transformer
-son Psyko en capacité Z.                                             |
-| 965     | 19               | 6           | Kristallisierte Z-Kraft, die Mews Attacke
-Psychokinese zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                      |
-| 965     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Mew convertir su Psíquico en un movimiento Z.                                                                     |
-| 965     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mew di trasformare la mossa
-Psichico in una mossa Z.                                             |
-| 965     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Mew’s Psychic to an exclusive Z-Move.                                                                               |
-| 965     | 19               | 11          | ミュウの　サイコキネシスを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 965     | 19               | 12          | 可用它来制造用于对战
-并能将梦幻的精神强念
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 965     | 20               | 1           | ミュウの　サイコキネシスを
-とくべつな　Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                             |
-| 965     | 20               | 3           | 뮤의 사이코키네시스를
-특별한 Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                      |
-| 965     | 20               | 4           | 會製造出把夢幻的精神強念
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                       |
-| 965     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mew qui le tient à transformer
-son Psyko en capacité Z.                                             |
-| 965     | 20               | 6           | Kristallisierte Z-Kraft, die Mews Attacke
-Psychokinese zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                      |
-| 965     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Mew convertir su Psíquico en un movimiento Z.                                                                     |
-| 965     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mew di trasformare la mossa
-Psichico in una mossa Z.                                             |
-| 965     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Mew’s Psychic to an exclusive Z-Move.                                                                               |
-| 965     | 20               | 11          | ミュウの　サイコキネシスを
-特別な　Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　作りだす。                                                                                                                   |
-| 965     | 20               | 12          | 可用它来制造用于对战
-并能将梦幻的精神强念
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 966     | 18               | 1           | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 966     | 18               | 3           | 모자를 쓴 피카츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                        |
-| 966     | 18               | 4           | 會製造出把戴著帽子的皮卡丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                 |
-| 966     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu à casquette qui le tient
-à transformer son Tonnerre en capacité Z.                          |
-| 966     | 18               | 6           | Kristallisierte Z-Kraft, die die Attacke Donnerblitz
-des Pikachus mit Kappe zu einer Z-Attacke
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                 |
-| 966     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-los Pikachu que llevan gorra convertir su Rayo en
-un movimiento Z.                                                |
-| 966     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu con il berretto di trasformare
-la mossa Fulmine in una mossa Z.                          |
-| 966     | 18               | 9           | It converts Z-Power into crystals that upgrade
-a Thunderbolt by Pikachu in a cap to an
-exclusive Z-Move.                                                           |
-| 966     | 18               | 11          | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 966     | 18               | 12          | 可用它来制造用于对战
-并能将戴着帽子的皮卡丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                        |
-| 966     | 19               | 1           | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 966     | 19               | 3           | 모자를 쓴 피카츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                        |
-| 966     | 19               | 4           | 會製造出把戴著帽子的皮卡丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                 |
-| 966     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu à casquette qui le tient
-à transformer son Tonnerre en capacité Z.                          |
-| 966     | 19               | 6           | Kristallisierte Z-Kraft, die die Attacke Donnerblitz
-des Pikachus mit Kappe zu einer Z-Attacke
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                 |
-| 966     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-los Pikachu que llevan gorra convertir su Rayo en
-un movimiento Z.                                                |
-| 966     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu con il berretto di trasformare
-la mossa Fulmine in una mossa Z.                          |
-| 966     | 19               | 9           | It converts Z-Power into crystals that upgrade
-a Thunderbolt by Pikachu in a cap to an
-exclusive Z-Move.                                                           |
-| 966     | 19               | 11          | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 966     | 19               | 12          | 可用它来制造用于对战
-并能将戴着帽子的皮卡丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                        |
-| 966     | 20               | 1           | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　かえる
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                            |
-| 966     | 20               | 3           | 모자를 쓴 피카츄의
-10만볼트를 Z기술로 바꾸는
-Z파워의 결정을 만들어 낸다.                                                                                                                        |
-| 966     | 20               | 4           | 會製造出把戴著帽子的皮卡丘的十萬伏特
-升級為特殊Ｚ招式的Ｚ力量結晶。                                                                                                                                 |
-| 966     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Pikachu à casquette qui le tient
-à transformer son Tonnerre en capacité Z.                          |
-| 966     | 20               | 6           | Kristallisierte Z-Kraft, die die Attacke Donnerblitz
-des Pikachus mit Kappe zu einer Z-Attacke
-aufstuft. Wird bei Bedarf automatisch vervielfacht.                 |
-| 966     | 20               | 7           | Concentra el Poder Z en cristales que permiten a los
-Pikachu que llevan gorra convertir su Rayo en un
-movimiento Z.                                                |
-| 966     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Pikachu con il berretto di trasformare
-la mossa Fulmine in una mossa Z.                          |
-| 966     | 20               | 9           | It converts Z-Power into crystals that upgrade
-a Thunderbolt by Pikachu in a cap to an
-exclusive Z-Move.                                                           |
-| 966     | 20               | 11          | キャップを　かぶった　ピカチュウの
-１０まんボルトを　Ｚワザに　変える
-Ｚパワーの　結晶を　作りだす。                                                                                                                |
-| 966     | 20               | 12          | 可用它来制造用于对战
-并能将戴着帽子的皮卡丘的十万伏特
-升级成特殊Ｚ招式的Ｚ力量结晶。                                                                                                                        |
-| 967     | 18               | 1           | Ｚパワーの　けっしょう。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 967     | 18               | 3           | Z파워의 결정.
-솔가레오의 메테오드라이브를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 967     | 18               | 4           | Ｚ力量的結晶。
-可將索爾迦雷歐的流星閃衝
-升級為Ｚ招式。                                                                                                                                       |
-| 967     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Choc Météore de Solgaleo
-en capacité Z.                                                            |
-| 967     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Solgaleos Attacke Stahlgestirn
-zu einer Z-Attacke auf.                                                               |
-| 967     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Meteoimpacto de Solgaleo.                                                                                            |
-| 967     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Astrocarica
-di Solgaleo in una mossa Z.                                             |
-| 967     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.                                                                        |
-| 967     | 18               | 11          | Ｚパワーの　結晶。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 967     | 18               | 12          | Ｚ力量的结晶。
-会将索尔迦雷欧的流星闪冲
-升级成Ｚ招式。                                                                                                                                       |
-| 967     | 19               | 1           | Ｚパワーの　けっしょう。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 967     | 19               | 3           | Z파워의 결정.
-솔가레오의 메테오드라이브를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 967     | 19               | 4           | Ｚ力量的結晶。
-可將索爾迦雷歐的流星閃衝
-升級為Ｚ招式。                                                                                                                                       |
-| 967     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Choc Météore de Solgaleo
-en capacité Z.                                                            |
-| 967     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Solgaleos Attacke Stahlgestirn
-zu einer Z-Attacke auf.                                                               |
-| 967     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Meteoimpacto de Solgaleo.                                                                                            |
-| 967     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Astrocarica
-di Solgaleo in una mossa Z.                                             |
-| 967     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.                                                                        |
-| 967     | 19               | 11          | Ｚパワーの　結晶。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 967     | 19               | 12          | Ｚ力量的结晶。
-会将索尔迦雷欧的流星闪冲
-升级成Ｚ招式。                                                                                                                                       |
-| 967     | 20               | 1           | Ｚパワーの　けっしょう。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 967     | 20               | 3           | Z파워의 결정.
-솔가레오의 메테오드라이브를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 967     | 20               | 4           | Ｚ力量的結晶。
-可將索爾迦雷歐的流星閃衝
-升級為Ｚ招式。                                                                                                                                       |
-| 967     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Choc Météore de Solgaleo
-en capacité Z.                                                            |
-| 967     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Solgaleos
-Attacke Stahlgestirn zu einer Z-Attacke auf.                                                               |
-| 967     | 20               | 7           | Cristal que confiere el Poder Z al movimiento
-Meteoimpacto de Solgaleo.                                                                                            |
-| 967     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Astrocarica
-di Solgaleo in una mossa Z.                                             |
-| 967     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.                                                                        |
-| 967     | 20               | 11          | Ｚパワーの　結晶。
-ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 967     | 20               | 12          | Ｚ力量的结晶。
-会将索尔迦雷欧的流星闪冲
-升级成Ｚ招式。                                                                                                                                       |
-| 968     | 18               | 1           | Ｚパワーの　けっしょう。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                        |
-| 968     | 18               | 3           | Z파워의 결정.
-루나아라의 섀도레이를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 968     | 18               | 4           | Ｚ力量的結晶。
-可將露奈雅拉的暗影之光
-升級為Ｚ招式。                                                                                                                                        |
-| 968     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Rayon Spectral de Lunala
-en capacité Z.                                                            |
-| 968     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Lunalas Attacke Schattenstrahl
-zu einer Z-Attacke auf.                                                               |
-| 968     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Rayo Umbrío de Lunala.                                                                                               |
-| 968     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Raggio d’Ombra
-di Lunala in una mossa Z.                                            |
-| 968     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lunala’s Moongeist Beam to a Z-Move.                                                                           |
-| 968     | 18               | 11          | Ｚパワーの　結晶。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 968     | 18               | 12          | Ｚ力量的结晶。
-会将露奈雅拉的暗影之光
-升级成Ｚ招式。                                                                                                                                        |
-| 968     | 19               | 1           | Ｚパワーの　けっしょう。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                        |
-| 968     | 19               | 3           | Z파워의 결정.
-루나아라의 섀도레이를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 968     | 19               | 4           | Ｚ力量的結晶。
-可將露奈雅拉的暗影之光
-升級為Ｚ招式。                                                                                                                                        |
-| 968     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Rayon Spectral de Lunala
-en capacité Z.                                                            |
-| 968     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Lunalas Attacke Schattenstrahl
-zu einer Z-Attacke auf.                                                               |
-| 968     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Rayo Umbrío de Lunala.                                                                                               |
-| 968     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Raggio d’Ombra
-di Lunala in una mossa Z.                                            |
-| 968     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lunala’s Moongeist Beam to a Z-Move.                                                                           |
-| 968     | 19               | 11          | Ｚパワーの　結晶。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 968     | 19               | 12          | Ｚ力量的结晶。
-会将露奈雅拉的暗影之光
-升级成Ｚ招式。                                                                                                                                        |
-| 968     | 20               | 1           | Ｚパワーの　けっしょう。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                        |
-| 968     | 20               | 3           | Z파워의 결정.
-루나아라의 섀도레이를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 968     | 20               | 4           | Ｚ力量的結晶。
-可將露奈雅拉的暗影之光
-升級為Ｚ招式。                                                                                                                                        |
-| 968     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Rayon Spectral de Lunala
-en capacité Z.                                                            |
-| 968     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Lunalas
-Attacke Schattenstrahl zu einer Z-Attacke auf.                                                               |
-| 968     | 20               | 7           | Cristal que confiere el Poder Z al movimiento Rayo
-Umbrío de Lunala.                                                                                               |
-| 968     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Raggio d’Ombra
-di Lunala in una mossa Z.                                            |
-| 968     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lunala’s Moongeist Beam to a Z-Move.                                                                           |
-| 968     | 20               | 11          | Ｚパワーの　結晶。
-ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 968     | 20               | 12          | Ｚ力量的结晶。
-会将露奈雅拉的暗影之光
-升级成Ｚ招式。                                                                                                                                        |
-| 969     | 18               | 1           | Ｚパワーの　けっしょう。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 969     | 18               | 3           | Z파워의 결정.
-네크로즈마의 포톤가이저를
-Z기술로 업그레이드한다.                                                                                                                               |
-| 969     | 18               | 4           | Ｚ力量的結晶。
-可將奈克洛茲瑪的光子噴湧
-升級為Ｚ招式。                                                                                                                                       |
-| 969     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Photo-Geyser de Necrozma
-en capacité Z.                                                            |
-| 969     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Necrozmas Attacke Photonen-Geysir
-zu einer Z-Attacke auf.                                                            |
-| 969     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Géiser Fotónico de Necrozma.                                                                                         |
-| 969     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Geyser Fotonico
-di Necrozma in una mossa Z.                                         |
-| 969     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Necrozma’s Photon Geyser to
-a Z-Move.                                                                          |
-| 969     | 18               | 11          | Ｚパワーの　結晶。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 969     | 18               | 12          | Ｚ力量的结晶。
-会将奈克洛兹玛的光子喷涌
-升级成Ｚ招式。                                                                                                                                       |
-| 969     | 19               | 1           | Ｚパワーの　けっしょう。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 969     | 19               | 3           | Z파워의 결정.
-네크로즈마의 포톤가이저를
-Z기술로 업그레이드한다.                                                                                                                               |
-| 969     | 19               | 4           | Ｚ力量的結晶。
-可將奈克洛茲瑪的光子噴湧
-升級為Ｚ招式。                                                                                                                                       |
-| 969     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Photo-Geyser de Necrozma
-en capacité Z.                                                            |
-| 969     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Necrozmas Attacke Photonen-Geysir
-zu einer Z-Attacke auf.                                                            |
-| 969     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Géiser Fotónico de Necrozma.                                                                                         |
-| 969     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Geyser Fotonico
-di Necrozma in una mossa Z.                                         |
-| 969     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Necrozma’s Photon Geyser to
-a Z-Move.                                                                          |
-| 969     | 19               | 11          | Ｚパワーの　結晶。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 969     | 19               | 12          | Ｚ力量的结晶。
-会将奈克洛兹玛的光子喷涌
-升级成Ｚ招式。                                                                                                                                       |
-| 969     | 20               | 1           | Ｚパワーの　けっしょう。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 969     | 20               | 3           | Z파워의 결정.
-네크로즈마의 포톤가이저를
-Z기술로 업그레이드한다.                                                                                                                               |
-| 969     | 20               | 4           | Ｚ力量的結晶。
-可將奈克洛茲瑪的光子噴湧
-升級為Ｚ招式。                                                                                                                                       |
-| 969     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer le Photo-Geyser de Necrozma
-en capacité Z.                                                            |
-| 969     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Necrozmas
-Attacke Photonen-Geysir zu einer Z-Attacke auf.                                                            |
-| 969     | 20               | 7           | Cristal que confiere el Poder Z al movimiento Géiser
-Fotónico de Necrozma.                                                                                         |
-| 969     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Geyser Fotonico
-di Necrozma in una mossa Z.                                         |
-| 969     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Necrozma’s Photon Geyser to
-a Z-Move.                                                                          |
-| 969     | 20               | 11          | Ｚパワーの　結晶。
-ネクロズマの　フォトンゲイザーを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 969     | 20               | 12          | Ｚ力量的结晶。
-会将奈克洛兹玛的光子喷涌
-升级成Ｚ招式。                                                                                                                                       |
-| 970     | 18               | 1           | Ｚパワーの　けっしょう。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 970     | 18               | 3           | Z파워의 결정.
-따라큐의 치근거리기를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 970     | 18               | 4           | Ｚ力量的結晶。
-可將謎擬Ｑ的嬉鬧
-升級為Ｚ招式。                                                                                                                                           |
-| 970     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Câlinerie d’un Mimiqui
-en capacité Z.                                                     |
-| 970     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Mimigmas Attacke Knuddler
-zu einer Z-Attacke auf.                                                                    |
-| 970     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Carantoña de Mimikyu.                                                                                                |
-| 970     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Carineria
-di Mimikyu in una mossa Z.                                                |
-| 970     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Mimikyu’s Play Rough to a Z-Move.                                                                              |
-| 970     | 18               | 11          | Ｚパワーの　結晶。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 970     | 18               | 12          | Ｚ力量的结晶。
-会将谜拟Ｑ的嬉闹
-升级成Ｚ招式。                                                                                                                                           |
-| 970     | 19               | 1           | Ｚパワーの　けっしょう。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 970     | 19               | 3           | Z파워의 결정.
-따라큐의 치근거리기를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 970     | 19               | 4           | Ｚ力量的結晶。
-可將謎擬Ｑ的嬉鬧
-升級為Ｚ招式。                                                                                                                                           |
-| 970     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Câlinerie d’un Mimiqui
-en capacité Z.                                                     |
-| 970     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Mimigmas Attacke Knuddler
-zu einer Z-Attacke auf.                                                                    |
-| 970     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Carantoña de Mimikyu.                                                                                                |
-| 970     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Carineria
-di Mimikyu in una mossa Z.                                                |
-| 970     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Mimikyu’s Play Rough to a Z-Move.                                                                              |
-| 970     | 19               | 11          | Ｚパワーの　結晶。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 970     | 19               | 12          | Ｚ力量的结晶。
-会将谜拟Ｑ的嬉闹
-升级成Ｚ招式。                                                                                                                                           |
-| 970     | 20               | 1           | Ｚパワーの　けっしょう。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 970     | 20               | 3           | Z파워의 결정.
-따라큐의 치근거리기를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 970     | 20               | 4           | Ｚ力量的結晶。
-可將謎擬Ｑ的嬉鬧
-升級為Ｚ招式。                                                                                                                                           |
-| 970     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Câlinerie d’un Mimiqui
-en capacité Z.                                                     |
-| 970     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Mimigmas
-Attacke Knuddler zu einer Z-Attacke auf.                                                                    |
-| 970     | 20               | 7           | Cristal que confiere el Poder Z al movimiento
-Carantoña de Mimikyu.                                                                                                |
-| 970     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Carineria
-di Mimikyu in una mossa Z.                                                |
-| 970     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Mimikyu’s Play Rough to a Z-Move.                                                                              |
-| 970     | 20               | 11          | Ｚパワーの　結晶。
-ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 970     | 20               | 12          | Ｚ力量的结晶。
-会将谜拟Ｑ的嬉闹
-升级成Ｚ招式。                                                                                                                                           |
-| 971     | 18               | 1           | Ｚパワーの　けっしょう。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 971     | 18               | 3           | Z파워의 결정.
-루가루암의 스톤에지를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 971     | 18               | 4           | Ｚ力量的結晶。
-可將鬃岩狼人的尖石攻擊
-升級為Ｚ招式。                                                                                                                                        |
-| 971     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Lame de Roc d’un
-Lougaroc en capacité Z.                                                  |
-| 971     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Wolwerocks Attacke Steinkante
-zu einer Z-Attacke auf.                                                                |
-| 971     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Roca Afilada de Lycanroc.                                                                                            |
-| 971     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Pietrataglio
-di Lycanroc in una mossa Z.                                            |
-| 971     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lycanroc’s Stone Edge to a Z-Move.                                                                             |
-| 971     | 18               | 11          | Ｚパワーの　結晶。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 971     | 18               | 12          | Ｚ力量的结晶。
-会将鬃岩狼人的尖石攻击
-升级成Ｚ招式。                                                                                                                                        |
-| 971     | 19               | 1           | Ｚパワーの　けっしょう。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 971     | 19               | 3           | Z파워의 결정.
-루가루암의 스톤에지를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 971     | 19               | 4           | Ｚ力量的結晶。
-可將鬃岩狼人的尖石攻擊
-升級為Ｚ招式。                                                                                                                                        |
-| 971     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Lame de Roc d’un Lougaroc
-en capacité Z.                                                  |
-| 971     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Wolwerocks Attacke Steinkante
-zu einer Z-Attacke auf.                                                                |
-| 971     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Roca Afilada de Lycanroc.                                                                                            |
-| 971     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Pietrataglio
-di Lycanroc in una mossa Z.                                            |
-| 971     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lycanroc’s Stone Edge to a Z-Move.                                                                             |
-| 971     | 19               | 11          | Ｚパワーの　結晶。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 971     | 19               | 12          | Ｚ力量的结晶。
-会将鬃岩狼人的尖石攻击
-升级成Ｚ招式。                                                                                                                                        |
-| 971     | 20               | 1           | Ｚパワーの　けっしょう。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                       |
-| 971     | 20               | 3           | Z파워의 결정.
-루가루암의 스톤에지를
-Z기술로 업그레이드한다.                                                                                                                                 |
-| 971     | 20               | 4           | Ｚ力量的結晶。
-可將鬃岩狼人的尖石攻擊
-升級為Ｚ招式。                                                                                                                                        |
-| 971     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Lame de Roc d’un Lougaroc
-en capacité Z.                                                  |
-| 971     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Wolwerocks
-Attacke Steinkante zu einer Z-Attacke auf.                                                                |
-| 971     | 20               | 7           | Cristal que confiere el Poder Z al movimiento Roca
-Afilada de Lycanroc.                                                                                            |
-| 971     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Pietrataglio
-di Lycanroc in una mossa Z.                                            |
-| 971     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Lycanroc’s Stone Edge to a Z-Move.                                                                             |
-| 971     | 20               | 11          | Ｚパワーの　結晶。
-ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 971     | 20               | 12          | Ｚ力量的结晶。
-会将鬃岩狼人的尖石攻击
-升级成Ｚ招式。                                                                                                                                        |
-| 972     | 18               | 1           | Ｚパワーの　けっしょう。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 972     | 18               | 3           | Z파워의 결정.
-짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 972     | 18               | 4           | Ｚ力量的結晶。
-可將杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式。                                                                                                                                       |
-| 972     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Vibrécaille d’un Ékaïser
-en capacité Z.                                                   |
-| 972     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Grandiras’ Attacke Schuppenrasseln
-zu einer Z-Attacke auf.                                                           |
-| 972     | 18               | 7           | Cristal que confiere el Poder Z al movimiento
-Fragor Escamas de Kommo-o.                                                                                           |
-| 972     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Clamorsquame
-di Kommo-o in una mossa Z.                                             |
-| 972     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Kommo-o’s Clanging Scales to
-a Z-Move.                                                                         |
-| 972     | 18               | 11          | Ｚパワーの　結晶。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 972     | 18               | 12          | Ｚ力量的结晶。
-会将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式。                                                                                                                                       |
-| 972     | 19               | 1           | Ｚパワーの　けっしょう。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 972     | 19               | 3           | Z파워의 결정.
-짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 972     | 19               | 4           | Ｚ力量的結晶。
-可將杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式。                                                                                                                                       |
-| 972     | 19               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Vibrécaille d’un Ékaïser
-en capacité Z.                                                   |
-| 972     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Grandiras’ Attacke Schuppenrasseln
-zu einer Z-Attacke auf.                                                           |
-| 972     | 19               | 7           | Cristal que confiere el Poder Z al movimiento
-Fragor Escamas de Kommo-o.                                                                                           |
-| 972     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Clamorsquame
-di Kommo-o in una mossa Z.                                             |
-| 972     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Kommo-o’s Clanging Scales to
-a Z-Move.                                                                         |
-| 972     | 19               | 11          | Ｚパワーの　結晶。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 972     | 19               | 12          | Ｚ力量的结晶。
-会将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式。                                                                                                                                       |
-| 972     | 20               | 1           | Ｚパワーの　けっしょう。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                      |
-| 972     | 20               | 3           | Z파워의 결정.
-짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드한다.                                                                                                                              |
-| 972     | 20               | 4           | Ｚ力量的結晶。
-可將杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式。                                                                                                                                       |
-| 972     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer la capacité Vibrécaille d’un Ékaïser
-en capacité Z.                                                   |
-| 972     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft Grandiras’
-Attacke Schuppenrasseln zu einer Z-Attacke auf.                                                           |
-| 972     | 20               | 7           | Cristal que confiere el Poder Z al movimiento Fragor
-Escamas de Kommo-o.                                                                                           |
-| 972     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare la mossa Clamorsquame
-di Kommo-o in una mossa Z.                                             |
-| 972     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Kommo-o’s Clanging Scales to
-a Z-Move.                                                                         |
-| 972     | 20               | 11          | Ｚパワーの　結晶。
-ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする。                                                                                                                         |
-| 972     | 20               | 12          | Ｚ力量的结晶。
-会将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式。                                                                                                                                       |
-| 973     | 18               | 1           | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 973     | 18               | 3           | 솔가레오의 메테오드라이브를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 973     | 18               | 4           | 可用來製造將
-索爾迦雷歐的流星閃衝
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 973     | 18               | 5           | Permet de concentrer la Force Z en un cristal
-qui, tenu, autorise Solgaleo à transformer son
-Choc Météore en capacité Z.                                           |
-| 973     | 18               | 6           | Kristallisierte Z-Kraft, die Solgaleos Attacke
-Stahlgestirn zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                 |
-| 973     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Solgaleo convertir su Meteoimpacto en un
-movimiento Z.                                                            |
-| 973     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Solgaleo di trasformare la mossa
-Astrocarica in una mossa Z.                                     |
-| 973     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Solgaleo’s Sunsteel Strike to an exclusive Z-Move.                                                                  |
-| 973     | 18               | 11          | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 973     | 18               | 12          | 可用它来制造用于对战
-并能将索尔迦雷欧的流星闪冲
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 973     | 19               | 1           | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 973     | 19               | 3           | 솔가레오의 메테오드라이브를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 973     | 19               | 4           | 可用來製造將
-索爾迦雷歐的流星閃衝
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 973     | 19               | 5           | Permet de concentrer la Force Z en un cristal qui, tenu,
-autorise Solgaleo à transformer son Choc Météore
-en capacité Z.                                           |
-| 973     | 19               | 6           | Kristallisierte Z-Kraft, die Solgaleos Attacke
-Stahlgestirn zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                 |
-| 973     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Solgaleo convertir su Meteoimpacto en un
-movimiento Z.                                                            |
-| 973     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Solgaleo di trasformare la mossa
-Astrocarica in una mossa Z.                                     |
-| 973     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Solgaleo’s Sunsteel Strike to an exclusive Z-Move.                                                                  |
-| 973     | 19               | 11          | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 973     | 19               | 12          | 可用它来制造用于对战
-并能将索尔迦雷欧的流星闪冲
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 973     | 20               | 1           | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 973     | 20               | 3           | 솔가레오의 메테오드라이브를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 973     | 20               | 4           | 可用來製造將
-索爾迦雷歐的流星閃衝
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 973     | 20               | 5           | Permet de concentrer la Force Z en un cristal qui,
-tenu, autorise Solgaleo à transformer son Choc Météore
-en capacité Z.                                           |
-| 973     | 20               | 6           | Kristallisierte Z-Kraft, die Solgaleos Attacke Stahlgestirn
-zu einer Z-Attacke aufstuft. Wird bei Bedarf
-automatisch vervielfacht.                                 |
-| 973     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Solgaleo convertir su Meteoimpacto en un
-movimiento Z.                                                            |
-| 973     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Solgaleo di trasformare la mossa
-Astrocarica in una mossa Z.                                     |
-| 973     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Solgaleo’s Sunsteel Strike to an exclusive Z-Move.                                                                  |
-| 973     | 20               | 11          | ソルガレオの　メテオドライブを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 973     | 20               | 12          | 可用它来制造用于对战
-并能将索尔迦雷欧的流星闪冲
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 974     | 18               | 1           | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                  |
-| 974     | 18               | 3           | 루나아라의 섀도레이를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 974     | 18               | 4           | 可用來製造將
-露奈雅拉的暗影之光
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 974     | 18               | 5           | Permet de concentrer la Force Z en un cristal
-qui, tenu, autorise Lunala à transformer son
-Rayon Spectral en capacité Z.                                           |
-| 974     | 18               | 6           | Kristallisierte Z-Kraft, die Lunalas Attacke
-Schattenstrahl zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                 |
-| 974     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Lunala convertir su Rayo Umbrío en un
-movimiento Z.                                                               |
-| 974     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lunala di trasformare la mossa
-Raggio d’Ombra in una mossa Z.                                    |
-| 974     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Lunala’s Moongeist Beam to an exclusive Z-Move.                                                                     |
-| 974     | 18               | 11          | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                     |
-| 974     | 18               | 12          | 可用它来制造用于对战
-并能将露奈雅拉的暗影之光
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 974     | 19               | 1           | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                  |
-| 974     | 19               | 3           | 루나아라의 섀도레이를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 974     | 19               | 4           | 可用來製造將
-露奈雅拉的暗影之光
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 974     | 19               | 5           | Permet de concentrer la Force Z en un cristal
-qui, tenu, autorise Lunala à transformer son
-Rayon Spectral en capacité Z.                                           |
-| 974     | 19               | 6           | Kristallisierte Z-Kraft, die Lunalas Attacke
-Schattenstrahl zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                 |
-| 974     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Lunala convertir su Rayo Umbrío en un movimiento Z.                                                               |
-| 974     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lunala di trasformare la mossa
-Raggio d’Ombra in una mossa Z.                                    |
-| 974     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Lunala’s Moongeist Beam to an exclusive Z-Move.                                                                     |
-| 974     | 19               | 11          | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                     |
-| 974     | 19               | 12          | 可用它来制造用于对战
-并能将露奈雅拉的暗影之光
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 974     | 20               | 1           | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                  |
-| 974     | 20               | 3           | 루나아라의 섀도레이를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 974     | 20               | 4           | 可用來製造將
-露奈雅拉的暗影之光
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 974     | 20               | 5           | Permet de concentrer la Force Z en un cristal qui,
-tenu, autorise Lunala à transformer son Rayon Spectral
-en capacité Z.                                           |
-| 974     | 20               | 6           | Kristallisierte Z-Kraft, die Lunalas Attacke Schattenstrahl
-zu einer Z-Attacke aufstuft. Wird bei Bedarf
-automatisch vervielfacht.                                 |
-| 974     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Lunala convertir su Rayo Umbrío en un
-movimiento Z.                                                               |
-| 974     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lunala di trasformare la mossa
-Raggio d’Ombra in una mossa Z.                                    |
-| 974     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Lunala’s Moongeist Beam to an exclusive Z-Move.                                                                     |
-| 974     | 20               | 11          | ルナアーラの　シャドーレイを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                     |
-| 974     | 20               | 12          | 可用它来制造用于对战
-并能将露奈雅拉的暗影之光
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 975     | 18               | 1           | ソルガレオか　ルナアーラと
-がったいした　ネクロズマを
-あらたな　すがたにする　けっしょう。                                                                                                                     |
-| 975     | 18               | 3           | 솔가레오나 루나아라와
-합체한 네크로즈마를
-새로운 모습으로 만드는 결정.                                                                                                                            |
-| 975     | 18               | 4           | 可讓和索爾迦雷歐或露奈雅拉
-合體後的奈克洛茲瑪
-展現出全新樣子的結晶。                                                                                                                                |
-| 975     | 18               | 5           | Un cristal permettant de donner une nouvelle forme
-à Necrozma quand il a fusionné avec Solgaleo ou
-Lunala.                                                         |
-| 975     | 18               | 6           | Kristallisierte Z-Kraft, die bei Necrozma nach der
-Fusion mit Solgaleo oder Lunala bewirkt, dass es
-eine neue Form annimmt.                                        |
-| 975     | 18               | 7           | Cristal que permite a Necrozma, una vez fusionado
-con Solgaleo o Lunala, adoptar una nueva forma.                                                                  |
-| 975     | 18               | 8           | Cristallo che permette a Necrozma di assumere una
-nuova forma quando è fuso con Lunala o Solgaleo.                                                                 |
-| 975     | 18               | 9           | It’s a crystal that turns Necrozma fused with
-Solgaleo or Lunala into a new form.                                                                                  |
-| 975     | 18               | 11          | ソルガレオか　ルナアーラと
-合体した　ネクロズマを
-新たな　姿にする　結晶。                                                                                                                             |
-| 975     | 18               | 12          | 能让和索尔迦雷欧或
-露奈雅拉合体的奈克洛兹玛
-变成崭新样子的结晶。                                                                                                                                  |
-| 975     | 19               | 1           | ソルガレオか　ルナアーラと
-がったいした　ネクロズマを
-あらたな　すがたにする　けっしょう。                                                                                                                     |
-| 975     | 19               | 3           | 솔가레오나 루나아라와
-합체한 네크로즈마를
-새로운 모습으로 만드는 결정.                                                                                                                            |
-| 975     | 19               | 4           | 可讓和索爾迦雷歐或露奈雅拉
-合體後的奈克洛茲瑪
-展現出全新樣子的結晶。                                                                                                                                |
-| 975     | 19               | 5           | Un cristal permettant de donner une nouvelle forme
-à Necrozma quand il a fusionné avec Solgaleo ou
-Lunala.                                                         |
-| 975     | 19               | 6           | Kristallisierte Z-Kraft, die bei Necrozma nach der
-Fusion mit Solgaleo oder Lunala bewirkt, dass es
-eine neue Form annimmt.                                        |
-| 975     | 19               | 7           | Cristal que permite a Necrozma, una vez fusionado
-con Solgaleo o Lunala, adoptar una nueva forma.                                                                  |
-| 975     | 19               | 8           | Cristallo che permette a Necrozma di assumere una
-nuova forma quando è fuso con Lunala o Solgaleo.                                                                 |
-| 975     | 19               | 9           | It’s a crystal that turns Necrozma fused with
-Solgaleo or Lunala into a new form.                                                                                  |
-| 975     | 19               | 11          | ソルガレオか　ルナアーラと
-合体した　ネクロズマを
-新たな　姿にする　結晶。                                                                                                                             |
-| 975     | 19               | 12          | 能让和索尔迦雷欧或
-露奈雅拉合体的奈克洛兹玛
-变成崭新样子的结晶。                                                                                                                                  |
-| 975     | 20               | 1           | ソルガレオか　ルナアーラと
-がったいした　ネクロズマを
-あらたな　すがたにする　けっしょう。                                                                                                                     |
-| 975     | 20               | 3           | 솔가레오나 루나아라와
-합체한 네크로즈마를
-새로운 모습으로 만드는 결정.                                                                                                                            |
-| 975     | 20               | 4           | 可讓和索爾迦雷歐或露奈雅拉
-合體後的奈克洛茲瑪
-展現出全新樣子的結晶。                                                                                                                                |
-| 975     | 20               | 5           | Un cristal permettant de donner une nouvelle forme
-à Necrozma quand il a fusionné avec Solgaleo ou Lunala.                                                         |
-| 975     | 20               | 6           | Kristallisierte Z-Kraft, die bei Necrozma nach der Fusion
-mit Solgaleo oder Lunala bewirkt, dass es eine neue
-Form annimmt.                                        |
-| 975     | 20               | 7           | Cristal que permite a Necrozma, una vez fusionado
-con Solgaleo o Lunala, adoptar una nueva forma.                                                                  |
-| 975     | 20               | 8           | Cristallo che permette a Necrozma di assumere una
-nuova forma quando è fuso con Lunala o Solgaleo.                                                                 |
-| 975     | 20               | 9           | It’s a crystal that turns Necrozma fused with
-Solgaleo or Lunala into a new form.                                                                                  |
-| 975     | 20               | 11          | ソルガレオか　ルナアーラと
-合体した　ネクロズマを
-新たな　姿にする　結晶。                                                                                                                             |
-| 975     | 20               | 12          | 能让和索尔迦雷欧或
-露奈雅拉合体的奈克洛兹玛
-变成崭新样子的结晶。                                                                                                                                  |
-| 976     | 18               | 1           | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 976     | 18               | 3           | 따라큐의 치근거리기를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 976     | 18               | 4           | 可用來製造將
-謎擬Ｑ的嬉鬧
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                        |
-| 976     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mimiqui qui le tient à transformer
-sa capacité Câlinerie en capacité Z.                             |
-| 976     | 18               | 6           | Kristallisierte Z-Kraft, die Mimigmas Attacke
-Knuddler zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                      |
-| 976     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Mimikyu convertir su Carantoña en un movimiento Z.                                                                |
-| 976     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mimikyu di trasformare la mossa
-Carineria in una mossa Z.                                        |
-| 976     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Mimikyu’s Play Rough to an exclusive Z-Move.                                                                        |
-| 976     | 18               | 11          | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                      |
-| 976     | 18               | 12          | 可用它来制造用于对战
-并能将谜拟Ｑ的嬉闹
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 976     | 19               | 1           | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 976     | 19               | 3           | 따라큐의 치근거리기를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 976     | 19               | 4           | 可用來製造將
-謎擬Ｑ的嬉鬧
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                        |
-| 976     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mimiqui qui le tient à transformer
-sa capacité Câlinerie en capacité Z.                             |
-| 976     | 19               | 6           | Kristallisierte Z-Kraft, die Mimigmas Attacke
-Knuddler zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                      |
-| 976     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Mimikyu convertir su Carantoña en un movimiento Z.                                                                |
-| 976     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mimikyu di trasformare la mossa
-Carineria in una mossa Z.                                        |
-| 976     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Mimikyu’s Play Rough to an exclusive Z-Move.                                                                        |
-| 976     | 19               | 11          | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                      |
-| 976     | 19               | 12          | 可用它来制造用于对战
-并能将谜拟Ｑ的嬉闹
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 976     | 20               | 1           | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                   |
-| 976     | 20               | 3           | 따라큐의 치근거리기를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 976     | 20               | 4           | 可用來製造將
-謎擬Ｑ的嬉鬧
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                        |
-| 976     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Mimiqui qui le tient à transformer
-sa capacité Câlinerie en capacité Z.                             |
-| 976     | 20               | 6           | Kristallisierte Z-Kraft, die Mimigmas Attacke Knuddler
-zu einer Z-Attacke aufstuft. Wird bei Bedarf
-automatisch vervielfacht.                                      |
-| 976     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Mimikyu convertir su Carantoña en un movimiento Z.                                                                |
-| 976     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Mimikyu di trasformare la mossa
-Carineria in una mossa Z.                                        |
-| 976     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Mimikyu’s Play Rough to an exclusive Z-Move.                                                                        |
-| 976     | 20               | 11          | ミミッキュの　じゃれつくを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                      |
-| 976     | 20               | 12          | 可用它来制造用于对战
-并能将谜拟Ｑ的嬉闹
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                                 |
-| 977     | 18               | 1           | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 977     | 18               | 3           | 루가루암의 스톤에지를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 977     | 18               | 4           | 可用來製造將
-鬃岩狼人的尖石攻擊
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 977     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Lougaroc qui le tient à transformer
-sa capacité Lame de Roc en capacité Z.                          |
-| 977     | 18               | 6           | Kristallisierte Z-Kraft, die Wolwerocks Attacke
-Steinkante zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                  |
-| 977     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Lycanroc convertir su Roca Afilada en un
-movimiento Z.                                                            |
-| 977     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lycanroc di trasformare la mossa
-Pietrataglio in una mossa Z.                                    |
-| 977     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Lycanroc’s Stone Edge to an exclusive Z-Move.                                                                       |
-| 977     | 18               | 11          | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 977     | 18               | 12          | 可用它来制造用于对战
-并能将鬃岩狼人的尖石攻击
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 977     | 19               | 1           | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 977     | 19               | 3           | 루가루암의 스톤에지를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 977     | 19               | 4           | 可用來製造將
-鬃岩狼人的尖石攻擊
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 977     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Lougaroc qui le tient à transformer
-sa capacité Lame de Roc en capacité Z.                          |
-| 977     | 19               | 6           | Kristallisierte Z-Kraft, die Wolwerocks Attacke
-Steinkante zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                                  |
-| 977     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Lycanroc convertir su Roca Afilada en un movimiento Z.                                                            |
-| 977     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lycanroc di trasformare la mossa
-Pietrataglio in una mossa Z.                                    |
-| 977     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Lycanroc’s Stone Edge to an exclusive Z-Move.                                                                       |
-| 977     | 19               | 11          | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 977     | 19               | 12          | 可用它来制造用于对战
-并能将鬃岩狼人的尖石攻击
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 977     | 20               | 1           | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                 |
-| 977     | 20               | 3           | 루가루암의 스톤에지를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                          |
-| 977     | 20               | 4           | 可用來製造將
-鬃岩狼人的尖石攻擊
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                     |
-| 977     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise le Lougaroc qui le tient à transformer
-sa capacité Lame de Roc en capacité Z.                          |
-| 977     | 20               | 6           | Kristallisierte Z-Kraft, die Wolwerocks Attacke
-Steinkante zu einer Z-Attacke aufstuft. Wird bei Bedarf
-automatisch vervielfacht.                                  |
-| 977     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Lycanroc convertir su Roca Afilada en un
-movimiento Z.                                                            |
-| 977     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Lycanroc di trasformare la mossa
-Pietrataglio in una mossa Z.                                    |
-| 977     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Lycanroc’s Stone Edge to an exclusive Z-Move.                                                                       |
-| 977     | 20               | 11          | ルガルガンの　ストーンエッジを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                    |
-| 977     | 20               | 12          | 可用它来制造用于对战
-并能将鬃岩狼人的尖石攻击
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                              |
-| 978     | 18               | 1           | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                |
-| 978     | 18               | 3           | 짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 978     | 18               | 4           | 可用來製造將
-杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 978     | 18               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Ékaïser qui le tient à transformer
-sa capacité Vibrécaille en capacité Z.                            |
-| 978     | 18               | 6           | Kristallisierte Z-Kraft, die Grandiras’ Attacke
-Schuppenrasseln zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                             |
-| 978     | 18               | 7           | Concentra el Poder Z en cristales que permiten a
-Kommo-o convertir su Fragor Escamas en un
-movimiento Z.                                                           |
-| 978     | 18               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Kommo-o di trasformare la mossa
-Clamorsquame in una mossa Z.                                     |
-| 978     | 18               | 9           | It converts Z-Power into crystals that upgrade
-Kommo-o’s Clanging Scales to an exclusive Z-Move.                                                                   |
-| 978     | 18               | 11          | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                   |
-| 978     | 18               | 12          | 可用它来制造用于对战
-并能将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 978     | 19               | 1           | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                |
-| 978     | 19               | 3           | 짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 978     | 19               | 4           | 可用來製造將
-杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 978     | 19               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Ékaïser qui le tient à transformer
-sa capacité Vibrécaille en capacité Z.                            |
-| 978     | 19               | 6           | Kristallisierte Z-Kraft, die Grandiras’ Attacke
-Schuppenrasseln zu einer Z-Attacke aufstuft.
-Wird bei Bedarf automatisch vervielfacht.                             |
-| 978     | 19               | 7           | Concentra el Poder Z en cristales que permiten a
-Kommo-o convertir su Fragor Escamas en un
-movimiento Z.                                                           |
-| 978     | 19               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Kommo-o di trasformare la mossa
-Clamorsquame in una mossa Z.                                     |
-| 978     | 19               | 9           | It converts Z-Power into crystals that upgrade
-Kommo-o’s Clanging Scales to an exclusive Z-Move.                                                                   |
-| 978     | 19               | 11          | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                   |
-| 978     | 19               | 12          | 可用它来制造用于对战
-并能将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 978     | 20               | 1           | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　けっしょうを　つくりだす。                                                                                                                |
-| 978     | 20               | 3           | 짜랑고우거의 스케일노이즈를
-Z기술로 업그레이드하는
-Z파워의 결정을 만들어 낸다.                                                                                                                       |
-| 978     | 20               | 4           | 可用來製造將
-杖尾鱗甲龍的鱗片噪音
-升級為Ｚ招式的Ｚ力量結晶。                                                                                                                                    |
-| 978     | 20               | 5           | Permet de concentrer la Force Z en un cristal,
-qui autorise l’Ékaïser qui le tient à transformer
-sa capacité Vibrécaille en capacité Z.                            |
-| 978     | 20               | 6           | Kristallisierte Z-Kraft, die Grandiras’ Attacke
-Schuppenrasseln zu einer Z-Attacke aufstuft. Wird bei
-Bedarf automatisch vervielfacht.                             |
-| 978     | 20               | 7           | Concentra el Poder Z en cristales que permiten a
-Kommo-o convertir su Fragor Escamas en un
-movimiento Z.                                                           |
-| 978     | 20               | 8           | Permette di creare cristalli carichi di Potere Z che
-consentono a Kommo-o di trasformare la mossa
-Clamorsquame in una mossa Z.                                     |
-| 978     | 20               | 9           | It converts Z-Power into crystals that upgrade
-Kommo-o’s Clanging Scales to an exclusive Z-Move.                                                                   |
-| 978     | 20               | 11          | ジャラランガの　スケイルノイズを
-Ｚワザに　グレードアップする
-Ｚパワーの　結晶を　つくりだす。                                                                                                                   |
-| 978     | 20               | 12          | 可用它来制造用于对战
-并能将杖尾鳞甲龙的鳞片噪音
-升级成Ｚ招式的Ｚ力量结晶。                                                                                                                             |
-| 979     | 18               | 1           | トレーナーの　きりょく　たいりょくを
-つかって　ポケモンが　Ｚパワーを
-はなてるようにする　ふしぎなうでわ。                                                                                                             |
-| 979     | 18               | 3           | 트레이너의 기력과 체력을
-사용해서 포켓몬이 Z파워를
-발산할 수 있게 하는 신비한 팔찌.                                                                                                                   |
-| 979     | 18               | 4           | 用訓練家的精力和體力
-來讓寶可夢釋放出
-Ｚ力量的神奇手環。                                                                                                                                      |
-| 979     | 18               | 5           | Un bracelet mystérieux utilisant la force vitale
-du Dresseur pour permettre à ses Pokémon
-d’utiliser la Force Z.                                                   |
-| 979     | 18               | 6           | Ein wundersames Armband, das die geistige und
-körperliche Kraft eines Trainers nutzt, um bei
-einem Pokémon die Z-Kraft freizusetzen.                               |
-| 979     | 18               | 7           | Misteriosa pulsera que transmite la fuerza física y
-mental del Entrenador a sus Pokémon, lo que les
-permite usar movimientos Z.                                    |
-| 979     | 18               | 8           | Bracciale misterioso che trasmette le energie
-mentali e fisiche dell’Allenatore ai suoi Pokémon,
-permettendo loro di sfruttare il Potere Z.                        |
-| 979     | 18               | 9           | A mysterious ring that enables Pokémon to use
-Z-Power. It requires both the willpower and the
-physical power of the Trainer wearing it.                            |
-| 979     | 18               | 11          | トレーナーの　気力　体力を
-使って　ポケモンが　Ｚパワーを
-放てるようにする　不思議な腕輪。                                                                                                                     |
-| 979     | 18               | 12          | 通过使用训练家的
-气力和体力来让宝可梦
-释放出Ｚ力量的神奇手环。                                                                                                                                   |
-| 979     | 19               | 1           | トレーナーの　きりょく　たいりょくを
-つかって　ポケモンが　Ｚパワーを
-はなてるようにする　ふしぎなうでわ。                                                                                                             |
-| 979     | 19               | 3           | 트레이너의 기력과 체력을
-사용해서 포켓몬이 Z파워를
-발산할 수 있게 하는 신비한 팔찌.                                                                                                                   |
-| 979     | 19               | 4           | 用訓練家的精力和體力
-來讓寶可夢釋放出
-Ｚ力量的神奇手環。                                                                                                                                      |
-| 979     | 19               | 5           | Un bracelet mystérieux utilisant la force vitale
-du Dresseur pour permettre à ses Pokémon d’utiliser
-la Force Z.                                                   |
-| 979     | 19               | 6           | Ein wundersames Armband, das die geistige und
-körperliche Kraft eines Trainers nutzt, um bei
-einem Pokémon die Z-Kraft freizusetzen.                               |
-| 979     | 19               | 7           | Misteriosa pulsera que transmite la fuerza física y
-mental del Entrenador a sus Pokémon, lo que les
-permite usar movimientos Z.                                    |
-| 979     | 19               | 8           | Bracciale misterioso che trasmette le energie
-mentali e fisiche dell’Allenatore ai suoi Pokémon,
-permettendo loro di sfruttare il Potere Z.                        |
-| 979     | 19               | 9           | A mysterious ring that enables Pokémon to use
-Z-Power. It requires both the willpower and the
-physical power of the Trainer wearing it.                            |
-| 979     | 19               | 11          | トレーナーの　気力　体力を
-使って　ポケモンが　Ｚパワーを
-放てるようにする　不思議な腕輪。                                                                                                                     |
-| 979     | 19               | 12          | 通过使用训练家的
-气力和体力来让宝可梦
-释放出Ｚ力量的神奇手环。                                                                                                                                   |
-| 979     | 20               | 1           | トレーナーの　きりょく　たいりょくを
-つかって　ポケモンが　Ｚパワーを
-はなてるようにする　ふしぎなうでわ。                                                                                                             |
-| 979     | 20               | 3           | 트레이너의 기력과 체력을
-사용해서 포켓몬이 Z파워를
-발산할 수 있게 하는 신비한 팔찌.                                                                                                                   |
-| 979     | 20               | 4           | 用訓練家的精力和體力
-來讓寶可夢釋放出
-Ｚ力量的神奇手環。                                                                                                                                      |
-| 979     | 20               | 5           | Un bracelet mystérieux utilisant la force vitale
-du Dresseur pour permettre à ses Pokémon
-d’utiliser la Force Z.                                                   |
-| 979     | 20               | 6           | Ein wundersames Armband, das die geistige und
-körperliche Kraft eines Trainers nutzt, um bei einem
-Pokémon die Z-Kraft freizusetzen.                               |
-| 979     | 20               | 7           | Misteriosa pulsera que transmite la fuerza física y
-mental del Entrenador a sus Pokémon, lo que les
-permite usar movimientos Z.                                    |
-| 979     | 20               | 8           | Bracciale misterioso che trasmette le energie
-mentali e fisiche dell’Allenatore ai suoi Pokémon,
-permettendo loro di sfruttare il Potere Z.                        |
-| 979     | 20               | 9           | A mysterious ring that enables Pokémon to use
-Z-Power. It requires both the willpower and the
-physical power of the Trainer wearing it.                            |
-| 979     | 20               | 11          | トレーナーの　気力　体力を
-使って　ポケモンが　Ｚパワーを
-放てるようにする　不思議な腕輪。                                                                                                                     |
-| 979     | 20               | 12          | 通过使用训练家的
-气力和体力来让宝可梦
-释放出Ｚ力量的神奇手环。                                                                                                                                   |
-| 980     | 18               | 1           | マツリカのしれんで　マツリカから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 980     | 18               | 3           | 말리화의 시련에서 말리화에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 980     | 18               | 4           | 在茉莉的考驗中，
-從茉莉那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 980     | 18               | 5           | Un pétale pressé qu’Oléa vous a remis lors de
-son Épreuve. Il y en a sept à collectionner.                                                                         |
-| 980     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von ihr erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                    |
-| 980     | 18               | 7           | Pétalo prensado recibido de manos de Rika durante
-su prueba. El objetivo es reunir siete distintos.                                                                |
-| 980     | 18               | 8           | Petalo di fiore pressato ottenuto da Rika
-durante la sua prova. L’obiettivo è ricevere
-sette petali diversi.                                                       |
-| 980     | 18               | 9           | A pressed flower petal you receive from Mina
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 980     | 18               | 11          | マツリカの試練で　マツリカから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 980     | 18               | 12          | 在茉莉的考验中，
-能从茉莉那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 980     | 19               | 1           | マツリカのしれんで　マツリカから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 980     | 19               | 3           | 말리화의 시련에서 말리화에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 980     | 19               | 4           | 在茉莉的考驗中，
-從茉莉那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 980     | 19               | 5           | Un pétale pressé qu’Oléa vous a remis lors de
-son Épreuve. Il y en a sept à collectionner.                                                                         |
-| 980     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von ihr erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                    |
-| 980     | 19               | 7           | Pétalo prensado recibido de manos de Rika durante
-su prueba. El objetivo es reunir siete distintos.                                                                |
-| 980     | 19               | 8           | Petalo di fiore pressato ottenuto da Rika
-durante la sua prova. L’obiettivo è ricevere
-sette petali diversi.                                                       |
-| 980     | 19               | 9           | A pressed flower petal you receive from Mina
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 980     | 19               | 11          | マツリカの試練で　マツリカから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 980     | 19               | 12          | 在茉莉的考验中，
-能从茉莉那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 980     | 20               | 1           | マツリカのしれんで　マツリカから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 980     | 20               | 3           | 말리화의 시련에서 말리화에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 980     | 20               | 4           | 在茉莉的考驗中，
-從茉莉那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 980     | 20               | 5           | Un pétale pressé qu’Oléa vous a remis lors
-de son Épreuve. Il y en a sept à collectionner.                                                                         |
-| 980     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von ihr erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                    |
-| 980     | 20               | 7           | Pétalo prensado recibido de manos de Rika durante
-su prueba. El objetivo es reunir siete distintos.                                                                |
-| 980     | 20               | 8           | Petalo di fiore pressato ottenuto da Rika
-durante la sua prova. L’obiettivo è ricevere
-sette petali diversi.                                                       |
-| 980     | 20               | 9           | A pressed flower petal you receive from Mina
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 980     | 20               | 11          | マツリカの試練で　マツリカから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 980     | 20               | 12          | 在茉莉的考验中，
-能从茉莉那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 981     | 18               | 1           | マツリカのしれんで　イリマから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                |
-| 981     | 18               | 3           | 말리화의 시련에서 일리마에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 981     | 18               | 4           | 在茉莉的考驗中，
-從伊利馬那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 981     | 18               | 5           | Un pétale pressé qu’Althéo vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 981     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Elima erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 981     | 18               | 7           | Pétalo prensado recibido de manos de Liam durante
-la prueba de Rika. El objetivo es reunir siete
-distintos.                                                        |
-| 981     | 18               | 8           | Petalo di fiore pressato ottenuto da Liam durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 981     | 18               | 9           | A pressed flower petal you receive from Ilima
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 981     | 18               | 11          | マツリカの試練で　イリマから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                       |
-| 981     | 18               | 12          | 在茉莉的考验中，
-能从伊利马那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 981     | 19               | 1           | マツリカのしれんで　イリマから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                |
-| 981     | 19               | 3           | 말리화의 시련에서 일리마에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 981     | 19               | 4           | 在茉莉的考驗中，
-從伊利馬那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 981     | 19               | 5           | Un pétale pressé qu’Althéo vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 981     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Elima erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 981     | 19               | 7           | Pétalo prensado recibido de manos de Liam durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                        |
-| 981     | 19               | 8           | Petalo di fiore pressato ottenuto da Liam durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 981     | 19               | 9           | A pressed flower petal you receive from Ilima
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 981     | 19               | 11          | マツリカの試練で　イリマから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                       |
-| 981     | 19               | 12          | 在茉莉的考验中，
-能从伊利马那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 981     | 20               | 1           | マツリカのしれんで　イリマから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                |
-| 981     | 20               | 3           | 말리화의 시련에서 일리마에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 981     | 20               | 4           | 在茉莉的考驗中，
-從伊利馬那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 981     | 20               | 5           | Un pétale pressé qu’Althéo vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 981     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Elima erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 981     | 20               | 7           | Pétalo prensado recibido de manos de Liam durante la
-prueba de Rika. El objetivo es reunir siete distintos.                                                        |
-| 981     | 20               | 8           | Petalo di fiore pressato ottenuto da Liam durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 981     | 20               | 9           | A pressed flower petal you receive from Ilima
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 981     | 20               | 11          | マツリカの試練で　イリマから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                       |
-| 981     | 20               | 12          | 在茉莉的考验中，
-能从伊利马那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 982     | 18               | 1           | マツリカのしれんで　スイレンから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 982     | 18               | 3           | 말리화의 시련에서 수련에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 982     | 18               | 4           | 在茉莉的考驗中，
-從水蓮那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 982     | 18               | 5           | Un pétale pressé que Néphie vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                 |
-| 982     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Tracy erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 982     | 18               | 7           | Pétalo prensado recibido de manos de Nereida
-durante la prueba de Rika. El objetivo es reunir
-siete distintos.                                                     |
-| 982     | 18               | 8           | Petalo di fiore pressato ottenuto da Suiren durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                 |
-| 982     | 18               | 9           | A pressed flower petal you receive from Lana 
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 982     | 18               | 11          | マツリカの試練で　スイレンから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 982     | 18               | 12          | 在茉莉的考验中，
-能从水莲那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 982     | 19               | 1           | マツリカのしれんで　スイレンから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 982     | 19               | 3           | 말리화의 시련에서 수련에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 982     | 19               | 4           | 在茉莉的考驗中，
-從水蓮那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 982     | 19               | 5           | Un pétale pressé que Néphie vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                 |
-| 982     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Tracy erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 982     | 19               | 7           | Pétalo prensado recibido de manos de Nereida durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                     |
-| 982     | 19               | 8           | Petalo di fiore pressato ottenuto da Suiren durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                 |
-| 982     | 19               | 9           | A pressed flower petal you receive from Lana
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 982     | 19               | 11          | マツリカの試練で　スイレンから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 982     | 19               | 12          | 在茉莉的考验中，
-能从水莲那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 982     | 20               | 1           | マツリカのしれんで　スイレンから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 982     | 20               | 3           | 말리화의 시련에서 수련에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 982     | 20               | 4           | 在茉莉的考驗中，
-從水蓮那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 982     | 20               | 5           | Un pétale pressé que Néphie vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                 |
-| 982     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Tracy erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 982     | 20               | 7           | Pétalo prensado recibido de manos de Nereida durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                     |
-| 982     | 20               | 8           | Petalo di fiore pressato ottenuto da Suiren durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                 |
-| 982     | 20               | 9           | A pressed flower petal you receive from Lana
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 982     | 20               | 11          | マツリカの試練で　スイレンから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 982     | 20               | 12          | 在茉莉的考验中，
-能从水莲那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 983     | 18               | 1           | マツリカのしれんで　カキから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 983     | 18               | 3           | 말리화의 시련에서 키아웨에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 983     | 18               | 4           | 在茉莉的考驗中，
-從卡奇那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 983     | 18               | 5           | Un pétale pressé que Kiawe vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 983     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Kiawe erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 983     | 18               | 7           | Pétalo prensado recibido de manos de Kiawe
-durante la prueba de Rika. El objetivo es reunir
-siete distintos.                                                       |
-| 983     | 18               | 8           | Petalo di fiore pressato ottenuto da Kawe durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 983     | 18               | 9           | A pressed flower petal you receive from Kiawe
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 983     | 18               | 11          | マツリカの試練で　カキから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 983     | 18               | 12          | 在茉莉的考验中，
-能从卡奇那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 983     | 19               | 1           | マツリカのしれんで　カキから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 983     | 19               | 3           | 말리화의 시련에서 키아웨에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 983     | 19               | 4           | 在茉莉的考驗中，
-從卡奇那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 983     | 19               | 5           | Un pétale pressé que Kiawe vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 983     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Kiawe erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 983     | 19               | 7           | Pétalo prensado recibido de manos de Kiawe durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 983     | 19               | 8           | Petalo di fiore pressato ottenuto da Kawe durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 983     | 19               | 9           | A pressed flower petal you receive from Kiawe
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 983     | 19               | 11          | マツリカの試練で　カキから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 983     | 19               | 12          | 在茉莉的考验中，
-能从卡奇那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 983     | 20               | 1           | マツリカのしれんで　カキから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 983     | 20               | 3           | 말리화의 시련에서 키아웨에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 983     | 20               | 4           | 在茉莉的考驗中，
-從卡奇那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 983     | 20               | 5           | Un pétale pressé que Kiawe vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 983     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Kiawe erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 983     | 20               | 7           | Pétalo prensado recibido de manos de Kiawe durante la
-prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 983     | 20               | 8           | Petalo di fiore pressato ottenuto da Kawe durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 983     | 20               | 9           | A pressed flower petal you receive from Kiawe
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                         |
-| 983     | 20               | 11          | マツリカの試練で　カキから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 983     | 20               | 12          | 在茉莉的考验中，
-能从卡奇那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 984     | 18               | 1           | マツリカのしれんで　マオから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 984     | 18               | 3           | 말리화의 시련에서 마오에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 984     | 18               | 4           | 在茉莉的考驗中，
-從瑪奧那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 984     | 18               | 5           | Un pétale pressé que Barbara vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                |
-| 984     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Maho erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 984     | 18               | 7           | Pétalo prensado recibido de manos de Lulú durante
-la prueba de Rika. El objetivo es reunir siete
-distintos.                                                        |
-| 984     | 18               | 8           | Petalo di fiore pressato ottenuto da Ibis durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 984     | 18               | 9           | A pressed flower petal you receive from Mallow
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                        |
-| 984     | 18               | 11          | マツリカの試練で　マオから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 984     | 18               | 12          | 在茉莉的考验中，
-能从玛奥那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 984     | 19               | 1           | マツリカのしれんで　マオから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 984     | 19               | 3           | 말리화의 시련에서 마오에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 984     | 19               | 4           | 在茉莉的考驗中，
-從瑪奧那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 984     | 19               | 5           | Un pétale pressé que Barbara vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                |
-| 984     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Maho erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 984     | 19               | 7           | Pétalo prensado recibido de manos de Lulú durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                        |
-| 984     | 19               | 8           | Petalo di fiore pressato ottenuto da Ibis durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 984     | 19               | 9           | A pressed flower petal you receive from Mallow
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                        |
-| 984     | 19               | 11          | マツリカの試練で　マオから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 984     | 19               | 12          | 在茉莉的考验中，
-能从玛奥那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 984     | 20               | 1           | マツリカのしれんで　マオから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                                 |
-| 984     | 20               | 3           | 말리화의 시련에서 마오에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 984     | 20               | 4           | 在茉莉的考驗中，
-從瑪奧那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 984     | 20               | 5           | Un pétale pressé que Barbara vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                |
-| 984     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Maho erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 984     | 20               | 7           | Pétalo prensado recibido de manos de Lulú durante la
-prueba de Rika. El objetivo es reunir siete distintos.                                                        |
-| 984     | 20               | 8           | Petalo di fiore pressato ottenuto da Ibis durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                   |
-| 984     | 20               | 9           | A pressed flower petal you receive from Mallow
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                        |
-| 984     | 20               | 11          | マツリカの試練で　マオから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                        |
-| 984     | 20               | 12          | 在茉莉的考验中，
-能从玛奥那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 985     | 18               | 1           | マツリカのしれんで　マーマネから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 985     | 18               | 3           | 말리화의 시련에서 마마네에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 985     | 18               | 4           | 在茉莉的考驗中，
-從馬瑪內那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 985     | 18               | 5           | Un pétale pressé que Chrys vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 985     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Chrys erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 985     | 18               | 7           | Pétalo prensado recibido de manos de Chris
-durante la prueba de Rika. El objetivo es reunir
-siete distintos.                                                       |
-| 985     | 18               | 8           | Petalo di fiore pressato ottenuto da Chrys durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                  |
-| 985     | 18               | 9           | A pressed flower petal you receive from Sophocles
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                     |
-| 985     | 18               | 11          | マツリカの試練で　マーマネから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 985     | 18               | 12          | 在茉莉的考验中，
-能从马玛内那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 985     | 19               | 1           | マツリカのしれんで　マーマネから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 985     | 19               | 3           | 말리화의 시련에서 마마네에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 985     | 19               | 4           | 在茉莉的考驗中，
-從馬瑪內那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 985     | 19               | 5           | Un pétale pressé que Chrys vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 985     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Chrys erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 985     | 19               | 7           | Pétalo prensado recibido de manos de Chris durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 985     | 19               | 8           | Petalo di fiore pressato ottenuto da Chrys durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                  |
-| 985     | 19               | 9           | A pressed flower petal you receive from Sophocles
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                     |
-| 985     | 19               | 11          | マツリカの試練で　マーマネから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 985     | 19               | 12          | 在茉莉的考验中，
-能从马玛内那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 985     | 20               | 1           | マツリカのしれんで　マーマネから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 985     | 20               | 3           | 말리화의 시련에서 마마네에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                     |
-| 985     | 20               | 4           | 在茉莉的考驗中，
-從馬瑪內那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                 |
-| 985     | 20               | 5           | Un pétale pressé que Chrys vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                  |
-| 985     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Chrys erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                  |
-| 985     | 20               | 7           | Pétalo prensado recibido de manos de Chris durante la
-prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 985     | 20               | 8           | Petalo di fiore pressato ottenuto da Chrys durante
-la prova di Rika. L’obiettivo è ricevere sette petali
-diversi.                                                  |
-| 985     | 20               | 9           | A pressed flower petal you receive from Sophocles
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                     |
-| 985     | 20               | 11          | マツリカの試練で　マーマネから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 985     | 20               | 12          | 在茉莉的考验中，
-能从马玛内那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                  |
-| 986     | 18               | 1           | マツリカのしれんで　クチナシから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 986     | 18               | 3           | 말리화의 시련에서 나누에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 986     | 18               | 4           | 在茉莉的考驗中，
-從默丹那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 986     | 18               | 5           | Un pétale pressé que Danh vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                   |
-| 986     | 18               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Yasu erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 986     | 18               | 7           | Pétalo prensado recibido de manos de Denio
-durante la prueba de Rika. El objetivo es reunir
-siete distintos.                                                       |
-| 986     | 18               | 8           | Petalo di fiore pressato ottenuto da Augusto
-durante la prova di Rika. L’obiettivo è ricevere
-sette petali diversi.                                                |
-| 986     | 18               | 9           | A pressed flower petal you receive from Nanu
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 986     | 18               | 11          | マツリカの試練で　クチナシから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 986     | 18               | 12          | 在茉莉的考验中，
-能从默丹那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 986     | 19               | 1           | マツリカのしれんで　クチナシから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 986     | 19               | 3           | 말리화의 시련에서 나누에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 986     | 19               | 4           | 在茉莉的考驗中，
-從默丹那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 986     | 19               | 5           | Un pétale pressé que Danh vous a remis lors de
-l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                   |
-| 986     | 19               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Yasu erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 986     | 19               | 7           | Pétalo prensado recibido de manos de Denio durante
-la prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 986     | 19               | 8           | Petalo di fiore pressato ottenuto da Augusto
-durante la prova di Rika. L’obiettivo è ricevere
-sette petali diversi.                                                |
-| 986     | 19               | 9           | A pressed flower petal you receive from Nanu
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 986     | 19               | 11          | マツリカの試練で　クチナシから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 986     | 19               | 12          | 在茉莉的考验中，
-能从默丹那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 986     | 20               | 1           | マツリカのしれんで　クチナシから
-もらえる　はなびらの　おしばな。
-７しゅるい　あつめるのが　もくてき。                                                                                                               |
-| 986     | 20               | 3           | 말리화의 시련에서 나누에게
-받을 수 있는 꽃잎의 압화.
-7종류 모으는 것이 목적.                                                                                                                      |
-| 986     | 20               | 4           | 在茉莉的考驗中，
-從默丹那裡得到的壓花花瓣。
-目標是集滿７種花瓣。                                                                                                                                  |
-| 986     | 20               | 5           | Un pétale pressé que Danh vous a remis lors
-de l’Épreuve d’Oléa. Il y en a sept à collectionner.                                                                   |
-| 986     | 20               | 6           | Ein gepresstes Blütenblatt, das man im Rahmen von
-Matsurikas Prüfung von Yasu erhält. Ziel ist es,
-sieben verschiedene Blütenblätter zu sammeln.                   |
-| 986     | 20               | 7           | Pétalo prensado recibido de manos de Denio durante la
-prueba de Rika. El objetivo es reunir siete distintos.                                                       |
-| 986     | 20               | 8           | Petalo di fiore pressato ottenuto da Augusto
-durante la prova di Rika. L’obiettivo è ricevere
-sette petali diversi.                                                |
-| 986     | 20               | 9           | A pressed flower petal you receive from Nanu
-during Mina’s trial. The goal is to collect seven
-different kinds of petals.                                          |
-| 986     | 20               | 11          | マツリカの試練で　クチナシから
-もらえる　はなびらの　押し花。
-７種類　集めるのが　目的。                                                                                                                      |
-| 986     | 20               | 12          | 在茉莉的考验中，
-能从默丹那里得到的干花花瓣。
-目标是集齐７种。                                                                                                                                   |
-| 987     | 18               | 1           | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-せいちょうを　みとめられた　あかし。                                                                                                               |
-| 987     | 18               | 3           | 캡틴들에게 받은
-꽃잎을 하나로 만든 것.
-성장을 인정받은 증표.                                                                                                                                |
-| 987     | 18               | 4           | 以從隊長們那裡得到的花瓣
-構成的一朵花。這朵花
-證明了他們認同你的成長。                                                                                                                               |
-| 987     | 18               | 5           | Une fleur formée à partir des pétales que vous ont
-remis les sept Capitaines. C’est le symbole de
-ce que vous avez accompli jusqu’ici.                             |
-| 987     | 18               | 6           | Diese Blüte besteht aus den Blütenblättern, die du
-von den Captains erhalten hast. Sie ist ein Symbol
-der Anerkennung deiner Stärke.                               |
-| 987     | 18               | 7           | Flor resultante de la unión de los siete pétalos
-entregados por los Capitanes, símbolo de la
-experiencia y madurez acumuladas en tu aventura.                      |
-| 987     | 18               | 8           | Fiore composto dai petali ottenuti dai Capitani.
-È la prova che i tuoi progressi sono stati
-riconosciuti.                                                          |
-| 987     | 18               | 9           | A flower made of the petals you received from
-captains. It’s proof that your growth has been
-recognized by them.                                                   |
-| 987     | 18               | 11          | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-成長を　認められた　証。                                                                                                                     |
-| 987     | 18               | 12          | 将得自队长们那里的花瓣
-化零为整后形成的东西。
-是成长得到认可的证明。                                                                                                                                |
-| 987     | 19               | 1           | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-せいちょうを　みとめられた　あかし。                                                                                                               |
-| 987     | 19               | 3           | 캡틴들에게 받은
-꽃잎을 하나로 만든 것.
-성장을 인정받은 증표.                                                                                                                                |
-| 987     | 19               | 4           | 以從隊長們那裡得到的花瓣
-構成的一朵花。這朵花
-證明了他們認同你的成長。                                                                                                                               |
-| 987     | 19               | 5           | Une fleur formée à partir des pétales que vous ont
-remis les sept Capitaines. C’est le symbole de
-ce que vous avez accompli jusqu’ici.                             |
-| 987     | 19               | 6           | Diese Blüte besteht aus den Blütenblättern, die du
-von den Captains erhalten hast. Sie ist ein Symbol
-der Anerkennung deiner Stärke.                               |
-| 987     | 19               | 7           | Flor resultante de la unión de los siete pétalos
-entregados por los Capitanes, símbolo de la
-experiencia y madurez acumuladas en tu aventura.                      |
-| 987     | 19               | 8           | Fiore composto dai petali ottenuti dai Capitani.
-È la prova che i tuoi progressi sono stati
-riconosciuti.                                                          |
-| 987     | 19               | 9           | A flower made of the petals you received from
-captains. It’s proof that your growth has been
-recognized by them.                                                   |
-| 987     | 19               | 11          | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-成長を　認められた　証。                                                                                                                     |
-| 987     | 19               | 12          | 将得自队长们那里的花瓣
-化零为整后形成的东西。
-是成长得到认可的证明。                                                                                                                                |
-| 987     | 20               | 1           | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-せいちょうを　みとめられた　あかし。                                                                                                               |
-| 987     | 20               | 3           | 캡틴들에게 받은
-꽃잎을 하나로 만든 것.
-성장을 인정받은 증표.                                                                                                                                |
-| 987     | 20               | 4           | 以從隊長們那裡得到的花瓣
-構成的一朵花。這朵花
-證明了他們認同你的成長。                                                                                                                               |
-| 987     | 20               | 5           | Une fleur formée à partir des pétales que vous ont
-remis les sept Capitaines. C’est le symbole de
-ce que vous avez accompli jusqu’ici.                             |
-| 987     | 20               | 6           | Diese Blüte besteht aus den Blütenblättern, die du von
-den Captains erhalten hast. Sie ist ein Symbol der
-Anerkennung deiner Stärke.                               |
-| 987     | 20               | 7           | Flor resultante de la unión de los siete pétalos
-entregados por los Capitanes, símbolo de la experiencia
-y madurez acumuladas en tu aventura.                      |
-| 987     | 20               | 8           | Fiore composto dai petali ottenuti dai Capitani.
-È la prova che i tuoi progressi sono stati
-riconosciuti.                                                          |
-| 987     | 20               | 9           | A flower made of the petals you received from
-captains. It’s proof that your growth has been
-recognized by them.                                                   |
-| 987     | 20               | 11          | キャプテンたちから　もらった
-はなびらを　ひとつに　まとめたもの。
-成長を　認められた　証。                                                                                                                     |
-| 987     | 20               | 12          | 将得自队长们那里的花瓣
-化零为整后形成的东西。
-是成长得到认可的证明。                                                                                                                                |
-| 988     | 18               | 1           | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 18               | 3           | 체육관오브관동에서 받을 수 있는
-노벨티 배지. 어딘가의
-체육관 배지를 흉내 낸듯하다.                                                                                                                    |
-| 988     | 18               | 4           | 可在關都之道館獲得的徽章贈品。
-聽說這好像是在模仿
-某個地方的道館徽章。                                                                                                                               |
-| 988     | 18               | 5           | Un badge promotionnel que vous avez obtenu
-à l’Arène de Kanto. Il paraît que c’est une imitation
-du Badge d’une certaine Arène.                                    |
-| 988     | 18               | 6           | Ein Werbegeschenk, das man in der Kanto-Arena
-erhält. Es scheint sich dabei um die Nachbildung
-eines Ordens einer bestimmten Arena zu handeln.                     |
-| 988     | 18               | 7           | Medalla conseguida en el Gimnasio de Kanto. Su
-aspecto guarda un sospechoso parecido con la
-medalla de otro Gimnasio.                                              |
-| 988     | 18               | 8           | Medaglia souvenir ottenuta alla Palestra di Kanto.
-Sembra ispirata alla Medaglia di un’altra Palestra.                                                             |
-| 988     | 18               | 9           | A novelty badge that you can receive at the
-Kantonian Gym. Rumor has it that it imitates
-the Badge of a Gym somewhere.                                             |
-| 988     | 18               | 11          | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 18               | 12          | 能从关都之道馆那里得到的徽章赠品。
-好像仿照了某个地区的道馆徽章。                                                                                                                                  |
-| 988     | 19               | 1           | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 19               | 3           | 체육관오브관동에서 받을 수 있는
-노벨티 배지. 어딘가의
-체육관 배지를 흉내 낸듯하다.                                                                                                                    |
-| 988     | 19               | 4           | 可在關都之道館獲得的徽章贈品。
-聽說這好像是在模仿
-某個地方的道館徽章。                                                                                                                               |
-| 988     | 19               | 5           | Un badge promotionnel que vous avez obtenu
-à l’Arène de Kanto. Il paraît que c’est une imitation
-du Badge d’une certaine Arène.                                    |
-| 988     | 19               | 6           | Ein Werbegeschenk, das man in der Kanto-Arena
-erhält. Es scheint sich dabei um die Nachbildung
-eines Ordens einer bestimmten Arena zu handeln.                     |
-| 988     | 19               | 7           | Medalla conseguida en el Gimnasio de Kanto. Su
-aspecto guarda un sospechoso parecido con la
-medalla de otro gimnasio.                                              |
-| 988     | 19               | 8           | Medaglia souvenir ottenuta alla Palestra di Kanto.
-Sembra ispirata alla Medaglia di un’altra Palestra.                                                             |
-| 988     | 19               | 9           | A novelty badge that you can receive at the
-Kantonian Gym. Rumor has it that it imitates
-the Badge of a Gym somewhere.                                             |
-| 988     | 19               | 11          | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 19               | 12          | 能从关都之道馆那里得到的徽章赠品。
-好像仿照了某个地区的道馆徽章。                                                                                                                                  |
-| 988     | 20               | 1           | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 20               | 3           | 체육관오브관동에서 받을 수 있는
-노벨티 배지. 어딘가의
-체육관 배지를 흉내 낸듯하다.                                                                                                                    |
-| 988     | 20               | 4           | 可在關都之道館獲得的徽章贈品。
-聽說這好像是在模仿
-某個地方的道館徽章。                                                                                                                               |
-| 988     | 20               | 5           | Un badge promotionnel obtenu à l’Arène de Kanto.
-Il paraît que c’est une imitation du Badge
-d’une certaine Arène.                                                  |
-| 988     | 20               | 6           | Ein Werbegeschenk, das man in der Kanto-Arena erhält.
-Es scheint sich dabei um die Nachbildung eines Ordens
-einer bestimmten Arena zu handeln.                     |
-| 988     | 20               | 7           | Medalla conseguida en el Gimnasio de Kanto. Su
-aspecto guarda un sospechoso parecido con la medalla
-de otro gimnasio.                                              |
-| 988     | 20               | 8           | Medaglia souvenir ottenuta alla Palestra di Kanto.
-Sembra ispirata alla Medaglia di un’altra Palestra.                                                             |
-| 988     | 20               | 9           | A novelty badge that you can receive at the
-Kantonian Gym. Rumor has it that it imitates
-the Badge of a Gym somewhere.                                             |
-| 988     | 20               | 11          | ジムオブカントーで　もらえる
-ノベルティの　バッジ。　どこかの
-ジムバッジを　まねているらしい。                                                                                                                   |
-| 988     | 20               | 12          | 能从关都之道馆那里得到的徽章赠品。
-好像仿照了某个地区的道馆徽章。                                                                                                                                  |
-| 989     | 18               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ソルガレオを
-がったい　させるための　マシン。                                                                                                                       |
-| 989     | 18               | 3           | 빛을 필요로 하는
-네크로즈마와 솔가레오를
-합체시키기 위한 머신.                                                                                                                                |
-| 989     | 18               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐合體的機器。                                                                                                                                          |
-| 989     | 18               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Solgaleo.                                                                               |
-| 989     | 18               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Solgaleo fusioniert werden.                                                                        |
-| 989     | 18               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Solgaleo.                                                                                             |
-| 989     | 18               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Solgaleo quando necessita di luce.                                                                             |
-| 989     | 18               | 9           | A machine to fuse Necrozma, which needs light,
-and Solgaleo.                                                                                                       |
-| 989     | 18               | 11          | 光を　必要と　する
-ネクロズマと　ソルガレオを
-合体　させるための　マシン。                                                                                                                             |
-| 989     | 18               | 12          | 用来让需求光的奈克洛兹玛和
-索尔迦雷欧合体的机器。                                                                                                                                          |
-| 989     | 19               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ソルガレオを
-がったい　させるための　マシン。                                                                                                                       |
-| 989     | 19               | 3           | 빛을 필요로 하는
-네크로즈마와 솔가레오를
-합체시키기 위한 머신.                                                                                                                                |
-| 989     | 19               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐合體的機器。                                                                                                                                          |
-| 989     | 19               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Solgaleo.                                                                               |
-| 989     | 19               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Solgaleo fusioniert werden.                                                                        |
-| 989     | 19               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Solgaleo.                                                                                             |
-| 989     | 19               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Solgaleo quando necessita di luce.                                                                             |
-| 989     | 19               | 9           | A machine to fuse Necrozma, which needs light,
-and Solgaleo.                                                                                                       |
-| 989     | 19               | 11          | 光を　必要と　する
-ネクロズマと　ソルガレオを
-合体　させるための　マシン。                                                                                                                             |
-| 989     | 19               | 12          | 用来让需求光的奈克洛兹玛和
-索尔迦雷欧合体的机器。                                                                                                                                          |
-| 989     | 20               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ソルガレオを
-がったい　させるための　マシン。                                                                                                                       |
-| 989     | 20               | 3           | 빛을 필요로 하는
-네크로즈마와 솔가레오를
-합체시키기 위한 머신.                                                                                                                                |
-| 989     | 20               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐合體的機器。                                                                                                                                          |
-| 989     | 20               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Solgaleo.                                                                               |
-| 989     | 20               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Solgaleo fusioniert werden.                                                                        |
-| 989     | 20               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Solgaleo.                                                                                             |
-| 989     | 20               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Solgaleo quando necessita di luce.                                                                             |
-| 989     | 20               | 9           | A machine to fuse Necrozma, which needs light,
-and Solgaleo.                                                                                                       |
-| 989     | 20               | 11          | 光を　必要と　する
-ネクロズマと　ソルガレオを
-合体　させるための　マシン。                                                                                                                             |
-| 989     | 20               | 12          | 用来让需求光的奈克洛兹玛和
-索尔迦雷欧合体的机器。                                                                                                                                          |
-| 990     | 18               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ルナアーラを
-がったい　させるための　マシン。                                                                                                                       |
-| 990     | 18               | 3           | 빛을 필요로 하는
-네크로즈마와 루나아라를
-합체시키기 위한 머신.                                                                                                                                |
-| 990     | 18               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉合體的機器。                                                                                                                                           |
-| 990     | 18               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Lunala.                                                                                 |
-| 990     | 18               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Lunala fusioniert werden.                                                                          |
-| 990     | 18               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Lunala.                                                                                               |
-| 990     | 18               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Lunala quando necessita di luce.                                                                               |
-| 990     | 18               | 9           | A machine to fuse Necrozma, which needs light,
-and Lunala.                                                                                                         |
-| 990     | 18               | 11          | 光を　必要と　する
-ネクロズマと　ルナアーラを
-合体　させるための　マシン。                                                                                                                             |
-| 990     | 18               | 12          | 用来让需求光的奈克洛兹玛和
-露奈雅拉合体的机器。                                                                                                                                           |
-| 990     | 19               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ルナアーラを
-がったい　させるための　マシン。                                                                                                                       |
-| 990     | 19               | 3           | 빛을 필요로 하는
-네크로즈마와 루나아라를
-합체시키기 위한 머신.                                                                                                                                |
-| 990     | 19               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉合體的機器。                                                                                                                                           |
-| 990     | 19               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Lunala.                                                                                 |
-| 990     | 19               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Lunala fusioniert werden.                                                                          |
-| 990     | 19               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Lunala.                                                                                               |
-| 990     | 19               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Lunala quando necessita di luce.                                                                               |
-| 990     | 19               | 9           | A machine to fuse Necrozma, which needs light,
-and Lunala.                                                                                                         |
-| 990     | 19               | 11          | 光を　必要と　する
-ネクロズマと　ルナアーラを
-合体　させるための　マシン。                                                                                                                             |
-| 990     | 19               | 12          | 用来让需求光的奈克洛兹玛和
-露奈雅拉合体的机器。                                                                                                                                           |
-| 990     | 20               | 1           | ひかりを　ひつようと　する
-ネクロズマと　ルナアーラを
-がったい　させるための　マシン。                                                                                                                       |
-| 990     | 20               | 3           | 빛을 필요로 하는
-네크로즈마와 루나아라를
-합체시키기 위한 머신.                                                                                                                                |
-| 990     | 20               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉合體的機器。                                                                                                                                           |
-| 990     | 20               | 5           | Un appareil permettant à un Necrozma assoiffé
-de lumière de fusionner avec Lunala.                                                                                 |
-| 990     | 20               | 6           | Necrozma, das Licht benötigt, kann mithilfe dieser
-Maschine mit Lunala fusioniert werden.                                                                          |
-| 990     | 20               | 7           | Artefacto que permite fusionar a Necrozma, ávido
-de luz, con Lunala.                                                                                               |
-| 990     | 20               | 8           | Dispositivo che permette a Necrozma di fondersi
-con Lunala quando necessita di luce.                                                                               |
-| 990     | 20               | 9           | A machine to fuse Necrozma, which needs light,
-and Lunala.                                                                                                         |
-| 990     | 20               | 11          | 光を　必要と　する
-ネクロズマと　ルナアーラを
-合体　させるための　マシン。                                                                                                                             |
-| 990     | 20               | 12          | 用来让需求光的奈克洛兹玛和
-露奈雅拉合体的机器。                                                                                                                                           |
-| 991     | 18               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ソルガレオを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 991     | 18               | 3           | 빛을 필요로 했던
-네크로즈마와 솔가레오를
-분리시키기 위한 머신.                                                                                                                                |
-| 991     | 18               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐分離的機器。                                                                                                                                          |
-| 991     | 18               | 5           | Un appareil permettant d’annuler la fusion d’un
-Necrozma assoiffé de lumière avec Solgaleo.                                                                        |
-| 991     | 18               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Solgaleo getrennt werden.                                                                  |
-| 991     | 18               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Solgaleo.                                                                               |
-| 991     | 18               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Solgaleo quando non necessita più di luce.                                                                     |
-| 991     | 18               | 9           | A machine to separate Necrozma, which needed
-light, from Solgaleo.                                                                                                 |
-| 991     | 18               | 11          | 光を　必要と　していた
-ネクロズマと　ソルガレオを
-分離　させるための　マシン。                                                                                                                           |
-| 991     | 18               | 12          | 用来让曾需求过光的奈克洛兹玛和
-索尔迦雷欧分离的机器。                                                                                                                                        |
-| 991     | 19               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ソルガレオを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 991     | 19               | 3           | 빛을 필요로 했던
-네크로즈마와 솔가레오를
-분리시키기 위한 머신.                                                                                                                                |
-| 991     | 19               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐分離的機器。                                                                                                                                          |
-| 991     | 19               | 5           | Un appareil permettant d’annuler la fusion d’un
-Necrozma assoiffé de lumière avec Solgaleo.                                                                        |
-| 991     | 19               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Solgaleo getrennt werden.                                                                  |
-| 991     | 19               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Solgaleo.                                                                               |
-| 991     | 19               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Solgaleo quando non necessita più di luce.                                                                     |
-| 991     | 19               | 9           | A machine to separate Necrozma, which needed
-light, from Solgaleo.                                                                                                 |
-| 991     | 19               | 11          | 光を　必要と　していた
-ネクロズマと　ソルガレオを
-分離　させるための　マシン。                                                                                                                           |
-| 991     | 19               | 12          | 用来让曾需求过光的奈克洛兹玛和
-索尔迦雷欧分离的机器。                                                                                                                                        |
-| 991     | 20               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ソルガレオを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 991     | 20               | 3           | 빛을 필요로 했던
-네크로즈마와 솔가레오를
-분리시키기 위한 머신.                                                                                                                                |
-| 991     | 20               | 4           | 用來讓需要光的奈克洛茲瑪和
-索爾迦雷歐分離的機器。                                                                                                                                          |
-| 991     | 20               | 5           | Un appareil permettant d’annuler la fusion
-d’un Necrozma assoiffé de lumière avec Solgaleo.                                                                        |
-| 991     | 20               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Solgaleo getrennt werden.                                                                  |
-| 991     | 20               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Solgaleo.                                                                               |
-| 991     | 20               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Solgaleo quando non necessita più di luce.                                                                     |
-| 991     | 20               | 9           | A machine to separate Necrozma, which needed
-light, from Solgaleo.                                                                                                 |
-| 991     | 20               | 11          | 光を　必要と　していた
-ネクロズマと　ソルガレオを
-分離　させるための　マシン。                                                                                                                           |
-| 991     | 20               | 12          | 用来让曾需求过光的奈克洛兹玛和
-索尔迦雷欧分离的机器。                                                                                                                                        |
-| 992     | 18               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ルナアーラを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 992     | 18               | 3           | 빛을 필요로 했던
-네크로즈마와 루나아라를
-분리시키기 위한 머신.                                                                                                                                |
-| 992     | 18               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉分離的機器。                                                                                                                                           |
-| 992     | 18               | 5           | Un appareil permettant d’annuler la fusion d’un
-Necrozma assoiffé de lumière avec Lunala.                                                                          |
-| 992     | 18               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Lunala getrennt werden.                                                                    |
-| 992     | 18               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Lunala.                                                                                 |
-| 992     | 18               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Lunala quando non necessita più di luce.                                                                       |
-| 992     | 18               | 9           | A machine to separate Necrozma, which needed
-light, from Lunala.                                                                                                   |
-| 992     | 18               | 11          | 光を　必要と　していた
-ネクロズマと　ルナアーラを
-分離　させるための　マシン。                                                                                                                           |
-| 992     | 18               | 12          | 用来让曾需求过光的奈克洛兹玛和
-露奈雅拉分离的机器。                                                                                                                                         |
-| 992     | 19               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ルナアーラを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 992     | 19               | 3           | 빛을 필요로 했던
-네크로즈마와 루나아라를
-분리시키기 위한 머신.                                                                                                                                |
-| 992     | 19               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉分離的機器。                                                                                                                                           |
-| 992     | 19               | 5           | Un appareil permettant d’annuler la fusion d’un
-Necrozma assoiffé de lumière avec Lunala.                                                                          |
-| 992     | 19               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Lunala getrennt werden.                                                                    |
-| 992     | 19               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Lunala.                                                                                 |
-| 992     | 19               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Lunala quando non necessita più di luce.                                                                       |
-| 992     | 19               | 9           | A machine to separate Necrozma, which needed
-light, from Lunala.                                                                                                   |
-| 992     | 19               | 11          | 光を　必要と　していた
-ネクロズマと　ルナアーラを
-分離　させるための　マシン。                                                                                                                           |
-| 992     | 19               | 12          | 用来让曾需求过光的奈克洛兹玛和
-露奈雅拉分离的机器。                                                                                                                                         |
-| 992     | 20               | 1           | ひかりを　ひつようと　していた
-ネクロズマと　ルナアーラを
-ぶんり　させるための　マシン。                                                                                                                      |
-| 992     | 20               | 3           | 빛을 필요로 했던
-네크로즈마와 루나아라를
-분리시키기 위한 머신.                                                                                                                                |
-| 992     | 20               | 4           | 用來讓需要光的奈克洛茲瑪和
-露奈雅拉分離的機器。                                                                                                                                           |
-| 992     | 20               | 5           | Un appareil permettant d’annuler la fusion
-d’un Necrozma assoiffé de lumière avec Lunala.                                                                          |
-| 992     | 20               | 6           | Necrozma, das Licht benötigte, kann mithilfe dieser
-Maschine wieder von Lunala getrennt werden.                                                                    |
-| 992     | 20               | 7           | Artefacto que permite separar a Necrozma, ávido
-de luz, tras su fusión con Lunala.                                                                                 |
-| 992     | 20               | 8           | Dispositivo che permette a Necrozma di separarsi
-da Lunala quando non necessita più di luce.                                                                       |
-| 992     | 20               | 9           | A machine to separate Necrozma, which needed
-light, from Lunala.                                                                                                   |
-| 992     | 20               | 11          | 光を　必要と　していた
-ネクロズマと　ルナアーラを
-分離　させるための　マシン。                                                                                                                           |
-| 992     | 20               | 12          | 用来让曾需求过光的奈克洛兹玛和
-露奈雅拉分离的机器。                                                                                                                                         |
-| 993     | 18               | 1           | イリマから　あずかった　ノーマルＺ。
-しげみのどうくつ　おくにある
-だいざに　おくよう　たのまれた。                                                                                                                 |
-| 993     | 18               | 3           | 일리마에게 받은 노말Z.
-우거진 동굴 안쪽에 있는
-대좌에 두도록 부탁받았다.                                                                                                                         |
-| 993     | 18               | 4           | 伊利馬交給你的一般Ｚ。
-有人拜託你把它放到
-蔥鬱洞窟深處的台座上。                                                                                                                                  |
-| 993     | 18               | 5           | Une Normazélite qu’Althéo vous a confiée. Il vous
-a demandé de la déposer sur le piédestal qui
-se trouve au fond de la Grotte Verdoyante.                          |
-| 993     | 18               | 6           | Das Normium Z, das Elima dir anvertraut hat.
-Er hat dich gebeten, es in den Sockel in der
-Vegetationshöhle zu legen.                                               |
-| 993     | 18               | 7           | Normastal Z que te entrega Liam para que lo
-deposites sobre el altar situado al fondo de la
-Cueva Sotobosque.                                                      |
-| 993     | 18               | 8           | Normium Z ricevuto da Liam. Devi porlo
-sul piedistallo dentro la Grotta Sottobosco.                                                                                |
-| 993     | 18               | 9           | The Normalium Z you were entrusted with by Ilima.
-You were asked to place it on the pedestal at
-the back of Verdant Cavern.                                        |
-| 993     | 18               | 11          | イリマから　預かった　ノーマルＺ。
-茂みの洞窟　奥にある
-台座に　置くよう　頼まれた。                                                                                                                        |
-| 993     | 18               | 12          | 伊利马交给你保管的一般Ｚ。
-受人嘱托要把它放到
-葱郁洞窟深处的台座上。                                                                                                                                |
-| 993     | 19               | 1           | イリマから　あずかった　ノーマルＺ。
-しげみのどうくつ　おくにある
-だいざに　おくよう　たのまれた。                                                                                                                 |
-| 993     | 19               | 3           | 일리마에게 받은 노말Z.
-우거진 동굴 안쪽에 있는
-대좌에 두도록 부탁받았다.                                                                                                                         |
-| 993     | 19               | 4           | 伊利馬交給你的一般Ｚ。
-有人拜託你把它放到
-蔥鬱洞窟深處的台座上。                                                                                                                                  |
-| 993     | 19               | 5           | Une Normazélite qu’Althéo vous a confiée. Il vous
-a demandé de la déposer sur le piédestal qui se trouve
-au fond de la Grotte Verdoyante.                          |
-| 993     | 19               | 6           | Das Normium Z, das Elima dir anvertraut hat.
-Er hat dich gebeten, es in den Sockel in der
-Vegetationshöhle zu legen.                                               |
-| 993     | 19               | 7           | Normastal Z que te entrega Liam para que lo deposites
-sobre el altar situado al fondo de la Cueva Sotobosque.                                                      |
-| 993     | 19               | 8           | Normium Z ricevuto da Liam. Devi porlo
-sul piedistallo dentro la Grotta Sottobosco.                                                                                |
-| 993     | 19               | 9           | The Normalium Z you were entrusted with by Ilima.
-You were asked to place it on the pedestal at
-the back of Verdant Cavern.                                        |
-| 993     | 19               | 11          | イリマから　預かった　ノーマルＺ。
-茂みの洞窟　奥にある
-台座に　置くよう　頼まれた。                                                                                                                        |
-| 993     | 19               | 12          | 伊利马交给你保管的一般Ｚ。
-受人嘱托要把它放到
-葱郁洞窟深处的台座上。                                                                                                                                |
-| 993     | 20               | 1           | イリマから　あずかった　ノーマルＺ。
-しげみのどうくつ　おくにある
-だいざに　おくよう　たのまれた。                                                                                                                 |
-| 993     | 20               | 3           | 일리마에게 받은 노말Z.
-우거진 동굴 안쪽에 있는
-대좌에 두도록 부탁받았다.                                                                                                                         |
-| 993     | 20               | 4           | 伊利馬交給你的一般Ｚ。
-有人拜託你把它放到
-蔥鬱洞窟深處的台座上。                                                                                                                                  |
-| 993     | 20               | 5           | Une Normazélite qu’Althéo vous a confiée.
-Il vous a demandé de la déposer sur le piédestal
-qui se trouve au fond de la Grotte Verdoyante.                          |
-| 993     | 20               | 6           | Das Normium Z, das Elima dir anvertraut hat. Er hat
-dich gebeten, es in den Sockel in der Vegetationshöhle
-zu legen.                                               |
-| 993     | 20               | 7           | Normastal Z que te entrega Liam para que lo deposites
-sobre el altar situado al fondo de la Cueva Sotobosque.                                                      |
-| 993     | 20               | 8           | Normium Z ricevuto da Liam. Devi porlo
-sul piedistallo dentro la Grotta Sottobosco.                                                                                |
-| 993     | 20               | 9           | The Normalium Z you were entrusted with by Ilima.
-You were asked to place it on the pedestal at
-the back of Verdant Cavern.                                        |
-| 993     | 20               | 11          | イリマから　預かった　ノーマルＺ。
-茂みの洞窟　奥にある
-台座に　置くよう　頼まれた。                                                                                                                        |
-| 993     | 20               | 12          | 伊利马交给你保管的一般Ｚ。
-受人嘱托要把它放到
-葱郁洞窟深处的台座上。                                                                                                                                |
-| 994     | 18               | 1           | トレーナーを　うしなった　ポケモンが
-はいっている　ボール。　トレーナーは
-ウラウラじま　しゅっしん　らしい。                                                                                                            |
-| 994     | 18               | 3           | 트레이너를 잃은 포켓몬이
-들어 있는 볼. 트레이너는
-울라울라섬 출신인 듯하다.                                                                                                                        |
-| 994     | 18               | 4           | 這個精靈球裡面裝了
-失去訓練家的寶可夢。
-訓練家似乎來自烏拉烏拉島。                                                                                                                                 |
-| 994     | 18               | 5           | Une Poké Ball contenant un Pokémon dont le
-Dresseur a disparu. Il semblerait que ce Dresseur
-soit originaire d’Ula-Ula.                                            |
-| 994     | 18               | 6           | Der Pokéball enthält ein Pokémon, das seinen
-Trainer verloren hat. Dieser stammt wohl aus
-Ula-Ula.                                                                 |
-| 994     | 18               | 7           | Poké Ball que alberga un Pokémon que perdió a su
-Entrenador, al parecer, natural de Ula-Ula.                                                                       |
-| 994     | 18               | 8           | Poké Ball contenente un Pokémon rimasto orfano
-dell’Allenatore. Sembra che l’Allenatore fosse
-originario di Ula Ula.                                               |
-| 994     | 18               | 9           | A Poké Ball with a Pokémon that lost its Trainer
-inside. It seems to be from Ula’ula Island.                                                                       |
-| 994     | 18               | 11          | トレーナーを　失った　ポケモンが
-入っている　ボール。　トレーナーは
-ウラウラ島　出身　らしい。                                                                                                                   |
-| 994     | 18               | 12          | 该精灵球里面装的是没有了
-训练家的宝可梦。那位训练家
-好像是出生自乌拉乌拉岛。                                                                                                                            |
-| 994     | 19               | 1           | トレーナーを　うしなった　ポケモンが
-はいっている　ボール。　トレーナーは
-ウラウラじま　しゅっしん　らしい。                                                                                                            |
-| 994     | 19               | 3           | 트레이너를 잃은 포켓몬이
-들어 있는 볼. 트레이너는
-울라울라섬 출신인 듯하다.                                                                                                                        |
-| 994     | 19               | 4           | 這個精靈球裡面裝了
-失去訓練家的寶可夢。
-訓練家似乎來自烏拉烏拉島。                                                                                                                                 |
-| 994     | 19               | 5           | Une Poké Ball contenant un Pokémon dont le Dresseur
-a disparu. Il semblerait que ce Dresseur soit originaire
-d’Ula-Ula.                                            |
-| 994     | 19               | 6           | Der Pokéball enthält ein Pokémon, das seinen
-Trainer verloren hat. Dieser stammt wohl aus
-Ula-Ula.                                                                 |
-| 994     | 19               | 7           | Poké Ball que alberga un Pokémon que perdió a su
-Entrenador, al parecer, natural de Ula-Ula.                                                                       |
-| 994     | 19               | 8           | Poké Ball contenente un Pokémon rimasto orfano
-dell’Allenatore. Sembra che l’Allenatore fosse
-originario di Ula Ula.                                               |
-| 994     | 19               | 9           | A Poké Ball with a Pokémon that lost its Trainer
-inside. It seems to be from Ula’ula Island.                                                                       |
-| 994     | 19               | 11          | トレーナーを　失った　ポケモンが
-入っている　ボール。　トレーナーは
-ウラウラ島　出身　らしい。                                                                                                                   |
-| 994     | 19               | 12          | 该精灵球里面装的是没有了
-训练家的宝可梦。那位训练家
-好像是出生自乌拉乌拉岛。                                                                                                                            |
-| 994     | 20               | 1           | トレーナーを　うしなった　ポケモンが
-はいっている　ボール。　トレーナーは
-ウラウラじま　しゅっしん　らしい。                                                                                                            |
-| 994     | 20               | 3           | 트레이너를 잃은 포켓몬이
-들어 있는 볼. 트레이너는
-울라울라섬 출신인 듯하다.                                                                                                                        |
-| 994     | 20               | 4           | 這個精靈球裡面裝了
-失去訓練家的寶可夢。
-訓練家似乎來自烏拉烏拉島。                                                                                                                                 |
-| 994     | 20               | 5           | Une Poké Ball contenant un Pokémon dont le Dresseur
-a disparu. Il semblerait que ce Dresseur soit originaire
-d’Ula-Ula.                                            |
-| 994     | 20               | 6           | Der Pokéball enthält ein Pokémon, das seinen Trainer
-verloren hat. Dieser stammt wohl aus Ula-Ula.                                                                 |
-| 994     | 20               | 7           | Poké Ball que alberga un Pokémon que perdió a su
-Entrenador, al parecer, natural de Ula-Ula.                                                                       |
-| 994     | 20               | 8           | Poké Ball contenente un Pokémon rimasto orfano
-dell’Allenatore. Sembra che l’Allenatore fosse
-originario di Ula Ula.                                               |
-| 994     | 20               | 9           | A Poké Ball with a Pokémon that lost its Trainer
-inside. It seems to be from Ula’ula Island.                                                                       |
-| 994     | 20               | 11          | トレーナーを　失った　ポケモンが
-入っている　ボール。　トレーナーは
-ウラウラ島　出身　らしい。                                                                                                                   |
-| 994     | 20               | 12          | 该精灵球里面装的是没有了
-训练家的宝可梦。那位训练家
-好像是出生自乌拉乌拉岛。                                                                                                                            |
-| 995     | 18               | 1           | ロトムパワーの　ひとつ。
-つかうと　タマゴが
-とても　かえりやすくなる。                                                                                                                               |
-| 995     | 18               | 3           | 로토무파워 중 하나.
-사용하면 알이
-매우 부화하기 쉬워진다.                                                                                                                                  |
-| 995     | 18               | 4           | 洛托姆之力的一種。
-使用後，蛋就會變得
-非常容易孵化。                                                                                                                                        |
-| 995     | 18               | 5           | Une des Motism’Auras. Elle permet de faire éclore
-les Œufs beaucoup plus rapidement.                                                                               |
-| 995     | 18               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon
-schneller aus Eiern schlüpfen.                                                                                             |
-| 995     | 18               | 7           | Poder Rotom que hace que los Huevos eclosionen
-mucho antes.                                                                                                        |
-| 995     | 18               | 8           | Potere Rotom che aumenta considerevolmente
-la rapidità con cui si schiudono le Uova.                                                                               |
-| 995     | 18               | 9           | One of the Rotom Powers.
-It helps Eggs hatch faster.                                                                                                               |
-| 995     | 18               | 11          | ロトムパワーの　ひとつ。
-使うと　タマゴが
-とても　かえりやすくなる。                                                                                                                                |
-| 995     | 18               | 12          | 洛托姆之力的一种。
-使用后，蛋就会变得
-非常容易孵化。                                                                                                                                        |
-| 995     | 19               | 1           | ロトムパワーの　ひとつ。
-つかうと　タマゴが
-とても　かえりやすくなる。                                                                                                                               |
-| 995     | 19               | 3           | 로토무파워 중 하나.
-사용하면 알이
-매우 부화하기 쉬워진다.                                                                                                                                  |
-| 995     | 19               | 4           | 洛托姆之力的一種。
-使用後，蛋就會變得
-非常容易孵化。                                                                                                                                        |
-| 995     | 19               | 5           | Une des Motism’Auras. Elle permet de faire éclore
-les Œufs beaucoup plus rapidement.                                                                               |
-| 995     | 19               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon
-schneller aus Eiern schlüpfen.                                                                                             |
-| 995     | 19               | 7           | Poder Rotom que hace que los Huevos eclosionen
-mucho antes.                                                                                                        |
-| 995     | 19               | 8           | Potere Rotom che aumenta considerevolmente
-la rapidità con cui si schiudono le Uova.                                                                               |
-| 995     | 19               | 9           | One of the Rotom Powers.
-It helps Eggs hatch faster.                                                                                                               |
-| 995     | 19               | 11          | ロトムパワーの　ひとつ。
-使うと　タマゴが
-とても　かえりやすくなる。                                                                                                                                |
-| 995     | 19               | 12          | 洛托姆之力的一种。
-使用后，蛋就会变得
-非常容易孵化。                                                                                                                                        |
-| 995     | 20               | 1           | ロトムパワーの　ひとつ。
-つかうと　タマゴが
-とても　かえりやすくなる。                                                                                                                               |
-| 995     | 20               | 3           | 로토무파워 중 하나.
-사용하면 알이
-매우 부화하기 쉬워진다.                                                                                                                                  |
-| 995     | 20               | 4           | 洛托姆之力的一種。
-使用後，蛋就會變得
-非常容易孵化。                                                                                                                                        |
-| 995     | 20               | 5           | Une des Motism’Auras. Elle permet de faire éclore
-les Œufs beaucoup plus rapidement.                                                                               |
-| 995     | 20               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon schneller aus
-Eiern schlüpfen.                                                                                             |
-| 995     | 20               | 7           | Poder Rotom que hace que los Huevos eclosionen
-mucho antes.                                                                                                        |
-| 995     | 20               | 8           | Potere Rotom che aumenta considerevolmente
-la rapidità con cui si schiudono le Uova.                                                                               |
-| 995     | 20               | 9           | One of the Rotom Powers.
-It helps Eggs hatch faster.                                                                                                               |
-| 995     | 20               | 11          | ロトムパワーの　ひとつ。
-使うと　タマゴが
-とても　かえりやすくなる。                                                                                                                                |
-| 995     | 20               | 12          | 洛托姆之力的一种。
-使用后，蛋就会变得
-非常容易孵化。                                                                                                                                        |
-| 996     | 18               | 1           | ロトムパワーの　ひとつ。
-つかうと　フレンドリィショップの
-しょうひんが　はんがくに　なる。                                                                                                                     |
-| 996     | 18               | 3           | 로토무파워 중 하나.
-사용하면 프렌들리숍의
-상품이 반값이 된다.                                                                                                                                |
-| 996     | 18               | 4           | 洛托姆之力的一種。
-使用後，友好商店的
-商品就會變成半價。                                                                                                                                      |
-| 996     | 18               | 5           | Une des Motism’Auras. Elle permet de réduire
-de moitié le coût des objets vendus dans
-les Boutiques Pokémon.                                                       |
-| 996     | 18               | 6           | Diese Rotom-Kraft bewirkt, dass die Preise im
-Pokémon-Supermarkt halbiert werden.                                                                                  |
-| 996     | 18               | 7           | Poder Rotom que reduce a la mitad el coste de los
-artículos en las Tiendas Pokémon.                                                                                |
-| 996     | 18               | 8           | Potere Rotom che consente di acquistare
-i prodotti del Pokémon-Market a metà prezzo.                                                                               |
-| 996     | 18               | 9           | One of the Rotom Powers.
-It reduces the prices of products at Poké Marts
-by half.                                                                                  |
-| 996     | 18               | 11          | ロトムパワーの　ひとつ。
-使うと　フレンドリィショップの
-商品が　半額に　なる。                                                                                                                           |
-| 996     | 18               | 12          | 洛托姆之力的一种。
-使用后，友好商店的
-商品就会变成半价。                                                                                                                                      |
-| 996     | 19               | 1           | ロトムパワーの　ひとつ。
-つかうと　フレンドリィショップの
-しょうひんが　はんがくに　なる。                                                                                                                     |
-| 996     | 19               | 3           | 로토무파워 중 하나.
-사용하면 프렌들리숍의
-상품이 반값이 된다.                                                                                                                                |
-| 996     | 19               | 4           | 洛托姆之力的一種。
-使用後，友好商店的
-商品就會變成半價。                                                                                                                                      |
-| 996     | 19               | 5           | Une des Motism’Auras. Elle permet de réduire de moitié
-le coût des objets vendus dans les Boutiques Pokémon.                                                       |
-| 996     | 19               | 6           | Diese Rotom-Kraft bewirkt, dass die Preise im
-Pokémon-Supermarkt halbiert werden.                                                                                  |
-| 996     | 19               | 7           | Poder Rotom que reduce a la mitad el coste de los
-artículos en las Tiendas Pokémon.                                                                                |
-| 996     | 19               | 8           | Potere Rotom che consente di acquistare
-i prodotti del Pokémon-Market a metà prezzo.                                                                               |
-| 996     | 19               | 9           | One of the Rotom Powers.
-It reduces the prices of products at Poké Marts
-by half.                                                                                  |
-| 996     | 19               | 11          | ロトムパワーの　ひとつ。
-使うと　フレンドリィショップの
-商品が　半額に　なる。                                                                                                                           |
-| 996     | 19               | 12          | 洛托姆之力的一种。
-使用后，友好商店的
-商品就会变成半价。                                                                                                                                      |
-| 996     | 20               | 1           | ロトムパワーの　ひとつ。
-つかうと　フレンドリィショップの
-しょうひんが　はんがくに　なる。                                                                                                                     |
-| 996     | 20               | 3           | 로토무파워 중 하나.
-사용하면 프렌들리숍의
-상품이 반값이 된다.                                                                                                                                |
-| 996     | 20               | 4           | 洛托姆之力的一種。
-使用後，友好商店的
-商品就會變成半價。                                                                                                                                      |
-| 996     | 20               | 5           | Une des Motism’Auras. Elle permet de réduire de moitié
-le coût des objets vendus dans les Boutiques Pokémon.                                                       |
-| 996     | 20               | 6           | Diese Rotom-Kraft bewirkt, dass die Preise im
-Pokémon-Supermarkt halbiert werden.                                                                                  |
-| 996     | 20               | 7           | Poder Rotom que reduce a la mitad el coste de los
-artículos en las Tiendas Pokémon.                                                                                |
-| 996     | 20               | 8           | Potere Rotom che consente di acquistare
-i prodotti del Pokémon-Market a metà prezzo.                                                                               |
-| 996     | 20               | 9           | One of the Rotom Powers.
-It reduces the prices of products at Poké Marts
-by half.                                                                                  |
-| 996     | 20               | 11          | ロトムパワーの　ひとつ。
-使うと　フレンドリィショップの
-商品が　半額に　なる。                                                                                                                           |
-| 996     | 20               | 12          | 洛托姆之力的一种。
-使用后，友好商店的
-商品就会变成半价。                                                                                                                                      |
-| 997     | 18               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-おこづかいが　３ばいに　なる。                                                                                                                        |
-| 997     | 18               | 3           | 로토무파워 중 하나.
-승부 후에 받는
-용돈이 3배가 된다.                                                                                                                                   |
-| 997     | 18               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-零用錢將會變成３倍。                                                                                                                                       |
-| 997     | 18               | 5           | Une des Motism’Auras. Elle permet de tripler
-les gains d’argent à la fin d’un combat.                                                                              |
-| 997     | 18               | 6           | Diese Rotom-Kraft bewirkt, dass sich das nach
-einem gewonnenen Kampf erhaltene Preisgeld
-verdreifacht.                                                             |
-| 997     | 18               | 7           | Poder Rotom que triplica las ganancias obtenidas
-en combate.                                                                                                       |
-| 997     | 18               | 8           | Potere Rotom che triplica la quantità
-di soldi ottenuti dopo ogni lotta.                                                                                           |
-| 997     | 18               | 9           | One of the Rotom Powers.
-It triples the prize money you receive after battle.                                                                                      |
-| 997     | 18               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-おこづかいが　３倍に　なる。                                                                                                                           |
-| 997     | 18               | 12          | 洛托姆之力的一种。
-对战后能得到的
-零花钱会变成３倍。                                                                                                                                        |
-| 997     | 19               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-おこづかいが　３ばいに　なる。                                                                                                                        |
-| 997     | 19               | 3           | 로토무파워 중 하나.
-승부 후에 받는
-용돈이 3배가 된다.                                                                                                                                   |
-| 997     | 19               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-零用錢將會變成３倍。                                                                                                                                       |
-| 997     | 19               | 5           | Une des Motism’Auras. Elle permet de tripler les gains
-d’argent à la fin d’un combat.                                                                              |
-| 997     | 19               | 6           | Diese Rotom-Kraft bewirkt, dass sich das nach
-einem gewonnenen Kampf erhaltene Preisgeld
-verdreifacht.                                                             |
-| 997     | 19               | 7           | Poder Rotom que triplica las ganancias obtenidas
-en combate.                                                                                                       |
-| 997     | 19               | 8           | Potere Rotom che triplica la quantità
-di soldi ottenuti dopo ogni lotta.                                                                                           |
-| 997     | 19               | 9           | One of the Rotom Powers.
-It triples the prize money you receive after battle.                                                                                      |
-| 997     | 19               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-おこづかいが　３倍に　なる。                                                                                                                           |
-| 997     | 19               | 12          | 洛托姆之力的一种。
-对战后能得到的
-零花钱会变成３倍。                                                                                                                                        |
-| 997     | 20               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-おこづかいが　３ばいに　なる。                                                                                                                        |
-| 997     | 20               | 3           | 로토무파워 중 하나.
-승부 후에 받는
-용돈이 3배가 된다.                                                                                                                                   |
-| 997     | 20               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-零用錢將會變成３倍。                                                                                                                                       |
-| 997     | 20               | 5           | Une des Motism’Auras. Elle permet de tripler
-les gains d’argent à la fin d’un combat.                                                                              |
-| 997     | 20               | 6           | Diese Rotom-Kraft bewirkt, dass sich das nach einem
-gewonnenen Kampf erhaltene Preisgeld verdreifacht.                                                             |
-| 997     | 20               | 7           | Poder Rotom que triplica las ganancias obtenidas en
-combate.                                                                                                       |
-| 997     | 20               | 8           | Potere Rotom che triplica la quantità
-di soldi ottenuti dopo ogni lotta.                                                                                           |
-| 997     | 20               | 9           | One of the Rotom Powers.
-It triples the prize money you receive after battle.                                                                                      |
-| 997     | 20               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-おこづかいが　３倍に　なる。                                                                                                                           |
-| 997     | 20               | 12          | 洛托姆之力的一种。
-对战后能得到的
-零花钱会变成３倍。                                                                                                                                        |
-| 998     | 18               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-けいけんちが　すこし　ふえる。                                                                                                                        |
-| 998     | 18               | 3           | 로토무파워 중 하나.
-승부 후에 얻는
-경험치가 조금 늘어난다.                                                                                                                                 |
-| 998     | 18               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-經驗值將會稍微增加。                                                                                                                                       |
-| 998     | 18               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-légèrement l’expérience gagnée par vos Pokémon
-en combat.                                                            |
-| 998     | 18               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon im
-Kampf mehr Erfahrungspunkte erhalten.                                                                                   |
-| 998     | 18               | 7           | Poder Rotom que incrementa ligeramente los Puntos
-de Experiencia obtenidos en combate.                                                                             |
-| 998     | 18               | 8           | Potere Rotom che fa aumentare un po’
-i Punti Esperienza ottenuti dopo ogni lotta.                                                                                  |
-| 998     | 18               | 9           | One of the Rotom Powers.
-It increases the Exp. Points your Pokémon receive
-after battle a little.                                                                  |
-| 998     | 18               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-経験値が　少し　増える。                                                                                                                             |
-| 998     | 18               | 12          | 洛托姆之力的一种。
-对战后能得到的
-经验值会稍微增加。                                                                                                                                        |
-| 998     | 19               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-けいけんちが　すこし　ふえる。                                                                                                                        |
-| 998     | 19               | 3           | 로토무파워 중 하나.
-승부 후에 얻는
-경험치가 조금 늘어난다.                                                                                                                                 |
-| 998     | 19               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-經驗值將會稍微增加。                                                                                                                                       |
-| 998     | 19               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-légèrement l’expérience gagnée par vos Pokémon
-en combat.                                                            |
-| 998     | 19               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon im
-Kampf mehr Erfahrungspunkte erhalten.                                                                                   |
-| 998     | 19               | 7           | Poder Rotom que incrementa ligeramente los Puntos
-de Experiencia obtenidos en combate.                                                                             |
-| 998     | 19               | 8           | Potere Rotom che fa aumentare un po’
-i Punti Esperienza ottenuti dopo ogni lotta.                                                                                  |
-| 998     | 19               | 9           | One of the Rotom Powers.
-It increases the Exp. Points your Pokémon receive
-after battle a little.                                                                  |
-| 998     | 19               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-経験値が　少し　増える。                                                                                                                             |
-| 998     | 19               | 12          | 洛托姆之力的一种。
-对战后能得到的
-经验值会稍微增加。                                                                                                                                        |
-| 998     | 20               | 1           | ロトムパワーの　ひとつ。
-しょうぶの　あとに　もらえる
-けいけんちが　すこし　ふえる。                                                                                                                        |
-| 998     | 20               | 3           | 로토무파워 중 하나.
-승부 후에 얻는
-경험치가 조금 늘어난다.                                                                                                                                 |
-| 998     | 20               | 4           | 洛托姆之力的一種。
-對戰後可獲得的
-經驗值將會稍微增加。                                                                                                                                       |
-| 998     | 20               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-légèrement l’expérience gagnée par vos Pokémon
-en combat.                                                            |
-| 998     | 20               | 6           | Diese Rotom-Kraft bewirkt, dass Pokémon im Kampf
-mehr Erfahrungspunkte erhalten.                                                                                   |
-| 998     | 20               | 7           | Poder Rotom que incrementa ligeramente los Puntos de
-Experiencia obtenidos en combate.                                                                             |
-| 998     | 20               | 8           | Potere Rotom che fa aumentare un po’
-i Punti Esperienza ottenuti dopo ogni lotta.                                                                                  |
-| 998     | 20               | 9           | One of the Rotom Powers.
-It increases the Exp. Points your Pokémon receive
-after battle a little.                                                                  |
-| 998     | 20               | 11          | ロトムパワーの　ひとつ。
-勝負の　あとに　もらえる
-経験値が　少し　増える。                                                                                                                             |
-| 998     | 20               | 12          | 洛托姆之力的一种。
-对战后能得到的
-经验值会稍微增加。                                                                                                                                        |
-| 999     | 18               | 1           | ロトムパワーの　ひとつ。
-つれている　ポケモンが
-かなり　なつきやすくなる。                                                                                                                             |
-| 999     | 18               | 3           | 로토무파워 중 하나.
-데리고 있는 포켓몬과
-상당히 친밀해지기 쉬워진다.                                                                                                                            |
-| 999     | 18               | 4           | 洛托姆之力的一種。
-帶在身邊的寶可夢
-會變得非常容易親近。                                                                                                                                      |
-| 999     | 18               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-plus rapidement l’Amitié que vous portent les
-Pokémon de votre équipe.                                               |
-| 999     | 18               | 6           | Diese Rotom-Kraft bewirkt, dass sich die im Team
-mitgeführten Pokémon viel schneller mit dir
-anfreunden.                                                           |
-| 999     | 18               | 7           | Poder Rotom que hace que el grado de amistad de
-los Pokémon de tu equipo aumente más rápido.                                                                       |
-| 999     | 18               | 8           | Potere Rotom che fa sì che i Pokémon in squadra
-ti si affezionino molto più facilmente.                                                                            |
-| 999     | 18               | 9           | One of the Rotom Powers.
-It helps Pokémon in your party grow
-friendly faster.                                                                                      |
-| 999     | 18               | 11          | ロトムパワーの　ひとつ。
-連れている　ポケモンが
-かなり　なつきやすくなる。                                                                                                                             |
-| 999     | 18               | 12          | 洛托姆之力的一种。
-带在身边的宝可梦
-会变得非常容易亲近。                                                                                                                                      |
-| 999     | 19               | 1           | ロトムパワーの　ひとつ。
-つれている　ポケモンが
-かなり　なつきやすくなる。                                                                                                                             |
-| 999     | 19               | 3           | 로토무파워 중 하나.
-데리고 있는 포켓몬과
-상당히 친밀해지기 쉬워진다.                                                                                                                            |
-| 999     | 19               | 4           | 洛托姆之力的一種。
-帶在身邊的寶可夢
-會變得非常容易親近。                                                                                                                                      |
-| 999     | 19               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-plus rapidement l’Amitié que vous portent les Pokémon
-de votre équipe.                                               |
-| 999     | 19               | 6           | Diese Rotom-Kraft bewirkt, dass sich die im Team
-mitgeführten Pokémon viel schneller mit dir
-anfreunden.                                                           |
-| 999     | 19               | 7           | Poder Rotom que hace que el grado de amistad de
-los Pokémon de tu equipo aumente más rápido.                                                                       |
-| 999     | 19               | 8           | Potere Rotom che fa sì che i Pokémon in squadra
-ti si affezionino molto più facilmente.                                                                            |
-| 999     | 19               | 9           | One of the Rotom Powers.
-It helps Pokémon in your party grow
-friendly faster.                                                                                      |
-| 999     | 19               | 11          | ロトムパワーの　ひとつ。
-連れている　ポケモンが
-かなり　なつきやすくなる。                                                                                                                             |
-| 999     | 19               | 12          | 洛托姆之力的一种。
-带在身边的宝可梦
-会变得非常容易亲近。                                                                                                                                      |
-| 999     | 20               | 1           | ロトムパワーの　ひとつ。
-つれている　ポケモンが
-かなり　なかよく　なりやすくなる。                                                                                                                         |
-| 999     | 20               | 3           | 로토무파워 중 하나.
-데리고 있는 포켓몬과
-상당히 친밀해지기 쉬워진다.                                                                                                                            |
-| 999     | 20               | 4           | 洛托姆之力的一種。
-帶在身邊的寶可夢
-會非常容易和訓練家變得友好。                                                                                                                                  |
-| 999     | 20               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-plus rapidement l’amitié que vous portent les Pokémon
-de votre équipe.                                               |
-| 999     | 20               | 6           | Diese Rotom-Kraft bewirkt, dass im Team mitgeführte
-Pokémon viel schneller zutraulich werden.                                                                      |
-| 999     | 20               | 7           | Poder Rotom que hace que el grado de amistad de los
-Pokémon del equipo aumente más rápido.                                                                         |
-| 999     | 20               | 8           | Potere Rotom che fa sì che i Pokémon in squadra
-aumentino il loro livello di amicizia molto più
-facilmente.                                                        |
-| 999     | 20               | 9           | One of the Rotom Powers.
-It helps Pokémon in your party grow friendly faster.                                                                                      |
-| 999     | 20               | 11          | ロトムパワーの　ひとつ。
-連れている　ポケモンが
-かなり　なかよく　なりやすくなる。                                                                                                                         |
-| 999     | 20               | 12          | 洛托姆之力的一种。
-带在身边的宝可梦
-会变得非常容易亲近。                                                                                                                                      |
-| 1000    | 18               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　レベルの　たかい
-やせいポケモンと　であいやすくなる。                                                                                                                   |
-| 1000    | 18               | 3           | 로토무파워 중 하나.
-일정 시간 레벨이 높은
-야생 포켓몬과 만나기 쉬워진다.                                                                                                                         |
-| 1000    | 18               | 4           | 洛托姆之力的一種。
-在一定時間內可以變得
-容易遇見等級高的野生寶可夢。                                                                                                                                |
-| 1000    | 18               | 5           | Une des Motism’Auras. Elle permet de rencontrer
-plus de Pokémon sauvages de haut niveau durant
-une période déterminée.                                             |
-| 1000    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon
-mit hohem Level für eine bestimmte Zeit viel
-häufiger erscheinen.                                                    |
-| 1000    | 18               | 7           | Poder Rotom que aumenta la probabilidad de
-encontrar Pokémon salvajes de nivel alto durante
-un tiempo determinado.                                                 |
-| 1000    | 18               | 8           | Potere Rotom che aumenta le probabilità
-di incontrare Pokémon selvatici di livello alto
-per un certo lasso di tempo.                                               |
-| 1000    | 18               | 9           | One of the Rotom Powers.
-It increases the chance of encountering high-level
-wild Pokémon a lot for a certain period of time.                                       |
-| 1000    | 18               | 11          | ロトムパワーの　ひとつ。
-一定時間　レベルの　高い
-野生ポケモンと　出会いやすくなる。                                                                                                                        |
-| 1000    | 18               | 12          | 洛托姆之力的一种。
-一定时间内，会变得容易
-遇到高等级的野生宝可梦。                                                                                                                                 |
-| 1000    | 19               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　レベルの　たかい
-やせいポケモンと　であいやすくなる。                                                                                                                   |
-| 1000    | 19               | 3           | 로토무파워 중 하나.
-일정 시간 레벨이 높은
-야생 포켓몬과 만나기 쉬워진다.                                                                                                                         |
-| 1000    | 19               | 4           | 洛托姆之力的一種。
-在一定時間內可以變得
-容易遇見等級高的野生寶可夢。                                                                                                                                |
-| 1000    | 19               | 5           | Une des Motism’Auras. Elle permet de rencontrer
-plus de Pokémon sauvages de haut niveau durant
-une période déterminée.                                             |
-| 1000    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon
-mit hohem Level für eine bestimmte Zeit viel
-häufiger erscheinen.                                                    |
-| 1000    | 19               | 7           | Poder Rotom que aumenta la probabilidad de
-encontrar Pokémon salvajes de nivel alto durante
-un tiempo determinado.                                                 |
-| 1000    | 19               | 8           | Potere Rotom che aumenta le probabilità
-di incontrare Pokémon selvatici di livello alto
-per un certo lasso di tempo.                                               |
-| 1000    | 19               | 9           | One of the Rotom Powers.
-It increases the chance of encountering high-level
-wild Pokémon a lot for a certain period of time.                                       |
-| 1000    | 19               | 11          | ロトムパワーの　ひとつ。
-一定時間　レベルの　高い
-野生ポケモンと　出会いやすくなる。                                                                                                                        |
-| 1000    | 19               | 12          | 洛托姆之力的一种。
-一定时间内，会变得容易
-遇到高等级的野生宝可梦。                                                                                                                                 |
-| 1000    | 20               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　レベルの　たかい
-やせいポケモンと　であいやすくなる。                                                                                                                   |
-| 1000    | 20               | 3           | 로토무파워 중 하나.
-일정 시간 레벨이 높은
-야생 포켓몬과 만나기 쉬워진다.                                                                                                                         |
-| 1000    | 20               | 4           | 洛托姆之力的一種。
-在一定時間內可以變得
-容易遇見等級高的野生寶可夢。                                                                                                                                |
-| 1000    | 20               | 5           | Une des Motism’Auras. Elle permet de rencontrer
-plus de Pokémon sauvages de haut niveau durant
-une période déterminée.                                             |
-| 1000    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon mit
-hohem Level für eine bestimmte Zeit viel häufiger
-erscheinen.                                                    |
-| 1000    | 20               | 7           | Poder Rotom que aumenta la probabilidad de encontrar
-Pokémon salvajes de nivel alto durante un tiempo
-determinado.                                                 |
-| 1000    | 20               | 8           | Potere Rotom che aumenta le probabilità
-di incontrare Pokémon selvatici di livello alto
-per un certo lasso di tempo.                                               |
-| 1000    | 20               | 9           | One of the Rotom Powers.
-It increases the chance of encountering high-level
-wild Pokémon a lot for a certain period of time.                                       |
-| 1000    | 20               | 11          | ロトムパワーの　ひとつ。
-一定時間　レベルの　高い
-野生ポケモンと　出会いやすくなる。                                                                                                                        |
-| 1000    | 20               | 12          | 洛托姆之力的一种。
-一定时间内，会变得容易
-遇到高等级的野生宝可梦。                                                                                                                                 |
-| 1001    | 18               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　やせいポケモンと
-ぜんぜん　であわなくなる。                                                                                                                        |
-| 1001    | 18               | 3           | 로토무파워 중 하나.
-일정 시간 야생 포켓몬과
-전혀 만나지 않게 된다.                                                                                                                            |
-| 1001    | 18               | 4           | 洛托姆之力的一種。
-在一定時間內會變得
-完全無法遇見寶可夢。                                                                                                                                     |
-| 1001    | 18               | 5           | Une des Motism’Auras. Elle permet de ne plus
-rencontrer de Pokémon sauvages durant une
-période déterminée.                                                         |
-| 1001    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass für eine
-bestimmte Zeit keine wilden Pokémon erscheinen.                                                                           |
-| 1001    | 18               | 7           | Poder Rotom que permite evitar por completo los
-encuentros con Pokémon salvajes durante un
-tiempo determinado.                                                     |
-| 1001    | 18               | 8           | Potere Rotom che permette di evitare
-l’incontro con i Pokémon selvatici
-per un certo lasso di tempo.                                                               |
-| 1001    | 18               | 9           | One of the Rotom Powers.
-It prevents you from encountering wild Pokémon for
-a certain period of time.                                                              |
-| 1001    | 18               | 11          | ロトムパワーの　ひとつ。
-一定時間　野生ポケモンと
-ぜんぜん　出会わなくなる。                                                                                                                            |
-| 1001    | 18               | 12          | 洛托姆之力的一种。
-一定时间内，会变得完全
-不会遇到野生宝可梦。                                                                                                                                   |
-| 1001    | 19               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　やせいポケモンと
-ぜんぜん　であわなくなる。                                                                                                                        |
-| 1001    | 19               | 3           | 로토무파워 중 하나.
-일정 시간 야생 포켓몬과
-전혀 만나지 않게 된다.                                                                                                                            |
-| 1001    | 19               | 4           | 洛托姆之力的一種。
-在一定時間內會變得
-完全無法遇見寶可夢。                                                                                                                                     |
-| 1001    | 19               | 5           | Une des Motism’Auras. Elle permet de ne plus
-rencontrer de Pokémon sauvages durant une
-période déterminée.                                                         |
-| 1001    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass für eine
-bestimmte Zeit keine wilden Pokémon erscheinen.                                                                           |
-| 1001    | 19               | 7           | Poder Rotom que permite evitar por completo los
-encuentros con Pokémon salvajes durante un
-tiempo determinado.                                                     |
-| 1001    | 19               | 8           | Potere Rotom che permette di evitare
-l’incontro con i Pokémon selvatici
-per un certo lasso di tempo.                                                               |
-| 1001    | 19               | 9           | One of the Rotom Powers.
-It prevents you from encountering wild Pokémon for
-a certain period of time.                                                              |
-| 1001    | 19               | 11          | ロトムパワーの　ひとつ。
-一定時間　野生ポケモンと
-ぜんぜん　出会わなくなる。                                                                                                                            |
-| 1001    | 19               | 12          | 洛托姆之力的一种。
-一定时间内，会变得完全
-不会遇到野生宝可梦。                                                                                                                                   |
-| 1001    | 20               | 1           | ロトムパワーの　ひとつ。
-いっていじかん　やせいポケモンと
-ぜんぜん　であわなくなる。                                                                                                                        |
-| 1001    | 20               | 3           | 로토무파워 중 하나.
-일정 시간 야생 포켓몬과
-전혀 만나지 않게 된다.                                                                                                                            |
-| 1001    | 20               | 4           | 洛托姆之力的一種。
-在一定時間內會變得
-完全無法遇見野生寶可夢。                                                                                                                                   |
-| 1001    | 20               | 5           | Une des Motism’Auras. Elle permet de ne plus
-rencontrer de Pokémon sauvages durant
-une période déterminée.                                                         |
-| 1001    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass für eine bestimmte
-Zeit keine wilden Pokémon erscheinen.                                                                           |
-| 1001    | 20               | 7           | Poder Rotom que permite evitar por completo los
-encuentros con Pokémon salvajes durante un tiempo
-determinado.                                                     |
-| 1001    | 20               | 8           | Potere Rotom che permette di evitare
-l’incontro con i Pokémon selvatici
-per un certo lasso di tempo.                                                               |
-| 1001    | 20               | 9           | One of the Rotom Powers.
-It prevents you from encountering wild Pokémon for
-a certain period of time.                                                              |
-| 1001    | 20               | 11          | ロトムパワーの　ひとつ。
-一定時間　野生ポケモンと
-ぜんぜん　出会わなくなる。                                                                                                                            |
-| 1001    | 20               | 12          | 洛托姆之力的一种。
-一定时间内，会变得完全
-不会遇到野生宝可梦。                                                                                                                                   |
-| 1002    | 18               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＨＰが　すべて　かいふくする。                                                                                                                    |
-| 1002    | 18               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-HP가 모두 회복한다.                                                                                                                           |
-| 1002    | 18               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的ＨＰ。                                                                                                                                     |
-| 1002    | 18               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PV.                                                                    |
-| 1002    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die KP
-der eigenen Pokémon auf der Mitstreiterseite
-vollständig wiederaufgefüllt werden.                                  |
-| 1002    | 18               | 7           | Poder Rotom que restaura todos los PS de los
-Pokémon de tu equipo que estén combatiendo.                                                                           |
-| 1002    | 18               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PS.                                                                       |
-| 1002    | 18               | 9           | One of the Rotom Powers.
-It fully restores the HP of your battling Pokémon.                                                                                        |
-| 1002    | 18               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＨＰが　すべて　回復する。                                                                                                                         |
-| 1002    | 18               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-ＨＰ会全部回复。                                                                                                                                     |
-| 1002    | 19               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＨＰが　すべて　かいふくする。                                                                                                                    |
-| 1002    | 19               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-HP가 모두 회복한다.                                                                                                                           |
-| 1002    | 19               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的HP。                                                                                                                                     |
-| 1002    | 19               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PV.                                                                    |
-| 1002    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die KP
-der eigenen Pokémon auf der Mitstreiterseite
-vollständig wiederaufgefüllt werden.                                  |
-| 1002    | 19               | 7           | Poder Rotom que restaura todos los PS de los
-Pokémon de tu equipo que estén combatiendo.                                                                           |
-| 1002    | 19               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PS.                                                                       |
-| 1002    | 19               | 9           | One of the Rotom Powers.
-It fully restores the HP of your battling Pokémon.                                                                                        |
-| 1002    | 19               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＨＰが　すべて　回復する。                                                                                                                         |
-| 1002    | 19               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-HP会全部回复。                                                                                                                                     |
-| 1002    | 20               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＨＰが　すべて　かいふくする。                                                                                                                    |
-| 1002    | 20               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-HP가 모두 회복한다.                                                                                                                           |
-| 1002    | 20               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的ＨＰ。                                                                                                                                     |
-| 1002    | 20               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PV.                                                                    |
-| 1002    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die KP der
-eigenen Pokémon auf der Mitstreiterseite vollständig
-wiederaufgefüllt werden.                                  |
-| 1002    | 20               | 7           | Poder Rotom que restaura todos los PS de los Pokémon
-de tu equipo que estén combatiendo.                                                                           |
-| 1002    | 20               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PS.                                                                       |
-| 1002    | 20               | 9           | One of the Rotom Powers.
-It fully restores the HP of your battling Pokémon.                                                                                        |
-| 1002    | 20               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＨＰが　すべて　回復する。                                                                                                                         |
-| 1002    | 20               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-ＨＰ会全部回复。                                                                                                                                     |
-| 1003    | 18               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＰＰが　すべて　かいふくする。                                                                                                                    |
-| 1003    | 18               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-PP가 모두 회복한다.                                                                                                                           |
-| 1003    | 18               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的ＰＰ。                                                                                                                                     |
-| 1003    | 18               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PP.                                                                    |
-| 1003    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die AP
-der eigenen Pokémon auf der Mitstreiterseite
-vollständig wiederaufgefüllt werden.                                  |
-| 1003    | 18               | 7           | Poder Rotom que restaura todos los PP de los
-Pokémon de tu equipo que estén combatiendo.                                                                           |
-| 1003    | 18               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PP.                                                                       |
-| 1003    | 18               | 9           | One of the Rotom Powers.
-It fully restores the PP of your battling Pokémon.                                                                                        |
-| 1003    | 18               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＰＰが　すべて　回復する。                                                                                                                         |
-| 1003    | 18               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-ＰＰ会全部回复。                                                                                                                                     |
-| 1003    | 19               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＰＰが　すべて　かいふくする。                                                                                                                    |
-| 1003    | 19               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-PP가 모두 회복한다.                                                                                                                           |
-| 1003    | 19               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的PP。                                                                                                                                     |
-| 1003    | 19               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PP.                                                                    |
-| 1003    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die AP
-der eigenen Pokémon auf der Mitstreiterseite
-vollständig wiederaufgefüllt werden.                                  |
-| 1003    | 19               | 7           | Poder Rotom que restaura todos los PP de los
-Pokémon de tu equipo que estén combatiendo.                                                                           |
-| 1003    | 19               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PP.                                                                       |
-| 1003    | 19               | 9           | One of the Rotom Powers.
-It fully restores the PP of your battling Pokémon.                                                                                        |
-| 1003    | 19               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＰＰが　すべて　回復する。                                                                                                                         |
-| 1003    | 19               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-PP会全部回复。                                                                                                                                     |
-| 1003    | 20               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-ＰＰが　すべて　かいふくする。                                                                                                                    |
-| 1003    | 20               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-PP가 모두 회복한다.                                                                                                                           |
-| 1003    | 20               | 4           | 洛托姆之力的一種。
-可以回復戰鬥中的
-我方寶可夢所有的ＰＰ。                                                                                                                                     |
-| 1003    | 20               | 5           | Une des Motism’Auras. Elle permet à vos Pokémon
-en combat de récupérer la totalité de leurs PP.                                                                    |
-| 1003    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die AP der
-eigenen Pokémon auf der Mitstreiterseite vollständig
-wiederaufgefüllt werden.                                  |
-| 1003    | 20               | 7           | Poder Rotom que restaura todos los PP de los Pokémon
-de tu equipo que estén combatiendo.                                                                           |
-| 1003    | 20               | 8           | Potere Rotom che permette ai propri Pokémon
-impegnati in una lotta di recuperare tutti i PP.                                                                       |
-| 1003    | 20               | 9           | One of the Rotom Powers.
-It fully restores the PP of your battling Pokémon.                                                                                        |
-| 1003    | 20               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-ＰＰが　すべて　回復する。                                                                                                                         |
-| 1003    | 20               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-ＰＰ会全部回复。                                                                                                                                     |
-| 1004    | 18               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-のうりょくが　すべて　あがる。                                                                                                                    |
-| 1004    | 18               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-능력이 모두 올라간다.                                                                                                                           |
-| 1004    | 18               | 4           | 洛托姆之力的一種。
-可以提升戰鬥中的
-我方寶可夢的所有能力。                                                                                                                                     |
-| 1004    | 18               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-toutes les stats de vos Pokémon en combat.                                                                           |
-| 1004    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die
-Statuswerte der eigenen Pokémon auf der
-Mitstreiterseite erhöht werden.                                               |
-| 1004    | 18               | 7           | Poder Rotom que hace aumentar las características
-de los Pokémon de tu equipo que estén
-combatiendo.                                                               |
-| 1004    | 18               | 8           | Potere Rotom che fa aumentare tutte le statistiche
-dei propri Pokémon impegnati in una lotta.                                                                      |
-| 1004    | 18               | 9           | One of the Rotom Powers.
-It raises all stats of your battling Pokémon.                                                                                             |
-| 1004    | 18               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-能力が　すべて　あがる。                                                                                                                          |
-| 1004    | 18               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-所有能力都会提高。                                                                                                                                    |
-| 1004    | 19               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-のうりょくが　すべて　あがる。                                                                                                                    |
-| 1004    | 19               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-능력이 모두 올라간다.                                                                                                                           |
-| 1004    | 19               | 4           | 洛托姆之力的一種。
-可以提升戰鬥中的
-我方寶可夢的所有能力。                                                                                                                                     |
-| 1004    | 19               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-toutes les stats de vos Pokémon en combat.                                                                           |
-| 1004    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die
-Statuswerte der eigenen Pokémon auf der
-Mitstreiterseite erhöht werden.                                               |
-| 1004    | 19               | 7           | Poder Rotom que hace aumentar las características de
-los Pokémon de tu equipo que estén combatiendo.                                                               |
-| 1004    | 19               | 8           | Potere Rotom che fa aumentare tutte le statistiche
-dei propri Pokémon impegnati in una lotta.                                                                      |
-| 1004    | 19               | 9           | One of the Rotom Powers.
-It raises all stats of your battling Pokémon.                                                                                             |
-| 1004    | 19               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-能力が　すべて　あがる。                                                                                                                          |
-| 1004    | 19               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-所有能力都会提高。                                                                                                                                    |
-| 1004    | 20               | 1           | ロトムパワーの　ひとつ。
-たたかっている　じぶんの　ポケモンの
-のうりょくが　すべて　あがる。                                                                                                                    |
-| 1004    | 20               | 3           | 로토무파워 중 하나.
-싸우고 있는 자신의 포켓몬의
-능력이 모두 올라간다.                                                                                                                           |
-| 1004    | 20               | 4           | 洛托姆之力的一種。
-可以提升戰鬥中的
-我方寶可夢的所有能力。                                                                                                                                     |
-| 1004    | 20               | 5           | Une des Motism’Auras. Elle permet d’augmenter
-toutes les stats de vos Pokémon en combat.                                                                           |
-| 1004    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass im Kampf die
-Statuswerte der eigenen Pokémon auf der
-Mitstreiterseite erhöht werden.                                               |
-| 1004    | 20               | 7           | Poder Rotom que hace aumentar las características
-de los Pokémon de tu equipo que estén combatiendo.                                                               |
-| 1004    | 20               | 8           | Potere Rotom che fa aumentare tutte le statistiche
-dei propri Pokémon impegnati in una lotta.                                                                      |
-| 1004    | 20               | 9           | One of the Rotom Powers.
-It raises all stats of your battling Pokémon.                                                                                             |
-| 1004    | 20               | 11          | ロトムパワーの　ひとつ。
-戦っている　自分の　ポケモンの
-能力が　すべて　あがる。                                                                                                                          |
-| 1004    | 20               | 12          | 洛托姆之力的一种。
-正在战斗的我方宝可梦的
-所有能力都会提高。                                                                                                                                    |
-| 1005    | 18               | 1           | ロトムパワーの　ひとつ。　つかうと
-めのまえにいる　やせいポケモンが
-とても　つかまえやすくなる。                                                                                                                  |
-| 1005    | 18               | 3           | 로토무파워 중 하나. 사용하면
-눈앞에 있는 야생 포켓몬을
-매우 잡기 쉬워진다.                                                                                                                        |
-| 1005    | 18               | 4           | 洛托姆之力的一種。
-使用後，可以讓眼前的
-寶可夢變得非常容易捕捉。                                                                                                                                  |
-| 1005    | 18               | 5           | Une des Motism’Auras. Elle permet d’attraper
-beaucoup plus facilement le Pokémon sauvage
-que vous affrontez.                                                       |
-| 1005    | 18               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon
-mit höherer Wahrscheinlichkeit gefangen werden.                                                                      |
-| 1005    | 18               | 7           | Poder Rotom que aumenta mucho la probabilidad
-de capturar al Pokémon salvaje al que te estés
-enfrentando.                                                          |
-| 1005    | 18               | 8           | Potere Rotom che rende considerevolmente
-più facile catturare i Pokémon selvatici.                                                                                 |
-| 1005    | 18               | 9           | One of the Rotom Powers.
-It increases the chance to catch Pokémon
-a lot.                                                                                           |
-| 1005    | 18               | 11          | ロトムパワーの　ひとつ。　使うと
-目の前にいる　野生ポケモンが
-とても　捕まえやすくなる。                                                                                                                      |
-| 1005    | 18               | 12          | 洛托姆之力的一种。
-使用后，眼前的野生宝可梦
-会变得非常容易捕捉。                                                                                                                                  |
-| 1005    | 19               | 1           | ロトムパワーの　ひとつ。　つかうと
-めのまえにいる　やせいポケモンが
-とても　つかまえやすくなる。                                                                                                                  |
-| 1005    | 19               | 3           | 로토무파워 중 하나. 사용하면
-눈앞에 있는 야생 포켓몬을
-매우 잡기 쉬워진다.                                                                                                                        |
-| 1005    | 19               | 4           | 洛托姆之力的一種。
-使用後，可以讓眼前的
-寶可夢變得非常容易捕捉。                                                                                                                                  |
-| 1005    | 19               | 5           | Une des Motism’Auras. Elle permet d’attraper
-beaucoup plus facilement le Pokémon sauvage
-que vous affrontez.                                                       |
-| 1005    | 19               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon
-mit höherer Wahrscheinlichkeit gefangen werden.                                                                      |
-| 1005    | 19               | 7           | Poder Rotom que aumenta mucho la probabilidad
-de capturar al Pokémon salvaje al que te estés
-enfrentando.                                                          |
-| 1005    | 19               | 8           | Potere Rotom che rende considerevolmente
-più facile catturare i Pokémon selvatici.                                                                                 |
-| 1005    | 19               | 9           | One of the Rotom Powers.
-It increases the chance to catch Pokémon
-a lot.                                                                                           |
-| 1005    | 19               | 11          | ロトムパワーの　ひとつ。　使うと
-目の前にいる　野生ポケモンが
-とても　捕まえやすくなる。                                                                                                                      |
-| 1005    | 19               | 12          | 洛托姆之力的一种。
-使用后，眼前的野生宝可梦
-会变得非常容易捕捉。                                                                                                                                  |
-| 1005    | 20               | 1           | ロトムパワーの　ひとつ。　つかうと
-めのまえにいる　やせいポケモンが
-とても　つかまえやすくなる。                                                                                                                  |
-| 1005    | 20               | 3           | 로토무파워 중 하나. 사용하면
-눈앞에 있는 야생 포켓몬을
-매우 잡기 쉬워진다.                                                                                                                        |
-| 1005    | 20               | 4           | 洛托姆之力的一種。
-使用後，可以讓眼前的
-野生寶可夢變得非常容易捕捉。                                                                                                                                |
-| 1005    | 20               | 5           | Une des Motism’Auras. Elle permet d’attraper
-beaucoup plus facilement le Pokémon sauvage
-que vous affrontez.                                                       |
-| 1005    | 20               | 6           | Diese Rotom-Kraft bewirkt, dass wilde Pokémon mit
-höherer Wahrscheinlichkeit gefangen werden.                                                                      |
-| 1005    | 20               | 7           | Poder Rotom que aumenta mucho la probabilidad
-de capturar al Pokémon salvaje al que te estés
-enfrentando.                                                          |
-| 1005    | 20               | 8           | Potere Rotom che rende considerevolmente
-più facile catturare i Pokémon selvatici.                                                                                 |
-| 1005    | 20               | 9           | One of the Rotom Powers.
-It increases the chance to catch Pokémon
-a lot.                                                                                           |
-| 1005    | 20               | 11          | ロトムパワーの　ひとつ。　使うと
-目の前にいる　野生ポケモンが
-とても　捕まえやすくなる。                                                                                                                      |
-| 1005    | 20               | 12          | 洛托姆之力的一种。
-使用后，眼前的野生宝可梦
-会变得非常容易捕捉。                                                                                                                                  |
-| 1006    | 19               | 1           | クチバ　ジムリーダー　マチスから
-もらった　サインしきし。
-Ｇｏｏｄ　Ｌｕｃｋ！と　かかれている。                                                                                                                  |
-| 1006    | 19               | 3           | 갈색체육관 관장 마티스에게
-받은 사인이 적힌 종이.
-Good Luck!이라고 써 있다.                                                                                                                   |
-| 1006    | 19               | 4           | 從枯葉市道館館主馬志士
-手上拿到的簽名板。
-上面寫著「Good Luck！」。                                                                                                                            |
-| 1006    | 19               | 5           | C’est un autographe de Major Bob, le Champion
-de l’Arène de Carmin sur Mer ! Il y a écrit « Good luck ! »
-dessus.                                                  |
-| 1006    | 19               | 6           | Das ist ein Autogramm von Major Bob,
-dem Arenaleiter von Orania City.
-Darauf steht: „Viel Glück, [VAR (00FF,0806,0000)]RekrutRekrutin!“                            |
-| 1006    | 19               | 7           | El autógrafo del Teniente Surge, el Líder de Gimnasio
-de Ciudad Carmín. La dedicatoria reza: "Good luck!".                                                         |
-| 1006    | 19               | 8           | È l’autografo di Lt. Surge, il Capopalestra
-di Aranciopoli. C’è scritto “Good luck!”.                                                                              |
-| 1006    | 19               | 9           | The autograph you got from the Vermilion City Gym
-Leader, Lt. Surge. He wrote, “Good luck!”                                                                        |
-| 1006    | 19               | 11          | クチバ　ジムリーダー　マチスから
-もらった　サイン色紙。
-Ｇｏｏｄ　Ｌｕｃｋ！と　書かれている。                                                                                                                   |
-| 1006    | 19               | 12          | 枯叶市道馆馆主马志士
-给你的彩色签名纸。
-上面写着“Good Luck！”。                                                                                                                             |
-| 1006    | 20               | 1           | クチバ　ジムリーダー　マチスから
-もらった　サインしきし。
-Ｇｏｏｄ　Ｌｕｃｋ！と　かかれている。                                                                                                                  |
-| 1006    | 20               | 3           | 갈색체육관 관장 마티스에게
-받은 사인이 적힌 종이.
-Good Luck!이라고 써 있다.                                                                                                                   |
-| 1006    | 20               | 4           | 從枯葉市道館館主馬志士
-那裡拿到的簽名板。
-上面寫著「Ｇｏｏｄ　Ｌｕｃｋ！」。                                                                                                                            |
-| 1006    | 20               | 5           | C’est un autographe de Major Bob, le Champion
-de l’Arène de Carmin sur Mer ! Il y a écrit « Good luck ! »
-dessus.                                                  |
-| 1006    | 20               | 6           | Das ist ein Autogramm von Major Bob, dem Arenaleiter
-von Orania City. Darauf steht: „Viel Glück, [VAR (00FF,0806,0000)]RekrutRekrutin!“                            |
-| 1006    | 20               | 7           | El autógrafo del Teniente Surge, el Líder de Gimnasio
-de Ciudad Carmín. La dedicatoria reza: "Good luck!".                                                         |
-| 1006    | 20               | 8           | È l’autografo di Lt. Surge, il Capopalestra
-di Aranciopoli. C’è scritto “Good luck!”.                                                                              |
-| 1006    | 20               | 9           | The autograph you got from the Vermilion City Gym
-Leader, Lt. Surge. He wrote, “Good luck!”                                                                        |
-| 1006    | 20               | 11          | クチバ　ジムリーダー　マチスから
-もらった　サイン色紙。
-Ｇｏｏｄ　Ｌｕｃｋ！と　書かれている。                                                                                                                   |
-| 1006    | 20               | 12          | 枯叶市道馆馆主马志士
-给你的彩色签名纸。
-上面写着“Ｇｏｏｄ Ｌｕｃｋ！”。                                                                                                                             |
-| 1007    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1007    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1007    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1007    | 19               | 7           |                                                                                                                                                                    |
-| 1007    | 19               | 8           | -
--
--                                                                                                                                                              |
-| 1007    | 19               | 9           | -
--
--                                                                                                                                                              |
-| 1007    | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 20               | 3           | -
--
--                                                                                                                                                              |
-| 1007    | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 20               | 5           | -
--
--                                                                                                                                                              |
-| 1007    | 20               | 6           | -
--
--                                                                                                                                                              |
-| 1007    | 20               | 7           |                                                                                                                                                                    |
-| 1007    | 20               | 8           | -
--
--                                                                                                                                                              |
-| 1007    | 20               | 9           | -
--
--                                                                                                                                                              |
-| 1007    | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1007    | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1008    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1008    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1008    | 19               | 7           |                                                                                                                                                                    |
-| 1008    | 19               | 8           | -
--
--                                                                                                                                                              |
-| 1008    | 19               | 9           | -
--
--                                                                                                                                                              |
-| 1008    | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 20               | 3           | -
--
--                                                                                                                                                              |
-| 1008    | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 20               | 5           | -
--
--                                                                                                                                                              |
-| 1008    | 20               | 6           | -
--
--                                                                                                                                                              |
-| 1008    | 20               | 7           |                                                                                                                                                                    |
-| 1008    | 20               | 8           | -
--
--                                                                                                                                                              |
-| 1008    | 20               | 9           | -
--
--                                                                                                                                                              |
-| 1008    | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1008    | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1009    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1009    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1009    | 19               | 7           |                                                                                                                                                                    |
-| 1009    | 19               | 8           | -
--
--                                                                                                                                                              |
-| 1009    | 19               | 9           | -
--
--                                                                                                                                                              |
-| 1009    | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 20               | 3           | -
--
--                                                                                                                                                              |
-| 1009    | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 20               | 5           | -
--
--                                                                                                                                                              |
-| 1009    | 20               | 6           | -
--
--                                                                                                                                                              |
-| 1009    | 20               | 7           |                                                                                                                                                                    |
-| 1009    | 20               | 8           | -
--
--                                                                                                                                                              |
-| 1009    | 20               | 9           | -
--
--                                                                                                                                                              |
-| 1009    | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1009    | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1010    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1010    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1010    | 19               | 7           |                                                                                                                                                                    |
-| 1010    | 19               | 8           | -
--
--                                                                                                                                                              |
-| 1010    | 19               | 9           | -
--
--                                                                                                                                                              |
-| 1010    | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 20               | 3           | -
--
--                                                                                                                                                              |
-| 1010    | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 20               | 5           | -
--
--                                                                                                                                                              |
-| 1010    | 20               | 6           | -
--
--                                                                                                                                                              |
-| 1010    | 20               | 7           |                                                                                                                                                                    |
-| 1010    | 20               | 8           | -
--
--                                                                                                                                                              |
-| 1010    | 20               | 9           | -
--
--                                                                                                                                                              |
-| 1010    | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1010    | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1011    | 19               | 1           | ポケモンや　トレーナーの
-きがえを　いれられる
-とても　かるい　トランク。                                                                                                                              |
-| 1011    | 19               | 3           | 포켓몬이나 트레이너의
-의상을 넣을 수 있는
-매우 가벼운 트렁크.                                                                                                                                |
-| 1011    | 19               | 4           | 十分輕便的行李箱。
-裡面可以放寶可夢和
-訓練家的替換衣物。                                                                                                                                      |
-| 1011    | 19               | 5           | Une malle très légère qui contient vos costumes
-et ceux de votre partenaire.                                                                                       |
-| 1011    | 19               | 6           | Ein überraschend leichter Koffer, in dem verschiedene
-Kleidungsstücke und Accessoires für Trainer und
-Pokémon verstaut werden können.                              |
-| 1011    | 19               | 7           | Una maleta muy ligera en la que puedes guardar ropa
-o accesorios para ti o tu Pokémon.                                                                             |
-| 1011    | 19               | 8           | Una valigia leggerissima che può contenere tutti i capi
-d’abbigliamento di un Allenatore e del suo compagno
-d’avventura.                                           |
-| 1011    | 19               | 9           | A very light trunk that can carry clothing for you
-and your Pokémon.                                                                                               |
-| 1011    | 19               | 11          | ポケモンや　トレーナーの
-着替えを　入れられる
-とても　軽い　トランク。                                                                                                                               |
-| 1011    | 19               | 12          | 非常轻的箱子。
-能塞入宝可梦或
-训练家的替换衣物。                                                                                                                                          |
-| 1011    | 20               | 1           | ポケモンや　トレーナーの
-きがえを　いれられる
-とても　かるい　トランク。                                                                                                                              |
-| 1011    | 20               | 3           | 포켓몬이나 트레이너의
-의상을 넣을 수 있는
-매우 가벼운 트렁크.                                                                                                                                |
-| 1011    | 20               | 4           | 十分輕便的行李箱。
-裡面可以放寶可夢和
-訓練家的替換衣物。                                                                                                                                      |
-| 1011    | 20               | 5           | Une malle très légère qui contient vos costumes
-et ceux de votre partenaire.                                                                                       |
-| 1011    | 20               | 6           | Ein überraschend leichter Koffer, in dem verschiedene
-Kleidungsstücke und Accessoires für Trainer und
-Pokémon verstaut werden können.                              |
-| 1011    | 20               | 7           | Una maleta muy ligera en la que puedes guardar ropa
-o accesorios para ti o tu Pokémon.                                                                             |
-| 1011    | 20               | 8           | Una valigia leggerissima che può contenere tutti i capi
-d’abbigliamento di un Allenatore e del suo compagno
-d’avventura.                                           |
-| 1011    | 20               | 9           | A very light trunk that can carry clothing for you
-and your Pokémon.                                                                                               |
-| 1011    | 20               | 11          | ポケモンや　トレーナーの
-着替えを　入れられる
-とても　軽い　トランク。                                                                                                                               |
-| 1011    | 20               | 12          | 非常轻的箱子。
-能塞入宝可梦或
-训练家的替换衣物。                                                                                                                                          |
-| 1012    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1012    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1012    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1012    | 19               | 7           |                                                                                                                                                                    |
-| 1012    | 19               | 8           | -
--
--                                                                                                                                                              |
-| 1012    | 19               | 9           | -
--
--                                                                                                                                                              |
-| 1012    | 19               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 19               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 20               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 20               | 3           | -
--
--                                                                                                                                                              |
-| 1012    | 20               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 20               | 5           | -
--
--                                                                                                                                                              |
-| 1012    | 20               | 6           | -
--
--                                                                                                                                                              |
-| 1012    | 20               | 7           |                                                                                                                                                                    |
-| 1012    | 20               | 8           | -
--
--                                                                                                                                                              |
-| 1012    | 20               | 9           | -
--
--                                                                                                                                                              |
-| 1012    | 20               | 11          | ー
-ー
-ー                                                                                                                                                              |
-| 1012    | 20               | 12          | ー
-ー
-ー                                                                                                                                                              |
-| 1013    | 19               | 1           | ー
-ー
-ー                                                                                                                                                              |
-| 1013    | 19               | 3           | -
--
--                                                                                                                                                              |
-| 1013    | 19               | 4           | ー
-ー
-ー                                                                                                                                                              |
-| 1013    | 19               | 5           | -
--
--                                                                                                                                                              |
-| 1013    | 19               | 6           | -
--
--                                                                                                                                                              |
-| 1013    | 19               | 7           |                                                                                                                                                                    |
+|  item_id | version_group_id | language_id | flavor_text |
+|----------|------------------|-------------|-------------|
+|  536       20 |  |  11 |     砂漠の　すなあらしから 目を　守ってくれる すてきな　ゴーグル。 |
+|  536       20 |  |  12 |     能在沙漠的沙暴中 保护眼睛的出色护目镜。 |
+|  537       5 |  |   9 |      A meteorite found at METEOR FALLS. |
+|  537       6 |  |   9 |      A meteorite found at METEOR FALLS. |
+|  537       7 |  |   9 |      A meteorite that fell from space onto MT. MOON long ago. It is very lumpy and hard. |
+|  537       17 |  |  1 |      もともとは　りゅうせいのたきに おちていた　いんせき。 えんとつやまで　てにいれた。 |
+|  537       17 |  |  3 |      원래는 유성의 폭포에 떨어져 있던 운석이다. 굴뚝산에서 손에 넣었다. |
+|  537       17 |  |  4 |      原為墜落在 流星瀑布裡的隕石。 在煙囪山得到了它。 |
+|  537       17 |  |  5 |      Une météorite qui s'est écrasée sur le Site Météore, trouvée au Mont Chimnée. |
+|  537       17 |  |  6 |      Ein Meteorit, der ursprünglich bei den Meteorfällen eingeschlagen ist. Du hast ihn beim Schlotberg erhalten. |
+|  537       17 |  |  7 |      Meteorito obtenido en el Monte Cenizo que antes se encontraba en la Cascada Meteoro. |
+|  537       17 |  |  8 |      Meteorite proveniente dalle Cascate Meteora. Puoi ottenerlo sul Monte Camino. |
+|  537       17 |  |  9 |      A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney. |
+|  537       17 |  |  11 |     元々は　流星の滝に 落ちていた　いんせき。 えんとつ山で　手に入れた。 |
+|  537       17 |  |  12 |     原本是落入流星瀑布里的陨石。 是在烟囱山获得的。 |
+|  537       18 |  |  1 |      もともとは　りゅうせいのたきに おちていた　いんせき。 えんとつやまで　てにいれた。 |
+|  537       18 |  |  3 |      원래는 유성의 폭포에 떨어져 있던 운석이다. 굴뚝산에서 손에 넣었다. |
+|  537       18 |  |  4 |      原為墜落在 流星瀑布裡的隕石。 在煙囪山得到了它。 |
+|  537       18 |  |  5 |      Une météorite qui s'est écrasée sur le Site Météore, trouvée au Mont Chimnée. |
+|  537       18 |  |  6 |      Ein Meteorit, der ursprünglich bei den Meteorfällen eingeschlagen ist. Du hast ihn beim Schlotberg erhalten. |
+|  537       18 |  |  7 |      Meteorito obtenido en el Monte Cenizo que antes se encontraba en la Cascada Meteoro. |
+|  537       18 |  |  8 |      Meteorite proveniente dalle Cascate Meteora. Puoi ottenerlo sul Monte Camino. |
+|  537       18 |  |  9 |      A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney. |
+|  537       18 |  |  11 |     元々は　流星の滝に 落ちていた　いんせき。 えんとつ山で　手に入れた。 |
+|  537       18 |  |  12 |     原本是落入流星瀑布里的陨石。 是在烟囱山获得的。 |
+|  537       19 |  |  1 |      もともとは　りゅうせいのたきに おちていた　いんせき。 えんとつやまで　てにいれた。 |
+|  537       19 |  |  3 |      원래는 유성의 폭포에 떨어져 있던 운석이다. 굴뚝산에서 손에 넣었다. |
+|  537       19 |  |  4 |      原為墜落在 流星瀑布裡的隕石。 在煙囪山得到了它。 |
+|  537       19 |  |  5 |      Une météorite qui s'est écrasée sur le Site Météore, trouvée au Mont Chimnée. |
+|  537       19 |  |  6 |      Ein Meteorit, der ursprünglich bei den Meteorfällen eingeschlagen ist. Du hast ihn beim Schlotberg erhalten. |
+|  537       19 |  |  7 |      Meteorito obtenido en el Monte Cenizo que antes se encontraba en la Cascada Meteoro. |
+|  537       19 |  |  8 |      Meteorite proveniente dalle Cascate Meteora. Puoi ottenerlo sul Monte Camino. |
+|  537       19 |  |  9 |      A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney. |
+|  537       19 |  |  11 |     元々は　流星の滝に 落ちていた　いんせき。 えんとつ山で　手に入れた。 |
+|  537       19 |  |  12 |     原本是落入流星瀑布里的陨石。 是在烟囱山获得的。 |
+|  537       20 |  |  1 |      もともとは　りゅうせいのたきに おちていた　いんせき。 えんとつやまで　てにいれた。 |
+|  537       20 |  |  3 |      원래는 유성의 폭포에 떨어져 있던 운석이다. 굴뚝산에서 손에 넣었다. |
+|  537       20 |  |  4 |      原為墜落在 流星瀑布裡的隕石。 在煙囪山得到了它。 |
+|  537       20 |  |  5 |      Une météorite qui s'est écrasée sur le Site Météore, trouvée au Mont Chimnée. |
+|  537       20 |  |  6 |      Ein Meteorit, der ursprünglich bei den Meteorfällen eingeschlagen ist. Du hast ihn beim Schlotberg erhalten. |
+|  537       20 |  |  7 |      Meteorito obtenido en el Monte Cenizo que antes se encontraba en la Cascada Meteoro. |
+|  537       20 |  |  8 |      Meteorite proveniente dalle Cascate Meteora. Puoi ottenerlo sul Monte Camino. |
+|  537       20 |  |  9 |      A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney. |
+|  537       20 |  |  11 |     元々は　流星の滝に 落ちていた　いんせき。 えんとつ山で　手に入れた。 |
+|  537       20 |  |  12 |     原本是落入流星瀑布里的陨石。 是在烟囱山获得的。 |
+|  538       5 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  538       6 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  538       7 |  |   9 |      A key that opens the door to Room 1 inside the ABANDONED SHIP. It is old and looks easily broken. |
+|  539       5 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  539       6 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  539       7 |  |   9 |      A key that opens the door to Room 2 inside the ABANDONED SHIP. It is old and looks easily broken. |
+|  540       5 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  540       6 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  540       7 |  |   9 |      A key that opens the door to Room 4 inside the ABANDONED SHIP. It is old and looks easily broken. |
+|  541       5 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  541       6 |  |   9 |      A key that opens a door inside the ABANDONED SHIP. |
+|  541       7 |  |   9 |      A key that opens the door to Room 6 inside the ABANDONED SHIP. It is old and looks easily broken. |
+|  542       5 |  |   9 |      A device by DEVON that signals any unseeable POKéMON. |
+|  542       6 |  |   9 |      A device by DEVON that signals any unseeable POKéMON. |
+|  542       7 |  |   9 |      A scope that signals the presence of any unseeable POKéMON. It is made by the DEVON CORP. |
+|  542       17 |  |  1 |      みえない　ポケモンに はんのうして　おとをだす デボンの　とくせいひん。 |
+|  542       17 |  |  3 |      보이지 않는 포켓몬에 반응하여 소리를 내는 데봉의 특제품. |
+|  542       17 |  |  4 |      會對看不見的寶可夢起反應， 並發出聲音的得文特製產品。 |
+|  542       17 |  |  5 |      Ce produit en série limitée de Devon émet un signal sonore pour signaler la présence de Pokémon invisibles. |
+|  542       17 |  |  6 |      Ein von der Devon Corporation hergestelltes Gerät, das mit einem Signalton auf unsichtbare Pokémon reagiert. |
+|  542       17 |  |  7 |      Artilugio creado por Devon S. A. que reacciona a la presencia de Pokémon invisibles emitiendo sonidos. |
+|  542       17 |  |  8 |      Congegno prodotto dalla Devon che rileva la presenza di Pokémon nascosti emettendo un segnale sonoro. |
+|  542       17 |  |  9 |      A special device made by Devon Corporation that signals the presence of any unseen Pokémon. |
+|  542       17 |  |  11 |     見えない　ポケモンに 反応して　音をだす デボンの　特製品。 |
+|  542       17 |  |  12 |     会对看不见的宝可梦起反应， 并发出声音的得文特制产品。 |
+|  542       18 |  |  1 |      みえない　ポケモンに はんのうして　おとをだす デボンの　とくせいひん。 |
+|  542       18 |  |  3 |      보이지 않는 포켓몬에 반응하여 소리를 내는 데봉의 특제품. |
+|  542       18 |  |  4 |      會對看不見的寶可夢起反應， 並發出聲音的得文特製產品。 |
+|  542       18 |  |  5 |      Ce produit en série limitée de Devon émet un signal sonore pour signaler la présence de Pokémon invisibles. |
+|  542       18 |  |  6 |      Ein von der Devon Corporation hergestelltes Gerät, das mit einem Signalton auf unsichtbare Pokémon reagiert. |
+|  542       18 |  |  7 |      Artilugio creado por Devon S. A. que reacciona a la presencia de Pokémon invisibles emitiendo sonidos. |
+|  542       18 |  |  8 |      Congegno prodotto dalla Devon che rileva la presenza di Pokémon nascosti emettendo un segnale sonoro. |
+|  542       18 |  |  9 |      A special device made by Devon Corporation that signals the presence of any unseen Pokémon. |
+|  542       18 |  |  11 |     見えない　ポケモンに 反応して　音をだす デボンの　特製品。 |
+|  542       18 |  |  12 |     会对看不见的宝可梦起反应， 并发出声音的得文特制产品。 |
+|  542       19 |  |  1 |      みえない　ポケモンに はんのうして　おとをだす デボンの　とくせいひん。 |
+|  542       19 |  |  3 |      보이지 않는 포켓몬에 반응하여 소리를 내는 데봉의 특제품. |
+|  542       19 |  |  4 |      會對看不見的寶可夢起反應， 並發出聲音的得文特製產品。 |
+|  542       19 |  |  5 |      Ce produit en série limitée de Devon émet un signal sonore pour signaler la présence de Pokémon invisibles. |
+|  542       19 |  |  6 |      Ein von der Devon Corporation hergestelltes Gerät, das mit einem Signalton auf unsichtbare Pokémon reagiert. |
+|  542       19 |  |  7 |      Artilugio creado por Devon S. A. que reacciona a la presencia de Pokémon invisibles emitiendo sonidos. |
+|  542       19 |  |  8 |      Congegno prodotto dalla Devon che rileva la presenza di Pokémon nascosti emettendo un segnale sonoro. |
+|  542       19 |  |  9 |      A special device made by Devon Corporation that signals the presence of any unseen Pokémon. |
+|  542       19 |  |  11 |     見えない　ポケモンに 反応して　音をだす デボンの　特製品。 |
+|  542       19 |  |  12 |     会对看不见的宝可梦起反应， 并发出声音的得文特制产品。 |
+|  542       20 |  |  1 |      みえない　ポケモンに はんのうして　おとをだす デボンの　とくせいひん。 |
+|  542       20 |  |  3 |      보이지 않는 포켓몬에 반응하여 소리를 내는 데봉의 특제품. |
+|  542       20 |  |  4 |      會對看不見的寶可夢起反應， 並發出聲音的得文特製產品。 |
+|  542       20 |  |  5 |      Ce produit en série limitée de Devon émet un signal sonore pour signaler la présence de Pokémon invisibles. |
+|  542       20 |  |  6 |      Ein von der Devon Corporation hergestelltes Gerät, das mit einem Signalton auf unsichtbare Pokémon reagiert. |
+|  542       20 |  |  7 |      Artilugio creado por Devon S. A. que reacciona a la presencia de Pokémon invisibles emitiendo sonidos. |
+|  542       20 |  |  8 |      Congegno prodotto dalla Devon che rileva la presenza di Pokémon nascosti emettendo un segnale sonoro. |
+|  542       20 |  |  9 |      A special device made by Devon Corporation that signals the presence of any unseen Pokémon. |
+|  542       20 |  |  11 |     見えない　ポケモンに 反応して　音をだす デボンの　特製品。 |
+|  542       20 |  |  12 |     会对看不见的宝可梦起反应， 并发出声音的得文特制产品。 |
+|  543       6 |  |   9 |      A parcel for PROF. OAK from a POKéMON MART's clerk. |
+|  543       7 |  |   9 |      A parcel to be delivered to PROF. OAK from VIRIDIAN CITY's POKéMON MART. |
+|  544       6 |  |   9 |      A sweet-sounding flute that awakens POKéMON. |
+|  544       7 |  |   9 |      A flute that is said to instantly awaken any POKéMON. It has a lovely tone. |
+|  544       15 |  |  1 |      ねむっている　ポケモンも おもわず　めざめるほど　すばらしい ねいろを　かなでる　ふえ。 |
+|  544       15 |  |  3 |      잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리. |
+|  544       15 |  |  5 |      Une flûte au son si particulier qu'elle permet de réveiller les Pokémon les plus profondément endormis. |
+|  544       15 |  |  6 |      Eine Flöte, die so wundervolle Töne spielen kann, dass selbst schlafende Pokémon aufwachen. |
+|  544       15 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Scizor en combate. |
+|  544       15 |  |  8 |      Flauto dal suono meraviglioso che risveglia anche i Pokémon profondamente addormentati. |
+|  544       15 |  |  9 |      A flute which can play with such a beautiful tone that even sleeping Pokémon find themselves roused. |
+|  544       15 |  |  11 |     眠っている　ポケモンも 思わず　めざめるほど　すばらしい 音色を　奏でる　ふえ。 |
+|  544       17 |  |  1 |      ねむっている　ポケモンも おもわず　めざめるほど　すばらしい ねいろを　かなでる　ふえ。 |
+|  544       17 |  |  3 |      잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리. |
+|  544       17 |  |  4 |      能吹出讓睡著的寶可夢 都會情不自禁醒來的 美妙音色的笛子。 |
+|  544       17 |  |  5 |      Une flûte au son si particulier qu'elle permet de réveiller les Pokémon les plus profondément endormis. |
+|  544       17 |  |  6 |      Eine Flöte, die so wundervolle Töne spielen kann, dass selbst schlafende Pokémon aufwachen. |
+|  544       17 |  |  7 |      Una flauta con un timbre tan dulce y hermoso que despierta hasta al Pokémon más profundamente dormido. |
+|  544       17 |  |  8 |      Flauto dal suono meraviglioso che risveglia anche i Pokémon profondamente addormentati. |
+|  544       17 |  |  9 |      A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves roused. |
+|  544       17 |  |  11 |     眠っている　ポケモンも 思わず　めざめるほど　すばらしい 音色を　奏でる　ふえ。 |
+|  544       17 |  |  12 |     能吹出让睡着的宝可梦 都会情不自禁醒来的 美妙音色的笛子。 |
+|  544       18 |  |  1 |      ねむっている　ポケモンも おもわず　めざめるほど　すばらしい ねいろを　かなでる　ふえ。 |
+|  544       18 |  |  3 |      잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리. |
+|  544       18 |  |  4 |      能吹出讓睡著的寶可夢 都會情不自禁醒來的 美妙音色的笛子。 |
+|  544       18 |  |  5 |      Une flûte au son si particulier qu'elle permet de réveiller les Pokémon les plus profondément endormis. |
+|  544       18 |  |  6 |      Eine Flöte, die so wundervolle Töne spielen kann, dass selbst schlafende Pokémon aufwachen. |
+|  544       18 |  |  7 |      Una flauta con un timbre tan dulce y hermoso que despierta hasta al Pokémon más profundamente dormido. |
+|  544       18 |  |  8 |      Flauto dal suono meraviglioso che risveglia anche i Pokémon profondamente addormentati. |
+|  544       18 |  |  9 |      A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves roused. |
+|  544       18 |  |  11 |     眠っている　ポケモンも 思わず　めざめるほど　すばらしい 音色を　奏でる　ふえ。 |
+|  544       18 |  |  12 |     能吹出让睡着的宝可梦 都会情不自禁醒来的 美妙音色的笛子。 |
+|  544       19 |  |  1 |      ねむっている　ポケモンも おもわず　めざめるほど　すばらしい ねいろを　かなでる　ふえ。 |
+|  544       19 |  |  3 |      잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리. |
+|  544       19 |  |  4 |      能吹出讓睡著的寶可夢 都會情不自禁醒來的 美妙音色的笛子。 |
+|  544       19 |  |  5 |      Une flûte au son si particulier qu'elle permet de réveiller les Pokémon les plus profondément endormis. |
+|  544       19 |  |  6 |      Eine Flöte, die so wundervolle Töne spielen kann, dass selbst schlafende Pokémon aufwachen. |
+|  544       19 |  |  7 |      Una flauta con un timbre tan dulce y hermoso que despierta hasta al Pokémon más profundamente dormido. |
+|  544       19 |  |  8 |      Flauto dal suono meraviglioso che risveglia anche i Pokémon profondamente addormentati. |
+|  544       19 |  |  9 |      A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves woken up. |
+|  544       19 |  |  11 |     眠っている　ポケモンも 思わず　めざめるほど　すばらしい 音色を　奏でる　ふえ。 |
+|  544       19 |  |  12 |     能吹出让睡着的宝可梦 都会情不自禁醒来的 美妙音色的笛子。 |
+|  544       20 |  |  1 |      ねむっている　ポケモンも おもわず　めざめるほど　すばらしい ねいろを　かなでる　ふえ。 |
+|  544       20 |  |  3 |      잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리. |
+|  544       20 |  |  4 |      能吹出讓睡著的寶可夢 都會情不自禁醒來的 美妙音色的笛子。 |
+|  544       20 |  |  5 |      Une flûte au son si particulier qu'elle permet de réveiller les Pokémon les plus profondément endormis. |
+|  544       20 |  |  6 |      Eine Flöte, die so wundervolle Töne spielen kann, dass selbst schlafende Pokémon aufwachen. |
+|  544       20 |  |  7 |      Una flauta con un timbre tan dulce y hermoso que despierta hasta al Pokémon más profundamente dormido. |
+|  544       20 |  |  8 |      Flauto dal suono meraviglioso che risveglia anche i Pokémon profondamente addormentati. |
+|  544       20 |  |  9 |      A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves woken up. |
+|  544       20 |  |  11 |     眠っている　ポケモンも 思わず　めざめるほど　すばらしい 音色を　奏でる　ふえ。 |
+|  544       20 |  |  12 |     能吹出让睡着的宝可梦 都会情不自禁醒来的 美妙音色的笛子。 |
+|  545       6 |  |   9 |      A voucher for obtaining a bicycle from the BIKE SHOP. |
+|  545       7 |  |   9 |      Take this voucher to the BIKE SHOP in CERULEAN CITY and exchange it for a bicycle. |
+|  546       6 |  |   9 |      Gold dentures lost by the SAFARI ZONE's WARDEN. |
+|  546       7 |  |   9 |      A set of false teeth lost by the SAFARI ZONE'S WARDEN. It makes his smile sparkle. |
+|  546       19 |  |  1 |      サファリゾーンの　えんちょうが おとした　きんいろの　いれば。 わらうと　とても　まぶしい。 |
+|  546       19 |  |  3 |      사파리존의 원장이 떨어뜨린 금색 틀니. 웃으면 매우 눈부시다. |
+|  546       19 |  |  4 |      狩獵地帶的園長 遺失的金色假牙。 裝上它之後笑起來非常耀眼。 |
+|  546       19 |  |  5 |      Un dentier en or perdu par le directeur du Parc Safari. Il lui donne un sourire étincelant. |
+|  546       19 |  |  6 |      Ein vergoldeter Zahnersatz, den der Direktor der Safari-Zone verlegt hat. Setzt er ihn ein, verleiht er ihm buchstäblich ein goldiges Lächeln. |
+|  546       19 |  |  7 |      Unos dientes de oro que perdió el Guarda de la Zona Safari con los que tiene una sonrisa deslumbrante. |
+|  546       19 |  |  8 |      Dentiera dorata persa dal guardiano della Zona Safari. Rende il suo sorriso davvero scintillante. |
+|  546       19 |  |  9 |      A set of golden false teeth lost by the Safari Zone's warden. They make his smile sparkle. |
+|  546       19 |  |  11 |     サファリゾーンの　園長が 落とした　金色の　入れ歯。 笑うと　とても　まぶしい。 |
+|  546       19 |  |  12 |     狩猎地带的园长遗失的金假牙。 装上它后，笑起来十分耀眼。 |
+|  546       20 |  |  1 |      サファリゾーンの　えんちょうが おとした　きんいろの　いれば。 わらうと　とても　まぶしい。 |
+|  546       20 |  |  3 |      사파리존의 원장이 떨어뜨린 금색 틀니. 웃으면 매우 눈부시다. |
+|  546       20 |  |  4 |      狩獵地帶的園長 遺失的金色假牙。 裝上它之後笑起來非常耀眼。 |
+|  546       20 |  |  5 |      Un dentier en or perdu par le directeur du Parc Safari. Il lui donne un sourire étincelant. |
+|  546       20 |  |  6 |      Ein vergoldeter Zahnersatz, den der Direktor der Safari-Zone verlegt hat. Setzt er ihn ein, verleiht er ihm buchstäblich ein goldiges Lächeln. |
+|  546       20 |  |  7 |      Unos dientes de oro que perdió el Guarda de la Zona Safari con los que tiene una sonrisa deslumbrante. |
+|  546       20 |  |  8 |      Dentiera dorata persa dal guardiano della Zona Safari. Rende il suo sorriso davvero scintillante. |
+|  546       20 |  |  9 |      A set of golden false teeth lost by the Safari Zone's warden. They make his smile sparkle. |
+|  546       20 |  |  11 |     サファリゾーンの　園長が 落とした　金色の　入れ歯。 笑うと　とても　まぶしい。 |
+|  546       20 |  |  12 |     狩猎地带的园长遗失的金假牙。 装上它后，笑起来十分耀眼。 |
+|  547       6 |  |   9 |      An elevator key used in TEAM ROCKET's HIDEOUT. |
+|  547       7 |  |   9 |      A key that operates the elevator in TEAM ROCKET's HIDEOUT. It bears the TEAM ROCKET logo. |
+|  547       19 |  |  1 |      ロケットだん　アジトに　ある エレベータを　うごかす　カギ。 ロケットだんの　マークいり。 |
+|  547       19 |  |  3 |      로켓단아지트에 있는 엘리베이터를 작동시키는 열쇠. 로켓단의 마크가 새겨져 있다. |
+|  547       19 |  |  4 |      能啟動火箭隊基地 電梯的鑰匙。 上面有火箭隊的標誌。 |
+|  547       19 |  |  5 |      Une clé activant l'ascenseur du Repaire de la Team Rocket. Elle porte la marque de l'organisation. |
+|  547       19 |  |  6 |      Ein Schlüssel, mit dessen Hilfe der Aufzug im Rocket-Versteck in Gang gesetzt werden kann. Das Logo von Team Rocket ist darauf abgebildet. |
+|  547       19 |  |  7 |      Llave que permite acceder al ascensor de la Guarida del Team Rocket. Lleva grabado el símbolo del Team Rocket. |
+|  547       19 |  |  8 |      Chiave per l'ascensore nel Rifugio del Team Rocket. Presenta il logo del Team Rocket. |
+|  547       19 |  |  9 |      A key that operates the elevator in the Team Rocket Hideout. It bears the Team Rocket logo. |
+|  547       19 |  |  11 |     ロケット団　アジトに　ある エレベータを　動かす　カギ。 ロケット団の　マーク入り。 |
+|  547       19 |  |  12 |     带有火箭队标志的钥匙。 能启动位于火箭队基地的电梯。 |
+|  547       20 |  |  1 |      ロケットだん　アジトに　ある エレベータを　うごかす　カギ。 ロケットだんの　マークいり。 |
+|  547       20 |  |  3 |      로켓단아지트에 있는 엘리베이터를 작동시키는 열쇠. 로켓단의 마크가 새겨져 있다. |
+|  547       20 |  |  4 |      能啟動火箭隊基地 電梯的鑰匙。 上面有火箭隊的標誌。 |
+|  547       20 |  |  5 |      Une clé activant l'ascenseur du Repaire de la Team Rocket. Elle porte la marque de l'organisation. |
+|  547       20 |  |  6 |      Ein Schlüssel, mit dessen Hilfe der Aufzug im Rocket-Versteck in Gang gesetzt werden kann. Das Logo von Team Rocket ist darauf abgebildet. |
+|  547       20 |  |  7 |      Llave que permite acceder al ascensor de la Guarida del Team Rocket. Lleva grabado el símbolo del Team Rocket. |
+|  547       20 |  |  8 |      Chiave per l'ascensore nel Rifugio del Team Rocket. Presenta il logo del Team Rocket. |
+|  547       20 |  |  9 |      A key that operates the elevator in the Team Rocket Hideout. It bears the Team Rocket logo. |
+|  547       20 |  |  11 |     ロケット団　アジトに　ある エレベータを　動かす　カギ。 ロケット団の　マーク入り。 |
+|  547       20 |  |  12 |     带有火箭队标志的钥匙。 能启动位于火箭队基地的电梯。 |
+|  548       6 |  |   9 |      SILPH CO's scope makes unseeable POKéMON visible. |
+|  548       7 |  |   9 |      A scope that makes unseeable POKéMON visible. It is made by SILPH CO. |
+|  548       19 |  |  1 |      ひとの　めに　みえない　ものを みることが　できる　スコープ。 シルフカンパニーせい。 |
+|  548       19 |  |  3 |      사람의 눈에 보이지 않는 것을 볼 수 있게 해 주는 스코프. 실프주식회사 제품. |
+|  548       19 |  |  4 |      西爾佛公司製造的檢視鏡。 能看見人類肉眼 看不到的東西。 |
+|  548       19 |  |  5 |      Un appareil permettant de voir les Pokémon invisibles. Il est fabriqué par la Sylphe SARL. |
+|  548       19 |  |  6 |      Dieses Gerät macht Dinge sichtbar, die dem menschlichen Auge sonst verborgen bleiben. Es wurde von der Silph Company entwickelt. |
+|  548       19 |  |  7 |      Dispositivo que permite ver cosas que, de otra forma, resultarían invisibles para el ojo humano. Fabricado por Silph S. A. |
+|  548       19 |  |  8 |      Sonda che rivela i Pokémon invisibili, prodotta dalla Silph S.p.A. |
+|  548       19 |  |  9 |      A scope that lets you see what cannot usually be seen. It is made by Silph Co. |
+|  548       19 |  |  11 |     人の　目に　見えない　ものを 見ることが　できる　スコープ。 シルフカンパニー製。 |
+|  548       19 |  |  12 |     西尔佛公司制造的透视镜。 可以看见人眼无法看见的东西。 |
+|  548       20 |  |  1 |      ひとの　めに　みえない　ものを みることが　できる　スコープ。 シルフカンパニーせい。 |
+|  548       20 |  |  3 |      사람의 눈에 보이지 않는 것을 볼 수 있게 해 주는 스코프. 실프주식회사 제품. |
+|  548       20 |  |  4 |      西爾佛公司製造的檢視鏡。 能看見人類肉眼 看不到的東西。 |
+|  548       20 |  |  5 |      Un appareil permettant de voir les Pokémon invisibles. Il est fabriqué par la Sylphe SARL. |
+|  548       20 |  |  6 |      Dieses Gerät macht Dinge sichtbar, die dem menschlichen Auge sonst verborgen bleiben. Es wurde von der Silph Company entwickelt. |
+|  548       20 |  |  7 |      Dispositivo que permite ver cosas que, de otra forma, resultarían invisibles para el ojo humano. Fabricado por Silph S. A. |
+|  548       20 |  |  8 |      Sonda che rivela i Pokémon invisibili, prodotta dalla Silph S.p.A. |
+|  548       20 |  |  9 |      A scope that lets you see what cannot usually be seen. It is made by Silph Co. |
+|  548       20 |  |  11 |     人の　目に　見えない　ものを 見ることが　できる　スコープ。 シルフカンパニー製。 |
+|  548       20 |  |  12 |     西尔佛公司制造的透视镜。 可以看见人眼无法看见的东西。 |
+|  549       6 |  |   9 |      Stores information on famous people for instant recall. |
+|  549       7 |  |   9 |      A device that enables you to recall what you've heard and seen about famous people. |
+|  550       6 |  |   9 |      A convenient case that holds TMs and HMs. |
+|  550       7 |  |   9 |      A case that holds TMs and HMs. It is attached to the BAG's compartment for important items. |
+|  550       19 |  |  1 |      ー ー ー |
+|  550       19 |  |  3 |      \- - - |
+|  550       19 |  |  4 |      ー ー ー |
+|  550       19 |  |  5 |      \- - - |
+|  550       19 |  |  6 |      \- - - |
+|  550       19 |  |  7 |       |
+|  550       19 |  |  8 |      \- - - |
+|  550       19 |  |  9 |      \- - - |
+|  550       19 |  |  11 |     ー ー ー |
+|  550       19 |  |  12 |     ー ー ー |
+|  550       20 |  |  1 |      ー ー ー |
+|  550       20 |  |  3 |      \- - - |
+|  550       20 |  |  4 |      ー ー ー |
+|  550       20 |  |  5 |      \- - - |
+|  550       20 |  |  6 |      \- - - |
+|  550       20 |  |  7 |       |
+|  550       20 |  |  8 |      \- - - |
+|  550       20 |  |  9 |      \- - - |
+|  550       20 |  |  11 |     ー ー ー |
+|  550       20 |  |  12 |     ー ー ー |
+|  551       6 |  |   9 |      A convenient container that holds BERRIES. |
+|  551       7 |  |   9 |      A pouch for carrying BERRIES. It is attached to the BAG's compartment for important items. |
+|  552       6 |  |   9 |      A TV set tuned to an advice program for TRAINERS. |
+|  552       7 |  |   9 |      A television set that is tuned to a program with useful tips for novice TRAINERS. |
+|  553       6 |  |   9 |      A pass for ferries between ONE, TWO, and THREE ISLAND. |
+|  553       7 |  |   9 |      A pass for ferries between ONE, TWO, and THREE ISLAND. It has a drawing of three islands. |
+|  554       6 |  |   9 |      For ferries serving VERMILION and the SEVII ISLANDS. |
+|  554       7 |  |   9 |      A pass for ferries between VERMILION and the SEVII ISLANDS. It features a drawing of a rainbow. |
+|  555       6 |  |   9 |      A thirst-quenching tea prepared by an old lady. |
+|  555       7 |  |   9 |      An aromatic tea prepared by an old lady. It will slake even the worst thirst. |
+|  555       19 |  |  1 |      すこし　にがくて こうばしい　かおりの　おちゃ。 かわいた　のどが　うるおう。 |
+|  555       19 |  |  3 |      약간 씁쓸하고 구수한 향기가 나는 차. 말랐던 목이 촉촉해진다. |
+|  555       19 |  |  4 |      散發著撲鼻芳香， 喝起來有點苦澀的茶。 能滋潤乾渴的喉嚨。 |
+|  555       19 |  |  5 |      Un thé aromatique légèrement amer. Il a des vertus désaltérantes. |
+|  555       19 |  |  6 |      Ein aromatischer Tee mit leicht bitterem Geschmack. Genau das Richtige, um den Durst zu stillen. |
+|  555       19 |  |  7 |      Un aromático té de sabor ligeramente amargo que resulta ideal para aplacar la sed. |
+|  555       19 |  |  8 |      Un tè fragrante dal sapore amarognolo. Molto dissetante. |
+|  555       19 |  |  9 |      Aromatic tea that has a slightly bitter taste. It soothes a dry throat. |
+|  555       19 |  |  11 |     すこし　苦くて 芳ばしい　香りの　お茶。 かわいた　喉が　うるおう。 |
+|  555       19 |  |  12 |     有一点点苦， 却又芬芳宜人的香茶。 抿一口，清咽润喉。 |
+|  555       20 |  |  1 |      すこし　にがくて こうばしい　かおりの　おちゃ。 かわいた　のどが　うるおう。 |
+|  555       20 |  |  3 |      약간 씁쓸하고 구수한 향기가 나는 차. 말랐던 목이 촉촉해진다. |
+|  555       20 |  |  4 |      散發著撲鼻芳香， 喝起來有點苦澀的茶。 能滋潤乾渴的喉嚨。 |
+|  555       20 |  |  5 |      Un thé aromatique légèrement amer. Il a des vertus désaltérantes. |
+|  555       20 |  |  6 |      Ein aromatischer Tee mit leicht bitterem Geschmack. Genau das Richtige, um den Durst zu stillen. |
+|  555       20 |  |  7 |      Un aromático té de sabor ligeramente amargo que resulta ideal para aplacar la sed. |
+|  555       20 |  |  8 |      Un tè fragrante dal sapore amarognolo. Molto dissetante. |
+|  555       20 |  |  9 |      Aromatic tea that has a slightly bitter taste. It soothes a dry throat. |
+|  555       20 |  |  11 |     すこし　苦くて 芳ばしい　香りの　お茶。 かわいた　喉が　うるおう。 |
+|  555       20 |  |  12 |     有一点点苦， 却又芬芳宜人的香茶。 抿一口，清咽润喉。 |
+|  556       6 |  |   9 |      A ticket required to board the ship to NAVEL ROCK. |
+|  556       7 |  |   9 |      A ticket required to board the ship to NAVEL ROCK. It glows with a mystic light. |
+|  557       6 |  |   9 |      A ticket required to board the ship to BIRTH ISLAND. |
+|  557       7 |  |   9 |      A ticket required to board the ship to BIRTH ISLAND. It glows beautifully. |
+|  558       6 |  |   9 |      Stores BERRY POWDER made using a BERRY CRUSHER. |
+|  558       7 |  |   9 |      A jar for storing BERRY POWDER made using a BERRY CRUSHER. |
+|  559       6 |  |   9 |      An exquisite, red- glowing gem that symbolizes passion. |
+|  559       7 |  |   9 |      An exquisitely beautiful gem that has a red glow. It symbolizes passion. |
+|  560       6 |  |   9 |      A brilliant blue gem that symbolizes honesty. |
+|  560       7 |  |   9 |      An exquisitely beautiful gem that has a blue glow. It symbolizes honesty. |
+|  561       6 |  |   9 |      A medal-like item in the same shape as TEAM MAGMA's mark. |
+|  562       6 |  |   9 |      A faded sea chart that shows the way to a certain island. |
+|  563       11 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Eau. |
+|  563       11 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to a Water-type move. |
+|  563       14 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to a Water-type move. |
+|  563       15 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが みずタイプになる　カセット。 |
+|  563       15 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트. |
+|  563       15 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Eau. |
+|  563       15 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um. |
+|  563       15 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo. |
+|  563       15 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua. |
+|  563       15 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type. |
+|  563       15 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が みずタイプになる　カセット。 |
+|  563       17 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが みずタイプになる　カセット。 |
+|  563       17 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트. |
+|  563       17 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為水屬性。 |
+|  563       17 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau. |
+|  563       17 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um. |
+|  563       17 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua. |
+|  563       17 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua. |
+|  563       17 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type. |
+|  563       17 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が みずタイプになる　カセット。 |
+|  563       17 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为水属性。 |
+|  563       18 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが みずタイプになる　カセット。 |
+|  563       18 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트. |
+|  563       18 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為水屬性。 |
+|  563       18 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau. |
+|  563       18 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um. |
+|  563       18 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua. |
+|  563       18 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua. |
+|  563       18 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type. |
+|  563       18 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が みずタイプになる　カセット。 |
+|  563       18 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为水属性。 |
+|  563       19 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが みずタイプになる　カセット。 |
+|  563       19 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트. |
+|  563       19 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為水屬性。 |
+|  563       19 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau. |
+|  563       19 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um. |
+|  563       19 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua. |
+|  563       19 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua. |
+|  563       19 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type. |
+|  563       19 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が みずタイプになる　カセット。 |
+|  563       19 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为水属性。 |
+|  563       20 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが みずタイプになる　カセット。 |
+|  563       20 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트. |
+|  563       20 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為水屬性。 |
+|  563       20 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Eau. |
+|  563       20 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um. |
+|  563       20 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua. |
+|  563       20 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Acqua. |
+|  563       20 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Water type. |
+|  563       20 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が みずタイプになる　カセット。 |
+|  563       20 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为水属性。 |
+|  564       11 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Électrik. |
+|  564       11 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move. |
+|  564       14 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move. |
+|  564       15 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが でんきタイプになる　カセット。 |
+|  564       15 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트. |
+|  564       15 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Électrik. |
+|  564       15 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um. |
+|  564       15 |  |  7 |      Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon. |
+|  564       15 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro. |
+|  564       15 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type. |
+|  564       15 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が でんきタイプになる　カセット。 |
+|  564       17 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが でんきタイプになる　カセット。 |
+|  564       17 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트. |
+|  564       17 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為電屬性。 |
+|  564       17 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik. |
+|  564       17 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um. |
+|  564       17 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico. |
+|  564       17 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro. |
+|  564       17 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type. |
+|  564       17 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が でんきタイプになる　カセット。 |
+|  564       17 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为电属性。 |
+|  564       18 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが でんきタイプになる　カセット。 |
+|  564       18 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트. |
+|  564       18 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為電屬性。 |
+|  564       18 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik. |
+|  564       18 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um. |
+|  564       18 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico. |
+|  564       18 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro. |
+|  564       18 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type. |
+|  564       18 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が でんきタイプになる　カセット。 |
+|  564       18 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为电属性。 |
+|  564       19 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが でんきタイプになる　カセット。 |
+|  564       19 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트. |
+|  564       19 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為電屬性。 |
+|  564       19 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik. |
+|  564       19 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um. |
+|  564       19 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico. |
+|  564       19 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro. |
+|  564       19 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type. |
+|  564       19 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が でんきタイプになる　カセット。 |
+|  564       19 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为电属性。 |
+|  564       20 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが でんきタイプになる　カセット。 |
+|  564       20 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트. |
+|  564       20 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為電屬性。 |
+|  564       20 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Électrik. |
+|  564       20 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um. |
+|  564       20 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico. |
+|  564       20 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Elettro. |
+|  564       20 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Electric type. |
+|  564       20 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が でんきタイプになる　カセット。 |
+|  564       20 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为电属性。 |
+|  565       11 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Feu. |
+|  565       11 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move. |
+|  565       14 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move. |
+|  565       15 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが ほのおタイプになる　カセット。 |
+|  565       15 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트. |
+|  565       15 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Feu. |
+|  565       15 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um. |
+|  565       15 |  |  7 |      Una esfera brillante que potencia los movimientos de tipo Acero y Dragón. Debe llevarla Dialga. |
+|  565       15 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco. |
+|  565       15 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type. |
+|  565       15 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が ほのおタイプになる　カセット。 |
+|  565       17 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが ほのおタイプになる　カセット。 |
+|  565       17 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트. |
+|  565       17 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為火屬性。 |
+|  565       17 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu. |
+|  565       17 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um. |
+|  565       17 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego. |
+|  565       17 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco. |
+|  565       17 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type. |
+|  565       17 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が ほのおタイプになる　カセット。 |
+|  565       17 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为火属性。 |
+|  565       18 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが ほのおタイプになる　カセット。 |
+|  565       18 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트. |
+|  565       18 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為火屬性。 |
+|  565       18 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu. |
+|  565       18 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um. |
+|  565       18 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego. |
+|  565       18 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco. |
+|  565       18 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type. |
+|  565       18 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が ほのおタイプになる　カセット。 |
+|  565       18 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为火属性。 |
+|  565       19 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが ほのおタイプになる　カセット。 |
+|  565       19 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트. |
+|  565       19 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為火屬性。 |
+|  565       19 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu. |
+|  565       19 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um. |
+|  565       19 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego. |
+|  565       19 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco. |
+|  565       19 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type. |
+|  565       19 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が ほのおタイプになる　カセット。 |
+|  565       19 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为火属性。 |
+|  565       20 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが ほのおタイプになる　カセット。 |
+|  565       20 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트. |
+|  565       20 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為火屬性。 |
+|  565       20 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Feu. |
+|  565       20 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um. |
+|  565       20 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego. |
+|  565       20 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Fuoco. |
+|  565       20 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Fire type. |
+|  565       20 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が ほのおタイプになる　カセット。 |
+|  565       20 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为火属性。 |
+|  566       11 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Glace. |
+|  566       11 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move. |
+|  566       14 |  |  9 |      A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move. |
+|  566       15 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが こおりタイプになる　カセット。 |
+|  566       15 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트. |
+|  566       15 |  |  5 |      Tenu par Genesect, ce module change la capacité TechnoBuster en une capacité de type Glace. |
+|  566       15 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um. |
+|  566       15 |  |  7 |      Una bonita esfera que potencia los movimientos de tipo Dragón y Agua. Debe llevarla Palkia. |
+|  566       15 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio. |
+|  566       15 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type. |
+|  566       15 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が こおりタイプになる　カセット。 |
+|  566       17 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが こおりタイプになる　カセット。 |
+|  566       17 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트. |
+|  566       17 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為冰屬性。 |
+|  566       17 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace. |
+|  566       17 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um. |
+|  566       17 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo. |
+|  566       17 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio. |
+|  566       17 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type. |
+|  566       17 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が こおりタイプになる　カセット。 |
+|  566       17 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为冰属性。 |
+|  566       18 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが こおりタイプになる　カセット。 |
+|  566       18 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트. |
+|  566       18 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為冰屬性。 |
+|  566       18 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace. |
+|  566       18 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um. |
+|  566       18 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo. |
+|  566       18 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio. |
+|  566       18 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type. |
+|  566       18 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が こおりタイプになる　カセット。 |
+|  566       18 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为冰属性。 |
+|  566       19 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが こおりタイプになる　カセット。 |
+|  566       19 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트. |
+|  566       19 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為冰屬性。 |
+|  566       19 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace. |
+|  566       19 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um. |
+|  566       19 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo. |
+|  566       19 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio. |
+|  566       19 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type. |
+|  566       19 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が こおりタイプになる　カセット。 |
+|  566       19 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为冰属性。 |
+|  566       20 |  |  1 |      ゲノセクトに　もたせると テクノバスターという　わざが こおりタイプになる　カセット。 |
+|  566       20 |  |  3 |      게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트. |
+|  566       20 |  |  4 |      讓蓋諾賽克特攜帶的卡帶。 攜帶後，招式高科技光炮 會變為冰屬性。 |
+|  566       20 |  |  5 |      Tenu par Genesect, ce module change la capacité Techno-Buster en une capacité de type Glace. |
+|  566       20 |  |  6 |      Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um. |
+|  566       20 |  |  7 |      Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo. |
+|  566       20 |  |  8 |      Modulo da dare a Genesect. Trasforma Tecnobotto in una mossa di tipo Ghiaccio. |
+|  566       20 |  |  9 |      A cassette to be held by Genesect. It changes Genesect's Techno Blast move so it becomes Ice type. |
+|  566       20 |  |  11 |     ゲノセクトに　持たせると テクノバスターという　技が こおりタイプになる　カセット。 |
+|  566       20 |  |  12 |     这是让盖诺赛克特携带的卡带。 携带后，高科技光炮这招式 就会变为冰属性。 |
+|  567       11 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV à un Pokémon. |
+|  567       11 |  |  9 |      Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. |
+|  567       14 |  |  9 |      Very sweet chocolate. It restores the HP of one Pokémon by only 20 points. |
+|  567       15 |  |  1 |      とても　あまったるい　チョコレート。 ポケモン　１ひきの　ＨＰを ２０だけ　かいふくする。 |
+|  567       15 |  |  3 |      지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다. |
+|  567       15 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. |
+|  567       15 |  |  6 |      Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt. |
+|  567       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para curarse del envenenamiento. |
+|  567       15 |  |  8 |      Cioccolato molto dolce. Restituisce 20 PS a un Pokémon. |
+|  567       15 |  |  9 |      A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon. |
+|  567       15 |  |  11 |     とても　甘ったるい　チョコレート。 ポケモン　１匹の　ＨＰを ２０だけ　回復する。 |
+|  567       17 |  |  1 |      とても　あまったるい　チョコレート。 ポケモン　１ひきの　ＨＰを ２０だけ　かいふくする。 |
+|  567       17 |  |  3 |      지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다. |
+|  567       17 |  |  4 |      非常甜膩的巧克力。 能讓１隻寶可夢 回復２０ＨＰ。 |
+|  567       17 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. |
+|  567       17 |  |  6 |      Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt. |
+|  567       17 |  |  7 |      Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon. |
+|  567       17 |  |  8 |      Cioccolato molto dolce. Restituisce 20 PS a un Pokémon. |
+|  567       17 |  |  9 |      A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon. |
+|  567       17 |  |  11 |     とても　甘ったるい　チョコレート。 ポケモン　１匹の　ＨＰを ２０だけ　回復する。 |
+|  567       17 |  |  12 |     非常甜腻的巧克力。 能让１只宝可梦 回复２０ＨＰ。 |
+|  567       18 |  |  1 |      とても　あまったるい　チョコレート。 ポケモン　１ひきの　ＨＰを ２０だけ　かいふくする。 |
+|  567       18 |  |  3 |      지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다. |
+|  567       18 |  |  4 |      非常甜膩的巧克力。 能讓１隻寶可夢 回復２０ＨＰ。 |
+|  567       18 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. |
+|  567       18 |  |  6 |      Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt. |
+|  567       18 |  |  7 |      Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon. |
+|  567       18 |  |  8 |      Cioccolato molto dolce. Restituisce 20 PS a un Pokémon. |
+|  567       18 |  |  9 |      A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon. |
+|  567       18 |  |  11 |     とても　甘ったるい　チョコレート。 ポケモン　１匹の　ＨＰを ２０だけ　回復する。 |
+|  567       18 |  |  12 |     非常甜腻的巧克力。 能让１只宝可梦 回复２０ＨＰ。 |
+|  567       19 |  |  1 |      とても　あまったるい　チョコレート。 ポケモン　１ひきの　ＨＰを ２０だけ　かいふくする。 |
+|  567       19 |  |  3 |      지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다. |
+|  567       19 |  |  4 |      非常甜膩的巧克力。 能讓１隻寶可夢 回復20HP。 |
+|  567       19 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. |
+|  567       19 |  |  6 |      Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt. |
+|  567       19 |  |  7 |      Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon. |
+|  567       19 |  |  8 |      Cioccolato molto dolce. Restituisce 20 PS a un Pokémon. |
+|  567       19 |  |  9 |      A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon. |
+|  567       19 |  |  11 |     とても　甘ったるい　チョコレート。 ポケモン　１匹の　ＨＰを ２０だけ　回復する。 |
+|  567       19 |  |  12 |     非常甜腻的巧克力。 能让１只宝可梦 回复20HP。 |
+|  567       20 |  |  1 |      とても　あまったるい　チョコレート。 ポケモン　１ひきの　ＨＰを ２０だけ　かいふくする。 |
+|  567       20 |  |  3 |      지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다. |
+|  567       20 |  |  4 |      非常甜膩的巧克力。 能讓１隻寶可夢 回復２０ＨＰ。 |
+|  567       20 |  |  5 |      Un chocolat extrêmement sucré. Restaure 20 PV d'un Pokémon. |
+|  567       20 |  |  6 |      Ein süßer Schokosnack, der die KP eines Pokémon um 20 Punkte auffüllt. |
+|  567       20 |  |  7 |      Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon. |
+|  567       20 |  |  8 |      Cioccolato molto dolce. Restituisce 20 PS a un Pokémon. |
+|  567       20 |  |  9 |      A piece of cloyingly sweet chocolate. It can be used to restore 20 HP to a single Pokémon. |
+|  567       20 |  |  11 |     とても　甘ったるい　チョコレート。 ポケモン　１匹の　ＨＰを ２０だけ　回復する。 |
+|  567       20 |  |  12 |     非常甜腻的巧克力。 能让１只宝可梦 回复２０ＨＰ。 |
+|  568       11 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       11 |  |  9 |      Stationery designed for introductory greetings. Let a Pokémon hold it for delivery. |
+|  568       14 |  |  9 |      Stationery designed for introductory greetings. Let a Pokémon hold it for delivery. |
+|  568       15 |  |  1 |      はじめましての　あいさつが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  568       15 |  |  3 |      첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  568       15 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       15 |  |  6 |      Briefpapier, mit dem man sich bei jemandem vorstellen kann. Gib es einem Pokémon zum Tragen. |
+|  568       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar 10 PP de un movimiento. |
+|  568       15 |  |  8 |      Carta da lettere ideale per presentarsi a qualcuno. Si può dare a un Pokémon affinché la consegni. |
+|  568       15 |  |  9 |      Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery. |
+|  568       15 |  |  11 |     はじめましての　あいさつが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  568       17 |  |  1 |      はじめましての　あいさつが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  568       17 |  |  3 |      첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  568       17 |  |  4 |      方便寫初次見面這類招呼語的信紙。 需讓寶可夢攜帶使用。 |
+|  568       17 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       17 |  |  6 |      Briefpapier, mit dem man sich bei jemandem vorstellen kann. Gib es einem Pokémon zum Tragen. |
+|  568       17 |  |  7 |      Carta para presentarse a alguien. Haz que la entregue un Pokémon. |
+|  568       17 |  |  8 |      Carta da lettere ideale per presentarsi a qualcuno. Si può dare a un Pokémon affinché la consegni. |
+|  568       17 |  |  9 |      Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery. |
+|  568       17 |  |  11 |     はじめましての　あいさつが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  568       17 |  |  12 |     方便写初次见面这类寒暄语的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  568       18 |  |  1 |      はじめましての　あいさつが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  568       18 |  |  3 |      첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  568       18 |  |  4 |      方便寫初次見面這類招呼語的信紙。 需讓寶可夢攜帶使用。 |
+|  568       18 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       18 |  |  6 |      Briefpapier, mit dem man sich bei jemandem vorstellen kann. Gib es einem Pokémon zum Tragen. |
+|  568       18 |  |  7 |      Carta para presentarse a alguien. Haz que la entregue un Pokémon. |
+|  568       18 |  |  8 |      Carta da lettere ideale per presentarsi a qualcuno. Si può dare a un Pokémon affinché la consegni. |
+|  568       18 |  |  9 |      Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery. |
+|  568       18 |  |  11 |     はじめましての　あいさつが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  568       18 |  |  12 |     方便写初次见面这类寒暄语的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  568       19 |  |  1 |      はじめましての　あいさつが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  568       19 |  |  3 |      첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  568       19 |  |  4 |      方便寫初次見面這類招呼語的信紙。 需讓寶可夢攜帶使用。 |
+|  568       19 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       19 |  |  6 |      Briefpapier, mit dem man sich bei jemandem vorstellen kann. Gib es einem Pokémon zum Tragen. |
+|  568       19 |  |  7 |      Carta para presentarse a alguien. Haz que la entregue un Pokémon. |
+|  568       19 |  |  8 |      Carta da lettere ideale per presentarsi a qualcuno. Si può dare a un Pokémon affinché la consegni. |
+|  568       19 |  |  9 |      Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery. |
+|  568       19 |  |  11 |     はじめましての　あいさつが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  568       19 |  |  12 |     方便写初次见面这类寒暄语的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  568       20 |  |  1 |      はじめましての　あいさつが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  568       20 |  |  3 |      첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  568       20 |  |  4 |      方便寫初次見面這類招呼語的信紙。 需讓寶可夢攜帶使用。 |
+|  568       20 |  |  5 |      Un papier à lettres idéal pour se présenter. Peut être tenu et livré par un Pokémon. |
+|  568       20 |  |  6 |      Briefpapier, mit dem man sich bei jemandem vorstellen kann. Gib es einem Pokémon zum Tragen. |
+|  568       20 |  |  7 |      Carta para presentarse a alguien. Haz que la entregue un Pokémon. |
+|  568       20 |  |  8 |      Carta da lettere ideale per presentarsi a qualcuno. Si può dare a un Pokémon affinché la consegni. |
+|  568       20 |  |  9 |      Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery. |
+|  568       20 |  |  11 |     はじめましての　あいさつが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  568       20 |  |  12 |     方便写初次见面这类寒暄语的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  569       11 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       11 |  |  9 |      Stationery designed for writing about your favorite things. Let a Pokémon hold it for delivery. |
+|  569       14 |  |  9 |      Stationery designed for writing about your favorite things. Let a Pokémon hold it for delivery. |
+|  569       15 |  |  1 |      すきなものを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  569       15 |  |  3 |      좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  569       15 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       15 |  |  6 |      Briefpapier, mit dem man jemandem verraten kann, was man gern mag. Gib es einem Pokémon zum Tragen. |
+|  569       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar 10 PS. |
+|  569       15 |  |  8 |      Carta da lettere ideale per parlare di ciò che si ama. Si può dare a un Pokémon affinché la consegni. |
+|  569       15 |  |  9 |      Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery. |
+|  569       15 |  |  11 |     好きなものを　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  569       17 |  |  1 |      すきなものを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  569       17 |  |  3 |      좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  569       17 |  |  4 |      方便寫表達自己喜好這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  569       17 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       17 |  |  6 |      Briefpapier, mit dem man jemandem verraten kann, was man gern mag. Gib es einem Pokémon zum Tragen. |
+|  569       17 |  |  7 |      Carta para escribir sobre tus cosas favoritas. Haz que la entregue un Pokémon. |
+|  569       17 |  |  8 |      Carta da lettere ideale per parlare di ciò che si ama. Si può dare a un Pokémon affinché la consegni. |
+|  569       17 |  |  9 |      Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery. |
+|  569       17 |  |  11 |     好きなものを　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  569       17 |  |  12 |     方便写表达自己喜好这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  569       18 |  |  1 |      すきなものを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  569       18 |  |  3 |      좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  569       18 |  |  4 |      方便寫表達自己喜好這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  569       18 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       18 |  |  6 |      Briefpapier, mit dem man jemandem verraten kann, was man gern mag. Gib es einem Pokémon zum Tragen. |
+|  569       18 |  |  7 |      Carta para escribir sobre tus cosas favoritas. Haz que la entregue un Pokémon. |
+|  569       18 |  |  8 |      Carta da lettere ideale per parlare di ciò che si ama. Si può dare a un Pokémon affinché la consegni. |
+|  569       18 |  |  9 |      Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery. |
+|  569       18 |  |  11 |     好きなものを　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  569       18 |  |  12 |     方便写表达自己喜好这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  569       19 |  |  1 |      すきなものを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  569       19 |  |  3 |      좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  569       19 |  |  4 |      方便寫表達自己喜好這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  569       19 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       19 |  |  6 |      Briefpapier, mit dem man jemandem verraten kann, was man gern mag. Gib es einem Pokémon zum Tragen. |
+|  569       19 |  |  7 |      Carta para escribir sobre tus cosas favoritas. Haz que la entregue un Pokémon. |
+|  569       19 |  |  8 |      Carta da lettere ideale per parlare di ciò che si ama. Si può dare a un Pokémon affinché la consegni. |
+|  569       19 |  |  9 |      Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery. |
+|  569       19 |  |  11 |     好きなものを　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  569       19 |  |  12 |     方便写表达自己喜好这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  569       20 |  |  1 |      すきなものを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  569       20 |  |  3 |      좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  569       20 |  |  4 |      方便寫表達自己喜好這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  569       20 |  |  5 |      Un papier à lettres idéal pour parler de ce que l'on aime. Peut être tenu et livré par un Pokémon. |
+|  569       20 |  |  6 |      Briefpapier, mit dem man jemandem verraten kann, was man gern mag. Gib es einem Pokémon zum Tragen. |
+|  569       20 |  |  7 |      Carta para escribir sobre tus cosas favoritas. Haz que la entregue un Pokémon. |
+|  569       20 |  |  8 |      Carta da lettere ideale per parlare di ciò che si ama. Si può dare a un Pokémon affinché la consegni. |
+|  569       20 |  |  9 |      Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery. |
+|  569       20 |  |  11 |     好きなものを　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  569       20 |  |  12 |     方便写表达自己喜好这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  570       11 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       11 |  |  9 |      Stationery designed for invitations. Let a Pokémon hold it for delivery. |
+|  570       14 |  |  9 |      Stationery designed for invitations. Let a Pokémon hold it for delivery. |
+|  570       15 |  |  1 |      あいてを　おさそいする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  570       15 |  |  3 |      상대를 초대하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  570       15 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       15 |  |  6 |      Briefpapier, mit dem man eine andere Person zu etwas einladen kann. Gib es einem Pokémon zum Tragen. |
+|  570       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para librarse de la confusión. |
+|  570       15 |  |  8 |      Carta da lettere ideale per scrivere un invito. Si può dare a un Pokémon affinché la consegni. |
+|  570       15 |  |  9 |      Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery. |
+|  570       15 |  |  11 |     相手を　お誘いする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  570       17 |  |  1 |      あいてを　おさそいする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  570       17 |  |  3 |      상대를 초대하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  570       17 |  |  4 |      方便寫邀請對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  570       17 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       17 |  |  6 |      Briefpapier, mit dem man eine andere Person zu etwas einladen kann. Gib es einem Pokémon zum Tragen. |
+|  570       17 |  |  7 |      Carta para invitar a un compañero. Haz que la entregue un Pokémon. |
+|  570       17 |  |  8 |      Carta da lettere ideale per scrivere un invito. Si può dare a un Pokémon affinché la consegni. |
+|  570       17 |  |  9 |      Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery. |
+|  570       17 |  |  11 |     相手を　お誘いする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  570       17 |  |  12 |     方便写邀请对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  570       18 |  |  1 |      あいてを　おさそいする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  570       18 |  |  3 |      상대를 초대하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  570       18 |  |  4 |      方便寫邀請對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  570       18 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       18 |  |  6 |      Briefpapier, mit dem man eine andere Person zu etwas einladen kann. Gib es einem Pokémon zum Tragen. |
+|  570       18 |  |  7 |      Carta para invitar a un compañero. Haz que la entregue un Pokémon. |
+|  570       18 |  |  8 |      Carta da lettere ideale per scrivere un invito. Si può dare a un Pokémon affinché la consegni. |
+|  570       18 |  |  9 |      Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery. |
+|  570       18 |  |  11 |     相手を　お誘いする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  570       18 |  |  12 |     方便写邀请对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  570       19 |  |  1 |      あいてを　おさそいする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  570       19 |  |  3 |      상대를 초대하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  570       19 |  |  4 |      方便寫邀請對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  570       19 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       19 |  |  6 |      Briefpapier, mit dem man eine andere Person zu etwas einladen kann. Gib es einem Pokémon zum Tragen. |
+|  570       19 |  |  7 |      Carta para invitar a un compañero. Haz que la entregue un Pokémon. |
+|  570       19 |  |  8 |      Carta da lettere ideale per scrivere un invito. Si può dare a un Pokémon affinché la consegni. |
+|  570       19 |  |  9 |      Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery. |
+|  570       19 |  |  11 |     相手を　お誘いする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  570       19 |  |  12 |     方便写邀请对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  570       20 |  |  1 |      あいてを　おさそいする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  570       20 |  |  3 |      상대를 초대하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  570       20 |  |  4 |      方便寫邀請對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  570       20 |  |  5 |      Un papier à lettres idéal pour les invitations. Peut être tenu et livré par un Pokémon. |
+|  570       20 |  |  6 |      Briefpapier, mit dem man eine andere Person zu etwas einladen kann. Gib es einem Pokémon zum Tragen. |
+|  570       20 |  |  7 |      Carta para invitar a un compañero. Haz que la entregue un Pokémon. |
+|  570       20 |  |  8 |      Carta da lettere ideale per scrivere un invito. Si può dare a un Pokémon affinché la consegni. |
+|  570       20 |  |  9 |      Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery. |
+|  570       20 |  |  11 |     相手を　お誘いする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  570       20 |  |  12 |     方便写邀请对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  571       11 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       11 |  |  9 |      Stationery designed for a thank-you note. Let a Pokémon hold it for delivery. |
+|  571       14 |  |  9 |      Stationery designed for a thank-you note. Let a Pokémon hold it for delivery. |
+|  571       15 |  |  1 |      かんしゃを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  571       15 |  |  3 |      감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  571       15 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       15 |  |  6 |      Briefpapier, mit dem man sich bei jemandem bedanken kann. Gib es einem Pokémon zum Tragen. |
+|  571       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para recuperarse de problemas de estado. |
+|  571       15 |  |  8 |      Carta da lettere ideale per scrivere dei ringraziamenti. Si può dare a un Pokémon affinché la consegni. |
+|  571       15 |  |  9 |      Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery. |
+|  571       15 |  |  11 |     感謝を　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  571       17 |  |  1 |      かんしゃを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  571       17 |  |  3 |      감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  571       17 |  |  4 |      方便寫表達感謝這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  571       17 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       17 |  |  6 |      Briefpapier, mit dem man sich bei jemandem bedanken kann. Gib es einem Pokémon zum Tragen. |
+|  571       17 |  |  7 |      Carta de agradecimiento. Haz que la entregue un Pokémon. |
+|  571       17 |  |  8 |      Carta da lettere ideale per scrivere dei ringraziamenti. Si può dare a un Pokémon affinché la consegni. |
+|  571       17 |  |  9 |      Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery. |
+|  571       17 |  |  11 |     感謝を　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  571       17 |  |  12 |     方便写表达感谢这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  571       18 |  |  1 |      かんしゃを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  571       18 |  |  3 |      감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  571       18 |  |  4 |      方便寫表達感謝這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  571       18 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       18 |  |  6 |      Briefpapier, mit dem man sich bei jemandem bedanken kann. Gib es einem Pokémon zum Tragen. |
+|  571       18 |  |  7 |      Carta de agradecimiento. Haz que la entregue un Pokémon. |
+|  571       18 |  |  8 |      Carta da lettere ideale per scrivere dei ringraziamenti. Si può dare a un Pokémon affinché la consegni. |
+|  571       18 |  |  9 |      Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery. |
+|  571       18 |  |  11 |     感謝を　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  571       18 |  |  12 |     方便写表达感谢这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  571       19 |  |  1 |      かんしゃを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  571       19 |  |  3 |      감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  571       19 |  |  4 |      方便寫表達感謝這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  571       19 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       19 |  |  6 |      Briefpapier, mit dem man sich bei jemandem bedanken kann. Gib es einem Pokémon zum Tragen. |
+|  571       19 |  |  7 |      Carta de agradecimiento. Haz que la entregue un Pokémon. |
+|  571       19 |  |  8 |      Carta da lettere ideale per scrivere dei ringraziamenti. Si può dare a un Pokémon affinché la consegni. |
+|  571       19 |  |  9 |      Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery. |
+|  571       19 |  |  11 |     感謝を　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  571       19 |  |  12 |     方便写表达感谢这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  571       20 |  |  1 |      かんしゃを　つたえる　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  571       20 |  |  3 |      감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  571       20 |  |  4 |      方便寫表達感謝這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  571       20 |  |  5 |      Un papier à lettres idéal pour les remerciements. Peut être tenu et livré par un Pokémon. |
+|  571       20 |  |  6 |      Briefpapier, mit dem man sich bei jemandem bedanken kann. Gib es einem Pokémon zum Tragen. |
+|  571       20 |  |  7 |      Carta de agradecimiento. Haz que la entregue un Pokémon. |
+|  571       20 |  |  8 |      Carta da lettere ideale per scrivere dei ringraziamenti. Si può dare a un Pokémon affinché la consegni. |
+|  571       20 |  |  9 |      Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery. |
+|  571       20 |  |  11 |     感謝を　伝える　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  571       20 |  |  12 |     方便写表达感谢这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  572       11 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       11 |  |  9 |      Stationery designed for writing questions. Let a Pokémon hold it for delivery. |
+|  572       14 |  |  9 |      Stationery designed for writing questions. Let a Pokémon hold it for delivery. |
+|  572       15 |  |  1 |      あいてへの　しつもんの　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  572       15 |  |  3 |      상대에게 질문하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  572       15 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       15 |  |  6 |      Briefpapier, mit dem man jemandem eine Frage stellen kann. Gib es einem Pokémon zum Tragen. |
+|  572       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. |
+|  572       15 |  |  8 |      Carta da lettere ideale per scrivere una domanda. Si può dare a un Pokémon affinché la consegni. |
+|  572       15 |  |  9 |      Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery. |
+|  572       15 |  |  11 |     相手への　質問の　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  572       17 |  |  1 |      あいてへの　しつもんの　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  572       17 |  |  3 |      상대에게 질문하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  572       17 |  |  4 |      方便寫詢問對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  572       17 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       17 |  |  6 |      Briefpapier, mit dem man jemandem eine Frage stellen kann. Gib es einem Pokémon zum Tragen. |
+|  572       17 |  |  7 |      Carta para preguntar a un compañero. Haz que la entregue un Pokémon. |
+|  572       17 |  |  8 |      Carta da lettere ideale per scrivere una domanda. Si può dare a un Pokémon affinché la consegni. |
+|  572       17 |  |  9 |      Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery. |
+|  572       17 |  |  11 |     相手への　質問の　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  572       17 |  |  12 |     方便写询问对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  572       18 |  |  1 |      あいてへの　しつもんの　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  572       18 |  |  3 |      상대에게 질문하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  572       18 |  |  4 |      方便寫詢問對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  572       18 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       18 |  |  6 |      Briefpapier, mit dem man jemandem eine Frage stellen kann. Gib es einem Pokémon zum Tragen. |
+|  572       18 |  |  7 |      Carta para preguntar a un compañero. Haz que la entregue un Pokémon. |
+|  572       18 |  |  8 |      Carta da lettere ideale per scrivere una domanda. Si può dare a un Pokémon affinché la consegni. |
+|  572       18 |  |  9 |      Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery. |
+|  572       18 |  |  11 |     相手への　質問の　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  572       18 |  |  12 |     方便写询问对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  572       19 |  |  1 |      あいてへの　しつもんの　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  572       19 |  |  3 |      상대에게 질문하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  572       19 |  |  4 |      方便寫詢問對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  572       19 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       19 |  |  6 |      Briefpapier, mit dem man jemandem eine Frage stellen kann. Gib es einem Pokémon zum Tragen. |
+|  572       19 |  |  7 |      Carta para preguntar a un compañero. Haz que la entregue un Pokémon. |
+|  572       19 |  |  8 |      Carta da lettere ideale per scrivere una domanda. Si può dare a un Pokémon affinché la consegni. |
+|  572       19 |  |  9 |      Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery. |
+|  572       19 |  |  11 |     相手への　質問の　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  572       19 |  |  12 |     方便写询问对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  572       20 |  |  1 |      あいてへの　しつもんの　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  572       20 |  |  3 |      상대에게 질문하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  572       20 |  |  4 |      方便寫詢問對方這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  572       20 |  |  5 |      Un papier à lettres idéal pour poser des questions. Peut être tenu et livré par un Pokémon. |
+|  572       20 |  |  6 |      Briefpapier, mit dem man jemandem eine Frage stellen kann. Gib es einem Pokémon zum Tragen. |
+|  572       20 |  |  7 |      Carta para preguntar a un compañero. Haz que la entregue un Pokémon. |
+|  572       20 |  |  8 |      Carta da lettere ideale per scrivere una domanda. Si può dare a un Pokémon affinché la consegni. |
+|  572       20 |  |  9 |      Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery. |
+|  572       20 |  |  11 |     相手への　質問の　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  572       20 |  |  12 |     方便写询问对方这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  573       11 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       11 |  |  9 |      Stationery designed for writing recommendations. Let a Pokémon hold it for delivery. |
+|  573       14 |  |  9 |      Stationery designed for writing recommendations. Let a Pokémon hold it for delivery. |
+|  573       15 |  |  1 |      なにかを　おすすめする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  573       15 |  |  3 |      뭔가 추천하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  573       15 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       15 |  |  6 |      Briefpapier, mit dem man jemandem einen Tipp geben kann. Gib es einem Pokémon zum Tragen. |
+|  573       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión. |
+|  573       15 |  |  8 |      Carta da lettere ideale per scrivere un consiglio. Si può dare a un Pokémon affinché la consegni. |
+|  573       15 |  |  9 |      Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery. |
+|  573       15 |  |  11 |     なにかを　おすすめする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  573       17 |  |  1 |      なにかを　おすすめする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  573       17 |  |  3 |      뭔가 추천하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  573       17 |  |  4 |      方便寫推薦內容這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  573       17 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       17 |  |  6 |      Briefpapier, mit dem man jemandem einen Tipp geben kann. Gib es einem Pokémon zum Tragen. |
+|  573       17 |  |  7 |      Carta para recomendar algo. Haz que la entregue un Pokémon. |
+|  573       17 |  |  8 |      Carta da lettere ideale per scrivere un consiglio. Si può dare a un Pokémon affinché la consegni. |
+|  573       17 |  |  9 |      Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery. |
+|  573       17 |  |  11 |     なにかを　おすすめする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  573       17 |  |  12 |     方便写推荐内容这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  573       18 |  |  1 |      なにかを　おすすめする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  573       18 |  |  3 |      뭔가 추천하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  573       18 |  |  4 |      方便寫推薦內容這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  573       18 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       18 |  |  6 |      Briefpapier, mit dem man jemandem einen Tipp geben kann. Gib es einem Pokémon zum Tragen. |
+|  573       18 |  |  7 |      Carta para recomendar algo. Haz que la entregue un Pokémon. |
+|  573       18 |  |  8 |      Carta da lettere ideale per scrivere un consiglio. Si può dare a un Pokémon affinché la consegni. |
+|  573       18 |  |  9 |      Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery. |
+|  573       18 |  |  11 |     なにかを　おすすめする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  573       18 |  |  12 |     方便写推荐内容这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  573       19 |  |  1 |      なにかを　おすすめする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  573       19 |  |  3 |      뭔가 추천하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  573       19 |  |  4 |      方便寫推薦內容這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  573       19 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       19 |  |  6 |      Briefpapier, mit dem man jemandem einen Tipp geben kann. Gib es einem Pokémon zum Tragen. |
+|  573       19 |  |  7 |      Carta para recomendar algo. Haz que la entregue un Pokémon. |
+|  573       19 |  |  8 |      Carta da lettere ideale per scrivere un consiglio. Si può dare a un Pokémon affinché la consegni. |
+|  573       19 |  |  9 |      Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery. |
+|  573       19 |  |  11 |     なにかを　おすすめする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  573       19 |  |  12 |     方便写推荐内容这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  573       20 |  |  1 |      なにかを　おすすめする　メールが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  573       20 |  |  3 |      뭔가 추천하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  573       20 |  |  4 |      方便寫推薦內容這類郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  573       20 |  |  5 |      Un papier à lettres idéal pour donner des conseils. Peut être tenu et livré par un Pokémon. |
+|  573       20 |  |  6 |      Briefpapier, mit dem man jemandem einen Tipp geben kann. Gib es einem Pokémon zum Tragen. |
+|  573       20 |  |  7 |      Carta para recomendar algo. Haz que la entregue un Pokémon. |
+|  573       20 |  |  8 |      Carta da lettere ideale per scrivere un consiglio. Si può dare a un Pokémon affinché la consegni. |
+|  573       20 |  |  9 |      Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery. |
+|  573       20 |  |  11 |     なにかを　おすすめする　メールが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  573       20 |  |  12 |     方便写推荐内容这类邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  574       11 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       11 |  |  9 |      Stationery designed for writing a reply. Let a Pokémon hold it for delivery. |
+|  574       14 |  |  9 |      Stationery designed for writing a reply. Let a Pokémon hold it for delivery. |
+|  574       15 |  |  1 |      もらった　メールへの　おかえしが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  574       15 |  |  3 |      받은 메일에 대한 답장을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  574       15 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       15 |  |  6 |      Briefpapier, mit dem man einen anderen Brief beantworten kann. Gib es einem Pokémon zum Tragen. |
+|  574       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión. |
+|  574       15 |  |  8 |      Carta da lettere ideale per scrivere una risposta a un messaggio. Si può dare a un Pokémon affinché la consegni. |
+|  574       15 |  |  9 |      Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery. |
+|  574       15 |  |  11 |     もらった　メールへの　お返しが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  574       17 |  |  1 |      もらった　メールへの　おかえしが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  574       17 |  |  3 |      받은 메일에 대한 답장을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  574       17 |  |  4 |      方便寫回覆郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  574       17 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       17 |  |  6 |      Briefpapier, mit dem man einen anderen Brief beantworten kann. Gib es einem Pokémon zum Tragen. |
+|  574       17 |  |  7 |      Carta para responder a un mensaje. Haz que la entregue un Pokémon. |
+|  574       17 |  |  8 |      Carta da lettere ideale per scrivere una risposta a un messaggio. Si può dare a un Pokémon affinché la consegni. |
+|  574       17 |  |  9 |      Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery. |
+|  574       17 |  |  11 |     もらった　メールへの　お返しが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  574       17 |  |  12 |     方便写回复邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  574       18 |  |  1 |      もらった　メールへの　おかえしが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  574       18 |  |  3 |      받은 메일에 대한 답장을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  574       18 |  |  4 |      方便寫回覆郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  574       18 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       18 |  |  6 |      Briefpapier, mit dem man einen anderen Brief beantworten kann. Gib es einem Pokémon zum Tragen. |
+|  574       18 |  |  7 |      Carta para responder a un mensaje. Haz que la entregue un Pokémon. |
+|  574       18 |  |  8 |      Carta da lettere ideale per scrivere una risposta a un messaggio. Si può dare a un Pokémon affinché la consegni. |
+|  574       18 |  |  9 |      Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery. |
+|  574       18 |  |  11 |     もらった　メールへの　お返しが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  574       18 |  |  12 |     方便写回复邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  574       19 |  |  1 |      もらった　メールへの　おかえしが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  574       19 |  |  3 |      받은 메일에 대한 답장을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  574       19 |  |  4 |      方便寫回覆郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  574       19 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       19 |  |  6 |      Briefpapier, mit dem man einen anderen Brief beantworten kann. Gib es einem Pokémon zum Tragen. |
+|  574       19 |  |  7 |      Carta para responder a un mensaje. Haz que la entregue un Pokémon. |
+|  574       19 |  |  8 |      Carta da lettere ideale per scrivere una risposta a un messaggio. Si può dare a un Pokémon affinché la consegni. |
+|  574       19 |  |  9 |      Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery. |
+|  574       19 |  |  11 |     もらった　メールへの　お返しが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  574       19 |  |  12 |     方便写回复邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  574       20 |  |  1 |      もらった　メールへの　おかえしが かきやすい　びんせん。 ポケモンに　もたせて　つかう。 |
+|  574       20 |  |  3 |      받은 메일에 대한 답장을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  574       20 |  |  4 |      方便寫回覆郵件的信紙。 需讓寶可夢攜帶使用。 |
+|  574       20 |  |  5 |      Un papier à lettres idéal pour répondre à un autre courrier. Peut être tenu et livré par un Pokémon. |
+|  574       20 |  |  6 |      Briefpapier, mit dem man einen anderen Brief beantworten kann. Gib es einem Pokémon zum Tragen. |
+|  574       20 |  |  7 |      Carta para responder a un mensaje. Haz que la entregue un Pokémon. |
+|  574       20 |  |  8 |      Carta da lettere ideale per scrivere una risposta a un messaggio. Si può dare a un Pokémon affinché la consegni. |
+|  574       20 |  |  9 |      Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery. |
+|  574       20 |  |  11 |     もらった　メールへの　お返しが 書きやすい　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  574       20 |  |  12 |     方便写回复邮件的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  575       11 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       11 |  |  9 |      Stationery featuring a print of a sky-piercing bridge. Let a Pokémon hold it for use. |
+|  575       14 |  |  9 |      Stationery featuring a print of a sky-piercing bridge. Let a Pokémon hold it for use. |
+|  575       15 |  |  1 |      そらを　つらぬく　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  575       15 |  |  3 |      하늘을 관통하는 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  575       15 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       15 |  |  6 |      Das Briefpapier hat eine weit in den Himmel ragende Brücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  575       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión. |
+|  575       15 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte sospeso nel cielo. Si può dare a un Pokémon affinché la consegni. |
+|  575       15 |  |  9 |      Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery. |
+|  575       15 |  |  11 |     空を　つらぬく　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  575       17 |  |  1 |      そらを　つらぬく　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  575       17 |  |  3 |      하늘을 관통하는 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  575       17 |  |  4 |      印有通天橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  575       17 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       17 |  |  6 |      Das Briefpapier hat eine weit in den Himmel ragende Brücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  575       17 |  |  7 |      Carta con la imagen de un puente que se alza hacia el cielo. Haz que la entregue un Pokémon. |
+|  575       17 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte sospeso nel cielo. Si può dare a un Pokémon affinché la consegni. |
+|  575       17 |  |  9 |      Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery. |
+|  575       17 |  |  11 |     空を　つらぬく　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  575       17 |  |  12 |     印有通天桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  575       18 |  |  1 |      そらを　つらぬく　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  575       18 |  |  3 |      하늘을 관통하는 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  575       18 |  |  4 |      印有通天橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  575       18 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       18 |  |  6 |      Das Briefpapier hat eine weit in den Himmel ragende Brücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  575       18 |  |  7 |      Carta con la imagen de un puente que se alza hacia el cielo. Haz que la entregue un Pokémon. |
+|  575       18 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte sospeso nel cielo. Si può dare a un Pokémon affinché la consegni. |
+|  575       18 |  |  9 |      Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery. |
+|  575       18 |  |  11 |     空を　つらぬく　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  575       18 |  |  12 |     印有通天桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  575       19 |  |  1 |      そらを　つらぬく　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  575       19 |  |  3 |      하늘을 관통하는 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  575       19 |  |  4 |      印有通天橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  575       19 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       19 |  |  6 |      Das Briefpapier hat eine weit in den Himmel ragende Brücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  575       19 |  |  7 |      Carta con la imagen de un puente que se alza hacia el cielo. Haz que la entregue un Pokémon. |
+|  575       19 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte sospeso nel cielo. Si può dare a un Pokémon affinché la consegni. |
+|  575       19 |  |  9 |      Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery. |
+|  575       19 |  |  11 |     空を　つらぬく　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  575       19 |  |  12 |     印有通天桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  575       20 |  |  1 |      そらを　つらぬく　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  575       20 |  |  3 |      하늘을 관통하는 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  575       20 |  |  4 |      印有通天橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  575       20 |  |  5 |      Un papier à lettres avec un motif de pont traversant le ciel. Peut être tenu et livré par un Pokémon. |
+|  575       20 |  |  6 |      Das Briefpapier hat eine weit in den Himmel ragende Brücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  575       20 |  |  7 |      Carta con la imagen de un puente que se alza hacia el cielo. Haz que la entregue un Pokémon. |
+|  575       20 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte sospeso nel cielo. Si può dare a un Pokémon affinché la consegni. |
+|  575       20 |  |  9 |      Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery. |
+|  575       20 |  |  11 |     空を　つらぬく　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  575       20 |  |  12 |     印有通天桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  576       11 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       11 |  |  9 |      Stationery featuring a print of a red drawbridge. Let a Pokémon hold it for use. |
+|  576       14 |  |  9 |      Stationery featuring a print of a red drawbridge. Let a Pokémon hold it for use. |
+|  576       15 |  |  1 |      まっかな　はねばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  576       15 |  |  3 |      새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  576       15 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       15 |  |  6 |      Das Briefpapier hat eine knallrote Zugbrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  576       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión. |
+|  576       15 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte mobile di colore rosso fuoco. Si può dare a un Pokémon affinché la consegni. |
+|  576       15 |  |  9 |      Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery. |
+|  576       15 |  |  11 |     真っ赤な　跳ね橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  576       17 |  |  1 |      まっかな　はねばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  576       17 |  |  3 |      새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  576       17 |  |  4 |      印有大紅色活動橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  576       17 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       17 |  |  6 |      Das Briefpapier hat eine knallrote Zugbrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  576       17 |  |  7 |      Carta con la imagen de un puente levadizo de color rojo. Haz que la entregue un Pokémon. |
+|  576       17 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte mobile di colore rosso fuoco. Si può dare a un Pokémon affinché la consegni. |
+|  576       17 |  |  9 |      Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery. |
+|  576       17 |  |  11 |     真っ赤な　跳ね橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  576       17 |  |  12 |     印有鲜红色活动桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  576       18 |  |  1 |      まっかな　はねばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  576       18 |  |  3 |      새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  576       18 |  |  4 |      印有大紅色活動橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  576       18 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       18 |  |  6 |      Das Briefpapier hat eine knallrote Zugbrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  576       18 |  |  7 |      Carta con la imagen de un puente levadizo de color rojo. Haz que la entregue un Pokémon. |
+|  576       18 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte mobile di colore rosso fuoco. Si può dare a un Pokémon affinché la consegni. |
+|  576       18 |  |  9 |      Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery. |
+|  576       18 |  |  11 |     真っ赤な　跳ね橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  576       18 |  |  12 |     印有鲜红色活动桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  576       19 |  |  1 |      まっかな　はねばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  576       19 |  |  3 |      새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  576       19 |  |  4 |      印有大紅色活動橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  576       19 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       19 |  |  6 |      Das Briefpapier hat eine knallrote Zugbrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  576       19 |  |  7 |      Carta con la imagen de un puente levadizo de color rojo. Haz que la entregue un Pokémon. |
+|  576       19 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte mobile di colore rosso fuoco. Si può dare a un Pokémon affinché la consegni. |
+|  576       19 |  |  9 |      Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery. |
+|  576       19 |  |  11 |     真っ赤な　跳ね橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  576       19 |  |  12 |     印有鲜红色活动桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  576       20 |  |  1 |      まっかな　はねばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  576       20 |  |  3 |      새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  576       20 |  |  4 |      印有大紅色活動橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  576       20 |  |  5 |      Un papier à lettres avec un motif de pont mobile rouge. Peut être tenu et livré par un Pokémon. |
+|  576       20 |  |  6 |      Das Briefpapier hat eine knallrote Zugbrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  576       20 |  |  7 |      Carta con la imagen de un puente levadizo de color rojo. Haz que la entregue un Pokémon. |
+|  576       20 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte mobile di colore rosso fuoco. Si può dare a un Pokémon affinché la consegni. |
+|  576       20 |  |  9 |      Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery. |
+|  576       20 |  |  11 |     真っ赤な　跳ね橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  576       20 |  |  12 |     印有鲜红色活动桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  577       11 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       11 |  |  9 |      Stationery featuring a print of a steel suspension bridge. Let a Pokémon hold it for use. |
+|  577       14 |  |  9 |      Stationery featuring a print of a steel suspension bridge. Let a Pokémon hold it for use. |
+|  577       15 |  |  1 |      こうてつの　つりばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  577       15 |  |  3 |      강철의 현수교 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  577       15 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       15 |  |  6 |      Das Briefpapier hat eine stählerne Hängebrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  577       15 |  |  7 |      Los Pokémon pueden llevarla o usarla para restaurar algunos PS. Su sabor puede causar confusión. |
+|  577       15 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte d'acciaio sospeso. Si può dare a un Pokémon affinché la consegni. |
+|  577       15 |  |  9 |      Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery. |
+|  577       15 |  |  11 |     鋼鉄の　つり橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  577       17 |  |  1 |      こうてつの　つりばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  577       17 |  |  3 |      강철의 현수교 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  577       17 |  |  4 |      印有鋼鐵懸索橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  577       17 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       17 |  |  6 |      Das Briefpapier hat eine stählerne Hängebrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  577       17 |  |  7 |      Carta con la imagen de un puente colgante de acero. Haz que la entregue un Pokémon. |
+|  577       17 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte d'acciaio sospeso. Si può dare a un Pokémon affinché la consegni. |
+|  577       17 |  |  9 |      Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery. |
+|  577       17 |  |  11 |     鋼鉄の　つり橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  577       17 |  |  12 |     印有钢铁悬索桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  577       18 |  |  1 |      こうてつの　つりばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  577       18 |  |  3 |      강철의 현수교 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  577       18 |  |  4 |      印有鋼鐵懸索橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  577       18 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       18 |  |  6 |      Das Briefpapier hat eine stählerne Hängebrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  577       18 |  |  7 |      Carta con la imagen de un puente colgante de acero. Haz que la entregue un Pokémon. |
+|  577       18 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte d'acciaio sospeso. Si può dare a un Pokémon affinché la consegni. |
+|  577       18 |  |  9 |      Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery. |
+|  577       18 |  |  11 |     鋼鉄の　つり橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  577       18 |  |  12 |     印有钢铁悬索桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  577       19 |  |  1 |      こうてつの　つりばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  577       19 |  |  3 |      강철의 현수교 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  577       19 |  |  4 |      印有鋼鐵懸索橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  577       19 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       19 |  |  6 |      Das Briefpapier hat eine stählerne Hängebrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  577       19 |  |  7 |      Carta con la imagen de un puente colgante de acero. Haz que la entregue un Pokémon. |
+|  577       19 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte d'acciaio sospeso. Si può dare a un Pokémon affinché la consegni. |
+|  577       19 |  |  9 |      Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery. |
+|  577       19 |  |  11 |     鋼鉄の　つり橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  577       19 |  |  12 |     印有钢铁悬索桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  577       20 |  |  1 |      こうてつの　つりばしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  577       20 |  |  3 |      강철의 현수교 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  577       20 |  |  4 |      印有鋼鐵懸索橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  577       20 |  |  5 |      Un papier à lettres avec un motif de pont suspendu en acier. Peut être tenu et livré par un Pokémon. |
+|  577       20 |  |  6 |      Das Briefpapier hat eine stählerne Hängebrücke als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  577       20 |  |  7 |      Carta con la imagen de un puente colgante de acero. Haz que la entregue un Pokémon. |
+|  577       20 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte d'acciaio sospeso. Si può dare a un Pokémon affinché la consegni. |
+|  577       20 |  |  9 |      Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery. |
+|  577       20 |  |  11 |     鋼鉄の　つり橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  577       20 |  |  12 |     印有钢铁吊桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  578       11 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       11 |  |  9 |      Stationery featuring a print of a brick bridge. Let a Pokémon hold it for use. |
+|  578       14 |  |  9 |      Stationery featuring a print of a brick bridge. Let a Pokémon hold it for use. |
+|  578       15 |  |  1 |      レンガづくりの　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  578       15 |  |  3 |      벽돌로 만든 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  578       15 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       15 |  |  6 |      Das Briefpapier hat eine Brücke aus Ziegelsteinen als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  578       15 |  |  7 |      Una baya muy rara en la región de Teselia. |
+|  578       15 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte di mattoni. Si può dare a un Pokémon affinché la consegni. |
+|  578       15 |  |  9 |      Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery. |
+|  578       15 |  |  11 |     レンガ造りの　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  578       17 |  |  1 |      レンガづくりの　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  578       17 |  |  3 |      벽돌로 만든 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  578       17 |  |  4 |      印有磚橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  578       17 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       17 |  |  6 |      Das Briefpapier hat eine Brücke aus Ziegelsteinen als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  578       17 |  |  7 |      Carta con la imagen de un puente de ladrillos. Haz que la entregue un Pokémon. |
+|  578       17 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte di mattoni. Si può dare a un Pokémon affinché la consegni. |
+|  578       17 |  |  9 |      Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery. |
+|  578       17 |  |  11 |     レンガ造りの　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  578       17 |  |  12 |     印有砖桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  578       18 |  |  1 |      レンガづくりの　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  578       18 |  |  3 |      벽돌로 만든 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  578       18 |  |  4 |      印有磚橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  578       18 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       18 |  |  6 |      Das Briefpapier hat eine Brücke aus Ziegelsteinen als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  578       18 |  |  7 |      Carta con la imagen de un puente de ladrillos. Haz que la entregue un Pokémon. |
+|  578       18 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte di mattoni. Si può dare a un Pokémon affinché la consegni. |
+|  578       18 |  |  9 |      Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery. |
+|  578       18 |  |  11 |     レンガ造りの　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  578       18 |  |  12 |     印有砖桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  578       19 |  |  1 |      レンガづくりの　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  578       19 |  |  3 |      벽돌로 만든 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  578       19 |  |  4 |      印有磚橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  578       19 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       19 |  |  6 |      Das Briefpapier hat eine Brücke aus Ziegelsteinen als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  578       19 |  |  7 |      Carta con la imagen de un puente de ladrillos. Haz que la entregue un Pokémon. |
+|  578       19 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte di mattoni. Si può dare a un Pokémon affinché la consegni. |
+|  578       19 |  |  9 |      Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery. |
+|  578       19 |  |  11 |     レンガ造りの　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  578       19 |  |  12 |     印有砖桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  578       20 |  |  1 |      レンガづくりの　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  578       20 |  |  3 |      벽돌로 만든 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  578       20 |  |  4 |      印有磚橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  578       20 |  |  5 |      Un papier à lettres avec un motif de pont en briques. Peut être tenu et livré par un Pokémon. |
+|  578       20 |  |  6 |      Das Briefpapier hat eine Brücke aus Ziegelsteinen als Hintergrund. Gib es einem Pokémon zum Tragen. |
+|  578       20 |  |  7 |      Carta con la imagen de un puente de ladrillos. Haz que la entregue un Pokémon. |
+|  578       20 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte di mattoni. Si può dare a un Pokémon affinché la consegni. |
+|  578       20 |  |  9 |      Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery. |
+|  578       20 |  |  11 |     レンガ造りの　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  578       20 |  |  12 |     印有砖桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  579       11 |  |  5 |      Un papier à lettres avec un motif de pont bâti sur des arches. Peut être tenu et livré par un Pokémon. |
+|  579       11 |  |  9 |      Stationery featuring a print of an arched bridge. Let a Pokémon hold it for use. |
+|  579       14 |  |  9 |      Stationery featuring a print of an arched bridge. Let a Pokémon hold it for use. |
+|  579       15 |  |  1 |      アーチを　えがいた　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  579       15 |  |  3 |      아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  579       15 |  |  5 |      Un papier à lettres avec un motif de pont bâti sur des arches. Peut être tenu et livré par un Pokémon. |
+|  579       15 |  |  6 |      Das Briefpapier hat eine geschwungene Brücke als Hintergrundmotiv. Gib es einem Pokémon zum Tragen. |
+|  579       15 |  |  7 |      Una baya muy rara en la región de Teselia. |
+|  579       15 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte ad arco. Si può dare a un Pokémon affinché la consegni. |
+|  579       15 |  |  9 |      Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery. |
+|  579       15 |  |  11 |     アーチを　描いた　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  579       17 |  |  1 |      アーチを　えがいた　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  579       17 |  |  3 |      아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  579       17 |  |  4 |      印有拱橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  579       17 |  |  5 |      Un papier à lettres avec un motif de pont à voûtes. Peut être tenu et livré par un Pokémon. |
+|  579       17 |  |  6 |      Das Briefpapier hat eine geschwungene Brücke als Hintergrundmotiv. Gib es einem Pokémon zu Tragen. |
+|  579       17 |  |  7 |      Carta con la imagen de un puente con varios arcos. Haz que la entregue un Pokémon. |
+|  579       17 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte ad arco. Si può dare a un Pokémon affinché la consegni. |
+|  579       17 |  |  9 |      Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery. |
+|  579       17 |  |  11 |     アーチを　描いた　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  579       17 |  |  12 |     印有拱桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  579       18 |  |  1 |      アーチを　えがいた　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  579       18 |  |  3 |      아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  579       18 |  |  4 |      印有拱橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  579       18 |  |  5 |      Un papier à lettres avec un motif de pont à voûtes. Peut être tenu et livré par un Pokémon. |
+|  579       18 |  |  6 |      Das Briefpapier hat eine geschwungene Brücke als Hintergrundmotiv. Gib es einem Pokémon zu Tragen. |
+|  579       18 |  |  7 |      Carta con la imagen de un puente con varios arcos. Haz que la entregue un Pokémon. |
+|  579       18 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte ad arco. Si può dare a un Pokémon affinché la consegni. |
+|  579       18 |  |  9 |      Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery. |
+|  579       18 |  |  11 |     アーチを　描いた　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  579       18 |  |  12 |     印有拱桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  579       19 |  |  1 |      アーチを　えがいた　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  579       19 |  |  3 |      아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  579       19 |  |  4 |      印有拱橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  579       19 |  |  5 |      Un papier à lettres avec un motif de pont à voûtes. Peut être tenu et livré par un Pokémon. |
+|  579       19 |  |  6 |      Das Briefpapier hat eine geschwungene Brücke als Hintergrundmotiv. Gib es einem Pokémon zu Tragen. |
+|  579       19 |  |  7 |      Carta con la imagen de un puente con varios arcos. Haz que la entregue un Pokémon. |
+|  579       19 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte ad arco. Si può dare a un Pokémon affinché la consegni. |
+|  579       19 |  |  9 |      Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery. |
+|  579       19 |  |  11 |     アーチを　描いた　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  579       19 |  |  12 |     印有拱桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  579       20 |  |  1 |      アーチを　えがいた　はしの　えがらが プリントされた　びんせん。 ポケモンに　もたせて　つかう。 |
+|  579       20 |  |  3 |      아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다. |
+|  579       20 |  |  4 |      印有拱橋圖案的信紙。 需讓寶可夢攜帶使用。 |
+|  579       20 |  |  5 |      Un papier à lettres avec un motif de pont à voûtes. Peut être tenu et livré par un Pokémon. |
+|  579       20 |  |  6 |      Das Briefpapier hat eine geschwungene Brücke als Hintergrundmotiv. Gib es einem Pokémon zu Tragen. |
+|  579       20 |  |  7 |      Carta con la imagen de un puente con varios arcos. Haz que la entregue un Pokémon. |
+|  579       20 |  |  8 |      Carta da lettere che riporta l'immagine di un ponte ad arco. Si può dare a un Pokémon affinché la consegni. |
+|  579       20 |  |  9 |      Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery. |
+|  579       20 |  |  11 |     アーチを　描いた　橋の　絵柄が プリントされた　レターペーパー。 ポケモンに　持たせて　使う。 |
+|  579       20 |  |  12 |     印有拱桥图案的信纸。 使用该道具时， 需要让宝可梦携带着来用。 |
+|  580       11 |  |  5 |      Une écaille étrange qui fait évoluer certaines espèces de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       11 |  |  9 |      A mysterious scale that evolves certain Pokémon. It shines in rainbow colors. |
+|  580       14 |  |  9 |      A mysterious scale that evolves certain Pokémon. It shines in rainbow colors. |
+|  580       15 |  |  1 |      ある　とくていの　ポケモンを しんかさせる　ふしぎな　ウロコ。 にじいろに　かがやいている。 |
+|  580       15 |  |  3 |      어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다. |
+|  580       15 |  |  5 |      Une écaille étrange qui fait évoluer certaines espèces de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       15 |  |  6 |      Eine seltsame Schuppe, durch die sich bestimmte Pokémon entwickeln. Sie funkelt in den Farben des Regenbogens. |
+|  580       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon. |
+|  580       15 |  |  8 |      Squama misteriosa che fa evolvere determinate specie di Pokémon. Riflette i colori dell'arcobaleno. |
+|  580       15 |  |  9 |      A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors. |
+|  580       15 |  |  11 |     ある　特定の　ポケモンを 進化させる　不思議な　ウロコ。 にじ色に　輝いている。 |
+|  580       17 |  |  1 |      ある　とくていの　ポケモンを しんかさせる　ふしぎな　ウロコ。 にじいろに　かがやいている。 |
+|  580       17 |  |  3 |      어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다. |
+|  580       17 |  |  4 |      能讓特定寶可夢 進化的神奇鱗片。 散發著虹色光輝。 |
+|  580       17 |  |  5 |      Une écaille étrange qui fait évoluer certaines espèces de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       17 |  |  6 |      Eine seltsame Schuppe, durch die sich ein bestimmtes Pokémon entwickelt. Sie funkelt in den Farben des Regenbogens. |
+|  580       17 |  |  7 |      Curiosa escama que hace evolucionar a determinadas especies de Pokémon. Brilla con los colores del arcoíris. |
+|  580       17 |  |  8 |      Squama misteriosa che fa evolvere determinate specie di Pokémon. Riflette i colori dell'arcobaleno. |
+|  580       17 |  |  9 |      A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors. |
+|  580       17 |  |  11 |     ある　特定の　ポケモンを 進化させる　不思議な　ウロコ。 にじ色に　輝いている。 |
+|  580       17 |  |  12 |     能让某些特定宝可梦 进化的神奇鳞片。 散发着虹色光辉。 |
+|  580       18 |  |  1 |      ある　とくていの　ポケモンを しんかさせる　ふしぎな　ウロコ。 にじいろに　かがやいている。 |
+|  580       18 |  |  3 |      어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다. |
+|  580       18 |  |  4 |      能讓特定寶可夢 進化的神奇鱗片。 散發著虹色光輝。 |
+|  580       18 |  |  5 |      Une écaille étrange qui fait évoluer certaines espèces de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       18 |  |  6 |      Eine seltsame Schuppe, durch die sich ein bestimmtes Pokémon entwickelt. Sie funkelt in den Farben des Regenbogens. |
+|  580       18 |  |  7 |      Curiosa escama que hace evolucionar a determinadas especies de Pokémon. Brilla con los colores del arcoíris. |
+|  580       18 |  |  8 |      Squama misteriosa che fa evolvere determinate specie di Pokémon. Riflette i colori dell'arcobaleno. |
+|  580       18 |  |  9 |      A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors. |
+|  580       18 |  |  11 |     ある　特定の　ポケモンを 進化させる　不思議な　ウロコ。 にじ色に　輝いている。 |
+|  580       18 |  |  12 |     能让某些特定宝可梦 进化的神奇鳞片。 散发着虹色光辉。 |
+|  580       19 |  |  1 |      ある　とくていの　ポケモンを しんかさせる　ふしぎな　ウロコ。 にじいろに　かがやいている。 |
+|  580       19 |  |  3 |      어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다. |
+|  580       19 |  |  4 |      能讓特定寶可夢 進化的神奇鱗片。 散發著虹色光輝。 |
+|  580       19 |  |  5 |      Une écaille étrange qui fait évoluer certaines espèces de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       19 |  |  6 |      Eine seltsame Schuppe, durch die sich ein bestimmtes Pokémon entwickelt. Sie funkelt in den Farben des Regenbogens. |
+|  580       19 |  |  7 |      Curiosa escama que hace evolucionar a determinadas especies de Pokémon. Brilla con los colores del arcoíris. |
+|  580       19 |  |  8 |      Squama misteriosa che fa evolvere determinate specie di Pokémon. Riflette i colori dell'arcobaleno. |
+|  580       19 |  |  9 |      A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors. |
+|  580       19 |  |  11 |     ある　特定の　ポケモンを 進化させる　不思議な　ウロコ。 にじ色に　輝いている。 |
+|  580       19 |  |  12 |     能让某些特定宝可梦 进化的神奇鳞片。 散发着虹色光辉。 |
+|  580       20 |  |  1 |      ある　とくていの　ポケモンを しんかさせる　ふしぎな　ウロコ。 にじいろに　かがやいている。 |
+|  580       20 |  |  3 |      어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다. |
+|  580       20 |  |  4 |      能讓特定寶可夢 進化的神奇鱗片。 散發著虹色光輝。 |
+|  580       20 |  |  5 |      Une écaille étrange qui fait évoluer une certaine espèce de Pokémon. Elle a une couleur arc-en-ciel. |
+|  580       20 |  |  6 |      Eine seltsame Schuppe, durch die sich ein bestimmtes Pokémon entwickelt. Sie funkelt in den Farben des Regenbogens. |
+|  580       20 |  |  7 |      Curiosa escama que hace evolucionar a cierto Pokémon. Brilla con los colores del arcoíris. |
+|  580       20 |  |  8 |      Squama misteriosa che fa evolvere determinate specie di Pokémon. Riflette i colori dell'arcobaleno. |
+|  580       20 |  |  9 |      A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors. |
+|  580       20 |  |  11 |     ある　特定の　ポケモンを 進化させる　不思議な　ウロコ。 にじ色に　輝いている。 |
+|  580       20 |  |  12 |     能让某些特定宝可梦 进化的神奇鳞片。 散发着虹色光辉。 |
+|  581       11 |  |  5 |      Un étrange concentré d'évolution qui augmente la Défense et la Déf. Spé. d'un Pokémon pouvant évoluer. |
+|  581       11 |  |  9 |      A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve. |
+|  581       14 |  |  9 |      A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve. |
+|  581       15 |  |  1 |      しんかの　ふしぎな　かたまり。 もたせると　しんかまえ　ポケモンの ぼうぎょと　とくぼうが　あがる。 |
+|  581       15 |  |  3 |      진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다. |
+|  581       15 |  |  5 |      Un étrange concentré d'évolution qui augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer. |
+|  581       15 |  |  6 |      Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können. |
+|  581       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon. |
+|  581       15 |  |  8 |      Misteriosa sfera evolutiva. Aumenta la Difesa e la Difesa Speciale di un Pokémon che può ancora evolversi. |
+|  581       15 |  |  9 |      A mysterious Evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def. |
+|  581       15 |  |  11 |     進化の　不思議な　かたまり。 持たせると　進化前　ポケモンの 防御と　特防が　あがる。 |
+|  581       17 |  |  1 |      しんかの　ふしぎな　かたまり。 もたせると　しんかまえ　ポケモンの ぼうぎょと　とくぼうが　あがる。 |
+|  581       17 |  |  3 |      진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다. |
+|  581       17 |  |  4 |      進化的神奇石塊。 攜帶後，還能進化的寶可夢的 防禦和特防就會提高。 |
+|  581       17 |  |  5 |      Un étrange concentré d'évolution qui augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer. |
+|  581       17 |  |  6 |      Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können. |
+|  581       17 |  |  7 |      Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar. |
+|  581       17 |  |  8 |      Misterioso concentrato di materia evolutiva. Aumenta la Difesa e la Difesa Speciale di un Pokémon che può ancora evolversi. |
+|  581       17 |  |  9 |      A mysterious Evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def. |
+|  581       17 |  |  11 |     進化の　不思議な　かたまり。 持たせると　進化前　ポケモンの 防御と　特防が　あがる。 |
+|  581       17 |  |  12 |     进化的神奇石块。 携带后，还能进化的宝可梦的 防御和特防就会提高。 |
+|  581       18 |  |  1 |      しんかの　ふしぎな　かたまり。 もたせると　しんかまえ　ポケモンの ぼうぎょと　とくぼうが　あがる。 |
+|  581       18 |  |  3 |      진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다. |
+|  581       18 |  |  4 |      進化的神奇石塊。 攜帶後，還能進化的寶可夢的 防禦和特防就會提高。 |
+|  581       18 |  |  5 |      Un étrange concentré d'évolution qui augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer. |
+|  581       18 |  |  6 |      Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können. |
+|  581       18 |  |  7 |      Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar. |
+|  581       18 |  |  8 |      Misterioso concentrato di materia evolutiva. Aumenta la Difesa e la Difesa Speciale di un Pokémon che può ancora evolversi. |
+|  581       18 |  |  9 |      A mysterious Evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def. |
+|  581       18 |  |  11 |     進化の　不思議な　かたまり。 持たせると　進化前　ポケモンの 防御と　特防が　あがる。 |
+|  581       18 |  |  12 |     进化的神奇石块。 携带后，还能进化的宝可梦的 防御和特防就会提高。 |
+|  581       19 |  |  1 |      しんかの　ふしぎな　かたまり。 もたせると　しんかまえ　ポケモンの ぼうぎょと　とくぼうが　あがる。 |
+|  581       19 |  |  3 |      진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다. |
+|  581       19 |  |  4 |      進化的神奇石塊。 攜帶後，還能進化的寶可夢的 防禦和特防就會提高。 |
+|  581       19 |  |  5 |      Un étrange concentré d'évolution qui augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer. |
+|  581       19 |  |  6 |      Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können. |
+|  581       19 |  |  7 |      Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar. |
+|  581       19 |  |  8 |      Misterioso concentrato di materia evolutiva. Aumenta la Difesa e la Difesa Speciale di un Pokémon che può ancora evolversi. |
+|  581       19 |  |  9 |      A mysterious evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def. |
+|  581       19 |  |  11 |     進化の　不思議な　かたまり。 持たせると　進化前　ポケモンの 防御と　特防が　あがる。 |
+|  581       19 |  |  12 |     进化的神奇石块。 携带后，还能进化的宝可梦的 防御和特防就会提高。 |
+|  581       20 |  |  1 |      しんかの　ふしぎな　かたまり。 もたせると　しんかまえ　ポケモンの ぼうぎょと　とくぼうが　あがる。 |
+|  581       20 |  |  3 |      진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다. |
+|  581       20 |  |  4 |      進化的神奇石塊。 攜帶後，還能進化的寶可夢的 防禦和特防就會提高。 |
+|  581       20 |  |  5 |      Objet à tenir. Un étrange concentré d'évolution qui augmente la Défense et la Défense Spéciale d'un Pokémon pouvant évoluer. |
+|  581       20 |  |  6 |      Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können. |
+|  581       20 |  |  7 |      Roca misteriosa. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar. |
+|  581       20 |  |  8 |      Misterioso concentrato di materia evolutiva. Aumenta la Difesa e la Difesa Speciale di un Pokémon che può ancora evolversi. |
+|  581       20 |  |  9 |      A mysterious evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def. |
+|  581       20 |  |  11 |     進化の　不思議な　かたまり。 持たせると　進化前　ポケモンの 防御と　特防が　あがる。 |
+|  581       20 |  |  12 |     进化的神奇石块。 携带后，还能进化的宝可梦的 防御和特防就会提高。 |
+|  582       11 |  |  5 |      Une pierre très légère. Elle réduit le poids du Pokémon qui la tient. |
+|  582       11 |  |  9 |      A very light stone. It reduces the weight of a Pokémon when held. |
+|  582       14 |  |  9 |      A very light stone. It reduces the weight of a Pokémon when held. |
+|  582       15 |  |  1 |      とても　かるい　いし。 もたせると　ポケモンの たいじゅうが　かるくなる。 |
+|  582       15 |  |  3 |      매우 가벼운 돌. 지니게 하면 포켓몬의 체중이 가벼워진다. |
+|  582       15 |  |  5 |      Une pierre très légère. Elle réduit le poids du Pokémon qui la tient. |
+|  582       15 |  |  6 |      Ein federleichter Stein, der das Gewicht des Trägers verringert. |
+|  582       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon. |
+|  582       15 |  |  8 |      Pietra leggerissima che riduce il peso del Pokémon che l'ha con sé. |
+|  582       15 |  |  9 |      An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held. |
+|  582       15 |  |  11 |     とても　軽い　石。 持たせると　ポケモンの 体重が　軽くなる。 |
+|  582       17 |  |  1 |      とても　かるい　いし。 もたせると　ポケモンの たいじゅうが　かるくなる。 |
+|  582       17 |  |  3 |      매우 가벼운 돌. 지니게 하면 포켓몬의 체중이 가벼워진다. |
+|  582       17 |  |  4 |      非常輕的石頭。 攜帶後，寶可夢的 體重會變輕。 |
+|  582       17 |  |  5 |      Une pierre très légère. Elle réduit le poids du Pokémon qui la tient. |
+|  582       17 |  |  6 |      Ein federleichter Stein, der das Gewicht des Trägers verringert. |
+|  582       17 |  |  7 |      Piedra muy ligera que reduce el peso del Pokémon que la lleve. |
+|  582       17 |  |  8 |      Pietra leggerissima che riduce il peso del Pokémon che l'ha con sé. |
+|  582       17 |  |  9 |      An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held. |
+|  582       17 |  |  11 |     とても　軽い　石。 持たせると　ポケモンの 体重が　軽くなる。 |
+|  582       17 |  |  12 |     非常轻的石头。 携带后，宝可梦的体重会变轻。 |
+|  582       18 |  |  1 |      とても　かるい　いし。 もたせると　ポケモンの たいじゅうが　かるくなる。 |
+|  582       18 |  |  3 |      매우 가벼운 돌. 지니게 하면 포켓몬의 체중이 가벼워진다. |
+|  582       18 |  |  4 |      非常輕的石頭。 攜帶後，寶可夢的 體重會變輕。 |
+|  582       18 |  |  5 |      Une pierre très légère. Elle réduit le poids du Pokémon qui la tient. |
+|  582       18 |  |  6 |      Ein federleichter Stein, der das Gewicht des Trägers verringert. |
+|  582       18 |  |  7 |      Piedra muy ligera que reduce el peso del Pokémon que la lleve. |
+|  582       18 |  |  8 |      Pietra leggerissima che riduce il peso del Pokémon che l'ha con sé. |
+|  582       18 |  |  9 |      An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held. |
+|  582       18 |  |  11 |     とても　軽い　石。 持たせると　ポケモンの 体重が　軽くなる。 |
+|  582       18 |  |  12 |     非常轻的石头。 携带后，宝可梦的体重会变轻。 |
+|  582       19 |  |  1 |      とても　かるい　いし。 もたせると　ポケモンの たいじゅうが　かるくなる。 |
+|  582       19 |  |  3 |      매우 가벼운 돌. 지니게 하면 포켓몬의 체중이 가벼워진다. |
+|  582       19 |  |  4 |      非常輕的石頭。 攜帶後，寶可夢的 體重會變輕。 |
+|  582       19 |  |  5 |      Une pierre très légère. Elle réduit le poids du Pokémon qui la tient. |
+|  582       19 |  |  6 |      Ein federleichter Stein, der das Gewicht des Trägers verringert. |
+|  582       19 |  |  7 |      Piedra muy ligera que reduce el peso del Pokémon que la lleve. |
+|  582       19 |  |  8 |      Pietra leggerissima che riduce il peso del Pokémon che l'ha con sé. |
+|  582       19 |  |  9 |      An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held. |
+|  582       19 |  |  11 |     とても　軽い　石。 持たせると　ポケモンの 体重が　軽くなる。 |
+|  582       19 |  |  12 |     非常轻的石头。 携带后，宝可梦的体重会变轻。 |
+|  582       20 |  |  1 |      とても　かるい　いし。 もたせると　ポケモンの たいじゅうが　かるくなる。 |
+|  582       20 |  |  3 |      매우 가벼운 돌. 지니게 하면 포켓몬의 체중이 가벼워진다. |
+|  582       20 |  |  4 |      非常輕的石頭。 攜帶後，寶可夢的 體重會變輕。 |
+|  582       20 |  |  5 |      Objet à tenir. Une pierre très légère qui réduit le poids du Pokémon qui la tient. |
+|  582       20 |  |  6 |      Ein federleichter Stein, der das Gewicht des Trägers verringert. |
+|  582       20 |  |  7 |      Piedra muy ligera que reduce el peso del Pokémon que la lleve. |
+|  582       20 |  |  8 |      Pietra leggerissima che riduce il peso del Pokémon che l'ha con sé. |
+|  582       20 |  |  9 |      An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held. |
+|  582       20 |  |  11 |     とても　軽い　石。 持たせると　ポケモンの 体重が　軽くなる。 |
+|  582       20 |  |  12 |     非常轻的石头。 携带后，宝可梦的体重会变轻。 |
+|  583       11 |  |  5 |      Tenu, cet objet inflige des dégâts à l'attaquant si ce dernier utilise une attaque physique qui atteint son but. |
+|  583       11 |  |  9 |      If the holder of this item takes damage, the attacker will also be damaged upon contact. |
+|  583       14 |  |  9 |      If the holder of this item takes damage, the attacker will also be damaged upon contact. |
+|  583       15 |  |  1 |      ポケモンに　もたせると だげきわざを　うけたとき あいてにも　ダメージを　あたえる。 |
+|  583       15 |  |  3 |      포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다. |
+|  583       15 |  |  5 |      Tenu, cet objet inflige des dégâts à l'attaquant si ce dernier utilise une attaque physique qui atteint son but. |
+|  583       15 |  |  6 |      Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden. |
+|  583       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon. |
+|  583       15 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da una mossa fisica, anche il nemico subisce dei danni. |
+|  583       15 |  |  9 |      An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact. |
+|  583       15 |  |  11 |     ポケモンに　持たせると 打撃技を　受けたとき 相手にも　ダメージを　与える。 |
+|  583       17 |  |  1 |      ポケモンに　もたせると だげきわざを　うけたとき あいてにも　ダメージを　あたえる。 |
+|  583       17 |  |  3 |      포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다. |
+|  583       17 |  |  4 |      讓寶可夢攜帶後， 在受到打擊招式攻擊時， 也能給予對手傷害。 |
+|  583       17 |  |  5 |      Tenu, cet objet inflige des dégâts à l'attaquant si ce dernier utilise une capacité physique qui atteint sa cible. |
+|  583       17 |  |  6 |      Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden. |
+|  583       17 |  |  7 |      Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño. |
+|  583       17 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da una mossa fisica, anche il nemico subisce dei danni. |
+|  583       17 |  |  9 |      An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact. |
+|  583       17 |  |  11 |     ポケモンに　持たせると 打撃技を　受けたとき 相手にも　ダメージを　与える。 |
+|  583       17 |  |  12 |     让宝可梦携带后， 在受到打击招式攻击时， 能给予对手伤害。 |
+|  583       18 |  |  1 |      ポケモンに　もたせると だげきわざを　うけたとき あいてにも　ダメージを　あたえる。 |
+|  583       18 |  |  3 |      포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다. |
+|  583       18 |  |  4 |      讓寶可夢攜帶後， 在受到打擊招式攻擊時， 也能給予對手傷害。 |
+|  583       18 |  |  5 |      Tenu, cet objet inflige des dégâts à l'attaquant si ce dernier utilise une capacité physique qui atteint sa cible. |
+|  583       18 |  |  6 |      Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden. |
+|  583       18 |  |  7 |      Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño. |
+|  583       18 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco diretto, anche il nemico subisce dei danni. |
+|  583       18 |  |  9 |      An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact. |
+|  583       18 |  |  11 |     ポケモンに　持たせると 打撃技を　受けたとき 相手にも　ダメージを　与える。 |
+|  583       18 |  |  12 |     让宝可梦携带后， 在受到打击招式攻击时， 能给予对手伤害。 |
+|  583       19 |  |  1 |      ポケモンに　もたせると だげきわざを　うけたとき あいてにも　ダメージを　あたえる。 |
+|  583       19 |  |  3 |      포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다. |
+|  583       19 |  |  4 |      讓寶可夢攜帶後， 在受到打擊招式攻擊時， 也能給予對手傷害。 |
+|  583       19 |  |  5 |      Tenu, cet objet inflige des dégâts à l'attaquant si ce dernier utilise une capacité physique qui atteint sa cible. |
+|  583       19 |  |  6 |      Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden. |
+|  583       19 |  |  7 |      Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño. |
+|  583       19 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco diretto, anche il nemico subisce dei danni. |
+|  583       19 |  |  9 |      An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact. |
+|  583       19 |  |  11 |     ポケモンに　持たせると 打撃技を　受けたとき 相手にも　ダメージを　与える。 |
+|  583       19 |  |  12 |     让宝可梦携带后， 在受到打击招式攻击时， 能给予对手伤害。 |
+|  583       20 |  |  1 |      ポケモンに　もたせると だげきわざを　うけたとき あいてにも　ダメージを　あたえる。 |
+|  583       20 |  |  3 |      포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다. |
+|  583       20 |  |  4 |      讓寶可夢攜帶後， 在受到打擊招式攻擊時， 也能給予對手傷害。 |
+|  583       20 |  |  5 |      Objet à tenir. Inflige des dégâts à l'attaquant si ce dernier utilise une capacité qui atteint directement le porteur. |
+|  583       20 |  |  6 |      Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden. |
+|  583       20 |  |  7 |      Si el portador es alcanzado por un movimiento de contacto, el agresor también recibe daño. |
+|  583       20 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco diretto, anche il nemico subisce dei danni. |
+|  583       20 |  |  9 |      An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact. |
+|  583       20 |  |  11 |     ポケモンに　持たせると 打撃技を　受けたとき 相手にも　ダメージを　与える。 |
+|  583       20 |  |  12 |     让宝可梦携带后， 在受到打击招式攻击时， 能给予对手伤害。 |
+|  584       11 |  |  5 |      Tenu par un Pokémon, cet objet lui permet de flotter dans les airs. Il éclate en cas d'attaque. |
+|  584       11 |  |  9 |      When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst. |
+|  584       14 |  |  9 |      When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst. |
+|  584       15 |  |  1 |      ポケモンに　もたせると ポケモンが　ちゅうに　うく。 こうげきを　うけると　われてしまう。 |
+|  584       15 |  |  3 |      포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다. |
+|  584       15 |  |  5 |      Tenu par un Pokémon, cet objet lui permet de flotter dans les airs. Il éclate en cas d'attaque. |
+|  584       15 |  |  6 |      Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon. |
+|  584       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon. |
+|  584       15 |  |  8 |      Permette al Pokémon che ha questo strumento di fluttuare in aria. Scoppia se il Pokémon è colpito da un attacco. |
+|  584       15 |  |  9 |      An item to be held by a Pokémon. The holder will float in the air until hit. Once hit, this item will burst. |
+|  584       15 |  |  11 |     ポケモンに　持たせると ポケモンが　宙に　浮く。 攻撃を　受けると　割れてしまう。 |
+|  584       17 |  |  1 |      ポケモンに　もたせると ポケモンが　ちゅうに　うく。 こうげきを　うけると　われてしまう。 |
+|  584       17 |  |  3 |      포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다. |
+|  584       17 |  |  4 |      讓寶可夢攜帶後， 寶可夢會浮在空中。 受到攻擊就會破裂。 |
+|  584       17 |  |  5 |      Tenu par un Pokémon, cet objet lui permet de flotter dans les airs. Il éclate en cas d'attaque. |
+|  584       17 |  |  6 |      Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon. |
+|  584       17 |  |  7 |      El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará. |
+|  584       17 |  |  8 |      Permette al Pokémon che ha questo strumento di fluttuare in aria. Scoppia se il Pokémon è colpito da un attacco. |
+|  584       17 |  |  9 |      An item to be held by a Pokémon. The holder will float in the air until hit. Once hit, this item will burst. |
+|  584       17 |  |  11 |     ポケモンに　持たせると ポケモンが　宙に　浮く。 攻撃を　受けると　割れてしまう。 |
+|  584       17 |  |  12 |     让宝可梦携带后， 宝可梦会浮在空中。 受到攻击就会破裂。 |
+|  584       18 |  |  1 |      ポケモンに　もたせると ポケモンが　ちゅうに　うく。 こうげきを　うけると　われてしまう。 |
+|  584       18 |  |  3 |      포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다. |
+|  584       18 |  |  4 |      讓寶可夢攜帶後， 寶可夢會浮在空中。 受到攻擊就會破裂。 |
+|  584       18 |  |  5 |      Tenu par un Pokémon, cet objet lui permet de flotter dans les airs. Il éclate en cas d'attaque. |
+|  584       18 |  |  6 |      Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon. |
+|  584       18 |  |  7 |      El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará. |
+|  584       18 |  |  8 |      Permette al Pokémon che ha questo strumento di fluttuare in aria. Scoppia se il Pokémon è colpito da un attacco. |
+|  584       18 |  |  9 |      An item to be held by a Pokémon. The holder will float in the air until hit. Once hit, this item will burst. |
+|  584       18 |  |  11 |     ポケモンに　持たせると ポケモンが　宙に　浮く。 攻撃を　受けると　割れてしまう。 |
+|  584       18 |  |  12 |     让宝可梦携带后， 宝可梦会浮在空中。 受到攻击就会破裂。 |
+|  584       19 |  |  1 |      ポケモンに　もたせると ポケモンが　ちゅうに　うく。 こうげきを　うけると　われてしまう。 |
+|  584       19 |  |  3 |      포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다. |
+|  584       19 |  |  4 |      讓寶可夢攜帶後， 寶可夢會浮在空中。 受到攻擊就會破裂。 |
+|  584       19 |  |  5 |      Tenu par un Pokémon, cet objet lui permet de flotter dans les airs. Il éclate en cas d'attaque. |
+|  584       19 |  |  6 |      Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon. |
+|  584       19 |  |  7 |      El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará. |
+|  584       19 |  |  8 |      Permette al Pokémon che ha questo strumento di fluttuare in aria. Scoppia se il Pokémon è colpito da un attacco. |
+|  584       19 |  |  9 |      An item to be held by a Pokémon. The holder will float in the air until hit. Once the holder is hit, this item will burst. |
+|  584       19 |  |  11 |     ポケモンに　持たせると ポケモンが　宙に　浮く。 攻撃を　受けると　割れてしまう。 |
+|  584       19 |  |  12 |     让宝可梦携带后， 宝可梦会浮在空中。 受到攻击就会破裂。 |
+|  584       20 |  |  1 |      ポケモンに　もたせると ポケモンが　ちゅうに　うく。 こうげきを　うけると　われてしまう。 |
+|  584       20 |  |  3 |      포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다. |
+|  584       20 |  |  4 |      讓寶可夢攜帶後， 寶可夢會浮在空中。 受到攻擊就會破裂。 |
+|  584       20 |  |  5 |      Objet à tenir. Permet au porteur de flotter dans les airs. Il éclate quand le porteur encaisse une attaque. |
+|  584       20 |  |  6 |      Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon. |
+|  584       20 |  |  7 |      El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará. |
+|  584       20 |  |  8 |      Permette al Pokémon che ha questo strumento di fluttuare in aria. Scoppia se il Pokémon è colpito da un attacco. |
+|  584       20 |  |  9 |      An item to be held by a Pokémon. The holder will float in the air until hit. Once the holder is hit, this item will burst. |
+|  584       20 |  |  11 |     ポケモンに　持たせると ポケモンが　宙に　浮く。 攻撃を　受けると　割れてしまう。 |
+|  584       20 |  |  12 |     让宝可梦携带后， 宝可梦会浮在空中。 受到攻击就会破裂。 |
+|  585       11 |  |  5 |      Carte au pouvoir mystérieux. Tenue, elle force un Pokémon touchant le porteur à se retirer du combat. |
+|  585       11 |  |  9 |      A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle. |
+|  585       14 |  |  9 |      A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle. |
+|  585       15 |  |  1 |      ふしぎな　ちからのある　カード。 もたせると　わざをうけた　あいてを たいじょう　させることが　できる。 |
+|  585       15 |  |  3 |      이상한 힘이 있는 카드. 지니게 하면 기술을 당한 상대를 퇴장시킬 수 있다. |
+|  585       15 |  |  5 |      Une carte au pouvoir mystérieux. Si son porteur est touché par l'attaquant, ce dernier doit se retirer du combat. |
+|  585       15 |  |  6 |      Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen. |
+|  585       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon. |
+|  585       15 |  |  8 |      Cartellino dal potere misterioso. Chi ce l'ha fa ritirare dalla lotta il Pokémon che lo ha colpito. |
+|  585       15 |  |  9 |      An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle. |
+|  585       15 |  |  11 |     不思議な　ちからのある　カード。 持たせると　技を受けた　相手を 退場させることが　できる。 |
+|  585       17 |  |  1 |      ふしぎな　ちからのある　カード。 もたせると　わざをつかってきた　あいてを たいじょう　させることが　できる。 |
+|  585       17 |  |  3 |      이상한 힘이 있는 카드. 지니게 하면 기술을 사용한 상대를 퇴장시킬 수 있다. |
+|  585       17 |  |  4 |      有著神奇力量的卡片。 攜帶後，能讓使用了 招式的對手退場。 |
+|  585       17 |  |  5 |      Une carte au pouvoir mystérieux. Si son porteur est touché par l'attaquant, ce dernier doit se retirer du combat. |
+|  585       17 |  |  6 |      Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen. |
+|  585       17 |  |  7 |      Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño. |
+|  585       17 |  |  8 |      Cartellino dal potere misterioso. Chi ce l'ha fa ritirare dalla lotta il Pokémon che lo ha colpito. |
+|  585       17 |  |  9 |      An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle. |
+|  585       17 |  |  11 |     不思議な　ちからのある　カード。 持たせると　技を　使ってきた　相手を 退場させることが　できる。 |
+|  585       17 |  |  12 |     有着神奇力量的卡片。 携带后，能让使用了 招式的对手退场。 |
+|  585       18 |  |  1 |      ふしぎな　ちからのある　カード。 もたせると　わざをつかってきた　あいてを たいじょう　させることが　できる。 |
+|  585       18 |  |  3 |      이상한 힘이 있는 카드. 지니게 하면 기술을 사용한 상대를 퇴장시킬 수 있다. |
+|  585       18 |  |  4 |      有著神奇力量的卡片。 攜帶後，能讓使用了 招式的對手退場。 |
+|  585       18 |  |  5 |      Une carte au pouvoir mystérieux. Si son porteur est touché par l'attaquant, ce dernier doit se retirer du combat. |
+|  585       18 |  |  6 |      Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen. |
+|  585       18 |  |  7 |      Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño. |
+|  585       18 |  |  8 |      Cartellino dal potere misterioso. Chi ce l'ha fa ritirare dalla lotta il Pokémon che lo ha colpito. |
+|  585       18 |  |  9 |      An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle. |
+|  585       18 |  |  11 |     不思議な　ちからのある　カード。 持たせると　技を　使ってきた　相手を 退場させることが　できる。 |
+|  585       18 |  |  12 |     有着神奇力量的卡片。 携带后，能让使用了 招式的对手退场。 |
+|  585       19 |  |  1 |      ふしぎな　ちからのある　カード。 もたせると　わざをつかってきた　あいてを たいじょう　させることが　できる。 |
+|  585       19 |  |  3 |      이상한 힘이 있는 카드. 지니게 하면 기술을 사용한 상대를 퇴장시킬 수 있다. |
+|  585       19 |  |  4 |      有著神奇力量的卡片。 攜帶後，能讓使用了 招式的對手退場。 |
+|  585       19 |  |  5 |      Une carte au pouvoir mystérieux. Si son porteur est touché par l'attaquant, ce dernier doit se retirer du combat. |
+|  585       19 |  |  6 |      Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen. |
+|  585       19 |  |  7 |      Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño. |
+|  585       19 |  |  8 |      Cartellino dal potere misterioso. Chi ce l'ha fa ritirare dalla lotta il Pokémon che lo ha colpito. |
+|  585       19 |  |  9 |      An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle. |
+|  585       19 |  |  11 |     不思議な　ちからのある　カード。 持たせると　技を　使ってきた　相手を 退場させることが　できる。 |
+|  585       19 |  |  12 |     有着神奇力量的卡片。 携带后，能让使用了 招式的对手退场。 |
+|  585       20 |  |  1 |      ふしぎな　ちからのある　カード。 もたせると　わざをつかってきた　あいてを たいじょう　させることが　できる。 |
+|  585       20 |  |  3 |      이상한 힘이 있는 카드. 지니게 하면 기술을 사용한 상대를 퇴장시킬 수 있다. |
+|  585       20 |  |  4 |      有著神奇力量的卡片。 攜帶後，能讓使用了 招式的對手退場。 |
+|  585       20 |  |  5 |      Objet à tenir. Une carte au pouvoir mystérieux qui permet d'éjecter un Pokémon du combat si ce dernier attaque le porteur. |
+|  585       20 |  |  6 |      Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen. |
+|  585       20 |  |  7 |      Misteriosa tarjeta que permite al Pokémon que la lleva expulsar al oponente cuando este le cause daño. |
+|  585       20 |  |  8 |      Cartellino dal potere misterioso. Chi ce l'ha fa ritirare dalla lotta il Pokémon che lo ha colpito. |
+|  585       20 |  |  9 |      An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle. |
+|  585       20 |  |  11 |     不思議な　ちからのある　カード。 持たせると　技を　使ってきた　相手を 退場させることが　できる。 |
+|  585       20 |  |  12 |     有着神奇力量的卡片。 携带后，能让使用了 招式的对手退场。 |
+|  586       11 |  |  5 |      Un Pokémon tenant cet objet devient sensible aux capacités autrement inefficaces en raison de son type. |
+|  586       11 |  |  9 |      Moves that would otherwise have no effect will land on the Pokémon that holds it. |
+|  586       14 |  |  9 |      Moves that would otherwise have no effect will land on the Pokémon that holds it. |
+|  586       15 |  |  1 |      ポケモンの　タイプの　あいしょうで むこう　だった　わざが あたるように　なってしまう。 |
+|  586       15 |  |  3 |      포켓몬 타입의 상성 때문에 무효였던 기술이 맞게 되어 버린다. |
+|  586       15 |  |  5 |      Un Pokémon tenant cet objet devient sensible aux capacités autrement inefficaces en raison de son type. |
+|  586       15 |  |  6 |      Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger. |
+|  586       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon. |
+|  586       15 |  |  8 |      Se un Pokémon ha questo strumento, le mosse che di norma non hanno effetto contro il suo tipo vanno a segno. |
+|  586       15 |  |  9 |      An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it. |
+|  586       15 |  |  11 |     ポケモンの　タイプの　相性で 無効だった　技が 当たるように　なってしまう。 |
+|  586       17 |  |  1 |      ポケモンの　タイプの　あいしょうで むこう　だった　わざが あたるように　なってしまう。 |
+|  586       17 |  |  3 |      포켓몬 타입의 상성 때문에 무효였던 기술이 맞게 되어 버린다. |
+|  586       17 |  |  4 |      原本因寶可夢的屬性相剋關係 而無效的招式現在會變得 能夠擊中自己。 |
+|  586       17 |  |  5 |      Un Pokémon tenant cet objet devient sensible aux capacités autrement inefficaces en raison de son type. |
+|  586       17 |  |  6 |      Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger. |
+|  586       17 |  |  7 |      El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo. |
+|  586       17 |  |  8 |      Se un Pokémon ha questo strumento, le mosse che di norma non hanno effetto contro il suo tipo vanno a segno. |
+|  586       17 |  |  9 |      An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it. |
+|  586       17 |  |  11 |     ポケモンの　タイプの　相性で 無効だった　技が 当たるように　なってしまう。 |
+|  586       17 |  |  12 |     原本因宝可梦的属性相克关系 而无效的招式现在会变得 能够击中自己。 |
+|  586       18 |  |  1 |      ポケモンの　タイプの　あいしょうで むこう　だった　わざが あたるように　なってしまう。 |
+|  586       18 |  |  3 |      포켓몬 타입의 상성 때문에 무효였던 기술이 맞게 되어 버린다. |
+|  586       18 |  |  4 |      原本因寶可夢的屬性相剋關係 而無效的招式現在會變得 能夠擊中自己。 |
+|  586       18 |  |  5 |      Un Pokémon tenant cet objet devient sensible aux capacités autrement inefficaces en raison de son type. |
+|  586       18 |  |  6 |      Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger. |
+|  586       18 |  |  7 |      El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo. |
+|  586       18 |  |  8 |      Se un Pokémon ha questo strumento, le mosse che di norma non hanno effetto contro il suo tipo vanno a segno. |
+|  586       18 |  |  9 |      An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it. |
+|  586       18 |  |  11 |     ポケモンの　タイプの　相性で 無効だった　技が 当たるように　なってしまう。 |
+|  586       18 |  |  12 |     原本因宝可梦的属性相克关系 而无效的招式现在会变得 能够击中自己。 |
+|  586       19 |  |  1 |      ポケモンの　タイプの　あいしょうで むこう　だった　わざが あたるように　なってしまう。 |
+|  586       19 |  |  3 |      포켓몬 타입의 상성 때문에 무효였던 기술이 맞게 되어 버린다. |
+|  586       19 |  |  4 |      原本因寶可夢的屬性相剋關係 而無效的招式現在會變得 能夠擊中自己。 |
+|  586       19 |  |  5 |      Un Pokémon tenant cet objet devient sensible aux capacités autrement inefficaces en raison de son type. |
+|  586       19 |  |  6 |      Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger. |
+|  586       19 |  |  7 |      El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo. |
+|  586       19 |  |  8 |      Se un Pokémon ha questo strumento, le mosse che di norma non hanno effetto contro il suo tipo vanno a segno. |
+|  586       19 |  |  9 |      An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it. |
+|  586       19 |  |  11 |     ポケモンの　タイプの　相性で 無効だった　技が 当たるように　なってしまう。 |
+|  586       19 |  |  12 |     原本因宝可梦的属性相克关系 而无效的招式现在会变得 能够击中自己。 |
+|  586       20 |  |  1 |      ポケモンの　タイプの　あいしょうで むこう　だった　わざが あたるように　なってしまう。 |
+|  586       20 |  |  3 |      포켓몬 타입의 상성 때문에 무효였던 기술이 맞게 되어 버린다. |
+|  586       20 |  |  4 |      原本因寶可夢的屬性相剋關係 而無效的招式現在會變得 能夠擊中自己。 |
+|  586       20 |  |  5 |      Objet à tenir. Rend le porteur sensible aux capacités auxquelles il devrait être immunisé en raison de son type. |
+|  586       20 |  |  6 |      Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger. |
+|  586       20 |  |  7 |      El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo. |
+|  586       20 |  |  8 |      Se un Pokémon ha questo strumento, le mosse che di norma non hanno effetto contro il suo tipo vanno a segno. |
+|  586       20 |  |  9 |      An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it. |
+|  586       20 |  |  11 |     ポケモンの　タイプの　相性で 無効だった　技が 当たるように　なってしまう。 |
+|  586       20 |  |  12 |     原本因宝可梦的属性相克关系 而无效的招式现在会变得 能够击中自己。 |
+|  587       11 |  |  5 |      Objet à tenir augmentant la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       11 |  |  9 |      A band that increases the power of binding moves when held. |
+|  587       14 |  |  9 |      A band that increases the power of binding moves when held. |
+|  587       15 |  |  1 |      しめつけるわざを　ほじょする　バンド。 もたせると　しめつけるわざの いりょくが　つよく　なる。 |
+|  587       15 |  |  3 |      조이기 기술을 보조하는 밴드. 지니게 하면 조이기 기술의 위력이 강해진다. |
+|  587       15 |  |  5 |      Objet à tenir. Augmente la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       15 |  |  6 |      Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht. |
+|  587       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon. |
+|  587       15 |  |  8 |      Strumento da dare a un Pokémon che aumenta la potenza di mosse come Avvolgibotta e Legatutto. |
+|  587       15 |  |  9 |      An item to be held by a Pokémon. A band that increases the power of binding moves used by the holder. |
+|  587       15 |  |  11 |     締めつける技を　補助する　バンド。 持たせると　締めつける技の 威力が　強くなる。 |
+|  587       17 |  |  1 |      しめつけるわざを　ほじょする　バンド。 もたせると　しめつけるわざの いりょくが　つよく　なる。 |
+|  587       17 |  |  3 |      조이기 기술을 보조하는 밴드. 지니게 하면 조이기 기술의 위력이 강해진다. |
+|  587       17 |  |  4 |      輔助綁緊類招式的束帶。 攜帶後，綁緊類招式的 威力會變強。 |
+|  587       17 |  |  5 |      Objet à tenir. Augmente la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       17 |  |  6 |      Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht. |
+|  587       17 |  |  7 |      Banda que potencia los movimientos que estrujan al rival. |
+|  587       17 |  |  8 |      Strumento da dare a un Pokémon che aumenta la potenza di mosse come Avvolgibotta e Legatutto. |
+|  587       17 |  |  9 |      An item to be held by a Pokémon. A band that increases the power of binding moves used by the holder. |
+|  587       17 |  |  11 |     締めつける技を　補助する　バンド。 持たせると　締めつける技の 威力が　強くなる。 |
+|  587       17 |  |  12 |     能增强绑紧招式的束带。 携带后，绑紧招式的威力会变强。 |
+|  587       18 |  |  1 |      しめつけるわざを　ほじょする　バンド。 もたせると　しめつけるわざの いりょくが　つよく　なる。 |
+|  587       18 |  |  3 |      조이기 기술을 보조하는 밴드. 지니게 하면 조이기 기술의 위력이 강해진다. |
+|  587       18 |  |  4 |      輔助綁緊類招式的束帶。 攜帶後，綁緊類招式的 威力會變強。 |
+|  587       18 |  |  5 |      Objet à tenir. Augmente la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       18 |  |  6 |      Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht. |
+|  587       18 |  |  7 |      Banda que potencia los movimientos que estrujan al rival. |
+|  587       18 |  |  8 |      Strumento da dare a un Pokémon che aumenta la potenza di mosse come Avvolgibotta e Legatutto. |
+|  587       18 |  |  9 |      An item to be held by a Pokémon. A band that increases the power of binding moves used by the holder. |
+|  587       18 |  |  11 |     締めつける技を　補助する　バンド。 持たせると　締めつける技の 威力が　強くなる。 |
+|  587       18 |  |  12 |     能增强绑紧招式的束带。 携带后，绑紧招式的威力会变强。 |
+|  587       19 |  |  1 |      しめつけるわざを　ほじょする　バンド。 もたせると　しめつけるわざの いりょくが　つよく　なる。 |
+|  587       19 |  |  3 |      조이기 기술을 보조하는 밴드. 지니게 하면 조이기 기술의 위력이 강해진다. |
+|  587       19 |  |  4 |      輔助綁緊類招式的束帶。 攜帶後，綁緊類招式的 威力會變強。 |
+|  587       19 |  |  5 |      Objet à tenir. Augmente la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       19 |  |  6 |      Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht. |
+|  587       19 |  |  7 |      Banda que potencia los movimientos que estrujan al rival. |
+|  587       19 |  |  8 |      Strumento da dare a un Pokémon che aumenta la potenza di mosse come Avvolgibotta e Legatutto. |
+|  587       19 |  |  9 |      An item to be held by a Pokémon. A band that increases the power of binding moves used by the holder. |
+|  587       19 |  |  11 |     締めつける技を　補助する　バンド。 持たせると　締めつける技の 威力が　強くなる。 |
+|  587       19 |  |  12 |     能增强绑紧招式的束带。 携带后，绑紧招式的威力会变强。 |
+|  587       20 |  |  1 |      しめつけるわざを　ほじょする　バンド。 もたせると　しめつけるわざの いりょくが　つよく　なる。 |
+|  587       20 |  |  3 |      조이기 기술을 보조하는 밴드. 지니게 하면 조이기 기술의 위력이 강해진다. |
+|  587       20 |  |  4 |      輔助綁緊類招式的束帶。 攜帶後，綁緊類招式的 威力會變強。 |
+|  587       20 |  |  5 |      Objet à tenir. Augmente la puissance des attaques immobilisantes telles que Ligotage ou Étreinte. |
+|  587       20 |  |  6 |      Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht. |
+|  587       20 |  |  7 |      Banda que potencia los movimientos que estrujan al rival. |
+|  587       20 |  |  8 |      Strumento da dare a un Pokémon che aumenta la potenza di mosse come Avvolgibotta e Legatutto. |
+|  587       20 |  |  9 |      An item to be held by a Pokémon. It's a band that increases the power of binding moves used by the holder. |
+|  587       20 |  |  11 |     締めつける技を　補助する　バンド。 持たせると　締めつける技の 威力が　強くなる。 |
+|  587       20 |  |  12 |     能增强绑紧招式的束带。 携带后，绑紧招式的威力会变强。 |
+|  588       11 |  |  5 |      Bulbe jetable. Tenu, il augmente la Défense Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  588       11 |  |  9 |      A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise. |
+|  588       14 |  |  9 |      A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise. |
+|  588       15 |  |  1 |      つかいすての　きゅうこん。 もたせて　みずの　わざを　うけると とくこうが　あがる。 |
+|  588       15 |  |  3 |      단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다. |
+|  588       15 |  |  5 |      Un bulbe jetable. Tenu, il augmente l'Attaque Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  588       15 |  |  6 |      Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft. |
+|  588       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon. |
+|  588       15 |  |  8 |      Bulbo monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, il suo Attacco Speciale aumenta. |
+|  588       15 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water- type attack. It can only be used once. |
+|  588       15 |  |  11 |     使い捨ての　きゅうこん。 持たせて　みずの　技を　受けると 特攻が　あがる。 |
+|  588       17 |  |  1 |      つかいすての　きゅうこん。 もたせて　みずの　わざを　うけると とくこうが　あがる。 |
+|  588       17 |  |  3 |      단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다. |
+|  588       17 |  |  4 |      只能使用一次的球根。 攜帶它的寶可夢如果受到水屬性 招式的攻擊，特攻就會提高。 |
+|  588       17 |  |  5 |      Un bulbe jetable. Tenu, il augmente l'Attaque Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  588       17 |  |  6 |      Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft. |
+|  588       17 |  |  7 |      Raíz de usar y tirar que sube el Ataque Especial cuando se recibe un ataque de tipo Agua. |
+|  588       17 |  |  8 |      Bulbo monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, il suo Attacco Speciale aumenta. |
+|  588       17 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water-type attack. It can only be used once. |
+|  588       17 |  |  11 |     使い捨ての　きゅうこん。 持たせて　みずの　技を　受けると 特攻が　あがる。 |
+|  588       17 |  |  12 |     一次性使用的球根。 携带它的宝可梦如果受到水属性 招式的攻击，特攻就会提高。 |
+|  588       18 |  |  1 |      つかいすての　きゅうこん。 もたせて　みずの　わざを　うけると とくこうが　あがる。 |
+|  588       18 |  |  3 |      단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다. |
+|  588       18 |  |  4 |      只能使用一次的球根。 攜帶它的寶可夢如果受到水屬性 招式的攻擊，特攻就會提高。 |
+|  588       18 |  |  5 |      Un bulbe jetable. Tenu, il augmente l'Attaque Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  588       18 |  |  6 |      Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft. |
+|  588       18 |  |  7 |      Raíz de usar y tirar que sube el Ataque Especial cuando se recibe un ataque de tipo Agua. |
+|  588       18 |  |  8 |      Bulbo monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, il suo Attacco Speciale aumenta. |
+|  588       18 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water-type attack. It can only be used once. |
+|  588       18 |  |  11 |     使い捨ての　きゅうこん。 持たせて　みずの　技を　受けると 特攻が　あがる。 |
+|  588       18 |  |  12 |     一次性使用的球根。 携带它的宝可梦如果受到水属性 招式的攻击，特攻就会提高。 |
+|  588       19 |  |  1 |      つかいすての　きゅうこん。 もたせて　みずの　わざを　うけると とくこうが　あがる。 |
+|  588       19 |  |  3 |      단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다. |
+|  588       19 |  |  4 |      只能使用一次的球根。 攜帶它的寶可夢如果受到水屬性 招式的攻擊，特攻就會提高。 |
+|  588       19 |  |  5 |      Un bulbe jetable. Tenu, il augmente l'Attaque Spéciale lorsque le Pokémon subit une attaque de type Eau. |
+|  588       19 |  |  6 |      Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft. |
+|  588       19 |  |  7 |      Raíz de usar y tirar que sube el Ataque Especial cuando se recibe un ataque de tipo Agua. |
+|  588       19 |  |  8 |      Bulbo monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, il suo Attacco Speciale aumenta. |
+|  588       19 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once. |
+|  588       19 |  |  11 |     使い捨ての　きゅうこん。 持たせて　みずの　技を　受けると 特攻が　あがる。 |
+|  588       19 |  |  12 |     一次性使用的球根。 携带它的宝可梦如果受到水属性 招式的攻击，特攻就会提高。 |
+|  588       20 |  |  1 |      つかいすての　きゅうこん。 もたせて　みずの　わざを　うけると とくこうが　あがる。 |
+|  588       20 |  |  3 |      단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다. |
+|  588       20 |  |  4 |      只能使用一次的球根。 攜帶它的寶可夢如果受到水屬性 招式的攻擊，特攻就會提高。 |
+|  588       20 |  |  5 |      Objet à tenir. Un bulbe jetable qui augmente l'Attaque Spéciale du porteur lorsqu'il encaisse une attaque de type Eau. |
+|  588       20 |  |  6 |      Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft. |
+|  588       20 |  |  7 |      Aumenta el Ataque Especial del portador si le alcanza un ataque de tipo Agua. Desaparece tras usarlo. |
+|  588       20 |  |  8 |      Bulbo monouso. Se il Pokémon che ha questo strumento subisce una mossa di tipo Acqua, il suo Attacco Speciale aumenta. |
+|  588       20 |  |  9 |      An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once. |
+|  588       20 |  |  11 |     使い捨ての　きゅうこん。 持たせて　みずの　技を　受けると 特攻が　あがる。 |
+|  588       20 |  |  12 |     一次性使用的球根。 携带它的宝可梦如果受到水属性 招式的攻击，特攻就会提高。 |
+|  589       11 |  |  5 |      Pile jetable. Tenue, elle augmente l'Attaque lorsque le Pokémon subit une attaque de type Électrik. |
+|  589       11 |  |  9 |      A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise. |
+|  589       14 |  |  9 |      A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise. |
+|  589       15 |  |  1 |      つかいすての　じゅうでんち。 もたせて　でんきの　わざを　うけると こうげきが　あがる。 |
+|  589       15 |  |  3 |      단 한 번 쓰면 없어지는 충전지. 지니게 하고 전기 기술을 받으면 공격이 올라간다. |
+|  589       15 |  |  5 |      Une pile jetable. Tenue, elle augmente l'Attaque lorsque le Pokémon subit une attaque de type Électrik. |
+|  589       15 |  |  6 |      Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft. |
+|  589       15 |  |  7 |      Pluma que aumenta un poco los PS de base de un Pokémon. |
+|  589       15 |  |  8 |      Pila monouso. Se il Pokémon che ha questo strumento subisce un attacco di tipo Elettro, il suo Attacco aumenta. |
+|  589       15 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Electric- type attack. It can only be used once. |
+|  589       15 |  |  11 |     使い捨ての　じゅうでんち。 持たせて　でんきの　技を　受けると 攻撃が　あがる。 |
+|  589       17 |  |  1 |      つかいすての　じゅうでんち。 もたせて　でんきの　わざを　うけると こうげきが　あがる。 |
+|  589       17 |  |  3 |      단 한 번 쓰면 없어지는 충전지. 지니게 하고 전기 기술을 받으면 공격이 올라간다. |
+|  589       17 |  |  4 |      只能使用一次的充電電池。 攜帶它的寶可夢如果受到電屬性 招式的攻擊，攻擊就會提高。 |
+|  589       17 |  |  5 |      Une pile jetable. Tenue, elle augmente l'Attaque lorsque le Pokémon subit une attaque de type Électrik. |
+|  589       17 |  |  6 |      Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft. |
+|  589       17 |  |  7 |      Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico. |
+|  589       17 |  |  8 |      Pila monouso. Se il Pokémon che ha questo strumento subisce un attacco di tipo Elettro, il suo Attacco aumenta. |
+|  589       17 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Electric-type attack. It can only be used once. |
+|  589       17 |  |  11 |     使い捨ての　じゅうでんち。 持たせて　でんきの　技を　受けると 攻撃が　あがる。 |
+|  589       17 |  |  12 |     一次性使用的充电电池。 携带它的宝可梦如果受到电属性 招式的攻击，攻击就会提高。 |
+|  589       18 |  |  1 |      つかいすての　じゅうでんち。 もたせて　でんきの　わざを　うけると こうげきが　あがる。 |
+|  589       18 |  |  3 |      단 한 번 쓰면 없어지는 충전지. 지니게 하고 전기 기술을 받으면 공격이 올라간다. |
+|  589       18 |  |  4 |      只能使用一次的充電電池。 攜帶它的寶可夢如果受到電屬性 招式的攻擊，攻擊就會提高。 |
+|  589       18 |  |  5 |      Une pile jetable. Tenue, elle augmente l'Attaque lorsque le Pokémon subit une attaque de type Électrik. |
+|  589       18 |  |  6 |      Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft. |
+|  589       18 |  |  7 |      Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico. |
+|  589       18 |  |  8 |      Pila monouso. Se il Pokémon che ha questo strumento subisce un attacco di tipo Elettro, il suo Attacco aumenta. |
+|  589       18 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if hit with an Electric-type attack. It can only be used once. |
+|  589       18 |  |  11 |     使い捨ての　じゅうでんち。 持たせて　でんきの　技を　受けると 攻撃が　あがる。 |
+|  589       18 |  |  12 |     一次性使用的充电电池。 携带它的宝可梦如果受到电属性 招式的攻击，攻击就会提高。 |
+|  589       19 |  |  1 |      つかいすての　じゅうでんち。 もたせて　でんきの　わざを　うけると こうげきが　あがる。 |
+|  589       19 |  |  3 |      단 한 번 쓰면 없어지는 충전지. 지니게 하고 전기 기술을 받으면 공격이 올라간다. |
+|  589       19 |  |  4 |      只能使用一次的充電電池。 攜帶它的寶可夢如果受到電屬性 招式的攻擊，攻擊就會提高。 |
+|  589       19 |  |  5 |      Une pile jetable. Tenue, elle augmente l'Attaque lorsque le Pokémon subit une attaque de type Électrik. |
+|  589       19 |  |  6 |      Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft. |
+|  589       19 |  |  7 |      Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico. |
+|  589       19 |  |  8 |      Pila monouso. Se il Pokémon che ha questo strumento subisce un attacco di tipo Elettro, il suo Attacco aumenta. |
+|  589       19 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Electric-type attack. It can only be used once. |
+|  589       19 |  |  11 |     使い捨ての　じゅうでんち。 持たせて　でんきの　技を　受けると 攻撃が　あがる。 |
+|  589       19 |  |  12 |     一次性使用的充电电池。 携带它的宝可梦如果受到电属性 招式的攻击，攻击就会提高。 |
+|  589       20 |  |  1 |      つかいすての　じゅうでんち。 もたせて　でんきの　わざを　うけると こうげきが　あがる。 |
+|  589       20 |  |  3 |      단 한 번 쓰면 없어지는 충전지. 지니게 하고 전기 기술을 받으면 공격이 올라간다. |
+|  589       20 |  |  4 |      只能使用一次的充電電池。 攜帶它的寶可夢如果受到電屬性 招式的攻擊，攻擊就會提高。 |
+|  589       20 |  |  5 |      Objet à tenir. Une pile jetable qui augmente l'Attaque du porteur lorsqu'il encaisse une attaque de type Électrik. |
+|  589       20 |  |  6 |      Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft. |
+|  589       20 |  |  7 |      Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico. |
+|  589       20 |  |  8 |      Pila monouso. Se il Pokémon che ha questo strumento subisce un attacco di tipo Elettro, il suo Attacco aumenta. |
+|  589       20 |  |  9 |      An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Electric-type attack. It can only be used once. |
+|  589       20 |  |  11 |     使い捨ての　じゅうでんち。 持たせて　でんきの　技を　受けると 攻撃が　あがる。 |
+|  589       20 |  |  12 |     一次性使用的充电电池。 携带它的宝可梦如果受到电属性 招式的攻击，攻击就会提高。 |
+|  590       11 |  |  5 |      Si le Pokémon qui le tient subit une attaque, il s'enfuit pour être remplacé par un autre membre de l'équipe. |
+|  590       11 |  |  9 |      If the holder is hit by an attack, it will switch with another Pokémon in your party. |
+|  590       14 |  |  9 |      If the holder is hit by an attack, it will switch with another Pokémon in your party. |
+|  590       15 |  |  1 |      もたせて　わざを　うけると せんとうから　だっしゅつして てもちと　いれかわる　ことができる。 |
+|  590       15 |  |  3 |      지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다. |
+|  590       15 |  |  5 |      Si le Pokémon qui le tient subit une attaque, il s'enfuit pour être remplacé par un autre membre de l'équipe. |
+|  590       15 |  |  6 |      Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht. |
+|  590       15 |  |  7 |      Pluma que aumenta un poco el Ataque de base de un Pokémon. |
+|  590       15 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco, viene immediatamente sostituito da un compagno. |
+|  590       15 |  |  9 |      An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. |
+|  590       15 |  |  11 |     持たせて　技を　受けると 戦闘から　脱出して 手持ちと　入れ替わる　ことができる。 |
+|  590       17 |  |  1 |      もたせて　わざを　うけると せんとうから　だっしゅつして てもちと　いれかわる　ことができる。 |
+|  590       17 |  |  3 |      지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다. |
+|  590       17 |  |  4 |      攜帶它的寶可夢如果受到招式攻擊， 就能從戰鬥中逃脫，並和同行的 其他寶可夢進行替換。 |
+|  590       17 |  |  5 |      Si le Pokémon qui le tient subit une attaque, il s'enfuit pour être remplacé par un autre membre de l'équipe. |
+|  590       17 |  |  6 |      Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht. |
+|  590       17 |  |  7 |      Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo. |
+|  590       17 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco, viene immediatamente sostituito da un altro membro della squadra. |
+|  590       17 |  |  9 |      An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. |
+|  590       17 |  |  11 |     持たせて　技を　受けると 戦闘から　脱出して 手持ちと　入れ替わる　ことができる。 |
+|  590       17 |  |  12 |     携带它的宝可梦如果受到招式攻击， 就能逃脱战斗，并和同行的 其他宝可梦进行替换。 |
+|  590       18 |  |  1 |      もたせて　わざを　うけると せんとうから　だっしゅつして てもちと　いれかわる　ことができる。 |
+|  590       18 |  |  3 |      지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다. |
+|  590       18 |  |  4 |      攜帶它的寶可夢如果受到招式攻擊， 就能從戰鬥中逃脫，並和同行的 其他寶可夢進行替換。 |
+|  590       18 |  |  5 |      Si le Pokémon qui le tient subit une attaque, il s'enfuit pour être remplacé par un autre membre de l'équipe. |
+|  590       18 |  |  6 |      Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht. |
+|  590       18 |  |  7 |      Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo. |
+|  590       18 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco, viene immediatamente sostituito da un altro membro della squadra. |
+|  590       18 |  |  9 |      An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. |
+|  590       18 |  |  11 |     持たせて　技を　受けると 戦闘から　脱出して 手持ちと　入れ替わる　ことができる。 |
+|  590       18 |  |  12 |     携带它的宝可梦如果受到招式攻击， 就能逃脱战斗，并和同行的 其他宝可梦进行替换。 |
+|  590       19 |  |  1 |      もたせて　わざを　うけると せんとうから　だっしゅつして てもちと　いれかわる　ことができる。 |
+|  590       19 |  |  3 |      지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다. |
+|  590       19 |  |  4 |      攜帶它的寶可夢如果受到招式攻擊， 就能從戰鬥中逃脫，並和同行的 其他寶可夢進行替換。 |
+|  590       19 |  |  5 |      Si le Pokémon qui le tient subit une attaque, il s'enfuit pour être remplacé par un autre membre de l'équipe. |
+|  590       19 |  |  6 |      Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht. |
+|  590       19 |  |  7 |      Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo. |
+|  590       19 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco, viene immediatamente sostituito da un altro membro della squadra. |
+|  590       19 |  |  9 |      An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. |
+|  590       19 |  |  11 |     持たせて　技を　受けると 戦闘から　脱出して 手持ちと　入れ替わる　ことができる。 |
+|  590       19 |  |  12 |     携带它的宝可梦如果受到招式攻击， 就能逃脱战斗，并和同行的 其他宝可梦进行替换。 |
+|  590       20 |  |  1 |      もたせて　わざを　うけると せんとうから　だっしゅつして てもちと　いれかわる　ことができる。 |
+|  590       20 |  |  3 |      지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다. |
+|  590       20 |  |  4 |      攜帶它的寶可夢如果受到招式攻擊， 就能從戰鬥中逃脫，並和同行的 其他寶可夢進行替換。 |
+|  590       20 |  |  5 |      Objet à tenir. Permet au porteur de quitter le combat après avoir été touché par une attaque. |
+|  590       20 |  |  6 |      Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht. |
+|  590       20 |  |  7 |      Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo. |
+|  590       20 |  |  8 |      Se il Pokémon che ha questo strumento è colpito da un attacco, viene immediatamente sostituito da un altro membro della squadra. |
+|  590       20 |  |  9 |      An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle. |
+|  590       20 |  |  11 |     持たせて　技を　受けると 戦闘から　脱出して 手持ちと　入れ替わる　ことができる。 |
+|  590       20 |  |  12 |     携带它的宝可梦如果受到招式攻击， 就能逃脱战斗，并和同行的 其他宝可梦进行替换。 |
+|  591       11 |  |  5 |      Objet à tenir. Joyau augmentant une fois la puissance des capacités de type Feu. |
+|  591       11 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once. |
+|  591       14 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once. |
+|  591       15 |  |  1 |      ほのおの　タイプの　ジュエル。 もたせると　いちどだけ　ほのおの わざの　いりょくが　つよまる。 |
+|  591       15 |  |  3 |      불꽃타입의 주얼. 지니게 하면 한 번만 불꽃 기술의 위력이 강해진다. |
+|  591       15 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Feu. |
+|  591       15 |  |  6 |      Ein Juwel vom Typ Feuer. Es erhöht einmalig die Stärke einer Attacke vom Typ Feuer. |
+|  591       15 |  |  7 |      Pluma que aumenta un poco la Defensa de base de un Pokémon. |
+|  591       15 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Fuoco. |
+|  591       15 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time. |
+|  591       15 |  |  11 |     ほのおの　タイプの　ジュエル。 持たせると　１度だけ　ほのおの 技の　威力が　強まる。 |
+|  591       17 |  |  1 |      ほのおの　タイプの　ジュエル。 もたせると　いちどだけ　ほのおの わざの　いりょくが　つよまる。 |
+|  591       17 |  |  3 |      불꽃타입의 주얼. 지니게 하면 한 번만 불꽃 기술의 위력이 강해진다. |
+|  591       17 |  |  4 |      火屬性的寶石。 攜帶後，火屬性招式的 威力會僅增強１次。 |
+|  591       17 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Feu. |
+|  591       17 |  |  6 |      Ein Juwel vom Typ Feuer. Es erhöht einmalig die Stärke einer Attacke vom Typ Feuer. |
+|  591       17 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon. |
+|  591       17 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Fuoco. |
+|  591       17 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time. |
+|  591       17 |  |  11 |     ほのおの　タイプの　ジュエル。 持たせると　１度だけ　ほのおの 技の　威力が　強まる。 |
+|  591       17 |  |  12 |     火属性的宝石。 携带后，火属性的 招式威力仅会增强１次。 |
+|  591       18 |  |  1 |      ほのおの　タイプの　ジュエル。 もたせると　いちどだけ　ほのおの わざの　いりょくが　つよまる。 |
+|  591       18 |  |  3 |      불꽃타입의 주얼. 지니게 하면 한 번만 불꽃 기술의 위력이 강해진다. |
+|  591       18 |  |  4 |      火屬性的寶石。 攜帶後，火屬性招式的 威力會僅增強１次。 |
+|  591       18 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Feu. |
+|  591       18 |  |  6 |      Ein Juwel vom Typ Feuer. Es erhöht einmalig die Stärke einer Attacke vom Typ Feuer. |
+|  591       18 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon. |
+|  591       18 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Fuoco. |
+|  591       18 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time. |
+|  591       18 |  |  11 |     ほのおの　タイプの　ジュエル。 持たせると　１度だけ　ほのおの 技の　威力が　強まる。 |
+|  591       18 |  |  12 |     火属性的宝石。 携带后，火属性的 招式威力仅会增强１次。 |
+|  591       19 |  |  1 |      ほのおの　タイプの　ジュエル。 もたせると　いちどだけ　ほのおの わざの　いりょくが　つよまる。 |
+|  591       19 |  |  3 |      불꽃타입의 주얼. 지니게 하면 한 번만 불꽃 기술의 위력이 강해진다. |
+|  591       19 |  |  4 |      火屬性的寶石。 攜帶後，火屬性招式的 威力會僅增強１次。 |
+|  591       19 |  |  5 |      Objet à tenir. Un joyau augmentant une fois la puissance des capacités de type Feu. |
+|  591       19 |  |  6 |      Ein Juwel vom Typ Feuer. Es erhöht einmalig die Stärke einer Attacke vom Typ Feuer. |

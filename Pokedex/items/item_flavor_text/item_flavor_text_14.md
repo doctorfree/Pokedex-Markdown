@@ -1,7030 +1,1752 @@
-| item_id | version_group_id | language_id | flavor_text |
-|---------|------------------|-------------|-------------|
-| 744     | 20               | 1           | ミアレシティと　キナンシティを
-むすぶ　ちょうこうそくてつどうに
-いつでも　のれる　チケット。                                                                                                                    |
-| 744     | 20               | 3           | 미르시티와 기남시티를 잇는
-초고속철도를 언제든지
-탈 수 있는 티켓.                                                                                                                              |
-| 744     | 20               | 4           | 可以隨時乘坐連接著
-密阿雷市和奇楠市的
-超高速列車的車票。                                                                                                                                      |
-| 744     | 20               | 5           | Un abonnement à vie à la ligne de TMV qui relie
-Illumis à Batisques.                                                                                               |
-| 744     | 20               | 6           | Mit dieser Fahrkarte kannst du jederzeit den
-Hochgeschwindigkeitszug nehmen, der zwischen
-Illumina City und Batika City verkehrt.                                  |
-| 744     | 20               | 7           | Pase que permite realizar viajes ilimitados en el TMV
-que une las ciudades de Luminalia y Batik.                                                                   |
-| 744     | 20               | 8           | Biglietto che permette di salire liberamente
-sul treno a megavelocità che collega Luminopoli
-e Batikopoli.                                                         |
-| 744     | 20               | 9           | A commuter pass that allows the holder to ride the
-TMV between Lumiose City and Kiloude City at
-any time.                                                          |
-| 744     | 20               | 11          | ミアレシティと　キナンシティを
-結ぶ　超高速鉄道に
-いつでも　乗れる　チケット。                                                                                                                           |
-| 744     | 20               | 12          | 可以随时乘坐连接着
-密阿雷市和奇楠市的
-超高速列车的车票。                                                                                                                                      |
-| 745     | 15               | 1           | しぜんの　ちからで　こうげきする。
-つかう　ばしょで
-でてくる　わざが　へんかする。                                                                                                                         |
-| 745     | 15               | 3           | 자연의 힘으로 공격한다.
-사용하는 장소에 따라
-나오는 기술이 변화한다.                                                                                                                            |
-| 745     | 15               | 5           | Une attaque qui tire sa force de la nature.
-Son type varie selon le terrain.                                                                                       |
-| 745     | 15               | 6           | Angriff mit der Kraft der Natur, dessen Typ
-vom Ort abhängt, wo er durchgeführt wird.                                                                              |
-| 745     | 15               | 7           | Especialidad de Ciudad Yantra. Cura los
-problemas de estado de un Pokémon.                                                                                         |
-| 745     | 15               | 8           | Mossa che fa uso della forza della natura.
-Il suo effetto varia in base all’ambiente.                                                                              |
-| 745     | 15               | 9           | An attack that makes use of nature’s
-power. Its effects vary depending on
-the user’s environment.                                                                  |
-| 745     | 15               | 11          | 自然の　力で　攻撃する。
-使う　場所で
-でてくる　技が　変化する。                                                                                                                                  |
-| 745     | 17               | 1           | しぜんの　ちからで　こうげきする。
-つかう　ばしょで
-でてくる　わざが　へんかする。                                                                                                                         |
-| 745     | 17               | 3           | 자연의 힘으로 공격한다.
-사용하는 장소에 따라
-나오는 기술이 변화한다.                                                                                                                            |
-| 745     | 17               | 4           | 用自然之力進行攻擊。
-隨著使用場所的不同，
-使出的招式也會有所變化。                                                                                                                                 |
-| 745     | 17               | 5           | Une attaque qui tire sa force de la nature.
-Son type varie selon le terrain.                                                                                       |
-| 745     | 17               | 6           | Angriff mit der Kraft der Natur, dessen Typ vom
-Ort abhängt, an dem er durchgeführt wird.                                                                          |
-| 745     | 17               | 7           | Usa el poder de la naturaleza para atacar.
-Su efecto varía según el entorno de combate.                                                                            |
-| 745     | 17               | 8           | Mossa che fa uso della forza della natura.
-Il suo effetto varia in base all’ambiente.                                                                              |
-| 745     | 17               | 9           | This attack makes use of nature’s power. Its
-effects vary depending on the user’s environment.                                                                     |
-| 745     | 17               | 11          | 自然の　力で　攻撃する。
-使う　場所で
-でてくる　技が　変化する。                                                                                                                                  |
-| 745     | 17               | 12          | 用自然之力进行攻击。
-根据所使用场所的不同，
-使出的招式也会有所变化。                                                                                                                                |
-| 745     | 18               | 1           | しぜんの　ちからで　こうげきする。
-つかう　ばしょで
-でてくる　わざが　へんかする。                                                                                                                         |
-| 745     | 18               | 3           | 자연의 힘으로 공격한다.
-사용하는 장소에 따라
-나오는 기술이 변화한다.                                                                                                                            |
-| 745     | 18               | 4           | 用自然之力進行攻擊。
-隨著使用場所的不同，
-使出的招式也會有所變化。                                                                                                                                 |
-| 745     | 18               | 5           | Une attaque qui tire sa force de la nature.
-Son type varie selon le terrain.                                                                                       |
-| 745     | 18               | 6           | Angriff mit der Kraft der Natur, dessen Typ vom
-Ort abhängt, an dem er durchgeführt wird.                                                                          |
-| 745     | 18               | 7           | Usa el poder de la naturaleza para atacar.
-Su efecto varía según el entorno de combate.                                                                            |
-| 745     | 18               | 8           | Mossa che fa uso della forza della natura.
-Il suo effetto varia in base all’ambiente.                                                                              |
-| 745     | 18               | 9           | This attack makes use of nature’s power. Its
-effects vary depending on the user’s environment.                                                                     |
-| 745     | 18               | 11          | 自然の　力で　攻撃する。
-使う　場所で
-でてくる　技が　変化する。                                                                                                                                  |
-| 745     | 18               | 12          | 用自然之力进行攻击。
-根据所使用场所的不同，
-使出的招式也会有所变化。                                                                                                                                |
-| 745     | 19               | 1           | しぜんの　ちからで　こうげきする。
-つかう　ばしょで
-でてくる　わざが　へんかする。                                                                                                                         |
-| 745     | 19               | 3           | 자연의 힘으로 공격한다.
-사용하는 장소에 따라
-나오는 기술이 변화한다.                                                                                                                            |
-| 745     | 19               | 4           | 用自然之力進行攻擊。
-隨著使用地點的不同，
-使出的招式也會改變。                                                                                                                                   |
-| 745     | 19               | 5           | Une attaque qui tire sa force de la nature.
-Son type varie selon le terrain.                                                                                       |
-| 745     | 19               | 6           | Angriff mit der Kraft der Natur. Die Wirkung dieser
-Attacke ist ortsabhängig.                                                                                      |
-| 745     | 19               | 7           | Usa el poder de la naturaleza para atacar.
-Su efecto varía según el entorno de combate.                                                                            |
-| 745     | 19               | 8           | Mossa che fa uso della forza della natura.
-Il suo effetto varia in base all’ambiente.                                                                              |
-| 745     | 19               | 9           | This attack makes use of nature’s power. Its
-effects vary depending on the user’s environment.                                                                     |
-| 745     | 19               | 11          | 自然の　力で　攻撃する。
-使う　場所で
-でてくる　技が　変化する。                                                                                                                                  |
-| 745     | 19               | 12          | 用自然之力进行攻击。
-根据所使用场所的不同，
-使出的招式也会有所变化。                                                                                                                                |
-| 745     | 20               | 1           | とがった　つので　あいてを
-つきさして　こうげきする。
-こうげきは　かならず　めいちゅう　する。                                                                                                                   |
-| 745     | 20               | 3           | 뾰족한 뿔로 상대를
-꿰찔러서 공격한다.
-공격은 반드시 명중한다.                                                                                                                                |
-| 745     | 20               | 4           | 用尖尖的角刺進對手進行攻擊。
-攻擊必定會命中。                                                                                                                                            |
-| 745     | 20               | 5           | Le lanceur transperce la cible avec sa corne effilée.
-Touche toujours l’ennemi.                                                                                    |
-| 745     | 20               | 6           | Der Anwender durchbohrt das Ziel mit seinem
-spitzen Horn. Diese Attacke trifft immer.                                                                              |
-| 745     | 20               | 7           | El usuario ensarta al adversario con su afilada
-cornamenta. Este movimiento acierta siempre.                                                                       |
-| 745     | 20               | 8           | Chi la usa colpisce il bersaglio con un corno appuntito.
-Questa mossa va sempre a segno.                                                                           |
-| 745     | 20               | 9           | The user stabs the target with a sharp horn.
-This attack never misses.                                                                                             |
-| 745     | 20               | 11          | とがった　つので　相手を
-突き刺して　攻撃する。
-攻撃は　必ず　命中する。                                                                                                                              |
-| 745     | 20               | 12          | 用尖尖的角刺入对手进行攻击。
-攻击必定会命中。                                                                                                                                            |
-| 746     | 15               | 1           | からだから　あくいに
-みちた　おそろしい　オーラを　はっする。
-あいてを　ひるませる　ことが　ある。                                                                                                                 |
-| 746     | 15               | 3           | 몸에서 악의로 가득한
-무서운 오라를 발한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                         |
-| 746     | 15               | 5           | Le lanceur dégage une horrible aura chargée
-d’idées noires. Peut aussi apeurer l’ennemi.                                                                           |
-| 746     | 15               | 6           | Anwender greift mit fürchterlicher Aura schlechter
-Gedanken an. Ziel schreckt eventuell zurück.                                                                    |
-| 746     | 15               | 7           | Fósil de un Pokémon prehistórico terrestre.
-Parece ser parte de una mandíbula.                                                                                     |
-| 746     | 15               | 8           | Chi la usa emana un’aura impregnata di oscuri
-pensieri. Può anche far tentennare il Pokémon
-colpito.                                                               |
-| 746     | 15               | 9           | The user releases a horrible aura
-imbued with dark thoughts. This
-may also make the target flinch.                                                                 |
-| 746     | 15               | 11          | 体から　悪意に　みちた
-恐ろしい　オーラを　発する。
-相手を　ひるませることが　ある。                                                                                                                        |
-| 746     | 17               | 1           | からだから　あくいに
-みちた　おそろしい　オーラを　はっする。
-あいてを　ひるませる　ことが　ある。                                                                                                                 |
-| 746     | 17               | 3           | 몸에서 악의로 가득한
-무서운 오라를 발한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                         |
-| 746     | 17               | 4           | 從身體發出
-充滿惡意的恐怖氣場。
-有時會使對手畏縮。                                                                                                                                         |
-| 746     | 17               | 5           | Le lanceur dégage une horrible aura chargée
-d’idées noires. Peut aussi apeurer l’ennemi.                                                                           |
-| 746     | 17               | 6           | Anwender greift mit fürchterlicher Aura schlechter
-Gedanken an. Ziel schreckt eventuell zurück.                                                                    |
-| 746     | 17               | 7           | Libera una horrible aura llena de malos
-pensamientos y puede hacer retroceder al
-objetivo.                                                                         |
-| 746     | 17               | 8           | Chi la usa emana un’aura impregnata di oscuri
-pensieri. Può anche far tentennare il Pokémon
-colpito.                                                               |
-| 746     | 17               | 9           | The user releases a horrible aura imbued with dark
-thoughts. This may also make the target flinch.                                                                 |
-| 746     | 17               | 11          | 体から　悪意に　みちた
-恐ろしい　オーラを　発する。
-相手を　ひるませることが　ある。                                                                                                                        |
-| 746     | 17               | 12          | 从体内发出
-充满恶意的恐怖气场。
-有时会使对手畏缩。                                                                                                                                         |
-| 746     | 18               | 1           | からだから　あくいに
-みちた　おそろしい　オーラを　はっする。
-あいてを　ひるませる　ことが　ある。                                                                                                                 |
-| 746     | 18               | 3           | 몸에서 악의로 가득한
-무서운 오라를 발한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                         |
-| 746     | 18               | 4           | 從身體發出
-充滿惡意的恐怖氣場。
-有時會使對手畏縮。                                                                                                                                         |
-| 746     | 18               | 5           | Le lanceur dégage une horrible aura chargée
-d’idées noires. Peut aussi apeurer l’ennemi.                                                                           |
-| 746     | 18               | 6           | Anwender greift mit fürchterlicher Aura schlechter
-Gedanken an. Ziel schreckt eventuell zurück.                                                                    |
-| 746     | 18               | 7           | Libera una horrible aura llena de malos
-pensamientos y puede hacer retroceder al
-objetivo.                                                                         |
-| 746     | 18               | 8           | Chi la usa emana un’aura impregnata di oscuri
-pensieri. Può anche far tentennare il Pokémon
-colpito.                                                               |
-| 746     | 18               | 9           | The user releases a horrible aura imbued with dark
-thoughts. This may also make the target flinch.                                                                 |
-| 746     | 18               | 11          | 体から　悪意に　みちた
-恐ろしい　オーラを　発する。
-相手を　ひるませることが　ある。                                                                                                                        |
-| 746     | 18               | 12          | 从体内发出
-充满恶意的恐怖气场。
-有时会使对手畏缩。                                                                                                                                         |
-| 746     | 19               | 1           | からだから　あくいに
-みちた　おそろしい　オーラを　はっする。
-あいてを　ひるませる　ことが　ある。                                                                                                                 |
-| 746     | 19               | 3           | 몸에서 악의로 가득한
-무서운 오라를 발한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                         |
-| 746     | 19               | 4           | 從身體散發出
-充滿惡意的恐怖氣場。
-有時會使對手畏縮。                                                                                                                                        |
-| 746     | 19               | 5           | Le lanceur dégage une horrible aura chargée
-d’idées noires. Peut aussi apeurer l’ennemi.                                                                           |
-| 746     | 19               | 6           | Anwender greift mit fürchterlicher Aura schlechter
-Gedanken an. Ziel schreckt eventuell zurück.                                                                    |
-| 746     | 19               | 7           | Libera una horrible aura llena de malos pensamientos
-y puede hacer retroceder al objetivo.                                                                         |
-| 746     | 19               | 8           | Chi la usa emana un’aura impregnata di oscuri
-pensieri. Può anche far tentennare il Pokémon
-colpito.                                                               |
-| 746     | 19               | 9           | The user releases a horrible aura imbued with dark
-thoughts. This may also make the target flinch.                                                                 |
-| 746     | 19               | 11          | 体から　悪意に　みちた
-恐ろしい　オーラを　発する。
-相手を　ひるませることが　ある。                                                                                                                        |
-| 746     | 19               | 12          | 从体内发出
-充满恶意的恐怖气场。
-有时会使对手畏缩。                                                                                                                                         |
-| 746     | 20               | 1           | じぶんの　からだを
-ぶんまわして　あいてに
-ダメージを　あたえる。                                                                                                                                  |
-| 746     | 20               | 3           | 자신의 몸을
-세차게 휘둘러서
-상대에게 데미지를 준다.                                                                                                                                      |
-| 746     | 20               | 4           | 用自己的身體狂舞揮打，
-給予對手傷害。                                                                                                                                                |
-| 746     | 20               | 5           | Le lanceur pivote pour prendre de l’élan et infliger
-des dégâts.                                                                                                   |
-| 746     | 20               | 6           | Der Anwender dreht schwungvoll seinen Körper und
-fügt allen Pokémon im Umkreis dabei Schaden zu.                                                                   |
-| 746     | 20               | 7           | Hace pivotar su cuerpo para causar daño a su alrededor.                                                                                                            |
-| 746     | 20               | 8           | Chi la usa infligge danni intorno a sé facendo ruotare
-una parte del suo corpo.                                                                                    |
-| 746     | 20               | 9           | The user swings its body around violently to inflict
-damage on everything in its vicinity.                                                                         |
-| 746     | 20               | 11          | 自分の　体を
-ぶんまわして　相手に
-ダメージを　与える。                                                                                                                                       |
-| 746     | 20               | 12          | 用自己的身体狂舞挥打，
-给予对手伤害。                                                                                                                                                |
-| 747     | 15               | 1           | くりかえし　うつことで
-だんだん　こぶしが　かたくなる。
-あいてに　あてると　こうげきが　あがる。                                                                                                                  |
-| 747     | 15               | 3           | 반복해서 쓰면
-점점 주먹이 단단해진다.
-상대에게 맞히면 공격이 올라간다.                                                                                                                           |
-| 747     | 15               | 5           | À force de frapper, les poings deviennent plus
-durs. Augmente l’Attaque du lanceur si l’ennemi
-est touché.                                                         |
-| 747     | 15               | 6           | Durch wiederholtes Zuschlagen werden die
-Fäuste des Anwenders allmählich härter.
-Trifft er den Gegner, steigt sein Angriffs-Wert.                                  |
-| 747     | 15               | 7           | Fósil de un Pokémon prehistórico terrestre.
-Parece la impresión de una aleta.                                                                                      |
-| 747     | 15               | 8           | Rende i pugni più duri a ogni colpo inferto.
-Se i pugni vanno a segno, aumenta l’Attacco.                                                                          |
-| 747     | 15               | 9           | Striking opponents over and over
-makes the user’s fists harder.
-Hitting a target raises the Attack stat.                                                           |
-| 747     | 15               | 11          | くり返し　打つことで
-だんだん　こぶしが　固くなる。
-相手に　あてると　攻撃が　あがる。                                                                                                                       |
-| 747     | 17               | 1           | すごい　いきおいで　あいてに　つっこむ。
-あいてを　ひるませる　ことが　ある。                                                                                                                            |
-| 747     | 17               | 3           | 굉장한 기세로 상대에게 돌진한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                               |
-| 747     | 17               | 4           | 以驚人的氣勢撲向對手。
-有時會讓對手畏縮。                                                                                                                                              |
-| 747     | 17               | 5           | Le lanceur charge l’ennemi à une vitesse
-remarquable, ce qui peut l’apeurer.                                                                                       |
-| 747     | 17               | 6           | Eine mächtige Attacke, durch die das Ziel eventuell
-zurückschreckt.                                                                                                |
-| 747     | 17               | 7           | Embiste con un gran impulso que puede hacer
-retroceder.                                                                                                            |
-| 747     | 17               | 8           | Carica il bersaglio a grande velocità e può farlo
-tentennare.                                                                                                      |
-| 747     | 17               | 9           | The user charges at the target and may make
-it flinch.                                                                                                             |
-| 747     | 17               | 11          | すごい　勢いで　相手に　つっこむ。
-相手を　ひるませることが　ある。                                                                                                                                 |
-| 747     | 17               | 12          | 以惊人的气势扑向对手。
-有时会使对手畏缩。                                                                                                                                              |
-| 747     | 18               | 1           | すごい　いきおいで　あいてに　つっこむ。
-あいてを　ひるませる　ことが　ある。                                                                                                                            |
-| 747     | 18               | 3           | 굉장한 기세로 상대에게 돌진한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                               |
-| 747     | 18               | 4           | 以驚人的氣勢撲向對手。
-有時會讓對手畏縮。                                                                                                                                              |
-| 747     | 18               | 5           | Le lanceur charge l’ennemi à une vitesse
-remarquable, ce qui peut l’apeurer.                                                                                       |
-| 747     | 18               | 6           | Eine mächtige Attacke, durch die das Ziel eventuell
-zurückschreckt.                                                                                                |
-| 747     | 18               | 7           | Embiste con un gran impulso que puede hacer
-retroceder.                                                                                                            |
-| 747     | 18               | 8           | Carica il bersaglio a grande velocità e può farlo
-tentennare.                                                                                                      |
-| 747     | 18               | 9           | The user charges at the target and may make
-it flinch.                                                                                                             |
-| 747     | 18               | 11          | すごい　勢いで　相手に　つっこむ。
-相手を　ひるませることが　ある。                                                                                                                                 |
-| 747     | 18               | 12          | 以惊人的气势扑向对手。
-有时会使对手畏缩。                                                                                                                                              |
-| 747     | 19               | 1           | すごい　いきおいで　あいてに　つっこむ。
-あいてを　ひるませる　ことが　ある。                                                                                                                            |
-| 747     | 19               | 3           | 굉장한 기세로 상대에게 돌진한다.
-상대를 풀죽게 만들 때가 있다.                                                                                                                               |
-| 747     | 19               | 4           | 以驚人的氣勢撲向對手。
-有時會讓對手畏縮。                                                                                                                                              |
-| 747     | 19               | 5           | Le lanceur charge l’ennemi à une vitesse
-remarquable, ce qui peut l’apeurer.                                                                                       |
-| 747     | 19               | 6           | Eine mächtige Attacke, durch die das Ziel eventuell
-zurückschreckt.                                                                                                |
-| 747     | 19               | 7           | Embiste con un gran impulso que puede hacer
-retroceder.                                                                                                            |
-| 747     | 19               | 8           | Carica il bersaglio a grande velocità e può farlo
-tentennare.                                                                                                      |
-| 747     | 19               | 9           | The user charges at the target and may make
-it flinch.                                                                                                             |
-| 747     | 19               | 11          | すごい　勢いで　相手に　つっこむ。
-相手を　ひるませることが　ある。                                                                                                                                 |
-| 747     | 19               | 12          | 以惊人的气势扑向对手。
-有时会使对手畏缩。                                                                                                                                              |
-| 747     | 20               | 1           | くやしさを　バネにして　こうげきする。
-まえの　ターンに　わざを　はずしていると
-いりょくが　ばいに　なる。                                                                                                             |
-| 747     | 20               | 3           | 분함을 발판 삼아 공격한다.
-앞 턴에서 기술이 빗나갔다면
-위력이 배가 된다.                                                                                                                         |
-| 747     | 20               | 4           | 化悔恨為力量進行攻擊。
-如果上一回合的招式沒有命中，
-威力就會加倍。                                                                                                                                 |
-| 747     | 20               | 5           | Le lanceur attaque en utilisant sa frustration. S’il a
-utilisé une capacité qui a échoué au tour précédent,
-la puissance de Trépignement est doublée.              |
-| 747     | 20               | 6           | Von Frust getrieben greift der Anwender an.
-Wenn seine vorige Attacke fehlgeschlagen ist,
-verdoppelt sich die Stärke der Attacke.                                  |
-| 747     | 20               | 7           | Usa la frustración como revulsivo para atacar.
-La potencia de Pataleta se duplica si el usuario
-ha fallado el último movimiento usado.                             |
-| 747     | 20               | 8           | Chi la usa attacca battendo i piedi per la rabbia.
-Se la mossa usata al turno precedente non è
-andata a segno, la potenza raddoppia.                               |
-| 747     | 20               | 9           | Driven by frustration, the user attacks the target.
-If the user’s previous move has failed, the power
-of this move doubles.                                        |
-| 747     | 20               | 11          | 悔しさを　バネにして　攻撃する。
-前の　ターンに　技を　外していると
-威力が　倍に　なる。                                                                                                                      |
-| 747     | 20               | 12          | 化悔恨为力量进行攻击。
-如果上一回合招式没有打中，
-威力就会翻倍。                                                                                                                                  |
-| 748     | 15               | 1           | きょうりょくな　ひかりを　はなち
-あいてに　ダメージを　あたえる。
-                                                                                                                                 |
-| 748     | 15               | 3           | 강력한 빛을 쏴서
-상대에게 데미지를 준다.                                                                                                                                            |
-| 748     | 15               | 5           | Libère une puissante décharge lumineuse qui
-inflige des dégâts à l’ennemi.                                                                                         |
-| 748     | 15               | 6           | Angriff mit einem starken Lichtstrahl, der dem
-Gegner Schaden zufügt.                                                                                              |
-| 748     | 15               | 7           | Boleto hecho a mano por Handsome, decorado
-con una generosa cantidad de purpurina.                                                                                 |
-| 748     | 15               | 8           | Emette una luce potentissima che infligge danni
-al bersaglio.                                                                                                      |
-| 748     | 15               | 9           | The user damages opposing Pokémon
-by emitting a powerful flash.                                                                                                    |
-| 748     | 15               | 11          | 強力な　光を　放ち
-相手に　ダメージを　与える。
-                                                                                                                                          |
-| 748     | 17               | 1           | きょうりょくな　ひかりを　はなち
-あいてに　ダメージを　あたえる。
-                                                                                                                                 |
-| 748     | 17               | 3           | 강력한 빛을 쏴서
-상대에게 데미지를 준다.                                                                                                                                            |
-| 748     | 17               | 4           | 向對手發出強光，
-並給予傷害。                                                                                                                                                    |
-| 748     | 17               | 5           | Libère une puissante décharge lumineuse qui
-inflige des dégâts à l’ennemi.                                                                                         |
-| 748     | 17               | 6           | Angriff mit einem starken Lichtstrahl, der dem
-Gegner Schaden zufügt.                                                                                              |
-| 748     | 17               | 7           | Inflige daño a los oponentes con una potente luz.                                                                                                                  |
-| 748     | 17               | 8           | Chi la usa emette una luce potentissima che
-infligge danni ai nemici intorno.                                                                                      |
-| 748     | 17               | 9           | The user damages opposing Pokémon by emitting a
-powerful flash.                                                                                                    |
-| 748     | 17               | 11          | 強力な　光を　放ち
-相手に　ダメージを　与える。
-                                                                                                                                          |
-| 748     | 17               | 12          | 向对手发出强光，
-并给予伤害。                                                                                                                                                    |
-| 748     | 18               | 1           | きょうりょくな　ひかりを　はなち
-あいてに　ダメージを　あたえる。
-                                                                                                                                 |
-| 748     | 18               | 3           | 강력한 빛을 쏴서
-상대에게 데미지를 준다.                                                                                                                                            |
-| 748     | 18               | 4           | 向對手發出強光，
-並給予傷害。                                                                                                                                                    |
-| 748     | 18               | 5           | Libère une puissante décharge lumineuse qui
-inflige des dégâts à l’ennemi.                                                                                         |
-| 748     | 18               | 6           | Angriff mit einem starken Lichtstrahl, der dem
-Gegner Schaden zufügt.                                                                                              |
-| 748     | 18               | 7           | Inflige daño a los oponentes con una potente luz.                                                                                                                  |
-| 748     | 18               | 8           | Chi la usa emette una luce potentissima che
-infligge danni ai nemici intorno.                                                                                      |
-| 748     | 18               | 9           | The user damages opposing Pokémon by emitting a
-powerful flash.                                                                                                    |
-| 748     | 18               | 11          | 強力な　光を　放ち
-相手に　ダメージを　与える。
-                                                                                                                                          |
-| 748     | 18               | 12          | 向对手发出强光，
-并给予伤害。                                                                                                                                                    |
-| 748     | 19               | 1           | きょうりょくな　ひかりを　はなち
-あいてに　ダメージを　あたえる。
-                                                                                                                                 |
-| 748     | 19               | 3           | 강력한 빛을 쏴서
-상대에게 데미지를 준다.                                                                                                                                            |
-| 748     | 19               | 4           | 向對手發出強光，
-並給予傷害。                                                                                                                                                    |
-| 748     | 19               | 5           | Libère une puissante décharge lumineuse qui inflige
-des dégâts à l’ennemi.                                                                                         |
-| 748     | 19               | 6           | Angriff mit einem starken Lichtstrahl, der dem
-Gegner Schaden zufügt.                                                                                              |
-| 748     | 19               | 7           | Inflige daño a los oponentes con una potente luz.                                                                                                                  |
-| 748     | 19               | 8           | Chi la usa emette una luce potentissima che
-infligge danni ai nemici intorno.                                                                                      |
-| 748     | 19               | 9           | The user damages opposing Pokémon by emitting a
-powerful flash.                                                                                                    |
-| 748     | 19               | 11          | 強力な　光を　放ち
-相手に　ダメージを　与える。
-                                                                                                                                          |
-| 748     | 19               | 12          | 向对手发出强光，
-并给予伤害。                                                                                                                                                    |
-| 748     | 20               | 1           | きょうじんな　しっぽを　はげしく
-ふりはらって　あいてを　こうげきする。
-あいての　こうげきを　さげる。                                                                                                               |
-| 748     | 20               | 3           | 강인한 꼬리를 세차게
-휘둘러서 상대를 공격한다.
-상대의 공격을 떨어뜨린다.                                                                                                                          |
-| 748     | 20               | 4           | 激烈地甩動強韌
-的尾巴攻擊對手，
-降低對手的攻擊。                                                                                                                                          |
-| 748     | 20               | 5           | Le lanceur balaie violemment le camp adverse
-avec son immense queue. Baisse l’Attaque de la cible.                                                                 |
-| 748     | 20               | 6           | Der Anwender schwingt heftig seinen robusten Schweif,
-um damit gegnerische Pokémon anzugreifen und ihren
-Angriffs-Wert zu senken.                                  |
-| 748     | 20               | 7           | El usuario sacude violentamente su enorme cola para
-golpear a todos los rivales y reducir su Ataque a la par.                                                      |
-| 748     | 20               | 8           | Chi la usa attacca i nemici intorno con la sua robusta
-coda riducendone l’Attacco.                                                                                 |
-| 748     | 20               | 9           | The user swings its tough tail wildly and attacks
-opposing Pokémon. This also lowers their Attack stats.                                                           |
-| 748     | 20               | 11          | きょうじんな　しっぽを　激しく
-ふりはらって　相手を　攻撃する。
-相手の　攻撃を　下げる。                                                                                                                      |
-| 748     | 20               | 12          | 用坚韧的尾巴
-猛扫对手进行攻击，
-从而降低对手的攻击。                                                                                                                                        |
-| 749     | 15               | 1           | ないしょばなしを　することで　あいての
-しゅうちゅうりょくを　うしなわせ
-あいての　とくこうを　さげる。                                                                                                               |
-| 749     | 15               | 3           | 비밀 이야기를 함으로써
-상대의 집중력을 잃게 하여
-특수공격을 떨어뜨린다.                                                                                                                           |
-| 749     | 15               | 5           | Dévoile des secrets à l’ennemi qui perd sa
-concentration et voit son Attaque Spéciale
-diminuer.                                                                    |
-| 749     | 15               | 6           | Der Anwender vertraut dem Ziel ein Geheimnis an.
-Dadurch stört er dessen Konzentration und senkt
-dessen Spezial-Angriff.                                           |
-| 749     | 15               | 7           | Bicicleta plegable con la que se va más rápido
-que corriendo.                                                                                                      |
-| 749     | 15               | 8           | Chi la usa svela dei segreti al bersaglio,
-distraendolo e riducendone l’Attacco Speciale.                                                                          |
-| 749     | 15               | 9           | The user tells the target a secret, and
-the target loses its ability to concentrate.
-This lowers the target’s Sp. Atk stat.                                        |
-| 749     | 15               | 11          | ないしょばなしを　することで　相手の
-集中力を　失わせ
-相手の　特攻を　さげる。                                                                                                                           |
-| 749     | 17               | 1           | ないしょばなしを　することで　あいての
-しゅうちゅうりょくを　うしなわせ
-あいての　とくこうを　さげる。                                                                                                               |
-| 749     | 17               | 3           | 비밀 이야기를 해서
-상대의 집중력을 잃게 하여
-특수공격을 떨어뜨린다.                                                                                                                             |
-| 749     | 17               | 4           | 向對手低聲密語，
-使其失去集中力，
-進而降低對手的特攻。                                                                                                                                       |
-| 749     | 17               | 5           | Dévoile des secrets à l’ennemi, qui perd alors
-sa concentration et voit son Attaque Spéciale
-diminuer.                                                             |
-| 749     | 17               | 6           | Der Anwender vertraut dem Ziel ein Geheimnis an.
-Dadurch stört er dessen Konzentration und senkt
-dessen Spezial-Angriff.                                           |
-| 749     | 17               | 7           | Hace que el objetivo pierda la concentración
-contándole un secreto. Disminuye el Ataque
-Especial del oponente.                                                     |
-| 749     | 17               | 8           | Chi la usa svela dei segreti al bersaglio,
-distraendolo e riducendone l’Attacco Speciale.                                                                          |
-| 749     | 17               | 9           | The user tells the target a secret, and the target
-loses its ability to concentrate. This lowers the
-target’s Sp. Atk stat.                                        |
-| 749     | 17               | 11          | ないしょばなしを　することで　相手の
-集中力を　失わせ
-相手の　特攻を　さげる。                                                                                                                           |
-| 749     | 17               | 12          | 和对手进行密语，
-使其失去集中力，
-从而降低对手的特攻。                                                                                                                                       |
-| 749     | 18               | 1           | ないしょばなしを　することで　あいての
-しゅうちゅうりょくを　うしなわせ
-あいての　とくこうを　さげる。                                                                                                               |
-| 749     | 18               | 3           | 비밀 이야기를 해서
-상대의 집중력을 잃게 하여
-특수공격을 떨어뜨린다.                                                                                                                             |
-| 749     | 18               | 4           | 向對手低聲密語，
-使其失去集中力，
-進而降低對手的特攻。                                                                                                                                       |
-| 749     | 18               | 5           | Dévoile des secrets à l’ennemi, qui perd alors
-sa concentration et voit son Attaque Spéciale
-diminuer.                                                             |
-| 749     | 18               | 6           | Der Anwender vertraut dem Ziel ein Geheimnis an.
-Dadurch stört er dessen Konzentration und senkt
-dessen Spezial-Angriff.                                           |
-| 749     | 18               | 7           | Hace que el objetivo pierda la concentración
-contándole un secreto. Disminuye el Ataque
-Especial del oponente.                                                     |
-| 749     | 18               | 8           | Chi la usa svela dei segreti al bersaglio,
-distraendolo e riducendone l’Attacco Speciale.                                                                          |
-| 749     | 18               | 9           | The user tells the target a secret, and the target
-loses its ability to concentrate. This lowers the
-target’s Sp. Atk stat.                                        |
-| 749     | 18               | 11          | ないしょばなしを　することで　相手の
-集中力を　失わせ
-相手の　特攻を　さげる。                                                                                                                           |
-| 749     | 18               | 12          | 和对手进行密语，
-使其失去集中力，
-从而降低对手的特攻。                                                                                                                                       |
-| 749     | 19               | 1           | ないしょばなしを　することで　あいての
-しゅうちゅうりょくを　うしなわせ
-あいての　とくこうを　さげる。                                                                                                               |
-| 749     | 19               | 3           | 비밀 이야기를 해서
-상대의 집중력을 잃게 하여
-특수공격을 떨어뜨린다.                                                                                                                             |
-| 749     | 19               | 4           | 向對手低聲密語，
-使對手失去集中力，
-降低對手的特攻。                                                                                                                                        |
-| 749     | 19               | 5           | Dévoile des secrets à l’ennemi, qui perd alors
-sa concentration et voit son Attaque Spéciale
-diminuer.                                                             |
-| 749     | 19               | 6           | Der Anwender vertraut dem Ziel ein Geheimnis an
-und stört auf diese Weise dessen Konzentration.
-Der Spezial-Angriff des Zieles sinkt.                              |
-| 749     | 19               | 7           | Hace que el objetivo pierda la concentración
-contándole un secreto. Disminuye el Ataque
-Especial del oponente.                                                     |
-| 749     | 19               | 8           | Chi la usa svela dei segreti al bersaglio,
-distraendolo e riducendone l’Attacco Speciale.                                                                          |
-| 749     | 19               | 9           | The user tells the target a secret, and the target
-loses its ability to concentrate. This lowers the
-target’s Sp. Atk stat.                                        |
-| 749     | 19               | 11          | ないしょばなしを　することで　相手の
-集中力を　失わせ
-相手の　特攻を　さげる。                                                                                                                           |
-| 749     | 19               | 12          | 和对手进行密语，
-使其失去集中力，
-从而降低对手的特攻。                                                                                                                                       |
-| 749     | 20               | 1           | ないしょばなしを　することで　あいての
-しゅうちゅうりょくを　うしなわせ
-あいての　とくこうを　さげる。                                                                                                               |
-| 749     | 20               | 3           | 비밀 이야기를 해서
-상대의 집중력을 잃게 하여
-특수공격을 떨어뜨린다.                                                                                                                             |
-| 749     | 20               | 4           | 向對手低聲密語，
-使對手失去集中力，
-降低對手的特攻。                                                                                                                                        |
-| 749     | 20               | 5           | Dévoile des secrets à l’ennemi, qui perd alors
-sa concentration et voit son Attaque Spéciale diminuer.                                                             |
-| 749     | 20               | 6           | Der Anwender vertraut dem Ziel ein Geheimnis an
-und stört auf diese Weise dessen Konzentration.
-Der Spezial-Angriff des Zieles sinkt.                              |
-| 749     | 20               | 7           | Hace que el objetivo pierda la concentración
-contándole un secreto. Disminuye el Ataque Especial
-del oponente.                                                     |
-| 749     | 20               | 8           | Chi la usa svela dei segreti al bersaglio,
-distraendolo e riducendone l’Attacco Speciale.                                                                          |
-| 749     | 20               | 9           | The user tells the target a secret, and the target
-loses its ability to concentrate. This lowers
-the target’s Sp. Atk stat.                                        |
-| 749     | 20               | 11          | ないしょばなしを　することで　相手の
-集中力を　失わせ
-相手の　特攻を　さげる。                                                                                                                           |
-| 749     | 20               | 12          | 和对手进行密语，
-使其失去集中力，
-从而降低对手的特攻。                                                                                                                                       |
-| 760     | 17               | 1           | ラティアスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 760     | 17               | 3           | 라티아스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 760     | 17               | 4           | 讓拉帝亞斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 760     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par Latias, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 760     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latias getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 760     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latias en combate.                                                                                   |
-| 760     | 17               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latias, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 760     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Latias hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 760     | 17               | 11          | ラティアスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 760     | 17               | 12          | 让拉帝亚斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 760     | 18               | 1           | ラティアスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 760     | 18               | 3           | 라티아스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 760     | 18               | 4           | 讓拉帝亞斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 760     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par Latias, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 760     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latias getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 760     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latias en combate.                                                                                   |
-| 760     | 18               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latias, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 760     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Latias hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 760     | 18               | 11          | ラティアスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 760     | 18               | 12          | 让拉帝亚斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 760     | 19               | 1           | ラティアスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 760     | 19               | 3           | 라티아스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 760     | 19               | 4           | 讓拉帝亞斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 760     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par Latias, elle lui permet de méga-évoluer
-durant un combat.                                                                     |
-| 760     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latias getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 760     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latias en combate.                                                                                   |
-| 760     | 19               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latias, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 760     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Latias hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 760     | 19               | 11          | ラティアスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 760     | 19               | 12          | 让拉帝亚斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 760     | 20               | 1           | ラティアスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 760     | 20               | 3           | 라티아스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 760     | 20               | 4           | 讓拉帝亞斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 760     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par Latias, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 760     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latias getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 760     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latias en combate.                                                                                   |
-| 760     | 20               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latias, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 760     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Latias hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 760     | 20               | 11          | ラティアスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 760     | 20               | 12          | 让拉帝亚斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 761     | 17               | 1           | ラティオスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 761     | 17               | 3           | 라티오스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 761     | 17               | 4           | 讓拉帝歐斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 761     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par Latios, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 761     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latios getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 761     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latios en combate.                                                                                   |
-| 761     | 17               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latios, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 761     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Latios hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 761     | 17               | 11          | ラティオスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 761     | 17               | 12          | 让拉帝欧斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 761     | 18               | 1           | ラティオスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 761     | 18               | 3           | 라티오스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 761     | 18               | 4           | 讓拉帝歐斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 761     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par Latios, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 761     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latios getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 761     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latios en combate.                                                                                   |
-| 761     | 18               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latios, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 761     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Latios hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 761     | 18               | 11          | ラティオスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 761     | 18               | 12          | 让拉帝欧斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 761     | 19               | 1           | ラティオスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 761     | 19               | 3           | 라티오스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 761     | 19               | 4           | 讓拉帝歐斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 761     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par Latios, elle lui permet de méga-évoluer
-durant un combat.                                                                     |
-| 761     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latios getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 761     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latios en combate.                                                                                   |
-| 761     | 19               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latios, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 761     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Latios hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 761     | 19               | 11          | ラティオスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 761     | 19               | 12          | 让拉帝欧斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 761     | 20               | 1           | ラティオスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 761     | 20               | 3           | 라티오스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 761     | 20               | 4           | 讓拉帝歐斯攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 761     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par Latios, elle lui permet de
-méga-évoluer durant un combat.                                                                     |
-| 761     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Latios getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 761     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Latios en combate.                                                                                   |
-| 761     | 20               | 8           | Un esemplare delle misteriose Megapietre.
-Data a Latios, gli permette di megaevolversi
-durante la lotta.                                                           |
-| 761     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Latios hold it, and this stone will enable it to
-Mega Evolve during battle.                                       |
-| 761     | 20               | 11          | ラティオスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 761     | 20               | 12          | 让拉帝欧斯携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 762     | 17               | 1           | みる　ひとに　よっては
-きちょう　かもしれない
-でも　ふつうの　いし。                                                                                                                                |
-| 762     | 17               | 3           | 보는 사람에 따라서는
-귀중할지도 모르는
-평범한 돌.                                                                                                                                       |
-| 762     | 17               | 4           | 在某些人眼裡
-可能會覺得它十分貴重。
-但其實是塊普通的石頭。                                                                                                                                     |
-| 762     | 17               | 5           | Une pierre assez banale qui pourrait avoir
-de la valeur pour certains.                                                                                             |
-| 762     | 17               | 6           | Ein Stein, der für manche vielleicht wertvoll
-aussieht, tatsächlich aber nur ein gewöhnlicher
-Stein ist.                                                           |
-| 762     | 17               | 7           | Una piedra de aspecto normal que a algunos les
-puede parecer de gran valor.                                                                                        |
-| 762     | 17               | 8           | Un sasso qualsiasi che qualcuno potrebbe
-ritenere di valore.                                                                                                       |
-| 762     | 17               | 9           | A perfectly normal stone that might appear to be
-valuable to some. It’s all in the eye of the beholder.                                                            |
-| 762     | 17               | 11          | みる　人に　よっては
-貴重　かもしれない
-でも　普通の　石。                                                                                                                                     |
-| 762     | 17               | 12          | 在有些人看来
-可能会觉得它十分贵重。
-但其实是块普通的石头。                                                                                                                                     |
-| 762     | 18               | 1           | みる　ひとに　よっては
-きちょう　かもしれない
-でも　ふつうの　いし。                                                                                                                                |
-| 762     | 18               | 3           | 보는 사람에 따라서는
-귀중할지도 모르는
-평범한 돌.                                                                                                                                       |
-| 762     | 18               | 4           | 在某些人眼裡
-可能會覺得它十分貴重。
-但其實是塊普通的石頭。                                                                                                                                     |
-| 762     | 18               | 5           | Une pierre assez banale qui pourrait avoir
-de la valeur pour certains.                                                                                             |
-| 762     | 18               | 6           | Ein Stein, der für manche vielleicht wertvoll
-aussieht, tatsächlich aber nur ein gewöhnlicher
-Stein ist.                                                           |
-| 762     | 18               | 7           | Una piedra de aspecto normal que a algunos les
-puede parecer de gran valor.                                                                                        |
-| 762     | 18               | 8           | Un sasso qualsiasi che qualcuno potrebbe
-ritenere di valore.                                                                                                       |
-| 762     | 18               | 9           | A perfectly normal stone that might appear to be
-valuable to some. It’s all in the eye of the beholder.                                                            |
-| 762     | 18               | 11          | みる　人に　よっては
-貴重　かもしれない
-でも　普通の　石。                                                                                                                                     |
-| 762     | 18               | 12          | 在有些人看来
-可能会觉得它十分贵重。
-但其实是块普通的石头。                                                                                                                                     |
-| 762     | 19               | 1           | みる　ひとに　よっては
-きちょう　かもしれない
-でも　ふつうの　いし。                                                                                                                                |
-| 762     | 19               | 3           | 보는 사람에 따라서는
-귀중할지도 모르는
-평범한 돌.                                                                                                                                       |
-| 762     | 19               | 4           | 在某些人眼裡
-可能會覺得它十分貴重。
-但其實是塊普通的石頭。                                                                                                                                     |
-| 762     | 19               | 5           | Une pierre assez banale qui pourrait avoir de la valeur
-pour certains.                                                                                             |
-| 762     | 19               | 6           | Ein Stein, der für manche vielleicht wertvoll
-aussieht, tatsächlich aber nur ein gewöhnlicher
-Stein ist.                                                           |
-| 762     | 19               | 7           | Una piedra de aspecto normal que a algunos les
-puede parecer de gran valor.                                                                                        |
-| 762     | 19               | 8           | Un sasso qualsiasi che qualcuno potrebbe
-ritenere di valore.                                                                                                       |
-| 762     | 19               | 9           | A perfectly normal stone that might appear to be
-valuable to some. It’s all in the eye of the beholder.                                                            |
-| 762     | 19               | 11          | みる　人に　よっては
-貴重　かもしれない
-でも　普通の　石。                                                                                                                                     |
-| 762     | 19               | 12          | 在有些人看来
-可能会觉得它十分贵重。
-但其实是块普通的石头。                                                                                                                                     |
-| 762     | 20               | 1           | みる　ひとに　よっては
-きちょう　かもしれない
-でも　ふつうの　いし。                                                                                                                                |
-| 762     | 20               | 3           | 보는 사람에 따라서는
-귀중할지도 모르는
-평범한 돌.                                                                                                                                       |
-| 762     | 20               | 4           | 在某些人眼裡
-可能會覺得它十分貴重。
-但其實是塊普通的石頭。                                                                                                                                     |
-| 762     | 20               | 5           | Une pierre assez banale qui pourrait avoir de la valeur
-pour certains.                                                                                             |
-| 762     | 20               | 6           | Ein Stein, der für manche vielleicht wertvoll aussieht,
-tatsächlich aber nur ein gewöhnlicher Stein ist.                                                           |
-| 762     | 20               | 7           | Una piedra de aspecto normal que a algunos les puede
-parecer de gran valor.                                                                                        |
-| 762     | 20               | 8           | Un sasso qualsiasi che qualcuno potrebbe
-ritenere di valore.                                                                                                       |
-| 762     | 20               | 9           | A perfectly normal stone that might appear to be
-valuable to some. It’s all in the eye of the beholder.                                                            |
-| 762     | 20               | 11          | みる　人に　よっては
-貴重　かもしれない
-でも　普通の　石。                                                                                                                                     |
-| 762     | 20               | 12          | 在有些人看来
-可能会觉得它十分贵重。
-但其实是块普通的石头。                                                                                                                                     |
-| 763     | 17               | 1           | リップを　しまっておける
-おしゃれな　こものいれ。                                                                                                                                          |
-| 763     | 17               | 3           | 립을 담아둘 수 있는
-멋진 케이스.                                                                                                                                                |
-| 763     | 17               | 4           | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 17               | 5           | Un étui très chic destiné aux rouges à lèvres.                                                                                                                     |
-| 763     | 17               | 6           | Eine stilvolles Etui zur Aufbewahrung von
-Lippenstiften.                                                                                                           |
-| 763     | 17               | 7           | Neceser de aspecto sofisticado para guardar
-tus barras de labios.                                                                                                  |
-| 763     | 17               | 8           | Un elegante astuccio per avere sempre a portata
-di mano il rossetto.                                                                                               |
-| 763     | 17               | 9           | A rather chic-looking case for carrying lipsticks.                                                                                                                 |
-| 763     | 17               | 11          | リップを　しまっておける
-おしゃれな　小物入れ。                                                                                                                                           |
-| 763     | 17               | 12          | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 18               | 1           | リップを　しまっておける
-おしゃれな　こものいれ。                                                                                                                                          |
-| 763     | 18               | 3           | 립을 담아둘 수 있는
-멋진 케이스.                                                                                                                                                |
-| 763     | 18               | 4           | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 18               | 5           | Un étui très chic destiné aux rouges à lèvres.                                                                                                                     |
-| 763     | 18               | 6           | Eine stilvolles Etui zur Aufbewahrung von
-Lippenstiften.                                                                                                           |
-| 763     | 18               | 7           | Neceser de aspecto sofisticado para guardar
-tus barras de labios.                                                                                                  |
-| 763     | 18               | 8           | Un elegante astuccio per avere sempre a portata
-di mano il rossetto.                                                                                               |
-| 763     | 18               | 9           | A rather chic-looking case for carrying lipsticks.                                                                                                                 |
-| 763     | 18               | 11          | リップを　しまっておける
-おしゃれな　小物入れ。                                                                                                                                           |
-| 763     | 18               | 12          | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 19               | 1           | リップを　しまっておける
-おしゃれな　こものいれ。                                                                                                                                          |
-| 763     | 19               | 3           | 립을 담아둘 수 있는
-멋진 케이스.                                                                                                                                                |
-| 763     | 19               | 4           | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 19               | 5           | Un étui très chic destiné aux rouges à lèvres.                                                                                                                     |
-| 763     | 19               | 6           | Eine stilvolles Etui zur Aufbewahrung von
-Lippenstiften.                                                                                                           |
-| 763     | 19               | 7           | Neceser de aspecto sofisticado para guardar tus barras
-de labios.                                                                                                  |
-| 763     | 19               | 8           | Un elegante astuccio per avere sempre a portata
-di mano il rossetto.                                                                                               |
-| 763     | 19               | 9           | A rather chic-looking case for carrying lipsticks.                                                                                                                 |
-| 763     | 19               | 11          | リップを　しまっておける
-おしゃれな　小物入れ。                                                                                                                                           |
-| 763     | 19               | 12          | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 20               | 1           | リップを　しまっておける
-おしゃれな　こものいれ。                                                                                                                                          |
-| 763     | 20               | 3           | 립을 담아둘 수 있는
-멋진 케이스.                                                                                                                                                |
-| 763     | 20               | 4           | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 763     | 20               | 5           | Un étui très chic destiné aux rouges à lèvres.                                                                                                                     |
-| 763     | 20               | 6           | Eine stilvolles Etui zur Aufbewahrung von Lippenstiften.                                                                                                           |
-| 763     | 20               | 7           | Neceser de aspecto sofisticado para guardar tus barras
-de labios.                                                                                                  |
-| 763     | 20               | 8           | Un elegante astuccio per avere sempre a portata
-di mano il rossetto.                                                                                               |
-| 763     | 20               | 9           | A rather chic-looking case for carrying lipsticks.                                                                                                                 |
-| 763     | 20               | 11          | リップを　しまっておける
-おしゃれな　小物入れ。                                                                                                                                           |
-| 763     | 20               | 12          | 可以存放唇膏的精美小包包。                                                                                                                                                      |
-| 764     | 17               | 1           | どんな　ファッションアイテムでも
-つめこんでおける　しゅうのうりょく
-ばつぐんの　かるい　トランク。                                                                                                                 |
-| 764     | 17               | 3           | 어떤 패션 아이템이라도
-담아둘 수 있고 가벼우며
-수납력이 뛰어난 트렁크.                                                                                                                           |
-| 764     | 17               | 4           | 能夠塞入各種時尚物品的
-收納能力極佳的輕箱子。                                                                                                                                            |
-| 764     | 17               | 5           | Une valise extrêmement légère, parfaite pour
-stocker un grand nombre de vêtements et
-d’accessoires de mode.                                                        |
-| 764     | 17               | 6           | Ein leichter und sehr hilfreicher Koffer mit so viel
-Stauraum, dass jedes erdenkliche Kleidungsstück
-und Accessoire darin aufbewahrt werden kann.                  |
-| 764     | 17               | 7           | Maleta ligera de increíble capacidad donde podrás
-guardar todas las prendas de ropa que quieras.                                                                   |
-| 764     | 17               | 8           | Un baule leggero ma estremamente capiente che
-può contenere qualsiasi capo d’abbigliamento.                                                                        |
-| 764     | 17               | 9           | A light and yet incredibly effective trunk, which can
-contain every last piece of clothing that can
-be bought.                                                     |
-| 764     | 17               | 11          | どんな　ファッションアイテムでも
-詰めこんでおける　収納力
-抜群の　軽い　トランク。                                                                                                                         |
-| 764     | 17               | 12          | 能塞入任意时尚物品，
-收纳能力极佳的轻箱子。                                                                                                                                             |
-| 764     | 18               | 1           | どんな　ファッションアイテムでも
-つめこんでおける　しゅうのうりょく
-ばつぐんの　かるい　トランク。                                                                                                                 |
-| 764     | 18               | 3           | 어떤 패션 아이템이라도
-담아둘 수 있고 가벼우며
-수납력이 뛰어난 트렁크.                                                                                                                           |
-| 764     | 18               | 4           | 能夠塞入各種時尚物品的
-收納能力極佳的輕箱子。                                                                                                                                            |
-| 764     | 18               | 5           | Une valise extrêmement légère, parfaite pour
-stocker un grand nombre de vêtements et
-d’accessoires de mode.                                                        |
-| 764     | 18               | 6           | Ein leichter und sehr hilfreicher Koffer mit so viel
-Stauraum, dass jedes erdenkliche Kleidungsstück
-und Accessoire darin aufbewahrt werden kann.                  |
-| 764     | 18               | 7           | Maleta ligera de increíble capacidad donde podrás
-guardar todas las prendas de ropa que quieras.                                                                   |
-| 764     | 18               | 8           | Un baule leggero ma estremamente capiente che
-può contenere qualsiasi capo d’abbigliamento.                                                                        |
-| 764     | 18               | 9           | A light and yet incredibly effective trunk, which can
-contain every last piece of clothing that can
-be bought.                                                     |
-| 764     | 18               | 11          | どんな　ファッションアイテムでも
-詰めこんでおける　収納力
-抜群の　軽い　トランク。                                                                                                                         |
-| 764     | 18               | 12          | 能塞入任意时尚物品，
-收纳能力极佳的轻箱子。                                                                                                                                             |
-| 764     | 19               | 1           | どんな　ファッションアイテムでも
-つめこんでおける　しゅうのうりょく
-ばつぐんの　かるい　トランク。                                                                                                                 |
-| 764     | 19               | 3           | 어떤 패션 아이템이라도
-담아둘 수 있고 가벼우며
-수납력이 뛰어난 트렁크.                                                                                                                           |
-| 764     | 19               | 4           | 能夠塞入各種時尚物品的
-收納能力極佳的輕箱子。                                                                                                                                            |
-| 764     | 19               | 5           | Une valise extrêmement légère, parfaite pour stocker un
-grand nombre de vêtements et d’accessoires de mode.                                                        |
-| 764     | 19               | 6           | Ein leichter und sehr hilfreicher Koffer mit so viel
-Stauraum, dass jedes erdenkliche Kleidungsstück
-und Accessoire darin aufbewahrt werden kann.                  |
-| 764     | 19               | 7           | Maleta ligera de increíble capacidad donde podrás
-guardar todas las prendas de ropa que quieras.                                                                   |
-| 764     | 19               | 8           | Un baule leggero ma estremamente capiente che
-può contenere qualsiasi capo d’abbigliamento.                                                                        |
-| 764     | 19               | 9           | A light and yet incredibly effective trunk, which can
-contain every last piece of clothing that can
-be bought.                                                     |
-| 764     | 19               | 11          | どんな　ファッションアイテムでも
-詰めこんでおける　収納力
-抜群の　軽い　トランク。                                                                                                                         |
-| 764     | 19               | 12          | 能塞入任意时尚物品，
-收纳能力极佳的轻箱子。                                                                                                                                             |
-| 764     | 20               | 1           | どんな　ファッションアイテムでも
-つめこんでおける　しゅうのうりょく
-ばつぐんの　かるい　トランク。                                                                                                                 |
-| 764     | 20               | 3           | 어떤 패션 아이템이라도
-담아둘 수 있고 가벼우며
-수납력이 뛰어난 트렁크.                                                                                                                           |
-| 764     | 20               | 4           | 能夠塞入各種時尚物品的
-收納能力極佳的輕箱子。                                                                                                                                            |
-| 764     | 20               | 5           | Une valise extrêmement légère, parfaite pour stocker
-un grand nombre de vêtements et d’accessoires
-de mode.                                                        |
-| 764     | 20               | 6           | Ein leichter und sehr hilfreicher Koffer mit so viel
-Stauraum, dass jedes erdenkliche Kleidungsstück
-und Accessoire darin aufbewahrt werden kann.                  |
-| 764     | 20               | 7           | Maleta ligera de increíble capacidad donde podrás
-guardar todas las prendas de ropa que quieras.                                                                   |
-| 764     | 20               | 8           | Un baule leggero ma estremamente capiente che
-può contenere qualsiasi capo d’abbigliamento.                                                                        |
-| 764     | 20               | 9           | A light and yet incredibly effective trunk, which can
-contain every last piece of clothing that can
-be bought.                                                     |
-| 764     | 20               | 11          | どんな　ファッションアイテムでも
-詰めこんでおける　収納力
-抜群の　軽い　トランク。                                                                                                                         |
-| 764     | 20               | 12          | 能塞入任意时尚物品，
-收纳能力极佳的轻箱子。                                                                                                                                             |
-| 765     | 17               | 1           | シャラシティ　めいぶつの　サブレ。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                               |
-| 765     | 17               | 3           | 사라시티의 명물 사블레.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                             |
-| 765     | 17               | 4           | 娑羅市特產的沙布蕾。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                       |
-| 765     | 17               | 5           | La spécialité de Yantreizh.
-Elle soigne tous les problèmes de statut
-d’un Pokémon.                                                                                 |
-| 765     | 17               | 6           | Dieser Butterkeks ist eine Spezialität aus
-Yantara City. Er behebt alle Statusprobleme
-eines Pokémon.                                                              |
-| 765     | 17               | 7           | Especialidad de Ciudad Yantra. Cura los problemas
-de estado de un Pokémon.                                                                                         |
-| 765     | 17               | 8           | Il famoso Yantafrollino di Yantaropoli.
-Cura tutti i problemi di stato di un Pokémon.                                                                              |
-| 765     | 17               | 9           | Shalour City’s famous shortbread. It can be used
-once to heal all the status conditions of a Pokémon.                                                              |
-| 765     | 17               | 11          | シャラシティ　名物の　サブレ。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                         |
-| 765     | 17               | 12          | 娑罗市特产的沙布蕾。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                       |
-| 765     | 18               | 1           | シャラシティ　めいぶつの　サブレ。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                               |
-| 765     | 18               | 3           | 사라시티의 명물 사블레.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                             |
-| 765     | 18               | 4           | 娑羅市特產的沙布蕾。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                       |
-| 765     | 18               | 5           | La spécialité de Yantreizh.
-Elle soigne tous les problèmes de statut
-d’un Pokémon.                                                                                 |
-| 765     | 18               | 6           | Dieser Butterkeks ist eine Spezialität aus
-Yantara City. Er behebt alle Statusprobleme
-eines Pokémon.                                                              |
-| 765     | 18               | 7           | Especialidad de Ciudad Yantra. Cura los problemas
-de estado de un Pokémon.                                                                                         |
-| 765     | 18               | 8           | Il famoso Yantafrollino di Yantaropoli.
-Cura tutti i problemi di stato di un Pokémon.                                                                              |
-| 765     | 18               | 9           | Shalour City’s famous shortbread. It can be used
-once to heal all the status conditions of a Pokémon.                                                              |
-| 765     | 18               | 11          | シャラシティ　名物の　サブレ。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                         |
-| 765     | 18               | 12          | 娑罗市特产的沙布蕾。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                       |
-| 765     | 19               | 1           | カロスちほう　めいぶつの　サブレ。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                               |
-| 765     | 19               | 3           | 칼로스지방의 명물 사블레.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                            |
-| 765     | 19               | 4           | 卡洛斯地區特產的沙布蕾。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                     |
-| 765     | 19               | 5           | Une spécialité de Kalos.
-Soigne toutes les altérations de statut d’un Pokémon.                                                                                     |
-| 765     | 19               | 6           | Dieser Butterkeks ist eine Spezialität aus der
-Kalos-Region. Er behebt alle Statusprobleme
-eines Pokémon.                                                          |
-| 765     | 19               | 7           | Especialidad de la región de Kalos. Cura los problemas
-de estado de un Pokémon.                                                                                    |
-| 765     | 19               | 8           | Il famoso Yantafrollino della regione di Kalos.
-Cura tutti i problemi di stato di un Pokémon.                                                                      |
-| 765     | 19               | 9           | The Kalos region’s famous shortbread. It can be used
-to heal all the status conditions of a single Pokémon.                                                        |
-| 765     | 19               | 11          | カロス地方　名物の　サブレ。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                          |
-| 765     | 19               | 12          | 卡洛斯地区的特产沙布蕾。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                     |
-| 765     | 20               | 1           | シャラシティ　めいぶつの　サブレ。
-ポケモン　１ひきの　じょうたいの
-いじょうを　すべて　かいふくする。                                                                                                               |
-| 765     | 20               | 3           | 사라시티의 명물 사블레.
-포켓몬 1마리의 상태 이상을
-모두 회복한다.                                                                                                                             |
-| 765     | 20               | 4           | 娑羅市特產的沙布蕾。
-能治癒１隻寶可夢的
-所有異常狀態。                                                                                                                                       |
-| 765     | 20               | 5           | La spécialité de Yantreizh.
-Elle soigne tous les problèmes de statut
-d’un Pokémon.                                                                                 |
-| 765     | 20               | 6           | Dieser Butterkeks ist eine Spezialität aus Yantara City.
-Er behebt alle Statusprobleme eines Pokémon.                                                              |
-| 765     | 20               | 7           | Especialidad de Ciudad Yantra. Cura los problemas de
-estado de un Pokémon.                                                                                         |
-| 765     | 20               | 8           | Il famoso Yantafrollino di Yantaropoli.
-Cura tutti i problemi di stato di un Pokémon.                                                                              |
-| 765     | 20               | 9           | Shalour City’s famous shortbread. It can be used
-once to heal all the status conditions of a Pokémon.                                                              |
-| 765     | 20               | 11          | シャラシティ　名物の　サブレ。
-ポケモン　１匹の　状態の
-異常を　すべて　回復する。                                                                                                                         |
-| 765     | 20               | 12          | 娑罗市特产的沙布蕾。
-能治愈１只宝可梦的
-所有异常状态。                                                                                                                                       |
-| 768     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　チャーム。                                                                                                                |
-| 768     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 참.                                                                                                                          |
-| 768     | 17               | 4           | 隱藏著未知力量的墜飾。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 768     | 17               | 5           | Un charme aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 768     | 17               | 6           | Ein Amulett mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 768     | 17               | 7           | Amuleto con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                           |
-| 768     | 17               | 8           | Ciondolo dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 768     | 17               | 9           | This charm contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 768     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　チャーム。                                                                                                                  |
-| 768     | 17               | 12          | 蕴藏着未知力量的坠饰。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 768     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　チャーム。                                                                                                                |
-| 768     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 참.                                                                                                                          |
-| 768     | 18               | 4           | 隱藏著未知力量的墜飾。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 768     | 18               | 5           | Un charme aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 768     | 18               | 6           | Ein Amulett mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 768     | 18               | 7           | Amuleto con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                           |
-| 768     | 18               | 8           | Ciondolo dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 768     | 18               | 9           | This charm contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 768     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　チャーム。                                                                                                                  |
-| 768     | 18               | 12          | 蕴藏着未知力量的坠饰。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 768     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　チャーム。                                                                                                                |
-| 768     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 참.                                                                                                                          |
-| 768     | 19               | 4           | 隱藏著未知力量的墜飾。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 768     | 19               | 5           | Un charme aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 768     | 19               | 6           | Ein Amulett mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 768     | 19               | 7           | Amuleto con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                           |
-| 768     | 19               | 8           | Ciondolo dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 768     | 19               | 9           | This charm contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 768     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　チャーム。                                                                                                                  |
-| 768     | 19               | 12          | 蕴藏着未知力量的坠饰。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 768     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　チャーム。                                                                                                                |
-| 768     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 참.                                                                                                                          |
-| 768     | 20               | 4           | 隱藏著未知力量的墜飾。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 768     | 20               | 5           | Un charme aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat
-s’il tient la bonne Méga-Gemme.                                                |
-| 768     | 20               | 6           | Ein Amulett mit geheimnisvollen Kräften. Es ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                  |
-| 768     | 20               | 7           | Amuleto con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la Megapiedra
-adecuada.                                                           |
-| 768     | 20               | 8           | Ciondolo dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 768     | 20               | 9           | This charm contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 768     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　チャーム。                                                                                                                  |
-| 768     | 20               | 12          | 蕴藏着未知力量的坠饰。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 769     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　グローブ。                                                                                                                |
-| 769     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 글러브.                                                                                                                        |
-| 769     | 17               | 4           | 隱藏著未知力量的手套。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 769     | 17               | 5           | Un gant aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                  |
-| 769     | 17               | 6           | Ein Handschuh mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 769     | 17               | 7           | Guante con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 769     | 17               | 8           | Guanto dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 769     | 17               | 9           | This glove contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 769     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　グローブ。                                                                                                                  |
-| 769     | 17               | 12          | 蕴藏着未知力量的手套。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 769     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　グローブ。                                                                                                                |
-| 769     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 글러브.                                                                                                                        |
-| 769     | 18               | 4           | 隱藏著未知力量的手套。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 769     | 18               | 5           | Un gant aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                  |
-| 769     | 18               | 6           | Ein Handschuh mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 769     | 18               | 7           | Guante con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 769     | 18               | 8           | Guanto dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 769     | 18               | 9           | This glove contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 769     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　グローブ。                                                                                                                  |
-| 769     | 18               | 12          | 蕴藏着未知力量的手套。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 769     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　グローブ。                                                                                                                |
-| 769     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 글러브.                                                                                                                        |
-| 769     | 19               | 4           | 隱藏著未知力量的手套。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 769     | 19               | 5           | Un gant aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                  |
-| 769     | 19               | 6           | Ein Handschuh mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 769     | 19               | 7           | Guante con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 769     | 19               | 8           | Guanto dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 769     | 19               | 9           | This glove contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 769     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　グローブ。                                                                                                                  |
-| 769     | 19               | 12          | 蕴藏着未知力量的手套。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 769     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　グローブ。                                                                                                                |
-| 769     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 글러브.                                                                                                                        |
-| 769     | 20               | 4           | 隱藏著未知力量的手套。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 769     | 20               | 5           | Un gant aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat
-s’il tient la bonne Méga-Gemme.                                                  |
-| 769     | 20               | 6           | Ein Handschuh mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein tragen,
-eine Mega-Entwicklung durchzuführen.                                |
-| 769     | 20               | 7           | Guante con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la Megapiedra
-adecuada.                                                            |
-| 769     | 20               | 8           | Guanto dotato di un misterioso potere.
-Consente a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 769     | 20               | 9           | This glove contains an untold power that somehow
-enables Pokémon carrying Mega Stones to
-Mega Evolve in battle.                                                    |
-| 769     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　グローブ。                                                                                                                  |
-| 769     | 20               | 12          | 蕴藏着未知力量的手套。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 770     | 17               | 1           | デボンで　つくられた
-なにかの　パーツが
-はいっている　にもつ。                                                                                                                                   |
-| 770     | 17               | 3           | 데봉에서 만들어진
-무언가의 파츠가
-들어 있는 화물.                                                                                                                                       |
-| 770     | 17               | 4           | 裡面放有得文製造的
-某種零件的物品。                                                                                                                                                 |
-| 770     | 17               | 5           | Une valise qui contient des pièces mécaniques
-fabriquées par la société Devon.                                                                                     |
-| 770     | 17               | 6           | Ein Metallkoffer mit irgendwelchen Bauteilen,
-die von der Devon Corporation angefertigt wurden.                                                                    |
-| 770     | 17               | 7           | Contiene piezas de algo fabricado por Devon S. A.                                                                                                                  |
-| 770     | 17               | 8           | Questa valigetta contiene pezzi meccanici
-prodotti dalla Devon.                                                                                                    |
-| 770     | 17               | 9           | A case that contains mechanical parts of some sort
-made by the Devon Corporation.                                                                                  |
-| 770     | 17               | 11          | デボンで　つくられた
-何かの　パーツが
-入っている　にもつ。                                                                                                                                     |
-| 770     | 17               | 12          | 此物品里面放着的是
-得文制造的某种零件。                                                                                                                                               |
-| 770     | 18               | 1           | デボンで　つくられた
-なにかの　パーツが
-はいっている　にもつ。                                                                                                                                   |
-| 770     | 18               | 3           | 데봉에서 만들어진
-무언가의 파츠가
-들어 있는 화물.                                                                                                                                       |
-| 770     | 18               | 4           | 裡面放有得文製造的
-某種零件的物品。                                                                                                                                                 |
-| 770     | 18               | 5           | Une valise qui contient des pièces mécaniques
-fabriquées par la société Devon.                                                                                     |
-| 770     | 18               | 6           | Ein Metallkoffer mit irgendwelchen Bauteilen,
-die von der Devon Corporation angefertigt wurden.                                                                    |
-| 770     | 18               | 7           | Contiene piezas de algo fabricado por Devon S. A.                                                                                                                  |
-| 770     | 18               | 8           | Questa valigetta contiene pezzi meccanici
-prodotti dalla Devon.                                                                                                    |
-| 770     | 18               | 9           | A case that contains mechanical parts of some sort
-made by the Devon Corporation.                                                                                  |
-| 770     | 18               | 11          | デボンで　つくられた
-何かの　パーツが
-入っている　にもつ。                                                                                                                                     |
-| 770     | 18               | 12          | 此物品里面放着的是
-得文制造的某种零件。                                                                                                                                               |
-| 770     | 19               | 1           | デボンで　つくられた
-なにかの　パーツが
-はいっている　にもつ。                                                                                                                                   |
-| 770     | 19               | 3           | 데봉에서 만들어진
-무언가의 파츠가
-들어 있는 화물.                                                                                                                                       |
-| 770     | 19               | 4           | 裡面放有得文製造的
-某種零件的物品。                                                                                                                                                 |
-| 770     | 19               | 5           | Une valise qui contient des pièces mécaniques
-fabriquées par la société Devon.                                                                                     |
-| 770     | 19               | 6           | Ein Metallkoffer mit irgendwelchen Bauteilen,
-die von der Devon Corporation angefertigt wurden.                                                                    |
-| 770     | 19               | 7           | Contiene piezas de algo fabricado por Devon S. A.                                                                                                                  |
-| 770     | 19               | 8           | Questa valigetta contiene pezzi meccanici
-prodotti dalla Devon.                                                                                                    |
-| 770     | 19               | 9           | A case that contains mechanical parts of some sort
-made by the Devon Corporation.                                                                                  |
-| 770     | 19               | 11          | デボンで　つくられた
-何かの　パーツが
-入っている　にもつ。                                                                                                                                     |
-| 770     | 19               | 12          | 此物品里面放着的是
-得文制造的某种零件。                                                                                                                                               |
-| 770     | 20               | 1           | デボンで　つくられた
-なにかの　パーツが
-はいっている　にもつ。                                                                                                                                   |
-| 770     | 20               | 3           | 데봉에서 만들어진
-무언가의 파츠가
-들어 있는 화물.                                                                                                                                       |
-| 770     | 20               | 4           | 裡面放有得文製造的
-某種零件的物品。                                                                                                                                                 |
-| 770     | 20               | 5           | Une valise qui contient des pièces mécaniques
-fabriquées par la société Devon.                                                                                     |
-| 770     | 20               | 6           | Ein Metallkoffer mit irgendwelchen Bauteilen, die von
-der Devon Corporation angefertigt wurden.                                                                    |
-| 770     | 20               | 7           | Contiene piezas de algo fabricado por Devon S. A.                                                                                                                  |
-| 770     | 20               | 8           | Questa valigetta contiene pezzi meccanici
-prodotti dalla Devon.                                                                                                    |
-| 770     | 20               | 9           | A case that contains mechanical parts of some sort
-made by the Devon Corporation.                                                                                  |
-| 770     | 20               | 11          | デボンで　つくられた
-何かの　パーツが
-入っている　にもつ。                                                                                                                                     |
-| 770     | 20               | 12          | 此物品里面放着的是
-得文制造的某种零件。                                                                                                                                               |
-| 772     | 17               | 1           | きのみから　ポロックを　つくる
-きのみブレンダーと　できたポロックを
-ほぞんする　ポロックケースの　セット。                                                                                                             |
-| 772     | 17               | 3           | 나무열매로 포켓몬스넥을 만드는
-나무열매블렌더와 만들어진 포켓몬스넥을
-저장하는 포켓몬스넥케이스 세트.                                                                                                            |
-| 772     | 17               | 4           | 可由樹果製作寶可方塊的樹果混合器
-與存放用的寶可方塊盒之套裝。                                                                                                                                    |
-| 772     | 17               | 5           | Boîte pour ranger le Mixeur à Baies
-et les Pokéblocs.                                                                                                              |
-| 772     | 17               | 6           | Ein Set, das aus einem Beerenmixer für die
-Herstellung von Pokériegeln und einer Pokériegelbox
-für deren Lagerung besteht.                                         |
-| 772     | 17               | 7           | Kit consistente en una Licuabayas para preparar
-Pokécubos a partir de bayas y un Tubo
-Pokécubos para guardarlos.                                                   |
-| 772     | 17               | 8           | Kit composto da un Mixer bacche, usato per
-preparare le Pokémelle, e da un Portapokémelle,
-usato per conservarle.                                                  |
-| 772     | 17               | 9           | A set containing a Berry Blender for making
-Pokéblocks and a Pokéblock Case for
-storing Pokéblocks.                                                                |
-| 772     | 17               | 11          | きのみから　ポロックを　作る
-きのみブレンダーと　できたポロックを
-保存する　ポロックケースの　セット。                                                                                                               |
-| 772     | 17               | 12          | 这是树果混合器和宝可方块盒的套装。
-树果混合器可利用树果制作宝可方块，
-而做好的宝可方块可用宝可方块盒来保存。                                                                                                            |
-| 772     | 18               | 1           | きのみから　ポロックを　つくる
-きのみブレンダーと　できたポロックを
-ほぞんする　ポロックケースの　セット。                                                                                                             |
-| 772     | 18               | 3           | 나무열매로 포켓몬스넥을 만드는
-나무열매블렌더와 만들어진 포켓몬스넥을
-저장하는 포켓몬스넥케이스 세트.                                                                                                            |
-| 772     | 18               | 4           | 可由樹果製作寶可方塊的樹果混合器
-與存放用的寶可方塊盒之套裝。                                                                                                                                    |
-| 772     | 18               | 5           | Boîte pour ranger le Mixeur à Baies
-et les Pokéblocs.                                                                                                              |
-| 772     | 18               | 6           | Ein Set, das aus einem Beerenmixer für die
-Herstellung von Pokériegeln und einer Pokériegelbox
-für deren Lagerung besteht.                                         |
-| 772     | 18               | 7           | Kit consistente en una Licuabayas para preparar
-Pokécubos a partir de bayas y un Tubo
-Pokécubos para guardarlos.                                                   |
-| 772     | 18               | 8           | Kit composto da un Mixer bacche, usato per
-preparare le Pokémelle, e da un Portapokémelle,
-usato per conservarle.                                                  |
-| 772     | 18               | 9           | A set containing a Berry Blender for making
-Pokéblocks and a Pokéblock Case for
-storing Pokéblocks.                                                                |
-| 772     | 18               | 11          | きのみから　ポロックを　作る
-きのみブレンダーと　できたポロックを
-保存する　ポロックケースの　セット。                                                                                                               |
-| 772     | 18               | 12          | 这是树果混合器和宝可方块盒的套装。
-树果混合器可利用树果制作宝可方块，
-而做好的宝可方块可用宝可方块盒来保存。                                                                                                            |
-| 772     | 19               | 1           | きのみから　ポロックを　つくる
-きのみブレンダーと　できたポロックを
-ほぞんする　ポロックケースの　セット。                                                                                                             |
-| 772     | 19               | 3           | 나무열매로 포켓몬스넥을 만드는
-나무열매블렌더와 만들어진 포켓몬스넥을
-저장하는 포켓몬스넥케이스 세트.                                                                                                            |
-| 772     | 19               | 4           | 可由樹果製作寶可方塊的樹果混合器
-與存放用的寶可方塊盒之套裝。                                                                                                                                    |
-| 772     | 19               | 5           | Boîte pour ranger le Mixeur à Baies et les Pokéblocs.                                                                                                              |
-| 772     | 19               | 6           | Ein Set, das aus einem Beerenmixer für die
-Herstellung von Pokériegeln und einer Pokériegelbox
-für deren Lagerung besteht.                                         |
-| 772     | 19               | 7           | Kit consistente en una Licuabayas para preparar
-Pokécubos a partir de bayas y un Tubo Pokécubos
-para guardarlos.                                                   |
-| 772     | 19               | 8           | Kit composto da un Mixer bacche, usato per
-preparare le Pokémelle, e da un Portapokémelle,
-usato per conservarle.                                                  |
-| 772     | 19               | 9           | A set containing a Berry Blender for making
-Pokéblocks and a Pokéblock Case for
-storing Pokéblocks.                                                                |
-| 772     | 19               | 11          | きのみから　ポロックを　作る
-きのみブレンダーと　できたポロックを
-保存する　ポロックケースの　セット。                                                                                                               |
-| 772     | 19               | 12          | 这是树果混合器和宝可方块盒的套装。
-树果混合器可利用树果制作宝可方块，
-而做好的宝可方块可用宝可方块盒来保存。                                                                                                            |
-| 772     | 20               | 1           | きのみから　ポロックを　つくる
-きのみブレンダーと　できたポロックを
-ほぞんする　ポロックケースの　セット。                                                                                                             |
-| 772     | 20               | 3           | 나무열매로 포켓몬스넥을 만드는
-나무열매블렌더와 만들어진 포켓몬스넥을
-저장하는 포켓몬스넥케이스 세트.                                                                                                            |
-| 772     | 20               | 4           | 可由樹果製作寶可方塊的樹果混合器
-與存放用的寶可方塊盒之套裝。                                                                                                                                    |
-| 772     | 20               | 5           | Boîte pour ranger le Mixeur à Baies et les Pokéblocs.                                                                                                              |
-| 772     | 20               | 6           | Ein Set, das aus einem Beerenmixer für die Herstellung
-von Pokériegeln und einer Pokériegelbox für deren
-Lagerung besteht.                                         |
-| 772     | 20               | 7           | Kit consistente en una Licuabayas para preparar
-Pokécubos a partir de bayas y un Tubo Pokécubos para
-guardarlos.                                                   |
-| 772     | 20               | 8           | Kit composto da un Mixer bacche, usato per
-preparare le Pokémelle, e da un Portapokémelle,
-usato per conservarle.                                                  |
-| 772     | 20               | 9           | A set containing a Berry Blender for making
-Pokéblocks and a Pokéblock Case for
-storing Pokéblocks.                                                                |
-| 772     | 20               | 11          | きのみから　ポロックを　作る
-きのみブレンダーと　できたポロックを
-保存する　ポロックケースの　セット。                                                                                                               |
-| 772     | 20               | 12          | 这是树果混合器和宝可方块盒的套装。
-树果混合器可利用树果制作宝可方块，
-而做好的宝可方块可用宝可方块盒来保存。                                                                                                            |
-| 773     | 17               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 773     | 17               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 773     | 17               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 773     | 17               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 773     | 17               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 773     | 17               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 773     | 17               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 773     | 17               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 773     | 17               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 773     | 17               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 773     | 18               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 773     | 18               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 773     | 18               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 773     | 18               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 773     | 18               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 773     | 18               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 773     | 18               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 773     | 18               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 773     | 18               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 773     | 18               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 773     | 19               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 773     | 19               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 773     | 19               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 773     | 19               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 773     | 19               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 773     | 19               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 773     | 19               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 773     | 19               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 773     | 19               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 773     | 19               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 773     | 20               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 773     | 20               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 773     | 20               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 773     | 20               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 773     | 20               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 773     | 20               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 773     | 20               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 773     | 20               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 773     | 20               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 773     | 20               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 774     | 17               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 774     | 17               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 774     | 17               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 774     | 17               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 774     | 17               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 774     | 17               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 774     | 17               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 774     | 17               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 774     | 17               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 774     | 17               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 774     | 18               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 774     | 18               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 774     | 18               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 774     | 18               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 774     | 18               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 774     | 18               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 774     | 18               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 774     | 18               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 774     | 18               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 774     | 18               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 774     | 19               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 774     | 19               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 774     | 19               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 774     | 19               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 774     | 19               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 774     | 19               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 774     | 19               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 774     | 19               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 774     | 19               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 774     | 19               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 774     | 20               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 774     | 20               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 774     | 20               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 774     | 20               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 774     | 20               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 774     | 20               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 774     | 20               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 774     | 20               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 774     | 20               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 774     | 20               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 775     | 17               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 775     | 17               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 775     | 17               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 775     | 17               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 775     | 17               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 775     | 17               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 775     | 17               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 775     | 17               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 775     | 17               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 775     | 17               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 775     | 18               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 775     | 18               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 775     | 18               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 775     | 18               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 775     | 18               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 775     | 18               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 775     | 18               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 775     | 18               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 775     | 18               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 775     | 18               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 775     | 19               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 775     | 19               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 775     | 19               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 775     | 19               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 775     | 19               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 775     | 19               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 775     | 19               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 775     | 19               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 775     | 19               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 775     | 19               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 775     | 20               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 775     | 20               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 775     | 20               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 775     | 20               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 775     | 20               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 775     | 20               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 775     | 20               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 775     | 20               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 775     | 20               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 775     | 20               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 776     | 17               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 776     | 17               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 776     | 17               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 776     | 17               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 776     | 17               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 776     | 17               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 776     | 17               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 776     | 17               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 776     | 17               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 776     | 17               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 776     | 18               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 776     | 18               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 776     | 18               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 776     | 18               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 776     | 18               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 776     | 18               | 7           | Llave de acceso a una de las habitaciones de
-Malvamar.                                                                                                             |
-| 776     | 18               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 776     | 18               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 776     | 18               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 776     | 18               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 776     | 19               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 776     | 19               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 776     | 19               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 776     | 19               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 776     | 19               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 776     | 19               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 776     | 19               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 776     | 19               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 776     | 19               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 776     | 19               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 776     | 20               | 1           | シーキンセツの　へやに
-はいる　ための　カギ。                                                                                                                                            |
-| 776     | 20               | 3           | 씨보라의 방으로
-들어가기 위한 열쇠.                                                                                                                                               |
-| 776     | 20               | 4           | 用於進入
-海紫菫的房間的鑰匙。                                                                                                                                                    |
-| 776     | 20               | 5           | La clé d’une salle de Lavandia Sea.                                                                                                                                |
-| 776     | 20               | 6           | Ein Schlüssel, der in das Schloss eines Raumes auf
-Seewoge Malvenfroh passt.                                                                                       |
-| 776     | 20               | 7           | Llave de acceso a una de las habitaciones de Malvamar.                                                                                                             |
-| 776     | 20               | 8           | Chiave per accedere a una delle stanze
-di Ciclamare.                                                                                                               |
-| 776     | 20               | 9           | A key that opens a door inside Sea Mauville.                                                                                                                       |
-| 776     | 20               | 11          | シーキンセツの　部屋に
-入るための　カギ。                                                                                                                                              |
-| 776     | 20               | 12          | 进入海紫堇的房间时
-所需的钥匙。                                                                                                                                                   |
-| 779     | 17               | 1           | ダイビング　ちゅうに　みにつける
-さんそ　ほきゅうよう　マスク。
-デボンで　つくられた。                                                                                                                       |
-| 779     | 17               | 3           | 다이빙할 때 몸에 착용하는
-산소 호흡용 마스크.
-데봉에서 만들어졌다.                                                                                                                             |
-| 779     | 17               | 4           | 潛水時裝備在身上
-用來呼吸氧氣的面罩。
-得文製造。                                                                                                                                          |
-| 779     | 17               | 5           | Un masque à oxygène fabriqué par la société
-Devon et utilisé pour la plongée sous-marine.                                                                          |
-| 779     | 17               | 6           | Eine von der Devon Corporation hergestellte Maske,
-die Taucher unter Wasser mit ausreichend
-Sauerstoff versorgt.                                                   |
-| 779     | 17               | 7           | Máscara que surte de oxígeno durante las
-inmersiones en el agua. Producto de Devon S. A.                                                                           |
-| 779     | 17               | 8           | Maschera di ossigeno prodotta dalla Devon,
-utile durante le immersioni.                                                                                            |
-| 779     | 17               | 9           | A device made by Devon Corporation that provides
-oxygen to users during the use of Dive.                                                                           |
-| 779     | 17               | 11          | ダイビング中に　身につける
-酸素補給用の　マスク。
-デボンで　つくられた。                                                                                                                              |
-| 779     | 17               | 12          | 潜水时装备在身上
-用来呼吸氧气的面罩。
-得文制造。                                                                                                                                          |
-| 779     | 18               | 1           | ダイビング　ちゅうに　みにつける
-さんそ　ほきゅうよう　マスク。
-デボンで　つくられた。                                                                                                                       |
-| 779     | 18               | 3           | 다이빙할 때 몸에 착용하는
-산소 호흡용 마스크.
-데봉에서 만들어졌다.                                                                                                                             |
-| 779     | 18               | 4           | 潛水時裝備在身上
-用來呼吸氧氣的面罩。
-得文製造。                                                                                                                                          |
-| 779     | 18               | 5           | Un masque à oxygène fabriqué par la société
-Devon et utilisé pour la plongée sous-marine.                                                                          |
-| 779     | 18               | 6           | Eine von der Devon Corporation hergestellte Maske,
-die Taucher unter Wasser mit ausreichend
-Sauerstoff versorgt.                                                   |
-| 779     | 18               | 7           | Máscara que surte de oxígeno durante las
-inmersiones en el agua. Producto de Devon S. A.                                                                           |
-| 779     | 18               | 8           | Maschera di ossigeno prodotta dalla Devon,
-utile durante le immersioni.                                                                                            |
-| 779     | 18               | 9           | A device made by Devon Corporation that provides
-oxygen to users during the use of Dive.                                                                           |
-| 779     | 18               | 11          | ダイビング中に　身につける
-酸素補給用の　マスク。
-デボンで　つくられた。                                                                                                                              |
-| 779     | 18               | 12          | 潜水时装备在身上
-用来呼吸氧气的面罩。
-得文制造。                                                                                                                                          |
-| 779     | 19               | 1           | ダイビング　ちゅうに　みにつける
-さんそ　ほきゅうよう　マスク。
-デボンで　つくられた。                                                                                                                       |
-| 779     | 19               | 3           | 다이빙할 때 몸에 착용하는
-산소 호흡용 마스크.
-데봉에서 만들어졌다.                                                                                                                             |
-| 779     | 19               | 4           | 潛水時裝備在身上
-用來呼吸氧氣的面罩。
-得文製造。                                                                                                                                          |
-| 779     | 19               | 5           | Un masque à oxygène fabriqué par la société Devon
-et utilisé pour la plongée sous-marine.                                                                          |
-| 779     | 19               | 6           | Eine von der Devon Corporation hergestellte Maske,
-die Taucher unter Wasser mit ausreichend
-Sauerstoff versorgt.                                                   |
-| 779     | 19               | 7           | Máscara que surte de oxígeno durante las inmersiones
-en el agua. Producto de Devon S. A.                                                                           |
-| 779     | 19               | 8           | Maschera di ossigeno prodotta dalla Devon,
-utile durante le immersioni.                                                                                            |
-| 779     | 19               | 9           | A device made by Devon Corporation that provides
-oxygen to users during the use of Dive.                                                                           |
-| 779     | 19               | 11          | ダイビング中に　身につける
-酸素補給用の　マスク。
-デボンで　つくられた。                                                                                                                              |
-| 779     | 19               | 12          | 潜水时装备在身上
-用来呼吸氧气的面罩。
-得文制造。                                                                                                                                          |
-| 779     | 20               | 1           | ダイビング　ちゅうに　みにつける
-さんそ　ほきゅうよう　マスク。
-デボンで　つくられた。                                                                                                                       |
-| 779     | 20               | 3           | 다이빙할 때 몸에 착용하는
-산소 호흡용 마스크.
-데봉에서 만들어졌다.                                                                                                                             |
-| 779     | 20               | 4           | 潛水時裝備在身上
-用來呼吸氧氣的面罩。
-得文製造。                                                                                                                                          |
-| 779     | 20               | 5           | Un masque à oxygène fabriqué par la société Devon
-et utilisé pour la plongée sous-marine.                                                                          |
-| 779     | 20               | 6           | Eine von der Devon Corporation hergestellte Maske,
-die Taucher unter Wasser mit ausreichend Sauerstoff
-versorgt.                                                   |
-| 779     | 20               | 7           | Máscara que surte de oxígeno durante las inmersiones
-en el agua. Producto de Devon S. A.                                                                           |
-| 779     | 20               | 8           | Maschera di ossigeno prodotta dalla Devon,
-utile durante le immersioni.                                                                                            |
-| 779     | 20               | 9           | A device made by Devon Corporation that provides
-oxygen to users during the use of Dive.                                                                           |
-| 779     | 20               | 11          | ダイビング中に　身につける
-酸素補給用の　マスク。
-デボンで　つくられた。                                                                                                                              |
-| 779     | 20               | 12          | 潜水时装备在身上
-用来呼吸氧气的面罩。
-得文制造。                                                                                                                                          |
-| 780     | 17               | 1           | コンテストライブで　きる
-とっても　カッコいい　スーツ。                                                                                                                                       |
-| 780     | 17               | 3           | 콘테스트 라이브에서 입는
-아주 멋있는 슈트다.                                                                                                                                          |
-| 780     | 17               | 4           | 在華麗大賽上演出時穿的
-非常帥氣的禮服。                                                                                                                                               |
-| 780     | 17               | 5           | Un costume très rock porté pour le Concours
-Pokémon Live !                                                                                                         |
-| 780     | 17               | 6           | Ein schicker Anzug, der bei
-Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                         |
-| 780     | 17               | 7           | Traje de lo más espectacular para lucir en el
-Gran Concurso.                                                                                                       |
-| 780     | 17               | 8           | Elegante costume da indossare durante le
-Gare Live.                                                                                                                |
-| 780     | 17               | 9           | A very cool suit to be worn during the
-Contest Spectacular.                                                                                                        |
-| 780     | 17               | 11          | コンテストライブで　着る
-とっても　格好良い　スーツ。                                                                                                                                        |
-| 780     | 17               | 12          | 在华丽大赛上演出时穿的
-非常帅气的礼服。                                                                                                                                               |
-| 780     | 18               | 1           | コンテストライブで　きる
-とっても　カッコいい　スーツ。                                                                                                                                       |
-| 780     | 18               | 3           | 콘테스트 라이브에서 입는
-아주 멋있는 슈트다.                                                                                                                                          |
-| 780     | 18               | 4           | 在華麗大賽上演出時穿的
-非常帥氣的禮服。                                                                                                                                               |
-| 780     | 18               | 5           | Un costume très rock porté pour le Concours
-Pokémon Live !                                                                                                         |
-| 780     | 18               | 6           | Ein schicker Anzug, der bei
-Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                         |
-| 780     | 18               | 7           | Traje de lo más espectacular para lucir en el
-Gran Concurso.                                                                                                       |
-| 780     | 18               | 8           | Elegante costume da indossare durante le
-Gare Live.                                                                                                                |
-| 780     | 18               | 9           | A very cool suit to be worn during the
-Contest Spectacular.                                                                                                        |
-| 780     | 18               | 11          | コンテストライブで　着る
-とっても　格好良い　スーツ。                                                                                                                                        |
-| 780     | 18               | 12          | 在华丽大赛上演出时穿的
-非常帅气的礼服。                                                                                                                                               |
-| 780     | 19               | 1           | コンテストライブで　きる
-とっても　カッコいい　スーツ。                                                                                                                                       |
-| 780     | 19               | 3           | 콘테스트 라이브에서 입는
-아주 멋있는 슈트다.                                                                                                                                          |
-| 780     | 19               | 4           | 在華麗大賽上演出時穿的
-非常帥氣的禮服。                                                                                                                                               |
-| 780     | 19               | 5           | Un costume très rock porté pour le Concours
-Pokémon Live !                                                                                                         |
-| 780     | 19               | 6           | Ein schicker Anzug, der bei
-Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                         |
-| 780     | 19               | 7           | Traje de lo más espectacular para lucir en el
-Gran Concurso.                                                                                                       |
-| 780     | 19               | 8           | Elegante costume da indossare durante le
-Gare Live.                                                                                                                |
-| 780     | 19               | 9           | A very cool suit to be worn during the
-Contest Spectacular.                                                                                                        |
-| 780     | 19               | 11          | コンテストライブで　着る
-とっても　格好良い　スーツ。                                                                                                                                        |
-| 780     | 19               | 12          | 在华丽大赛上演出时穿的
-非常帅气的礼服。                                                                                                                                               |
-| 780     | 20               | 1           | コンテストライブで　きる
-とっても　カッコいい　スーツ。                                                                                                                                       |
-| 780     | 20               | 3           | 콘테스트 라이브에서 입는
-아주 멋있는 슈트다.                                                                                                                                          |
-| 780     | 20               | 4           | 在華麗現場大賽上演出時穿的
-非常帥氣的禮服。                                                                                                                                             |
-| 780     | 20               | 5           | Un costume très rock porté pour le Concours
-Pokémon Live !                                                                                                         |
-| 780     | 20               | 6           | Ein schicker Anzug, der bei Pokémon-Wettbewerb Live!
-getragen werden kann.                                                                                         |
-| 780     | 20               | 7           | Traje de lo más espectacular para lucir en el Gran
-Concurso.                                                                                                       |
-| 780     | 20               | 8           | Elegante costume da indossare durante le
-Gare Live.                                                                                                                |
-| 780     | 20               | 9           | A very cool suit to be worn during the
-Contest Spectacular.                                                                                                        |
-| 780     | 20               | 11          | コンテストライブで　着る
-とっても　格好良い　スーツ。                                                                                                                                        |
-| 780     | 20               | 12          | 在华丽现场大赛上演出时穿的
-非常帅气的礼服。                                                                                                                                             |
-| 782     | 17               | 1           | マグマだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 782     | 17               | 3           | 마그마단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 782     | 17               | 4           | 集結了熔岩隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 782     | 17               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Magma.
-Elle résiste à tous les chocs.                                                         |
-| 782     | 17               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Magma entstand.
-Hält jeder Art von Erschütterung stand.                                     |
-| 782     | 17               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Magma.
-Es capaz de soportar cualquier impacto.                                     |
-| 782     | 17               | 8           | Tuta altamente tecnologica costruita dal
-Team Magma, in grado di resistere a qualunque
-shock.                                                                      |
-| 782     | 17               | 9           | A suit made with the collective technological
-know-how of Team Magma. It can withstand
-any impact.                                                                 |
-| 782     | 17               | 11          | マグマ団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 782     | 17               | 12          | 集熔岩队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 782     | 18               | 1           | マグマだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 782     | 18               | 3           | 마그마단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 782     | 18               | 4           | 集結了熔岩隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 782     | 18               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Magma.
-Elle résiste à tous les chocs.                                                         |
-| 782     | 18               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Magma entstand.
-Hält jeder Art von Erschütterung stand.                                     |
-| 782     | 18               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Magma.
-Es capaz de soportar cualquier impacto.                                     |
-| 782     | 18               | 8           | Tuta altamente tecnologica costruita dal
-Team Magma, in grado di resistere a qualunque
-shock.                                                                      |
-| 782     | 18               | 9           | A suit made with the collective technological
-know-how of Team Magma. It can withstand
-any impact.                                                                 |
-| 782     | 18               | 11          | マグマ団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 782     | 18               | 12          | 集熔岩队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 782     | 19               | 1           | マグマだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 782     | 19               | 3           | 마그마단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 782     | 19               | 4           | 集結了熔岩隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 782     | 19               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Magma.
-Elle résiste à tous les chocs.                                                         |
-| 782     | 19               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Magma entstand.
-Hält jeder Art von Erschütterung stand.                                     |
-| 782     | 19               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Magma.
-Es capaz de soportar cualquier impacto.                                     |
-| 782     | 19               | 8           | Tuta altamente tecnologica costruita dal
-Team Magma, in grado di resistere a qualunque
-shock.                                                                      |
-| 782     | 19               | 9           | A suit made with the collective technological
-know-how of Team Magma. It can withstand
-any impact.                                                                 |
-| 782     | 19               | 11          | マグマ団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 782     | 19               | 12          | 集熔岩队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 782     | 20               | 1           | マグマだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 782     | 20               | 3           | 마그마단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 782     | 20               | 4           | 集結了熔岩隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 782     | 20               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Magma.
-Elle résiste à tous les chocs.                                                         |
-| 782     | 20               | 6           | Ein Anzug, der unter Einsatz des gesamten technischen
-Wissens von Team Magma entstand. Hält jeder Art von
-Erschütterung stand.                                     |
-| 782     | 20               | 7           | Este traje es el resultado de las arduas investigaciones
-científicas del Equipo Magma. Es capaz de soportar
-cualquier impacto.                                     |
-| 782     | 20               | 8           | Tuta altamente tecnologica costruita dal
-Team Magma, in grado di resistere a qualunque
-shock.                                                                      |
-| 782     | 20               | 9           | A suit made with the collective technological
-know-how of Team Magma. It can withstand
-any impact.                                                                 |
-| 782     | 20               | 11          | マグマ団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 782     | 20               | 12          | 集熔岩队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 783     | 17               | 1           | アクアだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 783     | 17               | 3           | 아쿠아단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 783     | 17               | 4           | 集結了海洋隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 783     | 17               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Aqua.
-Elle résiste à tous les chocs.                                                          |
-| 783     | 17               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Aqua entstand.
-Hält jeder Art von Erschütterung stand.                                      |
-| 783     | 17               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Aqua.
-Es capaz de soportar cualquier impacto.                                      |
-| 783     | 17               | 8           | Tuta altamente tecnologica costruita dal
-Team Idro in grado di resistere a qualunque
-shock.                                                                        |
-| 783     | 17               | 9           | A suit made with the collective technological
-know-how of Team Aqua. It can withstand
-any impact.                                                                  |
-| 783     | 17               | 11          | アクア団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 783     | 17               | 12          | 集海洋队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 783     | 18               | 1           | アクアだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 783     | 18               | 3           | 아쿠아단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 783     | 18               | 4           | 集結了海洋隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 783     | 18               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Aqua.
-Elle résiste à tous les chocs.                                                          |
-| 783     | 18               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Aqua entstand.
-Hält jeder Art von Erschütterung stand.                                      |
-| 783     | 18               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Aqua.
-Es capaz de soportar cualquier impacto.                                      |
-| 783     | 18               | 8           | Tuta altamente tecnologica costruita dal
-Team Idro in grado di resistere a qualunque
-shock.                                                                        |
-| 783     | 18               | 9           | A suit made with the collective technological
-know-how of Team Aqua. It can withstand
-any impact.                                                                  |
-| 783     | 18               | 11          | アクア団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 783     | 18               | 12          | 集海洋队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 783     | 19               | 1           | アクアだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 783     | 19               | 3           | 아쿠아단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 783     | 19               | 4           | 集結了海洋隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 783     | 19               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Aqua.
-Elle résiste à tous les chocs.                                                          |
-| 783     | 19               | 6           | Ein Anzug, der unter Einsatz des gesamten
-technischen Wissens von Team Aqua entstand.
-Hält jeder Art von Erschütterung stand.                                      |
-| 783     | 19               | 7           | Este traje es el resultado de las arduas
-investigaciones científicas del Equipo Aqua.
-Es capaz de soportar cualquier impacto.                                      |
-| 783     | 19               | 8           | Tuta altamente tecnologica costruita dal
-Team Idro in grado di resistere a qualunque
-shock.                                                                        |
-| 783     | 19               | 9           | A suit made with the collective technological
-know-how of Team Aqua. It can withstand
-any impact.                                                                  |
-| 783     | 19               | 11          | アクア団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 783     | 19               | 12          | 集海洋队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 783     | 20               | 1           | アクアだんの　かがくぎじゅつを
-けっしゅうして　つくられた　スーツ。
-どんな　しょうげき　にも　たえられる。                                                                                                             |
-| 783     | 20               | 3           | 아쿠아단이 과학기술을
-결집하여 만든 슈트다.
-어떠한 충격에도 견딜 수 있다.                                                                                                                         |
-| 783     | 20               | 4           | 集結了海洋隊的
-科學技術製造的服裝。
-能承受任何衝擊。                                                                                                                                        |
-| 783     | 20               | 5           | Une combinaison créée à partir des méthodes
-scientifiques de la Team Aqua.
-Elle résiste à tous les chocs.                                                          |
-| 783     | 20               | 6           | Ein Anzug, der unter Einsatz des gesamten technischen
-Wissens von Team Aqua entstand. Hält jeder Art von
-Erschütterung stand.                                      |
-| 783     | 20               | 7           | Este traje es el resultado de las arduas investigaciones
-científicas del Equipo Aqua. Es capaz de soportar
-cualquier impacto.                                      |
-| 783     | 20               | 8           | Tuta altamente tecnologica costruita dal
-Team Idro in grado di resistere a qualunque
-shock.                                                                        |
-| 783     | 20               | 9           | A suit made with the collective technological
-know-how of Team Aqua. It can withstand
-any impact.                                                                  |
-| 783     | 20               | 11          | アクア団の　科学技術を
-結集して　つくられた　スーツ。
-どんな　衝撃にも　耐えられる。                                                                                                                        |
-| 783     | 20               | 12          | 集海洋队科学技术于一身的服装。
-能承受任何冲击。                                                                                                                                           |
-| 784     | 17               | 1           | トクサネうちゅうセンターで
-ひらかれている　てんたいショーの
-ふたりぐみ　チケット。                                                                                                                         |
-| 784     | 17               | 3           | 이끼 우주센터에서
-열리고 있는 천체쇼의
-2인용 티켓이다.                                                                                                                                    |
-| 784     | 17               | 4           | 在綠嶺宇宙中心舉辦的
-天體展覽的雙人票。                                                                                                                                               |
-| 784     | 17               | 5           | Un ticket pour deux personnes pour le spectacle
-d’astronomie se déroulant au Centre Spatial
-d’Algatia.                                                             |
-| 784     | 17               | 6           | Eine Eintrittskarte, mit der zwei Personen Zutritt
-zur Astronomie-Show des Raumfahrtzentrums
-von Moosbach City erhalten.                                           |
-| 784     | 17               | 7           | Pase de dos personas para asistir al espectáculo
-de astronomía que se celebra en el Centro
-Espacial de Algaria.                                                    |
-| 784     | 17               | 8           | Biglietto per due persone per lo spettacolo
-astronomico del Centro Spaziale di Verdeazzupoli.                                                                      |
-| 784     | 17               | 9           | Tickets for two to the astronomical show being
-held at the Mossdeep Space Center.                                                                                  |
-| 784     | 17               | 11          | トクサネ宇宙センターで　開かれている
-天体ショーの　２人組チケット。                                                                                                                                 |
-| 784     | 17               | 12          | 在绿岭宇宙中心举办的
-天体展览的双人票。                                                                                                                                               |
-| 784     | 18               | 1           | トクサネうちゅうセンターで
-ひらかれている　てんたいショーの
-ふたりぐみ　チケット。                                                                                                                         |
-| 784     | 18               | 3           | 이끼 우주센터에서
-열리고 있는 천체쇼의
-2인용 티켓이다.                                                                                                                                    |
-| 784     | 18               | 4           | 在綠嶺宇宙中心舉辦的
-天體展覽的雙人票。                                                                                                                                               |
-| 784     | 18               | 5           | Un ticket pour deux personnes pour le spectacle
-d’astronomie se déroulant au Centre Spatial
-d’Algatia.                                                             |
-| 784     | 18               | 6           | Eine Eintrittskarte, mit der zwei Personen Zutritt
-zur Astronomie-Show des Raumfahrtzentrums
-von Moosbach City erhalten.                                           |
-| 784     | 18               | 7           | Pase de dos personas para asistir al espectáculo
-de astronomía que se celebra en el Centro
-Espacial de Algaria.                                                    |
-| 784     | 18               | 8           | Biglietto per due persone per lo spettacolo
-astronomico del Centro Spaziale di Verdeazzupoli.                                                                      |
-| 784     | 18               | 9           | Tickets for two to the astronomical show being
-held at the Mossdeep Space Center.                                                                                  |
-| 784     | 18               | 11          | トクサネ宇宙センターで　開かれている
-天体ショーの　２人組チケット。                                                                                                                                 |
-| 784     | 18               | 12          | 在绿岭宇宙中心举办的
-天体展览的双人票。                                                                                                                                               |
-| 784     | 19               | 1           | トクサネうちゅうセンターで
-ひらかれている　てんたいショーの
-ふたりぐみ　チケット。                                                                                                                         |
-| 784     | 19               | 3           | 이끼 우주센터에서
-열리고 있는 천체쇼의
-2인용 티켓이다.                                                                                                                                    |
-| 784     | 19               | 4           | 在綠嶺宇宙中心舉辦的
-天體展覽的雙人票。                                                                                                                                               |
-| 784     | 19               | 5           | Un ticket pour deux personnes pour le spectacle
-d’astronomie se déroulant au Centre Spatial d’Algatia.                                                             |
-| 784     | 19               | 6           | Eine Eintrittskarte, mit der zwei Personen Zutritt
-zur Astronomie-Show des Raumfahrtzentrums
-von Moosbach City erhalten.                                           |
-| 784     | 19               | 7           | Pase de dos personas para asistir al espectáculo
-de astronomía que se celebra en el Centro Espacial
-de Algaria.                                                    |
-| 784     | 19               | 8           | Biglietto per due persone per lo spettacolo
-astronomico del Centro Spaziale di Verdeazzupoli.                                                                      |
-| 784     | 19               | 9           | Tickets for two to the astronomical show being
-held at the Mossdeep Space Center.                                                                                  |
-| 784     | 19               | 11          | トクサネ宇宙センターで　開かれている
-天体ショーの　２人組チケット。                                                                                                                                 |
-| 784     | 19               | 12          | 在绿岭宇宙中心举办的
-天体展览的双人票。                                                                                                                                               |
-| 784     | 20               | 1           | トクサネうちゅうセンターで
-ひらかれている　てんたいショーの
-ふたりぐみ　チケット。                                                                                                                         |
-| 784     | 20               | 3           | 이끼 우주센터에서
-열리고 있는 천체쇼의
-2인용 티켓이다.                                                                                                                                    |
-| 784     | 20               | 4           | 在綠嶺宇宙中心舉辦的
-天體展覽的雙人票。                                                                                                                                               |
-| 784     | 20               | 5           | Un ticket pour deux personnes pour le spectacle
-d’astronomie se déroulant au Centre Spatial d’Algatia.                                                             |
-| 784     | 20               | 6           | Eine Eintrittskarte, mit der zwei Personen Zutritt zur
-Astronomie-Show des Raumfahrtzentrums von
-Moosbach City erhalten.                                           |
-| 784     | 20               | 7           | Pase de dos personas para asistir al espectáculo de
-astronomía que se celebra en el Centro Espacial de
-Algaria.                                                    |
-| 784     | 20               | 8           | Biglietto per due persone per lo spettacolo
-astronomico del Centro Spaziale di Verdeazzupoli.                                                                      |
-| 784     | 20               | 9           | Tickets for two to the astronomical show being
-held at the Mossdeep Space Center.                                                                                  |
-| 784     | 20               | 11          | トクサネ宇宙センターで　開かれている
-天体ショーの　２人組チケット。                                                                                                                                 |
-| 784     | 20               | 12          | 在绿岭宇宙中心举办的
-天体展览的双人票。                                                                                                                                               |
-| 785     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　バングル。                                                                                                                |
-| 785     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 뱅글.                                                                                                                         |
-| 785     | 17               | 4           | 隱藏著未知力量的手鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 785     | 17               | 5           | Un bracelet aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 785     | 17               | 6           | Ein Armreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 785     | 17               | 7           | Aro con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                               |
-| 785     | 17               | 8           | Bracciale dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                           |
-| 785     | 17               | 9           | This cuff contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                    |
-| 785     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　バングル。                                                                                                                  |
-| 785     | 17               | 12          | 蕴藏着未知力量的手镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 785     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　バングル。                                                                                                                |
-| 785     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 뱅글.                                                                                                                         |
-| 785     | 18               | 4           | 隱藏著未知力量的手鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 785     | 18               | 5           | Un bracelet aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 785     | 18               | 6           | Ein Armreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 785     | 18               | 7           | Aro con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                               |
-| 785     | 18               | 8           | Bracciale dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                           |
-| 785     | 18               | 9           | This cuff contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                    |
-| 785     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　バングル。                                                                                                                  |
-| 785     | 18               | 12          | 蕴藏着未知力量的手镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 785     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　バングル。                                                                                                                |
-| 785     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 뱅글.                                                                                                                         |
-| 785     | 19               | 4           | 隱藏著未知力量的手鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 785     | 19               | 5           | Un bracelet aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 785     | 19               | 6           | Ein Armreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 785     | 19               | 7           | Aro con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                               |
-| 785     | 19               | 8           | Bracciale dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                           |
-| 785     | 19               | 9           | This cuff contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                    |
-| 785     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　バングル。                                                                                                                  |
-| 785     | 19               | 12          | 蕴藏着未知力量的手镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 785     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　バングル。                                                                                                                |
-| 785     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 뱅글.                                                                                                                         |
-| 785     | 20               | 4           | 隱藏著未知力量的手鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 785     | 20               | 5           | Un bracelet aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 785     | 20               | 6           | Ein Armreif mit geheimnisvollen Kräften. Er ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                  |
-| 785     | 20               | 7           | Aro con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                               |
-| 785     | 20               | 8           | Bracciale dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                           |
-| 785     | 20               | 9           | This cuff contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                    |
-| 785     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　バングル。                                                                                                                  |
-| 785     | 20               | 12          | 蕴藏着未知力量的手镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 786     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ネックレス。                                                                                                               |
-| 786     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 목걸이.                                                                                                                        |
-| 786     | 17               | 4           | 隱藏著未知力量的吊墜。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 786     | 17               | 5           | Un pendentif aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il
-tient la bonne Méga-Gemme.                                             |
-| 786     | 17               | 6           | Ein Anhänger mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 786     | 17               | 7           | Collar con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 786     | 17               | 8           | Collana dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 786     | 17               | 9           | This necklace contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 786     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ネックレス。                                                                                                                 |
-| 786     | 17               | 12          | 蕴藏着未知力量的吊坠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 786     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ネックレス。                                                                                                               |
-| 786     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 목걸이.                                                                                                                        |
-| 786     | 18               | 4           | 隱藏著未知力量的吊墜。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 786     | 18               | 5           | Un pendentif aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il
-tient la bonne Méga-Gemme.                                             |
-| 786     | 18               | 6           | Ein Anhänger mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 786     | 18               | 7           | Collar con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 786     | 18               | 8           | Collana dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 786     | 18               | 9           | This necklace contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 786     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ネックレス。                                                                                                                 |
-| 786     | 18               | 12          | 蕴藏着未知力量的吊坠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 786     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ネックレス。                                                                                                               |
-| 786     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 목걸이.                                                                                                                        |
-| 786     | 19               | 4           | 隱藏著未知力量的吊墜。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 786     | 19               | 5           | Un pendentif aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 786     | 19               | 6           | Ein Anhänger mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 786     | 19               | 7           | Collar con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 786     | 19               | 8           | Collana dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 786     | 19               | 9           | This necklace contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 786     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ネックレス。                                                                                                                 |
-| 786     | 19               | 12          | 蕴藏着未知力量的吊坠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 786     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ネックレス。                                                                                                               |
-| 786     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 목걸이.                                                                                                                        |
-| 786     | 20               | 4           | 隱藏著未知力量的吊墜。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 786     | 20               | 5           | Un pendentif aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 786     | 20               | 6           | Ein Anhänger mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein tragen,
-eine Mega-Entwicklung durchzuführen.                                 |
-| 786     | 20               | 7           | Collar con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 786     | 20               | 8           | Collana dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 786     | 20               | 9           | This necklace contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 786     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ネックレス。                                                                                                                 |
-| 786     | 20               | 12          | 蕴藏着未知力量的吊坠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 787     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　メガネ。                                                                                                                 |
-| 787     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 안경.                                                                                                                         |
-| 787     | 17               | 4           | 隱藏著未知力量的眼鏡。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 787     | 17               | 5           | Des lunettes aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 787     | 17               | 6           | Eine Brille mit geheimnisvollen Kräften.
-Sie ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 787     | 17               | 7           | Gafas con un poder misterioso que permiten
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 787     | 17               | 8           | Occhiali dotati di un misterioso potere.
-Permettono a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 787     | 17               | 9           | These glasses contain an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                 |
-| 787     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　メガネ。                                                                                                                   |
-| 787     | 17               | 12          | 蕴藏着未知力量的眼镜。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 787     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　メガネ。                                                                                                                 |
-| 787     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 안경.                                                                                                                         |
-| 787     | 18               | 4           | 隱藏著未知力量的眼鏡。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 787     | 18               | 5           | Des lunettes aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 787     | 18               | 6           | Eine Brille mit geheimnisvollen Kräften.
-Sie ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 787     | 18               | 7           | Gafas con un poder misterioso que permiten
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 787     | 18               | 8           | Occhiali dotati di un misterioso potere.
-Permettono a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 787     | 18               | 9           | These glasses contain an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                 |
-| 787     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　メガネ。                                                                                                                   |
-| 787     | 18               | 12          | 蕴藏着未知力量的眼镜。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 787     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　メガネ。                                                                                                                 |
-| 787     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 안경.                                                                                                                         |
-| 787     | 19               | 4           | 隱藏著未知力量的眼鏡。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 787     | 19               | 5           | Des lunettes aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 787     | 19               | 6           | Eine Brille mit geheimnisvollen Kräften.
-Sie ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 787     | 19               | 7           | Gafas con un poder misterioso que permiten
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 787     | 19               | 8           | Occhiali dotati di un misterioso potere.
-Permettono a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 787     | 19               | 9           | These glasses contain an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                 |
-| 787     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　メガネ。                                                                                                                   |
-| 787     | 19               | 12          | 蕴藏着未知力量的眼镜。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 787     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　メガネ。                                                                                                                 |
-| 787     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 안경.                                                                                                                         |
-| 787     | 20               | 4           | 隱藏著未知力量的眼鏡。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 787     | 20               | 5           | Des lunettes aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                             |
-| 787     | 20               | 6           | Eine Brille mit geheimnisvollen Kräften. Sie ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                 |
-| 787     | 20               | 7           | Gafas con un poder misterioso que permiten
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 787     | 20               | 8           | Occhiali dotati di un misterioso potere.
-Permettono a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 787     | 20               | 9           | These glasses contain an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                 |
-| 787     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　メガネ。                                                                                                                   |
-| 787     | 20               | 12          | 蕴藏着未知力量的眼镜。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 788     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンカー。                                                                                                                |
-| 788     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵커.                                                                                                                         |
-| 788     | 17               | 4           | 隱藏著未知力量的船錨。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 788     | 17               | 5           | Une ancre aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 788     | 17               | 6           | Ein Anker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                    |
-| 788     | 17               | 7           | Ancla con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 788     | 17               | 8           | Ancora dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 788     | 17               | 9           | This anchor contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                  |
-| 788     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンカー。                                                                                                                  |
-| 788     | 17               | 12          | 蕴藏着未知力量的船锚。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 788     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンカー。                                                                                                                |
-| 788     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵커.                                                                                                                         |
-| 788     | 18               | 4           | 隱藏著未知力量的船錨。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 788     | 18               | 5           | Une ancre aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 788     | 18               | 6           | Ein Anker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                    |
-| 788     | 18               | 7           | Ancla con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 788     | 18               | 8           | Ancora dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 788     | 18               | 9           | This anchor contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                  |
-| 788     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンカー。                                                                                                                  |
-| 788     | 18               | 12          | 蕴藏着未知力量的船锚。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 788     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンカー。                                                                                                                |
-| 788     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵커.                                                                                                                         |
-| 788     | 19               | 4           | 隱藏著未知力量的船錨。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 788     | 19               | 5           | Une ancre aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 788     | 19               | 6           | Ein Anker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                    |
-| 788     | 19               | 7           | Ancla con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 788     | 19               | 8           | Ancora dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 788     | 19               | 9           | This anchor contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                  |
-| 788     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンカー。                                                                                                                  |
-| 788     | 19               | 12          | 蕴藏着未知力量的船锚。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 788     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンカー。                                                                                                                |
-| 788     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵커.                                                                                                                         |
-| 788     | 20               | 4           | 隱藏著未知力量的船錨。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 788     | 20               | 5           | Une ancre aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 788     | 20               | 6           | Ein Anker mit geheimnisvollen Kräften. Er ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                    |
-| 788     | 20               | 7           | Ancla con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 788     | 20               | 8           | Ancora dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 788     | 20               | 9           | This anchor contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                  |
-| 788     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンカー。                                                                                                                  |
-| 788     | 20               | 12          | 蕴藏着未知力量的船锚。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 789     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ラペルピン。                                                                                                               |
-| 789     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 라펠핀.                                                                                                                        |
-| 789     | 17               | 4           | 隱藏著未知力量的領針。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 789     | 17               | 5           | Un pin’s aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                 |
-| 789     | 17               | 6           | Ein Anstecker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 789     | 17               | 7           | Broche con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 789     | 17               | 8           | Spilla dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 789     | 17               | 9           | This stickpin contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 789     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ラペルピン。                                                                                                                 |
-| 789     | 17               | 12          | 蕴藏着未知力量的领针。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 789     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ラペルピン。                                                                                                               |
-| 789     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 라펠핀.                                                                                                                        |
-| 789     | 18               | 4           | 隱藏著未知力量的領針。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 789     | 18               | 5           | Un pin’s aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                 |
-| 789     | 18               | 6           | Ein Anstecker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 789     | 18               | 7           | Broche con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 789     | 18               | 8           | Spilla dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 789     | 18               | 9           | This stickpin contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 789     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ラペルピン。                                                                                                                 |
-| 789     | 18               | 12          | 蕴藏着未知力量的领针。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 789     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ラペルピン。                                                                                                               |
-| 789     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 라펠핀.                                                                                                                        |
-| 789     | 19               | 4           | 隱藏著未知力量的領針。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 789     | 19               | 5           | Un pin’s aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                 |
-| 789     | 19               | 6           | Ein Anstecker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                |
-| 789     | 19               | 7           | Broche con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 789     | 19               | 8           | Spilla dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 789     | 19               | 9           | This stickpin contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 789     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ラペルピン。                                                                                                                 |
-| 789     | 19               | 12          | 蕴藏着未知力量的领针。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 789     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ラペルピン。                                                                                                               |
-| 789     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 라펠핀.                                                                                                                        |
-| 789     | 20               | 4           | 隱藏著未知力量的領針。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 789     | 20               | 5           | Un pin’s aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                 |
-| 789     | 20               | 6           | Ein Anstecker mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein tragen,
-eine Mega-Entwicklung durchzuführen.                                |
-| 789     | 20               | 7           | Broche con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                            |
-| 789     | 20               | 8           | Spilla dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                              |
-| 789     | 20               | 9           | This stickpin contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 789     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ラペルピン。                                                                                                                 |
-| 789     | 20               | 12          | 蕴藏着未知力量的领针。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 790     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ティアラ。                                                                                                                |
-| 790     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 티아러.                                                                                                                        |
-| 790     | 17               | 4           | 隱藏著未知力量的頭冠。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 790     | 17               | 5           | Une tiare aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 790     | 17               | 6           | Ein Diadem mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                   |
-| 790     | 17               | 7           | Tiara con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 790     | 17               | 8           | Diadema dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 790     | 17               | 9           | This tiara contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                   |
-| 790     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ティアラ。                                                                                                                  |
-| 790     | 17               | 12          | 蕴藏着未知力量的头冠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 790     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ティアラ。                                                                                                                |
-| 790     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 티아러.                                                                                                                        |
-| 790     | 18               | 4           | 隱藏著未知力量的頭冠。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 790     | 18               | 5           | Une tiare aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 790     | 18               | 6           | Ein Diadem mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                   |
-| 790     | 18               | 7           | Tiara con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 790     | 18               | 8           | Diadema dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 790     | 18               | 9           | This tiara contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                   |
-| 790     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ティアラ。                                                                                                                  |
-| 790     | 18               | 12          | 蕴藏着未知力量的头冠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 790     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ティアラ。                                                                                                                |
-| 790     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 티아러.                                                                                                                        |
-| 790     | 19               | 4           | 隱藏著未知力量的頭冠。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 790     | 19               | 5           | Une tiare aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 790     | 19               | 6           | Ein Diadem mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                   |
-| 790     | 19               | 7           | Tiara con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 790     | 19               | 8           | Diadema dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 790     | 19               | 9           | This tiara contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                   |
-| 790     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ティアラ。                                                                                                                  |
-| 790     | 19               | 12          | 蕴藏着未知力量的头冠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 790     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ティアラ。                                                                                                                |
-| 790     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 티아러.                                                                                                                        |
-| 790     | 20               | 4           | 隱藏著未知力量的頭冠。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 790     | 20               | 5           | Une tiare aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 790     | 20               | 6           | Ein Diadem mit geheimnisvollen Kräften. Es ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                   |
-| 790     | 20               | 7           | Tiara con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                             |
-| 790     | 20               | 8           | Diadema dotato di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                             |
-| 790     | 20               | 9           | This tiara contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                   |
-| 790     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ティアラ。                                                                                                                  |
-| 790     | 20               | 12          | 蕴藏着未知力量的头冠。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 791     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンクレット。                                                                                                              |
-| 791     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵클릿.                                                                                                                        |
-| 791     | 17               | 4           | 隱藏著未知力量的腳鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 791     | 17               | 5           | Une grève aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 791     | 17               | 6           | Ein Beinreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 791     | 17               | 7           | Tobillera con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 791     | 17               | 8           | Cavigliera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 791     | 17               | 9           | This anklet contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                  |
-| 791     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンクレット。                                                                                                                |
-| 791     | 17               | 12          | 蕴藏着未知力量的脚镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 791     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンクレット。                                                                                                              |
-| 791     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵클릿.                                                                                                                        |
-| 791     | 18               | 4           | 隱藏著未知力量的腳鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 791     | 18               | 5           | Une grève aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 791     | 18               | 6           | Ein Beinreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 791     | 18               | 7           | Tobillera con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 791     | 18               | 8           | Cavigliera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 791     | 18               | 9           | This anklet contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                  |
-| 791     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンクレット。                                                                                                                |
-| 791     | 18               | 12          | 蕴藏着未知力量的脚镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 791     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンクレット。                                                                                                              |
-| 791     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵클릿.                                                                                                                        |
-| 791     | 19               | 4           | 隱藏著未知力量的腳鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 791     | 19               | 5           | Une grève aux pouvoirs mystérieux permettant à
-un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 791     | 19               | 6           | Ein Beinreif mit geheimnisvollen Kräften.
-Er ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                 |
-| 791     | 19               | 7           | Tobillera con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 791     | 19               | 8           | Cavigliera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 791     | 19               | 9           | This anklet contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                  |
-| 791     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンクレット。                                                                                                                |
-| 791     | 19               | 12          | 蕴藏着未知力量的脚镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 791     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　アンクレット。                                                                                                              |
-| 791     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 앵클릿.                                                                                                                        |
-| 791     | 20               | 4           | 隱藏著未知力量的腳鐲。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 791     | 20               | 5           | Une grève aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                                |
-| 791     | 20               | 6           | Ein Beinreif mit geheimnisvollen Kräften. Er ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                 |
-| 791     | 20               | 7           | Tobillera con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 791     | 20               | 8           | Cavigliera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                          |
-| 791     | 20               | 9           | This anklet contains an untold power that somehow
-enables Pokémon carrying a Mega Stone to
-Mega Evolve in battle.                                                  |
-| 791     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　アンクレット。                                                                                                                |
-| 791     | 20               | 12          | 蕴藏着未知力量的脚镯。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 793     | 17               | 1           | ラグラージに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 793     | 17               | 3           | 대짱이에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 793     | 17               | 4           | 讓巨沼怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 793     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Laggron, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 793     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Sumpex getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 793     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Swampert en combate.                                                                                 |
-| 793     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Swampert, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 793     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Swampert hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 793     | 17               | 11          | ラグラージに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 793     | 17               | 12          | 让巨沼怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 793     | 18               | 1           | ラグラージに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 793     | 18               | 3           | 대짱이에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 793     | 18               | 4           | 讓巨沼怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 793     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Laggron, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 793     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Sumpex getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 793     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Swampert en combate.                                                                                 |
-| 793     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Swampert, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 793     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Swampert hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 793     | 18               | 11          | ラグラージに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 793     | 18               | 12          | 让巨沼怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 793     | 19               | 1           | ラグラージに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 793     | 19               | 3           | 대짱이에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 793     | 19               | 4           | 讓巨沼怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 793     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Laggron, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 793     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Sumpex getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 793     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Swampert en combate.                                                                                 |
-| 793     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Swampert, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 793     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Swampert hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 793     | 19               | 11          | ラグラージに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 793     | 19               | 12          | 让巨沼怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 793     | 20               | 1           | ラグラージに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 793     | 20               | 3           | 대짱이에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 793     | 20               | 4           | 讓巨沼怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 793     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Laggron, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 793     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Sumpex getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 793     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Swampert en combate.                                                                                 |
-| 793     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Swampert, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 793     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Swampert hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 793     | 20               | 11          | ラグラージに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 793     | 20               | 12          | 让巨沼怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 794     | 17               | 1           | ジュカインに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 794     | 17               | 3           | 나무킹에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 794     | 17               | 4           | 讓蜥蜴王攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 794     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Jungko, elle lui permet de
-méga-évoluer durant un combat.                                                                  |
-| 794     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Gewaldro getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 794     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sceptile en combate.                                                                                 |
-| 794     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Sceptile, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 794     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Sceptile hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 794     | 17               | 11          | ジュカインに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 794     | 17               | 12          | 让蜥蜴王携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 794     | 18               | 1           | ジュカインに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 794     | 18               | 3           | 나무킹에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 794     | 18               | 4           | 讓蜥蜴王攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 794     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Jungko, elle lui permet de
-méga-évoluer durant un combat.                                                                  |
-| 794     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Gewaldro getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 794     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sceptile en combate.                                                                                 |
-| 794     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Sceptile, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 794     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Sceptile hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 794     | 18               | 11          | ジュカインに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 794     | 18               | 12          | 让蜥蜴王携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 794     | 19               | 1           | ジュカインに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 794     | 19               | 3           | 나무킹에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 794     | 19               | 4           | 讓蜥蜴王攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 794     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Jungko, elle lui permet de méga-évoluer
-durant un combat.                                                                  |
-| 794     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Gewaldro getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 794     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sceptile en combate.                                                                                 |
-| 794     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Sceptile, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 794     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Sceptile hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 794     | 19               | 11          | ジュカインに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 794     | 19               | 12          | 让蜥蜴王携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 794     | 20               | 1           | ジュカインに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 794     | 20               | 3           | 나무킹에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 794     | 20               | 4           | 讓蜥蜴王攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 794     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Jungko, elle lui permet de méga-évoluer
-durant un combat.                                                                  |
-| 794     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Gewaldro getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 794     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sceptile en combate.                                                                                 |
-| 794     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Sceptile, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 794     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Sceptile hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 794     | 20               | 11          | ジュカインに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 794     | 20               | 12          | 让蜥蜴王携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 795     | 17               | 1           | ヤミラミに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 795     | 17               | 3           | 깜까미에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 795     | 17               | 4           | 讓勾魂眼攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 795     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Ténéfix, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 795     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Zobiris getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 795     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sableye en combate.                                                                                  |
-| 795     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Sableye, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 795     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Sableye hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 795     | 17               | 11          | ヤミラミに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 795     | 17               | 12          | 让勾魂眼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 795     | 18               | 1           | ヤミラミに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 795     | 18               | 3           | 깜까미에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 795     | 18               | 4           | 讓勾魂眼攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 795     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Ténéfix, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 795     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Zobiris getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 795     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sableye en combate.                                                                                  |
-| 795     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Sableye, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 795     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Sableye hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 795     | 18               | 11          | ヤミラミに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 795     | 18               | 12          | 让勾魂眼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 795     | 19               | 1           | ヤミラミに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 795     | 19               | 3           | 깜까미에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 795     | 19               | 4           | 讓勾魂眼攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 795     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Ténéfix, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 795     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Zobiris getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 795     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sableye en combate.                                                                                  |
-| 795     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Sableye, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 795     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Sableye hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 795     | 19               | 11          | ヤミラミに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 795     | 19               | 12          | 让勾魂眼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 795     | 20               | 1           | ヤミラミに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 795     | 20               | 3           | 깜까미에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 795     | 20               | 4           | 讓勾魂眼攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 795     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Ténéfix, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 795     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Zobiris getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 795     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sableye en combate.                                                                                  |
-| 795     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Sableye, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 795     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Sableye hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 795     | 20               | 11          | ヤミラミに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 795     | 20               | 12          | 让勾魂眼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 796     | 17               | 1           | チルタリスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 796     | 17               | 3           | 파비코리에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 796     | 17               | 4           | 讓七夕青鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 796     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Altaria, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 796     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Altaria getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 796     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Altaria en combate.                                                                                  |
-| 796     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Altaria, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 796     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Altaria hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 796     | 17               | 11          | チルタリスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 796     | 17               | 12          | 让七夕青鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 796     | 18               | 1           | チルタリスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 796     | 18               | 3           | 파비코리에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 796     | 18               | 4           | 讓七夕青鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 796     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Altaria, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 796     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Altaria getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 796     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Altaria en combate.                                                                                  |
-| 796     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Altaria, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 796     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Altaria hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 796     | 18               | 11          | チルタリスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 796     | 18               | 12          | 让七夕青鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 796     | 19               | 1           | チルタリスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 796     | 19               | 3           | 파비코리에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 796     | 19               | 4           | 讓七夕青鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 796     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Altaria, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 796     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Altaria getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 796     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Altaria en combate.                                                                                  |
-| 796     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Altaria, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 796     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Altaria hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 796     | 19               | 11          | チルタリスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 796     | 19               | 12          | 让七夕青鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 796     | 20               | 1           | チルタリスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 796     | 20               | 3           | 파비코리에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 796     | 20               | 4           | 讓七夕青鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 796     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Altaria, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 796     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Altaria getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 796     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Altaria en combate.                                                                                  |
-| 796     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Altaria, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 796     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Altaria hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 796     | 20               | 11          | チルタリスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 796     | 20               | 12          | 让七夕青鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 797     | 17               | 1           | エルレイドに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 797     | 17               | 3           | 엘레이드에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 797     | 17               | 4           | 讓艾路雷朵攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 797     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Gallame, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 797     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Galagladi getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 797     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Gallade en combate.                                                                                  |
-| 797     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Gallade, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 797     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Gallade hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 797     | 17               | 11          | エルレイドに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 797     | 17               | 12          | 让艾路雷朵携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 797     | 18               | 1           | エルレイドに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 797     | 18               | 3           | 엘레이드에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 797     | 18               | 4           | 讓艾路雷朵攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 797     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Gallame, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 797     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Galagladi getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 797     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Gallade en combate.                                                                                  |
-| 797     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Gallade, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 797     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Gallade hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 797     | 18               | 11          | エルレイドに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 797     | 18               | 12          | 让艾路雷朵携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 797     | 19               | 1           | エルレイドに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 797     | 19               | 3           | 엘레이드에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 797     | 19               | 4           | 讓艾路雷朵攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 797     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Gallame, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 797     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Galagladi getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 797     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Gallade en combate.                                                                                  |
-| 797     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Gallade, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 797     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Gallade hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 797     | 19               | 11          | エルレイドに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 797     | 19               | 12          | 让艾路雷朵携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 797     | 20               | 1           | エルレイドに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 797     | 20               | 3           | 엘레이드에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 797     | 20               | 4           | 讓艾路雷朵攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                   |
-| 797     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Gallame, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 797     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Galagladi getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 797     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Gallade en combate.                                                                                  |
-| 797     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Gallade, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 797     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Gallade hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 797     | 20               | 11          | エルレイドに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 797     | 20               | 12          | 让艾路雷朵携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                   |
-| 798     | 17               | 1           | タブンネに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 798     | 17               | 3           | 다부니에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 798     | 17               | 4           | 讓差不多娃娃攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                  |
-| 798     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Nanméouïe, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 798     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Ohrdoch getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 798     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Audino en combate.                                                                                   |
-| 798     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Audino, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 798     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Audino hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 798     | 17               | 11          | タブンネに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 798     | 17               | 12          | 让差不多娃娃携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                  |
-| 798     | 18               | 1           | タブンネに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 798     | 18               | 3           | 다부니에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 798     | 18               | 4           | 讓差不多娃娃攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                  |
-| 798     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Nanméouïe, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 798     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Ohrdoch getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 798     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Audino en combate.                                                                                   |
-| 798     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Audino, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 798     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Audino hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 798     | 18               | 11          | タブンネに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 798     | 18               | 12          | 让差不多娃娃携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                  |
-| 798     | 19               | 1           | タブンネに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 798     | 19               | 3           | 다부니에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 798     | 19               | 4           | 讓差不多娃娃攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                  |
-| 798     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Nanméouïe, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 798     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Ohrdoch getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 798     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Audino en combate.                                                                                   |
-| 798     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Audino, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 798     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Audino hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 798     | 19               | 11          | タブンネに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 798     | 19               | 12          | 让差不多娃娃携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                  |
-| 798     | 20               | 1           | タブンネに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 798     | 20               | 3           | 다부니에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 798     | 20               | 4           | 讓差不多娃娃攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                  |
-| 798     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Nanméouïe, elle lui permet
-de méga-évoluer durant un combat.                                                               |
-| 798     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Ohrdoch getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 798     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Audino en combate.                                                                                   |
-| 798     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Audino, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 798     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Audino hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 798     | 20               | 11          | タブンネに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 798     | 20               | 12          | 让差不多娃娃携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                  |
-| 799     | 17               | 1           | メタグロスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 799     | 17               | 3           | 메타그로스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                      |
-| 799     | 17               | 4           | 讓巨金怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 799     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Métalosse, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 799     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Metagross getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 799     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Metagross en combate.                                                                                |
-| 799     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Metagross, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 799     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Metagross hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 799     | 17               | 11          | メタグロスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 799     | 17               | 12          | 让巨金怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 799     | 18               | 1           | メタグロスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 799     | 18               | 3           | 메타그로스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                      |
-| 799     | 18               | 4           | 讓巨金怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 799     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Métalosse, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 799     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Metagross getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 799     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Metagross en combate.                                                                                |
-| 799     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Metagross, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 799     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Metagross hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 799     | 18               | 11          | メタグロスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 799     | 18               | 12          | 让巨金怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 799     | 19               | 1           | メタグロスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 799     | 19               | 3           | 메타그로스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                      |
-| 799     | 19               | 4           | 讓巨金怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 799     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Métalosse, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 799     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Metagross getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 799     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Metagross en combate.                                                                                |
-| 799     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Metagross, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 799     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Metagross hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 799     | 19               | 11          | メタグロスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 799     | 19               | 12          | 让巨金怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 799     | 20               | 1           | メタグロスに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 799     | 20               | 3           | 메타그로스에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                      |
-| 799     | 20               | 4           | 讓巨金怪攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 799     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Métalosse, elle lui permet
-de méga-évoluer durant un combat.                                                               |
-| 799     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Metagross getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 799     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Metagross en combate.                                                                                |
-| 799     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Metagross, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 799     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Metagross hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 799     | 20               | 11          | メタグロスに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 799     | 20               | 12          | 让巨金怪携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 800     | 17               | 1           | サメハダーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 800     | 17               | 3           | 샤크니아에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 800     | 17               | 4           | 讓巨牙鯊攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 800     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Sharpedo, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 800     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tohaido getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 800     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sharpedo en combate.                                                                                 |
-| 800     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Sharpedo, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 800     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Sharpedo hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 800     | 17               | 11          | サメハダーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 800     | 17               | 12          | 让巨牙鲨携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 800     | 18               | 1           | サメハダーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 800     | 18               | 3           | 샤크니아에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 800     | 18               | 4           | 讓巨牙鯊攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 800     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Sharpedo, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 800     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tohaido getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 800     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sharpedo en combate.                                                                                 |
-| 800     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Sharpedo, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 800     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Sharpedo hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 800     | 18               | 11          | サメハダーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 800     | 18               | 12          | 让巨牙鲨携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 800     | 19               | 1           | サメハダーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 800     | 19               | 3           | 샤크니아에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 800     | 19               | 4           | 讓巨牙鯊攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 800     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Sharpedo, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 800     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tohaido getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 800     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sharpedo en combate.                                                                                 |
-| 800     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Sharpedo, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 800     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Sharpedo hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 800     | 19               | 11          | サメハダーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 800     | 19               | 12          | 让巨牙鲨携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 800     | 20               | 1           | サメハダーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 800     | 20               | 3           | 샤크니아에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 800     | 20               | 4           | 讓巨牙鯊攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 800     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Sharpedo, elle lui permet
-de méga-évoluer durant un combat.                                                                |
-| 800     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tohaido getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 800     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Sharpedo en combate.                                                                                 |
-| 800     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Sharpedo, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 800     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Sharpedo hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 800     | 20               | 11          | サメハダーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 800     | 20               | 12          | 让巨牙鲨携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 801     | 17               | 1           | ヤドランに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 801     | 17               | 3           | 야도란에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 801     | 17               | 4           | 讓呆殼獸攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 801     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Flagadoss, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 801     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Lahmus getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 801     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Slowbro en combate.                                                                                  |
-| 801     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Slowbro, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 801     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Slowbro hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 801     | 17               | 11          | ヤドランに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 801     | 17               | 12          | 让呆壳兽携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 801     | 18               | 1           | ヤドランに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 801     | 18               | 3           | 야도란에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 801     | 18               | 4           | 讓呆殼獸攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 801     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Flagadoss, elle lui permet de
-méga-évoluer durant un combat.                                                               |
-| 801     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Lahmus getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 801     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Slowbro en combate.                                                                                  |
-| 801     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Slowbro, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 801     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Slowbro hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 801     | 18               | 11          | ヤドランに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 801     | 18               | 12          | 让呆壳兽携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 801     | 19               | 1           | たたかいのとき　ヤドランを
-メガシンカ　させることが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                  |
-| 801     | 19               | 3           | 배틀할 때 야도란을
-메가진화시킬 수 있는
-신비한 메가스톤의 일종.                                                                                                                               |
-| 801     | 19               | 4           | 能在戰鬥時
-讓呆殼獸進行超級進化的
-一種神奇超級石。                                                                                                                                         |
-| 801     | 19               | 5           | Une variété de Méga-Gemme.
-Elle permet à un Flagadoss de méga-évoluer durant
-un combat.                                                                            |
-| 801     | 19               | 6           | Einer der mysteriösen Mega-Steine. Ermöglicht es
-einem Lahmus, im Kampf die Mega-Entwicklung
-durchzuführen.                                                        |
-| 801     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Slowbro en combate.                                                                                  |
-| 801     | 19               | 8           | Un esemplare delle misteriose Megapietre.
-Permette a Slowbro di megaevolversi durante la lotta.                                                                    |
-| 801     | 19               | 9           | One of a variety of mysterious Mega Stones.
-This stone will enable Slowbro to Mega Evolve
-during battle.                                                           |
-| 801     | 19               | 11          | 戦いのとき　ヤドランを
-メガシンカ　させることが　できる
-不思議な　メガストーンの　一種。                                                                                                                      |
-| 801     | 19               | 12          | 能在战斗时让呆壳兽
-进行超级进化的
-一种神奇超级石。                                                                                                                                         |
-| 801     | 20               | 1           | ヤドランに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 801     | 20               | 3           | 야도란에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 801     | 20               | 4           | 讓呆殼獸攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 801     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Flagadoss, elle lui permet
-de méga-évoluer durant un combat.                                                               |
-| 801     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Lahmus getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                          |
-| 801     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Slowbro en combate.                                                                                  |
-| 801     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Slowbro, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 801     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Slowbro hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 801     | 20               | 11          | ヤドランに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 801     | 20               | 12          | 让呆壳兽携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 802     | 17               | 1           | ハガネールに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 802     | 17               | 3           | 강철톤에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 802     | 17               | 4           | 讓大鋼蛇攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 802     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Steelix, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 802     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Stahlos getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 802     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Steelix en combate.                                                                                  |
-| 802     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Steelix, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 802     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Steelix hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 802     | 17               | 11          | ハガネールに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 802     | 17               | 12          | 让大钢蛇携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 802     | 18               | 1           | ハガネールに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 802     | 18               | 3           | 강철톤에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 802     | 18               | 4           | 讓大鋼蛇攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 802     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Steelix, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 802     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Stahlos getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 802     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Steelix en combate.                                                                                  |
-| 802     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Steelix, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 802     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Steelix hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 802     | 18               | 11          | ハガネールに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 802     | 18               | 12          | 让大钢蛇携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 802     | 19               | 1           | ハガネールに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 802     | 19               | 3           | 강철톤에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 802     | 19               | 4           | 讓大鋼蛇攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 802     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Steelix, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 802     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Stahlos getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 802     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Steelix en combate.                                                                                  |
-| 802     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Steelix, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 802     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Steelix hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 802     | 19               | 11          | ハガネールに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 802     | 19               | 12          | 让大钢蛇携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 802     | 20               | 1           | ハガネールに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 802     | 20               | 3           | 강철톤에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 802     | 20               | 4           | 讓大鋼蛇攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 802     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Steelix, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 802     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Stahlos getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 802     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Steelix en combate.                                                                                  |
-| 802     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Steelix, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 802     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Steelix hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 802     | 20               | 11          | ハガネールに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 802     | 20               | 12          | 让大钢蛇携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 803     | 17               | 1           | ピジョットに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 803     | 17               | 3           | 피죤투에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 803     | 17               | 4           | 讓大比鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 803     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Roucarnage, elle lui permet de
-méga-évoluer durant un combat.                                                              |
-| 803     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tauboss getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 803     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Pidgeot en combate.                                                                                  |
-| 803     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Pidgeot, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 803     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Pidgeot hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 803     | 17               | 11          | ピジョットに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 803     | 17               | 12          | 让大比鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 803     | 18               | 1           | ピジョットに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 803     | 18               | 3           | 피죤투에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 803     | 18               | 4           | 讓大比鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 803     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Roucarnage, elle lui permet de
-méga-évoluer durant un combat.                                                              |
-| 803     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tauboss getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 803     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Pidgeot en combate.                                                                                  |
-| 803     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Pidgeot, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 803     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Pidgeot hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 803     | 18               | 11          | ピジョットに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 803     | 18               | 12          | 让大比鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 803     | 19               | 1           | たたかいのとき　ピジョットを
-メガシンカ　させることが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                 |
-| 803     | 19               | 3           | 배틀할 때 피죤투를
-메가진화시킬 수 있는
-신비한 메가스톤의 일종.                                                                                                                               |
-| 803     | 19               | 4           | 能在戰鬥時
-讓大比鳥進行超級進化的
-一種神奇超級石。                                                                                                                                         |
-| 803     | 19               | 5           | Une variété de Méga-Gemme.
-Elle permet à un Roucarnage de méga-évoluer durant
-un combat.                                                                           |
-| 803     | 19               | 6           | Einer der mysteriösen Mega-Steine. Ermöglicht es
-einem Tauboss, im Kampf die Mega-Entwicklung
-durchzuführen.                                                       |
-| 803     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Pidgeot en combate.                                                                                  |
-| 803     | 19               | 8           | Un esemplare delle misteriose Megapietre.
-Permette a Pidgeot di megaevolversi durante la lotta.                                                                    |
-| 803     | 19               | 9           | One of a variety of mysterious Mega Stones.
-This stone will enable Pidgeot to Mega Evolve
-during battle.                                                           |
-| 803     | 19               | 11          | 戦いのとき　ピジョットを
-メガシンカ　させることが　できる
-不思議な　メガストーンの　一種。                                                                                                                     |
-| 803     | 19               | 12          | 能在战斗时让大比鸟
-进行超级进化的
-一种神奇超级石。                                                                                                                                         |
-| 803     | 20               | 1           | ピジョットに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 803     | 20               | 3           | 피죤투에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 803     | 20               | 4           | 讓大比鳥攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 803     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Roucarnage, elle lui permet
-de méga-évoluer durant un combat.                                                              |
-| 803     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Tauboss getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 803     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Pidgeot en combate.                                                                                  |
-| 803     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Pidgeot, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 803     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Pidgeot hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 803     | 20               | 11          | ピジョットに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 803     | 20               | 12          | 让大比鸟携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 804     | 17               | 1           | オニゴーリに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 804     | 17               | 3           | 얼음귀신에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 804     | 17               | 4           | 讓冰鬼護攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 804     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Oniglali, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 804     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Firnontor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 804     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Glalie en combate.                                                                                   |
-| 804     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Glalie, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 804     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Glalie hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 804     | 17               | 11          | オニゴーリに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 804     | 17               | 12          | 让冰鬼护携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 804     | 18               | 1           | オニゴーリに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 804     | 18               | 3           | 얼음귀신에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 804     | 18               | 4           | 讓冰鬼護攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 804     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Oniglali, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 804     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Firnontor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 804     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Glalie en combate.                                                                                   |
-| 804     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Glalie, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 804     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Glalie hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 804     | 18               | 11          | オニゴーリに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 804     | 18               | 12          | 让冰鬼护携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 804     | 19               | 1           | オニゴーリに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 804     | 19               | 3           | 얼음귀신에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 804     | 19               | 4           | 讓冰鬼護攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 804     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Oniglali, elle lui permet de méga-évoluer
-durant un combat.                                                                |
-| 804     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Firnontor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 804     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Glalie en combate.                                                                                   |
-| 804     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Glalie, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 804     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Glalie hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 804     | 19               | 11          | オニゴーリに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 804     | 19               | 12          | 让冰鬼护携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 804     | 20               | 1           | オニゴーリに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 804     | 20               | 3           | 얼음귀신에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                       |
-| 804     | 20               | 4           | 讓冰鬼護攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 804     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Oniglali, elle lui permet de méga-évoluer
-durant un combat.                                                                |
-| 804     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Firnontor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                       |
-| 804     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Glalie en combate.                                                                                   |
-| 804     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Glalie, gli permette di megaevolversi
-durante la lotta.                                                                    |
-| 804     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Glalie hold it, and this stone will enable it
-to Mega Evolve during battle.                                       |
-| 804     | 20               | 11          | オニゴーリに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 804     | 20               | 12          | 让冰鬼护携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 805     | 17               | 1           | ディアンシーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                              |
-| 805     | 17               | 3           | 디안시에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 805     | 17               | 4           | 讓蒂安希攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 805     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Diancie, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 805     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Diancie getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 805     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Diancie en combate.                                                                                  |
-| 805     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Diancie, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 805     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Diancie hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 805     | 17               | 11          | ディアンシーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                  |
-| 805     | 17               | 12          | 让蒂安希携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 805     | 18               | 1           | ディアンシーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                              |
-| 805     | 18               | 3           | 디안시에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 805     | 18               | 4           | 讓蒂安希攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 805     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Diancie, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 805     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Diancie getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 805     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Diancie en combate.                                                                                  |
-| 805     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Diancie, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 805     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Diancie hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 805     | 18               | 11          | ディアンシーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                  |
-| 805     | 18               | 12          | 让蒂安希携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 805     | 19               | 1           | ディアンシーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                              |
-| 805     | 19               | 3           | 디안시에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 805     | 19               | 4           | 讓蒂安希攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 805     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Diancie, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 805     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Diancie getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 805     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Diancie en combate.                                                                                  |
-| 805     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Diancie, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 805     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Diancie hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 805     | 19               | 11          | ディアンシーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                  |
-| 805     | 19               | 12          | 让蒂安希携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 805     | 20               | 1           | ディアンシーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                              |
-| 805     | 20               | 3           | 디안시에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 805     | 20               | 4           | 讓蒂安希攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                    |
-| 805     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Diancie, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 805     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Diancie getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                         |
-| 805     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Diancie en combate.                                                                                  |
-| 805     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Diancie, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 805     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Diancie hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 805     | 20               | 11          | ディアンシーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                  |
-| 805     | 20               | 12          | 让蒂安希携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                    |
-| 806     | 17               | 1           | おおむかしに　とある　ポケモンの
-ちからを　ふうじこめたと　される　ツボ。                                                                                                                              |
-| 806     | 17               | 3           | 먼 옛날 어떤 포켓몬의 힘을
-봉인했다고 여겨지는 항아리.                                                                                                                                    |
-| 806     | 17               | 4           | 據說在很久以前封印著
-某隻寶可夢力量的壺。                                                                                                                                              |
-| 806     | 17               | 5           | Récipient utilisé il y a fort longtemps pour sceller
-le pouvoir d’un certain Pokémon.                                                                              |
-| 806     | 17               | 6           | Ein Gefäß, mit dem vor langer, langer Zeit die Macht
-eines gewissen Pokémon versiegelt wurde.                                                                      |
-| 806     | 17               | 7           | Vasija en la que se halla confinado el poder de
-cierto Pokémon desde hace muchísimo tiempo.                                                                        |
-| 806     | 17               | 8           | Vaso in cui si dice sia sigillata da tempo
-immemorabile la forza di un Pokémon.                                                                                    |
-| 806     | 17               | 9           | A bottle believed to have been used to seal away
-the power of a certain Pokémon long, long ago.                                                                    |
-| 806     | 17               | 11          | 大昔に　とある　ポケモンの　力を
-封じ込めたと　される　ツボ。                                                                                                                                    |
-| 806     | 17               | 12          | 据说在很久以前封印着
-某只宝可梦力量的壶。                                                                                                                                              |
-| 806     | 18               | 1           | おおむかしに　とある　ポケモンの
-ちからを　ふうじこめたと　される　ツボ。                                                                                                                              |
-| 806     | 18               | 3           | 먼 옛날 어떤 포켓몬의 힘을
-봉인했다고 여겨지는 항아리.                                                                                                                                    |
-| 806     | 18               | 4           | 據說在很久以前封印著
-某隻寶可夢力量的壺。                                                                                                                                              |
-| 806     | 18               | 5           | Récipient utilisé il y a fort longtemps pour sceller
-le pouvoir d’un certain Pokémon.                                                                              |
-| 806     | 18               | 6           | Ein Gefäß, mit dem vor langer, langer Zeit die Macht
-eines gewissen Pokémon versiegelt wurde.                                                                      |
-| 806     | 18               | 7           | Vasija en la que se halla confinado el poder de
-cierto Pokémon desde hace muchísimo tiempo.                                                                        |
-| 806     | 18               | 8           | Vaso in cui si dice sia sigillata da tempo
-immemorabile la forza di un Pokémon.                                                                                    |
-| 806     | 18               | 9           | A bottle believed to have been used to seal away
-the power of a certain Pokémon long, long ago.                                                                    |
-| 806     | 18               | 11          | 大昔に　とある　ポケモンの　力を
-封じ込めたと　される　ツボ。                                                                                                                                    |
-| 806     | 18               | 12          | 据说在很久以前封印着
-某只宝可梦力量的壶。                                                                                                                                              |
-| 806     | 19               | 1           | おおむかしに　とある　ポケモンの
-ちからを　ふうじこめたと　される　ツボ。                                                                                                                              |
-| 806     | 19               | 3           | 먼 옛날 어떤 포켓몬의 힘을
-봉인했다고 여겨지는 항아리.                                                                                                                                    |
-| 806     | 19               | 4           | 據說在很久以前封印著
-某隻寶可夢力量的壺。                                                                                                                                              |
-| 806     | 19               | 5           | Récipient utilisé il y a fort longtemps pour sceller
-le pouvoir d’un certain Pokémon.                                                                              |
-| 806     | 19               | 6           | Ein Gefäß, mit dem vor langer, langer Zeit die Macht
-eines gewissen Pokémon versiegelt wurde.                                                                      |
-| 806     | 19               | 7           | Vasija en la que se halla confinado el poder de
-cierto Pokémon desde hace muchísimo tiempo.                                                                        |
-| 806     | 19               | 8           | Vaso in cui si dice sia sigillata da tempo
-immemorabile la forza di un Pokémon.                                                                                    |
-| 806     | 19               | 9           | A bottle believed to have been used to seal away
-the power of a certain Pokémon long, long ago.                                                                    |
-| 806     | 19               | 11          | 大昔に　とある　ポケモンの　力を
-封じ込めたと　される　ツボ。                                                                                                                                    |
-| 806     | 19               | 12          | 据说在很久以前封印着
-某只宝可梦力量的壶。                                                                                                                                              |
-| 806     | 20               | 1           | おおむかしに　とある　ポケモンの
-ちからを　ふうじこめたと　される　ツボ。                                                                                                                              |
-| 806     | 20               | 3           | 먼 옛날 어떤 포켓몬의 힘을
-봉인했다고 여겨지는 항아리.                                                                                                                                    |
-| 806     | 20               | 4           | 據說在很久以前封印著
-某隻寶可夢力量的壺。                                                                                                                                              |
-| 806     | 20               | 5           | Récipient utilisé il y a fort longtemps pour sceller
-le pouvoir d’un certain Pokémon.                                                                              |
-| 806     | 20               | 6           | Ein Gefäß, mit dem vor langer, langer Zeit die Macht
-eines gewissen Pokémon versiegelt wurde.                                                                      |
-| 806     | 20               | 7           | Vasija en la que se halla confinado el poder de cierto
-Pokémon desde hace muchísimo tiempo.                                                                        |
-| 806     | 20               | 8           | Vaso in cui si dice sia sigillata da tempo
-immemorabile la forza di un Pokémon.                                                                                    |
-| 806     | 20               | 9           | A bottle believed to have been used to seal away
-the power of a certain Pokémon long, long ago.                                                                    |
-| 806     | 20               | 11          | 大昔に　とある　ポケモンの　力を
-封じ込めたと　される　ツボ。                                                                                                                                    |
-| 806     | 20               | 12          | 据说在很久以前封印着
-某只宝可梦力量的壶。                                                                                                                                              |
-| 807     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ブレスレット。                                                                                                              |
-| 807     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 팔찌.                                                                                                                         |
-| 807     | 17               | 4           | 隱藏著未知力量的護腕。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 807     | 17               | 5           | Un bracelet aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 807     | 17               | 6           | Ein Armband mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 807     | 17               | 7           | Brazalete con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 807     | 17               | 8           | Polsiera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 807     | 17               | 9           | This bracelet contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 807     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ブレスレット。                                                                                                                |
-| 807     | 17               | 12          | 蕴藏着未知力量的护腕。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 807     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ブレスレット。                                                                                                              |
-| 807     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 팔찌.                                                                                                                         |
-| 807     | 18               | 4           | 隱藏著未知力量的護腕。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 807     | 18               | 5           | Un bracelet aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 807     | 18               | 6           | Ein Armband mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 807     | 18               | 7           | Brazalete con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 807     | 18               | 8           | Polsiera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 807     | 18               | 9           | This bracelet contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 807     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ブレスレット。                                                                                                                |
-| 807     | 18               | 12          | 蕴藏着未知力量的护腕。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 807     | 19               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ブレスレット。                                                                                                              |
-| 807     | 19               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 팔찌.                                                                                                                         |
-| 807     | 19               | 4           | 隱藏著未知力量的護腕。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 807     | 19               | 5           | Un bracelet aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 807     | 19               | 6           | Ein Armband mit geheimnisvollen Kräften.
-Es ermöglicht Pokémon, die einen Mega-Stein
-tragen, eine Mega-Entwicklung durchzuführen.                                  |
-| 807     | 19               | 7           | Brazalete con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 807     | 19               | 8           | Polsiera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 807     | 19               | 9           | This bracelet contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 807     | 19               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ブレスレット。                                                                                                                |
-| 807     | 19               | 12          | 蕴藏着未知力量的护腕。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 807     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　ブレスレット。                                                                                                              |
-| 807     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 팔찌.                                                                                                                         |
-| 807     | 20               | 4           | 隱藏著未知力量的護腕。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 807     | 20               | 5           | Un bracelet aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer au combat s’il tient
-la bonne Méga-Gemme.                                              |
-| 807     | 20               | 6           | Ein Armband mit geheimnisvollen Kräften. Es ermöglicht
-Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung durchzuführen.                                  |
-| 807     | 20               | 7           | Brazalete con un poder misterioso que permite
-megaevolucionar a Pokémon que lleven la
-Megapiedra adecuada.                                                         |
-| 807     | 20               | 8           | Polsiera dotata di un misterioso potere.
-Permette a un Pokémon che ha una Megapietra
-di megaevolversi durante la lotta.                                            |
-| 807     | 20               | 9           | This bracelet contains an untold power that
-somehow enables Pokémon carrying a Mega Stone
-to Mega Evolve in battle.                                                |
-| 807     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　ブレスレット。                                                                                                                |
-| 807     | 20               | 12          | 蕴藏着未知力量的护腕。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 808     | 17               | 1           | バクーダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 808     | 17               | 3           | 폭타에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                         |
-| 808     | 17               | 4           | 噴火駝攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 808     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Camérupt, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 808     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Camerupt getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 808     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Camerupt en combate.                                                                                 |
-| 808     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Camerupt, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 808     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Camerupt hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 808     | 17               | 11          | バクーダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 808     | 17               | 12          | 喷火驼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 808     | 18               | 1           | バクーダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 808     | 18               | 3           | 폭타에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                         |
-| 808     | 18               | 4           | 噴火駝攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 808     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Camérupt, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 808     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Camerupt getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 808     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Camerupt en combate.                                                                                 |
-| 808     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Camerupt, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 808     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Camerupt hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 808     | 18               | 11          | バクーダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 808     | 18               | 12          | 喷火驼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 808     | 19               | 1           | バクーダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 808     | 19               | 3           | 폭타에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                         |
-| 808     | 19               | 4           | 噴火駝攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 808     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Camérupt, elle lui permet de
-méga-évoluer durant un combat.                                                                |
-| 808     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Camerupt getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 808     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Camerupt en combate.                                                                                 |
-| 808     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Camerupt, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 808     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Camerupt hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 808     | 19               | 11          | バクーダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 808     | 19               | 12          | 喷火驼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 808     | 20               | 1           | バクーダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 808     | 20               | 3           | 폭타에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                         |
-| 808     | 20               | 4           | 噴火駝攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 808     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Camérupt, elle lui permet
-de méga-évoluer durant un combat.                                                                |
-| 808     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Camerupt getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 808     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Camerupt en combate.                                                                                 |
-| 808     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Camerupt, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 808     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Camerupt hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 808     | 20               | 11          | バクーダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 808     | 20               | 12          | 喷火驼携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 809     | 17               | 1           | ミミロップに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 809     | 17               | 3           | 이어롭에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 809     | 17               | 4           | 長耳兔攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 809     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Lockpin, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 809     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Schlapor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 809     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Lopunny en combate.                                                                                  |
-| 809     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Lopunny, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 809     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Lopunny hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 809     | 17               | 11          | ミミロップに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 809     | 17               | 12          | 长耳兔携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 809     | 18               | 1           | ミミロップに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 809     | 18               | 3           | 이어롭에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 809     | 18               | 4           | 長耳兔攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 809     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Lockpin, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 809     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Schlapor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 809     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Lopunny en combate.                                                                                  |
-| 809     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Lopunny, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 809     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Lopunny hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 809     | 18               | 11          | ミミロップに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 809     | 18               | 12          | 长耳兔携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 809     | 19               | 1           | ミミロップに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 809     | 19               | 3           | 이어롭에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 809     | 19               | 4           | 長耳兔攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 809     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Lockpin, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 809     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Schlapor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 809     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Lopunny en combate.                                                                                  |
-| 809     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Lopunny, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 809     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Lopunny hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 809     | 19               | 11          | ミミロップに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 809     | 19               | 12          | 长耳兔携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 809     | 20               | 1           | ミミロップに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 809     | 20               | 3           | 이어롭에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 809     | 20               | 4           | 長耳兔攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 809     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Lockpin, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 809     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Schlapor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                        |
-| 809     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Lopunny en combate.                                                                                  |
-| 809     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Lopunny, gli permette di megaevolversi
-durante la lotta.                                                                   |
-| 809     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Lopunny hold it, and this stone will enable it
-to Mega Evolve during battle.                                      |
-| 809     | 20               | 11          | ミミロップに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 809     | 20               | 12          | 长耳兔携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 810     | 17               | 1           | ボーマンダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 810     | 17               | 3           | 보만다에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 810     | 17               | 4           | 暴飛龍攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 810     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Drattak, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 810     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Brutalanda getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                      |
-| 810     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Salamence en combate.                                                                                |
-| 810     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Salamence, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 810     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Salamence hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 810     | 17               | 11          | ボーマンダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 810     | 17               | 12          | 暴飞龙携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 810     | 18               | 1           | ボーマンダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 810     | 18               | 3           | 보만다에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 810     | 18               | 4           | 暴飛龍攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 810     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Drattak, elle lui permet de
-méga-évoluer durant un combat.                                                                 |
-| 810     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Brutalanda getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                      |
-| 810     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Salamence en combate.                                                                                |
-| 810     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Salamence, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 810     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Salamence hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 810     | 18               | 11          | ボーマンダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 810     | 18               | 12          | 暴飞龙携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 810     | 19               | 1           | ボーマンダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 810     | 19               | 3           | 보만다에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 810     | 19               | 4           | 暴飛龍攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 810     | 19               | 5           | Une variété de Méga-Gemme.
-Tenue par un Drattak, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 810     | 19               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Brutalanda getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                      |
-| 810     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Salamence en combate.                                                                                |
-| 810     | 19               | 8           | Una delle misteriose Megapietre.
-Data a Salamence, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 810     | 19               | 9           | One of a variety of mysterious Mega Stones.
-Have Salamence hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 810     | 19               | 11          | ボーマンダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 810     | 19               | 12          | 暴飞龙携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 810     | 20               | 1           | ボーマンダに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                               |
-| 810     | 20               | 3           | 보만다에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 810     | 20               | 4           | 暴飛龍攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 810     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Drattak, elle lui permet de méga-évoluer
-durant un combat.                                                                 |
-| 810     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Brutalanda getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                      |
-| 810     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Salamence en combate.                                                                                |
-| 810     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Salamence, gli permette di megaevolversi
-durante la lotta.                                                                 |
-| 810     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Salamence hold it, and this stone will enable it
-to Mega Evolve during battle.                                    |
-| 810     | 20               | 11          | ボーマンダに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                   |
-| 810     | 20               | 12          | 暴飞龙携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 811     | 17               | 1           | スピアーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 811     | 17               | 3           | 독침붕에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 811     | 17               | 4           | 大針蜂攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 811     | 17               | 5           | Une variété de Méga-Gemme.
-Tenue par un Dardargnan, elle lui permet de
-méga-évoluer durant un combat.                                                              |
-| 811     | 17               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Bibor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                           |
-| 811     | 17               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Beedrill en combate.                                                                                 |
-| 811     | 17               | 8           | Una delle misteriose Megapietre.
-Data a Beedrill, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 811     | 17               | 9           | One of a variety of mysterious Mega Stones.
-Have Beedrill hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 811     | 17               | 11          | スピアーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 811     | 17               | 12          | 大针蜂携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 811     | 18               | 1           | スピアーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 811     | 18               | 3           | 독침붕에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 811     | 18               | 4           | 大針蜂攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 811     | 18               | 5           | Une variété de Méga-Gemme.
-Tenue par un Dardargnan, elle lui permet de
-méga-évoluer durant un combat.                                                              |
-| 811     | 18               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Bibor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                           |
-| 811     | 18               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Beedrill en combate.                                                                                 |
-| 811     | 18               | 8           | Una delle misteriose Megapietre.
-Data a Beedrill, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 811     | 18               | 9           | One of a variety of mysterious Mega Stones.
-Have Beedrill hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 811     | 18               | 11          | スピアーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 811     | 18               | 12          | 大针蜂携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 811     | 19               | 1           | たたかいのとき　スピアーを
-メガシンカ　させることが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                  |
-| 811     | 19               | 3           | 배틀할 때 독침붕을
-메가진화시킬 수 있는
-신비한 메가스톤의 일종.                                                                                                                               |
-| 811     | 19               | 4           | 能在戰鬥時
-讓大針蜂進行超級進化的
-一種神奇超級石。                                                                                                                                         |
-| 811     | 19               | 5           | Une variété de Méga-Gemme.
-Elle permet à un Dardargnan de méga-évoluer durant
-un combat.                                                                           |
-| 811     | 19               | 6           | Einer der mysteriösen Mega-Steine. Ermöglicht es
-einem Bibor, im Kampf die Mega-Entwicklung
-durchzuführen.                                                         |
-| 811     | 19               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Beedrill en combate.                                                                                 |
-| 811     | 19               | 8           | Un esemplare delle misteriose Megapietre.
-Permette a Beedrill di megaevolversi durante la lotta.                                                                   |
-| 811     | 19               | 9           | One of a variety of mysterious Mega Stones.
-This stone will enable Beedrill to Mega Evolve
-during battle.                                                          |
-| 811     | 19               | 11          | 戦いのとき　スピアーを
-メガシンカ　させることが　できる
-不思議な　メガストーンの　一種。                                                                                                                      |
-| 811     | 19               | 12          | 能在战斗时让大针蜂
-进行超级进化的
-一种神奇超级石。                                                                                                                                         |
-| 811     | 20               | 1           | スピアーに　もたせておくと
-たたかいのとき　メガシンカが　できる
-ふしぎな　メガストーンの　いっしゅ。                                                                                                                |
-| 811     | 20               | 3           | 독침붕에게 지니게 하면
-배틀할 때 메가진화할 수 있는
-신비한 메가스톤의 일종.                                                                                                                        |
-| 811     | 20               | 4           | 大針蜂攜帶後，
-在戰鬥時就能進行超級進化的
-一種神奇超級石。                                                                                                                                     |
-| 811     | 20               | 5           | Une variété de Méga-Gemme.
-Tenue par un Dardargnan, elle lui permet
-de méga-évoluer durant un combat.                                                              |
-| 811     | 20               | 6           | Einer der mysteriösen Mega-Steine. Wird er von
-einem Bibor getragen, kann es im Kampf eine
-Mega-Entwicklung durchführen.                                           |
-| 811     | 20               | 7           | Una de las misteriosas Megapiedras. Permite
-megaevolucionar a Beedrill en combate.                                                                                 |
-| 811     | 20               | 8           | Una delle misteriose Megapietre.
-Data a Beedrill, gli permette di megaevolversi
-durante la lotta.                                                                  |
-| 811     | 20               | 9           | One of a variety of mysterious Mega Stones.
-Have Beedrill hold it, and this stone will enable it
-to Mega Evolve during battle.                                     |
-| 811     | 20               | 11          | スピアーに　持たせておくと
-戦いのとき　メガシンカが　できる
-不思議な　メガストーンの　一種。                                                                                                                    |
-| 811     | 20               | 12          | 大针蜂携带后，
-在战斗时就能进行超级进化的
-一种神奇超级石。                                                                                                                                     |
-| 814     | 17               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　いし。                                                                                                                  |
-| 814     | 17               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 돌.                                                                                                                          |
-| 814     | 17               | 4           | 隱藏著未知力量的石頭。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 814     | 17               | 5           | Une pierre aux pouvoirs mystérieux permettant à
-un Pokémon tenant la Méga-Gemme adéquate
-de méga-évoluer.                                                          |
-| 814     | 17               | 6           | Ein Stein mit unbekannten Kräften. Er kann im
-Kampf bei Pokémon, die einen Mega-Stein tragen,
-eine Mega-Entwicklung auslösen.                                      |
-| 814     | 17               | 7           | Piedra de singulares poderes que permite
-megaevolucionar en combate a un Pokémon que
-lleve consigo una Megapiedra.                                                 |
-| 814     | 17               | 8           | Pietra dotata di un misterioso potere.
-Durante la lotta, può innescare la megaevoluzione
-dei Pokémon che hanno una Megapietra.                                     |
-| 814     | 17               | 9           | A stone filled with an unexplained power. It makes
-Pokémon that battle with a Mega Stone
-Mega Evolve.                                                              |
-| 814     | 17               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　石。                                                                                                                     |
-| 814     | 17               | 12          | 蕴藏着未知力量的石头。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 814     | 18               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　いし。                                                                                                                  |
-| 814     | 18               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 돌.                                                                                                                          |
-| 814     | 18               | 4           | 隱藏著未知力量的石頭。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 814     | 18               | 5           | Une pierre aux pouvoirs mystérieux permettant à
-un Pokémon tenant la Méga-Gemme adéquate
-de méga-évoluer.                                                          |
-| 814     | 18               | 6           | Ein Stein mit unbekannten Kräften. Er kann im
-Kampf bei Pokémon, die einen Mega-Stein tragen,
-eine Mega-Entwicklung auslösen.                                      |
-| 814     | 18               | 7           | Piedra de singulares poderes que permite
-megaevolucionar en combate a un Pokémon que
-lleve consigo una Megapiedra.                                                 |
-| 814     | 18               | 8           | Pietra dotata di un misterioso potere.
-Durante la lotta, può innescare la megaevoluzione
-dei Pokémon che hanno una Megapietra.                                     |
-| 814     | 18               | 9           | A stone filled with an unexplained power. It makes
-Pokémon that battle with a Mega Stone
-Mega Evolve.                                                              |
-| 814     | 18               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　石。                                                                                                                     |
-| 814     | 18               | 12          | 蕴藏着未知力量的石头。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 814     | 19               | 1           | メガストーンと　はんのう　して
-ポケモンを　メガシンカ　させる
-みちのパワーを　ひめた　いし。                                                                                                                    |
-| 814     | 19               | 3           | 메가스톤과 반응하여
-포켓몬을 메가진화시키는
-미지의 힘을 가진 돌.                                                                                                                               |
-| 814     | 19               | 4           | 蘊藏著未知力量的石頭。
-能與超級石產生反應，
-讓寶可夢進行超級進化。                                                                                                                                 |
-| 814     | 19               | 5           | Une pierre aux pouvoirs mystérieux permettant
-à un Pokémon de méga-évoluer sous l’effet de
-la Méga-Gemme adéquate.                                                 |
-| 814     | 19               | 6           | Ein Stein mit geheimnisvollen Kräften. Er reagiert
-auf Mega-Steine und ermöglicht es Pokémon,
-im Kampf die Mega-Entwicklung auszulösen.                            |
-| 814     | 19               | 7           | Piedra de singulares poderes que permite
-megaevolucionar en combate a un Pokémon
-al reaccionar ante una Megapiedra.                                                |
-| 814     | 19               | 8           | Pietra dotata di un misterioso potere.
-Durante la lotta reagisce alle Megapietre e può
-innescare la megaevoluzione dei Pokémon.                                    |
-| 814     | 19               | 9           | A stone filled with an unexplained power. It reacts to
-Mega Stones and makes Pokémon Mega Evolve.                                                                  |
-| 814     | 19               | 11          | メガストーンと　反応　して
-ポケモンを　メガシンカ　させる
-未知のパワーを　秘めた　石。                                                                                                                       |
-| 814     | 19               | 12          | 蕴藏着未知力量的石头。
-能与超级石产生反应,
-让宝可梦进行超级进化。                                                                                                                                 |
-| 814     | 20               | 1           | メガストーンを　もったまま　たたかう
-ポケモンを　メガシンカさせる
-みちのパワーを　ひめた　いし。                                                                                                                  |
-| 814     | 20               | 3           | 메가스톤을 지닌 채로 싸우는
-포켓몬을 메가진화시키는
-미지의 힘을 가진 돌.                                                                                                                          |
-| 814     | 20               | 4           | 隱藏著未知力量的石頭。
-能讓攜帶著超級石戰鬥的
-寶可夢進行超級進化。                                                                                                                                 |
-| 814     | 20               | 5           | Une pierre aux pouvoirs mystérieux permettant
-à un Pokémon tenant la Méga-Gemme adéquate
-de méga-évoluer.                                                          |
-| 814     | 20               | 6           | Ein Stein mit unbekannten Kräften. Er kann im Kampf
-bei Pokémon, die einen Mega-Stein tragen, eine
-Mega-Entwicklung auslösen.                                      |
-| 814     | 20               | 7           | Piedra de singulares poderes que permite
-megaevolucionar en combate a un Pokémon que lleve
-consigo una Megapiedra.                                                 |
-| 814     | 20               | 8           | Pietra dotata di un misterioso potere.
-Durante la lotta, può innescare la megaevoluzione
-dei Pokémon che hanno una Megapietra.                                     |
-| 814     | 20               | 9           | A stone filled with an unexplained power. It makes
-Pokémon that battle with a Mega Stone
-Mega Evolve.                                                              |
-| 814     | 20               | 11          | メガストーンを　持ったまま　戦う
-ポケモンを　メガシンカさせる
-未知のパワーを　秘めた　石。                                                                                                                     |
-| 814     | 20               | 12          | 蕴藏着未知力量的石头。
-能让携带着超级石战斗的
-宝可梦进行超级进化。                                                                                                                                 |
-| 815     | 17               | 1           | いしのどうくつに　おちていた
-いんせきのかけらの　ひとつ。
-ふれると　ほのかに　あたたかい。                                                                                                                     |
-| 815     | 17               | 3           | 바위 동굴에 떨어진
-운석조각 중의 하나.
-만지면 은근히 따뜻하다.                                                                                                                               |
-| 815     | 17               | 4           | 掉落在石之洞窟裡的
-隕石碎片之一。
-摸起來有點暖暖的。                                                                                                                                        |
-| 815     | 17               | 5           | L’un des fragments de météorite tombés dans
-la Grotte Granite. Il est légèrement tiède
-au toucher.                                                                 |
-| 815     | 17               | 6           | Eines der Meteoritenstücke aus der Granithöhle.
-Wenn man es berührt, wird es ein bisschen warm.                                                                    |
-| 815     | 17               | 7           | Trozo de meteorito encontrado en el suelo de la
-Cueva Granito. Es ligeramente cálido al tacto.                                                                     |
-| 815     | 17               | 8           | Frammento di meteorite trovato nella Grotta
-Pietrosa. Toccandolo, si avverte un certo calore.                                                                      |
-| 815     | 17               | 9           | One of the fragments of a Meteorite from
-Granite Cave. It’s faintly warm to the touch.                                                                             |
-| 815     | 17               | 11          | 石の洞窟に　落ちていた
-いんせきのかけらの　ひとつ。
-触れると　ほのかに　暖かい。                                                                                                                          |
-| 815     | 17               | 12          | 掉落在石之洞窟里的
-陨石碎片之一。
-摸上去有一点点暖暖的。                                                                                                                                      |
-| 815     | 18               | 1           | いしのどうくつに　おちていた
-いんせきのかけらの　ひとつ。
-ふれると　ほのかに　あたたかい。                                                                                                                     |
-| 815     | 18               | 3           | 바위 동굴에 떨어진
-운석조각 중의 하나.
-만지면 은근히 따뜻하다.                                                                                                                               |
-| 815     | 18               | 4           | 掉落在石之洞窟裡的
-隕石碎片之一。
-摸起來有點暖暖的。                                                                                                                                        |
-| 815     | 18               | 5           | L’un des fragments de météorite tombés dans
-la Grotte Granite. Il est légèrement tiède
-au toucher.                                                                 |
-| 815     | 18               | 6           | Eines der Meteoritenstücke aus der Granithöhle.
-Wenn man es berührt, wird es ein bisschen warm.                                                                    |
-| 815     | 18               | 7           | Trozo de meteorito encontrado en el suelo de la
-Cueva Granito. Es ligeramente cálido al tacto.                                                                     |
-| 815     | 18               | 8           | Frammento di meteorite trovato nella Grotta
-Pietrosa. Toccandolo, si avverte un certo calore.                                                                      |
-| 815     | 18               | 9           | One of the fragments of a Meteorite from
-Granite Cave. It’s faintly warm to the touch.                                                                             |
-| 815     | 18               | 11          | 石の洞窟に　落ちていた
-いんせきのかけらの　ひとつ。
-触れると　ほのかに　暖かい。                                                                                                                          |
-| 815     | 18               | 12          | 掉落在石之洞窟里的
-陨石碎片之一。
-摸上去有一点点暖暖的。                                                                                                                                      |
-| 815     | 19               | 1           | いしのどうくつに　おちていた
-いんせきのかけらの　ひとつ。
-ふれると　ほのかに　あたたかい。                                                                                                                     |
-| 815     | 19               | 3           | 바위 동굴에 떨어진
-운석조각 중의 하나.
-만지면 은근히 따뜻하다.                                                                                                                               |
-| 815     | 19               | 4           | 掉落在石之洞窟裡的
-隕石碎片之一。
-摸起來有點暖暖的。                                                                                                                                        |
-| 815     | 19               | 5           | L’un des fragments de météorite tombés dans
-la Grotte Granite. Il est légèrement tiède au toucher.                                                                 |
-| 815     | 19               | 6           | Eines der Meteoritenstücke aus der Granithöhle.
-Wenn man es berührt, wird es ein bisschen warm.                                                                    |
-| 815     | 19               | 7           | Trozo de meteorito encontrado en el suelo de la
-Cueva Granito. Es ligeramente cálido al tacto.                                                                     |
-| 815     | 19               | 8           | Frammento di meteorite trovato nella Grotta
-Pietrosa. Toccandolo, si avverte un certo calore.                                                                      |
-| 815     | 19               | 9           | One of the fragments of a Meteorite from
-Granite Cave. It’s faintly warm to the touch.                                                                             |
-| 815     | 19               | 11          | 石の洞窟に　落ちていた
-いんせきのかけらの　ひとつ。
-触れると　ほのかに　暖かい。                                                                                                                          |
-| 815     | 19               | 12          | 掉落在石之洞窟里的
-陨石碎片之一。
-摸上去有一点点暖暖的。                                                                                                                                      |
-| 815     | 20               | 1           | いしのどうくつに　おちていた
-いんせきのかけらの　ひとつ。
-ふれると　ほのかに　あたたかい。                                                                                                                     |
-| 815     | 20               | 3           | 바위 동굴에 떨어진
-운석조각 중의 하나.
-만지면 은근히 따뜻하다.                                                                                                                               |
-| 815     | 20               | 4           | 掉落在石之洞窟裡的
-隕石碎片之一。
-摸起來有點暖暖的。                                                                                                                                        |
-| 815     | 20               | 5           | L’un des fragments de météorite tombés dans
-la Grotte Granite. Il est légèrement tiède au toucher.                                                                 |
-| 815     | 20               | 6           | Eines der Meteoritenstücke aus der Granithöhle.
-Wenn man es berührt, wird es ein bisschen warm.                                                                    |
-| 815     | 20               | 7           | Trozo de meteorito encontrado en el suelo de la
-Cueva Granito. Es ligeramente cálido al tacto.                                                                     |
-| 815     | 20               | 8           | Frammento di meteorite trovato nella Grotta
-Pietrosa. Toccandolo, si avverte un certo calore.                                                                      |
-| 815     | 20               | 9           | One of the fragments of a Meteorite from
-Granite Cave. It’s faintly warm to the touch.                                                                             |
-| 815     | 20               | 11          | 石の洞窟に　落ちていた
-いんせきのかけらの　ひとつ。
-触れると　ほのかに　暖かい。                                                                                                                          |
-| 815     | 20               | 12          | 掉落在石之洞窟里的
-陨石碎片之一。
-摸上去有一点点暖暖的。                                                                                                                                      |
-| 816     | 17               | 1           | どこに　いても
-ラティオスや　ラティアスを
-よびよせることが　できる　ふえ。                                                                                                                             |
-| 816     | 17               | 3           | 어디에 있든지
-라티오스나 라티아스를
-부를 수 있는 피리.                                                                                                                                    |
-| 816     | 17               | 4           | 無論身在何處，
-都能召喚拉帝歐斯或
-拉帝亞斯的笛子。                                                                                                                                         |
-| 816     | 17               | 5           | Une flûte capable d’appeler Latios ou Latias
-où que l’on soit.                                                                                                     |
-| 816     | 17               | 6           | Eine Flöte, mit der man Latios oder Latias
-herbeirufen kann, egal wo sie sich gerade befinden.                                                                     |
-| 816     | 17               | 7           | Flauta capaz de invocar a Latios o Latias en
-cualquier lugar.                                                                                                      |
-| 816     | 17               | 8           | Suonando questo flauto è possibile richiamare
-Latios o Latias ovunque ci si trovi.                                                                                 |
-| 816     | 17               | 9           | A flute that can be used to summon Latios or Latias
-no matter where you are.                                                                                       |
-| 816     | 17               | 11          | どこに　いても
-ラティオスや　ラティアスを
-呼び寄せることが　できる　笛。                                                                                                                              |
-| 816     | 17               | 12          | 无论身在何处，
-都能召唤拉帝欧斯或
-拉帝亚斯的笛子。                                                                                                                                         |
-| 816     | 18               | 1           | どこに　いても
-ラティオスや　ラティアスを
-よびよせることが　できる　ふえ。                                                                                                                             |
-| 816     | 18               | 3           | 어디에 있든지
-라티오스나 라티아스를
-부를 수 있는 피리.                                                                                                                                    |
-| 816     | 18               | 4           | 無論身在何處，
-都能召喚拉帝歐斯或
-拉帝亞斯的笛子。                                                                                                                                         |
-| 816     | 18               | 5           | Une flûte capable d’appeler Latios ou Latias
-où que l’on soit.                                                                                                     |
-| 816     | 18               | 6           | Eine Flöte, mit der man Latios oder Latias
-herbeirufen kann, egal wo sie sich gerade befinden.                                                                     |
-| 816     | 18               | 7           | Flauta capaz de invocar a Latios o Latias en
-cualquier lugar.                                                                                                      |
-| 816     | 18               | 8           | Suonando questo flauto è possibile richiamare
-Latios o Latias ovunque ci si trovi.                                                                                 |
-| 816     | 18               | 9           | A flute that can be used to summon Latios or Latias
-no matter where you are.                                                                                       |
-| 816     | 18               | 11          | どこに　いても
-ラティオスや　ラティアスを
-呼び寄せることが　できる　笛。                                                                                                                              |
-| 816     | 18               | 12          | 无论身在何处，
-都能召唤拉帝欧斯或
-拉帝亚斯的笛子。                                                                                                                                         |
-| 816     | 19               | 1           | どこに　いても
-ラティオスや　ラティアスを
-よびよせることが　できる　ふえ。                                                                                                                             |
-| 816     | 19               | 3           | 어디에 있든지
-라티오스나 라티아스를
-부를 수 있는 피리.                                                                                                                                    |
-| 816     | 19               | 4           | 無論身在何處，
-都能召喚拉帝歐斯或
-拉帝亞斯的笛子。                                                                                                                                         |
-| 816     | 19               | 5           | Une flûte capable d’appeler Latios ou Latias où que
-l’on soit.                                                                                                     |
-| 816     | 19               | 6           | Eine Flöte, mit der man Latios oder Latias
-herbeirufen kann, egal wo sie sich gerade befinden.                                                                     |
-| 816     | 19               | 7           | Flauta capaz de invocar a Latios o Latias en
-cualquier lugar.                                                                                                      |
-| 816     | 19               | 8           | Suonando questo flauto è possibile richiamare
-Latios o Latias ovunque ci si trovi.                                                                                 |
-| 816     | 19               | 9           | A flute that can be used to summon Latios or Latias
-no matter where you are.                                                                                       |
-| 816     | 19               | 11          | どこに　いても
-ラティオスや　ラティアスを
-呼び寄せることが　できる　笛。                                                                                                                              |
-| 816     | 19               | 12          | 无论身在何处，
-都能召唤拉帝欧斯或
-拉帝亚斯的笛子。                                                                                                                                         |
-| 816     | 20               | 1           | どこに　いても
-ラティオスや　ラティアスを
-よびよせることが　できる　ふえ。                                                                                                                             |
-| 816     | 20               | 3           | 어디에 있든지
-라티오스나 라티아스를
-부를 수 있는 피리.                                                                                                                                    |
-| 816     | 20               | 4           | 無論身在何處，
-都能召喚拉帝歐斯或
-拉帝亞斯的笛子。                                                                                                                                         |
-| 816     | 20               | 5           | Une flûte capable d’appeler Latios ou Latias
-où que l’on soit.                                                                                                     |
-| 816     | 20               | 6           | Eine Flöte, mit der man Latios oder Latias herbeirufen
-kann, egal wo sie sich gerade befinden.                                                                     |
-| 816     | 20               | 7           | Flauta capaz de invocar a Latios o Latias en cualquier
-lugar.                                                                                                      |
-| 816     | 20               | 8           | Suonando questo flauto è possibile richiamare
-Latios o Latias ovunque ci si trovi.                                                                                 |
-| 816     | 20               | 9           | A flute that can be used to summon Latios or Latias
-no matter where you are.                                                                                       |
-| 816     | 20               | 11          | どこに　いても
-ラティオスや　ラティアスを
-呼び寄せることが　できる　笛。                                                                                                                              |
-| 816     | 20               | 12          | 无论身在何处，
-都能召唤拉帝欧斯或
-拉帝亚斯的笛子。                                                                                                                                         |
-| 817     | 17               | 1           | Ｚパワーの　けっしょう。
-ノーマルタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 817     | 17               | 3           | Z파워의 결정.
-노말타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 817     | 17               | 4           | Ｚ力量的結晶。
-會把一般屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 817     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Normal
-en capacité Z.                                                           |
-| 817     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Normal-Attacken zu Z-Attacken auf.                                                                                   |
-| 817     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Normal.                                                                                                  |
-| 817     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Normale
-in mosse Z.                                                         |
-| 817     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Normal-type moves to Z-Moves.                                                                                  |
-| 817     | 17               | 11          | Ｚパワーの　結晶。
-ノーマルタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 817     | 17               | 12          | Ｚ力量的结晶。
-会将一般属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 817     | 18               | 1           | Ｚパワーの　けっしょう。
-ノーマルタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 817     | 18               | 3           | Z파워의 결정.
-노말타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 817     | 18               | 4           | Ｚ力量的結晶。
-會把一般屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 817     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Normal
-en capacité Z.                                                           |
-| 817     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Normal-Attacken zu Z-Attacken auf.                                                                                   |
-| 817     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Normal.                                                                                                  |
-| 817     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Normale
-in mosse Z.                                                         |
-| 817     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Normal-type moves to Z-Moves.                                                                                  |
-| 817     | 18               | 11          | Ｚパワーの　結晶。
-ノーマルタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 817     | 18               | 12          | Ｚ力量的结晶。
-会将一般属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 817     | 19               | 1           | Ｚパワーの　けっしょう。
-ノーマルタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 817     | 19               | 3           | Z파워의 결정.
-노말타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 817     | 19               | 4           | Ｚ力量的結晶。
-會把一般屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 817     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Normal en capacité Z.                                                           |
-| 817     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Normal-Attacken zu Z-Attacken auf.                                                                                   |
-| 817     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Normal.                                                                                                  |
-| 817     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Normale
-in mosse Z.                                                         |
-| 817     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Normal-type moves to Z-Moves.                                                                                  |
-| 817     | 19               | 11          | Ｚパワーの　結晶。
-ノーマルタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 817     | 19               | 12          | Ｚ力量的结晶。
-会将一般属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 817     | 20               | 1           | Ｚパワーの　けっしょう。
-ノーマルタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 817     | 20               | 3           | Z파워의 결정.
-노말타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 817     | 20               | 4           | Ｚ力量的結晶。
-會把一般屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 817     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Normal
-en capacité Z.                                                           |
-| 817     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Normal-Attacken zu Z-Attacken auf.                                                                                   |
-| 817     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Normal.                                                                                                  |
-| 817     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Normale
-in mosse Z.                                                         |
-| 817     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Normal-type moves to Z-Moves.                                                                                  |
-| 817     | 20               | 11          | Ｚパワーの　結晶。
-ノーマルタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 817     | 20               | 12          | Ｚ力量的结晶。
-会将一般属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 818     | 17               | 1           | Ｚパワーの　けっしょう。
-ほのおタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 818     | 17               | 3           | Z파워의 결정.
-불꽃타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 818     | 17               | 4           | Ｚ力量的結晶。
-會把火屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 818     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Feu
-en capacité Z.                                                              |
-| 818     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Feuer-Attacken zu Z-Attacken auf.                                                                                    |
-| 818     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Fuego.                                                                                                   |
-| 818     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Fuoco
-in mosse Z.                                                           |
-| 818     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fire-type moves to Z-Moves.                                                                                    |
-| 818     | 17               | 11          | Ｚパワーの　結晶。
-ほのおタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 818     | 17               | 12          | Ｚ力量的结晶。
-会将火属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 818     | 18               | 1           | Ｚパワーの　けっしょう。
-ほのおタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 818     | 18               | 3           | Z파워의 결정.
-불꽃타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 818     | 18               | 4           | Ｚ力量的結晶。
-會把火屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 818     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Feu
-en capacité Z.                                                              |
-| 818     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Feuer-Attacken zu Z-Attacken auf.                                                                                    |
-| 818     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Fuego.                                                                                                   |
-| 818     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Fuoco
-in mosse Z.                                                           |
-| 818     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fire-type moves to Z-Moves.                                                                                    |
-| 818     | 18               | 11          | Ｚパワーの　結晶。
-ほのおタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 818     | 18               | 12          | Ｚ力量的结晶。
-会将火属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 818     | 19               | 1           | Ｚパワーの　けっしょう。
-ほのおタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 818     | 19               | 3           | Z파워의 결정.
-불꽃타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 818     | 19               | 4           | Ｚ力量的結晶。
-會把火屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 818     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Feu en capacité Z.                                                              |
-| 818     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Feuer-Attacken zu Z-Attacken auf.                                                                                    |
-| 818     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Fuego.                                                                                                   |
-| 818     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Fuoco
-in mosse Z.                                                           |
-| 818     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fire-type moves to Z-Moves.                                                                                    |
-| 818     | 19               | 11          | Ｚパワーの　結晶。
-ほのおタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 818     | 19               | 12          | Ｚ力量的结晶。
-会将火属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 818     | 20               | 1           | Ｚパワーの　けっしょう。
-ほのおタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 818     | 20               | 3           | Z파워의 결정.
-불꽃타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 818     | 20               | 4           | Ｚ力量的結晶。
-會把火屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 818     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Feu
-en capacité Z.                                                              |
-| 818     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Feuer-Attacken zu Z-Attacken auf.                                                                                    |
-| 818     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Fuego.                                                                                                   |
-| 818     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Fuoco
-in mosse Z.                                                           |
-| 818     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fire-type moves to Z-Moves.                                                                                    |
-| 818     | 20               | 11          | Ｚパワーの　結晶。
-ほのおタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 818     | 20               | 12          | Ｚ力量的结晶。
-会将火属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 819     | 17               | 1           | Ｚパワーの　けっしょう。
-みずタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 819     | 17               | 3           | Z파워의 결정.
-물타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 819     | 17               | 4           | Ｚ力量的結晶。
-會把水屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 819     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Eau
-en capacité Z.                                                              |
-| 819     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Wasser-Attacken zu Z-Attacken auf.                                                                                   |
-| 819     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Agua.                                                                                                    |
-| 819     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Acqua
-in mosse Z.                                                           |
-| 819     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Water-type moves to Z-Moves.                                                                                   |
-| 819     | 17               | 11          | Ｚパワーの　結晶。
-みずタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 819     | 17               | 12          | Ｚ力量的结晶。
-会将水属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 819     | 18               | 1           | Ｚパワーの　けっしょう。
-みずタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 819     | 18               | 3           | Z파워의 결정.
-물타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 819     | 18               | 4           | Ｚ力量的結晶。
-會把水屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 819     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Eau
-en capacité Z.                                                              |
-| 819     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Wasser-Attacken zu Z-Attacken auf.                                                                                   |
-| 819     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Agua.                                                                                                    |
-| 819     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Acqua
-in mosse Z.                                                           |
-| 819     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Water-type moves to Z-Moves.                                                                                   |
-| 819     | 18               | 11          | Ｚパワーの　結晶。
-みずタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 819     | 18               | 12          | Ｚ力量的结晶。
-会将水属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 819     | 19               | 1           | Ｚパワーの　けっしょう。
-みずタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 819     | 19               | 3           | Z파워의 결정.
-물타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 819     | 19               | 4           | Ｚ力量的結晶。
-會把水屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 819     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Eau en capacité Z.                                                              |
-| 819     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Wasser-Attacken zu Z-Attacken auf.                                                                                   |
-| 819     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Agua.                                                                                                    |
-| 819     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Acqua
-in mosse Z.                                                           |
-| 819     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Water-type moves to Z-Moves.                                                                                   |
-| 819     | 19               | 11          | Ｚパワーの　結晶。
-みずタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 819     | 19               | 12          | Ｚ力量的结晶。
-会将水属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 819     | 20               | 1           | Ｚパワーの　けっしょう。
-みずタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 819     | 20               | 3           | Z파워의 결정.
-물타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 819     | 20               | 4           | Ｚ力量的結晶。
-會把水屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 819     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Eau
-en capacité Z.                                                              |
-| 819     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Wasser-Attacken zu Z-Attacken auf.                                                                                   |
-| 819     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Agua.                                                                                                    |
-| 819     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Acqua
-in mosse Z.                                                           |
-| 819     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Water-type moves to Z-Moves.                                                                                   |
-| 819     | 20               | 11          | Ｚパワーの　結晶。
-みずタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 819     | 20               | 12          | Ｚ力量的结晶。
-会将水属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 820     | 17               | 1           | Ｚパワーの　けっしょう。
-でんきタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 820     | 17               | 3           | Z파워의 결정.
-전기타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 820     | 17               | 4           | Ｚ力量的結晶。
-會把電屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 820     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Électrik
-en capacité Z.                                                         |
-| 820     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Elektro-Attacken zu Z-Attacken auf.                                                                                  |
-| 820     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Eléctrico.                                                                                               |
-| 820     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Elettro
-in mosse Z.                                                         |
-| 820     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Electric-type moves to Z-Moves.                                                                                |
-| 820     | 17               | 11          | Ｚパワーの　結晶。
-でんきタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 820     | 17               | 12          | Ｚ力量的结晶。
-会将电属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 820     | 18               | 1           | Ｚパワーの　けっしょう。
-でんきタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 820     | 18               | 3           | Z파워의 결정.
-전기타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 820     | 18               | 4           | Ｚ力量的結晶。
-會把電屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 820     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Électrik
-en capacité Z.                                                         |
-| 820     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Elektro-Attacken zu Z-Attacken auf.                                                                                  |
-| 820     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Eléctrico.                                                                                               |
-| 820     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Elettro
-in mosse Z.                                                         |
-| 820     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Electric-type moves to Z-Moves.                                                                                |
-| 820     | 18               | 11          | Ｚパワーの　結晶。
-でんきタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 820     | 18               | 12          | Ｚ力量的结晶。
-会将电属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 820     | 19               | 1           | Ｚパワーの　けっしょう。
-でんきタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 820     | 19               | 3           | Z파워의 결정.
-전기타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 820     | 19               | 4           | Ｚ力量的結晶。
-會把電屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 820     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Électrik en capacité Z.                                                         |
-| 820     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Elektro-Attacken zu Z-Attacken auf.                                                                                  |
-| 820     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Eléctrico.                                                                                               |
-| 820     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Elettro
-in mosse Z.                                                         |
-| 820     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Electric-type moves to Z-Moves.                                                                                |
-| 820     | 19               | 11          | Ｚパワーの　結晶。
-でんきタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 820     | 19               | 12          | Ｚ力量的结晶。
-会将电属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 820     | 20               | 1           | Ｚパワーの　けっしょう。
-でんきタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 820     | 20               | 3           | Z파워의 결정.
-전기타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 820     | 20               | 4           | Ｚ力量的結晶。
-會把電屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 820     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Électrik
-en capacité Z.                                                         |
-| 820     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Elektro-Attacken zu Z-Attacken auf.                                                                                  |
-| 820     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Eléctrico.                                                                                               |
-| 820     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Elettro
-in mosse Z.                                                         |
-| 820     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Electric-type moves to Z-Moves.                                                                                |
-| 820     | 20               | 11          | Ｚパワーの　結晶。
-でんきタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 820     | 20               | 12          | Ｚ力量的结晶。
-会将电属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 821     | 17               | 1           | Ｚパワーの　けっしょう。
-くさタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 821     | 17               | 3           | Z파워의 결정.
-풀타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 821     | 17               | 4           | Ｚ力量的結晶。
-會把草屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 821     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Plante
-en capacité Z.                                                           |
-| 821     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Pflanzen-Attacken zu Z-Attacken auf.                                                                                 |
-| 821     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Planta.                                                                                                  |
-| 821     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Erba
-in mosse Z.                                                            |
-| 821     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Grass-type moves to Z-Moves.                                                                                   |
-| 821     | 17               | 11          | Ｚパワーの　結晶。
-くさタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 821     | 17               | 12          | Ｚ力量的结晶。
-会将草属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 821     | 18               | 1           | Ｚパワーの　けっしょう。
-くさタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 821     | 18               | 3           | Z파워의 결정.
-풀타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 821     | 18               | 4           | Ｚ力量的結晶。
-會把草屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 821     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Plante
-en capacité Z.                                                           |
-| 821     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Pflanzen-Attacken zu Z-Attacken auf.                                                                                 |
-| 821     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Planta.                                                                                                  |
-| 821     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Erba
-in mosse Z.                                                            |
-| 821     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Grass-type moves to Z-Moves.                                                                                   |
-| 821     | 18               | 11          | Ｚパワーの　結晶。
-くさタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 821     | 18               | 12          | Ｚ力量的结晶。
-会将草属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 821     | 19               | 1           | Ｚパワーの　けっしょう。
-くさタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 821     | 19               | 3           | Z파워의 결정.
-풀타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 821     | 19               | 4           | Ｚ力量的結晶。
-會把草屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 821     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Plante en capacité Z.                                                           |
-| 821     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Pflanzen-Attacken zu Z-Attacken auf.                                                                                 |
-| 821     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Planta.                                                                                                  |
-| 821     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Erba
-in mosse Z.                                                            |
-| 821     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Grass-type moves to Z-Moves.                                                                                   |
-| 821     | 19               | 11          | Ｚパワーの　結晶。
-くさタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 821     | 19               | 12          | Ｚ力量的结晶。
-会将草属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 821     | 20               | 1           | Ｚパワーの　けっしょう。
-くさタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 821     | 20               | 3           | Z파워의 결정.
-풀타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 821     | 20               | 4           | Ｚ力量的結晶。
-會把草屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 821     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Plante
-en capacité Z.                                                           |
-| 821     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Pflanzen-Attacken zu Z-Attacken auf.                                                                                 |
-| 821     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Planta.                                                                                                  |
-| 821     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Erba
-in mosse Z.                                                            |
-| 821     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Grass-type moves to Z-Moves.                                                                                   |
-| 821     | 20               | 11          | Ｚパワーの　結晶。
-くさタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 821     | 20               | 12          | Ｚ力量的结晶。
-会将草属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 822     | 17               | 1           | Ｚパワーの　けっしょう。
-こおりタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 822     | 17               | 3           | Z파워의 결정.
-얼음타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 822     | 17               | 4           | Ｚ力量的結晶。
-會把冰屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 822     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Glace
-en capacité Z.                                                            |
-| 822     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Eis-Attacken zu Z-Attacken auf.                                                                                      |
-| 822     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Hielo.                                                                                                   |
-| 822     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Ghiaccio
-in mosse Z.                                                        |
-| 822     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ice-type moves to Z-Moves.                                                                                     |
-| 822     | 17               | 11          | Ｚパワーの　結晶。
-こおりタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 822     | 17               | 12          | Ｚ力量的结晶。
-会将冰属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 822     | 18               | 1           | Ｚパワーの　けっしょう。
-こおりタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 822     | 18               | 3           | Z파워의 결정.
-얼음타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 822     | 18               | 4           | Ｚ力量的結晶。
-會把冰屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 822     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Glace
-en capacité Z.                                                            |
-| 822     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Eis-Attacken zu Z-Attacken auf.                                                                                      |
-| 822     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Hielo.                                                                                                   |
-| 822     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Ghiaccio
-in mosse Z.                                                        |
-| 822     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ice-type moves to Z-Moves.                                                                                     |
-| 822     | 18               | 11          | Ｚパワーの　結晶。
-こおりタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 822     | 18               | 12          | Ｚ力量的结晶。
-会将冰属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 822     | 19               | 1           | Ｚパワーの　けっしょう。
-こおりタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 822     | 19               | 3           | Z파워의 결정.
-얼음타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 822     | 19               | 4           | Ｚ力量的結晶。
-會把冰屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 822     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Glace en capacité Z.                                                            |
-| 822     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Eis-Attacken zu Z-Attacken auf.                                                                                      |
-| 822     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Hielo.                                                                                                   |
-| 822     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Ghiaccio
-in mosse Z.                                                        |
-| 822     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ice-type moves to Z-Moves.                                                                                     |
-| 822     | 19               | 11          | Ｚパワーの　結晶。
-こおりタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 822     | 19               | 12          | Ｚ力量的结晶。
-会将冰属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 822     | 20               | 1           | Ｚパワーの　けっしょう。
-こおりタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 822     | 20               | 3           | Z파워의 결정.
-얼음타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 822     | 20               | 4           | Ｚ力量的結晶。
-會把冰屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 822     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Glace
-en capacité Z.                                                            |
-| 822     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Eis-Attacken zu Z-Attacken auf.                                                                                      |
-| 822     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Hielo.                                                                                                   |
-| 822     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Ghiaccio
-in mosse Z.                                                        |
-| 822     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ice-type moves to Z-Moves.                                                                                     |
-| 822     | 20               | 11          | Ｚパワーの　結晶。
-こおりタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 822     | 20               | 12          | Ｚ力量的结晶。
-会将冰属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 823     | 17               | 1           | Ｚパワーの　けっしょう。
-かくとうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 823     | 17               | 3           | Z파워의 결정.
-격투타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 823     | 17               | 4           | Ｚ力量的結晶。
-會把格鬥屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 823     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Combat
-en capacité Z.                                                           |
-| 823     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Kampf-Attacken zu Z-Attacken auf.                                                                                    |
-| 823     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Lucha.                                                                                                   |
-| 823     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Lotta
-in mosse Z.                                                           |
-| 823     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fighting-type moves to Z-Moves.                                                                                |
-| 823     | 17               | 11          | Ｚパワーの　結晶。
-かくとうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 823     | 17               | 12          | Ｚ力量的结晶。
-会将格斗属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 823     | 18               | 1           | Ｚパワーの　けっしょう。
-かくとうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 823     | 18               | 3           | Z파워의 결정.
-격투타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 823     | 18               | 4           | Ｚ力量的結晶。
-會把格鬥屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 823     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Combat
-en capacité Z.                                                           |
-| 823     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Kampf-Attacken zu Z-Attacken auf.                                                                                    |
-| 823     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Lucha.                                                                                                   |
-| 823     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Lotta
-in mosse Z.                                                           |
-| 823     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fighting-type moves to Z-Moves.                                                                                |
-| 823     | 18               | 11          | Ｚパワーの　結晶。
-かくとうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 823     | 18               | 12          | Ｚ力量的结晶。
-会将格斗属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 823     | 19               | 1           | Ｚパワーの　けっしょう。
-かくとうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 823     | 19               | 3           | Z파워의 결정.
-격투타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 823     | 19               | 4           | Ｚ力量的結晶。
-會把格鬥屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 823     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Combat en capacité Z.                                                           |
-| 823     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Kampf-Attacken zu Z-Attacken auf.                                                                                    |
-| 823     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Lucha.                                                                                                   |
-| 823     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Lotta
-in mosse Z.                                                           |
-| 823     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fighting-type moves to Z-Moves.                                                                                |
-| 823     | 19               | 11          | Ｚパワーの　結晶。
-かくとうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 823     | 19               | 12          | Ｚ力量的结晶。
-会将格斗属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 823     | 20               | 1           | Ｚパワーの　けっしょう。
-かくとうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 823     | 20               | 3           | Z파워의 결정.
-격투타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 823     | 20               | 4           | Ｚ力量的結晶。
-會把格鬥屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 823     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Combat
-en capacité Z.                                                           |
-| 823     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Kampf-Attacken zu Z-Attacken auf.                                                                                    |
-| 823     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Lucha.                                                                                                   |
-| 823     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Lotta
-in mosse Z.                                                           |
-| 823     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Fighting-type moves to Z-Moves.                                                                                |
-| 823     | 20               | 11          | Ｚパワーの　結晶。
-かくとうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 823     | 20               | 12          | Ｚ力量的结晶。
-会将格斗属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 824     | 17               | 1           | Ｚパワーの　けっしょう。
-どくタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 824     | 17               | 3           | Z파워의 결정.
-독타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 824     | 17               | 4           | Ｚ力量的結晶。
-會把毒屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 824     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Poison
-en capacité Z.                                                           |
-| 824     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Gift-Attacken zu Z-Attacken auf.                                                                                     |
-| 824     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Veneno.                                                                                                  |
-| 824     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Veleno
-in mosse Z.                                                          |
-| 824     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Poison-type moves to Z-Moves.                                                                                  |
-| 824     | 17               | 11          | Ｚパワーの　結晶。
-どくタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 824     | 17               | 12          | Ｚ力量的结晶。
-会将毒属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 824     | 18               | 1           | Ｚパワーの　けっしょう。
-どくタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 824     | 18               | 3           | Z파워의 결정.
-독타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 824     | 18               | 4           | Ｚ力量的結晶。
-會把毒屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 824     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Poison
-en capacité Z.                                                           |
-| 824     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Gift-Attacken zu Z-Attacken auf.                                                                                     |
-| 824     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Veneno.                                                                                                  |
-| 824     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Veleno
-in mosse Z.                                                          |
-| 824     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Poison-type moves to Z-Moves.                                                                                  |
-| 824     | 18               | 11          | Ｚパワーの　結晶。
-どくタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 824     | 18               | 12          | Ｚ力量的结晶。
-会将毒属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 824     | 19               | 1           | Ｚパワーの　けっしょう。
-どくタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 824     | 19               | 3           | Z파워의 결정.
-독타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 824     | 19               | 4           | Ｚ力量的結晶。
-會把毒屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 824     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Poison en capacité Z.                                                           |
-| 824     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Gift-Attacken zu Z-Attacken auf.                                                                                     |
-| 824     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Veneno.                                                                                                  |
-| 824     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Veleno
-in mosse Z.                                                          |
-| 824     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Poison-type moves to Z-Moves.                                                                                  |
-| 824     | 19               | 11          | Ｚパワーの　結晶。
-どくタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 824     | 19               | 12          | Ｚ力量的结晶。
-会将毒属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 824     | 20               | 1           | Ｚパワーの　けっしょう。
-どくタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 824     | 20               | 3           | Z파워의 결정.
-독타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 824     | 20               | 4           | Ｚ力量的結晶。
-會把毒屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 824     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Poison
-en capacité Z.                                                           |
-| 824     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Gift-Attacken zu Z-Attacken auf.                                                                                     |
-| 824     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Veneno.                                                                                                  |
-| 824     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Veleno
-in mosse Z.                                                          |
-| 824     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Poison-type moves to Z-Moves.                                                                                  |
-| 824     | 20               | 11          | Ｚパワーの　結晶。
-どくタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 824     | 20               | 12          | Ｚ力量的结晶。
-会将毒属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 825     | 17               | 1           | Ｚパワーの　けっしょう。
-じめんタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 825     | 17               | 3           | Z파워의 결정.
-땅타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 825     | 17               | 4           | Ｚ力量的結晶。
-會把地面屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 825     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Sol
-en capacité Z.                                                              |
-| 825     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Boden-Attacken zu Z-Attacken auf.                                                                                    |
-| 825     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Tierra.                                                                                                  |
-| 825     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Terra
-in mosse Z.                                                           |
-| 825     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ground-type moves to Z-Moves.                                                                                  |
-| 825     | 17               | 11          | Ｚパワーの　結晶。
-じめんタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 825     | 17               | 12          | Ｚ力量的结晶。
-会将地面属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 825     | 18               | 1           | Ｚパワーの　けっしょう。
-じめんタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 825     | 18               | 3           | Z파워의 결정.
-땅타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 825     | 18               | 4           | Ｚ力量的結晶。
-會把地面屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 825     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Sol
-en capacité Z.                                                              |
-| 825     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Boden-Attacken zu Z-Attacken auf.                                                                                    |
-| 825     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Tierra.                                                                                                  |
-| 825     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Terra
-in mosse Z.                                                           |
-| 825     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ground-type moves to Z-Moves.                                                                                  |
-| 825     | 18               | 11          | Ｚパワーの　結晶。
-じめんタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 825     | 18               | 12          | Ｚ力量的结晶。
-会将地面属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 825     | 19               | 1           | Ｚパワーの　けっしょう。
-じめんタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 825     | 19               | 3           | Z파워의 결정.
-땅타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 825     | 19               | 4           | Ｚ力量的結晶。
-會把地面屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 825     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Sol en capacité Z.                                                              |
-| 825     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Boden-Attacken zu Z-Attacken auf.                                                                                    |
-| 825     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Tierra.                                                                                                  |
-| 825     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Terra
-in mosse Z.                                                           |
-| 825     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ground-type moves to Z-Moves.                                                                                  |
-| 825     | 19               | 11          | Ｚパワーの　結晶。
-じめんタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 825     | 19               | 12          | Ｚ力量的结晶。
-会将地面属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 825     | 20               | 1           | Ｚパワーの　けっしょう。
-じめんタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 825     | 20               | 3           | Z파워의 결정.
-땅타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                     |
-| 825     | 20               | 4           | Ｚ力量的結晶。
-會把地面屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 825     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Sol
-en capacité Z.                                                              |
-| 825     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Boden-Attacken zu Z-Attacken auf.                                                                                    |
-| 825     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Tierra.                                                                                                  |
-| 825     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Terra
-in mosse Z.                                                           |
-| 825     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Ground-type moves to Z-Moves.                                                                                  |
-| 825     | 20               | 11          | Ｚパワーの　結晶。
-じめんタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 825     | 20               | 12          | Ｚ力量的结晶。
-会将地面属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 826     | 17               | 1           | Ｚパワーの　けっしょう。
-ひこうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 826     | 17               | 3           | Z파워의 결정.
-비행타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 826     | 17               | 4           | Ｚ力量的結晶。
-會把飛行屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 826     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Vol
-en capacité Z.                                                              |
-| 826     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Flug-Attacken zu Z-Attacken auf.                                                                                     |
-| 826     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Volador.                                                                                                 |
-| 826     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Volante
-in mosse Z.                                                         |
-| 826     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Flying-type moves to Z-Moves.                                                                                  |
-| 826     | 17               | 11          | Ｚパワーの　結晶。
-ひこうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 826     | 17               | 12          | Ｚ力量的结晶。
-会将飞行属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 826     | 18               | 1           | Ｚパワーの　けっしょう。
-ひこうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 826     | 18               | 3           | Z파워의 결정.
-비행타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 826     | 18               | 4           | Ｚ力量的結晶。
-會把飛行屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 826     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Vol
-en capacité Z.                                                              |
-| 826     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Flug-Attacken zu Z-Attacken auf.                                                                                     |
-| 826     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Volador.                                                                                                 |
-| 826     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Volante
-in mosse Z.                                                         |
-| 826     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Flying-type moves to Z-Moves.                                                                                  |
-| 826     | 18               | 11          | Ｚパワーの　結晶。
-ひこうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 826     | 18               | 12          | Ｚ力量的结晶。
-会将飞行属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 826     | 19               | 1           | Ｚパワーの　けっしょう。
-ひこうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 826     | 19               | 3           | Z파워의 결정.
-비행타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 826     | 19               | 4           | Ｚ力量的結晶。
-會把飛行屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 826     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Vol en capacité Z.                                                              |
-| 826     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Flug-Attacken zu Z-Attacken auf.                                                                                     |
-| 826     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Volador.                                                                                                 |
-| 826     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Volante
-in mosse Z.                                                         |
-| 826     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Flying-type moves to Z-Moves.                                                                                  |
-| 826     | 19               | 11          | Ｚパワーの　結晶。
-ひこうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 826     | 19               | 12          | Ｚ力量的结晶。
-会将飞行属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 826     | 20               | 1           | Ｚパワーの　けっしょう。
-ひこうタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                           |
-| 826     | 20               | 3           | Z파워의 결정.
-비행타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 826     | 20               | 4           | Ｚ力量的結晶。
-會把飛行屬性的招式
-升級為Ｚ招式。                                                                                                                                          |
-| 826     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Vol
-en capacité Z.                                                              |
-| 826     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Flug-Attacken zu Z-Attacken auf.                                                                                     |
-| 826     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Volador.                                                                                                 |
-| 826     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Volante
-in mosse Z.                                                         |
-| 826     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Flying-type moves to Z-Moves.                                                                                  |
-| 826     | 20               | 11          | Ｚパワーの　結晶。
-ひこうタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                               |
-| 826     | 20               | 12          | Ｚ力量的结晶。
-会将飞行属性的招式
-升级成Ｚ招式。                                                                                                                                          |
-| 827     | 17               | 1           | Ｚパワーの　けっしょう。
-エスパータイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 827     | 17               | 3           | Z파워의 결정.
-에스퍼타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                   |
-| 827     | 17               | 4           | Ｚ力量的結晶。
-會把超能力屬性的招式
-升級為Ｚ招式。                                                                                                                                         |
-| 827     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Psy
-en capacité Z.                                                              |
-| 827     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Psycho-Attacken zu Z-Attacken auf.                                                                                   |
-| 827     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Psíquico.                                                                                                |
-| 827     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Psico
-in mosse Z.                                                           |
-| 827     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Psychic-type moves to Z-Moves.                                                                                 |
-| 827     | 17               | 11          | Ｚパワーの　結晶。
-エスパータイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 827     | 17               | 12          | Ｚ力量的结晶。
-会将超能力属性的招式
-升级成Ｚ招式。                                                                                                                                         |
-| 827     | 18               | 1           | Ｚパワーの　けっしょう。
-エスパータイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 827     | 18               | 3           | Z파워의 결정.
-에스퍼타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                   |
-| 827     | 18               | 4           | Ｚ力量的結晶。
-會把超能力屬性的招式
-升級為Ｚ招式。                                                                                                                                         |
-| 827     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Psy
-en capacité Z.                                                              |
-| 827     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Psycho-Attacken zu Z-Attacken auf.                                                                                   |
-| 827     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Psíquico.                                                                                                |
-| 827     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Psico
-in mosse Z.                                                           |
-| 827     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Psychic-type moves to Z-Moves.                                                                                 |
-| 827     | 18               | 11          | Ｚパワーの　結晶。
-エスパータイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 827     | 18               | 12          | Ｚ力量的结晶。
-会将超能力属性的招式
-升级成Ｚ招式。                                                                                                                                         |
-| 827     | 19               | 1           | Ｚパワーの　けっしょう。
-エスパータイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 827     | 19               | 3           | Z파워의 결정.
-에스퍼타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                   |
-| 827     | 19               | 4           | Ｚ力量的結晶。
-會把超能力屬性的招式
-升級為Ｚ招式。                                                                                                                                         |
-| 827     | 19               | 5           | Une cristallisation de la Force Z, permettant de
-transformer les capacités de type Psy en capacité Z.                                                              |
-| 827     | 19               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Psycho-Attacken zu Z-Attacken auf.                                                                                   |
-| 827     | 19               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Psíquico.                                                                                                |
-| 827     | 19               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Psico
-in mosse Z.                                                           |
-| 827     | 19               | 9           | This is a crystallized form of Z-Power.
-It upgrades Psychic-type moves to Z-Moves.                                                                                 |
-| 827     | 19               | 11          | Ｚパワーの　結晶。
-エスパータイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 827     | 19               | 12          | Ｚ力量的结晶。
-会将超能力属性的招式
-升级成Ｚ招式。                                                                                                                                         |
-| 827     | 20               | 1           | Ｚパワーの　けっしょう。
-エスパータイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                          |
-| 827     | 20               | 3           | Z파워의 결정.
-에스퍼타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                   |
-| 827     | 20               | 4           | Ｚ力量的結晶。
-會把超能力屬性的招式
-升級為Ｚ招式。                                                                                                                                         |
-| 827     | 20               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Psy
-en capacité Z.                                                              |
-| 827     | 20               | 6           | Ein Kristall, dem Z-Kraft innewohnt. Er stuft
-Psycho-Attacken zu Z-Attacken auf.                                                                                   |
-| 827     | 20               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Psíquico.                                                                                                |
-| 827     | 20               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo Psico
-in mosse Z.                                                           |
-| 827     | 20               | 9           | This is a crystallized form of Z-Power.
-It upgrades Psychic-type moves to Z-Moves.                                                                                 |
-| 827     | 20               | 11          | Ｚパワーの　結晶。
-エスパータイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                              |
-| 827     | 20               | 12          | Ｚ力量的结晶。
-会将超能力属性的招式
-升级成Ｚ招式。                                                                                                                                         |
-| 828     | 17               | 1           | Ｚパワーの　けっしょう。
-むしタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 828     | 17               | 3           | Z파워의 결정.
-벌레타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 828     | 17               | 4           | Ｚ力量的結晶。
-會把蟲屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 828     | 17               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Insecte
-en capacité Z.                                                          |
-| 828     | 17               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Käfer-Attacken zu Z-Attacken auf.                                                                                    |
-| 828     | 17               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Bicho.                                                                                                   |
-| 828     | 17               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo
-Coleottero in mosse Z.                                                      |
-| 828     | 17               | 9           | This is a crystallized form of Z-Power.
-It upgrades Bug-type moves to Z-Moves.                                                                                     |
-| 828     | 17               | 11          | Ｚパワーの　結晶。
-むしタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 828     | 17               | 12          | Ｚ力量的结晶。
-会将虫属性的招式
-升级成Ｚ招式。                                                                                                                                           |
-| 828     | 18               | 1           | Ｚパワーの　けっしょう。
-むしタイプの　わざを
-Ｚワザに　グレードアップする。                                                                                                                            |
-| 828     | 18               | 3           | Z파워의 결정.
-벌레타입 기술을
-Z기술로 업그레이드한다.                                                                                                                                    |
-| 828     | 18               | 4           | Ｚ力量的結晶。
-會把蟲屬性的招式
-升級為Ｚ招式。                                                                                                                                           |
-| 828     | 18               | 5           | Une cristallisation de la Force Z, permettant
-de transformer les capacités de type Insecte
-en capacité Z.                                                          |
-| 828     | 18               | 6           | Ein Kristall, dem Z-Kraft innewohnt.
-Er stuft Käfer-Attacken zu Z-Attacken auf.                                                                                    |
-| 828     | 18               | 7           | Cristal que confiere el Poder Z a los movimientos
-de tipo Bicho.                                                                                                   |
-| 828     | 18               | 8           | Cristallo in cui è immagazzinato il Potere Z.
-Consente di trasformare le mosse di tipo
-Coleottero in mosse Z.                                                      |
-| 828     | 18               | 9           | This is a crystallized form of Z-Power.
-It upgrades Bug-type moves to Z-Moves.                                                                                     |
-| 828     | 18               | 11          | Ｚパワーの　結晶。
-むしタイプの　技を
-Ｚワザに　グレードアップする。                                                                                                                                |
-| 828     | 18               | 12          | Ｚ力量的结晶。
-会将虫属性的招式
-升级成Ｚ招式。                                                                                                                                           |
+|  item_id | version_group_id | language_id | flavor_text |
+|----------|------------------|-------------|-------------|
+|  454       19 |  |  11 |     捕まえた　野生ポケモンが すぐに　なついて　くれる ちょっと　変わった　ボール。 |
+|  454       19 |  |  12 |     有点与众不同的球。 捉到的野生宝可梦会立刻 变得和训练家亲密起来。 |
+|  454       20 |  |  1 |      つかまえた　やせいポケモンが すぐに　なついて　くれる ちょっと　かわった　ボール。 |
+|  454       20 |  |  3 |      잡은 야생 포켓몬이 바로 친밀해지는 조금 특이한 볼. |
+|  454       20 |  |  4 |      有點與眾不同的球。 捉到的野生寶可夢會立刻 和訓練家變得親密。 |
+|  454       20 |  |  5 |      Une Poké Ball un peu spéciale qui permet de rendre rapidement amicaux les Pokémon sauvages attrapés avec celle-ci. |
+|  454       20 |  |  6 |      Ein besonderer Ball, der die Sympathie von gefangenen Pokémon sofort ansteigen lässt. |
+|  454       20 |  |  7 |      Poké Ball algo distinta que hace más amistosos a los Pokémon salvajes que se capturan con ella. |
+|  454       20 |  |  8 |      Poké Ball un po' diversa che fa sì che i Pokémon selvatici con essa catturati si affezionino più rapidamente. |
+|  454       20 |  |  9 |      A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately. |
+|  454       20 |  |  11 |     捕まえた　野生ポケモンが すぐに　なついて　くれる ちょっと　変わった　ボール。 |
+|  454       20 |  |  12 |     有点与众不同的球。 捉到的野生宝可梦会立刻 变得和训练家亲密起来。 |
+|  455       10 |  |  9 |      Poké Ball for catching Pokémon that are the opposite gender of your Pokémon. |
+|  455       11 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de la même espèce mais de sexe opposé. |
+|  455       11 |  |  9 |      Poké Ball for catching Pokémon that are the opposite gender of your Pokémon. |
+|  455       14 |  |  9 |      Poké Ball for catching Pokémon that are the opposite gender of your Pokémon. |
+|  455       15 |  |  1 |      じぶんの　ポケモンと　せいべつが ちがうと　つかまえやすくなる ちょっと　かわった　ボール。 |
+|  455       15 |  |  3 |      자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼. |
+|  455       15 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé. |
+|  455       15 |  |  6 |      Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon. |
+|  455       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de puntos conseguidos. |
+|  455       15 |  |  8 |      Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie. |
+|  455       15 |  |  9 |      A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon. |
+|  455       15 |  |  11 |     自分の　ポケモンと　性別が 違うと　捕まえやすくなる ちょっと　変わった　ボール。 |
+|  455       17 |  |  1 |      じぶんの　ポケモンと　せいべつが ちがうと　つかまえやすくなる ちょっと　かわった　ボール。 |
+|  455       17 |  |  3 |      자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼. |
+|  455       17 |  |  4 |      有點與眾不同的球。 能更容易地捉到 與自己的寶可夢性別不同的寶可夢。 |
+|  455       17 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé. |
+|  455       17 |  |  6 |      Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon. |
+|  455       17 |  |  7 |      Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente. |
+|  455       17 |  |  8 |      Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie. |
+|  455       17 |  |  9 |      A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon. |
+|  455       17 |  |  11 |     自分の　ポケモンと　性別が 違うと　捕まえやすくなる ちょっと　変わった　ボール。 |
+|  455       17 |  |  12 |     有点与众不同的球。 能很容易地捕捉 和自己宝可梦性别不同的宝可梦。 |
+|  455       18 |  |  1 |      じぶんの　ポケモンと　せいべつが ちがうと　つかまえやすくなる ちょっと　かわった　ボール。 |
+|  455       18 |  |  3 |      자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼. |
+|  455       18 |  |  4 |      有點與眾不同的球。 能更容易地捉到 與自己的寶可夢性別不同的寶可夢。 |
+|  455       18 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé. |
+|  455       18 |  |  6 |      Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon. |
+|  455       18 |  |  7 |      Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente. |
+|  455       18 |  |  8 |      Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie. |
+|  455       18 |  |  9 |      A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon. |
+|  455       18 |  |  11 |     自分の　ポケモンと　性別が 違うと　捕まえやすくなる ちょっと　変わった　ボール。 |
+|  455       18 |  |  12 |     有点与众不同的球。 能很容易地捕捉 和自己宝可梦性别不同的宝可梦。 |
+|  455       19 |  |  1 |      じぶんの　ポケモンと　せいべつが ちがうと　つかまえやすくなる ちょっと　かわった　ボール。 |
+|  455       19 |  |  3 |      자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼. |
+|  455       19 |  |  4 |      有點與眾不同的球。 能更容易地捉到 與自己的寶可夢性別不同的寶可夢。 |
+|  455       19 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé. |
+|  455       19 |  |  6 |      Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon. |
+|  455       19 |  |  7 |      Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente. |
+|  455       19 |  |  8 |      Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie. |
+|  455       19 |  |  9 |      A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon. |
+|  455       19 |  |  11 |     自分の　ポケモンと　性別が 違うと　捕まえやすくなる ちょっと　変わった　ボール。 |
+|  455       19 |  |  12 |     有点与众不同的球。 能很容易地捕捉 和自己宝可梦性别不同的宝可梦。 |
+|  455       20 |  |  1 |      じぶんの　ポケモンと　せいべつが ちがうと　つかまえやすくなる ちょっと　かわった　ボール。 |
+|  455       20 |  |  3 |      자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼. |
+|  455       20 |  |  4 |      有點與眾不同的球。 能更容易地捉到 與自己的寶可夢性別不同的寶可夢。 |
+|  455       20 |  |  5 |      Une Poké Ball un peu spéciale qui fonctionne mieux sur un Pokémon de sexe opposé. |
+|  455       20 |  |  6 |      Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die ein anderes Geschlecht haben als dein Pokémon. |
+|  455       20 |  |  7 |      Poké Ball algo distinta que atrapa mejor Pokémon de la misma especie que los que se posee, pero de sexo diferente. |
+|  455       20 |  |  8 |      Poké Ball speciale che funziona meglio con i Pokémon di sesso opposto a quello del proprio e della stessa specie. |
+|  455       20 |  |  9 |      A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon. |
+|  455       20 |  |  11 |     自分の　ポケモンと　性別が 違うと　捕まえやすくなる ちょっと　変わった　ボール。 |
+|  455       20 |  |  12 |     有点与众不同的球。 能很容易地捕捉 和自己宝可梦性别不同的宝可梦。 |
+|  456       10 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       11 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       11 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       14 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       15 |  |  1 |      パルパークの　なかで つかう　とくべつな　ボール。 |
+|  456       15 |  |  3 |      팔파크 내에서 사용하는 특별한 볼. |
+|  456       15 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       15 |  |  6 |      Ein Ball, der nur im Park der Freunde eingesetzt wird. |
+|  456       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de caídas que han sufrido tus Pokémon. |
+|  456       15 |  |  8 |      Poké Ball speciale utilizzata solo all'interno del Parco Amici. |
+|  456       15 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       15 |  |  11 |     パルパークの　なかで 使う　特別な　ボール。 |
+|  456       17 |  |  1 |      パルパークの　なかで つかう　とくべつな　ボール。 |
+|  456       17 |  |  3 |      팔파크 내에서 사용하는 특별한 볼. |
+|  456       17 |  |  4 |      在夥伴公園裡使用的 特殊的球。 |
+|  456       17 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       17 |  |  6 |      Ein Ball, der nur im Park der Freunde eingesetzt wird. |
+|  456       17 |  |  7 |      Poké Ball que se utiliza dentro del Parque Compi. |
+|  456       17 |  |  8 |      Poké Ball speciale utilizzata solo all'interno del Parco Amici. |
+|  456       17 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       17 |  |  11 |     パルパークの　なかで 使う　特別な　ボール。 |
+|  456       17 |  |  12 |     在伙伴公园里使用的 特殊的球。 |
+|  456       18 |  |  1 |      パルパークの　なかで つかう　とくべつな　ボール。 |
+|  456       18 |  |  3 |      팔파크 내에서 사용하는 특별한 볼. |
+|  456       18 |  |  4 |      在夥伴公園裡使用的 特殊的球。 |
+|  456       18 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       18 |  |  6 |      Ein Ball, der nur im Park der Freunde eingesetzt wird. |
+|  456       18 |  |  7 |      Poké Ball que se utiliza dentro del Parque Compi. |
+|  456       18 |  |  8 |      Poké Ball speciale utilizzata solo all'interno del Parco Amici. |
+|  456       18 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       18 |  |  11 |     パルパークの　なかで 使う　特別な　ボール。 |
+|  456       18 |  |  12 |     在伙伴公园里使用的 特殊的球。 |
+|  456       19 |  |  1 |      パルパークの　なかで つかう　とくべつな　ボール。 |
+|  456       19 |  |  3 |      팔파크 내에서 사용하는 특별한 볼. |
+|  456       19 |  |  4 |      在夥伴公園裡使用的 特殊的球。 |
+|  456       19 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       19 |  |  6 |      Ein Ball, der nur im Park der Freunde eingesetzt wird. |
+|  456       19 |  |  7 |      Poké Ball que se utiliza dentro del Parque Compi. |
+|  456       19 |  |  8 |      Poké Ball speciale utilizzata solo all'interno del Parco Amici. |
+|  456       19 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       19 |  |  11 |     パルパークの　なかで 使う　特別な　ボール。 |
+|  456       19 |  |  12 |     在伙伴公园里使用的 特殊的球。 |
+|  456       20 |  |  1 |      パルパークの　なかで つかう　とくべつな　ボール。 |
+|  456       20 |  |  3 |      팔파크 내에서 사용하는 특별한 볼. |
+|  456       20 |  |  4 |      在夥伴公園裡使用的 特殊的球。 |
+|  456       20 |  |  5 |      Une Poké Ball spéciale utilisée au Parc des Amis. |
+|  456       20 |  |  6 |      Ein Ball, der nur im Park der Freunde eingesetzt wird. |
+|  456       20 |  |  7 |      Poké Ball que se utiliza dentro del Parque Compi. |
+|  456       20 |  |  8 |      Poké Ball speciale utilizzata solo all'interno del Parco Amici. |
+|  456       20 |  |  9 |      A special Poké Ball for the Pal Park. |
+|  456       20 |  |  11 |     パルパークの　なかで 使う　特別な　ボール。 |
+|  456       20 |  |  12 |     在伙伴公园里使用的 特殊的球。 |
+|  457       10 |  |  9 |      A special Poké Ball for the Bug-Catching Contest. |
+|  457       11 |  |  5 |      Une Poké Ball spéciale utilisée au Concours de Capture d'insecte. |
+|  457       11 |  |  9 |      A special Poké Ball for the Bug-Catching Contest. |
+|  457       14 |  |  9 |      A special Poké Ball for the Bug-Catching Contest. |
+|  457       15 |  |  1 |      むしとりたいかいの　なかで つかう　とくべつな　ボール。 |
+|  457       15 |  |  3 |      곤충채집 대회 내에서 사용하는 특별한 볼. |
+|  457       15 |  |  5 |      Une Poké Ball spéciale utilisée au Concours de Capture d'insecte. |
+|  457       15 |  |  6 |      Ein Ball, der nur beim Käferturnier eingesetzt wird. |
+|  457       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de placajes realizados. |
+|  457       15 |  |  8 |      Poké Ball speciale utilizzata solo nella Gara Pigliamosche. |
+|  457       15 |  |  9 |      A special Poké Ball that is used during the Bug-Catching Contest. |
+|  457       15 |  |  11 |     虫捕り大会の　なかで 使う　特別な　ボール。 |
+|  457       17 |  |  1 |      むしとりたいかいの　なかで つかう　とくべつな　ボール。 |
+|  457       17 |  |  3 |      곤충채집 대회 내에서 사용하는 특별한 볼. |
+|  457       17 |  |  4 |      在捕蟲大賽上使用的 特殊的球。 |
+|  457       17 |  |  5 |      Une Poké Ball spéciale utilisée au Concours de Capture d'insecte. |
+|  457       17 |  |  6 |      Ein Ball, der nur beim Käferturnier eingesetzt wird. |
+|  457       17 |  |  7 |      Poké Ball que se utiliza en el Concurso de Captura de Bichos. |
+|  457       17 |  |  8 |      Poké Ball speciale utilizzata solo nella Gara Pigliamosche. |
+|  457       17 |  |  9 |      A special Poké Ball that is used during the Bug-Catching Contest. |
+|  457       17 |  |  11 |     虫捕り大会の　なかで 使う　特別な　ボール。 |
+|  457       17 |  |  12 |     在捕虫大赛上使用的 特殊的球。 |
+|  457       18 |  |  1 |      むしとりたいかいの　なかで つかう　とくべつな　ボール。 |
+|  457       18 |  |  3 |      곤충채집 대회 내에서 사용하는 특별한 볼. |
+|  457       18 |  |  4 |      在捕蟲大賽上使用的 特殊的球。 |
+|  457       18 |  |  5 |      Une Poké Ball spéciale utilisée au Concours de Capture d'insecte. |
+|  457       18 |  |  6 |      Ein Ball, der nur beim Käferturnier eingesetzt wird. |
+|  457       18 |  |  7 |      Poké Ball que se utiliza en el Concurso de Captura de Bichos. |
+|  457       18 |  |  8 |      Poké Ball speciale utilizzata solo nella Gara Pigliamosche. |
+|  457       18 |  |  9 |      A special Poké Ball that is used during the Bug-Catching Contest. |
+|  457       18 |  |  11 |     虫捕り大会の　なかで 使う　特別な　ボール。 |
+|  457       18 |  |  12 |     在捕虫大赛上使用的 特殊的球。 |
+|  457       19 |  |  1 |      むしとりたいかいの　なかで つかう　とくべつな　ボール。 |
+|  457       19 |  |  3 |      곤충채집 대회 내에서 사용하는 특별한 볼. |
+|  457       19 |  |  4 |      在捕蟲大賽上使用的 特殊的球。 |
+|  457       19 |  |  5 |      Une Poké Ball spéciale utilisée au Concours de Capture d'insecte. |
+|  457       19 |  |  6 |      Ein Ball, der nur beim Käferturnier eingesetzt wird. |
+|  457       19 |  |  7 |      Poké Ball que se utiliza en el Concurso de Captura de Bichos. |
+|  457       19 |  |  8 |      Poké Ball speciale utilizzata solo nella Gara Pigliamosche. |
+|  457       19 |  |  9 |      A special Poké Ball that is used during the Bug-Catching Contest. |
+|  457       19 |  |  11 |     虫捕り大会の　なかで 使う　特別な　ボール。 |
+|  457       19 |  |  12 |     在捕虫大赛上使用的 特殊的球。 |
+|  457       20 |  |  1 |      ジョウトちほうの　むしとりたいかいで つかわれていた　とくべつな　ボール。 |
+|  457       20 |  |  3 |      성도지방의 곤충채집 대회에서 사용되었던 특별한 볼. |
+|  457       20 |  |  4 |      曾在城都地區的捕蟲大賽被使用。 是一種特殊的球。 |
+|  457       20 |  |  5 |      Une Poké Ball spéciale anciennement utilisée au Concours de Capture d'insecte de Johto. |
+|  457       20 |  |  6 |      Ein besonderer Ball, der beim Käferturnier der Johto-Region eingesetzt wird. |
+|  457       20 |  |  7 |      Poké Ball especial que se utilizaba en el Concurso de Captura de Bichos de la región de Johto. |
+|  457       20 |  |  8 |      Poké Ball speciale usata in passato nella Gara Pigliamosche di Johto. |
+|  457       20 |  |  9 |      A special Poké Ball that was used during the Bug-Catching Contest in the Johto region. |
+|  457       20 |  |  11 |     ジョウト地方の　虫捕り大会で 使われていた　特別な　ボール。 |
+|  457       20 |  |  12 |     曽在城都地区的捕虫大赛上使用的 特殊的球。 |
+|  458       10 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       11 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       11 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       14 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       15 |  |  1 |      あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       15 |  |  3 |      빨간색의 규토리. 코를 톡 쏘는 향기가 난다. |
+|  458       15 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       15 |  |  6 |      Eine rote Aprikoko. Besitzt einen stechenden Geruch. |
+|  458       15 |  |  7 |      Caramelo típico de Pueblo Caoba, muy popular como souvenir. |
+|  458       15 |  |  8 |      Una Ghicocca di colore rosso. Emana un odore molto forte. |
+|  458       15 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       15 |  |  11 |     あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       17 |  |  1 |      あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       17 |  |  3 |      빨간색의 규토리. 코를 톡 쏘는 향기가 난다. |
+|  458       17 |  |  4 |      紅色的球果。 有種刺鼻的氣味。 |
+|  458       17 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       17 |  |  6 |      Eine rote Aprikoko. Besitzt einen stechenden Geruch. |
+|  458       17 |  |  7 |      Bonguri de color rojo y aroma muy penetrante. |
+|  458       17 |  |  8 |      Una Ghicocca di colore rosso. Emana un odore molto forte. |
+|  458       17 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       17 |  |  11 |     あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       17 |  |  12 |     红色的球果。 有种刺鼻的气味。 |
+|  458       18 |  |  1 |      あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       18 |  |  3 |      빨간색의 규토리. 코를 톡 쏘는 향기가 난다. |
+|  458       18 |  |  4 |      紅色的球果。 有種刺鼻的氣味。 |
+|  458       18 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       18 |  |  6 |      Eine rote Aprikoko. Besitzt einen stechenden Geruch. |
+|  458       18 |  |  7 |      Bonguri de color rojo y aroma muy penetrante. |
+|  458       18 |  |  8 |      Una Ghicocca di colore rosso. Emana un odore molto forte. |
+|  458       18 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       18 |  |  11 |     あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       18 |  |  12 |     红色的球果。 有种刺鼻的气味。 |
+|  458       19 |  |  1 |      あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       19 |  |  3 |      빨간색의 규토리. 코를 톡 쏘는 향기가 난다. |
+|  458       19 |  |  4 |      紅色的球果。 有種刺鼻的氣味。 |
+|  458       19 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       19 |  |  6 |      Eine rote Aprikoko. Besitzt einen stechenden Geruch. |
+|  458       19 |  |  7 |      Bonguri de color rojo y aroma muy penetrante. |
+|  458       19 |  |  8 |      Una Ghicocca di colore rosso. Emana un odore molto forte. |
+|  458       19 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       19 |  |  11 |     あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       19 |  |  12 |     红色的球果。 有种刺鼻的气味。 |
+|  458       20 |  |  1 |      あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       20 |  |  3 |      빨간색의 규토리. 코를 톡 쏘는 향기가 난다. |
+|  458       20 |  |  4 |      紅色的球果。 有種刺鼻的氣味。 |
+|  458       20 |  |  5 |      Un Noigrume de couleur rouge. Il dégage un puissant arôme. |
+|  458       20 |  |  6 |      Eine rote Aprikoko. Besitzt einen stechenden Geruch. |
+|  458       20 |  |  7 |      Bonguri de color rojo y aroma muy penetrante. |
+|  458       20 |  |  8 |      Una Ghicocca di colore rosso. Emana un odore molto forte. |
+|  458       20 |  |  9 |      A red Apricorn. It assails your nostrils. |
+|  458       20 |  |  11 |     あかい　ぼんぐり。 つーんと　はなにくる　においがする。 |
+|  458       20 |  |  12 |     红色的球果。 有种刺鼻的气味。 |
+|  459       10 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       11 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       11 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       14 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       15 |  |  1 |      あおい　ぼんぐり。 すこし　あおくさい　かおりがする。 |
+|  459       15 |  |  3 |      파란색의 규토리. 약간 풋내가 난다. |
+|  459       15 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       15 |  |  6 |      Eine blaue Aprikoko. Ein frischer Geruch geht von ihr aus. |
+|  459       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias. |
+|  459       15 |  |  8 |      Una Ghicocca di colore blu. Emana un odore un po' acre. |
+|  459       15 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       15 |  |  11 |     あおい　ぼんぐり。 少し　あおくさい　かおりがする。 |
+|  459       17 |  |  1 |      あおい　ぼんぐり。 すこし　あおくさい　かおりがする。 |
+|  459       17 |  |  3 |      파란색의 규토리. 약간 풋내가 난다. |
+|  459       17 |  |  4 |      藍色的球果。 略有一股青草的香味。 |
+|  459       17 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       17 |  |  6 |      Eine blaue Aprikoko. Ein frischer Geruch geht von ihr aus. |
+|  459       17 |  |  7 |      Bonguri de color azul y aroma tierno. |
+|  459       17 |  |  8 |      Una Ghicocca di colore blu. Emana un odore un po' acre. |
+|  459       17 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       17 |  |  11 |     あおい　ぼんぐり。 少し　あおくさい　かおりがする。 |
+|  459       17 |  |  12 |     蓝色的球果。 略有一股青草的香味。 |
+|  459       18 |  |  1 |      あおい　ぼんぐり。 すこし　あおくさい　かおりがする。 |
+|  459       18 |  |  3 |      파란색의 규토리. 약간 풋내가 난다. |
+|  459       18 |  |  4 |      藍色的球果。 略有一股青草的香味。 |
+|  459       18 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       18 |  |  6 |      Eine blaue Aprikoko. Ein frischer Geruch geht von ihr aus. |
+|  459       18 |  |  7 |      Bonguri de color azul y aroma tierno. |
+|  459       18 |  |  8 |      Una Ghicocca di colore blu. Emana un odore un po' acre. |
+|  459       18 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       18 |  |  11 |     あおい　ぼんぐり。 少し　あおくさい　かおりがする。 |
+|  459       18 |  |  12 |     蓝色的球果。 略有一股青草的香味。 |
+|  459       19 |  |  1 |      あおい　ぼんぐり。 すこし　あおくさい　かおりがする。 |
+|  459       19 |  |  3 |      파란색의 규토리. 약간 풋내가 난다. |
+|  459       19 |  |  4 |      藍色的球果。 略有一股青草的香味。 |
+|  459       19 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       19 |  |  6 |      Eine blaue Aprikoko. Ein frischer Geruch geht von ihr aus. |
+|  459       19 |  |  7 |      Bonguri de color azul y aroma tierno. |
+|  459       19 |  |  8 |      Una Ghicocca di colore blu. Emana un odore un po' acre. |
+|  459       19 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       19 |  |  11 |     あおい　ぼんぐり。 少し　あおくさい　かおりがする。 |
+|  459       19 |  |  12 |     蓝色的球果。 略有一股青草的香味。 |
+|  459       20 |  |  1 |      あおい　ぼんぐり。 すこし　あおくさい　かおりがする。 |
+|  459       20 |  |  3 |      파란색의 규토리. 약간 풋내가 난다. |
+|  459       20 |  |  4 |      藍色的球果。 略有一股青草的香味。 |
+|  459       20 |  |  5 |      Un Noigrume de couleur bleue. Il dégage un arôme un peu aigre. |
+|  459       20 |  |  6 |      Eine blaue Aprikoko. Ein frischer Geruch geht von ihr aus. |
+|  459       20 |  |  7 |      Bonguri de color azul y aroma tierno. |
+|  459       20 |  |  8 |      Una Ghicocca di colore blu. Emana un odore un po' acre. |
+|  459       20 |  |  9 |      A blue Apricorn. It smells a bit like grass. |
+|  459       20 |  |  11 |     あおい　ぼんぐり。 少し　あおくさい　かおりがする。 |
+|  459       20 |  |  12 |     蓝色的球果。 略有一股青草的香味。 |
+|  460       10 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       11 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       11 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       14 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       15 |  |  1 |      きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       15 |  |  3 |      노란색의 규토리. 산뜻한 향기가 난다. |
+|  460       15 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       15 |  |  6 |      Eine gelbe Aprikoko. Sie riecht ein wenig unreif. |
+|  460       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar. |
+|  460       15 |  |  8 |      Una Ghicocca di colore giallo. Emana un profumo delicato. |
+|  460       15 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       15 |  |  11 |     きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       17 |  |  1 |      きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       17 |  |  3 |      노란색의 규토리. 산뜻한 향기가 난다. |
+|  460       17 |  |  4 |      黃色的球果。 有種清爽的香味。 |
+|  460       17 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       17 |  |  6 |      Eine gelbe Aprikoko. Sie riecht ein wenig unreif. |
+|  460       17 |  |  7 |      Bonguri de color amarillo y aroma refrescante. |
+|  460       17 |  |  8 |      Una Ghicocca di colore giallo. Emana un profumo delicato. |
+|  460       17 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       17 |  |  11 |     きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       17 |  |  12 |     黄色的球果。 有种清爽的香味。 |
+|  460       18 |  |  1 |      きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       18 |  |  3 |      노란색의 규토리. 산뜻한 향기가 난다. |
+|  460       18 |  |  4 |      黃色的球果。 有種清爽的香味。 |
+|  460       18 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       18 |  |  6 |      Eine gelbe Aprikoko. Sie riecht ein wenig unreif. |
+|  460       18 |  |  7 |      Bonguri de color amarillo y aroma refrescante. |
+|  460       18 |  |  8 |      Una Ghicocca di colore giallo. Emana un profumo delicato. |
+|  460       18 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       18 |  |  11 |     きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       18 |  |  12 |     黄色的球果。 有种清爽的香味。 |
+|  460       19 |  |  1 |      きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       19 |  |  3 |      노란색의 규토리. 산뜻한 향기가 난다. |
+|  460       19 |  |  4 |      黃色的球果。 有種清爽的香味。 |
+|  460       19 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       19 |  |  6 |      Eine gelbe Aprikoko. Sie riecht ein wenig unreif. |
+|  460       19 |  |  7 |      Bonguri de color amarillo y aroma refrescante. |
+|  460       19 |  |  8 |      Una Ghicocca di colore giallo. Emana un profumo delicato. |
+|  460       19 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       19 |  |  11 |     きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       19 |  |  12 |     黄色的球果。 有种清爽的香味。 |
+|  460       20 |  |  1 |      きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       20 |  |  3 |      노란색의 규토리. 산뜻한 향기가 난다. |
+|  460       20 |  |  4 |      黃色的球果。 有種清爽的香味。 |
+|  460       20 |  |  5 |      Un Noigrume de couleur jaune. Il dégage un arôme délicat. |
+|  460       20 |  |  6 |      Eine gelbe Aprikoko. Sie riecht ein wenig unreif. |
+|  460       20 |  |  7 |      Bonguri de color amarillo y aroma refrescante. |
+|  460       20 |  |  8 |      Una Ghicocca di colore giallo. Emana un profumo delicato. |
+|  460       20 |  |  9 |      A yellow Apricorn. It has an invigorating scent. |
+|  460       20 |  |  11 |     きいろの　ぼんぐり。 さわやかな　かおりが　する。 |
+|  460       20 |  |  12 |     黄色的球果。 有种清爽的香味。 |
+|  461       10 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       11 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       11 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       14 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       15 |  |  1 |      みどりの　ぼんぐり。 ふしぎと　こうばしい　かおりがする。 |
+|  461       15 |  |  3 |      초록색의 규토리. 이상하게도 고소한 향기가 난다. |
+|  461       15 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       15 |  |  6 |      Eine grüne Aprikoko. Sie verströmt einen seltsam aromatischen Duft. |
+|  461       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de sprints de los Pokémon. |
+|  461       15 |  |  8 |      Una Ghicocca di colore verde. Emana un profumo intenso. |
+|  461       15 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       15 |  |  11 |     みどりの　ぼんぐり。 不思議と　こうばしい　かおりがする。 |
+|  461       17 |  |  1 |      みどりの　ぼんぐり。 ふしぎと　こうばしい　かおりがする。 |
+|  461       17 |  |  3 |      초록색의 규토리. 이상하게도 고소한 향기가 난다. |
+|  461       17 |  |  4 |      綠色的球果。 有種焦香的香味，非常神奇。 |
+|  461       17 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       17 |  |  6 |      Eine grüne Aprikoko. Sie verströmt einen seltsam aromatischen Duft. |
+|  461       17 |  |  7 |      Bonguri de color verde y aroma peculiar que recuerda al café tostado. |
+|  461       17 |  |  8 |      Una Ghicocca di colore verde. Emana un profumo intenso. |
+|  461       17 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       17 |  |  11 |     みどりの　ぼんぐり。 不思議と　こうばしい　かおりがする。 |
+|  461       17 |  |  12 |     绿色的球果。 有种焦香的香味，非常神奇。 |
+|  461       18 |  |  1 |      みどりの　ぼんぐり。 ふしぎと　こうばしい　かおりがする。 |
+|  461       18 |  |  3 |      초록색의 규토리. 이상하게도 고소한 향기가 난다. |
+|  461       18 |  |  4 |      綠色的球果。 有種焦香的香味，非常神奇。 |
+|  461       18 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       18 |  |  6 |      Eine grüne Aprikoko. Sie verströmt einen seltsam aromatischen Duft. |
+|  461       18 |  |  7 |      Bonguri de color verde y aroma peculiar que recuerda al café tostado. |
+|  461       18 |  |  8 |      Una Ghicocca di colore verde. Emana un profumo intenso. |
+|  461       18 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       18 |  |  11 |     みどりの　ぼんぐり。 不思議と　こうばしい　かおりがする。 |
+|  461       18 |  |  12 |     绿色的球果。 有种焦香的香味，非常神奇。 |
+|  461       19 |  |  1 |      みどりの　ぼんぐり。 ふしぎと　こうばしい　かおりがする。 |
+|  461       19 |  |  3 |      초록색의 규토리. 이상하게도 고소한 향기가 난다. |
+|  461       19 |  |  4 |      綠色的球果。 有種焦香的香味，非常神奇。 |
+|  461       19 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       19 |  |  6 |      Eine grüne Aprikoko. Sie verströmt einen seltsam aromatischen Duft. |
+|  461       19 |  |  7 |      Bonguri de color verde y aroma peculiar que recuerda al café tostado. |
+|  461       19 |  |  8 |      Una Ghicocca di colore verde. Emana un profumo intenso. |
+|  461       19 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       19 |  |  11 |     みどりの　ぼんぐり。 不思議と　こうばしい　かおりがする。 |
+|  461       19 |  |  12 |     绿色的球果。 有种焦香的香味，非常神奇。 |
+|  461       20 |  |  1 |      みどりの　ぼんぐり。 ふしぎと　こうばしい　かおりがする。 |
+|  461       20 |  |  3 |      초록색의 규토리. 이상하게도 고소한 향기가 난다. |
+|  461       20 |  |  4 |      綠色的球果。 有種焦香的香味，非常神奇。 |
+|  461       20 |  |  5 |      Un Noigrume de couleur verte. Il dégage un arôme étonnamment riche. |
+|  461       20 |  |  6 |      Eine grüne Aprikoko. Sie verströmt einen seltsam aromatischen Duft. |
+|  461       20 |  |  7 |      Bonguri de color verde y aroma peculiar que recuerda al café tostado. |
+|  461       20 |  |  8 |      Una Ghicocca di colore verde. Emana un profumo intenso. |
+|  461       20 |  |  9 |      A green Apricorn. It has a mysterious, aromatic scent. |
+|  461       20 |  |  11 |     みどりの　ぼんぐり。 不思議と　こうばしい　かおりがする。 |
+|  461       20 |  |  12 |     绿色的球果。 有种焦香的香味，非常神奇。 |
+|  462       10 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       11 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       11 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       14 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       15 |  |  1 |      ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       15 |  |  3 |      담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다. |
+|  462       15 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       15 |  |  6 |      Eine pinkfarbene Aprikoko. Sie duftet süß und appetitanregend. |
+|  462       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de saltos de los Pokémon. |
+|  462       15 |  |  8 |      Una Ghicocca di colore rosa. Emana un profumo dolce. |
+|  462       15 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       15 |  |  11 |     ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       17 |  |  1 |      ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       17 |  |  3 |      담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다. |
+|  462       17 |  |  4 |      粉紅色的球果。 有種甜甜的，好聞的香味。 |
+|  462       17 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       17 |  |  6 |      Eine pinkfarbene Aprikoko. Sie duftet süß und appetitanregend. |
+|  462       17 |  |  7 |      Bonguri de color rosa y aroma dulce. |
+|  462       17 |  |  8 |      Una Ghicocca di colore rosa. Emana un profumo dolce. |
+|  462       17 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       17 |  |  11 |     ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       17 |  |  12 |     粉红色的球果。 有种甜甜的，好闻的香味。 |
+|  462       18 |  |  1 |      ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       18 |  |  3 |      담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다. |
+|  462       18 |  |  4 |      粉紅色的球果。 有種甜甜的，好聞的香味。 |
+|  462       18 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       18 |  |  6 |      Eine pinkfarbene Aprikoko. Sie duftet süß und appetitanregend. |
+|  462       18 |  |  7 |      Bonguri de color rosa y aroma dulce. |
+|  462       18 |  |  8 |      Una Ghicocca di colore rosa. Emana un profumo dolce. |
+|  462       18 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       18 |  |  11 |     ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       18 |  |  12 |     粉红色的球果。 有种甜甜的，好闻的香味。 |
+|  462       19 |  |  1 |      ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       19 |  |  3 |      담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다. |
+|  462       19 |  |  4 |      粉紅色的球果。 有種甜甜的，好聞的香味。 |
+|  462       19 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       19 |  |  6 |      Eine pinkfarbene Aprikoko. Sie duftet süß und appetitanregend. |
+|  462       19 |  |  7 |      Bonguri de color rosa y aroma dulce. |
+|  462       19 |  |  8 |      Una Ghicocca di colore rosa. Emana un profumo dolce. |
+|  462       19 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       19 |  |  11 |     ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       19 |  |  12 |     粉红色的球果。 有种甜甜的，好闻的香味。 |
+|  462       20 |  |  1 |      ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       20 |  |  3 |      담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다. |
+|  462       20 |  |  4 |      粉紅色的球果。 有種甜甜的，好聞的香味。 |
+|  462       20 |  |  5 |      Un Noigrume de couleur rose. Il dégage un arôme sucré. |
+|  462       20 |  |  6 |      Eine pinkfarbene Aprikoko. Sie duftet süß und appetitanregend. |
+|  462       20 |  |  7 |      Bonguri de color rosa y aroma dulce. |
+|  462       20 |  |  8 |      Una Ghicocca di colore rosa. Emana un profumo dolce. |
+|  462       20 |  |  9 |      A pink Apricorn. It has a nice, sweet scent. |
+|  462       20 |  |  11 |     ももいろの　ぼんぐり。 あまそうな　いい　においがする。 |
+|  462       20 |  |  12 |     粉红色的球果。 有种甜甜的，好闻的香味。 |
+|  463       10 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       11 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       11 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       14 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       15 |  |  1 |      しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       15 |  |  3 |      하얀색의 규토리. 어떠한 향기도 나지 않는다. |
+|  463       15 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       15 |  |  6 |      Eine weiße Aprikoko. Riecht nach überhaupt nichts. |
+|  463       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en Saltaobstáculos. |
+|  463       15 |  |  8 |      Una Ghicocca di colore bianco. Non emana alcun odore. |
+|  463       15 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       15 |  |  11 |     しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       17 |  |  1 |      しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       17 |  |  3 |      하얀색의 규토리. 어떠한 향기도 나지 않는다. |
+|  463       17 |  |  4 |      白色的球果。 沒有任何氣味。 |
+|  463       17 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       17 |  |  6 |      Eine weiße Aprikoko. Riecht nach überhaupt nichts. |
+|  463       17 |  |  7 |      Bonguri de color blanco que no desprende aroma alguno. |
+|  463       17 |  |  8 |      Una Ghicocca di colore bianco. Non emana alcun odore. |
+|  463       17 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       17 |  |  11 |     しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       17 |  |  12 |     白色的球果。 没有任何气味。 |
+|  463       18 |  |  1 |      しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       18 |  |  3 |      하얀색의 규토리. 어떠한 향기도 나지 않는다. |
+|  463       18 |  |  4 |      白色的球果。 沒有任何氣味。 |
+|  463       18 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       18 |  |  6 |      Eine weiße Aprikoko. Riecht nach überhaupt nichts. |
+|  463       18 |  |  7 |      Bonguri de color blanco que no desprende aroma alguno. |
+|  463       18 |  |  8 |      Una Ghicocca di colore bianco. Non emana alcun odore. |
+|  463       18 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       18 |  |  11 |     しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       18 |  |  12 |     白色的球果。 没有任何气味。 |
+|  463       19 |  |  1 |      しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       19 |  |  3 |      하얀색의 규토리. 어떠한 향기도 나지 않는다. |
+|  463       19 |  |  4 |      白色的球果。 沒有任何氣味。 |
+|  463       19 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       19 |  |  6 |      Eine weiße Aprikoko. Riecht nach überhaupt nichts. |
+|  463       19 |  |  7 |      Bonguri de color blanco que no desprende aroma alguno. |
+|  463       19 |  |  8 |      Una Ghicocca di colore bianco. Non emana alcun odore. |
+|  463       19 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       19 |  |  11 |     しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       19 |  |  12 |     白色的球果。 没有任何气味。 |
+|  463       20 |  |  1 |      しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       20 |  |  3 |      하얀색의 규토리. 어떠한 향기도 나지 않는다. |
+|  463       20 |  |  4 |      白色的球果。 沒有任何氣味。 |
+|  463       20 |  |  5 |      Un Noigrume de couleur blanche. Il ne dégage aucun arôme. |
+|  463       20 |  |  6 |      Eine weiße Aprikoko. Riecht nach überhaupt nichts. |
+|  463       20 |  |  7 |      Bonguri de color blanco que no desprende aroma alguno. |
+|  463       20 |  |  8 |      Una Ghicocca di colore bianco. Non emana alcun odore. |
+|  463       20 |  |  9 |      A white Apricorn. It doesn't smell like anything. |
+|  463       20 |  |  11 |     しろい　ぼんぐり。 なんの　においも　しない。 |
+|  463       20 |  |  12 |     白色的球果。 没有任何气味。 |
+|  464       10 |  |  9 |      A black Apricorn It has an indescribable scent. |
+|  464       11 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       11 |  |  9 |      A black Apricorn It has an indescribable scent. |
+|  464       14 |  |  9 |      A black Apricorn It has an indescribable scent. |
+|  464       15 |  |  1 |      くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       15 |  |  3 |      검은색의 규토리. 말로는 표현할 수 없는 향기가 난다. |
+|  464       15 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       15 |  |  6 |      Eine schwarze Aprikoko. Sie riecht irgendwie unbeschreiblich. |
+|  464       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en Carrera de Relevos. |
+|  464       15 |  |  8 |      Una Ghicocca di colore nero. Emana un odore indefinibile. |
+|  464       15 |  |  9 |      A black Apricorn. It has a scent beyond one's experience. |
+|  464       15 |  |  11 |     くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       17 |  |  1 |      くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       17 |  |  3 |      검은색의 규토리. 말로는 표현할 수 없는 향기가 난다. |
+|  464       17 |  |  4 |      黑色的球果。 有種無法形容的氣味。 |
+|  464       17 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       17 |  |  6 |      Eine schwarze Aprikoko. Sie riecht irgendwie unbeschreiblich. |
+|  464       17 |  |  7 |      Bonguri de color negro y aroma indescriptible. |
+|  464       17 |  |  8 |      Una Ghicocca di colore nero. Emana un odore indefinibile. |
+|  464       17 |  |  9 |      A black Apricorn. It has a scent beyond one's experience. |
+|  464       17 |  |  11 |     くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       17 |  |  12 |     黑色的球果。 有种无法形容的气味。 |
+|  464       18 |  |  1 |      くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       18 |  |  3 |      검은색의 규토리. 말로는 표현할 수 없는 향기가 난다. |
+|  464       18 |  |  4 |      黑色的球果。 有種無法形容的氣味。 |
+|  464       18 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       18 |  |  6 |      Eine schwarze Aprikoko. Sie riecht irgendwie unbeschreiblich. |
+|  464       18 |  |  7 |      Bonguri de color negro y aroma indescriptible. |
+|  464       18 |  |  8 |      Una Ghicocca di colore nero. Emana un odore indefinibile. |
+|  464       18 |  |  9 |      A black Apricorn. It has a scent beyond one's experience. |
+|  464       18 |  |  11 |     くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       18 |  |  12 |     黑色的球果。 有种无法形容的气味。 |
+|  464       19 |  |  1 |      くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       19 |  |  3 |      검은색의 규토리. 말로는 표현할 수 없는 향기가 난다. |
+|  464       19 |  |  4 |      黑色的球果。 有種無法形容的氣味。 |
+|  464       19 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       19 |  |  6 |      Eine schwarze Aprikoko. Sie riecht irgendwie unbeschreiblich. |
+|  464       19 |  |  7 |      Bonguri de color negro y aroma indescriptible. |
+|  464       19 |  |  8 |      Una Ghicocca di colore nero. Emana un odore indefinibile. |
+|  464       19 |  |  9 |      A black Apricorn. It has a scent beyond one's experience. |
+|  464       19 |  |  11 |     くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       19 |  |  12 |     黑色的球果。 有种无法形容的气味。 |
+|  464       20 |  |  1 |      くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       20 |  |  3 |      검은색의 규토리. 말로는 표현할 수 없는 향기가 난다. |
+|  464       20 |  |  4 |      黑色的球果。 有種無法形容的氣味。 |
+|  464       20 |  |  5 |      Un Noigrume de couleur noire. Il dégage un arôme indéfinissable. |
+|  464       20 |  |  6 |      Eine schwarze Aprikoko. Sie riecht irgendwie unbeschreiblich. |
+|  464       20 |  |  7 |      Bonguri de color negro y aroma indescriptible. |
+|  464       20 |  |  8 |      Una Ghicocca di colore nero. Emana un odore indefinibile. |
+|  464       20 |  |  9 |      A black Apricorn. It has a scent beyond one's experience. |
+|  464       20 |  |  11 |     くろい　ぼんぐり。 なんともいえない　においがする。 |
+|  464       20 |  |  12 |     黑色的球果。 有种无法形容的气味。 |
+|  465       5 |  |   9 |      A device that signals an invisible item by sound. |
+|  465       6 |  |   9 |      A device that signals an invisible item by sound. |
+|  465       7 |  |   9 |      A device used for finding items. If there is a hidden item nearby when it is used, it emits a signal. |
+|  465       10 |  |  9 |      It checks for unseen items in the area and makes noise and lights when it finds something. |
+|  465       11 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles en émettant un son et en clignotant. |
+|  465       11 |  |  9 |      It checks for unseen items in the area and makes noise and lights when it finds something. |
+|  465       14 |  |  9 |      It checks for unseen items in the area and makes noise and lights when it finds something. |
+|  465       15 |  |  1 |      みえない　どうぐに　はんのうして おとと　ひかりで　おしえてくれる さいしんの　きかい。 |
+|  465       15 |  |  3 |      보이지 않는 도구에 반응해서 소리와 빛으로 가르쳐주는 최신 기계. |
+|  465       15 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles en émettant un son et en clignotant. |
+|  465       15 |  |  6 |      Scannt die Umgebung nach unsichtbaren Items. Es blinkt und piept, sobald es etwas findet. |
+|  465       15 |  |  7 |      Bonguri de color blanco que no desprende aroma alguno. |
+|  465       15 |  |  8 |      Dispositivo ultramoderno che indica la direzione in cui si trovano gli strumenti invisibili emettendo dei suoni. |
+|  465       15 |  |  9 |      It searches for hidden items in the area and emits different lights and sounds when it detects something. |
+|  465       15 |  |  11 |     みえない　道具に　反応して 音と　光で　教えてくれる 最新の　機械。 |
+|  465       17 |  |  1 |      みえない　どうぐに　はんのうして ばしょを　おしえてくれる　さいしんの きかい。あたまに　つけて　つかう。 |
+|  465       17 |  |  3 |      보이지 않는 도구에 반응해서 장소를 가르쳐주는 최신 기계. 머리에 쓰고 사용한다. |
+|  465       17 |  |  4 |      會對看不見的道具起反應， 並將它的位置告訴你的最尖端機器。 戴在頭上使用。 |
+|  465       17 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles. Il se porte sur la tête. |
+|  465       17 |  |  6 |      Scannt die Umgebung nach unsichtbaren Items und zeigt an, wo diese sich befinden. Es wird auf dem Kopf getragen. |
+|  465       17 |  |  7 |      Aparato de precisión que reacciona ante objetos que no se ven. Para usarlo, es necesario colocárselo en la cabeza. |
+|  465       17 |  |  8 |      Dispositivo ultramoderno che rileva la presenza di strumenti non visibili a occhio nudo. Si indossa sulla testa. |
+|  465       17 |  |  9 |      This high-tech machine shows the location of invisible items. It's attached to the head when in use. |
+|  465       17 |  |  11 |     みえない　道具に　反応して 場所を　教えてくれる　最新の　機械。 頭に　つけて　使う。 |
+|  465       17 |  |  12 |     会对看不见的道具起反应， 并将它的位置告诉你的最尖端机器。 戴在头上使用。 |
+|  465       18 |  |  1 |      みえない　どうぐに　はんのうして ばしょを　おしえてくれる　さいしんの きかい。あたまに　つけて　つかう。 |
+|  465       18 |  |  3 |      보이지 않는 도구에 반응해서 장소를 가르쳐주는 최신 기계. 머리에 쓰고 사용한다. |
+|  465       18 |  |  4 |      會對看不見的道具起反應， 並將它的位置告訴你的最尖端機器。 戴在頭上使用。 |
+|  465       18 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles. Il se porte sur la tête. |
+|  465       18 |  |  6 |      Scannt die Umgebung nach unsichtbaren Items und zeigt an, wo diese sich befinden. Es wird auf dem Kopf getragen. |
+|  465       18 |  |  7 |      Aparato de precisión que reacciona ante objetos que no se ven. Para usarlo, es necesario colocárselo en la cabeza. |
+|  465       18 |  |  8 |      Dispositivo ultramoderno che rileva la presenza di strumenti non visibili a occhio nudo. Si indossa sulla testa. |
+|  465       18 |  |  9 |      This high-tech machine shows the location of invisible items. It's attached to the head when in use. |
+|  465       18 |  |  11 |     みえない　道具に　反応して 場所を　教えてくれる　最新の　機械。 頭に　つけて　使う。 |
+|  465       18 |  |  12 |     会对看不见的道具起反应， 并将它的位置告诉你的最尖端机器。 戴在头上使用。 |
+|  465       19 |  |  1 |      みえない　どうぐに　はんのうして ばしょを　おしえてくれる　さいしんの きかい。あたまに　つけて　つかう。 |
+|  465       19 |  |  3 |      보이지 않는 도구에 반응해서 장소를 가르쳐주는 최신 기계. 머리에 쓰고 사용한다. |
+|  465       19 |  |  4 |      會對看不見的道具起反應， 並將它的位置告訴你的最尖端機器。 戴在頭上使用。 |
+|  465       19 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles. Il se porte sur la tête. |
+|  465       19 |  |  6 |      Scannt die Umgebung nach unsichtbaren Items und zeigt an, wo diese sich befinden. Es wird auf dem Kopf getragen. |
+|  465       19 |  |  7 |      Aparato de precisión que reacciona ante objetos que no se ven. Para usarlo, es necesario colocárselo en la cabeza. |
+|  465       19 |  |  8 |      Dispositivo ultramoderno che rileva la presenza di strumenti non visibili a occhio nudo. Si indossa sulla testa. |
+|  465       19 |  |  9 |      A high-tech machine that shows the location of invisible items. It's attached to the head when in use. |
+|  465       19 |  |  11 |     みえない　道具に　反応して 場所を　教えてくれる　最新の　機械。 頭に　つけて　使う。 |
+|  465       19 |  |  12 |     会对看不见的道具起反应， 并将它的位置告诉你的最尖端机器。 戴在头上使用。 |
+|  465       20 |  |  1 |      みえない　どうぐに　はんのうして ばしょを　おしえてくれる　さいしんの きかい。あたまに　つけて　つかう。 |
+|  465       20 |  |  3 |      보이지 않는 도구에 반응해서 장소를 가르쳐주는 최신 기계. 머리에 쓰고 사용한다. |
+|  465       20 |  |  4 |      會對看不見的道具起反應， 並將它的位置告訴你的最尖端機器。 戴在頭上使用。 |
+|  465       20 |  |  5 |      Un appareil high-tech qui indique l'emplacement des objets invisibles. Il se porte sur la tête. |
+|  465       20 |  |  6 |      Scannt die Umgebung nach unsichtbaren Items und zeigt an, wo diese sich befinden. Es wird auf dem Kopf getragen. |
+|  465       20 |  |  7 |      Aparato de precisión que reacciona ante objetos que no se ven. Para usarlo, es necesario colocárselo en la cabeza. |
+|  465       20 |  |  8 |      Dispositivo ultramoderno che rileva la presenza di strumenti non visibili a occhio nudo. Si indossa sulla testa. |
+|  465       20 |  |  9 |      A high-tech machine that shows the location of invisible items. It's attached to the head when in use. |
+|  465       20 |  |  11 |     みえない　道具に　反応して 場所を　教えてくれる　最新の　機械。 頭に　つけて　使う。 |
+|  465       20 |  |  12 |     会对看不见的道具起反应， 并将它的位置告诉你的最尖端机器。 戴在头上使用。 |
+|  466       10 |  |  9 |      A famous candy in Mahogany Town. Many tourists like to buy them to take home. |
+|  466       11 |  |  5 |      Un bonbon, spécialité d'Acajou. Il constitue un cadeau très réputé. |
+|  466       11 |  |  9 |      A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points. |
+|  466       14 |  |  9 |      A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points. |
+|  466       15 |  |  1 |      チョウジめいぶつの　まんじゅう。 おみやげひん　として　ゆうめい。 |
+|  466       15 |  |  3 |      황토마을의 명물인 호두과자. 선물로 아주 유명하다. |
+|  466       15 |  |  5 |      Un bonbon, spécialité d'Acajou. Il constitue un cadeau très réputé. |
+|  466       15 |  |  6 |      Eine Spezialität aus Mahagonia City. Sie wird gern als Souvenir gekauft. |
+|  466       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en conexión. |
+|  466       15 |  |  8 |      Caramella tipica di Mogania. Souvenir dall'ottima reputazione. |
+|  466       15 |  |  9 |      Mahogany Town's famous candy. When consumed, it restores 20 HP to an injured Pokémon. |
+|  466       15 |  |  11 |     ジョウト地方　にある チョウジタウン名物の　まんじゅう。 お土産品として　有名。 |
+|  466       17 |  |  1 |      チョウジめいぶつの　まんじゅう。 ポケモン　１ひきの　じょうたいの いじょうを　すべて　かいふくする。 |
+|  466       17 |  |  3 |      황토마을의 명물인 호두과자. 포켓몬 1마리의 상태 이상을 모두 회복한다. |
+|  466       17 |  |  4 |      卡吉鎮特產的饅頭。 能治癒１隻寶可夢的 所有異常狀態。 |
+|  466       17 |  |  5 |      Un bonbon, spécialité d'Acajou. Soigne tous les problèmes de statut d'un Pokémon. |
+|  466       17 |  |  6 |      Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt. |
+|  466       17 |  |  7 |      Caramelo típico de Pueblo Caoba. Cura todos los problemas de estado de un Pokémon. |
+|  466       17 |  |  8 |      Caramella tipica di Mogania. Cura tutti i problemi di stato di un Pokémon. |
+|  466       17 |  |  9 |      Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon. |
+|  466       17 |  |  11 |     チョウジタウン名物の　まんじゅう。 ポケモン　１匹の　状態の 異常を　すべて　回復する。 |
+|  466       17 |  |  12 |     卡吉镇特产的馒头。 能治愈１只宝可梦的 所有异常状态。 |
+|  466       18 |  |  1 |      チョウジめいぶつの　まんじゅう。 ポケモン　１ひきの　じょうたいの いじょうを　すべて　かいふくする。 |
+|  466       18 |  |  3 |      황토마을의 명물인 호두과자. 포켓몬 1마리의 상태 이상을 모두 회복한다. |
+|  466       18 |  |  4 |      卡吉鎮特產的饅頭。 能治癒１隻寶可夢的 所有異常狀態。 |
+|  466       18 |  |  5 |      Un bonbon, spécialité d'Acajou. Soigne tous les problèmes de statut d'un Pokémon. |
+|  466       18 |  |  6 |      Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt. |
+|  466       18 |  |  7 |      Caramelo típico de Pueblo Caoba. Cura todos los problemas de estado de un Pokémon. |
+|  466       18 |  |  8 |      Caramella tipica di Mogania. Cura tutti i problemi di stato di un Pokémon. |
+|  466       18 |  |  9 |      Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon. |
+|  466       18 |  |  11 |     チョウジタウン名物の　まんじゅう。 ポケモン　１匹の　状態の 異常を　すべて　回復する。 |
+|  466       18 |  |  12 |     卡吉镇特产的馒头。 能治愈１只宝可梦的 所有异常状态。 |
+|  466       19 |  |  1 |      チョウジめいぶつの　まんじゅう。 ポケモン　１ひきの　じょうたいの いじょうを　すべて　かいふくする。 |
+|  466       19 |  |  3 |      황토마을의 명물인 호두과자. 포켓몬 1마리의 상태 이상을 모두 회복한다. |
+|  466       19 |  |  4 |      卡吉鎮特產的饅頭。 能治癒１隻寶可夢的 所有異常狀態。 |
+|  466       19 |  |  5 |      Un bonbon, spécialité d'Acajou. Soigne toutes les altérations de statut d'un Pokémon. |
+|  466       19 |  |  6 |      Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt. |
+|  466       19 |  |  7 |      Caramelo típico de Pueblo Caoba. Cura todos los problemas de estado de un Pokémon. |
+|  466       19 |  |  8 |      Caramella tipica di Mogania. Cura tutti i problemi di stato di un Pokémon. |
+|  466       19 |  |  9 |      Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon. |
+|  466       19 |  |  11 |     チョウジタウン名物の　まんじゅう。 ポケモン　１匹の　状態の 異常を　すべて　回復する。 |
+|  466       19 |  |  12 |     卡吉镇特产的馒头。 能治愈１只宝可梦的 所有异常状态。 |
+|  466       20 |  |  1 |      チョウジめいぶつの　まんじゅう。 ポケモン　１ひきの　じょうたいの いじょうを　すべて　かいふくする。 |
+|  466       20 |  |  3 |      황토마을의 명물인 호두과자. 포켓몬 1마리의 상태 이상을 모두 회복한다. |
+|  466       20 |  |  4 |      卡吉鎮特產的饅頭。 能治癒１隻寶可夢的 所有異常狀態。 |
+|  466       20 |  |  5 |      Un bonbon, spécialité d'Acajou. Soigne toutes les altérations de statut d'un Pokémon. |
+|  466       20 |  |  6 |      Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt. |
+|  466       20 |  |  7 |      Caramelo típico de Pueblo Caoba. Cura todos los problemas de estado de un Pokémon. |
+|  466       20 |  |  8 |      Caramella tipica di Mogania. Cura tutti i problemi di stato di un Pokémon. |
+|  466       20 |  |  9 |      Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon. |
+|  466       20 |  |  11 |     チョウジタウン名物の　まんじゅう。 ポケモン　１匹の　状態の 異常を　すべて　回復する。 |
+|  466       20 |  |  12 |     卡吉镇特产的馒头。 能治愈１只宝可梦的 所有异常状态。 |
+|  467       5 |  |   9 |      A red, glowing orb said to contain an ancient power. |
+|  467       6 |  |   9 |      A red, glowing orb said to contain an ancient power. |
+|  467       7 |  |   9 |      An orb that glows red. It is said to contain an incredible power from ancient times. |
+|  467       10 |  |  9 |      A shiny red orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  467       11 |  |  5 |      Un orbe incarnat dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  467       11 |  |  9 |      A shiny red orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  467       14 |  |  9 |      A shiny red orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  467       15 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       15 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬. |
+|  467       15 |  |  5 |      Un orbe incarnat dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  467       15 |  |  6 |      Eine rot schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  467       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon. |
+|  467       15 |  |  8 |      Sfera con riflessi rossi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  467       15 |  |  9 |      A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  467       15 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       17 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       17 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬. |
+|  467       17 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著紅色光輝的寶珠。 |
+|  467       17 |  |  5 |      Une gemme incarnate dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  467       17 |  |  6 |      Ein rot schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  467       17 |  |  7 |      Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  467       17 |  |  8 |      Gemma con riflessi rossi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  467       17 |  |  9 |      A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  467       17 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       17 |  |  12 |     散发着红色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  467       18 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       18 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬. |
+|  467       18 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著紅色光輝的寶珠。 |
+|  467       18 |  |  5 |      Une gemme incarnate dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  467       18 |  |  6 |      Ein rot schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  467       18 |  |  7 |      Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  467       18 |  |  8 |      Gemma con riflessi rossi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  467       18 |  |  9 |      A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  467       18 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       18 |  |  12 |     散发着红色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  467       19 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       19 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬. |
+|  467       19 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著紅色光輝的寶珠。 |
+|  467       19 |  |  5 |      Une gemme incarnate dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  467       19 |  |  6 |      Ein rot schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  467       19 |  |  7 |      Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  467       19 |  |  8 |      Gemma con riflessi rossi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  467       19 |  |  9 |      A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  467       19 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       19 |  |  12 |     散发着红色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  467       20 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       20 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬. |
+|  467       20 |  |  4 |      散發著紅色光輝的寶珠。 據說和豐緣地區的傳說 有著很深的淵源。 |
+|  467       20 |  |  5 |      Une gemme incarnate dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  467       20 |  |  6 |      Ein rot schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  467       20 |  |  7 |      Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  467       20 |  |  8 |      Gemma con riflessi rossi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  467       20 |  |  9 |      A shiny red orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  467       20 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あかく　かがやく　たま。 |
+|  467       20 |  |  12 |     散发着红色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  468       5 |  |   9 |      A blue, glowing orb said to contain an ancient power. |
+|  468       6 |  |   9 |      A blue, glowing orb said to contain an ancient power. |
+|  468       7 |  |   9 |      An orb that glows blue. It is said to contain an incredible power from ancient times. |
+|  468       10 |  |  9 |      A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  468       11 |  |  5 |      Un orbe céruléen dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  468       11 |  |  9 |      A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  468       14 |  |  9 |      A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  468       15 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       15 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬. |
+|  468       15 |  |  5 |      Un orbe céruléen dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  468       15 |  |  6 |      Eine blau schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  468       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon. |
+|  468       15 |  |  8 |      Sfera con riflessi blu, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  468       15 |  |  9 |      A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  468       15 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       17 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       17 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬. |
+|  468       17 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著藍色光輝的寶珠。 |
+|  468       17 |  |  5 |      Une gemme céruléenne dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  468       17 |  |  6 |      Ein blau schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  468       17 |  |  7 |      Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn. |
+|  468       17 |  |  8 |      Gemma con riflessi blu, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  468       17 |  |  9 |      A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  468       17 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       17 |  |  12 |     散发着蓝色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  468       18 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       18 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬. |
+|  468       18 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著藍色光輝的寶珠。 |
+|  468       18 |  |  5 |      Une gemme céruléenne dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  468       18 |  |  6 |      Ein blau schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  468       18 |  |  7 |      Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn. |
+|  468       18 |  |  8 |      Gemma con riflessi blu, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  468       18 |  |  9 |      A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  468       18 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       18 |  |  12 |     散发着蓝色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  468       19 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       19 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬. |
+|  468       19 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著藍色光輝的寶珠。 |
+|  468       19 |  |  5 |      Une gemme céruléenne dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  468       19 |  |  6 |      Ein blau schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  468       19 |  |  7 |      Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn. |
+|  468       19 |  |  8 |      Gemma con riflessi blu, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  468       19 |  |  9 |      A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  468       19 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       19 |  |  12 |     散发着蓝色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  468       20 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       20 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬. |
+|  468       20 |  |  4 |      散發著藍色光輝的寶珠。 據說和豐緣地區的傳說 有著很深的淵源。 |
+|  468       20 |  |  5 |      Une gemme céruléenne dont on dit qu'elle a un lien très étroit avec les légendes de Hoenn. |
+|  468       20 |  |  6 |      Ein blau schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird. |
+|  468       20 |  |  7 |      Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn. |
+|  468       20 |  |  8 |      Gemma con riflessi blu, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  468       20 |  |  9 |      A shiny blue orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  468       20 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる あおく　かがやく　たま。 |
+|  468       20 |  |  12 |     散发着蓝色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  469       10 |  |  9 |      A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  469       11 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       11 |  |  9 |      A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  469       14 |  |  9 |      A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region. |
+|  469       15 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       15 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬. |
+|  469       15 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       15 |  |  6 |      Eine grün schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  469       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon. |
+|  469       15 |  |  8 |      Sfera con riflessi verdi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  469       15 |  |  9 |      A shiny green orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  469       15 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       17 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       17 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬. |
+|  469       17 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著綠色光輝的寶珠。 |
+|  469       17 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       17 |  |  6 |      Eine grün schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  469       17 |  |  7 |      Esfera glauca de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  469       17 |  |  8 |      Sfera con riflessi verdi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  469       17 |  |  9 |      A shiny green orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  469       17 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       17 |  |  12 |     散发着绿色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  469       18 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       18 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬. |
+|  469       18 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著綠色光輝的寶珠。 |
+|  469       18 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       18 |  |  6 |      Eine grün schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  469       18 |  |  7 |      Esfera glauca de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  469       18 |  |  8 |      Sfera con riflessi verdi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  469       18 |  |  9 |      A shiny green orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  469       18 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       18 |  |  12 |     散发着绿色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  469       19 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       19 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬. |
+|  469       19 |  |  4 |      據說和豐緣地區的傳說 有著很深淵源的， 散發著綠色光輝的寶珠。 |
+|  469       19 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       19 |  |  6 |      Eine grün schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  469       19 |  |  7 |      Esfera glauca de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  469       19 |  |  8 |      Sfera con riflessi verdi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  469       19 |  |  9 |      A shiny green orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  469       19 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       19 |  |  12 |     散发着绿色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  469       20 |  |  1 |      ホウエンちほうの　でんせつと ふかい　かかわりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       20 |  |  3 |      호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬. |
+|  469       20 |  |  4 |      散發著綠色光輝的寶珠。 據說和豐緣地區的傳說 有著很深的淵源。 |
+|  469       20 |  |  5 |      Un orbe viride dont on dit qu'il a un lien très étroit avec les légendes de Hoenn. |
+|  469       20 |  |  6 |      Eine grün schimmernde Kugel, von der in den Legenden der Hoenn-Region berichtet wird. |
+|  469       20 |  |  7 |      Esfera glauca de la que se dice que guarda una estrecha relación con las leyendas de Hoenn. |
+|  469       20 |  |  8 |      Sfera con riflessi verdi, che pare essere strettamente legata alle leggende della regione di Hoenn. |
+|  469       20 |  |  9 |      A shiny green orb that is said to have a legend tied to it. It's known to have a deep connection with the Hoenn region. |
+|  469       20 |  |  11 |     ホウエン地方の　伝説と 深い　関わりが　あると　いわれる みどりいろに　かがやく　たま。 |
+|  469       20 |  |  12 |     散发着绿色光辉的宝珠。 据说和丰缘地区的传说渊源颇深。 |
+|  470       10 |  |  9 |      A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth. |
+|  470       11 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       11 |  |  9 |      A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth. |
+|  470       14 |  |  9 |      A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth. |
+|  470       15 |  |  1 |      じめんから　ほりだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       15 |  |  3 |      땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다. |
+|  470       15 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       15 |  |  6 |      Eine kristallene Kugel, die aus der Erde geborgen wurde. Schmutz und Gestein konnten ihrer Schönheit nichts anhaben. |
+|  470       15 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon. |
+|  470       15 |  |  8 |      Cristallo appena estratto dal suolo. Bellissimo malgrado sia ancora ricoperto di resti di roccia e terra. |
+|  470       15 |  |  9 |      A crystal ball that was excavated from the ground. It's a very beautiful stone that is covered with bits of rock and earth. |
+|  470       15 |  |  11 |     地面から　掘りだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       17 |  |  1 |      じめんから　ほりだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       17 |  |  3 |      땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다. |
+|  470       17 |  |  4 |      從地下挖出的水晶球。 雖然表面覆蓋著岩石和塵土， 但非常漂亮。 |
+|  470       17 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       17 |  |  6 |      Eine kristallene Kugel, die aus der Erde geborgen wurde. Schmutz und Gestein konnten ihrer Schönheit nichts anhaben. |
+|  470       17 |  |  7 |      Esfera cristalina encontrada bajo tierra. A pesar de estar cubierta de roca y tierra, su belleza es increíble. |
+|  470       17 |  |  8 |      Cristallo appena estratto dal suolo. Bellissimo malgrado sia ancora ricoperto di resti di roccia e terra. |
+|  470       17 |  |  9 |      A crystal ball that was excavated from the ground. It's a very beautiful stone that is covered with bits of rock and earth. |
+|  470       17 |  |  11 |     地面から　掘りだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       17 |  |  12 |     从地下挖出的水晶球。 虽然表面覆盖着岩石和尘土， 但非常漂亮。 |
+|  470       18 |  |  1 |      じめんから　ほりだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       18 |  |  3 |      땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다. |
+|  470       18 |  |  4 |      從地下挖出的水晶球。 雖然表面覆蓋著岩石和塵土， 但非常漂亮。 |
+|  470       18 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       18 |  |  6 |      Eine kristallene Kugel, die aus der Erde geborgen wurde. Schmutz und Gestein konnten ihrer Schönheit nichts anhaben. |
+|  470       18 |  |  7 |      Esfera cristalina encontrada bajo tierra. A pesar de estar cubierta de roca y tierra, su belleza es increíble. |
+|  470       18 |  |  8 |      Cristallo appena estratto dal suolo. Bellissimo malgrado sia ancora ricoperto di resti di roccia e terra. |
+|  470       18 |  |  9 |      A crystal ball that was excavated from the ground. It's a very beautiful stone that is covered with bits of rock and earth. |
+|  470       18 |  |  11 |     地面から　掘りだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       18 |  |  12 |     从地下挖出的水晶球。 虽然表面覆盖着岩石和尘土， 但非常漂亮。 |
+|  470       19 |  |  1 |      じめんから　ほりだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       19 |  |  3 |      땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다. |
+|  470       19 |  |  4 |      從地下挖出的水晶球。 雖然表面覆蓋著岩石和塵土， 但非常漂亮。 |
+|  470       19 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       19 |  |  6 |      Eine kristallene Kugel, die aus der Erde geborgen wurde. Schmutz und Gestein konnten ihrer Schönheit nichts anhaben. |
+|  470       19 |  |  7 |      Esfera cristalina encontrada bajo tierra. A pesar de estar cubierta de roca y tierra, su belleza es increíble. |
+|  470       19 |  |  8 |      Cristallo appena estratto dal suolo. Bellissimo malgrado sia ancora ricoperto di resti di roccia e terra. |
+|  470       19 |  |  9 |      A crystal ball that was excavated from the ground. It's a very beautiful stone that is covered with bits of rock and earth. |
+|  470       19 |  |  11 |     地面から　掘りだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       19 |  |  12 |     从地下挖出的水晶球。 虽然表面覆盖着岩石和尘土， 但非常漂亮。 |
+|  470       20 |  |  1 |      じめんから　ほりだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       20 |  |  3 |      땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다. |
+|  470       20 |  |  4 |      從地下挖出的水晶球。 雖然表面覆蓋著岩石和塵土， 但非常漂亮。 |
+|  470       20 |  |  5 |      Un orbe cristallin fraîchement déterré. Il est encore pris dans une gangue de terre et de roche. |
+|  470       20 |  |  6 |      Eine kristallene Kugel, die aus der Erde geborgen wurde. Schmutz und Gestein konnten ihrer Schönheit nichts anhaben. |
+|  470       20 |  |  7 |      Esfera cristalina encontrada bajo tierra. A pesar de estar cubierta de roca y tierra, su belleza es increíble. |
+|  470       20 |  |  8 |      Cristallo appena estratto dal suolo. Bellissimo malgrado sia ancora ricoperto di resti di roccia e terra. |
+|  470       20 |  |  9 |      A crystal ball that was excavated from the ground. It's a very beautiful stone that is covered with bits of rock and earth. |
+|  470       20 |  |  11 |     地面から　掘りだされた すいしょうだま。いわと　つちで おおわれているが　とても　きれい。 |
+|  470       20 |  |  12 |     从地下挖出的水晶球。 虽然表面覆盖着岩石和尘土， 但非常漂亮。 |
+|  471       10 |  |  9 |      A report of all the discovered kinds of UNOWN. |
+|  471       11 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       11 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       14 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       15 |  |  1 |      みつけた　アンノーンの　ようすが きろく　されている　ノート。 |
+|  471       15 |  |  3 |      발견한 안농의 모습이 기록되어 있는 노트. |
+|  471       15 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       15 |  |  6 |      Ein Heft, in dem automatisch Daten zu bereits gefangenen Icognito aufgezeichnet werden. |
+|  471       15 |  |  7 |      Bonguri de color verde y aroma peculiar que recuerda al café tostado. |
+|  471       15 |  |  8 |      Quaderno dove si registrano tutte le forme di Unown catturate. |
+|  471       15 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       15 |  |  11 |     みつけた　アンノーンの　ようすが 記録されている　ノート。 |
+|  471       17 |  |  1 |      みつけた　アンノーンの　ようすが きろく　されている　ノート。 |
+|  471       17 |  |  3 |      발견한 안농의 모습이 기록되어 있는 노트. |
+|  471       17 |  |  4 |      記錄著已找到的 未知圖騰樣子的筆記本。 |
+|  471       17 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       17 |  |  6 |      Ein Heft, in dem automatisch Daten zu bereits gefangenen Icognito aufgezeichnet werden. |
+|  471       17 |  |  7 |      Bloc que almacena la información de los Unown capturados hasta el momento. |
+|  471       17 |  |  8 |      Quaderno dove si registrano tutte le forme di Unown catturate. |
+|  471       17 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       17 |  |  11 |     みつけた　アンノーンの　ようすが 記録されている　ノート。 |
+|  471       17 |  |  12 |     记录着已找到的 未知图腾样子的笔记本。 |
+|  471       18 |  |  1 |      みつけた　アンノーンの　ようすが きろく　されている　ノート。 |
+|  471       18 |  |  3 |      발견한 안농의 모습이 기록되어 있는 노트. |
+|  471       18 |  |  4 |      記錄著已找到的 未知圖騰樣子的筆記本。 |
+|  471       18 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       18 |  |  6 |      Ein Heft, in dem automatisch Daten zu bereits gefangenen Icognito aufgezeichnet werden. |
+|  471       18 |  |  7 |      Bloc que almacena la información de los Unown capturados hasta el momento. |
+|  471       18 |  |  8 |      Quaderno dove si registrano tutte le forme di Unown catturate. |
+|  471       18 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       18 |  |  11 |     みつけた　アンノーンの　ようすが 記録されている　ノート。 |
+|  471       18 |  |  12 |     记录着已找到的 未知图腾样子的笔记本。 |
+|  471       19 |  |  1 |      みつけた　アンノーンの　ようすが きろく　されている　ノート。 |
+|  471       19 |  |  3 |      발견한 안농의 모습이 기록되어 있는 노트. |
+|  471       19 |  |  4 |      記錄著已找到的 未知圖騰樣子的筆記本。 |
+|  471       19 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       19 |  |  6 |      Ein Heft, in dem automatisch Daten zu bereits gefangenen Icognito aufgezeichnet werden. |
+|  471       19 |  |  7 |      Bloc que almacena la información de los Unown capturados hasta el momento. |
+|  471       19 |  |  8 |      Quaderno dove si registrano tutte le forme di Unown catturate. |
+|  471       19 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       19 |  |  11 |     みつけた　アンノーンの　ようすが 記録されている　ノート。 |
+|  471       19 |  |  12 |     记录着已找到的 未知图腾样子的笔记本。 |
+|  471       20 |  |  1 |      みつけた　アンノーンの　ようすが きろく　されている　ノート。 |
+|  471       20 |  |  3 |      발견한 안농의 모습이 기록되어 있는 노트. |
+|  471       20 |  |  4 |      記錄著已找到的 未知圖騰樣子的筆記本。 |
+|  471       20 |  |  5 |      Un carnet permettant de noter toutes les formes de Zarbi capturées. |
+|  471       20 |  |  6 |      Ein Heft, in dem automatisch Daten zu bereits gefangenen Icognito aufgezeichnet werden. |
+|  471       20 |  |  7 |      Bloc que almacena la información de los Unown capturados hasta el momento. |
+|  471       20 |  |  8 |      Quaderno dove si registrano tutte le forme di Unown catturate. |
+|  471       20 |  |  9 |      A report of all the discovered kinds of Unown. |
+|  471       20 |  |  11 |     みつけた　アンノーンの　ようすが 記録されている　ノート。 |
+|  471       20 |  |  12 |     记录着已找到的 未知图腾样子的笔记本。 |
+|  472       10 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       11 |  |  5 |      Une carte pour accumuler les points de l'émission "Le Mot de Passe de Buena". |
+|  472       11 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       14 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       15 |  |  1 |      「アオイのあいことば」　ばんぐみの ポイントを　ためる　カード。 |
+|  472       15 |  |  3 |      "규화의 암호" 방송의 포인트를 모으는 카드. |
+|  472       15 |  |  5 |      Une carte pour accumuler les points de l'émission « Le Mot de Passe de Buena ». |
+|  472       15 |  |  6 |      Eine Karte, auf der die Punkte für „Passwort mit Buena" festgehalten werden. |
+|  472       15 |  |  7 |      Bonguri de color negro y aroma indescriptible. |
+|  472       15 |  |  8 |      Carta per accumulare i punti del programma "Password Show" di Buena. |
+|  472       15 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       15 |  |  11 |     「アオイのあいことば」　番組の ポイントを　貯める　カード。 |
+|  472       17 |  |  1 |      「アオイのあいことば」　ばんぐみの ポイントを　ためる　カード。 |
+|  472       17 |  |  3 |      "규화의 암호" 방송의 포인트를 모으는 카드. |
+|  472       17 |  |  4 |      可以將《葵妍的密語》 這節目的點數 儲存起來的卡片。 |
+|  472       17 |  |  5 |      Une carte pour accumuler les points de l'émission « Le Mot de Passe de Buena ». |
+|  472       17 |  |  6 |      Eine Karte, auf der die Punkte für „Passwort mit Buena" festgehalten werden. |
+|  472       17 |  |  7 |      Tarjeta para conseguir puntos con el programa de radio Las contraseñas de Buena. |
+|  472       17 |  |  8 |      Carta per accumulare i punti del programma "Password Show" di Buena. |
+|  472       17 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       17 |  |  11 |     「アオイのあいことば」　番組の ポイントを　貯める　カード。 |
+|  472       17 |  |  12 |     可以将《葵妍的密语》 这节目的点数积攒起来的卡片。 |
+|  472       18 |  |  1 |      「アオイのあいことば」　ばんぐみの ポイントを　ためる　カード。 |
+|  472       18 |  |  3 |      "규화의 암호" 방송의 포인트를 모으는 카드. |
+|  472       18 |  |  4 |      可以將《葵妍的密語》 這節目的點數 儲存起來的卡片。 |
+|  472       18 |  |  5 |      Une carte pour accumuler les points de l'émission « Le Mot de Passe de Buena ». |
+|  472       18 |  |  6 |      Eine Karte, auf der die Punkte für „Passwort mit Buena" festgehalten werden. |
+|  472       18 |  |  7 |      Tarjeta para conseguir puntos con el programa de radio Las contraseñas de Buena. |
+|  472       18 |  |  8 |      Carta per accumulare i punti del programma "Password Show" di Buena. |
+|  472       18 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       18 |  |  11 |     「アオイのあいことば」　番組の ポイントを　貯める　カード。 |
+|  472       18 |  |  12 |     可以将《葵妍的密语》 这节目的点数积攒起来的卡片。 |
+|  472       19 |  |  1 |      「アオイのあいことば」　ばんぐみの ポイントを　ためる　カード。 |
+|  472       19 |  |  3 |      "규화의 암호" 방송의 포인트를 모으는 카드. |
+|  472       19 |  |  4 |      可以將《葵妍的密語》 這節目的點數 儲存起來的卡片。 |
+|  472       19 |  |  5 |      Une carte pour accumuler les points de l'émission « Le Mot de Passe de Buena ». |
+|  472       19 |  |  6 |      Eine Karte, auf der die Punkte für „Passwort mit Buena" festgehalten werden. |
+|  472       19 |  |  7 |      Tarjeta para conseguir puntos con el programa de radio Las contraseñas de Buena. |
+|  472       19 |  |  8 |      Carta per accumulare i punti del programma "Password Show" di Buena. |
+|  472       19 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       19 |  |  11 |     「アオイのあいことば」　番組の ポイントを　貯める　カード。 |
+|  472       19 |  |  12 |     可以将《葵妍的密语》 这节目的点数积攒起来的卡片。 |
+|  472       20 |  |  1 |      「アオイのあいことば」　ばんぐみの ポイントを　ためる　カード。 |
+|  472       20 |  |  3 |      "규화의 암호\" 방송의 포인트를 모으는 카드. |
+|  472       20 |  |  4 |      可以將《葵妍的密語》 這節目的點數 儲存起來的卡片。 |
+|  472       20 |  |  5 |      Une carte pour accumuler les points de l'émission « Le Mot de Passe de Buena ». |
+|  472       20 |  |  6 |      Eine Karte, auf der die Punkte für „Passwort mit Buena" festgehalten werden. |
+|  472       20 |  |  7 |      Tarjeta para conseguir puntos con el programa de radio Las contraseñas de Buena. |
+|  472       20 |  |  8 |      Carta per accumulare i punti del programma "Password Show" di Buena. |
+|  472       20 |  |  9 |      A card to save points for the Buena's Password show. |
+|  472       20 |  |  11 |     「アオイのあいことば」　番組の ポイントを　貯める　カード。 |
+|  472       20 |  |  12 |     可以将《葵妍的密语》 这节目的点数积攒起来的卡片。 |
+|  473       10 |  |  9 |      A very tasty tail of something. It sells for a high price. |
+|  473       11 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       11 |  |  9 |      A very tasty tail of something. It sells for a high price. |
+|  473       14 |  |  9 |      A very tasty tail of something. It sells for a high price. |
+|  473       15 |  |  1 |      とても　おいしい　なにかの　しっぽ。 ショップで　たかく　うれる。 |
+|  473       15 |  |  3 |      매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다. |
+|  473       15 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       15 |  |  6 |      Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen. |
+|  473       15 |  |  7 |      Poké Ball algo distinta, especialmente indicada para capturar Pokémon evasivos. |
+|  473       15 |  |  8 |      Coda di origine sconosciuta dal sapore delizioso. Si vende a un prezzo piuttosto alto. |
+|  473       15 |  |  9 |      A very tasty tail of something. It can be sold at a high price to shops. |
+|  473       15 |  |  11 |     とても　おいしい　なにかの　しっぽ。 ショップで　高く　売れる。 |
+|  473       17 |  |  1 |      とても　おいしい　なにかの　しっぽ。 ショップで　たかく　うれる。 |
+|  473       17 |  |  3 |      매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다. |
+|  473       17 |  |  4 |      非常美味的某種尾巴。 可以在商店高價出售。 |
+|  473       17 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       17 |  |  6 |      Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen. |
+|  473       17 |  |  7 |      Sabrosa cola de origen desconocido. Se puede comprar a un precio muy elevado. |
+|  473       17 |  |  8 |      Coda di origine sconosciuta dal sapore delizioso. Si vende a un prezzo piuttosto alto. |
+|  473       17 |  |  9 |      A very tasty tail of something. It can be sold at a high price to shops. |
+|  473       17 |  |  11 |     とても　おいしい　なにかの　しっぽ。 ショップで　高く　売れる。 |
+|  473       17 |  |  12 |     非常美味的某种尾巴。 可以在商店高价出售。 |
+|  473       18 |  |  1 |      とても　おいしい　なにかの　しっぽ。 ショップで　たかく　うれる。 |
+|  473       18 |  |  3 |      매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다. |
+|  473       18 |  |  4 |      非常美味的某種尾巴。 可以在商店高價出售。 |
+|  473       18 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       18 |  |  6 |      Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen. |
+|  473       18 |  |  7 |      Sabrosa cola de origen desconocido. Se puede comprar a un precio muy elevado. |
+|  473       18 |  |  8 |      Coda di origine sconosciuta dal sapore delizioso. Si vende a un prezzo piuttosto alto. |
+|  473       18 |  |  9 |      A very tasty tail of something. It can be sold at a high price to shops. |
+|  473       18 |  |  11 |     とても　おいしい　なにかの　しっぽ。 ショップで　高く　売れる。 |
+|  473       18 |  |  12 |     非常美味的某种尾巴。 可以在商店高价出售。 |
+|  473       19 |  |  1 |      とても　おいしい　なにかの　しっぽ。 ショップで　たかく　うれる。 |
+|  473       19 |  |  3 |      매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다. |
+|  473       19 |  |  4 |      非常美味的某種尾巴。 可以在商店高價出售。 |
+|  473       19 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       19 |  |  6 |      Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen. |
+|  473       19 |  |  7 |      Sabrosa cola de origen desconocido. Se puede comprar a un precio muy elevado. |
+|  473       19 |  |  8 |      Coda di origine sconosciuta dal sapore delizioso. Si vende a un prezzo piuttosto alto. |
+|  473       19 |  |  9 |      A very tasty tail of something. It can be sold at a high price to shops. |
+|  473       19 |  |  11 |     とても　おいしい　なにかの　しっぽ。 ショップで　高く　売れる。 |
+|  473       19 |  |  12 |     非常美味的某种尾巴。 可以在商店高价出售。 |
+|  473       20 |  |  1 |      とても　おいしい　なにかの　しっぽ。 ショップで　たかく　うれる。 |
+|  473       20 |  |  3 |      매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다. |
+|  473       20 |  |  4 |      非常美味的某種尾巴。 可以在商店高價出售。 |
+|  473       20 |  |  5 |      Une queue d'origine inconnue tout à fait savoureuse, vendue très cher. |
+|  473       20 |  |  6 |      Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen. |
+|  473       20 |  |  7 |      Sabrosa cola de origen desconocido. Se puede comprar a un precio muy elevado. |
+|  473       20 |  |  8 |      Coda di origine sconosciuta dal sapore delizioso. Si vende a un prezzo piuttosto alto. |
+|  473       20 |  |  9 |      A very tasty tail of something. It can be sold at a high price to shops. |
+|  473       20 |  |  11 |     とても　おいしい　なにかの　しっぽ。 ショップで　高く　売れる。 |
+|  473       20 |  |  12 |     非常美味的某种尾巴。 可以在商店高价出售。 |
+|  474       10 |  |  9 |      A very old-fashioned bell that makes a gentle ringing. |
+|  474       11 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       11 |  |  9 |      A very old-fashioned bell that makes a gentle ringing. |
+|  474       14 |  |  9 |      A very old-fashioned bell that makes a gentle ringing. |
+|  474       15 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  474       15 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  474       15 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       15 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  474       15 |  |  7 |      Poké Ball algo distinta que funciona especialmente bien con Pokémon de nivel inferior a los que se posee. |
+|  474       15 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  474       15 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  474       15 |  |  11 |     こころ　やすまる　音色が　きける とても　ふるめかしい　スズ。 |
+|  474       17 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  474       17 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  474       17 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  474       17 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       17 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  474       17 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  474       17 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  474       17 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  474       17 |  |  11 |     こころ　やすまる　音色が　きける とても　ふるめかしい　スズ。 |
+|  474       17 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  474       18 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  474       18 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  474       18 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  474       18 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       18 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  474       18 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  474       18 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  474       18 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  474       18 |  |  11 |     こころ　やすまる　音色が　きける とても　ふるめかしい　スズ。 |
+|  474       18 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  474       19 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  474       19 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  474       19 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  474       19 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       19 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  474       19 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  474       19 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  474       19 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  474       19 |  |  11 |     こころ　やすまる　音色が　きける とても　ふるめかしい　スズ。 |
+|  474       19 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  474       20 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  474       20 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  474       20 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  474       20 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  474       20 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  474       20 |  |  7 |      Cascabel de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  474       20 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  474       20 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  474       20 |  |  11 |     こころ　やすまる　音色が　きける とても　ふるめかしい　スズ。 |
+|  474       20 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  475       6 |  |   9 |      A card-type door key used in SILPH CO's office. |
+|  475       7 |  |   9 |      A card-type key that unlocks doors in SILPH CO.'s HEAD OFFICE in SAFFRON CITY. |
+|  475       10 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       11 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       11 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       14 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       15 |  |  1 |      ラジオきょくの　シャッターを　あける カードしきの　カギ。 |
+|  475       15 |  |  3 |      라디오방송국의 셔터를 여는 카드식 열쇠. |
+|  475       15 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       15 |  |  6 |      Eine Schlüsselkarte, die eine Tür im Radioturm öffnet. |
+|  475       15 |  |  7 |      Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una caña. |
+|  475       15 |  |  8 |      Chiave a scheda che apre le porte automatizzate della Torre Radio. |
+|  475       15 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       15 |  |  11 |     ラジオ局の　シャッターを　開ける カード式の　カギ。 |
+|  475       17 |  |  1 |      ラジオきょくの　シャッターを　あける カードしきの　カギ。 |
+|  475       17 |  |  3 |      라디오방송국의 셔터를 여는 카드식 열쇠. |
+|  475       17 |  |  4 |      用來打開電臺鐵捲門的 卡片式鑰匙。 |
+|  475       17 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       17 |  |  6 |      Eine Schlüsselkarte, die eine Tür im Radioturm öffnet. |
+|  475       17 |  |  7 |      Llave con forma de tarjeta que abre las puertas de la Torre Radio. |
+|  475       17 |  |  8 |      Chiave a scheda che apre le porte automatizzate della Torre Radio. |
+|  475       17 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       17 |  |  11 |     ラジオ局の　シャッターを　開ける カード式の　カギ。 |
+|  475       17 |  |  12 |     用来打开电台卷帘门的 卡片式钥匙。 |
+|  475       18 |  |  1 |      ラジオきょくの　シャッターを　あける カードしきの　カギ。 |
+|  475       18 |  |  3 |      라디오방송국의 셔터를 여는 카드식 열쇠. |
+|  475       18 |  |  4 |      用來打開電臺鐵捲門的 卡片式鑰匙。 |
+|  475       18 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       18 |  |  6 |      Eine Schlüsselkarte, die eine Tür im Radioturm öffnet. |
+|  475       18 |  |  7 |      Llave con forma de tarjeta que abre las puertas de la Torre Radio. |
+|  475       18 |  |  8 |      Chiave a scheda che apre le porte automatizzate della Torre Radio. |
+|  475       18 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       18 |  |  11 |     ラジオ局の　シャッターを　開ける カード式の　カギ。 |
+|  475       18 |  |  12 |     用来打开电台卷帘门的 卡片式钥匙。 |
+|  475       19 |  |  1 |      ラジオきょくの　シャッターを　あける カードしきの　カギ。 |
+|  475       19 |  |  3 |      라디오방송국의 셔터를 여는 카드식 열쇠. |
+|  475       19 |  |  4 |      用來打開電臺鐵捲門的 卡片式鑰匙。 |
+|  475       19 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       19 |  |  6 |      Eine Schlüsselkarte, die eine Tür im Radioturm öffnet. |
+|  475       19 |  |  7 |      Llave con forma de tarjeta que abre las puertas de la Torre Radio. |
+|  475       19 |  |  8 |      Chiave a scheda che apre le porte automatizzate della Torre Radio. |
+|  475       19 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       19 |  |  11 |     ラジオ局の　シャッターを　開ける カード式の　カギ。 |
+|  475       19 |  |  12 |     用来打开电台卷帘门的 卡片式钥匙。 |
+|  475       20 |  |  1 |      ラジオきょくの　シャッターを　あける カードしきの　カギ。 |
+|  475       20 |  |  3 |      라디오방송국의 셔터를 여는 카드식 열쇠. |
+|  475       20 |  |  4 |      用來打開電臺鐵捲門的 卡片式鑰匙。 |
+|  475       20 |  |  5 |      Une clé en forme de carte permettant d'ouvrir les cloisons de la Tour Radio. |
+|  475       20 |  |  6 |      Eine Schlüsselkarte, die eine Tür im Radioturm öffnet. |
+|  475       20 |  |  7 |      Llave con forma de tarjeta que abre las puertas de la Torre Radio. |
+|  475       20 |  |  8 |      Chiave a scheda che apre le porte automatizzate della Torre Radio. |
+|  475       20 |  |  9 |      A card key that opens a shutter in the Radio Tower. |
+|  475       20 |  |  11 |     ラジオ局の　シャッターを　開ける カード式の　カギ。 |
+|  475       20 |  |  12 |     用来打开电台卷帘门的 卡片式钥匙。 |
+|  476       5 |  |   9 |      The key for NEW MAUVILLE beneath MAUVILLE CITY. |
+|  476       6 |  |   9 |      The key for NEW MAUVILLE beneath MAUVILLE CITY. |
+|  476       7 |  |   9 |      The key to NEW MAUVILLE, which was constructed beneath MAUVILLE CITY. |
+|  476       10 |  |  9 |      A key that opens a door in the Goldenrod Tunnel. |
+|  476       11 |  |  5 |      Une clé qui permet d'ouvrir la porte au fond du Doublon-Tunnel. |
+|  476       11 |  |  9 |      A key that opens a door in the Goldenrod Tunnel. |
+|  476       14 |  |  9 |      A key that opens a door in the Goldenrod Tunnel. |
+|  476       15 |  |  1 |      コガネちかどうに　ある　とびらを あける　カギ。 |
+|  476       15 |  |  3 |      금빛지하도에 있는 문을 여는 열쇠. |
+|  476       15 |  |  5 |      Une clé qui permet d'ouvrir la porte au fond du Doublon-Tunnel. |
+|  476       15 |  |  6 |      Ein Schlüssel, der eine Tür in der Dukatia- Passage von Dukatia City öffnet. |
+|  476       15 |  |  7 |      Poké Ball algo distinta que funciona especialmente bien a la hora de atrapar Pokémon de mucho peso. |
+|  476       15 |  |  8 |      Chiave che permette di aprire la porta all'interno del Fiortunnel. |
+|  476       15 |  |  9 |      A key that opens a door in the Goldenrod Tunnel. |
+|  476       15 |  |  11 |     コガネ地下道に　ある　扉を 空ける　カギ。 |
+|  476       20 |  |  1 |      コガネちかどうに　ある　とびらを あける　カギ。 |
+|  476       20 |  |  3 |      금빛지하도에 있는 문을 여는 열쇠. |
+|  476       20 |  |  4 |      用來打開滿金地下道的 門的鑰匙。 |
+|  476       20 |  |  5 |      Une clé qui permet d'ouvrir la porte au fond du Doublon-Tunnel. |
+|  476       20 |  |  6 |      Ein Schlüssel, der eine Tür in der Dukatia-Passage von Dukatia City öffnet. |
+|  476       20 |  |  7 |      Llave que abre la puerta que hay en el Túnel Trigal. |
+|  476       20 |  |  8 |      Chiave che permette di aprire la porta all'interno del Fiortunnel. |
+|  476       20 |  |  9 |      A key that opens a door in the Goldenrod Tunnel. |
+|  476       20 |  |  11 |     コガネ地下道に　ある　扉を 空ける　カギ。 |
+|  476       20 |  |  12 |     用来打开满金地道 大门的钥匙。 |
+|  477       10 |  |  9 |      A scale from the red GYARADOS. It glows red like a flame. |
+|  477       11 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       11 |  |  9 |      A scale from the red Gyarados. It glows red like a flame. |
+|  477       14 |  |  9 |      A scale from the red Gyarados. It glows red like a flame. |
+|  477       15 |  |  1 |      いかりのみずうみに　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       15 |  |  3 |      분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다. |
+|  477       15 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       15 |  |  6 |      Eine Schuppe des roten Garados, das im See des Zorns erschienen ist. Sie glänzt rot wie Feuer. |
+|  477       15 |  |  7 |      Poké Ball algo distinta que hace más amistosos a los Pokémon salvajes que se capturan con ella. |
+|  477       15 |  |  8 |      Una squama del Gyarados rosso apparso al Lago d'Ira. È rossa come il fuoco. |
+|  477       15 |  |  9 |      A scale from a red Gyarados. It glows red like a flame. |
+|  477       15 |  |  11 |     怒りの湖に　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       17 |  |  1 |      いかりのみずうみに　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       17 |  |  3 |      분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다. |
+|  477       17 |  |  4 |      在憤怒之湖裡出現的 紅色暴鯉龍的鱗片。 散發著像火一樣的紅色光芒。 |
+|  477       17 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       17 |  |  6 |      Eine Schuppe des roten Garados, das im See des Zorns erschienen ist. Sie glänzt rot wie Feuer. |
+|  477       17 |  |  7 |      Escama del Gyarados aparecido en el Lago de la Furia. Es de un rojo tan intenso como las llamas. |
+|  477       17 |  |  8 |      Una squama del Gyarados rosso apparso al Lago d'Ira. È rossa come il fuoco. |
+|  477       17 |  |  9 |      A scale from a red Gyarados. It glows red like a flame. |
+|  477       17 |  |  11 |     怒りの湖に　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       17 |  |  12 |     在愤怒之湖里出现的 红色暴鲤龙的鳞片。 散发着像火一样的红色光芒。 |
+|  477       18 |  |  1 |      いかりのみずうみに　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       18 |  |  3 |      분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다. |
+|  477       18 |  |  4 |      在憤怒之湖裡出現的 紅色暴鯉龍的鱗片。 散發著像火一樣的紅色光芒。 |
+|  477       18 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       18 |  |  6 |      Eine Schuppe des roten Garados, das im See des Zorns erschienen ist. Sie glänzt rot wie Feuer. |
+|  477       18 |  |  7 |      Escama del Gyarados aparecido en el Lago de la Furia. Es de un rojo tan intenso como las llamas. |
+|  477       18 |  |  8 |      Una squama del Gyarados rosso apparso al Lago d'Ira. È rossa come il fuoco. |
+|  477       18 |  |  9 |      A scale from a red Gyarados. It glows red like a flame. |
+|  477       18 |  |  11 |     怒りの湖に　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       18 |  |  12 |     在愤怒之湖里出现的 红色暴鲤龙的鳞片。 散发着像火一样的红色光芒。 |
+|  477       19 |  |  1 |      いかりのみずうみに　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       19 |  |  3 |      분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다. |
+|  477       19 |  |  4 |      在憤怒之湖裡出現的 紅色暴鯉龍的鱗片。 散發著像火一樣的紅色光芒。 |
+|  477       19 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       19 |  |  6 |      Eine Schuppe des roten Garados, das im See des Zorns erschienen ist. Sie glänzt rot wie Feuer. |
+|  477       19 |  |  7 |      Escama del Gyarados aparecido en el Lago de la Furia. Es de un rojo tan intenso como las llamas. |
+|  477       19 |  |  8 |      Una squama del Gyarados rosso apparso al Lago d'Ira. È rossa come il fuoco. |
+|  477       19 |  |  9 |      A scale from a red Gyarados. It glows red like a flame. |
+|  477       19 |  |  11 |     怒りの湖に　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       19 |  |  12 |     在愤怒之湖里出现的 红色暴鲤龙的鳞片。 散发着像火一样的红色光芒。 |
+|  477       20 |  |  1 |      いかりのみずうみに　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       20 |  |  3 |      분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다. |
+|  477       20 |  |  4 |      在憤怒之湖裡出現的 紅色暴鯉龍的鱗片。 散發著像火一樣的紅色光芒。 |
+|  477       20 |  |  5 |      Une écaille du Léviator apparu au Lac Colère. Elle rougeoie comme une flamme. |
+|  477       20 |  |  6 |      Eine Schuppe des roten Garados, das im See des Zorns erschienen ist. Sie glänzt rot wie Feuer. |
+|  477       20 |  |  7 |      Escama del Gyarados aparecido en el Lago de la Furia. Es de un rojo tan intenso como las llamas. |
+|  477       20 |  |  8 |      Una squama del Gyarados rosso apparso al Lago d'Ira. È rossa come il fuoco. |
+|  477       20 |  |  9 |      A scale from a red Gyarados. It glows red like a flame. |
+|  477       20 |  |  11 |     怒りの湖に　あらわれた あかい　ギャラドスの　ウロコ。 ほのおのように　あかく　かがやく。 |
+|  477       20 |  |  12 |     在愤怒之湖里出现的 红色暴鲤龙的鳞片。 散发着像火一样的红色光芒。 |
+|  478       10 |  |  9 |      The Poké Doll lost by the Copycat. |
+|  478       11 |  |  5 |      Poupée Mime Jr. perdue par la Copieuse. |
+|  478       11 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       14 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       15 |  |  1 |      モノマネむすめが　なくした マネネの　にんぎょう。 |
+|  478       15 |  |  3 |      흉내내기 아가씨가 잃어버린 흉내내인형. |
+|  478       15 |  |  5 |      La Poupée Mime Jr. perdue par la Copieuse. |
+|  478       15 |  |  6 |      Eine Pantimimi-Puppe, welche die Nachahmerin verloren hat. |
+|  478       15 |  |  7 |      Poké Ball algo distinta que atrapa con más facilidad los Pokémon que evolucionan con la Piedra Lunar. |
+|  478       15 |  |  8 |      Poké Bambola raffigurante Mime Jr. smarrita da Copiona. |
+|  478       15 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       15 |  |  11 |     モノマネ娘が　なくした マネネの　人形。 |
+|  478       17 |  |  1 |      モノマネむすめが　なくした マネネの　にんぎょう。 |
+|  478       17 |  |  3 |      흉내내기 아가씨가 잃어버린 흉내내인형. |
+|  478       17 |  |  4 |      模仿少女丟失的 魔尼尼人偶。 |
+|  478       17 |  |  5 |      La Poupée Mime Jr. perdue par la Copieuse. |
+|  478       17 |  |  6 |      Eine Pantimimi-Puppe, welche die Nachahmerin verloren hat. |
+|  478       17 |  |  7 |      El muñeco Mime Jr. que perdió la Copiona. |
+|  478       17 |  |  8 |      Pupazzo raffigurante Mime Jr. smarrito da Copiona. |
+|  478       17 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       17 |  |  11 |     モノマネ娘が　なくした マネネの　人形。 |
+|  478       17 |  |  12 |     模仿少女丢失的 魔尼尼人偶。 |
+|  478       18 |  |  1 |      モノマネむすめが　なくした マネネの　にんぎょう。 |
+|  478       18 |  |  3 |      흉내내기 아가씨가 잃어버린 흉내내인형. |
+|  478       18 |  |  4 |      模仿少女丟失的 魔尼尼人偶。 |
+|  478       18 |  |  5 |      La Poupée Mime Jr. perdue par la Copieuse. |
+|  478       18 |  |  6 |      Eine Pantimimi-Puppe, welche die Nachahmerin verloren hat. |
+|  478       18 |  |  7 |      El muñeco Mime Jr. que perdió la Copiona. |
+|  478       18 |  |  8 |      Pupazzo raffigurante Mime Jr. smarrito da Copiona. |
+|  478       18 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       18 |  |  11 |     モノマネ娘が　なくした マネネの　人形。 |
+|  478       18 |  |  12 |     模仿少女丢失的 魔尼尼人偶。 |
+|  478       19 |  |  1 |      モノマネむすめが　なくした マネネの　にんぎょう。 |
+|  478       19 |  |  3 |      흉내내기 아가씨가 잃어버린 흉내내인형. |
+|  478       19 |  |  4 |      模仿少女丟失的 魔尼尼人偶。 |
+|  478       19 |  |  5 |      La Poupée Mime Jr. perdue par la Copieuse. |
+|  478       19 |  |  6 |      Eine Pantimimi-Puppe, welche die Nachahmerin verloren hat. |
+|  478       19 |  |  7 |      El muñeco Mime Jr. que perdió la Copiona. |
+|  478       19 |  |  8 |      Pupazzo raffigurante Mime Jr. smarrito da Copiona. |
+|  478       19 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       19 |  |  11 |     モノマネ娘が　なくした マネネの　人形。 |
+|  478       19 |  |  12 |     模仿少女丢失的 魔尼尼人偶。 |
+|  478       20 |  |  1 |      モノマネむすめが　なくした マネネの　にんぎょう。 |
+|  478       20 |  |  3 |      흉내내기 아가씨가 잃어버린 흉내내인형. |
+|  478       20 |  |  4 |      模仿少女丟失的 魔尼尼人偶。 |
+|  478       20 |  |  5 |      La Poupée Mime Jr. perdue par la Copieuse. |
+|  478       20 |  |  6 |      Eine Pantimimi-Puppe, welche die Nachahmerin verloren hat. |
+|  478       20 |  |  7 |      El muñeco Mime Jr. que perdió la Copiona. |
+|  478       20 |  |  8 |      Pupazzo raffigurante Mime Jr. smarrito da Copiona. |
+|  478       20 |  |  9 |      The Mime Jr. doll that was lost by the Copycat. |
+|  478       20 |  |  11 |     モノマネ娘が　なくした マネネの　人形。 |
+|  478       20 |  |  12 |     模仿少女丢失的 魔尼尼人偶。 |
+|  479       10 |  |  9 |      A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       11 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       11 |  |  9 |      A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       14 |  |  9 |      A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       15 |  |  1 |      リニアカーに　のるときに　ひつような チケット。　いつでも　のりほうだい。 |
+|  479       15 |  |  3 |      리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능. |
+|  479       15 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       15 |  |  6 |      Eine Fahrkarte, die einem die Reise mit dem Magnetzug ermöglicht. Gilt für beliebig viele Fahrten. |
+|  479       15 |  |  7 |      Poké Ball que se utiliza en el Concurso de Captura de Bichos. |
+|  479       15 |  |  8 |      Biglietto necessario per viaggiare sul supertreno. Utilizzabile a volontà. |
+|  479       15 |  |  9 |      A pass required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       15 |  |  11 |     リニアカーに　乗るときに　必要な チケット。　いつでも　乗り放題。 |
+|  479       17 |  |  1 |      リニアカーに　のるときに　ひつような チケット。　いつでも　のりほうだい。 |
+|  479       17 |  |  3 |      리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능. |
+|  479       17 |  |  4 |      乘坐磁浮列車時所需的車票。 可以隨時自由乘坐。 |
+|  479       17 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       17 |  |  6 |      Eine Fahrkarte, die einem die Reise mit dem Magnetzug ermöglicht. Gilt für beliebig viele Fahrten. |
+|  479       17 |  |  7 |      Billete necesario para poder montar todas las veces que se desee en el Magnetotrén. |
+|  479       17 |  |  8 |      Biglietto necessario per viaggiare sul supertreno. Utilizzabile a volontà. |
+|  479       17 |  |  9 |      A pass required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       17 |  |  11 |     リニアカーに　乗るときに　必要な チケット。　いつでも　乗り放題。 |
+|  479       17 |  |  12 |     乘坐磁浮列车时所需的车票。 可以随时自由乘坐。 |
+|  479       18 |  |  1 |      リニアカーに　のるときに　ひつような チケット。　いつでも　のりほうだい。 |
+|  479       18 |  |  3 |      리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능. |
+|  479       18 |  |  4 |      乘坐磁浮列車時所需的車票。 可以隨時自由乘坐。 |
+|  479       18 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       18 |  |  6 |      Eine Fahrkarte, die einem die Reise mit dem Magnetzug ermöglicht. Gilt für beliebig viele Fahrten. |
+|  479       18 |  |  7 |      Billete necesario para poder montar todas las veces que se desee en el Magnetotrén. |
+|  479       18 |  |  8 |      Biglietto necessario per viaggiare sul supertreno. Utilizzabile a volontà. |
+|  479       18 |  |  9 |      A pass required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       18 |  |  11 |     リニアカーに　乗るときに　必要な チケット。　いつでも　乗り放題。 |
+|  479       18 |  |  12 |     乘坐磁浮列车时所需的车票。 可以随时自由乘坐。 |
+|  479       19 |  |  1 |      リニアカーに　のるときに　ひつような チケット。　いつでも　のりほうだい。 |
+|  479       19 |  |  3 |      리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능. |
+|  479       19 |  |  4 |      乘坐磁浮列車時所需的車票。 可以隨時自由乘坐。 |
+|  479       19 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       19 |  |  6 |      Eine Fahrkarte, die einem die Reise mit dem Magnetzug ermöglicht. Gilt für beliebig viele Fahrten. |
+|  479       19 |  |  7 |      Billete necesario para poder montar todas las veces que se desee en el Magnetotrén. |
+|  479       19 |  |  8 |      Biglietto necessario per viaggiare sul supertreno. Utilizzabile a volontà. |
+|  479       19 |  |  9 |      A pass required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       19 |  |  11 |     リニアカーに　乗るときに　必要な チケット。　いつでも　乗り放題。 |
+|  479       19 |  |  12 |     乘坐磁浮列车时所需的车票。 可以随时自由乘坐。 |
+|  479       20 |  |  1 |      リニアカーに　のるときに　ひつような チケット。　いつでも　のりほうだい。 |
+|  479       20 |  |  3 |      리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능. |
+|  479       20 |  |  4 |      乘坐磁浮列車時所需的車票。 可以隨時自由乘坐。 |
+|  479       20 |  |  5 |      Un ticket nécessaire pour monter à bord du Train Magnétique. Utilisable à volonté. |
+|  479       20 |  |  6 |      Eine Fahrkarte, die einem die Reise mit dem Magnetzug ermöglicht. Gilt für beliebig viele Fahrten. |
+|  479       20 |  |  7 |      Billete necesario para poder montar todas las veces que se desee en el Magnetotrén. |
+|  479       20 |  |  8 |      Biglietto necessario per viaggiare sul supertreno. Utilizzabile a volontà. |
+|  479       20 |  |  9 |      A pass required for riding the Magnet Train. It allows you to ride whenever and however much you'd like. |
+|  479       20 |  |  11 |     リニアカーに　乗るときに　必要な チケット。　いつでも　乗り放題。 |
+|  479       20 |  |  12 |     乘坐磁浮列车时所需的车票。 可以随时自由乘坐。 |
+|  480       10 |  |  9 |      An important machine part for the Power Plant that was stolen. |
+|  480       11 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       11 |  |  9 |      An important machine part for the Power Plant that was stolen. |
+|  480       14 |  |  9 |      An important machine part for the Power Plant that was stolen. |
+|  480       15 |  |  1 |      はつでんしょから　ぬすまれた はつでんきの　たいせつな　ぶひん。 |
+|  480       15 |  |  3 |      발전소에서 도둑맞은 발전기의 중요한 부품. |
+|  480       15 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       15 |  |  6 |      Ein unentbehrliches Maschinenteil, das aus dem Kraftwerk entwendet wurde. |
+|  480       15 |  |  7 |      Poké Ball que se utiliza dentro del Parque Compi. |
+|  480       15 |  |  8 |      Pezzo rubato alla Centrale Elettrica, essenziale per il generatore. |
+|  480       15 |  |  9 |      An important part of a machine that was stolen from the Power Plant. |
+|  480       15 |  |  11 |     発電所から　ぬすまれた 発電機の　たいせつな　部品。 |
+|  480       17 |  |  1 |      はつでんしょから　ぬすまれた はつでんきの　たいせつな　ぶひん。 |
+|  480       17 |  |  3 |      발전소에서 도둑맞은 발전기의 중요한 부품. |
+|  480       17 |  |  4 |      被人從發電廠裡偷走的 發電機的重要零件。 |
+|  480       17 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       17 |  |  6 |      Ein unentbehrliches Maschinenteil, das aus dem Kraftwerk entwendet wurde. |
+|  480       17 |  |  7 |      Valiosa pieza robada de una máquina de la Central Energía. |
+|  480       17 |  |  8 |      Pezzo rubato alla Centrale Elettrica, essenziale per il generatore. |
+|  480       17 |  |  9 |      An important part of a machine that was stolen from the Power Plant. |
+|  480       17 |  |  11 |     発電所から　ぬすまれた 発電機の　たいせつな　部品。 |
+|  480       17 |  |  12 |     发电厂里被盗的， 用于发电机的重要零件。 |
+|  480       18 |  |  1 |      はつでんしょから　ぬすまれた はつでんきの　たいせつな　ぶひん。 |
+|  480       18 |  |  3 |      발전소에서 도둑맞은 발전기의 중요한 부품. |
+|  480       18 |  |  4 |      被人從發電廠裡偷走的 發電機的重要零件。 |
+|  480       18 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       18 |  |  6 |      Ein unentbehrliches Maschinenteil, das aus dem Kraftwerk entwendet wurde. |
+|  480       18 |  |  7 |      Valiosa pieza robada de una máquina de la Central Energía. |
+|  480       18 |  |  8 |      Pezzo rubato alla Centrale Elettrica, essenziale per il generatore. |
+|  480       18 |  |  9 |      An important part of a machine that was stolen from the Power Plant. |
+|  480       18 |  |  11 |     発電所から　ぬすまれた 発電機の　たいせつな　部品。 |
+|  480       18 |  |  12 |     发电厂里被盗的， 用于发电机的重要零件。 |
+|  480       19 |  |  1 |      はつでんしょから　ぬすまれた はつでんきの　たいせつな　ぶひん。 |
+|  480       19 |  |  3 |      발전소에서 도둑맞은 발전기의 중요한 부품. |
+|  480       19 |  |  4 |      被人從發電廠裡偷走的 發電機的重要零件。 |
+|  480       19 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       19 |  |  6 |      Ein unentbehrliches Maschinenteil, das aus dem Kraftwerk entwendet wurde. |
+|  480       19 |  |  7 |      Valiosa pieza robada de una máquina de la Central Energía. |
+|  480       19 |  |  8 |      Pezzo rubato alla Centrale Elettrica, essenziale per il generatore. |
+|  480       19 |  |  9 |      An important part of a machine that was stolen from the Power Plant. |
+|  480       19 |  |  11 |     発電所から　ぬすまれた 発電機の　たいせつな　部品。 |
+|  480       19 |  |  12 |     发电厂里被盗的， 用于发电机的重要零件。 |
+|  480       20 |  |  1 |      はつでんしょから　ぬすまれた はつでんきの　たいせつな　ぶひん。 |
+|  480       20 |  |  3 |      발전소에서 도둑맞은 발전기의 중요한 부품. |
+|  480       20 |  |  4 |      被人從發電廠裡偷走的 發電機的重要零件。 |
+|  480       20 |  |  5 |      Une pièce essentielle du générateur de la Centrale. |
+|  480       20 |  |  6 |      Ein unentbehrliches Maschinenteil, das aus dem Kraftwerk entwendet wurde. |
+|  480       20 |  |  7 |      Valiosa pieza robada de una máquina de la Central Energía. |
+|  480       20 |  |  8 |      Pezzo rubato alla Centrale Elettrica, essenziale per il generatore. |
+|  480       20 |  |  9 |      An important part of a machine that was stolen from the Power Plant. |
+|  480       20 |  |  11 |     発電所から　ぬすまれた 発電機の　たいせつな　部品。 |
+|  480       20 |  |  12 |     发电厂里被盗的， 用于发电机的重要零件。 |
+|  481       10 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       11 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       11 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       14 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       15 |  |  1 |      ぎんいろに　ひかり　かがやく ふしぎな　はね。 |
+|  481       15 |  |  3 |      은빛으로 빛나는 신비한 날개. |
+|  481       15 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       15 |  |  6 |      Eine silberne Feder, die von einem seltsamen Leuchten erfüllt ist. |
+|  481       15 |  |  7 |      Álbum que recoge las fotos que se toman a lo largo de la aventura. |
+|  481       15 |  |  8 |      Misteriosa piuma che brilla di luce argentea. |
+|  481       15 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       15 |  |  11 |     ぎんいろに　ひかり　かがやく 不思議な　はね。 |
+|  481       17 |  |  1 |      ぎんいろに　ひかり　かがやく ふしぎな　はね。 |
+|  481       17 |  |  3 |      은빛으로 빛나는 신비한 날개. |
+|  481       17 |  |  4 |      散發著銀色光輝的 神奇羽毛。 |
+|  481       17 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       17 |  |  6 |      Eine silberne Feder, die von einem seltsamen Leuchten erfüllt ist. |
+|  481       17 |  |  7 |      Misteriosa ala de un brillante color plateado. |
+|  481       17 |  |  8 |      Misteriosa piuma che brilla di luce argentea. |
+|  481       17 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       17 |  |  11 |     ぎんいろに　ひかり　かがやく 不思議な　はね。 |
+|  481       17 |  |  12 |     散发着银色光辉的 神奇羽毛。 |
+|  481       18 |  |  1 |      ぎんいろに　ひかり　かがやく ふしぎな　はね。 |
+|  481       18 |  |  3 |      은빛으로 빛나는 신비한 날개. |
+|  481       18 |  |  4 |      散發著銀色光輝的 神奇羽毛。 |
+|  481       18 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       18 |  |  6 |      Eine silberne Feder, die von einem seltsamen Leuchten erfüllt ist. |
+|  481       18 |  |  7 |      Misteriosa ala de un brillante color plateado. |
+|  481       18 |  |  8 |      Misteriosa piuma che brilla di luce argentea. |
+|  481       18 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       18 |  |  11 |     ぎんいろに　ひかり　かがやく 不思議な　はね。 |
+|  481       18 |  |  12 |     散发着银色光辉的 神奇羽毛。 |
+|  481       19 |  |  1 |      ぎんいろに　ひかり　かがやく ふしぎな　はね。 |
+|  481       19 |  |  3 |      은빛으로 빛나는 신비한 날개. |
+|  481       19 |  |  4 |      散發著銀色光輝的 神奇羽毛。 |
+|  481       19 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       19 |  |  6 |      Eine silberne Feder, die von einem seltsamen Leuchten erfüllt ist. |
+|  481       19 |  |  7 |      Misteriosa ala de un brillante color plateado. |
+|  481       19 |  |  8 |      Misteriosa piuma che brilla di luce argentea. |
+|  481       19 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       19 |  |  11 |     ぎんいろに　ひかり　かがやく 不思議な　はね。 |
+|  481       19 |  |  12 |     散发着银色光辉的 神奇羽毛。 |
+|  481       20 |  |  1 |      ぎんいろに　ひかり　かがやく ふしぎな　はね。 |
+|  481       20 |  |  3 |      은빛으로 빛나는 신비한 날개. |
+|  481       20 |  |  4 |      散發著銀色光輝的 神奇羽毛。 |
+|  481       20 |  |  5 |      Une étrange plume qui brille d'un éclat argenté. |
+|  481       20 |  |  6 |      Eine silberne Feder, die von einem seltsamen Leuchten erfüllt ist. |
+|  481       20 |  |  7 |      Misteriosa ala de un brillante color plateado. |
+|  481       20 |  |  8 |      Misteriosa piuma che brilla di luce argentea. |
+|  481       20 |  |  9 |      A strange, silvery feather that sparkles. |
+|  481       20 |  |  11 |     ぎんいろに　ひかり　かがやく 不思議な　はね。 |
+|  481       20 |  |  12 |     散发着银色光辉的 神奇羽毛。 |
+|  482       10 |  |  9 |      A mystical, rainbow feather that sparkles. |
+|  482       11 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       11 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       14 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       15 |  |  1 |      にじいろに　ひかり　かがやく ふしぎな　はね。 |
+|  482       15 |  |  3 |      무지갯빛으로 빛나는 이상한 날개. |
+|  482       15 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       15 |  |  6 |      Eine mystische Feder, die von einem regenbogenfarbenen Leuchten erfüllt ist. |
+|  482       15 |  |  7 |      Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor. |
+|  482       15 |  |  8 |      Piuma magica dai mille colori. |
+|  482       15 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       15 |  |  11 |     にじいろに　ひかり　かがやく 不思議な　はね。 |
+|  482       17 |  |  1 |      にじいろに　ひかり　かがやく ふしぎな　はね。 |
+|  482       17 |  |  3 |      무지갯빛으로 빛나는 이상한 날개. |
+|  482       17 |  |  4 |      散發著虹色光輝的 神奇羽毛。 |
+|  482       17 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       17 |  |  6 |      Eine mystische Feder, die von einem regenbogenfarbenen Leuchten erfüllt ist. |
+|  482       17 |  |  7 |      Misteriosa ala de un brillante color arcoíris. |
+|  482       17 |  |  8 |      Piuma magica dai mille colori. |
+|  482       17 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       17 |  |  11 |     にじいろに　ひかり　かがやく 不思議な　はね。 |
+|  482       17 |  |  12 |     散发着虹色光辉的 神奇羽毛。 |
+|  482       18 |  |  1 |      にじいろに　ひかり　かがやく ふしぎな　はね。 |
+|  482       18 |  |  3 |      무지갯빛으로 빛나는 이상한 날개. |
+|  482       18 |  |  4 |      散發著虹色光輝的 神奇羽毛。 |
+|  482       18 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       18 |  |  6 |      Eine mystische Feder, die von einem regenbogenfarbenen Leuchten erfüllt ist. |
+|  482       18 |  |  7 |      Misteriosa ala de un brillante color arcoíris. |
+|  482       18 |  |  8 |      Piuma magica dai mille colori. |
+|  482       18 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       18 |  |  11 |     にじいろに　ひかり　かがやく 不思議な　はね。 |
+|  482       18 |  |  12 |     散发着虹色光辉的 神奇羽毛。 |
+|  482       19 |  |  1 |      にじいろに　ひかり　かがやく ふしぎな　はね。 |
+|  482       19 |  |  3 |      무지갯빛으로 빛나는 이상한 날개. |
+|  482       19 |  |  4 |      散發著虹色光輝的 神奇羽毛。 |
+|  482       19 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       19 |  |  6 |      Eine mystische Feder, die von einem regenbogenfarbenen Leuchten erfüllt ist. |
+|  482       19 |  |  7 |      Misteriosa ala de un brillante color arcoíris. |
+|  482       19 |  |  8 |      Piuma magica dai mille colori. |
+|  482       19 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       19 |  |  11 |     にじいろに　ひかり　かがやく 不思議な　はね。 |
+|  482       19 |  |  12 |     散发着虹色光辉的 神奇羽毛。 |
+|  482       20 |  |  1 |      にじいろに　ひかり　かがやく ふしぎな　はね。 |
+|  482       20 |  |  3 |      무지갯빛으로 빛나는 이상한 날개. |
+|  482       20 |  |  4 |      散發著虹色光輝的 神奇羽毛。 |
+|  482       20 |  |  5 |      Une étrange plume qui brille d'un éclat arc-en-ciel. |
+|  482       20 |  |  6 |      Eine mystische Feder, die von einem regenbogenfarbenen Leuchten erfüllt ist. |
+|  482       20 |  |  7 |      Misteriosa ala de un brillante color arcoíris. |
+|  482       20 |  |  8 |      Piuma magica dai mille colori. |
+|  482       20 |  |  9 |      A mystical rainbow feather that sparkles. |
+|  482       20 |  |  11 |     にじいろに　ひかり　かがやく 不思議な　はね。 |
+|  482       20 |  |  12 |     散发着虹色光辉的 神奇羽毛。 |
+|  483       10 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What's in the Egg is unknown. |
+|  483       11 |  |  5 |      Un œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       11 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What's in the Egg is unknown. |
+|  483       14 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What's in the Egg is unknown. |
+|  483       15 |  |  1 |      ポケモンじいさんから　あずかった ふしぎな　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       15 |  |  3 |      포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다. |
+|  483       15 |  |  5 |      Un Œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       15 |  |  6 |      Ein seltsam gemustertes Ei, das du von Mr. Pokémon erhalten hast. Sein Inhalt liegt im Dunkeln. |
+|  483       15 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  483       15 |  |  8 |      Uovo dai disegni bizzarri che si riceve da Mr. Pokémon. Non si sa che cosa contenga. |
+|  483       15 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown. |
+|  483       15 |  |  11 |     ポケモンじいさんから　あずかった 不思議な　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       17 |  |  1 |      ポケモンじいさんから　あずかった ふしぎな　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       17 |  |  3 |      포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다. |
+|  483       17 |  |  4 |      從寶可夢爺爺那裡得到的 有著神奇花紋的蛋。 不知道是什麼的蛋。 |
+|  483       17 |  |  5 |      Un Œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       17 |  |  6 |      Ein seltsam gemustertes Ei, das du von Mr. Pokémon erhalten hast. Sein Inhalt liegt im Dunkeln. |
+|  483       17 |  |  7 |      Misterioso Huevo con dibujos que obtienes del Sr. Pokémon. Nadie sabe qué contiene. |
+|  483       17 |  |  8 |      Uovo dai disegni bizzarri che si riceve da Mr. Pokémon. Non si sa che cosa contenga. |
+|  483       17 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown. |
+|  483       17 |  |  11 |     ポケモンじいさんから　あずかった 不思議な　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       17 |  |  12 |     从宝可梦爷爷那里得到的 有着神奇花纹的蛋。 不知道是什么的蛋。 |
+|  483       18 |  |  1 |      ポケモンじいさんから　あずかった ふしぎな　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       18 |  |  3 |      포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다. |
+|  483       18 |  |  4 |      從寶可夢爺爺那裡得到的 有著神奇花紋的蛋。 不知道是什麼的蛋。 |
+|  483       18 |  |  5 |      Un Œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       18 |  |  6 |      Ein seltsam gemustertes Ei, das du von Mr. Pokémon erhalten hast. Sein Inhalt liegt im Dunkeln. |
+|  483       18 |  |  7 |      Misterioso Huevo con dibujos que obtienes del Sr. Pokémon. Nadie sabe qué contiene. |
+|  483       18 |  |  8 |      Uovo dai disegni bizzarri che si riceve da Mr. Pokémon. Non si sa che cosa contenga. |
+|  483       18 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown. |
+|  483       18 |  |  11 |     ポケモンじいさんから　あずかった 不思議な　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       18 |  |  12 |     从宝可梦爷爷那里得到的 有着神奇花纹的蛋。 不知道是什么的蛋。 |
+|  483       19 |  |  1 |      ポケモンじいさんから　あずかった ふしぎな　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       19 |  |  3 |      포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다. |
+|  483       19 |  |  4 |      從寶可夢爺爺那裡得到的 有著神奇花紋的蛋。 不知道是什麼的蛋。 |
+|  483       19 |  |  5 |      Un Œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       19 |  |  6 |      Ein seltsam gemustertes Ei, das du von Mr. Pokémon erhalten hast. Sein Inhalt liegt im Dunkeln. |
+|  483       19 |  |  7 |      Misterioso Huevo con dibujos que obtienes del Sr. Pokémon. Nadie sabe qué contiene. |
+|  483       19 |  |  8 |      Uovo dai disegni bizzarri che si riceve da Mr. Pokémon. Non si sa che cosa contenga. |
+|  483       19 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown. |
+|  483       19 |  |  11 |     ポケモンじいさんから　あずかった 不思議な　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       19 |  |  12 |     从宝可梦爷爷那里得到的 有着神奇花纹的蛋。 不知道是什么的蛋。 |
+|  483       20 |  |  1 |      ポケモンじいさんから　あずかった ふしぎな　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       20 |  |  3 |      포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다. |
+|  483       20 |  |  4 |      從寶可夢爺爺那裡得到的 有著神奇花紋的蛋。 不知道是什麼的蛋。 |
+|  483       20 |  |  5 |      Un Œuf étrange confié par M. Pokémon. Personne ne sait ce qu'il contient. |
+|  483       20 |  |  6 |      Ein seltsam gemustertes Ei, das du von Mr. Pokémon erhalten hast. Sein Inhalt liegt im Dunkeln. |
+|  483       20 |  |  7 |      Misterioso Huevo con dibujos que obtienes del Sr. Pokémon. Nadie sabe qué contiene. |
+|  483       20 |  |  8 |      Uovo dai disegni bizzarri che si riceve da Mr. Pokémon. Non si sa che cosa contenga. |
+|  483       20 |  |  9 |      A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown. |
+|  483       20 |  |  11 |     ポケモンじいさんから　あずかった 不思議な　もようの　タマゴ。 なんの　タマゴか　わからない。 |
+|  483       20 |  |  12 |     从宝可梦爷爷那里得到的 有着神奇花纹的蛋。 不知道是什么的蛋。 |
+|  484       10 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with a single switch. |
+|  484       11 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       11 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with a single switch. |
+|  484       14 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with a single switch. |
+|  484       15 |  |  1 |      なつかしい　きょくが　きける おんがく　プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       15 |  |  3 |      그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다. |
+|  484       15 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       15 |  |  6 |      Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen. |
+|  484       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en Botaluces. |
+|  484       15 |  |  8 |      Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone. |
+|  484       15 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch. |
+|  484       15 |  |  11 |     なつかしい　曲が　きける 音楽プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       17 |  |  1 |      なつかしい　きょくが　きける おんがく　プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       17 |  |  3 |      그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다. |
+|  484       17 |  |  4 |      可以聽到懷舊歌曲的 音樂播放機。 可一鍵切換歌曲。 |
+|  484       17 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       17 |  |  6 |      Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen. |
+|  484       17 |  |  7 |      Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor. |
+|  484       17 |  |  8 |      Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone. |
+|  484       17 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch. |
+|  484       17 |  |  11 |     なつかしい　曲が　きける 音楽プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       17 |  |  12 |     可以听到怀旧歌曲的音乐播放器。 可用一个开关切换歌曲。 |
+|  484       18 |  |  1 |      なつかしい　きょくが　きける おんがく　プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       18 |  |  3 |      그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다. |
+|  484       18 |  |  4 |      可以聽到懷舊歌曲的 音樂播放機。 可一鍵切換歌曲。 |
+|  484       18 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       18 |  |  6 |      Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen. |
+|  484       18 |  |  7 |      Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor. |
+|  484       18 |  |  8 |      Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone. |
+|  484       18 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch. |
+|  484       18 |  |  11 |     なつかしい　曲が　きける 音楽プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       18 |  |  12 |     可以听到怀旧歌曲的音乐播放器。 可用一个开关切换歌曲。 |
+|  484       19 |  |  1 |      なつかしい　きょくが　きける おんがく　プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       19 |  |  3 |      그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다. |
+|  484       19 |  |  4 |      可以聽到懷舊歌曲的 音樂播放機。 可一鍵切換歌曲。 |
+|  484       19 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       19 |  |  6 |      Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen. |
+|  484       19 |  |  7 |      Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor. |
+|  484       19 |  |  8 |      Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone. |
+|  484       19 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch. |
+|  484       19 |  |  11 |     なつかしい　曲が　きける 音楽プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       19 |  |  12 |     可以听到怀旧歌曲的音乐播放器。 可用一个开关切换歌曲。 |
+|  484       20 |  |  1 |      なつかしい　きょくが　きける おんがく　プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       20 |  |  3 |      그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다. |
+|  484       20 |  |  4 |      可以聽到懷舊歌曲的 音樂播放機。 可一鍵切換歌曲。 |
+|  484       20 |  |  5 |      Un lecteur de musique qui permet de se plonger dans une atmosphère rétro. Une pression suffit pour changer de mode. |
+|  484       20 |  |  6 |      Ein Abspielgerät, das Musik aus einer längst vergangenen Zeit spielt. Lässt sich durch simplen Knopfdruck bedienen. |
+|  484       20 |  |  7 |      Lector con el que se pueden escuchar aquellas canciones tan nostálgicas. Se cambia con un solo interruptor. |
+|  484       20 |  |  8 |      Lettore di musica che permette di immergersi in atmosfere rétro. Ha un solo pulsante per cambiare canzone. |
+|  484       20 |  |  9 |      A music player that allows you to listen to nostalgic songs. It's operated with the flip of a single switch. |
+|  484       20 |  |  11 |     なつかしい　曲が　きける 音楽プレイヤー。 スイッチ　ひとつで　きりかえられる。 |
+|  484       20 |  |  12 |     可以听到怀旧歌曲的音乐播放器。 可用一个开关切换歌曲。 |
+|  485       10 |  |  9 |      An old-fashioned bell with a gentle, soothing sound. |
+|  485       11 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       11 |  |  9 |      A very old-fashioned bell that makes a gentle ringing. |
+|  485       14 |  |  9 |      A very old-fashioned bell that makes a gentle ringing. |
+|  485       15 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       15 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  485       15 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       15 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  485       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en Pisacírculos. |
+|  485       15 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  485       15 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  485       15 |  |  11 |     こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       17 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       17 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  485       17 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  485       17 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       17 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  485       17 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  485       17 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  485       17 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  485       17 |  |  11 |     こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       17 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  485       18 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       18 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  485       18 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  485       18 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       18 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  485       18 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  485       18 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  485       18 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  485       18 |  |  11 |     こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       18 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  485       19 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       19 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  485       19 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  485       19 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       19 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  485       19 |  |  7 |      Campana de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  485       19 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  485       19 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  485       19 |  |  11 |     こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       19 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  485       20 |  |  1 |      こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       20 |  |  3 |      마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울. |
+|  485       20 |  |  4 |      能發出使人心情平靜音色的， 非常古老的鈴鐺。 |
+|  485       20 |  |  5 |      Une cloche antique au tintement apaisant. |
+|  485       20 |  |  6 |      Eine altehrwürdige Glocke, deren Läuten alle besänftigt, die es hören. |
+|  485       20 |  |  7 |      Cascabel de aspecto antiguo que emite un sonido que calma el espíritu. |
+|  485       20 |  |  8 |      Una campana antica. Produce un suono che dona pace al cuore. |
+|  485       20 |  |  9 |      A very old-fashioned bell that makes a gentle ringing sound. |
+|  485       20 |  |  11 |     こころ　やすまる　ねいろが　きける とても　ふるめかしい　スズ。 |
+|  485       20 |  |  12 |     能发出静心宁神音色的， 非常古旧的铃铛。 |
+|  486       10 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many victories you've had. |
+|  486       11 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       11 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many victories you've had. |
+|  486       14 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many victories you've had. |
+|  486       15 |  |  1 |      ポケスロンの　きろくが　はいっている。 ゆうしょう　かいすうが |
+|  486       15 |  |  3 |      포켓슬론의 기록이 들어 있다. 우승 횟수가 기록된 카드. |
+|  486       15 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       15 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du ein Turnier gewonnen hast. |
+|  486       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar en conexión. |
+|  486       15 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero totale di vittorie. |
+|  486       15 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon. |
+|  486       15 |  |  11 |     ポケスロンの　記録が　はいっている。 優勝　回数が 記録された　カード。 |
+|  486       17 |  |  1 |      ポケスロンの　きろくが　はいっている。 ゆうしょう　かいすうが きろくされた　カード。 |
+|  486       17 |  |  3 |      포켓슬론의 기록이 들어 있다. 우승 횟수가 기록된 카드. |
+|  486       17 |  |  4 |      ー ー ー |
+|  486       17 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       17 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du ein Turnier gewonnen hast. |
+|  486       17 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias. |
+|  486       17 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero totale di vittorie. |
+|  486       17 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon. |
+|  486       17 |  |  11 |     ポケスロンの　記録が　はいっている。 優勝　回数が 記録された　カード。 |
+|  486       17 |  |  12 |     ー ー ー |
+|  486       18 |  |  1 |      ポケスロンの　きろくが　はいっている。 ゆうしょう　かいすうが きろくされた　カード。 |
+|  486       18 |  |  3 |      포켓슬론의 기록이 들어 있다. 우승 횟수가 기록된 카드. |
+|  486       18 |  |  4 |      ー ー ー |
+|  486       18 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       18 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du ein Turnier gewonnen hast. |
+|  486       18 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias. |
+|  486       18 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero totale di vittorie. |
+|  486       18 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon. |
+|  486       18 |  |  11 |     ポケスロンの　記録が　はいっている。 優勝　回数が 記録された　カード。 |
+|  486       18 |  |  12 |     ー ー ー |
+|  486       19 |  |  1 |      ポケスロンの　きろくが　はいっている。 ゆうしょう　かいすうが きろくされた　カード。 |
+|  486       19 |  |  3 |      포켓슬론의 기록이 들어 있다. 우승 횟수가 기록된 카드. |
+|  486       19 |  |  4 |      ー ー ー |
+|  486       19 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       19 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du ein Turnier gewonnen hast. |
+|  486       19 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias. |
+|  486       19 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero totale di vittorie. |
+|  486       19 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon. |
+|  486       19 |  |  11 |     ポケスロンの　記録が　はいっている。 優勝　回数が 記録された　カード。 |
+|  486       19 |  |  12 |     ー ー ー |
+|  486       20 |  |  1 |      ポケスロンの　きろくが　はいっている。 ゆうしょう　かいすうが きろくされた　カード。 |
+|  486       20 |  |  3 |      포켓슬론의 기록이 들어 있다. 우승 횟수가 기록된 카드. |
+|  486       20 |  |  4 |      ー ー ー |
+|  486       20 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit votre nombre de victoires au Pokéathlon. |
+|  486       20 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du ein Turnier gewonnen hast. |
+|  486       20 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias. |
+|  486       20 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero totale di vittorie. |
+|  486       20 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon. |
+|  486       20 |  |  11 |     ポケスロンの　記録が　はいっている。 優勝　回数が 記録された　カード。 |
+|  486       20 |  |  12 |     ー ー ー |
+|  487       10 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many losses you've had. |
+|  487       11 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       11 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many losses you've had. |
+|  487       14 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many losses you've had. |
+|  487       15 |  |  1 |      ポケスロンの　きろくが　はいっている。 ビリになった　かいすうが きろくされた　カード。 |
+|  487       15 |  |  3 |      포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드. |
+|  487       15 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       15 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du bei einem Turnier Letzter geworden bist. |
+|  487       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de victorias en una disciplina. |
+|  487       15 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di ultimi posti. |
+|  487       15 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon. |
+|  487       15 |  |  11 |     ポケスロンの　記録が　はいっている。 ビリになった　回数が 記録された　カード。 |
+|  487       17 |  |  1 |      ポケスロンの　きろくが　はいっている。 ビリになった　かいすうが きろくされた　カード。 |
+|  487       17 |  |  3 |      포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드. |
+|  487       17 |  |  4 |      ー ー ー |
+|  487       17 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       17 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du bei einem Turnier Letzter geworden bist. |
+|  487       17 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar. |
+|  487       17 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di ultimi posti. |
+|  487       17 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon. |
+|  487       17 |  |  11 |     ポケスロンの　記録が　はいっている。 ビリになった　回数が 記録された　カード。 |
+|  487       17 |  |  12 |     ー ー ー |
+|  487       18 |  |  1 |      ポケスロンの　きろくが　はいっている。 ビリになった　かいすうが きろくされた　カード。 |
+|  487       18 |  |  3 |      포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드. |
+|  487       18 |  |  4 |      ー ー ー |
+|  487       18 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       18 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du bei einem Turnier Letzter geworden bist. |
+|  487       18 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar. |
+|  487       18 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di ultimi posti. |
+|  487       18 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon. |
+|  487       18 |  |  11 |     ポケスロンの　記録が　はいっている。 ビリになった　回数が 記録された　カード。 |
+|  487       18 |  |  12 |     ー ー ー |
+|  487       19 |  |  1 |      ポケスロンの　きろくが　はいっている。 ビリになった　かいすうが きろくされた　カード。 |
+|  487       19 |  |  3 |      포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드. |
+|  487       19 |  |  4 |      ー ー ー |
+|  487       19 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       19 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du bei einem Turnier Letzter geworden bist. |
+|  487       19 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar. |
+|  487       19 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di ultimi posti. |
+|  487       19 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon. |
+|  487       19 |  |  11 |     ポケスロンの　記録が　はいっている。 ビリになった　回数が 記録された　カード。 |
+|  487       19 |  |  12 |     ー ー ー |
+|  487       20 |  |  1 |      ポケスロンの　きろくが　はいっている。 ビリになった　かいすうが きろくされた　カード。 |
+|  487       20 |  |  3 |      포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드. |
+|  487       20 |  |  4 |      ー ー ー |
+|  487       20 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de fois où vous avez fini en dernier. |
+|  487       20 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie oft du bei einem Turnier Letzter geworden bist. |
+|  487       20 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que se ha quedado en último lugar. |
+|  487       20 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di ultimi posti. |
+|  487       20 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon. |
+|  487       20 |  |  11 |     ポケスロンの　記録が　はいっている。 ビリになった　回数が 記録された　カード。 |
+|  487       20 |  |  12 |     ー ー ー |
+|  488       10 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many times your Pokémon have dashed. |
+|  488       11 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon. |
+|  488       11 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many times your Pokémon have dashed. |
+|  488       14 |  |  9 |      It holds Pokéathlon records. It's a card that shows how many times your Pokémon have dashed. |
+|  488       15 |  |  1 |      ポケスロンの　きろくが　はいっている。 ポケモンの　ダッシュした　かいすうが きろくされた　カード。 |
+|  488       15 |  |  3 |      포켓슬론의 기록이 들어 있다. 포켓몬이 대시한 횟수가 기록된 카드. |
+|  488       15 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon. |
+|  488       15 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie viele Sprints du schon hinter dir hast. |
+|  488       15 |  |  7 |      Contiene los datos del Pokéathlon con el número de veces que has terminado en última posición en una disciplina. |
+|  488       15 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di sprint dei tuoi Pokémon. |
+|  488       15 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon. |
+|  488       15 |  |  11 |     ポケスロンの　記録が　はいっている。 ポケモンの　ダッシュした　回数が 記録された　カード。 |
+|  488       17 |  |  1 |      ポケスロンの　きろくが　はいっている。 ポケモンの　ダッシュした　かいすうが きろくされた　カード。 |
+|  488       17 |  |  3 |      포켓슬론의 기록이 들어 있다. 포켓몬이 대시한 횟수가 기록된 카드. |
+|  488       17 |  |  4 |      ー ー ー |
+|  488       17 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon. |
+|  488       17 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie viele Sprints du schon hinter dir hast. |
+|  488       17 |  |  7 |      Contiene los datos del Pokéathlon con el número de sprints de los Pokémon. |
+|  488       17 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di sprint dei tuoi Pokémon. |
+|  488       17 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon. |
+|  488       17 |  |  11 |     ポケスロンの　記録が　はいっている。 ポケモンの　ダッシュした　回数が 記録された　カード。 |
+|  488       17 |  |  12 |     ー ー ー |
+|  488       18 |  |  1 |      ポケスロンの　きろくが　はいっている。 ポケモンの　ダッシュした　かいすうが きろくされた　カード。 |
+|  488       18 |  |  3 |      포켓슬론의 기록이 들어 있다. 포켓몬이 대시한 횟수가 기록된 카드. |
+|  488       18 |  |  4 |      ー ー ー |
+|  488       18 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon. |
+|  488       18 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie viele Sprints du schon hinter dir hast. |
+|  488       18 |  |  7 |      Contiene los datos del Pokéathlon con el número de sprints de los Pokémon. |
+|  488       18 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di sprint dei tuoi Pokémon. |
+|  488       18 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon. |
+|  488       18 |  |  11 |     ポケスロンの　記録が　はいっている。 ポケモンの　ダッシュした　回数が 記録された　カード。 |
+|  488       18 |  |  12 |     ー ー ー |
+|  488       19 |  |  1 |      ポケスロンの　きろくが　はいっている。 ポケモンの　ダッシュした　かいすうが きろくされた　カード。 |
+|  488       19 |  |  3 |      포켓슬론의 기록이 들어 있다. 포켓몬이 대시한 횟수가 기록된 카드. |
+|  488       19 |  |  4 |      ー ー ー |
+|  488       19 |  |  5 |      Contient vos données du Pokéathlon. Sur cette carte est inscrit le nombre de sprints de vos Pokémon. |
+|  488       19 |  |  6 |      Speichert deine Pokéathlon-Rekorde. Die Karte zeigt, wie viele Sprints du schon hinter dir hast. |
+|  488       19 |  |  7 |      Contiene los datos del Pokéathlon con el número de sprints de los Pokémon. |
