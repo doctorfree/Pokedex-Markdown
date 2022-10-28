@@ -4,13 +4,14 @@ The Pokédex (Pokémon Encyclopedia) is an electronic device designed to catalog
 
 This repository contains a Pokémon Pokédex in markdown format. It was generated from [Veekun's Pokédex](https://github.com/veekun/pokedex) by converting the CSV format Pokédex to Markdown using a script I wrote for [Asciiville](https://github.com/doctorfree/Asciiville.git).
 
-**[Note:]** Some of these markdown files are quite large. Some markdown viewers/editors perform an indexing of all markdown documents in the "vault" or collection. This indexing operation may consume quite a bit of time. Hopefully your markdown viewer/editor is smart enough to perform the indexing only once (e.g. Obsidian will only perform indexing when the vault is initially added).
+**[Note:]** Some of these markdown files are quite large. Some markdown viewers/editors perform an indexing of all markdown documents in the "vault" or collection. This indexing operation may consume quite a bit of time. Hopefully your markdown viewer/editor is smart enough to perform the indexing only once (e.g. Obsidian will only perform indexing when the vault is initially added). The largest markdown files were split using the [markdown split script](split_markdown.md) but several remain over 1MB.
 
 ## Contents
 
 - [Pokemon](pokemon.md)
 - [Pokemon Fetch](pokefetch.md)
 - [CSV to Markdown](csv2md.md)
+- [Split Markdown](split_markdown.md)
 - [Pokédex](Pokedex/pokemon.md)
 
 ## Pokédex Categories
