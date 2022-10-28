@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_battle_styles
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | attack     |

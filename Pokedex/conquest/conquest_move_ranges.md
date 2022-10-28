@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_move_ranges
+categories:
+    - pokemon
+---
+
 | id |    identifier    | targets |
 |----|------------------|---------|
 | 1  | user             | 1       |

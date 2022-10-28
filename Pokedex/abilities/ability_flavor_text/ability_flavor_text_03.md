@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - ability_flavor_text
+categories:
+    - pokemon
+---
+
+# ability_flavor_text
+
 | ability_id | version_group_id | language_id | flavor_text |
 |------------|------------------|-------------|-------------|
 |  64 |   17 | 12 |    吸收了污泥浆的对手 会因强烈的恶臭 而受到伤害，减少ＨＰ。 |

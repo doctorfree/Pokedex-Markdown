@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - types_index
+categories:
+    - pokemon
+---
+
 # types
 
 Index of types category

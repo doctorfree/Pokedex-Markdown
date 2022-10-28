@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - version_group_pokemon_move_methods
+categories:
+    - pokemon
+---
+
 | version_group_id | pokemon_move_method_id |
 |------------------|------------------------|
 | 1                | 1                      |

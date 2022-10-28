@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flag_prose
+categories:
+    - pokemon
+---
+
 | item_flag_id | local_language_id |       name       |          description          |
 |--------------|-------------------|------------------|-------------------------------|
 | 1            | 9                 | Countable        | Has a count in the bag        |

@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - version_names
+categories:
+    - pokemon
+---
+
 | version_id | local_language_id |        name        |
 |------------|-------------------|--------------------|
 | 1          | 1                 | 赤                  |

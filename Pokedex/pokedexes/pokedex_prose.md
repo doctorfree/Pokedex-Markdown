@@ -1,3 +1,11 @@
+---
+tags:
+    - pokedexes
+    - pokedex_prose
+categories:
+    - pokemon
+---
+
 | pokedex_id | local_language_id |         name          |                                                            description                                                            |
 |------------|-------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 1          | 5                 | National              | Pokédex National complet                                                                                                          |

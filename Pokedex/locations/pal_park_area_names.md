@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - pal_park_area_names
+categories:
+    - pokemon
+---
+
 | pal_park_area_id | local_language_id |   name   |
 |------------------|-------------------|----------|
 | 1                | 5                 | Forêt    |

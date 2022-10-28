@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flag_map
+categories:
+    - pokemon
+---
+
 | move_id | move_flag_id |
 |---------|--------------|
 | 1       | 1            |

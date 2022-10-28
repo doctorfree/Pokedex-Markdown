@@ -1,3 +1,11 @@
+---
+tags:
+    - berries
+    - berry_firmness
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | very-soft  |

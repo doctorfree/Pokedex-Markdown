@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  234       16 |  |  9 |      The user restores its own HP. The amount of HP regained varies with the weather. |

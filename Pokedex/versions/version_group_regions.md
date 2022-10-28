@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - version_group_regions
+categories:
+    - pokemon
+---
+
 | version_group_id | region_id |
 |------------------|-----------|
 | 1                | 1         |

@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - super_contest_effects
+categories:
+    - pokemon
+---
+
 | id | appeal |
 |----|--------|
 | 1  | 2      |

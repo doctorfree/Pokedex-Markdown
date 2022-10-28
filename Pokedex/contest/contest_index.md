@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - contest_index
+categories:
+    - pokemon
+---
+
 # contest
 
 Index of contest category

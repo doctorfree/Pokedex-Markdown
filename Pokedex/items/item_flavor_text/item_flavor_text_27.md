@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  1134      20 |  |  6 |      Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte eines bestimmten Pokémon. |

@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_methods
+categories:
+    - pokemon
+---
+
 | id |   identifier    | order |
 |----|-----------------|-------|
 | 1  | walk            | 1     |

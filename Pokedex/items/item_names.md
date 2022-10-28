@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_names
+categories:
+    - pokemon
+---
+
 | item_id | local_language_id |          name          |
 |---------|-------------------|------------------------|
 | 1       | 1                 | マスターボール                |

@@ -1,3 +1,11 @@
+---
+tags:
+    - characteristics
+    - characteristics
+categories:
+    - pokemon
+---
+
 | id | stat_id | gene_mod_5 |
 |----|---------|------------|
 | 1  | 1       | 0          |

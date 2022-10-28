@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - pokemon_game_indices
+categories:
+    - pokemon
+---
+
 | pokemon_id | version_id | game_index |
 |------------|------------|------------|
 | 1          | 1          | 153        |

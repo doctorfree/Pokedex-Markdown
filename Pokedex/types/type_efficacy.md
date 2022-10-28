@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - type_efficacy
+categories:
+    - pokemon
+---
+
 | damage_type_id | target_type_id | damage_factor |
 |----------------|----------------|---------------|
 | 1              | 1              | 100           |

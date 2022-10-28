@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - pokemon_moves
+categories:
+    - pokemon
+---
+
 | pokemon_id | version_group_id | move_id | pokemon_move_method_id | level | order |
 |------------|------------------|---------|------------------------|-------|-------|
 | 131        | 18               | 240     | 1                      | 22    |       |

@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - items_index
+categories:
+    - pokemon
+---
+
 # items
 
 Index of items category

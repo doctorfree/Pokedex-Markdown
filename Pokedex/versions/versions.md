@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - versions
+categories:
+    - pokemon
+---
+
 | id | version_group_id |   identifier    |
 |----|------------------|-----------------|
 | 1  | 1                | red             |

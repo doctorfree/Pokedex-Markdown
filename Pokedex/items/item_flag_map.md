@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flag_map
+categories:
+    - pokemon
+---
+
 | item_id | item_flag_id |
 |---------|--------------|
 | 1       | 1            |

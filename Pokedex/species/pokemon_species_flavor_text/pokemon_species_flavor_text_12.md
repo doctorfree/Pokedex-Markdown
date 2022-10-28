@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  171 |   28 |    6 |      Es blendet seine Beute mit einem starken Blitz. Sieht es eine Chance zuzuschlagen, greift es sie mit Elektrizität an. |

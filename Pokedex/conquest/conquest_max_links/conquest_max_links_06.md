@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_max_links
+categories:
+    - pokemon
+---
+
 | warrior_rank_id | pokemon_species_id | max_link |
 |-----------------|--------------------|----------|
 | 73              | 470                | 30       |

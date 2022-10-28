@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - contest_types
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | cool       |

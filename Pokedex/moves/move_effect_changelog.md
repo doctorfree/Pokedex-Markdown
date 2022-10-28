@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_effect_changelog
+categories:
+    - pokemon
+---
+
 | id | effect_id | changed_in_version_group_id |
 |----|-----------|-----------------------------|
 | 1  | 8         | 11                          |

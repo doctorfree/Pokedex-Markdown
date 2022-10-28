@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  780 |   29 |    3 |      친구가 된 아이가 괴롭힘을 당하면 괴롭힌 아이의 집에 찾아가서 태워버린다. |

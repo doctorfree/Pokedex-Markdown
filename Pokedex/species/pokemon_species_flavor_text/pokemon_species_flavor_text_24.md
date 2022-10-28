@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  430 |   28 |    1 |      えものを　とるのを　しっぱいしたり うらぎった　こぶんの　ヤミカラスを どこまでも　おいつめ　しょぶんする。 |

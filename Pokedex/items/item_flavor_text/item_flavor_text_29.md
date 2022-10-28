@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  1481      20 |  |  6 |      Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein \[VAR (0000)\] bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde. |

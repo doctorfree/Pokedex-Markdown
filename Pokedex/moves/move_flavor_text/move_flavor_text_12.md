@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  408       15 |  |  5 |      Le lanceur attaque avec un rayon de lumière qui scintille comme s'il était composé de gemmes. |

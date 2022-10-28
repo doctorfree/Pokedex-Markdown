@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  518       19 |  |  3 |      물기둥으로 공격한다. 불꽃과 조합하면 위력이 올라가고 하늘에 무지개가 걸린다. |

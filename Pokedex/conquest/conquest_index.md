@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_index
+categories:
+    - pokemon
+---
+
 # conquest
 
 Index of conquest category

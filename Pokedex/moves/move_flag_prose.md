@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flag_prose
+categories:
+    - pokemon
+---
+
 | move_flag_id | local_language_id |                      name                      |                                                               description                                                               |
 |--------------|-------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1            | 6                 | Kontakt                                        | Der Anwender berührt das Ziel.  Dies löst mahcne Fähigkeiten aus (z.B. []{ability:static}) und Gegenstände (z.B. []{item:sticky-barb}). |

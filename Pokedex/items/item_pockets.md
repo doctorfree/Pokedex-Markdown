@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_pockets
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | misc       |

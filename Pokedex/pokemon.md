@@ -1,3 +1,11 @@
+---
+tags:
+    - pokemon
+    - pokedex
+categories:
+    - pokemon
+---
+
 # Pokémon
 
 |    |    |    |    |    |
@@ -7,6 +15,12 @@
 | [Growth rates](growth_rates/growth_rates_index.md) | [Habitats](habitats/habitats_index.md) | [Items](items/items_index.md) | [Languages](languages/languages_index.md) | [Locations](locations/locations_index.md) |
 | [Moves](moves/moves_index.md) | [Natures](natures/natures_index.md) | [Pokedexes](pokedexes/pokedexes_index.md) | [Regions](regions/regions_index.md) | [Shapes](shapes/shapes_index.md) |
 | [Species](species/species_index.md) | [Stats](stats/stats_index.md) | [Translations](translations/translations_index.md) | [Types](types/types_index.md) | [Versions](versions/versions_index.md) |
+
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
 
 |  id   |         identifier         | species_id | height | weight | base_experience | order | is_default |
 |-------|----------------------------|------------|--------|--------|-----------------|-------|------------|

@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - pokeathlon_stats
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | speed      |

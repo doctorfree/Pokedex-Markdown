@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - abilities
+categories:
+    - pokemon
+---
+
+# abilities
+
 |  id   |    identifier    | generation_id | is_main_series |
 |-------|------------------|---------------|----------------|
 | 1     | stench           | 3             | 1              |

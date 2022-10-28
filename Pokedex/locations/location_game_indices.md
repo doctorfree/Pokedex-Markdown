@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - location_game_indices
+categories:
+    - pokemon
+---
+
 | location_id | generation_id | game_index |
 |-------------|---------------|------------|
 | 1           | 4             | 7          |

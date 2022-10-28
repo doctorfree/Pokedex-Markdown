@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  34 | 16 |  |  5 |      Le lanceur se laisse tomber sur l'ennemi de tout son poids. Peut aussi le paralyser. |

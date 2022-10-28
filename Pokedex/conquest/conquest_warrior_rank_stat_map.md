@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_rank_stat_map
+categories:
+    - pokemon
+---
+
 | warrior_rank_id | warrior_stat_id | base_stat |
 |-----------------|-----------------|-----------|
 | 1               | 1               | 65        |

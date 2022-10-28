@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_damage_class_prose
+categories:
+    - pokemon
+---
+
 | move_damage_class_id | local_language_id |   name   |                                description                                 |
 |----------------------|-------------------|----------|----------------------------------------------------------------------------|
 | 1                    | 1                 | へんか      | ダメージない                                                                     |

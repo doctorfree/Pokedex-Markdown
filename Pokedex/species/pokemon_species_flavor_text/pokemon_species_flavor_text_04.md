@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  57 |    31 |    8 |      È molto difficile vedere questo Pokémon calmo, dato che la sua furia si placa solamente quando si trova nella solitudine più assoluta. |

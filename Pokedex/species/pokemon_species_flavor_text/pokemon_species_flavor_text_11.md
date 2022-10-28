@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  149 |   34 |    6 |      Dragoran wird die „Inkarnation des Meeres" genannt. Sein Ebenbild ziert den Bug vieler Schiffe als Galionsfigur. |

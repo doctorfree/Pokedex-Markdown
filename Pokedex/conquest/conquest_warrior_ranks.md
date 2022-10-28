@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_ranks
+categories:
+    - pokemon
+---
+
 | id  | warrior_id | rank | skill_id |
 |-----|------------|------|----------|
 | 1   | 1          | 1    | 3        |

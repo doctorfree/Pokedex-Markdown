@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  408 |   29 |    11 |     太古の　ポケモン。　硬くて 丈夫な　頭蓋骨を　持つが 頭は　相当に　悪かった。 |

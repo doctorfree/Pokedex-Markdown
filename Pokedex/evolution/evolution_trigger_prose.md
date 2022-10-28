@@ -1,3 +1,11 @@
+---
+tags:
+    - evolution
+    - evolution_trigger_prose
+categories:
+    - pokemon
+---
+
 | evolution_trigger_id | local_language_id |                 name                 |
 |----------------------|-------------------|--------------------------------------|
 | 1                    | 5                 | Montée de niveau                     |

@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_effects
+categories:
+    - pokemon
+---
+
 |  id   |
 |-------|
 | 1     |

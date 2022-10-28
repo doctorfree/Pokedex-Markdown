@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - versions_index
+categories:
+    - pokemon
+---
+
 # versions
 
 Index of versions category

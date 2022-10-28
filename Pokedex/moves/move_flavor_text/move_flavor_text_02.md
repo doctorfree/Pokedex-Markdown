@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  67 | 18 |  |  9 |      A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power. |

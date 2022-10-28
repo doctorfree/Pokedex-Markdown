@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  1306      20 |  |  6 |      Lässt man ein Pokémon an dieser Minze schnuppern, steigt seine Initiative schneller, aber seine Verteidigung umso langsamer. |

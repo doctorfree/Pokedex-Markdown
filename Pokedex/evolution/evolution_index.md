@@ -1,3 +1,11 @@
+---
+tags:
+    - evolution
+    - evolution_index
+categories:
+    - pokemon
+---
+
 # evolution
 
 Index of evolution category

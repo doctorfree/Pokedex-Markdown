@@ -1,3 +1,11 @@
+---
+tags:
+    - characteristics
+    - characteristics_index
+categories:
+    - pokemon
+---
+
 # characteristics
 
 Index of characteristics category

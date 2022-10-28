@@ -1,3 +1,11 @@
+---
+tags:
+    - evolution
+    - evolution_triggers
+categories:
+    - pokemon
+---
+
 | id |     identifier      |
 |----|---------------------|
 | 1  | level-up            |

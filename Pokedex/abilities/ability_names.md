@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - ability_names
+categories:
+    - pokemon
+---
+
+# ability_names
+
 | ability_id | local_language_id |       name       |
 |------------|-------------------|------------------|
 | 1          | 1                 | あくしゅう            |

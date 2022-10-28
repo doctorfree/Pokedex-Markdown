@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 # item_flavor_text
 
 The Pokemon item flavor text markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.

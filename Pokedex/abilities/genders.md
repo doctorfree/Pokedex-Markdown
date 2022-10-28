@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - genders
+categories:
+    - pokemon
+---
+
+# genders
+
 | id | identifier |
 |----|------------|
 | 1  | female     |

@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_skills
+categories:
+    - pokemon
+---
+
 | id |   identifier    |
 |----|-----------------|
 | 1  | adrenaline      |

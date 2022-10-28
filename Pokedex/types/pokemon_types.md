@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - pokemon_types
+categories:
+    - pokemon
+---
+
 | pokemon_id | type_id | slot |
 |------------|---------|------|
 | 1          | 12      | 1    |

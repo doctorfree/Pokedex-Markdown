@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  1 |     1 |     9 |      A strange seed was planted on its back at birth.The plant sprouts and grows with this POKéMON. |

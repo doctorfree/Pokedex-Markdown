@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_episodes
+categories:
+    - pokemon
+---
+
 | id |           identifier           |
 |----|--------------------------------|
 | 1  | the-legend-of-ransei           |

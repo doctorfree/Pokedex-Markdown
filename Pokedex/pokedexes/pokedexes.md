@@ -1,3 +1,11 @@
+---
+tags:
+    - pokedexes
+    - pokedexes
+categories:
+    - pokemon
+---
+
 | id | region_id |    identifier     | is_main_series |
 |----|-----------|-------------------|----------------|
 | 1  |           | national          | 1              |

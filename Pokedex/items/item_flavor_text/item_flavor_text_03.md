@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  93 | 17 |  |  7 |      Una bella y rara escama con forma de corazón que más de uno apreciará si se la entregas. |

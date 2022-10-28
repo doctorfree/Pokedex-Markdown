@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_meta_categories
+categories:
+    - pokemon
+---
+
 | id |     identifier     |
 |----|--------------------|
 | 0  | damage             |

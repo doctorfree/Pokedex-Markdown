@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_transformation_warriors
+categories:
+    - pokemon
+---
+
 | transformation_id | present_warrior_id |
 |-------------------|--------------------|
 | 43                | 21                 |

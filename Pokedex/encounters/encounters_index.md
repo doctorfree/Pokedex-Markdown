@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounters_index
+categories:
+    - pokemon
+---
+
 # encounters
 
 Index of encounters category

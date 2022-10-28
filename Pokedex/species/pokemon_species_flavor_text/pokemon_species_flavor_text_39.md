@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  821 |   33 |    12 |     性格勇敢，无论多强的敌人 都勇于挑战。即使在敌人的反击中 被打败，也能从中得到锻炼。 |

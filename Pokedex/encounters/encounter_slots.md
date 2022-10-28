@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_slots
+categories:
+    - pokemon
+---
+
 | id  | version_group_id | encounter_method_id | slot | rarity |
 |-----|------------------|---------------------|------|--------|
 | 1   | 8                | 1                   | 1    | 20     |

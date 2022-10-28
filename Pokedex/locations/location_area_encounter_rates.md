@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - location_area_encounter_rates
+categories:
+    - pokemon
+---
+
 | location_area_id | encounter_method_id | version_id | rate |
 |------------------|---------------------|------------|------|
 | 1                | 2                   | 12         | 25   |

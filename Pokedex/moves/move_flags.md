@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flags
+categories:
+    - pokemon
+---
+
 | id |   identifier   |
 |----|----------------|
 | 1  | contact        |

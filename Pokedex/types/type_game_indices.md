@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - type_game_indices
+categories:
+    - pokemon
+---
+
 | type_id | generation_id | game_index |
 |---------|---------------|------------|
 | 1       | 1             | 0          |

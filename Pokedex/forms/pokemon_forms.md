@@ -1,3 +1,11 @@
+---
+tags:
+    - forms
+    - pokemon_forms
+categories:
+    - pokemon
+---
+
 |  id   |         identifier         |  form_identifier   | pokemon_id | introduced_in_version_group_id | is_default | is_battle_only | is_mega | form_order | order |
 |-------|----------------------------|--------------------|------------|--------------------------------|------------|----------------|---------|------------|-------|
 | 1     | bulbasaur                  |                    | 1          | 1                              | 1          | 0              | 0       | 1          | 1     |

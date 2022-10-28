@@ -1,3 +1,11 @@
+---
+tags:
+    - natures
+    - natures
+categories:
+    - pokemon
+---
+
 | id | identifier | decreased_stat_id | increased_stat_id | hates_flavor_id | likes_flavor_id | game_index |
 |----|------------|-------------------|-------------------|-----------------|-----------------|------------|
 | 1  | hardy      | 2                 | 2                 | 1               | 1               | 0          |

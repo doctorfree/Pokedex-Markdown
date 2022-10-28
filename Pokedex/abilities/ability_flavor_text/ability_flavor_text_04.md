@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - ability_flavor_text
+categories:
+    - pokemon
+---
+
+# ability_flavor_text
+
 | ability_id | version_group_id | language_id | flavor_text |
 |------------|------------------|-------------|-------------|
 |  86 |   15 | 5 |     Le Pokémon est sujet à des variations de stats. |

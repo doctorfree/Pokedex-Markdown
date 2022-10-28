@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_categories
+categories:
+    - pokemon
+---
+
 | id | pocket_id |    identifier     |
 |----|-----------|-------------------|
 | 1  | 7         | stat-boosts       |

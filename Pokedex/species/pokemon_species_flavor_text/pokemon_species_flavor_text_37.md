@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  753 |   30 |    5 |      Il raffole de la lumière du jour. Sa couleur devient de plus en plus vive à mesure qu'il s'abreuve des rayons du soleil. |

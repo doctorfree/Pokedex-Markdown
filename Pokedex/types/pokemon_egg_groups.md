@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - pokemon_egg_groups
+categories:
+    - pokemon
+---
+
 | species_id | egg_group_id |
 |------------|--------------|
 | 1          | 1            |

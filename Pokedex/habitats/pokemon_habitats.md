@@ -1,3 +1,11 @@
+---
+tags:
+    - habitats
+    - pokemon_habitats
+categories:
+    - pokemon
+---
+
 | id |  identifier   |
 |----|---------------|
 | 1  | cave          |

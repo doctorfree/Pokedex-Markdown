@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - pokemon_abilities
+categories:
+    - pokemon
+---
+
+# pokemon_abilities
+
 | pokemon_id | ability_id | is_hidden | slot |
 |------------|------------|-----------|------|
 | 1          | 65         | 0         | 1    |

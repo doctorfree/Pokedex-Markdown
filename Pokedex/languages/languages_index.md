@@ -1,3 +1,11 @@
+---
+tags:
+    - languages
+    - languages_index
+categories:
+    - pokemon
+---
+
 # languages
 
 Index of languages category

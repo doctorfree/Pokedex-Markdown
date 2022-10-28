@@ -1,3 +1,11 @@
+---
+tags:
+    - habitats
+    - pokemon_habitat_names
+categories:
+    - pokemon
+---
+
 | pokemon_habitat_id | local_language_id |       name       |
 |--------------------|-------------------|------------------|
 | 1                  | 5                 | grottes          |

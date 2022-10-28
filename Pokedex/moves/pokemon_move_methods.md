@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - pokemon_move_methods
+categories:
+    - pokemon
+---
+
 | id |       identifier        |
 |----|-------------------------|
 | 1  | level-up                |

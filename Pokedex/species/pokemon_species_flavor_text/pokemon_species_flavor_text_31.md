@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  595 |   33 |    3 |      포켓몬의 몸에 들러붙어 정전기를 흡수한다. 스스로는 전기를 만들 수 없다. |

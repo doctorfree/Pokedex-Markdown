@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - stats_index
+categories:
+    - pokemon
+---
+
 # stats
 
 Index of stats category

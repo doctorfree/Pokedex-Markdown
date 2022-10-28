@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_move_data
+categories:
+    - pokemon
+---
+
 | move_id | power | accuracy | effect_chance | effect_id | range_id | displacement_id |
 |---------|-------|----------|---------------|-----------|----------|-----------------|
 | 1       | 26    | 100      |               | 60        | 2        |                 |

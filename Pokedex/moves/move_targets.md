@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_targets
+categories:
+    - pokemon
+---
+
 | id |        identifier         |
 |----|---------------------------|
 | 1  | specific-move             |

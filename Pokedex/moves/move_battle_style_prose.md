@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_battle_style_prose
+categories:
+    - pokemon
+---
+
 | move_battle_style_id | local_language_id |    name    |
 |----------------------|-------------------|------------|
 | 1                    | 5                 | Attaque    |

@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - moves_index
+categories:
+    - pokemon
+---
+
 # moves
 
 Index of moves category

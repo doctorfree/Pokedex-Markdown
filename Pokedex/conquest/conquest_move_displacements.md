@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_move_displacements
+categories:
+    - pokemon
+---
+
 | id |    identifier    | affects_target |
 |----|------------------|----------------|
 | 1  | advance-1        | 0              |

@@ -1,3 +1,11 @@
+---
+tags:
+    - pokedexes
+    - pokedexes_index
+categories:
+    - pokemon
+---
+
 # pokedexes
 
 Index of pokedexes category

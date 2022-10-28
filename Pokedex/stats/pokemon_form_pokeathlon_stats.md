@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - pokemon_form_pokeathlon_stats
+categories:
+    - pokemon
+---
+
 | pokemon_form_id | pokeathlon_stat_id | minimum_stat | base_stat | maximum_stat |
 |-----------------|--------------------|--------------|-----------|--------------|
 | 1               | 1                  | 2            | 2         | 3            |

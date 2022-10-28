@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_meta_stat_changes
+categories:
+    - pokemon
+---
+
 | move_id | stat_id | change |
 |---------|---------|--------|
 | 14      | 2       | 2      |

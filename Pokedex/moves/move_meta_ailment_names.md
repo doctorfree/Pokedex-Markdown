@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_meta_ailment_names
+categories:
+    - pokemon
+---
+
 | move_meta_ailment_id | local_language_id |           name            |
 |----------------------|-------------------|---------------------------|
 | -1                   | 5                 | ????                      |

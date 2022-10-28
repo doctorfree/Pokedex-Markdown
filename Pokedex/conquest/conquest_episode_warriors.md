@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_episode_warriors
+categories:
+    - pokemon
+---
+
 | episode_id | warrior_id |
 |------------|------------|
 | 1          | 1          |

@@ -1,3 +1,11 @@
+---
+tags:
+    - habitats
+    - habitats_index
+categories:
+    - pokemon
+---
+
 # habitats
 
 Index of habitats category

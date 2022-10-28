@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_kingdom_names
+categories:
+    - pokemon
+---
+
 | kingdom_id | local_language_id |   name    |
 |------------|-------------------|-----------|
 | 1          | 9                 | Aurora    |

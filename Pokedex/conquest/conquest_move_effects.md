@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_move_effects
+categories:
+    - pokemon
+---
+
 | id |
 |----|
 | 1  |

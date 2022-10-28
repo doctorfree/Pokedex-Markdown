@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_category_prose
+categories:
+    - pokemon
+---
+
 | item_category_id | local_language_id |       name        |
 |------------------|-------------------|-------------------|
 | 1                | 9                 | Stat boosts       |

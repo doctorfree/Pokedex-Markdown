@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  210 |   30 |    5 |      Les jeunes gens en sont fous, mais sa timidité et sa grande délicatesse en font un piètre Pokémon de garde. |

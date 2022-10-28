@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  198       19 |  |  12 |     携带后进行攻击， 在造成伤害时， 有时会让对手畏缩。 |

@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - egg_groups
+categories:
+    - pokemon
+---
+
 | id |  identifier   |
 |----|---------------|
 | 1  | monster       |

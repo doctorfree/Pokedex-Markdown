@@ -1,3 +1,11 @@
+---
+tags:
+    - growth_rates
+    - experience
+categories:
+    - pokemon
+---
+
 | growth_rate_id | level | experience |
 |----------------|-------|------------|
 | 1              | 1     | 0          |

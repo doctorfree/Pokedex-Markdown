@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  644 |   23 |    11 |     稲妻で　世界を　焼きつくせる 伝説の　ポケモン。理想の 世界を　つくる　人を　補佐する。 |

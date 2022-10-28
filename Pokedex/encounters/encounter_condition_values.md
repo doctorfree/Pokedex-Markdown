@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_condition_values
+categories:
+    - pokemon
+---
+
 | id | encounter_condition_id |   identifier    | is_default |
 |----|------------------------|-----------------|------------|
 | 1  | 1                      | swarm-yes       | 0          |

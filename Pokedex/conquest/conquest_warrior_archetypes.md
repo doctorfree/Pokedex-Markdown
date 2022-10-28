@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_archetypes
+categories:
+    - pokemon
+---
+
 | id |   identifier    |
 |----|-----------------|
 | 1  | armor-veteran   |

@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_stat_names
+categories:
+    - pokemon
+---
+
 | conquest_stat_id | local_language_id |   name    |
 |------------------|-------------------|-----------|
 | 1                | 7                 | PS        |

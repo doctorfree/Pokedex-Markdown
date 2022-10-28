@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - locations_index
+categories:
+    - pokemon
+---
+
 # locations
 
 Index of locations category

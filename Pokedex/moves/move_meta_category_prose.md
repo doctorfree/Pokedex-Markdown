@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_meta_category_prose
+categories:
+    - pokemon
+---
+
 | move_meta_category_id | local_language_id |                        description                        |
 |-----------------------|-------------------|-----------------------------------------------------------|
 | 0                     | 9                 | Inflicts damage                                           |

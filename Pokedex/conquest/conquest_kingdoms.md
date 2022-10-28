@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_kingdoms
+categories:
+    - pokemon
+---
+
 | id | identifier | type_id |
 |----|------------|---------|
 | 1  | aurora     | 1       |

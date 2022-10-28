@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_conditions
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | swarm      |

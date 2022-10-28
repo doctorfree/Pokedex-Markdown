@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_stats
+categories:
+    - pokemon
+---
+
 | id | identifier | is_base |
 |----|------------|---------|
 | 1  | hp         | 1       |

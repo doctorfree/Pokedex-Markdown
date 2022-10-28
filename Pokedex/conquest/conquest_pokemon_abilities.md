@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_pokemon_abilities
+categories:
+    - pokemon
+---
+
 | pokemon_species_id | slot | ability_id |
 |--------------------|------|------------|
 | 4                  | 1    | 66         |

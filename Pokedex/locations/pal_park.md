@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - pal_park
+categories:
+    - pokemon
+---
+
 | species_id | area_id | base_score | rate |
 |------------|---------|------------|------|
 | 1          | 2       | 50         | 30   |

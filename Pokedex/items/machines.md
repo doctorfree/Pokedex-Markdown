@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - machines
+categories:
+    - pokemon
+---
+
 | machine_number | version_group_id | item_id | move_id |
 |----------------|------------------|---------|---------|
 | 0              | 20               | 1288    | 5       |

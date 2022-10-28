@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - type_names
+categories:
+    - pokemon
+---
+
 | type_id | local_language_id |    name    |
 |---------|-------------------|------------|
 | 1       | 1                 | ノーマル       |

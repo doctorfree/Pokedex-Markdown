@@ -1,3 +1,11 @@
+---
+tags:
+    - colors
+    - pokemon_colors
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | black      |

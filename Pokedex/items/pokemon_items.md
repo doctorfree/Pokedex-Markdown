@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - pokemon_items
+categories:
+    - pokemon
+---
+
 | pokemon_id | version_id | item_id | rarity |
 |------------|------------|---------|--------|
 | 12         | 7          | 199     | 5      |

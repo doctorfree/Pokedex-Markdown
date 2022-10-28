@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  62 | 19 |  |  4 |      大大提高戰鬥中 寶可夢特防的道具。 離場後，效果便會消失。 |

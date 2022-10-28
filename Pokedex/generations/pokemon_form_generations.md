@@ -1,3 +1,11 @@
+---
+tags:
+    - generations
+    - pokemon_form_generations
+categories:
+    - pokemon
+---
+
 | pokemon_form_id | generation_id | game_index |
 |-----------------|---------------|------------|
 | 1               | 1             | 0          |

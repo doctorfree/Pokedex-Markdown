@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - location_areas
+categories:
+    - pokemon
+---
+
 | id  | location_id | game_index |           identifier           |
 |-----|-------------|------------|--------------------------------|
 | 1   | 1           | 1          |                                |

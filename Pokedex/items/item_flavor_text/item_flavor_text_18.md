@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  626       11 |  |  9 |      A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price. |

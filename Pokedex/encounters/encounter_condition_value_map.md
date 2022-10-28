@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_condition_value_map
+categories:
+    - pokemon
+---
+
 | encounter_id | encounter_condition_value_id |
 |--------------|------------------------------|
 | 125          | 2                            |

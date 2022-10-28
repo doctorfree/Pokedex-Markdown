@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounters
+categories:
+    - pokemon
+---
+
 # encounters
 
 The Pokemon encounters markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.

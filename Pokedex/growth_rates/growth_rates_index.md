@@ -1,3 +1,11 @@
+---
+tags:
+    - growth_rates
+    - growth_rates_index
+categories:
+    - pokemon
+---
+
 # growth_rates
 
 Index of growth_rates category

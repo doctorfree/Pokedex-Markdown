@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  975       18 |  |  6 |      Kristallisierte Z-Kraft, die bei Necrozma nach der Fusion mit Solgaleo oder Lunala bewirkt, dass es eine neue Form annimmt. |

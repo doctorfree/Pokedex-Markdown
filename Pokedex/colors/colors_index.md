@@ -1,3 +1,11 @@
+---
+tags:
+    - colors
+    - colors_index
+categories:
+    - pokemon
+---
+
 # colors
 
 Index of colors category

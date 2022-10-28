@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - types
+categories:
+    - pokemon
+---
+
 |  id   | identifier | generation_id | damage_class_id |
 |-------|------------|---------------|-----------------|
 | 1     | normal     | 1             | 2               |

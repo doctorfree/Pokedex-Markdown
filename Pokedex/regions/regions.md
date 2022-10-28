@@ -1,3 +1,11 @@
+---
+tags:
+    - regions
+    - regions
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | kanto      |

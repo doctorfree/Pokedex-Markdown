@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_changelog
+categories:
+    - pokemon
+---
+
 | move_id | changed_in_version_group_id | type_id | power | pp | accuracy | priority | target_id | effect_id | effect_chance |
 |---------|-----------------------------|---------|-------|----|----------|----------|-----------|-----------|---------------|
 | 2       | 3                           | 1       |       |    |          |          |           |           |               |

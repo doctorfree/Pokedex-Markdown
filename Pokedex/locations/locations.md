@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - locations
+categories:
+    - pokemon
+---
+
 | id  | region_id |            identifier            |
 |-----|-----------|----------------------------------|
 | 1   | 4         | canalave-city                    |

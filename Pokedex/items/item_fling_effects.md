@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_fling_effects
+categories:
+    - pokemon
+---
+
 | id |  identifier  |
 |----|--------------|
 | 1  | badly-poison |

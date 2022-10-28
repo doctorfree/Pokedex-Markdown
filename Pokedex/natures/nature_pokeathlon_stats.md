@@ -1,3 +1,11 @@
+---
+tags:
+    - natures
+    - nature_pokeathlon_stats
+categories:
+    - pokemon
+---
+
 | nature_id | pokeathlon_stat_id | max_change |
 |-----------|--------------------|------------|
 | 1         | 1                  | -1         |

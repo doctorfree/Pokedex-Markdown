@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_names
+categories:
+    - pokemon
+---
+
 | move_id | local_language_id |             name             |
 |---------|-------------------|------------------------------|
 | 1       | 1                 | はたく                          |

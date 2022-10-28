@@ -1,3 +1,11 @@
+---
+tags:
+    - characteristics
+    - characteristic_text
+categories:
+    - pokemon
+---
+
 | characteristic_id | local_language_id |                   message                   |
 |-------------------|-------------------|---------------------------------------------|
 | 1                 | 1                 | たべるのが　だいすき                                  |

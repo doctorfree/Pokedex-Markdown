@@ -1,3 +1,11 @@
+---
+tags:
+    - shapes
+    - pokemon_shapes
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | ball       |

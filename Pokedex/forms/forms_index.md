@@ -1,3 +1,11 @@
+---
+tags:
+    - forms
+    - forms_index
+categories:
+    - pokemon
+---
+
 # forms
 
 Index of forms category

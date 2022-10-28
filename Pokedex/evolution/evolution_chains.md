@@ -1,3 +1,11 @@
+---
+tags:
+    - evolution
+    - evolution_chains
+categories:
+    - pokemon
+---
+
 | id  | baby_trigger_item_id |
 |-----|----------------------|
 | 1   |                      |

@@ -1,3 +1,11 @@
+---
+tags:
+    - abilities
+    - abilities_index
+categories:
+    - pokemon
+---
+
 # abilities
 
 Index of abilities category

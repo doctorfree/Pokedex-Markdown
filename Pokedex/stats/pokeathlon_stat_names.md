@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - pokeathlon_stat_names
+categories:
+    - pokemon
+---
+
 | pokeathlon_stat_id | local_language_id |   name    |
 |--------------------|-------------------|-----------|
 | 1                  | 5                 | Vitesse   |

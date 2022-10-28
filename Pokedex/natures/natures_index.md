@@ -1,3 +1,11 @@
+---
+tags:
+    - natures
+    - natures_index
+categories:
+    - pokemon
+---
+
 # natures
 
 Index of natures category

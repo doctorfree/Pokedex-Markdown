@@ -1,3 +1,11 @@
+---
+tags:
+    - berries
+    - berry_flavors
+categories:
+    - pokemon
+---
+
 | berry_id | contest_type_id | flavor |
 |----------|-----------------|--------|
 | 1        | 1               | 10     |

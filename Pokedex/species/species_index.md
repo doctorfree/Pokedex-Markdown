@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - species_index
+categories:
+    - pokemon
+---
+
 # species
 
 Index of species category

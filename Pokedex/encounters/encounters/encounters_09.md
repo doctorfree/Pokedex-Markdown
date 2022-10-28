@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounters
+categories:
+    - pokemon
+---
+
 |  id | version_id | location_area_id | encounter_slot_id | pokemon_id | min_level | max_level |
 |-----|------------|------------------|-------------------|------------|-----------|------- ---|
 |  52625 | 4 |314 |529 | 118 |  40 |  40 |

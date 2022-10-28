@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - ability_changelog_prose
+categories:
+    - pokemon
+---
+
+# ability_changelog_prose
+
 | ability_changelog_id | local_language_id |                                                                                                effect                                                                                                 |
 |----------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                    | 6                 | Hat im Kampf keinen Effekt.                                                                                                                                                                           |

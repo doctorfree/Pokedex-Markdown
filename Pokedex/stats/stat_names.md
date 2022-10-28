@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - stat_names
+categories:
+    - pokemon
+---
+
 | stat_id | local_language_id |        name         |
 |---------|-------------------|---------------------|
 | 1       | 1                 | HP                  |

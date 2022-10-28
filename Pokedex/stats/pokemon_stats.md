@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - pokemon_stats
+categories:
+    - pokemon
+---
+
 | pokemon_id | stat_id | base_stat | effort |
 |------------|---------|-----------|--------|
 | 1          | 1       | 45        | 0      |

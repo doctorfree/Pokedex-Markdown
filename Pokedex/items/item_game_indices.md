@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_game_indices
+categories:
+    - pokemon
+---
+
 | item_id | generation_id | game_index |
 |---------|---------------|------------|
 | 1       | 3             | 1          |

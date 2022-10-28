@@ -1,3 +1,11 @@
+---
+tags:
+    - generations
+    - generations
+categories:
+    - pokemon
+---
+
 | id | main_region_id |   identifier    |
 |----|----------------|-----------------|
 | 1  | 1              | generation-i    |

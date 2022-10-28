@@ -1,3 +1,11 @@
+---
+tags:
+    - growth_rates
+    - growth_rate_prose
+categories:
+    - pokemon
+---
+
 | growth_rate_id | local_language_id |            name            |
 |----------------|-------------------|----------------------------|
 | 1              | 5                 | lente                      |

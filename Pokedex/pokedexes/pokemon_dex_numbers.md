@@ -1,3 +1,11 @@
+---
+tags:
+    - pokedexes
+    - pokemon_dex_numbers
+categories:
+    - pokemon
+---
+
 | species_id | pokedex_id | pokedex_number |
 |------------|------------|----------------|
 | 1          | 1          | 1              |

@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_condition_prose
+categories:
+    - pokemon
+---
+
 | encounter_condition_id | local_language_id |               name                |
 |------------------------|-------------------|-----------------------------------|
 | 1                      | 5                 | Essaim                            |

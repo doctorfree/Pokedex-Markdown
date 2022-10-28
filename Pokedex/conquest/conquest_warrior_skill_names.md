@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_skill_names
+categories:
+    - pokemon
+---
+
 | skill_id | local_language_id |      name       |
 |----------|-------------------|-----------------|
 | 1        | 9                 | Adrenaline      |

@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  190 |   25 |    3 |      능숙하게 움직이는 꼬리 끝을 손바닥 대신 사용하다 보니 반대로 양손이 둔해져 버린 포켓몬이다. |

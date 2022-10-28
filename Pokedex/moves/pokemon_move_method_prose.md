@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - pokemon_move_method_prose
+categories:
+    - pokemon
+---
+
 | pokemon_move_method_id | local_language_id |            name            |                                                                           description                                                                            |
 |------------------------|-------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                      | 6                 | Level up                   | Wird gelernt, wenn ein Pokémon ein bestimmtes Level erreicht.                                                                                                    |

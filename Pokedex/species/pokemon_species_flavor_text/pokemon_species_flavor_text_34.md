@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  676 |   23 |    3 |      복슬복슬한 털을 깎고 다듬으면 모습이 아름다워질 뿐만 아니라 몸의 움직임도 좋아진다. |

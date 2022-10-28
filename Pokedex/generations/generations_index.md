@@ -1,3 +1,11 @@
+---
+tags:
+    - generations
+    - generations_index
+categories:
+    - pokemon
+---
+
 # generations
 
 Index of generations category

@@ -1,3 +1,11 @@
+---
+tags:
+    - generations
+    - generation_names
+categories:
+    - pokemon
+---
+
 | generation_id | local_language_id |      name       |
 |---------------|-------------------|-----------------|
 | 1             | 1                 | だいいちせだい         |

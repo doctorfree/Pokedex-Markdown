@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_episode_names
+categories:
+    - pokemon
+---
+
 | episode_id | local_language_id |              name               |
 |------------|-------------------|---------------------------------|
 | 1          | 7                 | La Leyenda de Ransei            |

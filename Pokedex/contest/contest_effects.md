@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - contest_effects
+categories:
+    - pokemon
+---
+
 | id | appeal | jam |
 |----|--------|-----|
 | 1  | 4      | 0   |

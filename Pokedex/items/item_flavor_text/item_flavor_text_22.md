@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  797       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Galagladi getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |

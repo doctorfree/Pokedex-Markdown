@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_pokemon_stats
+categories:
+    - pokemon
+---
+
 | pokemon_species_id | conquest_stat_id | base_stat |
 |--------------------|------------------|-----------|
 | 4                  | 1                | 188       |

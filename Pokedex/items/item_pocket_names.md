@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_pocket_names
+categories:
+    - pokemon
+---
+
 | item_pocket_id | local_language_id |        name        |
 |----------------|-------------------|--------------------|
 | 1              | 5                 | Objets             |

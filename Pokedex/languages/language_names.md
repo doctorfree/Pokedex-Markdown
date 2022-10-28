@@ -1,3 +1,11 @@
+---
+tags:
+    - languages
+    - language_names
+categories:
+    - pokemon
+---
+
 | language_id | local_language_id |       name       |
 |-------------|-------------------|------------------|
 | 1           | 1                 | 日本語              |

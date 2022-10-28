@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  342 |   17 |    5 |      C'est un voyou qui utilise ses pinces pour chasser les autres Pokémon hors de sa mare. |

@@ -1,3 +1,11 @@
+---
+tags:
+    - versions
+    - pokedex_version_groups
+categories:
+    - pokemon
+---
+
 | pokedex_id | version_group_id |
 |------------|------------------|
 | 2          | 1                |

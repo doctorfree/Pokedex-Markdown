@@ -1,3 +1,11 @@
+---
+tags:
+    - berries
+    - berry_firmness_names
+categories:
+    - pokemon
+---
+
 | berry_firmness_id | local_language_id |    name     |
 |-------------------|-------------------|-------------|
 | 1                 | 5                 | Très tendre |

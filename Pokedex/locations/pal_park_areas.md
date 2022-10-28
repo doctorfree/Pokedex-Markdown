@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - pal_park_areas
+categories:
+    - pokemon
+---
+
 | id | identifier |
 |----|------------|
 | 1  | forest     |

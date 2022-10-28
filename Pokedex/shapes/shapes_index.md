@@ -1,3 +1,11 @@
+---
+tags:
+    - shapes
+    - shapes_index
+categories:
+    - pokemon
+---
+
 # shapes
 
 Index of shapes category

@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_names
+categories:
+    - pokemon
+---
+
 | warrior_id | local_language_id |    name    |
 |------------|-------------------|------------|
 | 1          | 9                 | Player ♂   |

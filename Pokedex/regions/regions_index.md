@@ -1,3 +1,11 @@
+---
+tags:
+    - regions
+    - regions_index
+categories:
+    - pokemon
+---
+
 # regions
 
 Index of regions category

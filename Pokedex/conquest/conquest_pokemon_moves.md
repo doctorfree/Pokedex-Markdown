@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_pokemon_moves
+categories:
+    - pokemon
+---
+
 | pokemon_species_id | move_id |
 |--------------------|---------|
 | 4                  | 52      |

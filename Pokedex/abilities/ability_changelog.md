@@ -1,3 +1,13 @@
+---
+tags:
+    - abilities
+    - ability_changelog
+categories:
+    - pokemon
+---
+
+# ability_changelog
+
 | id | ability_id | changed_in_version_group_id |
 |----|------------|-----------------------------|
 | 1  | 1          | 11                          |

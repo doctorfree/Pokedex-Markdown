@@ -1,3 +1,11 @@
+---
+tags:
+    - stats
+    - stats
+categories:
+    - pokemon
+---
+
 | id | damage_class_id |   identifier    | is_battle_only | game_index |
 |----|-----------------|-----------------|----------------|------------|
 | 1  |                 | hp              | 0              | 1          |

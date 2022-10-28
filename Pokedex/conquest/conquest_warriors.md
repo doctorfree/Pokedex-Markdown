@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warriors
+categories:
+    - pokemon
+---
+
 | id  | identifier | gender_id | archetype_id |
 |-----|------------|-----------|--------------|
 | 1   | player-m   | 2         |              |

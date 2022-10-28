@@ -1,3 +1,11 @@
+---
+tags:
+    - pokemon
+    - types
+categories:
+    - pokemon
+---
+
 # Pokémon
 
 ## Table of Contents

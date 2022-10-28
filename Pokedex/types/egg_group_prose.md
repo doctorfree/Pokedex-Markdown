@@ -1,3 +1,11 @@
+---
+tags:
+    - types
+    - egg_group_prose
+categories:
+    - pokemon
+---
+
 | egg_group_id | local_language_id |        name         |
 |--------------|-------------------|---------------------|
 | 1            | 1                 | かいじゅう               |

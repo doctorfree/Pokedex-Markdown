@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - pokemon_moves
+categories:
+    - pokemon
+---
+
 # pokemon_moves
 
 The Pokemon moves markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.

@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - contest_combos
+categories:
+    - pokemon
+---
+
 | first_move_id | second_move_id |
 |---------------|----------------|
 | 1             | 3              |

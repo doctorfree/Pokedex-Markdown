@@ -1,3 +1,11 @@
+---
+tags:
+    - colors
+    - pokemon_color_names
+categories:
+    - pokemon
+---
+
 | pokemon_color_id | local_language_id |   name   |
 |------------------|-------------------|----------|
 | 1                | 1                 | くろいろ     |

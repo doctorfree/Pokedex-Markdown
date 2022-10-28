@@ -1,3 +1,11 @@
+---
+tags:
+    - contest
+    - super_contest_combos
+categories:
+    - pokemon
+---
+
 | first_move_id | second_move_id |
 |---------------|----------------|
 | 74            | 345            |

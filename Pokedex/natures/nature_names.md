@@ -1,3 +1,11 @@
+---
+tags:
+    - natures
+    - nature_names
+categories:
+    - pokemon
+---
+
 | nature_id | local_language_id |  name   |
 |-----------|-------------------|---------|
 | 1         | 1                 | がんばりや   |

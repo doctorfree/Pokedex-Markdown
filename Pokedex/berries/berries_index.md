@@ -1,3 +1,11 @@
+---
+tags:
+    - berries
+    - berries_index
+categories:
+    - pokemon
+---
+
 # berries
 
 Index of berries category

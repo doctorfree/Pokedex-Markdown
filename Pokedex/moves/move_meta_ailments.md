@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_meta_ailments
+categories:
+    - pokemon
+---
+
 | id |    identifier    |
 |----|------------------|
 | -1 | unknown          |

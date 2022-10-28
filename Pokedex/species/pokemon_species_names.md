@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_names
+categories:
+    - pokemon
+---
+
 | pokemon_species_id | local_language_id |     name     |          genus           |
 |--------------------|-------------------|--------------|--------------------------|
 | 1                  | 1                 | フシギダネ        | たねポケモン                   |

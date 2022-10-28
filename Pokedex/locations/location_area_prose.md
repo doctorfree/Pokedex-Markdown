@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - location_area_prose
+categories:
+    - pokemon
+---
+
 | location_area_id | local_language_id |             name              |
 |------------------|-------------------|-------------------------------|
 | 1                | 9                 |                               |

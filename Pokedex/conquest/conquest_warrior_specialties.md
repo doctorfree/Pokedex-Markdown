@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_warrior_specialties
+categories:
+    - pokemon
+---
+
 | warrior_id | type_id | slot |
 |------------|---------|------|
 | 1          | 1       | 1    |

@@ -1,3 +1,11 @@
+---
+tags:
+    - conquest
+    - conquest_transformation_pokemon
+categories:
+    - pokemon
+---
+
 | transformation_id | pokemon_species_id |
 |-------------------|--------------------|
 | 3                 | 133                |

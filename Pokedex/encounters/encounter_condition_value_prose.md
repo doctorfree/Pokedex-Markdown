@@ -1,3 +1,11 @@
+---
+tags:
+    - encounters
+    - encounter_condition_value_prose
+categories:
+    - pokemon
+---
+
 | encounter_condition_value_id | local_language_id |              name              |
 |------------------------------|-------------------|--------------------------------|
 | 1                            | 6                 | Während eines Schwarms         |

@@ -1,3 +1,11 @@
+---
+tags:
+    - moves
+    - move_flavor_text
+categories:
+    - pokemon
+---
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  596       16 |  |  9 |      In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact. |

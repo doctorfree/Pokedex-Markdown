@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flags
+categories:
+    - pokemon
+---
+
 | id |    identifier    |
 |----|------------------|
 | 1  | countable        |

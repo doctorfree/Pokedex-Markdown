@@ -1,3 +1,11 @@
+---
+tags:
+    - locations
+    - location_names
+categories:
+    - pokemon
+---
+
 | location_id | local_language_id |           name            |       subtitle       |
 |-------------|-------------------|---------------------------|----------------------|
 | 1           | 5                 | Joliberges                |                      |

@@ -1,3 +1,11 @@
+---
+tags:
+    - regions
+    - region_names
+categories:
+    - pokemon
+---
+
 | region_id | local_language_id |  name  |
 |-----------|-------------------|--------|
 | 1         | 1                 | カントー地方 |

@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  621 |   33 |    3 |      토굴에 산다. 몸이 차가워지면 움직이지 못하기 때문에 일광욕을 거르지 않는다. |

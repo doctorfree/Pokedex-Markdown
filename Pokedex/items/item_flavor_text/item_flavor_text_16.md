@@ -1,3 +1,11 @@
+---
+tags:
+    - items
+    - item_flavor_text
+categories:
+    - pokemon
+---
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  536       20 |  |  11 |     砂漠の　すなあらしから 目を　守ってくれる すてきな　ゴーグル。 |

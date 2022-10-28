@@ -1,3 +1,11 @@
+---
+tags:
+    - shapes
+    - pokemon_shape_prose
+categories:
+    - pokemon
+---
+
 | pokemon_shape_id | local_language_id |      name       |   awesome_name    |                         description                          |
 |------------------|-------------------|-----------------|-------------------|--------------------------------------------------------------|
 | 1                | 5                 | Balle           | Pomacé            | Pokémon constitués uniquement d'une tête                     |

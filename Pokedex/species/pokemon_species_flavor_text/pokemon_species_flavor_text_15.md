@@ -1,3 +1,11 @@
+---
+tags:
+    - species
+    - pokemon_species_flavor_text
+categories:
+    - pokemon
+---
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  229 |   30 |    4 |      特徵是令人不寒而慄的長嚎。 過去人們認為牠是來自 地獄的使者，對牠十分畏懼。 |
