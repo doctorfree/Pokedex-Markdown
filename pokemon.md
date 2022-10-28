@@ -1,6 +1,30 @@
 # Pokémon
 
-## Types Legend
+## Table of Contents
+
+- [Pokédex](#pokédex)
+- [Pokémon Types](#pokémon-types)
+    - [Types Legend](#types-legend)
+    - [Types](#types)
+- [See Also](#see-also)
+
+## Pokédex
+
+Browse the markdown [Pokédex](Pokedex/pokemon.md).
+
+Jump directly to one of the Pokédex categories:
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| **[Abilities](Pokedex/abilities/abilities_index.md)** | **[Berries](Pokedex/berries/berries_index.md)** | **[Characteristics](Pokedex/characteristics/characteristics_index.md)** | **[Colors](Pokedex/colors/colors_index.md)** | **[Conquest](Pokedex/conquest/conquest_index.md)** |
+| **[Contest](Pokedex/contest/contest_index.md)** | **[Encounters](Pokedex/encounters/encounters_index.md)** | **[Evolution](Pokedex/evolution/evolution_index.md)** | **[Forms](Pokedex/forms/forms_index.md)** | **[Generations](Pokedex/generations/generations_index.md)** |
+| **[Growth rates](Pokedex/growth_rates/growth_rates_index.md)** | **[Habitats](Pokedex/habitats/habitats_index.md)** | **[Items](Pokedex/items/items_index.md)** | **[Languages](Pokedex/languages/languages_index.md)** | **[Locations](Pokedex/locations/locations_index.md)** |
+| **[Moves](Pokedex/moves/moves_index.md)** | **[Natures](Pokedex/natures/natures_index.md)** | **[Pokedexes](Pokedex/pokedexes/pokedexes_index.md)** | **[Regions](Pokedex/regions/regions_index.md)** | **[Shapes](Pokedex/shapes/shapes_index.md)** |
+| **[Species](Pokedex/species/species_index.md)** | **[Stats](Pokedex/stats/stats_index.md)** | **[Translations](Pokedex/translations/translations_index.md)** | **[Types](Pokedex/types/types_index.md)** | **[Versions](Pokedex/versions/versions_index.md)** |
+
+## Pokémon Types
+
+### Types Legend
 
 | **Bug** | **Dark** | **Dragon** | **Electric** | **Fairy** | **Fighting** | **Fire** | **Flying** | **Ghost** |
 |---|---|---|---|---|---|---|---|---|
@@ -8,7 +32,7 @@
 | **Grass** | **Ground** | **Ice** | **Normal** | **Poison** | **Psychic** | **Rock** | **Steel** | **Water** |
 | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif) | ![Ice](https://vignette.wikia.nocookie.net/pokemon/images/8/84/Type_Ice.gif) | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif) | ![Rock](https://vignette.wikia.nocookie.net/pokemon/images/b/b3/Type_Rock.gif) | ![Steel](https://vignette.wikia.nocookie.net/pokemon/images/a/ab/Type_Steel.gif) | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) |
 
-## Pokémon Pokedex
+### Types
 
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
@@ -822,3 +846,9 @@
 |||||
 |||||
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
+
+## See Also
+
+- [README](README.md)
+- [Pokemon fetch script](pokefetch.md)
+- [CSV to Markdown script](csv2md.md)
