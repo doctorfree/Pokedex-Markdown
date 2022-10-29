@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# ability_flavor_text
+# Ability flavor text
 
 | ability_id | version_group_id | language_id | flavor_text |
 |------------|------------------|-------------|-------------|

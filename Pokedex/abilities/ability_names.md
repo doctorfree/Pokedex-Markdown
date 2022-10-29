@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# ability_names
+# Ability names
 
 | ability_id | local_language_id |       name       |
 |------------|-------------------|------------------|

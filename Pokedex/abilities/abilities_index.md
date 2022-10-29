@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# abilities
+# Abilities index
 
 Index of abilities category
 

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# genders
+# Genders
 
 | id | identifier |
 |----|------------|

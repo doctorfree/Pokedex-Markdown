@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# pokemon_abilities
+# Pokemon abilities
 
 | pokemon_id | ability_id | is_hidden | slot |
 |------------|------------|-----------|------|

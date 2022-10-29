@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# ability_flavor_text
+# Ability flavor text
 
 The Pokemon ability flavor text markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.
 

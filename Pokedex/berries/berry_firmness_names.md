@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Berry Firmness Names
+
 | berry_firmness_id | local_language_id |    name     |
 |-------------------|-------------------|-------------|
 | 1                 | 5                 | Très tendre |

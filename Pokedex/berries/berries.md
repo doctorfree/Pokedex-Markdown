@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Berries
+
 | id | item_id | firmness_id | natural_gift_power | natural_gift_type_id | size | max_harvest | growth_time | soil_dryness | smoothness |
 |----|---------|-------------|--------------------|----------------------|------|-------------|-------------|--------------|------------|
 | 1  | 126     | 2           | 60                 | 10                   | 20   | 5           | 3           | 15           | 25         |

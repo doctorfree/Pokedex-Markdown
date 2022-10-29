@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# abilities
+# Abilities
 
 |  id   |    identifier    | generation_id | is_main_series |
 |-------|------------------|---------------|----------------|

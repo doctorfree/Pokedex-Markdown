@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# berries
+# Berries index
 
 Index of berries category
 

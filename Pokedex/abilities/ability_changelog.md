@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# ability_changelog
+# Ability changelog
 
 | id | ability_id | changed_in_version_group_id |
 |----|------------|-----------------------------|

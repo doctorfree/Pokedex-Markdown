@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Berry Flavors
+
 | berry_id | contest_type_id | flavor |
 |----------|-----------------|--------|
 | 1        | 1               | 10     |

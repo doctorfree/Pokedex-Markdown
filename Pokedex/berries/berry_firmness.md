@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Berry Firmness
+
 | id | identifier |
 |----|------------|
 | 1  | very-soft  |
