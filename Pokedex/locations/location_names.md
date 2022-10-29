@@ -8,8 +8,8 @@ categories:
 
 # Location names
 
-| location_id | local_language_id |           name            |       subtitle       |
-|-------------|-------------------|---------------------------|----------------------|
+| **Location id** | **Local language id** | **Name** | **Subtitle** |
+|-----------------|-----------------------|----------|--------------|
 | 1           | 5                 | Joliberges                |                      |
 | 1           | 9                 | Canalave City             |                      |
 | 2           | 5                 | Vestigion                 |                      |

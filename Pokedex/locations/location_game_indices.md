@@ -8,8 +8,8 @@ categories:
 
 # Location game indices
 
-| location_id | generation_id | game_index |
-|-------------|---------------|------------|
+| **Location id** | **Generation id** | **Game index** |
+|-----------------|-------------------|----------------|
 | 1           | 4             | 7          |
 | 2           | 4             | 9          |
 | 3           | 4             | 11         |

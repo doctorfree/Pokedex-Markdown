@@ -8,8 +8,8 @@ categories:
 
 # Languages
 
-| id | iso639 | iso3166 | identifier | official | order |
-|----|--------|---------|------------|----------|-------|
+| **Id** | **ISO639** | **ISO3166** | **Identifier** | **Official** | **Order** |
+|--------|------------|-------------|----------------|--------------|-----------|
 | 1  | ja     | jp      | ja-Hrkt    | 1        | 1     |
 | 2  | ja     | jp      | roomaji    | 1        | 3     |
 | 3  | ko     | kr      | ko         | 1        | 4     |

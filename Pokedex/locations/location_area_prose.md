@@ -8,8 +8,8 @@ categories:
 
 # Location area prose
 
-| location_area_id | local_language_id |             name              |
-|------------------|-------------------|-------------------------------|
+| **Location area id** | **Local language id** | **Name** |
+|----------------------|-----------------------|----------|
 | 1                | 9                 |                               |
 | 2                | 9                 |                               |
 | 3                | 9                 |                               |

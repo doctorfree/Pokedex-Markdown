@@ -8,8 +8,8 @@ categories:
 
 # Location area encounter rates
 
-| location_area_id | encounter_method_id | version_id | rate |
-|------------------|---------------------|------------|------|
+| **Location area id** | **Encounter method id** | **Version id** | **Rate** |
+|----------------------|-------------------------|----------------|----------|
 | 1                | 2                   | 12         | 25   |
 | 1                | 2                   | 13         | 25   |
 | 1                | 2                   | 14         | 25   |

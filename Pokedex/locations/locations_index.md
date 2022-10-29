@@ -10,12 +10,12 @@ categories:
 
 Index of locations category
 
-- [Location_area_encounter_rates](location_area_encounter_rates.md)
-- [Location_area_prose](location_area_prose.md)
-- [Location_areas](location_areas.md)
-- [Location_game_indices](location_game_indices.md)
-- [Location_names](location_names.md)
+- [Location area encounter rates](location_area_encounter_rates.md)
+- [Location area prose](location_area_prose.md)
+- [Location areas](location_areas.md)
+- [Location game indices](location_game_indices.md)
+- [Location names](location_names.md)
 - [Locations](locations.md)
-- [Pal_park_area_names](pal_park_area_names.md)
-- [Pal_park_areas](pal_park_areas.md)
-- [Pal_park](pal_park.md)
+- [Pal park area names](pal_park_area_names.md)
+- [Pal park areas](pal_park_areas.md)
+- [Pal park](pal_park.md)

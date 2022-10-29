@@ -10,5 +10,5 @@ categories:
 
 Index of languages category
 
-- [Language_names](language_names.md)
+- [Language names](language_names.md)
 - [Languages](languages.md)

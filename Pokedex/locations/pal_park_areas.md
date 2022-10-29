@@ -8,8 +8,8 @@ categories:
 
 # Pal park areas
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | forest     |
 | 2  | field      |
 | 3  | mountain   |

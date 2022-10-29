@@ -8,8 +8,8 @@ categories:
 
 # Locations
 
-| id  | region_id |            identifier            |
-|-----|-----------|----------------------------------|
+| **Id** | **Region id** | **Identifier** |
+|--------|---------------|----------------|
 | 1   | 4         | canalave-city                    |
 | 2   | 4         | eterna-city                      |
 | 3   | 4         | pastoria-city                    |

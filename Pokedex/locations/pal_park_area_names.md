@@ -8,8 +8,8 @@ categories:
 
 # Pal park area names
 
-| pal_park_area_id | local_language_id |   name   |
-|------------------|-------------------|----------|
+| **Pal park area id** | **Local language id** | **Name** |
+|----------------------|-----------------------|----------|
 | 1                | 5                 | Forêt    |
 | 1                | 7                 | Bosque   |
 | 1                | 9                 | Forest   |

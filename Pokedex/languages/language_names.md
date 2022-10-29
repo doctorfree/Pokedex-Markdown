@@ -8,8 +8,8 @@ categories:
 
 # Language names
 
-| language_id | local_language_id |       name       |
-|-------------|-------------------|------------------|
+| **Language id** | **Local language id** | **Name** |
+|-----------------|-----------------------|----------|
 | 1           | 1                 | 日本語              |
 | 1           | 3                 | 일본어              |
 | 1           | 5                 | Japonais         |
