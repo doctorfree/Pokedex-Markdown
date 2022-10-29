@@ -43,7 +43,7 @@ Enter the [Pokédex](Pokedex/pokemon.md) and behold the astonishing wealth of Po
 
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.
 
-![Graph View](Pokedex-Graph-View.png)
+![Graph View](graph-view.png)
 
 ## Tools
 
