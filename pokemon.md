@@ -11,6 +11,7 @@ categories:
 ## Table of Contents
 
 - [Pokédex](#pokédex)
+- [National Pokédex](national_pokedex.md)
 - [Pokémon Types](#pokémon-types)
     - [Types Legend](#types-legend)
     - [Types](#types)
@@ -44,7 +45,7 @@ Jump directly to one of the Pokédex categories:
 
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
-| 001 | Bulbasaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)|
+| 001 | [Bulbasaur](Pokemon/bulbasaur.md) | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)|
 | 002 | Ivysaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
 | 003 | Venusaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Venusaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png)|
 |004|Charmander|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Charmander](https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png)|

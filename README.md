@@ -9,6 +9,7 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
 ## Table of Contents
 
 - [Pokémon](pokemon.md)
+- [National Pokédex](national_pokedex.md)
 - [Pokédex Categories](#pokédex-categories)
 - [Pokédex](Pokedex/pokemon.md)
 - [Tools](#tools)
