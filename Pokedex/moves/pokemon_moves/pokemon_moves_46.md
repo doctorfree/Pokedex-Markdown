@@ -8,8 +8,8 @@ categories:
 
 # Pokemon moves
 
-| pokemon_id | version_group_id | move_id | pokemon_move_method_id | level | order |
-|------------|------------------|---------|------------------------|-------|-------|
+| **Pokemon id** | **Version group id** | **Move id** | **Pokemon move method id** | **Level** | **Order** |
+|----------------|----------------------|-------------|----------------------------|-----------|-----------|
 | 356        | 9                | 228     | 1                      | 25    |       |
 | 356        | 9                | 237     | 4                      | 0     |       |
 | 356        | 9                | 240     | 4                      | 0     |       |

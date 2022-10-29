@@ -8,8 +8,8 @@ categories:
 
 # Move effect changelog prose
 
-| move_effect_changelog_id | local_language_id |                                                                                                                                                                           effect                                                                                                                                                                           |
-|--------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Move effect changelog id** | **Local language id** | **Effect** |
+|------------------------------|-----------------------|------------|
 | 1                        | 9                 | Halves the target's [Defense]{mechanic:defense} for damage calculation, which is similar to doubling the attack's [power]{mechanic:power}.                                                                                                                                                                                                    |
 | 2                        | 9                 | Hits Pokémon under the effects of []{move:dig} and []{move:fly}.                                                                                                                                                                                                                                                                              |
 | 3                        | 9                 | Does nothing in trainer battles.                                                                                                                                                                                                                                                                                                              |

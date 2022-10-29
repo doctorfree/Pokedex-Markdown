@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  336       20 |  |  8 |      Chi la usa emette un forte verso per darsi coraggio e aumentare il proprio Attacco e quello degli alleati. |
 |  336       20 |  |  9 |      The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats. |
 |  336       20 |  |  11 |     大声で　ほえて　気合を　高め 自分と　味方の　攻撃を　あげる。 |

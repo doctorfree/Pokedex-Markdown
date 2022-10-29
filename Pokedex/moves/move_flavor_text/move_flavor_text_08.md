@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  268       15 |  |  7 |      Recarga energía para potenciar el siguiente movimiento de tipo Eléctrico. También sube la Defensa Especial. |
 |  268       15 |  |  8 |      Potenzia la mossa di tipo Elettro usata subito dopo. Aumenta anche la Difesa Speciale di chi la usa. |
 |  268       15 |  |  9 |      The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat. |

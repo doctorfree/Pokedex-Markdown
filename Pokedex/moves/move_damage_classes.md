@@ -8,8 +8,8 @@ categories:
 
 # Move damage classes
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | status     |
 | 2  | physical   |
 | 3  | special    |

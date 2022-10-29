@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  408       15 |  |  5 |      Le lanceur attaque avec un rayon de lumière qui scintille comme s'il était composé de gemmes. |
 |  408       15 |  |  6 |      Anwender attackiert mit einem Lichtstrahl, der funkelt, als sei er aus Juwelen. |
 |  408       15 |  |  7 |      Ataca con un rayo de luz que centellea como si lo formaran miles de joyas. |

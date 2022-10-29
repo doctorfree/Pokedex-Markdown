@@ -8,8 +8,8 @@ categories:
 
 # Move targets
 
-| id |        identifier         |
-|----|---------------------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | specific-move             |
 | 2  | selected-pokemon-me-first |
 | 3  | ally                      |

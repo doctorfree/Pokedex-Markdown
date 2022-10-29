@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  101       3 |  |   9 |      The user\'s level equals damage HP. |
 |  101       4 |  |   9 |      The user\'s level equals damage HP. |
 |  101       5 |  |   9 |      Inflicts damage identical to the user's level. |

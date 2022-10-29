@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  34 | 16 |  |  5 |      Le lanceur se laisse tomber sur l'ennemi de tout son poids. Peut aussi le paralyser. |
 |  34 | 16 |  |  6 |      Trifft das Ziel mit vollem Körpereinsatz. Bewirkt eventuell Paralyse. |
 |  34 | 16 |  |  7 |      Salta sobre el objetivo con todo su peso. Puede paralizar. |

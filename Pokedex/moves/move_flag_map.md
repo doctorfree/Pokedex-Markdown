@@ -8,8 +8,8 @@ categories:
 
 # Move flag map
 
-| move_id | move_flag_id |
-|---------|--------------|
+| **Move id** | **Move flag id** |
+|-------------|------------------|
 | 1       | 1            |
 | 1       | 4            |
 | 1       | 7            |

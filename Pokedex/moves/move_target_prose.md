@@ -8,8 +8,8 @@ categories:
 
 # Move target prose
 
-| move_target_id | local_language_id |         name          |                                                description                                                |
-|----------------|-------------------|-----------------------|-----------------------------------------------------------------------------------------------------------|
+| **Move target id** | **Local language id** | **Name** | **Description** |
+|--------------------|-----------------------|----------|-----------------|
 | 1              | 6                 | Spezifische Fähigkeit | Eine spezifische Fähigkeit.  Wie diese Fähigkeit genutzt wird hängt von den genutzten Fähigkeiten ab.     |
 | 1              | 9                 | Specific move         | One specific move.  How this move is chosen depends upon on the move being used.                          |
 | 2              | 6                 | Ausgewähltes Pokémon  | Ein anderes vom Trainer ausgewähltes Pokémon auf dem Feld.  Gestohlene Fähigkeiten nutzen das selbe Ziel. |

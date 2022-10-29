@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  201       5 |  |   9 |      Causes a sandstorm that rages for several turns. |
 |  201       6 |  |   9 |      Causes a sandstorm that rages for several turns. |
 |  201       7 |  |   9 |      A 5-turn sandstorm that damages all types except ROCK, GROUND, and STEEL. |

@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  518       19 |  |  3 |      물기둥으로 공격한다. 불꽃과 조합하면 위력이 올라가고 하늘에 무지개가 걸린다. |
 |  518       19 |  |  4 |      用水柱進行攻擊。 和火之誓約同時使用時，威力會提高， 天空會出現彩虹。 |
 |  518       19 |  |  5 |      Une masse d'eau s'abat sur l'ennemi. En l'utilisant avec Aire de Feu, l'effet augmente et un arc-en-ciel apparaît. |

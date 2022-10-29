@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  444       15 |  |  7 |      Clava piedras muy afiladas al objetivo. Suele ser crítico. |
 |  444       15 |  |  8 |      Chi la usa colpisce il bersaglio dal basso con pietre affilate. Probabile brutto colpo. |
 |  444       15 |  |  9 |      The user stabs the target with sharpened stones from below. Critical hits land more easily. |

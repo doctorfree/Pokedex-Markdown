@@ -8,8 +8,8 @@ categories:
 
 # Pokemon move methods
 
-| id |       identifier        |
-|----|-------------------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | level-up                |
 | 2  | egg                     |
 | 3  | tutor                   |

@@ -8,8 +8,8 @@ categories:
 
 # Pokemon move method prose
 
-| pokemon_move_method_id | local_language_id |            name            |                                                                           description                                                                            |
-|------------------------|-------------------|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pokemon move method id** | **Local language id** | **Name** | **Description** |
+|----------------------------|-----------------------|----------|-----------------|
 | 1                      | 6                 | Level up                   | Wird gelernt, wenn ein Pokémon ein bestimmtes Level erreicht.                                                                                                    |
 | 1                      | 7                 | Nivel                      | Se aprende cuando un pokemon alcanza un cierto nivel.                                                                                                            |
 | 1                      | 9                 | Level up                   | Learned when a Pokémon reaches a certain level.                                                                                                                  |

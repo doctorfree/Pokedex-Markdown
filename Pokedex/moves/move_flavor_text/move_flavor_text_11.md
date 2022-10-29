@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  372       15 |  |  1 |      そのターンに　あいてが すでに　ダメージを　うけて　いたら わざの　いりょくは　２ばいに　なる。 |
 |  372       15 |  |  3 |      그 턴에 상대가 이미 데미지를 입었다면 기술의 위력은 2배가 된다. |
 |  372       15 |  |  5 |      Cette attaque est deux fois plus efficace si l'ennemi a déjà été blessé durant ce tour. |

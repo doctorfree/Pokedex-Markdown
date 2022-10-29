@@ -8,8 +8,8 @@ categories:
 
 # Move effect changelog
 
-| id | effect_id | changed_in_version_group_id |
-|----|-----------|-----------------------------|
+| **Id** | **Effect id** | **Changed in version group id** |
+|--------|---------------|---------------------------------|
 | 1  | 8         | 11                          |
 | 2  | 18        | 3                           |
 | 3  | 29        | 3                           |

@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  67 | 18 |  |  9 |      A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power. |
 |  67 | 18 |  |  11 |     足を　強く　けり 相手を　転ばせて　攻撃する。 相手が　重いほど　威力が　あがる。 |
 |  67 | 18 |  |  12 |     用力踢对手的脚， 使其摔倒进行攻击。 对手越重，威力越大。 |

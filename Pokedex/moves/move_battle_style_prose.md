@@ -8,8 +8,8 @@ categories:
 
 # Move battle style prose
 
-| move_battle_style_id | local_language_id |    name    |
-|----------------------|-------------------|------------|
+| **Move battle style id** | **Local language id** | **Name** |
+|--------------------------|-----------------------|----------|
 | 1                    | 5                 | Attaque    |
 | 1                    | 9                 | Attack     |
 | 2                    | 5                 | Défense    |

@@ -8,8 +8,8 @@ categories:
 
 # Move meta categories
 
-| id |     identifier     |
-|----|--------------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 0  | damage             |
 | 1  | ailment            |
 | 2  | net-good-stats     |

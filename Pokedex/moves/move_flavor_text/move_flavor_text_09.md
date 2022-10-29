@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  302       18 |  |  4 |      用帶刺的手臂 猛烈揮打進行攻擊。 有時會使對手畏縮。 |
 |  302       18 |  |  5 |      Le lanceur attaque en fouettant l'ennemi de ses bras épineux. Peut aussi l'apeurer. |
 |  302       18 |  |  6 |      Angriff mit dornigen Armen. Das Ziel schreckt eventuell zurück. |

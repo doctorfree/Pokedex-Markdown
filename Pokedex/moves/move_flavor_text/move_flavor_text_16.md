@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  556       18 |  |  5 |      Envoie de gros blocs de glace sur l'ennemi pour lui infliger des dégâts. Peut aussi l'apeurer. |
 |  556       18 |  |  6 |      Lässt große, schwere Eiszapfen auf das Ziel herabregnen. Ziel schreckt eventuell zurück. |
 |  556       18 |  |  7 |      Lanza grandes carámbanos. Puede hacer retroceder al objetivo. |

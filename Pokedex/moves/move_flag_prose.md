@@ -8,8 +8,8 @@ categories:
 
 # Move flag prose
 
-| move_flag_id | local_language_id |                      name                      |                                                               description                                                               |
-|--------------|-------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| **Move flag id** | **Local language id** | **Name** | **Description** |
+|------------------|-----------------------|----------|-----------------|
 | 1            | 6                 | Kontakt                                        | Der Anwender berührt das Ziel.  Dies löst mahcne Fähigkeiten aus (z.B. []{ability:static}) und Gegenstände (z.B. []{item:sticky-barb}). |
 | 1            | 9                 | Makes contact                                  | User touches the target.  This triggers some abilities (e.g., []{ability:static}) and items (e.g., []{item:sticky-barb}).               |
 | 2            | 6                 | Hat eine Aufladerunde                          | Diese Fähigkeit hat eine Aufladerunde, welche mit einer []{item:power-herb} übersprungen werden kann.                                   |

@@ -8,8 +8,8 @@ categories:
 
 # Move damage class prose
 
-| move_damage_class_id | local_language_id |   name   |                                description                                 |
-|----------------------|-------------------|----------|----------------------------------------------------------------------------|
+| **Move damage class id** | **Local language id** | **Name** | **Description** |
+|--------------------------|-----------------------|----------|-----------------|
 | 1                    | 1                 | へんか      | ダメージない                                                                     |
 | 1                    | 5                 | statut   | Aucun dégât                                                                |
 | 1                    | 6                 | status   | Kein Schaden                                                               |

@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1 |  3 |  |   9 |      Pounds with fore­ legs or tail. |
 |  1 |  4 |  |   9 |      Pounds with fore­ legs or tail. |
 |  1 |  5 |  |   9 |      Pounds the foe with forelegs or tail. |

@@ -8,8 +8,8 @@ categories:
 
 # Move changelog
 
-| move_id | changed_in_version_group_id | type_id | power | pp | accuracy | priority | target_id | effect_id | effect_chance |
-|---------|-----------------------------|---------|-------|----|----------|----------|-----------|-----------|---------------|
+| **Move id** | **Changed in version group id** | **Type id** | **Power** | **PP** | **Accuracy** | **Priority** | **Target id** | **Effect id** | **Effect chance** |
+|-------------|---------------------------------|-------------|-----------|--------|--------------|--------------|---------------|---------------|-------------------|
 | 2       | 3                           | 1       |       |    |          |          |           |           |               |
 | 13      | 5                           |         |       |    | 75       |          |           |           |               |
 | 14      | 15                          |         |       | 30 |          |          |           |           |               |

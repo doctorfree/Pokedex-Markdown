@@ -8,8 +8,8 @@ categories:
 
 # Move meta ailments
 
-| id |    identifier    |
-|----|------------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | -1 | unknown          |
 | 0  | none             |
 | 1  | paralysis        |

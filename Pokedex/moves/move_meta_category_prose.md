@@ -8,8 +8,8 @@ categories:
 
 # Move meta category prose
 
-| move_meta_category_id | local_language_id |                        description                        |
-|-----------------------|-------------------|-----------------------------------------------------------|
+| **Move meta category id** | **Local language id** | **Description** |
+|---------------------------|-----------------------|-----------------|
 | 0                     | 9                 | Inflicts damage                                           |
 | 1                     | 9                 | No damage; inflicts status ailment                        |
 | 2                     | 9                 | No damage; lowers target's stats or raises user's stats   |

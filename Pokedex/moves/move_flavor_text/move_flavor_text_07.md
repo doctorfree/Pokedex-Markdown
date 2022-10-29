@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  234       16 |  |  9 |      The user restores its own HP. The amount of HP regained varies with the weather. |
 |  234       16 |  |  11 |     自分の　ＨＰを　回復する。 天気に　よって 回復の　量が　変化する。 |
 |  234       17 |  |  1 |      じぶんの　ＨＰを　かいふく　する。 てんきに　よって かいふくの　りょうが　へんか　する。 |

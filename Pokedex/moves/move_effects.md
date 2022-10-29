@@ -8,8 +8,8 @@ categories:
 
 # Move effects
 
-|  id   |
-|-------|
+| **Id** |
+|--------|
 | 1     |
 | 2     |
 | 3     |

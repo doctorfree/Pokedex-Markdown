@@ -8,8 +8,8 @@ categories:
 
 # Move battle styles
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | attack     |
 | 2  | defense    |
 | 3  | support    |

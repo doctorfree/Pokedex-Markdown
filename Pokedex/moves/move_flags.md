@@ -8,8 +8,8 @@ categories:
 
 # Move flags
 
-| id |   identifier   |
-|----|----------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | contact        |
 | 2  | charge         |
 | 3  | recharge       |

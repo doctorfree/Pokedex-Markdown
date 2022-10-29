@@ -8,8 +8,8 @@ categories:
 
 # Move meta
 
-| move_id | meta_category_id | meta_ailment_id | min_hits | max_hits | min_turns | max_turns | drain | healing | crit_rate | ailment_chance | flinch_chance | stat_chance |
-|---------|------------------|-----------------|----------|----------|-----------|-----------|-------|---------|-----------|----------------|---------------|-------------|
+| **Move id** | **Meta category id** | **Meta ailment id** | **Min hits** | **Max hits** | **Min turns** | **Max turns** | **Drain** | **Healing** | **Crit rate** | **Ailment chance** | **Flinch chance** | **Stat chance** |
+|-------------|----------------------|---------------------|--------------|--------------|---------------|---------------|-----------|-------------|---------------|--------------------|-------------------|-----------------|
 | 1       | 0                | 0               |          |          |           |           | 0     | 0       | 0         | 0              | 0             | 0           |
 | 2       | 0                | 0               |          |          |           |           | 0     | 0       | 1         | 0              | 0             | 0           |
 | 3       | 0                | 0               | 2        | 5        |           |           | 0     | 0       | 0         | 0              | 0             | 0           |

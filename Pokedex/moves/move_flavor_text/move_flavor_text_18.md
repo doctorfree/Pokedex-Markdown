@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  642       19 |  |  6 |      Der Anwender kreiert mit Z-Kraft einen riesigen Wasserstrudel, der das Ziel verschluckt. Die Stärke variiert je nach zugrunde liegender Attacke. |
 |  642       19 |  |  7 |      El usuario emplea el Poder Z para crear un potente torbellino de agua que engulle al objetivo. Su potencia depende de la del movimiento original. |
 |  642       19 |  |  8 |      Grazie al Potere Z, chi la usa crea un enorme vortice che inghiotte il bersaglio. La potenza varia a seconda della mossa su cui si basa. |

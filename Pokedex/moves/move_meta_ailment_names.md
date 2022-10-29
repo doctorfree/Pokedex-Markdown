@@ -8,8 +8,8 @@ categories:
 
 # Move meta ailment names
 
-| move_meta_ailment_id | local_language_id |           name            |
-|----------------------|-------------------|---------------------------|
+| **Move meta ailment id** | **Local language id** | **Name** |
+|--------------------------|-----------------------|----------|
 | -1                   | 5                 | ????                      |
 | -1                   | 9                 | ????                      |
 | 0                    | 5                 | Aucun                     |

@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  134       16 |  |  7 |      Dobla una cuchara para distraer al objetivo y bajar su nivel de Precisión. |
 |  134       16 |  |  8 |      Chi la usa distrae il bersaglio piegando un cucchiaio e ne riduce la precisione. |
 |  134       16 |  |  9 |      The user distracts the target by bending a spoon. This lowers the target's accuracy. |

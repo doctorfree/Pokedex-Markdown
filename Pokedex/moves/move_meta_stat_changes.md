@@ -8,8 +8,8 @@ categories:
 
 # Move meta stat changes
 
-| move_id | stat_id | change |
-|---------|---------|--------|
+| **Move id** | **Stat id** | **Change** |
+|-------------|-------------|------------|
 | 14      | 2       | 2      |
 | 28      | 7       | -1     |
 | 39      | 3       | -1     |

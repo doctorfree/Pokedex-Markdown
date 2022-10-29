@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# move_flavor_text
+# Move flavor text
 
 The Pokemon move flavor text markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.
 

@@ -8,8 +8,8 @@ categories:
 
 # Move flavor text
 
-|  move_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Move id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  596       16 |  |  9 |      In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact. |
 |  596       16 |  |  11 |     相手の　攻撃を　防ぐと 同時に　触れた　相手の 体力を　削って　しまう。 |
 |  596       17 |  |  1 |      あいての　こうげきを　ふせぐと どうじに　ふれた　あいての たいりょくを　けずって　しまう。 |
