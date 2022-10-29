@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1481      20 |  |  6 |      Dieses Item bewirkt, dass im Wachturm-Nest in der Naturzone ein \[VAR (0000)\] bis zum Ende des Tages erscheint, an dem das Item eingesetzt wurde. |
 |  1481      20 |  |  7 |      Posibilita la aparición de \[VAR (0000)\] en el nido Dinamax de la Atalaya del Área Silvestre hasta finalizar el día en que se ha usado. |
 |  1481      20 |  |  8 |      Strumento che fa apparire \[VAR (0000)\] nella dynatana della Torre Diroccata, nelle Terre Selvagge, fino alla fine del giorno in cui viene usato. |

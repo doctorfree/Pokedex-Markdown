@@ -8,7 +8,7 @@ categories:
 
 # Item fling effect prose
 
-| item_fling_effect_id | local_language_id |                         effect                          |
+| item fling effect id | local language id |                         effect                          |
 |----------------------|-------------------|---------------------------------------------------------|
 | 1                    | 9                 | Badly poisons the target.                               |
 | 2                    | 9                 | Burns the target.                                       |

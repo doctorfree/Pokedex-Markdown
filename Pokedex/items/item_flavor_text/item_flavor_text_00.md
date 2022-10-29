@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1 |  5 |  |   9 |      The best BALL that catches a POKéMON without fail. |
 |  1 |  6 |  |   9 |      The best BALL that catches a POKéMON without fail. |
 |  1 |  7 |  |   9 |      The best BALL with the ultimate performance. It will catch any wild POKéMON without fail. |

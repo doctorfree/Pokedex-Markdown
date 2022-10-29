@@ -8,7 +8,7 @@ categories:
 
 # Item game indices
 
-| item_id | generation_id | game_index |
+| item id | generation id | game index |
 |---------|---------------|------------|
 | 1       | 3             | 1          |
 | 1       | 4             | 1          |

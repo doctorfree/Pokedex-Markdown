@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  660       17 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |
 |  660       17 |  |  9 |      The user attacks everything around it by swamping its surroundings with a giant wave. |
 |  660       17 |  |  11 |     大きな　波で　自分の 周りに　いるものを　攻撃する。 |

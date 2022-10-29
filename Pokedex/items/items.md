@@ -8,7 +8,7 @@ categories:
 
 # Items
 
-|  id  |           identifier            | category_id |  cost  | fling_power | fling_effect_id |
+|  id  |           identifier            | category id |  cost  | fling power | fling effect id |
 |------|---------------------------------|-------------|--------|-------------|-----------------|
 | 1    | master-ball                     | 34          | 0      |             |                 |
 | 2    | ultra-ball                      | 34          | 800    |             |                 |

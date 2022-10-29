@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  355       19 |  |  4 |      將猛烈的暴風雪 吹向對手進行攻擊。 有時會讓對手陷入冰凍狀態。 |
 |  355       19 |  |  5 |      Une violente tempête de neige s'abat sur l'ennemi. Peut aussi le geler. |
 |  355       19 |  |  6 |      Ein Schneesturm wütet, der das Ziel einfrieren kann. |

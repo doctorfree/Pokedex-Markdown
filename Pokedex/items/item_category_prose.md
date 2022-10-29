@@ -8,7 +8,7 @@ categories:
 
 # Item category prose
 
-| item_category_id | local_language_id |       name        |
+| item category id | local language id |       name        |
 |------------------|-------------------|-------------------|
 | 1                | 9                 | Stat boosts       |
 | 2                | 9                 | Effort drop       |

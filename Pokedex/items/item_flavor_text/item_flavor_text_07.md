@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  229       18 |  |  4 |      內部儲存了各種 資訊的透明機器。 西爾佛公司製造。 |
 |  229       18 |  |  5 |      Un dispositif transparent rempli de données diverses et variées. Fabriqué par la Sylphe SARL. |
 |  229       18 |  |  6 |      Ein durchsichtiges Gerät. Es enthält alle möglichen Daten. Hergestellt von Silph Co. |

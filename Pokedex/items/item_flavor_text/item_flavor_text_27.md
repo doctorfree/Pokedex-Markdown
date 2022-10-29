@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1134      20 |  |  6 |      Ein Bonbon, das voller Energie steckt. Erhöht dauerhaft sämtliche Statuswerte eines bestimmten Pokémon. |
 |  1134      20 |  |  7 |      Caramelo energético que aumenta todas las características de cierto Pokémon. |
 |  1134      20 |  |  8 |      Una caramella piena zeppa di energia. Aumenta tutte le statistiche di determinati Pokémon. |

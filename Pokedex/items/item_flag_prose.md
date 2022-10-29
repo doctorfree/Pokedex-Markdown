@@ -8,7 +8,7 @@ categories:
 
 # Item flag prose
 
-| item_flag_id | local_language_id |       name       |          description          |
+| item flag id | local language id |       name       |          description          |
 |--------------|-------------------|------------------|-------------------------------|
 | 1            | 9                 | Countable        | Has a count in the bag        |
 | 2            | 9                 | Consumable       | Consumed when used            |

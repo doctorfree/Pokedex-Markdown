@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  797       18 |  |  6 |      Einer der mysteriösen Mega-Steine. Wird er von einem Galagladi getragen, kann es im Kampf eine Mega-Entwicklung durchführen. |
 |  797       18 |  |  7 |      Una de las misteriosas Megapiedras. Permite megaevolucionar a Gallade en combate. |
 |  797       18 |  |  8 |      Una delle misteriose Megapietre. Data a Gallade, gli permette di megaevolversi durante la lotta. |

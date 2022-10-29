@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  167       17 |  |  6 |      Als getragenes Item schwächt diese Beere sehr effektive gegnerische Attacken vom Typ Gift. |
 |  167       17 |  |  7 |      Si la lleva un Pokémon, debilita un ataque supereficaz de tipo Veneno de un enemigo. |
 |  167       17 |  |  8 |      Se un Pokémon ha questa bacca, l'attacco superefficace di tipo Veleno del nemico viene indebolito. |

@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  261       15 |  |  9 |      An item to be held by a Pokémon. It extends the duration of the move Sunny Day when used by the holder. |
 |  261       15 |  |  11 |     持たせた　ポケモンが　にほんばれを 使うと　いつもより　はれの 時間が　長くなる。 |
 |  261       17 |  |  1 |      もたせた　ポケモンが　にほんばれを つかうと　いつもより　はれの じかんが　ながくなる。 |

@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  388       11 |  |  9 |      The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. |
 |  388       14 |  |  9 |      The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. |
 |  388       15 |  |  1 |      どくに　そまった　しょくしゅや うでで　こうげきする。どくの じょうたいに　することが　ある。 |

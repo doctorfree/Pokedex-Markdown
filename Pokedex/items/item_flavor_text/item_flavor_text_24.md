@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  915       20 |  |  6 |      Eine Disc mit Daten zum Typ Eis. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus. |
 |  915       20 |  |  7 |      Disco de datos que contiene información relativa al tipo Hielo. Permite cambiar de tipo a cierto Pokémon. |
 |  915       20 |  |  8 |      ROM contenente dati sul tipo Ghiaccio in formato digitale. Permette a un certo Pokémon di cambiare tipo. |

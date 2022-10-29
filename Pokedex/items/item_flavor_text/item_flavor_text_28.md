@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1306      20 |  |  6 |      Lässt man ein Pokémon an dieser Minze schnuppern, steigt seine Initiative schneller, aber seine Verteidigung umso langsamer. |
 |  1306      20 |  |  7 |      Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Defensa. |
 |  1306      20 |  |  8 |      Quando un Pokémon ne sente il profumo, la sua Velocità aumenta più facilmente a scapito della Difesa. |

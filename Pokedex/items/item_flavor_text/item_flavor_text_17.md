@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  591       19 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon. |
 |  591       19 |  |  8 |      Strumento da dare a un Pokémon. Gioiello che potenzia una sola volta le mosse di tipo Fuoco. |
 |  591       19 |  |  9 |      A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time. |

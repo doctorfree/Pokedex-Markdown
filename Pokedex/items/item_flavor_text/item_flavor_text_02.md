@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  62 | 19 |  |  4 |      大大提高戰鬥中 寶可夢特防的道具。 離場後，效果便會消失。 |
 |  62 | 19 |  |  5 |      Augmente beaucoup la Défense Spéciale pendant un combat. L'effet disparaît si le Pokémon est retiré. |
 |  62 | 19 |  |  6 |      Hebt die Spezial-Verteidigung eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet. |

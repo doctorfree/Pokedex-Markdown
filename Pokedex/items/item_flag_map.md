@@ -8,7 +8,7 @@ categories:
 
 # Item flag map
 
-| item_id | item_flag_id |
+| item id | item flag id |
 |---------|--------------|
 | 1       | 1            |
 | 1       | 2            |

@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  738       20 |  |  4 |      噴有閃閃發光的塗料， 帥哥親手製作的券。 |
 |  738       20 |  |  5 |      Un ticket brillant de mille feux, peint à la main par Beladonis. |
 |  738       20 |  |  6 |      Ein von LeBelle persönlich gebasteltes Ticket. Es ist mit einer leuchtenden Farbschicht überzogen. |

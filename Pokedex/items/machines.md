@@ -8,7 +8,7 @@ categories:
 
 # Machines
 
-| machine_number | version_group_id | item_id | move_id |
+| machine number | version group id | item id | move id |
 |----------------|------------------|---------|---------|
 | 0              | 20               | 1288    | 5       |
 | 1              | 1                | 305     | 5       |

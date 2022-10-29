@@ -8,7 +8,7 @@ categories:
 
 # Item categories
 
-| id | pocket_id |    identifier     |
+| id | pocket id |    identifier     |
 |----|-----------|-------------------|
 | 1  | 7         | stat-boosts       |
 | 2  | 5         | effort-drop       |

@@ -8,7 +8,7 @@ categories:
 
 # Item pocket names
 
-| item_pocket_id | local_language_id |        name        |
+| item pocket id | local language id |        name        |
 |----------------|-------------------|--------------------|
 | 1              | 5                 | Objets             |
 | 1              | 7                 | Objetos            |

@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  31 | 20 |  |  5 |      Une boisson pétillante. Restaure 50 PV d'un Pokémon. |
 |  31 | 20 |  |  6 |      Ein sprudelndes Mineralwasser, das die KP eines Pokémon um 50 Punkte auffüllt. |
 |  31 | 20 |  |  7 |      Chispeante bebida gaseosa que restaura 50 PS de un Pokémon. |

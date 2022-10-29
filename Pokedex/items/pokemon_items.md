@@ -8,7 +8,7 @@ categories:
 
 # Pokemon items
 
-| pokemon_id | version_id | item_id | rarity |
+| pokemon id | version id | item id | rarity |
 |------------|------------|---------|--------|
 | 12         | 7          | 199     | 5      |
 | 12         | 8          | 199     | 5      |

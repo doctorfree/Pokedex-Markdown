@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  975       18 |  |  6 |      Kristallisierte Z-Kraft, die bei Necrozma nach der Fusion mit Solgaleo oder Lunala bewirkt, dass es eine neue Form annimmt. |
 |  975       18 |  |  7 |      Cristal que permite a Necrozma, una vez fusionado con Solgaleo o Lunala, adoptar una nueva forma. |
 |  975       18 |  |  8 |      Cristallo che permette a Necrozma di assumere una nuova forma quando è fuso con Lunala o Solgaleo. |

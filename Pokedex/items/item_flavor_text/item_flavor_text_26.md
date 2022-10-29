@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  1047      19 |  |  6 |      Ein großes Bonbon, das voller Energie steckt. Erhöht dauerhaft den Angriff eines Pokémon ab Level 30. |
 |  1047      19 |  |  7 |      Caramelo energético grande que aumenta el Ataque de un Pokémon de Nv. 30 o superior. |
 |  1047      19 |  |  8 |      Una caramella piena zeppa di energia. Aumenta l'Attacco di un Pokémon di livello 30 o superiore. |

@@ -8,7 +8,7 @@ categories:
 
 # Item names
 
-| item_id | local_language_id |          name          |
+| item id | local language id |          name          |
 |---------|-------------------|------------------------|
 | 1       | 1                 | マスターボール                |
 | 1       | 3                 | 마스터볼                   |

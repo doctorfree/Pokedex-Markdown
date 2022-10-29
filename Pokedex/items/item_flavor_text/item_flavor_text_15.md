@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  488       19 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di sprint dei tuoi Pokémon. |
 |  488       19 |  |  9 |      It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon. |
 |  488       19 |  |  11 |     ポケスロンの　記録が　はいっている。 ポケモンの　ダッシュした　回数が 記録された　カード。 |

@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  421       11 |  |  9 |      A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins. |
 |  421       14 |  |  9 |      A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins. |
 |  421       15 |  |  1 |      ゲームコーナーで　てにいれた コインを　５００００まい　まで いれることが　できる　ケース。 |

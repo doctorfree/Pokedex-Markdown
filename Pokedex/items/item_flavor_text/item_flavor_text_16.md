@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  536       20 |  |  11 |     砂漠の　すなあらしから 目を　守ってくれる すてきな　ゴーグル。 |
 |  536       20 |  |  12 |     能在沙漠的沙暴中 保护眼睛的出色护目镜。 |
 |  537       5 |  |   9 |      A meteorite found at METEOR FALLS. |

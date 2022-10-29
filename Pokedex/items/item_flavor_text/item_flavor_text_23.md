@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  843       17 |  |  6 |      Ein Kristall, dem Z-Kraft innewohnt. Er stuft Marshadows Attacke Diebesschatten zu einer Z-Attacke auf. |
 |  843       17 |  |  7 |      Cristal que confiere el Poder Z al movimiento Robasombra de Marshadow. |
 |  843       17 |  |  8 |      Cristallo in cui è immagazzinato il Potere Z. Consente di trasformare la mossa Ombrafurto di Marshadow in una mossa Z. |

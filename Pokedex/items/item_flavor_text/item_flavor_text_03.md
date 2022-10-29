@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  93 | 17 |  |  7 |      Una bella y rara escama con forma de corazón que más de uno apreciará si se la entregas. |
 |  93 | 17 |  |  8 |      Squama graziosa, a forma di cuore e molto rara. Alcune persone sono molto felici di riceverne una. |
 |  93 | 17 |  |  9 |      A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one. |

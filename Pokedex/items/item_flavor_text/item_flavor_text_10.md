@@ -8,8 +8,8 @@ categories:
 
 # Item flavor text
 
-|  item_id | version_group_id | language_id | flavor_text |
-|----------|------------------|-------------|-------------|
+| **Item id** | **Version group id** | **Language id** | **Flavor text** |
+|-------------|----------------------|-----------------|-----------------|
 |  324       20 |  |  8 |      Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO. |
 |  324       20 |  |  9 |      The user attacks everything around it by causing an explosion. The user faints upon using this move. |
 |  324       20 |  |  11 |     爆発を　おこして　自分の 周りに　いるものを　攻撃する。 使ったあとに　ひんしに　なる。 |
