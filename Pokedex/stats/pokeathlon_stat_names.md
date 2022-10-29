@@ -8,8 +8,8 @@ categories:
 
 # Pokeathlon stat names
 
-| pokeathlon_stat_id | local_language_id |   name    |
-|--------------------|-------------------|-----------|
+| **Pokeathlon stat id** | **Local language id** | **Name** |
+|------------------------|-----------------------|----------|
 | 1                  | 5                 | Vitesse   |
 | 1                  | 7                 | Velocidad |
 | 1                  | 9                 | Speed     |

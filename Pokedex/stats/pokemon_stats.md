@@ -8,8 +8,8 @@ categories:
 
 # Pokemon stats
 
-| pokemon_id | stat_id | base_stat | effort |
-|------------|---------|-----------|--------|
+| **Pokemon id** | **Stat id** | **Base stat** | **Effort** |
+|----------------|-------------|---------------|------------|
 | 1          | 1       | 45        | 0      |
 | 1          | 2       | 49        | 0      |
 | 1          | 3       | 49        | 0      |

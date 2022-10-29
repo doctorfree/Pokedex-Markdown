@@ -8,8 +8,8 @@ categories:
 
 # Pokemon form pokeathlon stats
 
-| pokemon_form_id | pokeathlon_stat_id | minimum_stat | base_stat | maximum_stat |
-|-----------------|--------------------|--------------|-----------|--------------|
+| **Pokemon form id** | **Pokeathlon stat id** | **Minimum stat** | **Base stat** | **Maximum stat** |
+|---------------------|------------------------|------------------|---------------|------------------|
 | 1               | 1                  | 2            | 2         | 3            |
 | 1               | 2                  | 2            | 2         | 3            |
 | 1               | 3                  | 1            | 3         | 4            |

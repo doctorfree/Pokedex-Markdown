@@ -8,8 +8,8 @@ categories:
 
 # Stat names
 
-| stat_id | local_language_id |        name         |
-|---------|-------------------|---------------------|
+| **Stat id** | **Local language id** | **Name** |
+|-------------|-----------------------|----------|
 | 1       | 1                 | HP                  |
 | 1       | 3                 | HP                  |
 | 1       | 5                 | PV                  |

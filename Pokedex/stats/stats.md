@@ -8,8 +8,8 @@ categories:
 
 # Stats
 
-| id | damage_class_id |   identifier    | is_battle_only | game_index |
-|----|-----------------|-----------------|----------------|------------|
+| **Id** | **Damage class id** | **Identifier** | **Is battle only** | **Game index** |
+|--------|---------------------|----------------|--------------------|----------------|
 | 1  |                 | hp              | 0              | 1          |
 | 2  | 2               | attack          | 0              | 2          |
 | 3  | 2               | defense         | 0              | 3          |

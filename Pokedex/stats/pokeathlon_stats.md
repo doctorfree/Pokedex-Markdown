@@ -8,8 +8,8 @@ categories:
 
 # Pokeathlon stats
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | speed      |
 | 2  | power      |
 | 3  | skill      |
