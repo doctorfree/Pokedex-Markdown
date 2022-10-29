@@ -8,8 +8,8 @@ categories:
 
 # Pokedexes
 
-| id | region_id |    identifier     | is_main_series |
-|----|-----------|-------------------|----------------|
+| **Id** | **Region id** | **Identifier** | **Is main series** |
+|--------|---------------|----------------|--------------------|
 | 1  |           | national          | 1              |
 | 2  | 1         | kanto             | 1              |
 | 3  | 2         | original-johto    | 1              |

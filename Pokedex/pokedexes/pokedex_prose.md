@@ -8,8 +8,8 @@ categories:
 
 # Pokedex prose
 
-| pokedex_id | local_language_id |         name          |                                                            description                                                            |
-|------------|-------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Pokedex id** | **Local language id** | **Name** | **Description** |
+|----------------|-----------------------|----------|-----------------|
 | 1          | 5                 | National              | Pokédex National complet                                                                                                          |
 | 1          | 6                 | National              | Komplette Nationale Dex                                                                                                           |
 | 1          | 7                 | Nacional              | Pokédex Nacional completa                                                                                                         |

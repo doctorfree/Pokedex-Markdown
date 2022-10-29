@@ -8,8 +8,8 @@ categories:
 
 # Pokemon shapes
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | ball       |
 | 2  | squiggle   |
 | 3  | fish       |

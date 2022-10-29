@@ -8,8 +8,8 @@ categories:
 
 # Regions
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | kanto      |
 | 2  | johto      |
 | 3  | hoenn      |

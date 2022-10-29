@@ -8,8 +8,8 @@ categories:
 
 # Nature battle style preferences
 
-| nature_id | move_battle_style_id | low_hp_preference | high_hp_preference |
-|-----------|----------------------|-------------------|--------------------|
+| **Nature id** | **Move battle style id** | **Low hp preference** | **High hp preference** |
+|---------------|--------------------------|-----------------------|------------------------|
 | 1         | 1                    | 61                | 61                 |
 | 1         | 2                    | 7                 | 7                  |
 | 1         | 3                    | 32                | 32                 |

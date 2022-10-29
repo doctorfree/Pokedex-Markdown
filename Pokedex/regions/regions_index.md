@@ -10,5 +10,5 @@ categories:
 
 Index of regions category
 
-- [Region_names](region_names.md)
+- [Region names](region_names.md)
 - [Regions](regions.md)

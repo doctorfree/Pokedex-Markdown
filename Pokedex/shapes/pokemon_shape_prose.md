@@ -8,8 +8,8 @@ categories:
 
 # Pokemon shape prose
 
-| pokemon_shape_id | local_language_id |      name       |   awesome_name    |                         description                          |
-|------------------|-------------------|-----------------|-------------------|--------------------------------------------------------------|
+| **Pokemon shape id** | **Local language id** | **Name** | **Awesome name** | **Description** |
+|----------------------|-----------------------|----------|------------------|-----------------|
 | 1                | 5                 | Balle           | Pomacé            | Pokémon constitués uniquement d'une tête                     |
 | 1                | 9                 | Ball            | Pomaceous         | Pokémon consisting of only a head                            |
 | 2                | 5                 | Sinueux         | Caudal            | Pokémon avec un corps serpentin                              |

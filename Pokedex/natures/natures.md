@@ -8,8 +8,8 @@ categories:
 
 # Natures
 
-| id | identifier | decreased_stat_id | increased_stat_id | hates_flavor_id | likes_flavor_id | game_index |
-|----|------------|-------------------|-------------------|-----------------|-----------------|------------|
+| **Id** | **Identifier** | **Decreased stat id** | **Increased stat id** | **Hates flavor id** | **Likes flavor id** | **Game index** |
+|--------|----------------|-----------------------|-----------------------|---------------------|---------------------|----------------|
 | 1  | hardy      | 2                 | 2                 | 1               | 1               | 0          |
 | 2  | bold       | 2                 | 3                 | 1               | 5               | 5          |
 | 3  | modest     | 2                 | 4                 | 1               | 2               | 15         |

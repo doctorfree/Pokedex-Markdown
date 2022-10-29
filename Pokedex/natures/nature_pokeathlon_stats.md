@@ -8,8 +8,8 @@ categories:
 
 # Nature pokeathlon stats
 
-| nature_id | pokeathlon_stat_id | max_change |
-|-----------|--------------------|------------|
+| **Nature id** | **Pokeathlon stat id** | **Max change** |
+|---------------|------------------------|----------------|
 | 1         | 1                  | -1         |
 | 1         | 2                  | 1          |
 | 2         | 1                  | -2         |

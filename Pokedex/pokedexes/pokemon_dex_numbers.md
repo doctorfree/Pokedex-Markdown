@@ -8,8 +8,8 @@ categories:
 
 # Pokemon dex numbers
 
-| species_id | pokedex_id | pokedex_number |
-|------------|------------|----------------|
+| **Species id** | **Pokedex id** | **Pokedex number** |
+|----------------|----------------|--------------------|
 | 1          | 1          | 1              |
 | 1          | 2          | 1              |
 | 1          | 3          | 226            |

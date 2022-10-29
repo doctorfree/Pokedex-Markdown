@@ -8,8 +8,8 @@ categories:
 
 # Nature names
 
-| nature_id | local_language_id |  name   |
-|-----------|-------------------|---------|
+| **Nature id** | **Local language id** | **Name** |
+|---------------|-----------------------|----------|
 | 1         | 1                 | がんばりや   |
 | 1         | 3                 | 노력      |
 | 1         | 4                 | 勤奮      |

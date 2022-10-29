@@ -8,8 +8,8 @@ categories:
 
 # Region names
 
-| region_id | local_language_id |  name  |
-|-----------|-------------------|--------|
+| **Region id** | **Local language id** | **Name** |
+|---------------|-----------------------|-  -------|
 | 1         | 1                 | カントー地方 |
 | 1         | 3                 | 관동지방   |
 | 1         | 5                 | Kanto  |
