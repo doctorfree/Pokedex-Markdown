@@ -8,8 +8,8 @@ categories:
 
 # Pokemon habitat names
 
-| pokemon_habitat_id | local_language_id |       name       |
-|--------------------|-------------------|------------------|
+| **Pokemon habitat id** | **Local language id** | **Name** |
+|------------------------|-----------------------|----------|
 | 1                  | 5                 | grottes          |
 | 1                  | 7                 | caverna          |
 | 1                  | 9                 | cave             |

@@ -8,8 +8,8 @@ categories:
 
 # Evolution chains
 
-| id  | baby_trigger_item_id |
-|-----|----------------------|
+| **Id**  | **Baby trigger item id** |
+|---------|--------------------------|
 | 1   |                      |
 | 2   |                      |
 | 3   |                      |

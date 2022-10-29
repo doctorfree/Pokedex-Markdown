@@ -8,8 +8,8 @@ categories:
 
 # Experience
 
-| growth_rate_id | level | experience |
-|----------------|-------|------------|
+| **Growth rate id** | **Level** | **Experience** |
+|--------------------|-----------|----------------|
 | 1              | 1     | 0          |
 | 1              | 2     | 10         |
 | 1              | 3     | 33         |

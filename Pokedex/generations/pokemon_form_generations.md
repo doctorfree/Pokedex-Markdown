@@ -8,8 +8,8 @@ categories:
 
 # Pokemon form generations
 
-| pokemon_form_id | generation_id | game_index |
-|-----------------|---------------|------------|
+| **Pokemon form id** | **Generation id** | **Game index** |
+|---------------------|-------------------|----------------|
 | 1               | 1             | 0          |
 | 1               | 2             | 0          |
 | 1               | 3             | 0          |

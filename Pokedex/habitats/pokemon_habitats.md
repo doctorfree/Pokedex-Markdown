@@ -8,8 +8,8 @@ categories:
 
 # Pokemon habitats
 
-| id |  identifier   |
-|----|---------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | cave          |
 | 2  | forest        |
 | 3  | grassland     |

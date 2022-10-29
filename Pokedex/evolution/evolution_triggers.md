@@ -8,8 +8,8 @@ categories:
 
 # Evolution triggers
 
-| id |     identifier      |
-|----|---------------------|
+| **Id** | **Identifier**  |
+|--------|-----------------|
 | 1  | level-up            |
 | 2  | trade               |
 | 3  | use-item            |

@@ -8,8 +8,8 @@ categories:
 
 # Growth rates index
 
-Index of growth_rates category
+Index of growth rates category
 
 - [Experience](experience.md)
-- [Growth_rate_prose](growth_rate_prose.md)
-- [Growth_rates](growth_rates.md)
+- [Growth rate prose](growth_rate_prose.md)
+- [Growth rates](growth_rates.md)

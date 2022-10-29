@@ -10,6 +10,6 @@ categories:
 
 Index of generations category
 
-- [Generation_names](generation_names.md)
+- [Generation names](generation_names.md)
 - [Generations](generations.md)
-- [Pokemon_form_generations](pokemon_form_generations.md)
+- [Pokemon form generations](pokemon_form_generations.md)

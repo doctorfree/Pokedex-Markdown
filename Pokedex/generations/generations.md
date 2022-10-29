@@ -8,8 +8,8 @@ categories:
 
 # Generations
 
-| id | main_region_id |   identifier    |
-|----|----------------|-----------------|
+| **Id** | **Main region id** | **Identifier** |
+|--------|--------------------|----------------|
 | 1  | 1              | generation-i    |
 | 2  | 2              | generation-ii   |
 | 3  | 3              | generation-iii  |

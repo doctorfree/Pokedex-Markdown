@@ -10,5 +10,5 @@ categories:
 
 Index of habitats category
 
-- [Pokemon_habitat_names](pokemon_habitat_names.md)
-- [Pokemon_habitats](pokemon_habitats.md)
+- [Pokemon habitat names](pokemon_habitat_names.md)
+- [Pokemon habitats](pokemon_habitats.md)

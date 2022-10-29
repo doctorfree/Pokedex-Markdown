@@ -8,8 +8,8 @@ categories:
 
 # Pokemon forms
 
-|  id   |         identifier         |  form_identifier   | pokemon_id | introduced_in_version_group_id | is_default | is_battle_only | is_mega | form_order | order |
-|-------|----------------------------|--------------------|------------|--------------------------------|------------|----------------|---------|------------|-------|
+| **Id** | **Identifier** | **Form identifier** | **Pokemon id** | **Introduced in version group id** | **Is default** | **Is battle only** | **Is mega** | **Form order** | **Order** |
+|--------|----------------|---------------------|----------------|------------------------------------|----------------|--------------------|-------------|----------------|-----------|
 | 1     | bulbasaur                  |                    | 1          | 1                              | 1          | 0              | 0       | 1          | 1     |
 | 2     | ivysaur                    |                    | 2          | 1                              | 1          | 0              | 0       | 1          | 2     |
 | 3     | venusaur                   |                    | 3          | 1                              | 1          | 0              | 0       | 1          | 3     |

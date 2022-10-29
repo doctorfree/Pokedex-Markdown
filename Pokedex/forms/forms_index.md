@@ -10,5 +10,5 @@ categories:
 
 Index of forms category
 
-- [Pokemon_form_names](pokemon_form_names.md)
-- [Pokemon_forms](pokemon_forms.md)
+- [Pokemon form names](pokemon_form_names.md)
+- [Pokemon forms](pokemon_forms.md)

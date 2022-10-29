@@ -8,8 +8,8 @@ categories:
 
 # Pokemon form names
 
-| pokemon_form_id | local_language_id |      form_name       |         pokemon_name         |
-|-----------------|-------------------|----------------------|------------------------------|
+| **Pokemon form id** | **Local language id** | **Form name** | **Pokemon name** |
+|---------------------|-----------------------|---------------|------------------|
 | 201             | 1                 | Ａ                    |                              |
 | 201             | 3                 | A                    |                              |
 | 201             | 5                 | A                    | Zarbi A                      |

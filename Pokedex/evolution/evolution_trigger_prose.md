@@ -8,8 +8,8 @@ categories:
 
 # Evolution trigger prose
 
-| evolution_trigger_id | local_language_id |                 name                 |
-|----------------------|-------------------|--------------------------------------|
+| **Evolution trigger id** | **Local language id** |          **Name**            |
+|--------------------------|-----------------------|------------------------------|
 | 1                    | 5                 | Montée de niveau                     |
 | 1                    | 6                 | Levelaufstieg                        |
 | 1                    | 9                 | Level up                             |

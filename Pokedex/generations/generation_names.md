@@ -8,8 +8,8 @@ categories:
 
 # Generation names
 
-| generation_id | local_language_id |      name       |
-|---------------|-------------------|-----------------|
+| **Generation id** | **Local language id** | **Name** |
+|-------------------|-----------------------|----------|
 | 1             | 1                 | だいいちせだい         |
 | 1             | 3                 | 1세대             |
 | 1             | 5                 | Génération I    |

@@ -8,8 +8,8 @@ categories:
 
 # Growth rate prose
 
-| growth_rate_id | local_language_id |            name            |
-|----------------|-------------------|----------------------------|
+| **Growth rate id** | **Local language id** | **Name** |
+|--------------------|-----------------------|----------|
 | 1              | 5                 | lente                      |
 | 1              | 6                 | langsam                    |
 | 1              | 9                 | slow                       |
