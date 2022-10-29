@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  229 |   30 |    4 |      特徵是令人不寒而慄的長嚎。 過去人們認為牠是來自 地獄的使者，對牠十分畏懼。 |
 |  229 |   30 |    5 |      Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier. |
 |  229 |   30 |    6 |      Sein unheimliches Heulen ist unverkennbar. Früher wurde es von den Menschen als Bote des Todes gefürchtet. |

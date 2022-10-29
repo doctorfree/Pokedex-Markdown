@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  277 |   24 |    5 |      Une fois sa proie repérée, il fond sur elle en un éclair et la capture avec ses griffes acérées. |
 |  277 |   24 |    6 |      Findet es Beute, stürzt es sich aus großer Höhe darauf und packt sie mit seinen spitzen Krallen. |
 |  277 |   24 |    7 |      Vive en los bosques. Si encuentra una presa, se lanza en picado y la atrapa con sus afiladas garras. |

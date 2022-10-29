@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  595 |   33 |    3 |      포켓몬의 몸에 들러붙어 정전기를 흡수한다. 스스로는 전기를 만들 수 없다. |
 |  595 |   33 |    4 |      會附在寶可夢的身上 吸收靜電。自身並沒有 製造電的能力。 |
 |  595 |   33 |    5 |      Il s'accroche au corps des autres Pokémon pour absorber leur électricité statique. Il est incapable d'en produire tout seul. |

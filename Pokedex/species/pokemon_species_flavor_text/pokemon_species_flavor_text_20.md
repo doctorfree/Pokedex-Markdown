@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  342 |   17 |    5 |      C'est un voyou qui utilise ses pinces pour chasser les autres Pokémon hors de sa mare. |
 |  342 |   17 |    9 |      It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond. |
 |  342 |   18 |    5 |      C'est un voyou qui utilise ses pinces pour chasser les autres Pokémon hors de sa mare. |

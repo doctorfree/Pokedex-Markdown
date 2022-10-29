@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  1 |     1 |     9 |      A strange seed was planted on its back at birth.The plant sprouts and grows with this POKéMON. |
 |  1 |     2 |     9 |      A strange seed was planted on its back at birth.The plant sprouts and grows with this POKéMON. |
 |  1 |     3 |     9 |      It can go for days without eating a single morsel.In the bulb on its back, it stores energy. |

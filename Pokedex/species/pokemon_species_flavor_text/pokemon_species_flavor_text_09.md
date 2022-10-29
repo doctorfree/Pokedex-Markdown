@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  125 |   26 |    5 |      Lorsqu'une tempête approche, des groupes entiers de ce Pokémon se battent pour grimper sur les hauteurs, où la foudre a le plus de chance de tomber. Certaines villes se servent d'Élektek en guise de paratonnerres. |
 |  125 |   26 |    6 |      Bei Gewitter entbrennt unter Elektek ein Wettstreit um höher gelegene Orte, an denen ein Blitzeinschlag wahrscheinlich ist. Einige Ortschaften benutzen diese Pokémon anstelle von Blitzableitern. |
 |  125 |   26 |    7 |      Al desatarse una tormenta, bandadas de estos Pokémon se enfrentan entre sí para ver quién alcanza antes sitios altos en los que suelan caer rayos. Hay ciudades que usan Electabuzz en lugar de pararrayos. |

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# pokemon_species_flavor_text
+# pokemon species flavor text
 
 The Pokemon species flavor text markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.
 

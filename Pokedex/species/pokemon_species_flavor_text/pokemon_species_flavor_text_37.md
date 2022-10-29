@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  753 |   30 |    5 |      Il raffole de la lumière du jour. Sa couleur devient de plus en plus vive à mesure qu'il s'abreuve des rayons du soleil. |
 |  753 |   30 |    6 |      Es liebt Sonnenlicht. Gönnt es sich regelmäßig Sonnenbäder, blüht es in prächtigen, satten Farben auf. |
 |  753 |   30 |    7 |      Le encanta la luz solar. Cuanto más toma el sol, más llamativos son los colores que desarrolla. |

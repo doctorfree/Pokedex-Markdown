@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  378 |   23 |    5 |      Il reposait dans un glacier depuis des milliers d'années. Même le magma ne peut pas le faire fondre. |
 |  378 |   23 |    6 |      Es heißt, es habe Jahrtausende lang im ewigen Eis geschlummert. Selbst Magma schmilzt es nicht. |
 |  378 |   23 |    7 |      Dicen que ha yacido durmiendo en un glaciar durante milenios. Ni el magma puede derretir su cuerpo. |

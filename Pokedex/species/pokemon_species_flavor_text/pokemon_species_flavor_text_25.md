@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  450 |   34 |    11 |     怒らせると　かなり　狂暴。 取りこんだ　砂を　噴き出して 砂嵐を　巻き起こす。 |
 |  450 |   34 |    12 |     生气的时候非常凶暴。 会喷出储存在体内的 沙子来引发沙尘暴。 |
 |  451 |   12 |    9 |      It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes. |

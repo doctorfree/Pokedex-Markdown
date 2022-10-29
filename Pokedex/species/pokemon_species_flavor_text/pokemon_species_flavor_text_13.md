@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  190 |   25 |    3 |      능숙하게 움직이는 꼬리 끝을 손바닥 대신 사용하다 보니 반대로 양손이 둔해져 버린 포켓몬이다. |
 |  190 |   25 |    5 |      L'extrémité de la queue de Capumain ressemble à une main et peut être utilisée de façon ingénieuse. Malheureusement, ce Pokémon utilise tellement sa queue que ses véritables mains sont devenues très maladroites. |
 |  190 |   25 |    6 |      An Griffels Schweif befindet sich ein handähnliches Anhängsel, mit dem es geschickt zu Werke gehen kann. Da dieses Pokémon sehr häufig seinen Schweif einsetzt, wirken seine Hände eher plump. |

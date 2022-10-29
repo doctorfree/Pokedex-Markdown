@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  501 |   24 |    8 |      Combatte con la conchiglia che ha sul ventre. Contrattacca prontamente dopo aver parato l'attacco avversario. |
 |  501 |   24 |    9 |      It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing. |
 |  501 |   24 |    11 |     お腹の　ホタチで　戦う。 攻撃を　受け止めてから　すかさず 切りつけて　反撃するのだ。 |

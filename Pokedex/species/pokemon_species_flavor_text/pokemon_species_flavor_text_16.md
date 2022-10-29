@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  249 |   15 |    9 |      It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong. |
 |  249 |   16 |    9 |      It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm. |
 |  249 |   17 |    5 |      Il dort dans une faille des grands fonds. Ses battements d'ailes génèrent une tempête de 40 jours. |

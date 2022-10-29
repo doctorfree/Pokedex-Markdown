@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  171 |   28 |    6 |      Es blendet seine Beute mit einem starken Blitz. Sieht es eine Chance zuzuschlagen, greift es sie mit Elektrizität an. |
 |  171 |   28 |    7 |      Ciega a sus presas con una luz intensa. Si tiene la ocasión, les propina una buena descarga eléctrica. |
 |  171 |   28 |    8 |      Acceca la preda con una luce intensa per poi attaccarla immediatamente con una scossa elettrica. |

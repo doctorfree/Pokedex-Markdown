@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  69 |    31 |    8 |      Ama i luoghi caldi e umidi. Cattura minuscoli Pokémon di tipo Coleottero con i suoi viticci e poi li divora. |
 |  69 |    31 |    9 |      Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them. |
 |  69 |    31 |    11 |     温度が　高く　湿度の　ある ところを　好む。ツルを　使って 小さなムシを　捕らえて　食べる。 |

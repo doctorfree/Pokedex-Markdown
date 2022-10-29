@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  361 |   13 |    9 |      In the snow country, certain folklore says a house will prosper if a SNORUNT lives there. |
 |  361 |   14 |    9 |      It is said that several SNORUNT gather under giant leaves and live together in harmony. |
 |  361 |   15 |    9 |      It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive. |

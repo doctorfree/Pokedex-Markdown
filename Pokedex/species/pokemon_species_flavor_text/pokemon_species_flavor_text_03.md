@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  44 |    25 |    1 |      きけんを　かんじると　めしべの　はなつ　くさい においは　さらに　つよまるが　こころ　おだやかな ときは　くさい　においを　ださないのだ。 |
 |  44 |    25 |    3 |      위험을 느끼면 암술에서 내는 구린 냄새가 더 강해지지만 마음이 평안할 때는 구린 냄새를 내지 않는다. |
 |  44 |    25 |    5 |      La plupart du temps, Ortide dégage un parfum immonde du pistil de sa fleur. Lorsqu'il se sent en danger, la puanteur est encore pire. Lorsque ce Pokémon se sent bien et en sécurité, il ne dégage aucune odeur nauséabonde. |

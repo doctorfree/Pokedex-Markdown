@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  149 |   34 |    6 |      Dragoran wird die „Inkarnation des Meeres" genannt. Sein Ebenbild ziert den Bug vieler Schiffe als Galionsfigur. |
 |  149 |   34 |    7 |      Se lo conoce como el Avatar de la Mar. Muchos barcos lucen una talla de Dragonite como mascarón de proa. |
 |  149 |   34 |    8 |      Viene chiamato "Incarnazione del mare". Molte navi hanno una statua di Dragonite sulla prua. |

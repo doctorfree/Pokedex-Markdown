@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  572 |   22 |    9 |      Minccino greet each other by grooming one another thoroughly with their tails. |
 |  572 |   23 |    1 |      おたがいの　しっぽで　あいてを とことん　きれいに　してあげるのが チラーミィどうしの　あいさつ。 |
 |  572 |   23 |    3 |      서로의 꼬리로 상대를 철저히 깨끗하게 만드는 것이 치라미끼리의 인사다. |

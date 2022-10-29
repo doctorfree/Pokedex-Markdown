@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  17 |    3 |     9 |      This POKéMON is full of vitality. It constantlyflies around its large territory in search of prey. |
 |  17 |    4 |     9 |      It has outstanding vision. However high it flies, itis able to distin­ guish the move­ ments of its prey. |
 |  17 |    5 |     9 |      It immobilizes its prey using well- developed claws,then carries the prey more than 60 miles to its nest. |

@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  321 |   27 |    4 |      有成群結隊追逐獵物的習性。 會用大大的嘴巴將整群的弱丁魚 一口氣吞下。 |
 |  321 |   27 |    5 |      Il a pour habitude de chasser en groupe. Sa large gueule lui permet d'engloutir un banc de Froussardine d'un seul coup. |
 |  321 |   27 |    6 |      Wailord jagt seine Beute in der Gruppe. Mit seinem enormen Maul kann es ganze Schwärme von Lusardin auf einmal verschlingen. |

@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  552 |   24 |    6 |      Die spezielle Membran um seine Augen fungiert als Wärmesensor, durch den es sich auch im Dunkeln zurechtfindet. |
 |  552 |   24 |    7 |      Una membrana especial cubre sus ojos y le permite detectar el calor de los cuerpos, por eso ve en la oscuridad. |
 |  552 |   24 |    8 |      La membrana speciale che ha sugli occhi è in grado di percepire il calore dei corpi, consentendogli così di vedere al buio. |

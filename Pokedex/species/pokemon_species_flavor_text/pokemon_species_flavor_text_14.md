@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  210 |   30 |    5 |      Les jeunes gens en sont fous, mais sa timidité et sa grande délicatesse en font un piètre Pokémon de garde. |
 |  210 |   30 |    6 |      Es ist bei jungen Leuten sehr beliebt. Aufgrund seines feigen und sensiblen Charakters ist es als Wache allerdings völlig ungeeignet. |
 |  210 |   30 |    7 |      Es muy popular entre la gente joven, pero su personalidad afable y algo miedosa hacen de él un pésimo guardián. |

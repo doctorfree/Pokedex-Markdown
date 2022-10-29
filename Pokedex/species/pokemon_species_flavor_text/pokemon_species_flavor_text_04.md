@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  57 |    31 |    8 |      È molto difficile vedere questo Pokémon calmo, dato che la sua furia si placa solamente quando si trova nella solitudine più assoluta. |
 |  57 |    31 |    9 |      It stops being angry only when nobody else is around. To view this moment is very difficult. |
 |  57 |    31 |    11 |     まわりに　誰も　いないときだけは 怒るのを　やめている。しかし それを見るのは　難しい。 |

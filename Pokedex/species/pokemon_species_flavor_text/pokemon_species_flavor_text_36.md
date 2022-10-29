@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  725 |   27 |    7 |      Prende las bolas de pelo que se forman en su estómago tras acicalarse. Las llamas que escupe tienen formas variopintas. |
 |  725 |   27 |    8 |      Incendia i grumi di pelo accumulati nella pancia durante la toeletta per sputare fiamme che plasma a suo piacimento. |
 |  725 |   27 |    9 |      While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs. |

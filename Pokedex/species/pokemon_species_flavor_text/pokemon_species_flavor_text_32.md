@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  621 |   33 |    3 |      토굴에 산다. 몸이 차가워지면 움직이지 못하기 때문에 일광욕을 거르지 않는다. |
 |  621 |   33 |    4 |      居住在地洞裡。如果 身體受涼就會無法動彈， 因此一定會做日光浴。 |
 |  621 |   33 |    5 |      Il vit sous terre, mais il doit impérativement s'exposer au soleil, car il devient incapable de bouger lorsque son corps se refroidit. |

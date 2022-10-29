@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  83 |    26 |    9 |      Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks. |
 |  83 |    26 |    11 |     持っている　植物の　クキにも　良いものと そうでない　ものが　あるらしく　カモネギ同士が クキを　巡って　戦う　ことが　ある。 |
 |  83 |    31 |    1 |      クキが　はえている　ところに　すむ。 めずらしく　かずも　すくないので カモネギも　へってきた　らしい。 |

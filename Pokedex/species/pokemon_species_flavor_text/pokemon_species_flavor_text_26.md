@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  471 |   27 |    5 |      Il peut contrôler la température de son corps à volonté et générer des cristaux de glace en gelant l'humidité de l'air. |
 |  471 |   27 |    6 |      Es kann seine Körpertemperatur frei regulieren. Indem es die Wasserbestandteile der Luft gefrieren lässt, wirbelt es Diamantstaub auf. |
 |  471 |   27 |    7 |      Controla a su antojo la temperatura corporal y congela las partículas de agua que flotan en el aire para provocar ráfagas de nieve en polvo. |

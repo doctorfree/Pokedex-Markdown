@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  701 |   24 |    3 |      날개를 사용해 공중에서 자세를 컨트롤한다. 막기 어려운 머리 위에서부터 공격해온다. |
 |  701 |   24 |    5 |      Il utilise ses ailes pour contrôler avec précision sa posture en vol. Ses attaques aériennes sont difficiles à parer. |
 |  701 |   24 |    6 |      Es nutzt seine Flügel, um sich am Himmel in Position zu halten. Gegen seine Angriffe aus der Luft kann man sich nur schwer zur Wehr setzen. |

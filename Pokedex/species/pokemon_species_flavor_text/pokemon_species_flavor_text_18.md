@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  299 |   25 |    9 |      Nosepass's magnetic nose is always pointed to the north. If two of these Pokémon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another. |
 |  299 |   25 |    11 |     磁石の　鼻は　いつも　北を　向いている。 ノズパス同士は　磁石が　反発しあうため 近くで　顔を　合わせる　ことが　できない。 |
 |  299 |   26 |    1 |      じしゃくの　はなを　きたに　むけたまま　まったく うごかないと　いわれていたが　１ねんに　１センチ いどう　している　ことが　かんそくされた。 |

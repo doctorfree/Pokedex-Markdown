@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species names
 
-| pokemon_species_id | local_language_id |     name     |          genus           |
-|--------------------|-------------------|--------------|--------------------------|
+| **Pokemon species id** | **Local language id** | **Name** | **Genus** |
+|------------------------|-----------------------|----------|-----------|
 | 1                  | 1                 | フシギダネ        | たねポケモン                   |
 | 1                  | 2                 | Fushigidane  |                          |
 | 1                  | 3                 | 이상해씨         | 씨앗포켓몬                    |

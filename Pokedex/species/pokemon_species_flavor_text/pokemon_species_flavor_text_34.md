@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  676 |   23 |    3 |      복슬복슬한 털을 깎고 다듬으면 모습이 아름다워질 뿐만 아니라 몸의 움직임도 좋아진다. |
 |  676 |   23 |    5 |      Si son abondante fourrure gagne à être toilettée, ce n'est pas qu'une question de style. En effet, cela lui permet également de se mouvoir plus librement. |
 |  676 |   23 |    6 |      Schneidet man sein Fell zurecht, wird es nicht nur schöner, sondern auch beweglicher. |

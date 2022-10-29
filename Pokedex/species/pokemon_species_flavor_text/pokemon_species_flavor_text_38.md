@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  780 |   29 |    3 |      친구가 된 아이가 괴롭힘을 당하면 괴롭힌 아이의 집에 찾아가서 태워버린다. |
 |  780 |   29 |    4 |      如果和自己成為朋友的孩子被欺負， 牠會去找出欺負人的那個孩子家， 然後把房子燒光光。 |
 |  780 |   29 |    5 |      S'il apprend qu'un enfant avec lequel il s'est lié d'amitié est persécuté par ses camarades, il trouve leur maison et la réduit en cendres. |

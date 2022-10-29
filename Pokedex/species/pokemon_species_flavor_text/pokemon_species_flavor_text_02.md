@@ -8,8 +8,8 @@ categories:
 
 # Pokemon species flavor text
 
-|  species_id | version_id | language_id | flavor_text |
-|-------------|------------|-------------|-------------|
+| **Species id** | **Version id** | **Language id** | **Flavor text** |
+|----------------|----------------|-----------------|-----------------|
 |  31 |    24 |    7 |      Tiene el cuerpo recubierto de escamas duras y cortantes. Cuando se inquieta, las usa para defenderse. |
 |  31 |    24 |    8 |      Il corpo è ricoperto di dure squame appuntite che gli si rizzano quando si inquieta. |
 |  31 |    24 |    9 |      The body is covered by stiff, needlelike scales. If it becomes excited, the needles bristle outwards. |
