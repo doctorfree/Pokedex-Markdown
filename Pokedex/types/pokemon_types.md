@@ -8,8 +8,8 @@ categories:
 
 # Pokemon types
 
-| pokemon_id | type_id | slot |
-|------------|---------|------|
+| **Pokemon id** | **Type id** | **Slot** |
+|----------------|-------------|----------|
 | 1          | 12      | 1    |
 | 1          | 4       | 2    |
 | 2          | 12      | 1    |

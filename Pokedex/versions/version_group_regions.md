@@ -8,7 +8,7 @@ categories:
 
 # Version group regions
 
-| version_group_id | region_id |
+| **Version group id** | **Region id** |
 |------------------|-----------|
 | 1                | 1         |
 | 2                | 1         |

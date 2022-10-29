@@ -8,8 +8,8 @@ categories:
 
 # Types
 
-|  id   | identifier | generation_id | damage_class_id |
-|-------|------------|---------------|-----------------|
+| **Id** | **Identifier** | **Generation id** | **Damage class id** |
+|--------|----------------|-------------------|---------------------|
 | 1     | normal     | 1             | 2               |
 | 2     | fighting   | 1             | 2               |
 | 3     | flying     | 1             | 2               |

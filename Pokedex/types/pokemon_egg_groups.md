@@ -8,8 +8,8 @@ categories:
 
 # Pokemon egg groups
 
-| species_id | egg_group_id |
-|------------|--------------|
+| **Species id** | **Egg group id** |
+|----------------|------------------|
 | 1          | 1            |
 | 1          | 7            |
 | 2          | 1            |

@@ -8,7 +8,7 @@ categories:
 
 # Version group pokemon move methods
 
-| version_group_id | pokemon_move_method_id |
+| **Version group id** | **Pokemon move method id** |
 |------------------|------------------------|
 | 1                | 1                      |
 | 1                | 4                      |

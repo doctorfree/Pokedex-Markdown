@@ -8,19 +8,19 @@ categories:
 
 # Version names
 
-| version_id | local_language_id |        name        |
-|------------|-------------------|--------------------|
-| 1          | 1                 | 赤                  |
-| 1          | 3                 | 레드                 |
-| 1          | 5                 | Rouge              |
-| 1          | 6                 | Rot                |
-| 1          | 7                 | Rojo               |
-| 1          | 8                 | Rossa              |
-| 1          | 9                 | Red                |
-| 2          | 1                 | 緑                  |
-| 2          | 3                 | 블루                 |
-| 2          | 5                 | Bleu               |
-| 2          | 6                 | Blau               |
+| **Version id** | **Local language id** | **Name** |
+|------------|-------------------|------------------|
+| 1          | 1                 | 赤               |
+| 1          | 3                 | 레드             |
+| 1          | 5                 | Rouge            |
+| 1          | 6                 | Rot              |
+| 1          | 7                 | Rojo             |
+| 1          | 8                 | Rossa            |
+| 1          | 9                 | Red              |
+| 2          | 1                 | 緑               |
+| 2          | 3                 | 블루             |
+| 2          | 5                 | Bleu             |
+| 2          | 6                 | Blau             |
 | 2          | 7                 | Azul               |
 | 2          | 8                 | Blu                |
 | 2          | 9                 | Blue               |

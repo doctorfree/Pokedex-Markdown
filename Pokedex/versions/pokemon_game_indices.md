@@ -8,7 +8,7 @@ categories:
 
 # Pokemon game indices
 
-| pokemon_id | version_id | game_index |
+| **Pokemon id** | **Version id** | **Game index** |
 |------------|------------|------------|
 | 1          | 1          | 153        |
 | 1          | 2          | 153        |

@@ -8,7 +8,7 @@ categories:
 
 # Pokedex version groups
 
-| pokedex_id | version_group_id |
+| **Pokedex id** | **Version group id** |
 |------------|------------------|
 | 2          | 1                |
 | 2          | 2                |

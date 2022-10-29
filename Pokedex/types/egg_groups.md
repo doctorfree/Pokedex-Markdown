@@ -8,8 +8,8 @@ categories:
 
 # Egg groups
 
-| id |  identifier   |
-|----|---------------|
+| **Id** |  **Identifier**   |
+|--------|-------------------|
 | 1  | monster       |
 | 2  | water1        |
 | 3  | bug           |

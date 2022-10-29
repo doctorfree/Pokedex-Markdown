@@ -8,8 +8,8 @@ categories:
 
 # Type efficacy
 
-| damage_type_id | target_type_id | damage_factor |
-|----------------|----------------|---------------|
+| **Damage type id** | **Target type id** | **Damage factor** |
+|--------------------|--------------------|-------------------|
 | 1              | 1              | 100           |
 | 1              | 2              | 100           |
 | 1              | 3              | 100           |

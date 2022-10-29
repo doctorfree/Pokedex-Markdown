@@ -8,8 +8,8 @@ categories:
 
 # Egg group prose
 
-| egg_group_id | local_language_id |        name         |
-|--------------|-------------------|---------------------|
+| **Egg group id** | **Local language id** | **Name** |
+|------------------|-----------------------|----------|
 | 1            | 1                 | かいじゅう               |
 | 1            | 3                 | 괴수                  |
 | 1            | 5                 | Monstrueux          |

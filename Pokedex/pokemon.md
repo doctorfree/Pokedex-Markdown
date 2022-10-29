@@ -22,8 +22,8 @@ Height is measured in decimeters (1/10th of a meter)
 Weight is measured in hectograms (1/10th of a kilogram)
 
 
-|  id   |         identifier         | species_id | height | weight | base_experience | order | is_default |
-|-------|----------------------------|------------|--------|--------|-----------------|-------|------------|
+| **Id** | **Identifier** | **Species Id** | **Height** | **Weight** | **Base Experience** | **Order** | **Is Default** |
+|--------|----------------|----------------|------------|------------|---------------------|-----------|----------------|
 | 1     | bulbasaur                  | 1          | 7      | 69     | 64              | 1     | 1          |
 | 2     | ivysaur                    | 2          | 10     | 130    | 142             | 2     | 1          |
 | 3     | venusaur                   | 3          | 20     | 1000   | 263             | 3     | 1          |

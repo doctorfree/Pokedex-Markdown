@@ -8,7 +8,7 @@ categories:
 
 # Version groups
 
-| id |          identifier           | generation_id | order |
+| **Id** |      **Identifier**       | **Generation id** | **Order** |
 |----|-------------------------------|---------------|-------|
 | 1  | red-blue                      | 1             | 1     |
 | 2  | yellow                        | 1             | 2     |

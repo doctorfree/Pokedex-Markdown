@@ -8,8 +8,8 @@ categories:
 
 # Type game indices
 
-| type_id | generation_id | game_index |
-|---------|---------------|------------|
+| **Type id** | **Generation id** | **Game index** |
+|-------------|-------------------|----------------|
 | 1       | 1             | 0          |
 | 1       | 2             | 0          |
 | 1       | 3             | 0          |

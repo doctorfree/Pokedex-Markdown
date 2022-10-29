@@ -8,7 +8,7 @@ categories:
 
 # Versions
 
-| id | version_group_id |   identifier    |
+| **Id** | **Version group id** |   **Identifier**    |
 |----|------------------|-----------------|
 | 1  | 1                | red             |
 | 2  | 1                | blue            |
