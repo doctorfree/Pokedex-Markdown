@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# contest
+# Contest index
 
 Index of contest category
 

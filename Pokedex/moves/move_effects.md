@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move effects
+
 |  id   |
 |-------|
 | 1     |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon stats
+
 | pokemon_id | stat_id | base_stat | effort |
 |------------|---------|-----------|--------|
 | 1          | 1       | 45        | 0      |

@@ -1,8 +1,11 @@
 # Bulbasaur
 
+
+![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)
+
 | **Name** | **J-name** |**Tm-name** |**Index** |**Type 1** |**Type 2** |
 |----|----|----|----|----|----|
-| Bulbasaur | | Fushigidane | 001 | Grass | Poison |
+| Bulbasaur | &#x30d5;&#x30b7&#x30ae&#x30c0&#x30cd | Fushigidane | 001 | Grass | Poison |
 
 | **Category** |**Height ft/in** |**Height m** | **Weight lbs** | **Weight kg** | **Ability n** |
 |----|----|----|----|----|----|
@@ -20,7 +23,7 @@
 |----|----|----|----|----|----|
 | Green | 45 | 08 | 1 | bulbasaur | 70 |
 
-**Bulbasaur** (Fushigidane) is a dual-type Grass/Poison species introduced in [Generation I](national_pokedex.md#generation-i).
+**Bulbasaur** (&#x30d5;&#x30b7&#x30ae&#x30c0&#x30cd Fushigidane) is a dual-type Grass/Poison species introduced in [Generation I](national_pokedex.md#generation-i).
 
 It evolves into Ivysaur starting at level 16, which evolves into Venusaur starting at level 32.
 
@@ -42,3 +45,6 @@ Solar Beam, Bulbasaur's strongest attack. Light is collected and formed into a p
 
 Bulbasaur, the Seed Pokémon. A young Bulbasaur uses the nutrients from its seed for the energy it needs to grow.
 
+## See also
+
+[List of Pokémon](../pokemon.md)

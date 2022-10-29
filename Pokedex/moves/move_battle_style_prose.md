@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move battle style prose
+
 | move_battle_style_id | local_language_id |    name    |
 |----------------------|-------------------|------------|
 | 1                    | 5                 | Attaque    |

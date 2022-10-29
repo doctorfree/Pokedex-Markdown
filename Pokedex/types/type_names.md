@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Type names
+
 | type_id | local_language_id |    name    |
 |---------|-------------------|------------|
 | 1       | 1                 | ノーマル       |

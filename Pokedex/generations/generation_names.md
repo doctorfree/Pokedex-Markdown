@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Generation names
+
 | generation_id | local_language_id |      name       |
 |---------------|-------------------|-----------------|
 | 1             | 1                 | だいいちせだい         |

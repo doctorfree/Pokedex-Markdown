@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# forms
+# Forms index
 
 Index of forms category
 

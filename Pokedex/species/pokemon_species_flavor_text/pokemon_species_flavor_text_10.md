@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  136 |   33 |    11 |     体内に　炎が　溜まると ブースターの　体温も　最高 ９００度　まで　上がっていく。 |

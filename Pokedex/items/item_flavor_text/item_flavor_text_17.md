@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  591       19 |  |  7 |      Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon. |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon egg groups
+
 | species_id | egg_group_id |
 |------------|--------------|
 | 1          | 1            |

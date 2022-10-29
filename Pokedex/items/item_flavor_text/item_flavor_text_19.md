@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  660       17 |  |  8 |      Un'onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. |

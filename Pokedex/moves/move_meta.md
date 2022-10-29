@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta
+
 | move_id | meta_category_id | meta_ailment_id | min_hits | max_hits | min_turns | max_turns | drain | healing | crit_rate | ailment_chance | flinch_chance | stat_chance |
 |---------|------------------|-----------------|----------|----------|-----------|-----------|-------|---------|-----------|----------------|---------------|-------------|
 | 1       | 0                | 0               |          |          |           |           | 0     | 0       | 0         | 0              | 0             | 0           |

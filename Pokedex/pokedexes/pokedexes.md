@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokedexes
+
 | id | region_id |    identifier     | is_main_series |
 |----|-----------|-------------------|----------------|
 | 1  |           | national          | 1              |

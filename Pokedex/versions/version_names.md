@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Version names
+
 | version_id | local_language_id |        name        |
 |------------|-------------------|--------------------|
 | 1          | 1                 | 赤                  |

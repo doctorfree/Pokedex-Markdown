@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter methods
+
 | id |   identifier    | order |
 |----|-----------------|-------|
 | 1  | walk            | 1     |

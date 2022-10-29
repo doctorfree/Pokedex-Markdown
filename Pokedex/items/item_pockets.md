@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item pockets
+
 | id | identifier |
 |----|------------|
 | 1  | misc       |

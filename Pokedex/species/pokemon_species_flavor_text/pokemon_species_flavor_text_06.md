@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  83 |    26 |    9 |      Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks. |

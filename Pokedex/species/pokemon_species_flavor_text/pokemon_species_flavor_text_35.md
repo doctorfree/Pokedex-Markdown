@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  701 |   24 |    3 |      날개를 사용해 공중에서 자세를 컨트롤한다. 막기 어려운 머리 위에서부터 공격해온다. |

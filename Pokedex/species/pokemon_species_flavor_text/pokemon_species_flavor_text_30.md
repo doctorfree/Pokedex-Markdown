@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  572 |   22 |    9 |      Minccino greet each other by grooming one another thoroughly with their tails. |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Experience
+
 | growth_rate_id | level | experience |
 |----------------|-------|------------|
 | 1              | 1     | 0          |

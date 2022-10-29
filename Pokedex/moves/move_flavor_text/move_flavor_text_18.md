@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  642       19 |  |  6 |      Der Anwender kreiert mit Z-Kraft einen riesigen Wasserstrudel, der das Ziel verschluckt. Die Stärke variiert je nach zugrunde liegender Attacke. |

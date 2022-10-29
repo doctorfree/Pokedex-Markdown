@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move effect prose
+
 | conquest_move_effect_id | local_language_id |                                                short_effect                                                 |                                                                                                                               effect                                                                                                                               |
 |-------------------------|-------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                       | 9                 | Inflicts exactly 40 HP in damage.                                                                           | Inflicts exactly 40 HP in damage, unaffected by stats or types.                                                                                                                                                                                                    |
@@ -22,6 +24,8 @@ categories:
 | 16                      | 9                 | Digs underground and hits at the beginning of the next turn.                                                | Inflicts regular damage.  The user digs underground, dodging all moves until it attacks.  At the beginning of the next turn, the user hits $target, even if $target has moved, and cannot move again that turn.                                                    |
 | 17                      | 9                 | Lifts $target into the sky and hits at the beginning of the next turn.                                      | Inflicts regular damage.  The user carries $target into the sky.  No moves can hit either Pokémon in this state.  At the beginning of the next turn, the user slams $target to the ground, inflicting regular damage.  The user cannot move again that turn.       |
 | 18                      | 9                 | Hits $target at the beginning of the turn after next.                                                       | Inflicts regular damage.  Hits $target at the beginning of the user's turn two turns after this one, even if the target has moved.
+
+# Conquest move effect prose
 
 In the turn in-between, the user can use this move again, but it will miss any target that already has a Future Sight pending. |
 | 19                      | 9                 | User moves back one tile, switching places with any Pokémon already there.                                  | Inflicts regular damage.                                                                                                                                                                                                                                           |
@@ -49,6 +53,8 @@ In the turn in-between, the user can use this move again, but it will miss any t
 | 49                      | 9                 | Has double power against poisoned Pokémon.                                                                  | Inflicts regular damage.  Has double power when calculating damage against a poisoned target, on a target-by-target basis.                                                                                                                                         |
 | 51                      | 9                 | Uses $target's item if it is consumable.                                                                    | Inflicts regular damage.  The user steals $target's item, if the item can be consumed in battle, and uses it on itself, or destroys it if it would have no effect.                                                                                                 |
 | 52                      | 9                 | Never misses.                                                                                               | Inflicts regular damage.  Always has 100% accuracy.
+
+# Conquest move effect prose
 
 This move still misses Pokémon under the effects of []{move:dig} or []{move:sky-drop} and can still be dodged by abilities such as []{ability:instinct}.                                                      |
 | 58                      | 9                 | Has a $effect_chance% chance to lower $target's range by one tile.                                          | Inflicts regular damage.  Has a $effect_chance% chance to lower $target's range by one tile.                                                                                                                                                                       |

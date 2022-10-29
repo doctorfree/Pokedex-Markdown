@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warriors
+
 | id  | identifier | gender_id | archetype_id |
 |-----|------------|-----------|--------------|
 | 1   | player-m   | 2         |              |

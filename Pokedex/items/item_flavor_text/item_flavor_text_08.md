@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  261       15 |  |  9 |      An item to be held by a Pokémon. It extends the duration of the move Sunny Day when used by the holder. |

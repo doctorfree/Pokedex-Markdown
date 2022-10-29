@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  167       18 |  |  12 |     连续３次踢对手进行攻击。 每踢中一次，威力就会提高。 |

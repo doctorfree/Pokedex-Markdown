@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  556       18 |  |  5 |      Envoie de gros blocs de glace sur l'ennemi pour lui infliger des dégâts. Peut aussi l'apeurer. |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior specialties
+
 | warrior_id | type_id | slot |
 |------------|---------|------|
 | 1          | 1       | 1    |

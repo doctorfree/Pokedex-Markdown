@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  361 |   13 |    9 |      In the snow country, certain folklore says a house will prosper if a SNORUNT lives there. |

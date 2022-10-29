@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  915       20 |  |  6 |      Eine Disc mit Daten zum Typ Eis. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus. |

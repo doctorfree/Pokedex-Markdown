@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# characteristics
+# Characteristics index
 
 Index of characteristics category
 

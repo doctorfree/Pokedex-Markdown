@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# stats
+# Stats index
 
 Index of stats category
 

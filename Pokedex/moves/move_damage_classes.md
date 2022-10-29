@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move damage classes
+
 | id | identifier |
 |----|------------|
 | 1  | status     |

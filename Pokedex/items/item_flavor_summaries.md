@@ -6,3 +6,5 @@ categories:
     - pokemon
 ---
 
+# Item flavor summaries
+

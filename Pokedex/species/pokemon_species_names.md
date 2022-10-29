@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species names
+
 | pokemon_species_id | local_language_id |     name     |          genus           |
 |--------------------|-------------------|--------------|--------------------------|
 | 1                  | 1                 | フシギダネ        | たねポケモン                   |

@@ -6,7 +6,9 @@ categories:
     - pokemon
 ---
 
-| pokemon_color_id | local_language_id |   name   |
+# Pokémon color names
+
+| Pokémon color id | Local language id |   name   |
 |------------------|-------------------|----------|
 | 1                | 1                 | くろいろ     |
 | 1                | 3                 | 검정       |

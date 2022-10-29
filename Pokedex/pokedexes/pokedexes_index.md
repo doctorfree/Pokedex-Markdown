@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# pokedexes
+# Pokedexes index
 
 Index of pokedexes category
 

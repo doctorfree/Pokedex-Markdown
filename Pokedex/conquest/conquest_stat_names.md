@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest stat names
+
 | conquest_stat_id | local_language_id |   name    |
 |------------------|-------------------|-----------|
 | 1                | 7                 | PS        |

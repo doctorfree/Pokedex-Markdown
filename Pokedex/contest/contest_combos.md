@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Contest combos
+
 | first_move_id | second_move_id |
 |---------------|----------------|
 | 1             | 3              |

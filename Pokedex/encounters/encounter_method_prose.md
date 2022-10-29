@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter method prose
+
 | encounter_method_id | local_language_id |                   name                   |
 |---------------------|-------------------|------------------------------------------|
 | 1                   | 6                 | Im hohen Gras oder in einer Höhle laufen |

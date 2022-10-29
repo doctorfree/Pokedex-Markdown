@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item game indices
+
 | item_id | generation_id | game_index |
 |---------|---------------|------------|
 | 1       | 3             | 1          |

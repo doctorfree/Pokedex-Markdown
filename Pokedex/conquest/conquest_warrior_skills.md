@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior skills
+
 | id |   identifier    |
 |----|-----------------|
 | 1  | adrenaline      |

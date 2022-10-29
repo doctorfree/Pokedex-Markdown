@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Super contest effects
+
 | id | appeal |
 |----|--------|
 | 1  | 2      |

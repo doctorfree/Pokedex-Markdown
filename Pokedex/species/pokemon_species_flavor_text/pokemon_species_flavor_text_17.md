@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  277 |   24 |    5 |      Une fois sa proie repérée, il fond sur elle en un éclair et la capture avec ses griffes acérées. |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta categories
+
 | id |     identifier     |
 |----|--------------------|
 | 0  | damage             |

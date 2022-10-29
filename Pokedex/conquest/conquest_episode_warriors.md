@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest episode warriors
+
 | episode_id | warrior_id |
 |------------|------------|
 | 1          | 1          |

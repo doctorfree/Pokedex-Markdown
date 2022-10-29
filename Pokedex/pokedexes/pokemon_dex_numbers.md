@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon dex numbers
+
 | species_id | pokedex_id | pokedex_number |
 |------------|------------|----------------|
 | 1          | 1          | 1              |

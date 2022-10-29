@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  701       19 |  |  11 |     戦いのとき　ミュウツーを メガシンカ　させることが　できる 不思議な　メガストーンの　一種。 |

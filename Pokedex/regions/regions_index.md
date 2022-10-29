@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# regions
+# Regions index
 
 Index of regions category
 

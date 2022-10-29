@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item pocket names
+
 | item_pocket_id | local_language_id |        name        |
 |----------------|-------------------|--------------------|
 | 1              | 5                 | Objets             |

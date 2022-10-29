@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter conditions
+
 | id | identifier |
 |----|------------|
 | 1  | swarm      |

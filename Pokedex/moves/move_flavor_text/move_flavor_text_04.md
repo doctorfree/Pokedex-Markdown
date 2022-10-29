@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  134       16 |  |  7 |      Dobla una cuchara para distraer al objetivo y bajar su nivel de Precisión. |

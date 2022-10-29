@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta ailment names
+
 | move_meta_ailment_id | local_language_id |           name            |
 |----------------------|-------------------|---------------------------|
 | -1                   | 5                 | ????                      |

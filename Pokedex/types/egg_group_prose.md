@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Egg group prose
+
 | egg_group_id | local_language_id |        name         |
 |--------------|-------------------|---------------------|
 | 1            | 1                 | かいじゅう               |

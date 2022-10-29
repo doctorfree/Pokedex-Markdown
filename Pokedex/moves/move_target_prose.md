@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move target prose
+
 | move_target_id | local_language_id |         name          |                                                description                                                |
 |----------------|-------------------|-----------------------|-----------------------------------------------------------------------------------------------------------|
 | 1              | 6                 | Spezifische Fähigkeit | Eine spezifische Fähigkeit.  Wie diese Fähigkeit genutzt wird hängt von den genutzten Fähigkeiten ab.     |

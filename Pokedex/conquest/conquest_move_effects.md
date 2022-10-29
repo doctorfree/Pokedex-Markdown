@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move effects
+
 | id |
 |----|
 | 1  |

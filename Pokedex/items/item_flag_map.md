@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flag map
+
 | item_id | item_flag_id |
 |---------|--------------|
 | 1       | 1            |

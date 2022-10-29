@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  44 |    25 |    1 |      きけんを　かんじると　めしべの　はなつ　くさい においは　さらに　つよまるが　こころ　おだやかな ときは　くさい　においを　ださないのだ。 |

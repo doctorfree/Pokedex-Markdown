@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# encounters
+# Encounters index
 
 Index of encounters category
 

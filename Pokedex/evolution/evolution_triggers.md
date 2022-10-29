@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Evolution triggers
+
 | id |     identifier      |
 |----|---------------------|
 | 1  | level-up            |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  302       18 |  |  4 |      用帶刺的手臂 猛烈揮打進行攻擊。 有時會使對手畏縮。 |

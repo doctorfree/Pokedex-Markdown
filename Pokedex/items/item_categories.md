@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item categories
+
 | id | pocket_id |    identifier     |
 |----|-----------|-------------------|
 | 1  | 7         | stat-boosts       |

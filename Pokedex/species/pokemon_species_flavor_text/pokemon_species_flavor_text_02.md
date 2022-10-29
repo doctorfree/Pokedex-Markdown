@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  31 |    24 |    7 |      Tiene el cuerpo recubierto de escamas duras y cortantes. Cuando se inquieta, las usa para defenderse. |

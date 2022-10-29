@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Languages
+
 | id | iso639 | iso3166 | identifier | official | order |
 |----|--------|---------|------------|----------|-------|
 | 1  | ja     | jp      | ja-Hrkt    | 1        | 1     |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  355       19 |  |  4 |      將猛烈的暴風雪 吹向對手進行攻擊。 有時會讓對手陷入冰凍狀態。 |

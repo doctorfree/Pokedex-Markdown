@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  372       15 |  |  1 |      そのターンに　あいてが すでに　ダメージを　うけて　いたら わざの　いりょくは　２ばいに　なる。 |

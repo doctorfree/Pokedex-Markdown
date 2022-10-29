@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon game indices
+
 | pokemon_id | version_id | game_index |
 |------------|------------|------------|
 | 1          | 1          | 153        |

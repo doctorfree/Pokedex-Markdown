@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Contest types
+
 | id | identifier |
 |----|------------|
 | 1  | cool       |

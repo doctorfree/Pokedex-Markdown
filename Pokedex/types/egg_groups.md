@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Egg groups
+
 | id |  identifier   |
 |----|---------------|
 | 1  | monster       |

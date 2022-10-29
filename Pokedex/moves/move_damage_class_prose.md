@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move damage class prose
+
 | move_damage_class_id | local_language_id |   name   |                                description                                 |
 |----------------------|-------------------|----------|----------------------------------------------------------------------------|
 | 1                    | 1                 | へんか      | ダメージない                                                                     |

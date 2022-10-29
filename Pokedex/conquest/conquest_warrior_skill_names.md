@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior skill names
+
 | skill_id | local_language_id |      name       |
 |----------|-------------------|-----------------|
 | 1        | 9                 | Adrenaline      |

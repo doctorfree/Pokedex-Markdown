@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounters
+
 |  id | version_id | location_area_id | encounter_slot_id | pokemon_id | min_level | max_level |
 |-----|------------|------------------|-------------------|------------|-----------|------- ---|
 |  36320 | 17 |   612 |298 | 530 |  40 |  40 |

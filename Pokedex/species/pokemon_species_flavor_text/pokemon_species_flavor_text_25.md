@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  450 |   34 |    11 |     怒らせると　かなり　狂暴。 取りこんだ　砂を　噴き出して 砂嵐を　巻き起こす。 |

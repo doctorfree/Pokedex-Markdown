@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  1047      19 |  |  6 |      Ein großes Bonbon, das voller Energie steckt. Erhöht dauerhaft den Angriff eines Pokémon ab Level 30. |

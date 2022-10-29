@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# languages
+# Languages index
 
 Index of languages category
 

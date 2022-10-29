@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item names
+
 | item_id | local_language_id |          name          |
 |---------|-------------------|------------------------|
 | 1       | 1                 | マスターボール                |

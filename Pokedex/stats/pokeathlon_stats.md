@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokeathlon stats
+
 | id | identifier |
 |----|------------|
 | 1  | speed      |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Regions
+
 | id | identifier |
 |----|------------|
 | 1  | kanto      |

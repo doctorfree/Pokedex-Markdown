@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  488       19 |  |  8 |      Contiene i tuoi dati Pokéathlon. Su questa Scheda è registrato il numero di sprint dei tuoi Pokémon. |

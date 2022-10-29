@@ -6,7 +6,9 @@ categories:
     - pokemon
 ---
 
-| id | identifier |
+# Pokémon colors
+
+| Id | Identifier |
 |----|------------|
 | 1  | black      |
 | 2  | blue       |

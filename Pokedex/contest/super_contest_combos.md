@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Super contest combos
+
 | first_move_id | second_move_id |
 |---------------|----------------|
 | 74            | 345            |

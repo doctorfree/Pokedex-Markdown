@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  112 |   25 |    7 |      Rhydon tiene un cuerno capaz de horadar hasta un diamante en bruto y con una sacudida de la cola puede derribar un edificio. La piel de este Pokémon es muy fuerte; ni los disparos de un cañón le arañarían. |

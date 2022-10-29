@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter condition prose
+
 | encounter_condition_id | local_language_id |               name                |
 |------------------------|-------------------|-----------------------------------|
 | 1                      | 5                 | Essaim                            |

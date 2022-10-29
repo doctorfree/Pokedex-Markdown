@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokedex version groups
+
 | pokedex_id | version_group_id |
 |------------|------------------|
 | 2          | 1                |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  471 |   27 |    5 |      Il peut contrôler la température de son corps à volonté et générer des cristaux de glace en gelant l'humidité de l'air. |

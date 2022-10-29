@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest transformation warriors
+
 | transformation_id | present_warrior_id |
 |-------------------|--------------------|
 | 43                | 21                 |

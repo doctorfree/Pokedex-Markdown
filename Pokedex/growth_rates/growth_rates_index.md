@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# growth_rates
+# Growth rates index
 
 Index of growth_rates category
 

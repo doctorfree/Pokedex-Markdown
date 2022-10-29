@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move targets
+
 | id |        identifier         |
 |----|---------------------------|
 | 1  | specific-move             |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Locations
+
 | id  | region_id |            identifier            |
 |-----|-----------|----------------------------------|
 | 1   | 4         | canalave-city                    |

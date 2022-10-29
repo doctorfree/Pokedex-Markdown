@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move displacement prose
+
 | move_displacement_id | local_language_id |        name        |                                 short_effect                                 |                                                                                            effect                                                                                            |
 |----------------------|-------------------|--------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                    | 9                 | Advance one tile   | User advances one tile.                                                      | The user moves to the tile directly in front of it.  If the user cannot move to that tile or another Pokémon is already occupying that tile, the move cannot be used.                        |

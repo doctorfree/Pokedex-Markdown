@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta ailments
+
 | id |    identifier    |
 |----|------------------|
 | -1 | unknown          |

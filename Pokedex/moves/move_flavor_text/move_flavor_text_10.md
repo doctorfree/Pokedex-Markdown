@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  336       20 |  |  8 |      Chi la usa emette un forte verso per darsi coraggio e aumentare il proprio Attacco e quello degli alleati. |

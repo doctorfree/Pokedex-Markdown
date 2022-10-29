@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest kingdoms
+
 | id | identifier | type_id |
 |----|------------|---------|
 | 1  | aurora     | 1       |

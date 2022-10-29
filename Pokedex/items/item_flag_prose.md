@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flag prose
+
 | item_flag_id | local_language_id |       name       |          description          |
 |--------------|-------------------|------------------|-------------------------------|
 | 1            | 9                 | Countable        | Has a count in the bag        |

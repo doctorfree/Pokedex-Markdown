@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Contest type names
+
 | contest_type_id | local_language_id |     name     | flavor | color  |
 |-----------------|-------------------|--------------|--------|--------|
 | 1               | 5                 | Sang-froid   | Épicé  | Rouge  |

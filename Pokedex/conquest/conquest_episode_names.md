@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest episode names
+
 | episode_id | local_language_id |              name               |
 |------------|-------------------|---------------------------------|
 | 1          | 7                 | La Leyenda de Ransei            |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flag map
+
 | move_id | move_flag_id |
 |---------|--------------|
 | 1       | 1            |

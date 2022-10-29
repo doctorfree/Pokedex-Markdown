@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  125 |   26 |    5 |      Lorsqu'une tempête approche, des groupes entiers de ce Pokémon se battent pour grimper sur les hauteurs, où la foudre a le plus de chance de tomber. Certaines villes se servent d'Élektek en guise de paratonnerres. |

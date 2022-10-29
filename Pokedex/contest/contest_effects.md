@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Contest effects
+
 | id | appeal | jam |
 |----|--------|-----|
 | 1  | 4      | 0   |

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# natures
+# Natures index
 
 Index of natures category
 

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move battle styles
+
 | id | identifier |
 |----|------------|
 | 1  | attack     |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Generations
+
 | id | main_region_id |   identifier    |
 |----|----------------|-----------------|
 | 1  | 1              | generation-i    |

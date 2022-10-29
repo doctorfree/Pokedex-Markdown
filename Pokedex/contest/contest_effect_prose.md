@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Contest effect prose
+
 | contest_effect_id | local_language_id |                      flavor_text                       |                                                                                 effect                                                                                  |
 |-------------------|-------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                 | 9                 | A highly appealing move.                               | Gives a high number of appeal points wth no other effects.                                                                                                              |

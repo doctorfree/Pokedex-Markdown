@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Nature pokeathlon stats
+
 | nature_id | pokeathlon_stat_id | max_change |
 |-----------|--------------------|------------|
 | 1         | 1                  | -1         |

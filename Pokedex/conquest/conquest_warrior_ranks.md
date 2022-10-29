@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior ranks
+
 | id  | warrior_id | rank | skill_id |
 |-----|------------|------|----------|
 | 1   | 1          | 1    | 3        |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  324       20 |  |  8 |      Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO. |

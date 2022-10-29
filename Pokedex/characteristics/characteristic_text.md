@@ -6,7 +6,9 @@ categories:
     - pokemon
 ---
 
-| characteristic_id | local_language_id |                   message                   |
+# Characteristic text
+
+| Characteristic id | Local language id |                   message                   |
 |-------------------|-------------------|---------------------------------------------|
 | 1                 | 1                 | たべるのが　だいすき                                  |
 | 1                 | 3                 | 먹는 것을 제일 좋아함                                |

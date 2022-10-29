@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# species
+# Species index
 
 Index of species category
 

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Growth rate prose
+
 | growth_rate_id | local_language_id |            name            |
 |----------------|-------------------|----------------------------|
 | 1              | 5                 | lente                      |

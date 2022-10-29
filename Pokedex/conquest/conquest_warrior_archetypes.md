@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior archetypes
+
 | id |   identifier    |
 |----|-----------------|
 | 1  | armor-veteran   |

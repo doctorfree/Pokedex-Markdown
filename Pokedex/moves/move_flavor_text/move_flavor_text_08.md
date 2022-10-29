@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  268       15 |  |  7 |      Recarga energía para potenciar el siguiente movimiento de tipo Eléctrico. También sube la Defensa Especial. |

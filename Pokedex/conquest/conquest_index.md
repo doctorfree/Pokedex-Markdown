@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# conquest
+# Conquest index
 
 Index of conquest category
 

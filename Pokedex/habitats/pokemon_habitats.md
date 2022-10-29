@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon habitats
+
 | id |  identifier   |
 |----|---------------|
 | 1  | cave          |

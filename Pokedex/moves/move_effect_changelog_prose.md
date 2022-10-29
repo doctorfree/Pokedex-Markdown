@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move effect changelog prose
+
 | move_effect_changelog_id | local_language_id |                                                                                                                                                                           effect                                                                                                                                                                           |
 |--------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                        | 9                 | Halves the target's [Defense]{mechanic:defense} for damage calculation, which is similar to doubling the attack's [power]{mechanic:power}.                                                                                                                                                                                                    |

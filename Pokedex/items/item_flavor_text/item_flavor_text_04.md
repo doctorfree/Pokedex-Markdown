@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  136       17 |  |  1 |      ポケモンに　もたせると ピンチのとき　ＨＰを　かいふくする。 きらいな　あじだと　こんらん　する。 |

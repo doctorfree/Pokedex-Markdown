@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move displacements
+
 | id |    identifier    | affects_target |
 |----|------------------|----------------|
 | 1  | advance-1        | 0              |

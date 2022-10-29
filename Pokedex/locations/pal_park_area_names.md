@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pal park area names
+
 | pal_park_area_id | local_language_id |   name   |
 |------------------|-------------------|----------|
 | 1                | 5                 | Forêt    |

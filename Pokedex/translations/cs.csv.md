@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Cs.csv
+
 | language_id |          table          |  id   |     column     | source_crc |                                                                                                                                  string                                                                                                                                  |
 |-------------|-------------------------|-------|----------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10          | Ability                 | 1     | name           | 7482ade0   | Smrad                                                                                                                                                                                                                                                                    |
@@ -1000,17 +1002,23 @@ categories:
 | 10          | MoveMetaAilment         | 6     | name           | 4a28e9d1   | Zmatení                                                                                                                                                                                                                                                                  |
 | 10          | MoveTarget              | 2     | description    | 5a29a4b3   | Druhý Pokémon na bojišti, vybraný trenérem.
 
+# Cs.csv
+
 Ukradené útoky použijí stejný cíl.                                                                                                                                                                                          |
 | 10          | MoveTarget              | 2     | name           | af998c39   | Vybraný Pokémon                                                                                                                                                                                                                                                          |
 | 10          | MoveTarget              | 3     | description    | 0418c304   | Spolubojovník uživatele (je-li nějaký).                                                                                                                                                                                                                                  |
 | 10          | MoveTarget              | 3     | name           | a3b03f33   | Spolubojovník                                                                                                                                                                                                                                                            |
 | 10          | MoveTarget              | 4     | description    | 7e0bf1a7   | Uživatelova strana bojiště.
 
+# Cs.csv
+
 Působí na uživatele i jeho spolubojovníky (jsou-li nějací)                                                                                                                                                                                  |
 | 10          | MoveTarget              | 4     | name           | e51eed6c   | Strana uživatele                                                                                                                                                                                                                                                         |
 | 10          | MoveTarget              | 5     | description    | ca1b5030   | Buď uživatel nebo jeho spolubojovník, podle trenéra.                                                                                                                                                                                                                     |
 | 10          | MoveTarget              | 5     | name           | 70336963   | Uživatel nebo spolubojovník                                                                                                                                                                                                                                              |
 | 10          | MoveTarget              | 6     | description    | b91b49aa   | Opačná strana bojiště.
+
+# Cs.csv
 
 Působí na protivníky.                                                                                                                                                                                                                            |
 | 10          | MoveTarget              | 6     | name           | bf5689eb   | Strana protivnika                                                                                                                                                                                                                                                        |
@@ -1040,6 +1048,8 @@ Působí na protivníky.                                                        
 | 10          | Pokedex                 | 7     | description    | 56afcca4   | HeartGold/SoulSilver Johto dex – dex z Gold/Silver/Crystal rozšířený o nové vývoje                                                                                                                                                                                       |
 | 10          | Pokedex                 | 8     | description    | 79a9ade7   | Black/White Unovský dex                                                                                                                                                                                                                                                  |
 | 10          | PokemonSpecies          | 1     | flavor_summary | fe4d8c9a   | Od narození má na zádech divné semínko, které roste a vyvíjí se společně s ním. Uvnitř má zásobu živin, kterou využívají zejména malí Bulbasauři. I později ale může celé dny nejíst.
+
+# Cs.csv
 
 Bulbasauři rádi odpočívají na sluníčku. Semínko na zádech jim tak roste rychleji. |
 | 10          | PokemonSpecies          | 1     | genus          | e4b54c38   | Semínkový                                                                                                                                                                                                                                                                |

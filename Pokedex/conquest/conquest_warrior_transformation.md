@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior transformation
+
 | transformed_warrior_rank_id | is_automatic | required_link | completed_episode_id | current_episode_id | distant_warrior_id | female_warlord_count | pokemon_count | collection_type_id | warrior_count |
 |-----------------------------|--------------|---------------|----------------------|--------------------|--------------------|----------------------|---------------|--------------------|---------------|
 | 2                           | 1            |               |                      |                    |                    |                      |               |                    |               |

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# colors
+# Colors index
 
 Index of colors category
 

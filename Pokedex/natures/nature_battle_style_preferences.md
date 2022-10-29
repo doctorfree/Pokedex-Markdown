@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Nature battle style preferences
+
 | nature_id | move_battle_style_id | low_hp_preference | high_hp_preference |
 |-----------|----------------------|-------------------|--------------------|
 | 1         | 1                    | 61                | 61                 |

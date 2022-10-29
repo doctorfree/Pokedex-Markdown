@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# generations
+# Generations index
 
 Index of generations category
 

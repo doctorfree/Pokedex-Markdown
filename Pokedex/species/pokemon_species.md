@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species
+
 | id  |  identifier  | generation_id | evolves_from_species_id | evolution_chain_id | color_id | shape_id | habitat_id | gender_rate | capture_rate | base_happiness | is_baby | hatch_counter | has_gender_differences | growth_rate_id | forms_switchable | is_legendary | is_mythical | order | conquest_order |
 |-----|--------------|---------------|-------------------------|--------------------|----------|----------|------------|-------------|--------------|----------------|---------|---------------|------------------------|----------------|------------------|--------------|-------------|-------|----------------|
 | 1   | bulbasaur    | 1             |                         | 1                  | 5        | 8        | 3          | 1           | 45           | 50             | 0       | 20            | 0                      | 4              | 0                | 0            | 0           | 1     |                |

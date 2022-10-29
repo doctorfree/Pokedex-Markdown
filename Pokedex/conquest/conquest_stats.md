@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest stats
+
 | id | identifier | is_base |
 |----|------------|---------|
 | 1  | hp         | 1       |

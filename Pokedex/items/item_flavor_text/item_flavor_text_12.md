@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  388       11 |  |  9 |      The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target. |

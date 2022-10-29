@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon types
+
 | pokemon_id | type_id | slot |
 |------------|---------|------|
 | 1          | 12      | 1    |

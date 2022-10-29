@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior rank stat map
+
 | warrior_rank_id | warrior_stat_id | base_stat |
 |-----------------|-----------------|-----------|
 | 1               | 1               | 65        |

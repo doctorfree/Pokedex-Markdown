@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  293       19 |  |  1 |      ふしぎな　かおりの　おこう。 もたせた　ポケモンは　いつもより こうどうが　おそくなる。 |

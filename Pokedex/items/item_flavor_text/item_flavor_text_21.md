@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  738       20 |  |  4 |      噴有閃閃發光的塗料， 帥哥親手製作的券。 |

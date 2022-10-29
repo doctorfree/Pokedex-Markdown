@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  97 |    28 |    1 |      であったものを　とりあえず　ねむらせ そのユメを　あじみ。　いいユメを みていたら　そのまま　つれさる。 |

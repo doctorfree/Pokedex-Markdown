@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item category prose
+
 | item_category_id | local_language_id |       name        |
 |------------------|-------------------|-------------------|
 | 1                | 9                 | Stat boosts       |

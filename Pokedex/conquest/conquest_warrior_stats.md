@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior stats
+
 | id | identifier |
 |----|------------|
 | 1  | power      |

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# shapes
+# Shapes index
 
 Index of shapes category
 

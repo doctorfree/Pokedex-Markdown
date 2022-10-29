@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move ranges
+
 | id |    identifier    | targets |
 |----|------------------|---------|
 | 1  | user             | 1       |

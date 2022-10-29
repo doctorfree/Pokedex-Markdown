@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  454       19 |  |  11 |     捕まえた　野生ポケモンが すぐに　なついて　くれる ちょっと　変わった　ボール。 |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flags
+
 | id |   identifier   |
 |----|----------------|
 | 1  | contact        |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  528 |   24 |    11 |     オスが　メスに　求愛するとき 発する　超音波を　浴びると とても　楽しい　気分になる。 |

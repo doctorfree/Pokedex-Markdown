@@ -6,3 +6,5 @@ categories:
     - pokemon
 ---
 
+# Move flavor summaries
+

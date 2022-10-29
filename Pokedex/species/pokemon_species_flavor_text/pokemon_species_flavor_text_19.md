@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  321 |   27 |    4 |      有成群結隊追逐獵物的習性。 會用大大的嘴巴將整群的弱丁魚 一口氣吞下。 |

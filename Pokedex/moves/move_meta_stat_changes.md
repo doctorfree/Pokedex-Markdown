@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta stat changes
+
 | move_id | stat_id | change |
 |---------|---------|--------|
 | 14      | 2       | 2      |

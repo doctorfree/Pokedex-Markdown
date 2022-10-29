@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# evolution
+# Evolution index
 
 Index of evolution category
 

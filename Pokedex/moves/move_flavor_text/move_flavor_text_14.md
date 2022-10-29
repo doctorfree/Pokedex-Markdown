@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  480       19 |  |  12 |     向对手使出强烈的一击。 攻击必定会击中要害。 |

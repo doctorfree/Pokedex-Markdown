@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move effect prose
+
 | move_effect_id | local_language_id |                                                                     short_effect                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1              | 9                 | Inflicts regular damage with no additional effect.                                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.                                                                                                                                                                                                                                                                                           |
@@ -30,17 +32,27 @@ categories:
 | 25             | 9                 | Lowers the target's evasion by one stage.                                                                                                            | Lowers the target's [evasion]{mechanic:evasion} by one [stage]{mechanic:stage}.                                                                                                                                                                                                                                                               |
 | 26             | 9                 | Resets all Pokémon's stats, accuracy, and evasion.                                                                                                   | Removes [stat]{mechanic:stat}, [accuracy]{mechanic:accuracy}, and [evasion]{mechanic:evasion} modifiers from every Pokémon on the [field]{mechanic:field}.
 
+# Move effect prose
+
 This does not count as a stat reduction for the purposes of []{ability:clear-body} or []{ability:white-smoke}.                                                                    |
 | 27             | 9                 | User waits for two turns, then hits back for twice the damage it took.                                                                               | User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is [typeless]{mechanic:typeless}.
+
+# Move effect prose
 
 This move cannot be selected by []{move:sleep-talk}.                                                                                                     |
 | 28             | 9                 | Hits every turn for 2-3 turns, then confuses the user.                                                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes [confused]{mechanic:confused}.
 
+# Move effect prose
+
 []{move:safeguard} does not protect against the [confusion]{mechanic:confusion} from this move.                                          |
 | 29             | 9                 | Immediately ends wild battles.  Forces trainers to switch Pokémon.                                                                                   | [Switch]{mechanic:switch}es the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.
 
+# Move effect prose
+
 Doesn't affect Pokémon with []{ability:suction-cups} or under the effect of []{move:ingrain}.                                                                                                             |
 | 30             | 9                 | Hits 2-5 times in one turn.                                                                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  Hits 2–5 times in one turn.
+
+# Move effect prose
 
 Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.                                                                                                                                          |
 | 31             | 9                 | User's type changes to the type of one of its moves at random.                                                                                       | User's [type]{mechanic:type} changes to the [type]{mechanic:type} of one of its moves, selected at random.  []{move:hidden-power} and []{move:weather-ball} are treated as []{type:normal}.  Only moves with a different [type]{mechanic:type} are eligible, and []{move:curse} is never eligible.  If the user has no suitable moves, this m |
@@ -50,32 +62,48 @@ Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 t
 | 35             | 9                 | Scatters money on the ground worth five times the user's level.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.                                                                                                                                                                  |
 | 36             | 9                 | Reduces damage from special attacks by 50% for five turns.                                                                                           | Erects a barrier around the user's side of the field that reduces damage from [special]{mechanic:special} attacks by half for five turns.  In double battles, the reduction is 1/3.  [Critical hit]{mechanic:critical-hit}s are not affected by the barrier.
 
+# Move effect prose
+
 If the user is holding []{item:light-clay}, the barrier lasts for eight turns.
  |
 | 37             | 9                 | Has a $effect_chance% chance to [burn]{mechanic:burn}, [freeze]{mechanic:freeze}, or [paralyze]{mechanic:paralysis} the target.                      | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [burn]{mechanic:burn}, [freeze]{mechanic:freeze}, or [paralyze]{mechanic:paralyze} the target.  One of these effects is selected at random; they do not each have independent chances to occur.                                                          |
 | 38             | 9                 | User sleeps for two turns, completely healing itself.                                                                                                | User falls to [sleep]{mechanic:sleep} and immediately regains all its [HP]{mechanic:hp}.  If the user has another [major status effect]{mechanic:major-status-effect}, [sleep]{mechanic:sleep} will replace it.  The user will always wake up after two turns, or one turn with []{ability:early-bird}.
 
+# Move effect prose
+
 This move [fail]{mechanic:fail}s if  |
 | 39             | 9                 | Causes a one-hit KO.                                                                                                                                 | Inflicts damage equal to the target's max [HP]{mechanic:hp}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This move's [accuracy]{mechanic:accuracy} is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will [fail]{mechanic:fai |
 | 40             | 9                 | Requires a turn to charge before attacking.                                                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move.  User charges for one turn before attacking.
+
+# Move effect prose
 
 This move cannot be selected by []{move:sleep-talk}.                                                                                           |
 | 41             | 9                 | Inflicts damage equal to half the target's HP.                                                                                                       | Inflicts [typeless]{mechanic:typeless} damage equal to half the target's remaining [HP]{mechanic:hp}.                                                                                                                                                                                                                                         |
 | 42             | 9                 | Inflicts 40 points of damage.                                                                                                                        | Inflicts exactly 40 damage.                                                                                                                                                                                                                                                                                                                   |
 | 43             | 9                 | Prevents the target from fleeing and inflicts damage for 2-5 turns.                                                                                  | Inflicts [regular damage]{mechanic:regular-damage}.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the [field]{mechanic:field}, this effect ends.
 
+# Move effect prose
+
 Has a 3/8 chance each to hit 2 or 3 t |
 | 44             | 9                 | Has an increased chance for a critical hit.                                                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move.                                                                                                                                                                                              |
 | 45             | 9                 | Hits twice in one turn.                                                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Hits twice in one turn.                                                                                                                                                                                                                                                                  |
 | 46             | 9                 | If the user misses, it takes half the damage it would have inflicted in recoil.                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  If this move misses, is blocked by []{move:protect} or []{move:detect}, or has no effect, the user takes half the damage it would have inflicted in recoil.  This recoil damage will not exceed half the user's max HP.
 
+# Move effect prose
+
 This move cannot be used while []{move:gravity} is in effect.   |
 | 47             | 9                 | Protects the user's stats from being changed by enemy moves.                                                                                         | Pokémon on the user's side of the [field]{mechanic:field} are immune to stat-lowering effects for five turns.
 
+# Move effect prose
+
 []{move:guard-swap}, []{move:heart-swap}, and []{move:power-swap} may still be used.
+
+# Move effect prose
 
 []{move:defog} used by an opponent will end this effect.                                                                                 |
 | 48             | 9                 | Increases the user's chance to score a critical hit.                                                                                                 | User's [critical hit]{mechanic:critical-hit} rate is two levels higher until it leaves the field.  If the user has already used []{move:focus-energy} since entering the field, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 This effect is passed on by []{move:baton-pass}.                                                                       |
 | 49             | 9                 | User receives 1/4 the damage it inflicts in recoil.                                                                                                  | Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/4 the damage it inflicts in recoil.                                                                                                                                                                                                                                         |
@@ -87,6 +115,8 @@ This effect is passed on by []{move:baton-pass}.                                
 | 55             | 9                 | Raises the user's Special Defense by two stages.                                                                                                     | Raises the user's [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage}.                                                                                                                                                                                                                                                |
 | 58             | 9                 | User becomes a copy of the target until it leaves battle.                                                                                            | User copies the target's species, weight, type, [ability]{mechanic:ability}, [calculated stats]{mechanic:calculated-stats} (except [HP]{mechanic:hp}), and moves.  Copied moves will all have 5 [PP]{mechanic:pp} remaining.  [IV]{mechanic:iv}s are copied for the purposes of []{move:hidden-power}, but stats are not recalculated.
 
+# Move effect prose
+
 []{it |
 | 59             | 9                 | Lowers the target's Attack by two stages.                                                                                                            | Lowers the target's [Attack]{mechanic:attack} by two [stages]{mechanic:stage}.                                                                                                                                                                                                                                                                |
 | 60             | 9                 | Lowers the target's Defense by two stages.                                                                                                           | Lowers the target's [Defense]{mechanic:defense} by two [stages]{mechanic:stage}.                                                                                                                                                                                                                                                              |
@@ -94,6 +124,8 @@ This effect is passed on by []{move:baton-pass}.                                
 | 62             | 9                 | Lowers the target's Special Attack by two stages.                                                                                                    | Lowers the target's Special Attack by two stages.                                                                                                                                                                                                                                                                                             |
 | 63             | 9                 | Lowers the target's Special Defense by two stages.                                                                                                   | Lowers the target's [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage}.                                                                                                                                                                                                                                              |
 | 66             | 9                 | Reduces damage from physical attacks by half.                                                                                                        | Erects a barrier around the user's side of the field that reduces damage from [physical]{mechanic:physical} attacks by half for five turns.  In double battles, the reduction is 1/3.  [Critical hit]{mechanic:critical-hit}s are not affected by the barrier.
+
+# Move effect prose
 
 If the user is holding []{item:light-clay}, the barrier lasts for eight turns |
 | 67             | 9                 | Poisons the target.                                                                                                                                  | [Poisons]{mechanic:poisons} the target.                                                                                                                                                                                                                                                                                                       |
@@ -107,11 +139,15 @@ If the user is holding []{item:light-clay}, the barrier lasts for eight turns |
 | 75             | 9                 | XXX new effect for mystical-fire                                                                                                                     | XXX new effect for mystical-fire                                                                                                                                                                                                                                                                                                              |
 | 76             | 9                 | User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch.                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  User charges for one turn before attacking.  [Critical hit chance]{mechanic:critical-hit-chance} is one level higher than normal.  Has a $effect_chance% chance to make the target [flinch]{mechanic:flinch}.
 
+# Move effect prose
+
 This move cannot be selected by []{move:sleep-talk}.                      |
 | 77             | 9                 | Has a $effect_chance% chance to confuse the target.                                                                                                  | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [confuse]{mechanic:confuse} the target.                                                                                                                                                                                                                  |
 | 78             | 9                 | Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.                                                                     | Inflicts [regular damage]{mechanic:regular-damage}.  Hits twice in the same turn.  Has a $effect_chance% chance to [poison]{mechanic:poison} the target.                                                                                                                                                                                      |
 | 79             | 9                 | Never misses.                                                                                                                                        | Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.                                                                                                                                                                                                         |
 | 80             | 9                 | Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.                           | Transfers 1/4 the user's max [HP]{mechanic:hp} into a doll that absorbs damage and causes most negative move effects to [fail]{mechanic:fail}.  If the user leaves the [field]{mechanic:field}, the doll will vanish.  If the user cannot pay the [HP]{mechanic:hp} cost, this move will fail.
+
+# Move effect prose
 
 The doll takes damage as normal, using the us |
 | 81             | 9                 | User foregoes its next turn to recharge.                                                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  User loses its next turn to "recharge", and cannot attack or [switch]{mechanic:switch} out during that turn.                                                                                                                                                                             |
@@ -120,8 +156,12 @@ The doll takes damage as normal, using the us |
 | 84             | 9                 | Randomly selects and uses any move in the game.                                                                                                      | Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, []{move:assist}, []{move:chatter}, []{move:copycat}, []{move:counter}, []{move:covet}, []{move:destiny-bond}, []{move:detect}, []{move:endure}, []{move:feint},  |
 | 85             | 9                 | Seeds the target, stealing HP from it every turn.                                                                                                    | Plants a seed on the target that [drains]{mechanic:drain} 1/8 of its max [HP]{mechanic:hp} at the end of every turn and heals the user for the amount taken.  Has no effect on []{type:grass} Pokémon.  The seed remains until the target leaves the field.
 
+# Move effect prose
+
 The user takes damage instead of being healed if the target has []{ability:liqui |
 | 86             | 9                 | Does nothing.                                                                                                                                        | Does nothing.
+
+# Move effect prose
 
 This move cannot be used while []{move:gravity} is in effect.                                                                                                                                                                                                                                                                  |
 | 87             | 9                 | Disables the target's last used move for 1-8 turns.                                                                                                  | Disables the target's last used move, preventing its use for 4–7 turns, selected at random, or until the target leaves the [field]{mechanic:field}.  If the target hasn't used a move since entering the [field]{mechanic:field}, if it tried to use a move this turn and [failed]{mechanic:failed},  if its last used move has 0 PP remainin |
@@ -129,26 +169,40 @@ This move cannot be used while []{move:gravity} is in effect.                   
 | 89             | 9                 | Inflicts damage between 50% and 150% of the user's level.                                                                                            | Inflicts [typeless]{mechanic:typeless} damage between 50% and 150% of the user's level, selected at random in increments of 10%.                                                                                                                                                                                                              |
 | 90             | 9                 | Inflicts twice the damage the user received from the last physical hit it took.                                                                      | Targets the last opposing Pokémon to hit the user with a [physical]{mechanic:physical} move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will [fail]{mechanic:fail}.  Type immunity applies, but other type effects are ignored.
 
+# Move effect prose
+
 This move cannot be copied by []{move:mirror |
 | 91             | 9                 | Forces the target to repeat its last used move every turn for 2 to 6 turns.                                                                          | The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, []{move:struggle} will be used  |
 | 92             | 9                 | Sets the user's and targets's HP to the average of their current HP.                                                                                 | Changes the user's and target's remaining [HP]{mechanic:hp} to the average of their current remaining [HP]{mechanic:hp}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.
+
+# Move effect prose
 
 This effect [fail]{mec |
 | 93             | 9                 | Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.                                                         | Only usable if the user is [sleep]{mechanic:sleep}ing.  Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to make the target []{mechanic:flinch}.                                                                                                                                                             |
 | 94             | 9                 | Changes the user's type to a random type either resistant or immune to the last move used against it.                                                | Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will [fail]{mechanic:fail}.                                                                                    |
 | 95             | 9                 | Ensures that the user's next move will hit the target.                                                                                               | If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.
 
+# Move effect prose
+
 One-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This e |
 | 96             | 9                 | Permanently becomes the target's last used move.                                                                                                     | Permanently replaces itself with the target's last used move.  If that move is []{move:chatter} or []{move:struggle}, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 This move cannot be copied by []{move:mimic} or []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}, nor forced by []{move:encore}.                      |
 | 98             | 9                 | Randomly uses one of the user's other three moves.  Only works if the user is sleeping.                                                              | Only usable if the user is [sleep]{mechanic:sleep}ing.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 [PP]{mechanic:pp}.
 
+# Move effect prose
+
 This move will not select []{move:assist}, []{move:bide}, []{move:bounce}, []{move:chatter}, []{move:copycat}, []{move:dig}, []{move:dive}, []{move |
 | 99             | 9                 | If the user faints this turn, the target automatically will, too.                                                                                    | If the user [faints]{mechanic:faints} before its next move, the Pokémon that [faint]{mechanic:faint}ed it will automatically [faint]{mechanic:faint}.  End-of-turn damage is ignored.
 
+# Move effect prose
+
 This move cannot be selected by []{move:assist} or []{move:metronome}.                                                                                 |
 | 100            | 9                 | Inflicts more damage when the user has less HP remaining, with a maximum of 200 power.                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  Power varies inversely with the user's proportional remaining [HP]{mechanic:hp}.
+
+# Move effect prose
 
 64 * current HP / max HP | Power
 -----------------------: | ----:
@@ -163,24 +217,38 @@ This move cannot be selected by []{move:assist} or []{move:metronome}.          
 | 104            | 9                 | Inflicts regular damage with no additional effect.                                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.                                                                                                                                                                                                                                                                                           |
 | 105            | 9                 | Hits three times, increasing power by 100% with each successful hit.                                                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate [accuracy]{mechanic:accuracy} check, and this move stops if a hit misses.
 
+# Move effect prose
+
 []{ability:skill-link} does not apply.                                      |
 | 106            | 9                 | Takes the target's item.                                                                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.
 
+# Move effect prose
+
 Pokémon with []{ability:sticky-hold} or []{ability:multitype} are immune to the item theft effect.
+
+# Move effect prose
 
 The target cannot recover its |
 | 107            | 9                 | Prevents the target from leaving battle.                                                                                                             | The target cannot [switch out]{mechanic:switch-out} normally.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  This effect ends when the user leaves the [field]{mechanic:field}.
 
+# Move effect prose
+
 The target may still escape by using []{move:baton-pass}, []{move:u-turn}, or a []{item:shed-shell}.
+
+# Move effect prose
 
 Both the user and  |
 | 108            | 9                 | Target loses 1/4 its max HP every turn as long as it's asleep.                                                                                       | Only works on [sleep]{mechanic:sleep}ing Pokémon.  Gives the target a nightmare, damaging it for 1/4 its max [HP]{mechanic:hp} every turn.  If the target wakes up or leaves the [field]{mechanic:field}, this effect ends.                                                                                                                   |
 | 109            | 9                 | Raises the user's evasion by two stages.                                                                                                             | Raises the user's [evasion]{mechanic:evasion} by two [stages]{mechanic:stage}.
 
+# Move effect prose
+
 []{move:stomp} and []{move:steamroller} have double power against Pokémon that have used this move since entering the [field]{mechanic:field}.                                                                                                                |
 | 110            | 9                 | Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.                                     | If the user is a []{type:ghost}: user pays half its max [HP]{mechanic:hp} to place a curse on the target, damaging it for 1/4 its max [HP]{mechanic:hp} every turn.
 Otherwise: Lowers the user's [Speed]{mechanic:speed} by one [stage]{mechanic:stage}, and raises its [Attack]{mechanic:attack} and [Defense]{mechanic:defense} by one [sta |
 | 112            | 9                 | Prevents any moves from hitting the user this turn.                                                                                                  | No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 If the user successfully used []{move:detect}, []{move:endure}, []{move:protect}, []{move:quick-guard}, or []{move:wide-guard} on the last turn, this move has a 50% chance to [fail]{mechanic:fail} |
 | 113            | 9                 | Scatters Spikes, hurting opposing Pokémon that switch in.                                                                                            | Scatters spikes around the opposing [field]{mechanic:field}, which damage opposing Pokémon that enter the [field]{mechanic:field} for 1/8 of their max [HP]{mechanic:hp}.  Pokémon immune to []{type:ground} moves are immune to this damage, except during []{move:gravity}.  Up to three layers of spikes may be laid down, adding 1/16 to  |
@@ -188,13 +256,21 @@ If the user successfully used []{move:detect}, []{move:endure}, []{move:protect}
 | 115            | 9                 | User and target both faint after three turns.                                                                                                        | Every Pokémon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pokémon's counter reaches zero, that Pokémon [faint]{mechanic:faint}s.  A Pokémon that leaves the [field]{mechanic:field} will lose its counter; its replacement does not inherit the effect, and other Pokémon's  |
 | 116            | 9                 | Changes the weather to a sandstorm for five turns.                                                                                                   | Changes the weather to a sandstorm for five turns.  Pokémon that are not []{type:ground}, []{type:rock}, or []{type:steel} take 1/16 their max [HP]{mechanic:hp} at the end of every turn.  Every []{type:rock} Pokémon's original [Special Defense]{mechanic:special-defense} is raised by 50% for the duration of this effect.
 
+# Move effect prose
+
 []{move:sol |
 | 117            | 9                 | Prevents the user's HP from lowering below 1 this turn.                                                                                              | The user's [HP]{mechanic:hp} cannot be lowered below 1 by any means for the remainder of this turn.
 
+# Move effect prose
+
 If the user successfully used []{move:detect}, []{move:endure}, []{move:protect}, []{move:quick-guard}, or []{move:wide-guard} on the last turn, this move has a 50% chance to [fail]{mechanic:fail}.
+
+# Move effect prose
 
 This move cannot be selected by [ |
 | 118            | 9                 | Power doubles every turn this move is used in succession after the first, resetting after five turns.                                                | Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.
+
+# Move effect prose
 
 If the user has used []{move:defense-curl} sinc |
 | 119            | 9                 | Raises the target's Attack by two stages and confuses the target.                                                                                    | Raises the target's [Attack]{mechanic:attack} by two [stages]{mechanic:stage}, then [confuses]{mechanic:confuses} it.  If the target's [Attack]{mechanic:attack} cannot be [raised]{mechanic:raised} by two [stages]{mechanic:stage}, the [confusion]{mechanic:confusion} is not applied.                                                     |
@@ -202,6 +278,8 @@ If the user has used []{move:defense-curl} sinc |
 | 121            | 9                 | Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.                                               | Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will [fail]{mechanic:fail}.  If either Pokémon leaves the [field]{mechanic:field}, this effect ends.                                                         |
 | 122            | 9                 | Power increases with happiness, up to a maximum of 102.                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with [happiness]{mechanic:happiness}, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.                                                                                                                                                        |
 | 123            | 9                 | Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.                                                           | Randomly uses one of the following effects.
+
+# Move effect prose
 
 Effect                                             | Chance
 -------------------------------------------------- | -----:
@@ -211,9 +289,13 @@ Inflicts [regular  |
 | 124            | 9                 | Power increases as happiness decreases, up to a maximum of 102.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  Power increases inversely with [happiness]{mechanic:happiness}, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.                                                                                                                                      |
 | 125            | 9                 | Protects the user's field from major status ailments and confusion for five turns.                                                                   | Protects Pokémon on the user's side of the [field]{mechanic:field} from [major status]{mechanic:major-status} effects and [confusion]{mechanic:confusion} for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the [field]{mechanic:field}.
 
+# Move effect prose
+
 If []{move:yawn} is used while this move is in effec |
 | 126            | 9                 | Has a $effect_chance% chance to [burn]{mechanic:burn} the target.  Lets frozen Pokémon thaw themselves.                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target.  [Frozen]{mechanic:frozen} Pokémon may use this move, in which case they will thaw.                                                                                                                                    |
 | 127            | 9                 | Power varies randomly from 10 to 150.                                                                                                                | Inflicts [regular damage]{mechanic:regular-damage}.  Power is selected at random between 10 and 150, with an average of 71:
+
+# Move effect prose
 
 Magnitude | Power | Chance
 --------: | ----: | -----:
@@ -225,35 +307,59 @@ Magnitude | Power | Chance
         9 |   110 | |
 | 128            | 9                 | Allows the trainer to switch out the user and pass effects along to its replacement.                                                                 | User [switches out]{mechanic:switches-out}, and the trainer selects a replacement Pokémon from the party.  [Stat]{mechanic:stat} changes, [confusion]{mechanic:confusion}, and persistent move effects are passed along to the replacement Pokémon.
 
+# Move effect prose
+
 The following move effects are passed:
+
+# Move effect prose
 
 * []{move:aqua-ring}
 * both the user's and targe |
 | 129            | 9                 | Has double power against, and can hit, Pokémon attempting to switch out.                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  If the target attempts to [switch out]{mechanic:switch-out} this turn before the user acts, this move hits the target before it leaves and has double power.
+
+# Move effect prose
 
 This effect can still hit a Pokémon that [switches out]{mechanic:switches-out} when it has a []{move:substitute} up or whe |
 | 130            | 9                 | Frees the user from binding moves, removes Leech Seed, and blows away Spikes.                                                                        | Inflicts [regular damage]{mechanic:regular-damage}.  Removes []{move:leech-seed} from the user, frees the user from []{move:bind}, []{move:clamp}, []{move:fire-spin}, []{move:magma-storm}, []{move:sand-tomb}, []{move:whirlpool}, and []{move:wrap}, and clears []{move:spikes}, []{move:stealth-rock}, and []{move:toxic-spikes} from the |
 | 131            | 9                 | Inflicts 20 points of damage.                                                                                                                        | Inflicts exactly 20 damage.                                                                                                                                                                                                                                                                                                                   |
 | 133            | 9                 | Heals the user by half its max HP.  Affected by weather.                                                                                             | Heals the user for half its max [HP]{mechanic:hp}.
 
+# Move effect prose
+
 During []{move:sunny-day}, the healing is increased to 2/3 max [HP]{mechanic:hp}.
+
+# Move effect prose
 
 During []{move:hail}, []{move:rain-dance}, or []{move:sandstorm}, the healing is decreased to 1/4 max [HP]{mechanic:hp}.                                                                               |
 | 136            | 9                 | Power and type depend upon user's IVs.  Power can range from 30 to 70.                                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  Power and type are determined by the user's [IV]{mechanic:iv}s.
 
+# Move effect prose
+
 Power is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the [IV]{mechanic:iv} for each of [Special Defense]{mechanic:special-defense}, [Special Attack]{mechanic:special-attack}, [Speed]{mechan |
 | 137            | 9                 | Changes the weather to rain for five turns.                                                                                                          | Changes the weather to rain for five turns, during which []{type:water} moves inflict 50% extra damage, and []{type:fire} moves inflict half damage.
 
+# Move effect prose
+
 If the user is holding []{item:damp-rock}, this effect lasts for eight turns.
+
+# Move effect prose
 
 []{move:thunder} has 100% accuracy.  If the target has used []{move:detect} or []{move:protect}, []{move |
 | 138            | 9                 | Changes the weather to sunny for five turns.                                                                                                         | Changes the weather to sunshine for five turns, during which []{type:fire} moves inflict 50% extra damage, and []{type:water} moves inflict half damage.
 
+# Move effect prose
+
 If the user is holding []{item:heat-rock}, this effect lasts for eight turns.
+
+# Move effect prose
 
 Pokémon cannot become [frozen]{mechanic:frozen}.
 
+# Move effect prose
+
 []{move:thunder} has 50% accuracy.
+
+# Move effect prose
 
 []{move:solar- |
 | 139            | 9                 | Has a $effect_chance% chance to raise the user's Defense by one stage.                                                                               | Inflicts [regular damage]{mechanic:regular-damage}. Has a $effect_chance% chance to raise the user's [Defense]{mechanic:defense} one [stage]{mechanic:stage}.                                                                                                                                                                                 |
@@ -262,50 +368,82 @@ Pokémon cannot become [frozen]{mechanic:frozen}.
 | 143            | 9                 | User pays half its max HP to max out its Attack.                                                                                                     | User pays half its max [HP]{mechanic:hp} to raise its [Attack]{mechanic:attack} to +6 [stages]{mechanic:stage}.  If the user cannot pay the [HP]{mechanic:hp} cost, this move will [fail]{mechanic:fail}.                                                                                                                                     |
 | 144            | 9                 | Discards the user's stat changes and copies the target's.                                                                                            | Discards the user's [stat changes]{mechanic:stat-changes} and copies the target's.
 
+# Move effect prose
+
 This move cannot be copied by []{move:mirror-move}.                                                                                                                                                                                                       |
 | 145            | 9                 | Inflicts twice the damage the user received from the last special hit it took.                                                                       | Targets the last opposing Pokémon to hit the user with a [special]{mechanic:special} move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will [fail]{mechanic:fail}.  Type immunity applies, but other type effects are ignored.
+
+# Move effect prose
 
 This move cannot be copied by []{move:mirror-m |
 | 146            | 9                 | Raises the user's Defense by one stage.  User charges for one turn before attacking.                                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  Raises the user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}.  User then charges for one turn before attacking.
 
+# Move effect prose
+
 This move cannot be selected by []{move:sleep-talk}.                                                                                                    |
 | 147            | 9                 | Has a $effect_chance% chance to make the target flinch.                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to make each target [flinch]{mechanic:flinch}.
 
+# Move effect prose
+
 If the target is under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}, this move will hit with double power.                                                                             |
 | 148            | 9                 | Inflicts regular damage and can hit Dig users.                                                                                                       | Inflicts [regular damage]{mechanic:regular-damage}.
+
+# Move effect prose
 
 If the target is in the first turn of []{move:dig}, this move will hit with double power.                                                                                                                                                                                                |
 | 149            | 9                 | Hits the target two turns later.                                                                                                                     | Inflicts [typeless]{mechanic:typeless} [regular damage]{mechanic:regular-damage} at the end of the third turn, starting with this one.  This move cannot score a [critical hit]{mechanic:critical-hit}.  If the target [switches out]{mechanic:switches-out}, its replacement will be hit instead.  Damage is calculated at the time this mov |
 | 150            | 9                 | Inflicts regular damage and can hit Pokémon in the air.                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.
 
+# Move effect prose
+
 If the target is under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}, this move will hit with double power.                                                                                                                                                          |
 | 151            | 9                 | Has a $effect_chance% chance to make the target flinch.                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to make the target [flinch]{mechanic:flinch}.
+
+# Move effect prose
 
 Power is doubled against Pokémon that have used []{move:minimize} since entering the [field]{mechanic:field}.                                                                                                |
 | 152            | 9                 | Requires a turn to charge before attacking.                                                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  User charges for one turn before attacking.
 
+# Move effect prose
+
 During []{move:sunny-day}, the charge turn is skipped.
 
+# Move effect prose
+
 During []{move:hail}, []{move:rain-dance}, or []{move:sandstorm}, power is halved.
+
+# Move effect prose
 
 This move cannot be selected by []{move:sleep-talk}.                                            |
 | 153            | 9                 | Has a $effect_chance% chance to paralyze the target.                                                                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [paralyze]{mechanic:paralyze} the target.
 
+# Move effect prose
+
 During []{move:rain-dance}, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of []{move:protect} and []{move:detect}.
+
+# Move effect prose
 
 During []{move:sunny-day}, this mo |
 | 154            | 9                 | Immediately ends wild battles.  No effect otherwise.                                                                                                 | Does nothing.  Wild battles end immediately.                                                                                                                                                                                                                                                                                                  |
 | 155            | 9                 | Hits once for every conscious Pokémon the trainer has.                                                                                               | Inflicts [typeless]{mechanic:typeless} [regular damage]{mechanic:regular-damage}.  Every Pokémon in the user's party, excepting those that have fainted or have a [major status effect]{mechanic:major-status-effect}, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used inste |
 | 156            | 9                 | User flies high into the air, dodging all attacks, and hits next turn.                                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.
 
+# Move effect prose
+
 During the immune turn, []{move:gust}, []{move:hurricane}, []{move:sky-uppercut}, []{move:smack-down}, []{move:thunder}, []{move:twister}, and []{move:whirlwind} still hit the user |
 | 157            | 9                 | Raises user's Defense by one stage.                                                                                                                  | Raises user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}.
+
+# Move effect prose
 
 After this move is used, the power of []{move:ice-ball} and []{move:rollout} are doubled until the user leaves the [field]{mechanic:field}.                                                                                                                        |
 | 159            | 9                 | Can only be used as the first move after the user enters battle.  Causes the target to flinch.                                                       | Inflicts [regular damage]{mechanic:regular-damage}.  Causes the target to []{mechanic:flinch}.  Can only be used on the user's first turn after entering the [field]{mechanic:field}.                                                                                                                                                         |
 | 160            | 9                 | Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.                                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the [field]{mechanic:field} wake up, and none can fall to [sleep]{mechanic:sleep} until the lock-in ends.
 
+# Move effect prose
+
 Pokémon cannot use []{move:rest} during this effect.
+
+# Move effect prose
 
 This move cannot be selected by []{m |
 | 161            | 9                 | Stores energy up to three times for use with Spit Up and Swallow.                                                                                    | Raises the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage} each.  Stores energy for use with []{move:spit-up} and []{move:swallow}.  Up to three levels of energy can be stored, and all are lost if the user leaves the [field]{mechanic:field}.  Energy is still stored e |
@@ -313,10 +451,16 @@ This move cannot be selected by []{m |
 | 163            | 9                 | Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.                                                 | Heals the user depending on the amount of energy stored by []{move:stockpile}: 1/4 its max [HP]{mechanic:hp} after one use, 1/2 its max [HP]{mechanic:hp} after two uses, or fully after three uses.  Stored energy is consumed, and the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} are reset to what |
 | 165            | 9                 | Changes the weather to a hailstorm for five turns.                                                                                                   | Changes the weather to hail for five turns, during which non-[]{type:ice} Pokémon are damaged for 1/16 their max [HP]{mechanic:hp} at the end of every turn.
 
+# Move effect prose
+
 If the user is holding []{item:icy-rock}, this effect lasts for eight turns.
+
+# Move effect prose
 
 []{move:blizzard} has 100% accuracy.  If the target has used []{move:detect} or []{move:protect}, |
 | 166            | 9                 | Prevents the target from using the same move twice in a row.                                                                                         | Prevents the target from attempting to use the same move twice in a row.  When the target leaves the [field]{mechanic:field}, this effect ends.
+
+# Move effect prose
 
 If the target is forced to attempt a repeated move due to []{item:choice-band}, []{item:choice-scarf}, []{item:choice-specs}, []{move:disable}, []{move:encore}, []{move:taunt}, only having |
 | 167            | 9                 | Raises the target's Special Attack by one stage and confuses the target.                                                                             | Raises the target's [Special Attack]{mechanic:special-attack} by one [stage]{mechanic:stage}, then [confuses]{mechanic:confuses} it.                                                                                                                                                                                                          |
@@ -325,12 +469,18 @@ If the target is forced to attempt a repeated move due to []{item:choice-band}, 
 | 170            | 9                 | Power doubles if user is burned, paralyzed, or poisoned.                                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  If the user is [burned]{mechanic:burned}, [paralyzed]{mechanic:paralyzed}, or [poisoned]{mechanic:poisoned}, this move has double power.                                                                                                                                                 |
 | 171            | 9                 | If the user takes damage before attacking, the attack is canceled.                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.  If the user takes damage this turn before hitting, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist}, []{move:metronome}, or []{move:sleep-talk}.                                                               |
 | 172            | 9                 | If the target is paralyzed, inflicts double damage and cures the paralysis.                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [paralyzed]{mechanic:paralyzed}, this move has double power, and the target is cured of its [paralysis]{mechanic:paralysis}.                                                                                                                                            |
 | 173            | 9                 | Redirects the target's single-target effects to the user for this turn.                                                                              | Until the end of this turn, any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the [field]{mechanic:field} use this move on the same turn, the Pokémon that uses it last will become the target.
 
+# Move effect prose
+
 This effect takes priority over []{ability:lightning-rod}  |
 | 174            | 9                 | Uses a move which depends upon the terrain.                                                                                                          | Uses another move chosen according to the terrain.
+
+# Move effect prose
 
 Terrain                   | Selected move
 ------------------------- | ------------------
@@ -342,49 +492,79 @@ Desert                    | []{move:earthquake}
 | 175            | 9                 | Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn.                                                 | Raises the user's [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}.  If the user uses an []{type:electric} move next turn, its power will be doubled.                                                                                                                                                               |
 | 176            | 9                 | For the next few turns, the target can only use damaging moves.                                                                                      | Target is forced to only use damaging moves for the next 3–5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.
 
+# Move effect prose
+
 []{move:assist}, []{move:copycat}, []{move:me-first}, []{move:metronome}, []{move:mirror-move}, and []{move:sleep-talk} do not directly inflict damage and thus may no |
 | 177            | 9                 | Ally's next move inflicts half more damage.                                                                                                          | Boosts the power of the target's moves by 50% until the end of this turn.
+
+# Move effect prose
 
 This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}.                                                                                                                                                         |
 | 178            | 9                 | User and target swap items.                                                                                                                          | User and target permanently swap [held item]{mechanic:held-item}s.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 If either Pokémon has []{ability:multitype} or []{ability:sticky-hold}, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 If this move results i |
 | 179            | 9                 | Copies the target's ability.                                                                                                                         | User's ability is replaced with the target's until the user leaves the [field]{mechanic:field}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.
+
+# Move effect prose
 
 If the target has []{ability:flower-gift}, []{ability:forecast}, []{ability:illusion}, []{ability:imposter}, []{ability:multitype}, []{ability:stance-chan |
 | 180            | 9                 | User will recover half its max HP at the end of the next turn.                                                                                       | At the end of the next turn, user will be healed for half its max [HP]{mechanic:hp}.  If the user is [switched out]{mechanic:switched-out}, its replacement will be healed instead for half of the user's max HP.  If the user [faint]{mechanic:faint}s or is forcefully switched by []{move:roar} or []{move:whirlwind}, this effect will no |
 | 181            | 9                 | Randomly selects and uses one of the trainer's other Pokémon's moves.                                                                                | Uses a move from another Pokémon in the user's party, both selected at random.  Moves from fainted Pokémon can be used.  If there are no eligible Pokémon or moves, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This move will not select []{move:assist}, []{move:chatter}, []{move:circle-throw}, []{move:copycat}, []{move:counter}, []{move:co |
 | 182            | 9                 | Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.                                                                  | Prevents the user from [switching out]{mechanic:switching-out}.  User regains 1/16 of its max [HP]{mechanic:hp} at the end of every turn.  If the user was immune to []{type:ground} attacks, it will now take normal damage from them.
+
+# Move effect prose
 
 []{move:roar} and []{move:whirlwind} will not affect the user.  The user cannot use []{move:magnet-r |
 | 183            | 9                 | Lowers the user's Attack and Defense by one stage after inflicting damage.                                                                           | Inflicts [regular damage]{mechanic:regular-damage}, then lowers the user's [Attack]{mechanic:attack} and [Defense]{mechanic:defense} by one [stage]{mechanic:stage} each.                                                                                                                                                                     |
 | 184            | 9                 | Reflects back the first effect move used on the user this turn.                                                                                      | The first non-damaging move targeting the user this turn that inflicts [major status effect]{mechanic:major-status-effect}s, [stat change]{mechanic:stat-change}s, or [trap]{mechanic:trap}ping effects will be reflected at its user.
 
+# Move effect prose
+
 []{move:defog}, []{move:memento}, and []{move:teeter-dance} are not reflected.
+
+# Move effect prose
 
 []{move:attract}, []{ |
 | 185            | 9                 | User recovers the item it last used up.                                                                                                              | User recovers the last item consumed by the user or a Pokémon in its position on the [field]{mechanic:field}.  The item must be used again before it can be recovered by this move again.  If the user is holding an item, this move [fail]{mechanic:fail}s.
 
+# Move effect prose
+
 Items taken or given away by []{move:covet}, []{move:knock-off}, []{move:switch |
 | 186            | 9                 | Inflicts double damage if the user takes damage before attacking this turn.                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  If the target damaged the user this turn and was the last to do so, this move has double power.
+
+# Move effect prose
 
 []{move:pain-split} does not count as damaging the user.                                                                                                                                |
 | 187            | 9                 | Destroys Reflect and Light Screen.                                                                                                                   | Destroys any []{move:light-screen} or []{move:reflect} on the target's side of the [field]{mechanic:field}, then inflicts [regular damage]{mechanic:regular-damage}.                                                                                                                                                                          |
 | 188            | 9                 | Target sleeps at the end of the next turn.                                                                                                           | Puts the target to [sleep]{mechanic:sleep} at the end of the next turn.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.  If the target leaves the [field]{mechanic:field}, this effect is canceled.  If the target has a status effect when this move is used, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 If th |
 | 189            | 9                 | Target drops its held item.                                                                                                                          | Inflicts [regular damage]{mechanic:regular-damage}.  Target loses its [held item]{mechanic:held-item}.
 
+# Move effect prose
+
 Neither the user nor the target can recover its item with []{move:recycle}.
+
+# Move effect prose
 
 If the target has []{ability:multitype} or []{ability:sticky-hold}, it will take damage but not lose its item.                                           |
 | 190            | 9                 | Lowers the target's HP to equal the user's.                                                                                                          | Inflicts exactly enough damage to lower the target's [HP]{mechanic:hp} to equal the user's.  If the target's HP is not higher than the user's, this move has no effect.  Type immunity applies, but other type effects are ignored.  This effect counts as damage for moves that respond to damage.                                           |
 | 191            | 9                 | Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with the user's remaining [HP]{mechanic:hp} and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP.                                                                                                                                          |
 | 192            | 9                 | User and target swap abilities.                                                                                                                      | User and target switch abilities.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.
+
+# Move effect prose
 
 If either Pokémon has []{ability:multitype} or []{ability:wonder-guard}, this move will [fail]{mechanic:fail}.                                                                                                           |
 | 193            | 9                 | Prevents the target from using any moves that the user also knows.                                                                                   | Prevents any Pokémon on the opposing side of the [field]{mechanic:field} from using any move the user knows until the user leaves the [field]{mechanic:field}.  This effect is live; if the user obtains new moves while on the [field]{mechanic:field}, these moves become restricted.  If no opposing Pokémon knows any of the user's moves |
@@ -392,8 +572,12 @@ If either Pokémon has []{ability:multitype} or []{ability:wonder-guard}, this m
 | 195            | 9                 | If the user faints this turn, the PP of the move that fainted it drops to 0.                                                                         | If the user [faint]{mechanic:faint}s before it next acts, the move that fainted it will have its [PP]{mechanic:pp} dropped to 0.  End-of-turn damage does not trigger this effect.                                                                                                                                                            |
 | 196            | 9                 | Steals the target's move, if it's self-targeted.                                                                                                     | The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the "snatchable" flag.
 
+# Move effect prose
+
 If two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial m |
 | 197            | 9                 | Inflicts more damage to heavier targets, with a maximum of 120 power.                                                                                | Inflicts [regular damage]{mechanic:regular-damage}.  Power increases with the target's weight in kilograms, to a maximum of 120.
+
+# Move effect prose
 
 Target's weight | Power
 --------------- | ----:
@@ -405,6 +589,8 @@ Up to 200kg     |   100
 Above 200kg     |   120
             |
 | 198            | 9                 | Has a $effect_chance% chance to inflict a status effect which depends upon the terrain.                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to inflict an effect chosen according to the terrain.
+
+# Move effect prose
 
 Terrain        | Effect
 -------------- | -------------------------------------------------------------
@@ -421,6 +607,8 @@ Cave           | Makes target [flinch] |
 | 207            | 9                 | Raises the user's Defense and Special Defense by one stage.                                                                                          | Raises the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage}.                                                                                                                                                                                                                 |
 | 208            | 9                 | Inflicts regular damage and can hit Bounce and Fly users.                                                                                            | Inflicts [regular damage]{mechanic:regular-damage}.
 
+# Move effect prose
+
 This move can hit Pokémon under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}.                                                                                                                                                                                       |
 | 209            | 9                 | Raises the user's Attack and Defense by one stage.                                                                                                   | Raises the user's [Attack]{mechanic:attack} and [Defense]{mechanic:defense} by one [stage]{mechanic:stage} each.                                                                                                                                                                                                                              |
 | 210            | 9                 | Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.                                                        | Inflicts [regular damage]{mechanic:regular-damage}.  User's [critical hit]{mechanic:critical-hit} rate is one level higher when using this move. Has a $effect_chance% chance to [poison]{mechanic:poison} the target.                                                                                                                        |
@@ -428,6 +616,8 @@ This move can hit Pokémon under the effect of []{move:bounce}, []{move:fly}, or
 | 212            | 9                 | Raises the user's Special Attack and Special Defense by one stage.                                                                                   | Raises the user's [Special Attack]{mechanic:special-attack} and [Special Defense]{mechanic:special-defense} by one [stage]{mechanic:stage} each.                                                                                                                                                                                              |
 | 213            | 9                 | Raises the user's Attack and Speed by one stage.                                                                                                     | Raises the user's [Attack]{mechanic:attack} and [Speed]{mechanic:speed} by one [stage]{mechanic:stage} each.                                                                                                                                                                                                                                  |
 | 214            | 9                 | User's type changes to match the terrain.                                                                                                            | User's type changes according to the terrain.
+
+# Move effect prose
 
 Terrain        | New type
 -------------- | --------------
@@ -442,6 +632,8 @@ Road |
 | 215            | 9                 | Heals the user by half its max HP.                                                                                                                   | Heals the user for half its max [HP]{mechanic:hp}.  If the user is []{type:flying}, its []{type:flying} type is ignored until the end of this turn.                                                                                                                                                                                           |
 | 216            | 9                 | Disables moves and immunities that involve flying or levitating for five turns.                                                                      | For five turns (including this one), all immunities to []{type:ground} moves are disabled.  For the duration of this effect, the [evasion]{mechanic:evasion} of every Pokémon on the field is lowered by two [stages]{mechanic:stage}.  Cancels the effects of []{move:bounce}, []{move:fly}, and []{move:sky-drop}.
 
+# Move effect prose
+
 Specifically, []{type:f |
 | 217            | 9                 | Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it's Dark.                                                    | Resets the target's [evasion]{mechanic:evasion} to normal and prevents any further boosting until the target leaves the [field]{mechanic:field}.  A []{type:dark} Pokémon under this effect takes normal damage from []{type:psychic} moves.  This move itself ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifier |
 | 218            | 9                 | If the target is asleep, has double power and wakes it up.                                                                                           | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [sleep]{mechanic:sleep}ing, this move has double power, and the target wakes up.                                                                                                                                                                                        |
@@ -452,16 +644,26 @@ Specifically, []{type:f |
 | 223            | 9                 | Power and type depend on the held berry.                                                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will [fail]{mechanic:fail}.                                                                                                                               |
 | 224            | 9                 | Hits through Protect and Detect.                                                                                                                     | Inflicts [regular damage]{mechanic:regular-damage}.  Removes the effects of []{move:detect} or []{move:protect} from the target before hitting.
 
+# Move effect prose
+
 This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist} or []{move:metronome}.                                                                                   |
 | 225            | 9                 | If target has a berry, inflicts double damage and uses the berry.                                                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.
 
+# Move effect prose
+
 If the target is holding a []{item:jaboca-berry} or []{item:rowap-berry}, the berry is still removed, but has no effect.
+
+# Move effect prose
 
 If this move is [super effective]{mechani |
 | 226            | 9                 | For three turns, friendly Pokémon have doubled Speed.                                                                                                | For the next three turns, all Pokémon on the user's side of the [field]{mechanic:field} have their original [Speed]{mechanic:speed} doubled.  This effect remains if the user leaves the [field]{mechanic:field}.                                                                                                                             |
 | 227            | 9                 | Raises one of a friendly Pokémon's stats at random by two stages.                                                                                    | Raises one of the target's stats by two [stages]{mechanic:stage}.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 If the target has a []{move:substitute}, this move will have no effect, even if the user is the target.
+
+# Move effect prose
 
 This move ca |
 | 228            | 9                 | Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage.                                                                     | Targets the last opposing Pokémon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target, this move will [fail]{mechanic:fail}.  Type immunity applies, but other type effects are ignored.                                                                     |
@@ -471,14 +673,22 @@ This move ca |
 | 232            | 9                 | Power is doubled if the target has already received damage this turn.                                                                                | Inflicts [regular damage]{mechanic:regular-damage}.  If the target takes damage this turn for any reason before this move is used, this move has double power.                                                                                                                                                                                |
 | 233            | 9                 | Target cannot use held items.                                                                                                                        | Target cannot use its held item for five turns.  If the target leaves the [field]{mechanic:field}, this effect ends.
 
+# Move effect prose
+
 If a Pokémon under this effect uses []{move:bug-bite} or []{move:pluck} on a Pokémon holding a berry, the berry is destroyed but not used.  If a Pokémon under this effect uses []{move:fling}, it will [fail]{mechanic |
 | 234            | 9                 | Throws held item at the target; power depends on the item.                                                                                           | Inflicts [regular damage]{mechanic:regular-damage}.  Power and type are determined by the user's [held item]{mechanic:held-item}.  The item is consumed.  If the user is not holding an item, or its item has no set type and power, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This move ignores []{ability:sticky-hold}.
+
+# Move effect prose
 
 If the user is under  |
 | 235            | 9                 | Transfers the user's major status effect to the target.                                                                                              | If the user has a [major status effect]{mechanic:major-status-effect} and the target does not, the user's status is transferred to the target.                                                                                                                                                                                                |
 | 236            | 9                 | Power increases when this move has less PP, up to a maximum of 200.                                                                                  | Inflicts [regular damage]{mechanic:regular-damage}.  Power is determined by the [PP]{mechanic:pp} remaining for this move, after its [PP]{mechanic:pp} cost is deducted.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.
+
+# Move effect prose
 
 PP remaining | Power
 ------------ | ----:
@@ -488,19 +698,31 @@ PP remaining | Power
 | 238            | 9                 | Power increases against targets with more HP remaining, up to a maximum of 121 power.                                                                | Inflicts [regular damage]{mechanic:regular-damage}.  Power directly relates to the target's relative remaining [HP]{mechanic:hp}, given by `1 + 120 * current HP / max HP`, to a maximum of 121.                                                                                                                                              |
 | 239            | 9                 | User swaps Attack and Defense.                                                                                                                       | The user's original [Attack]{mechanic:attack} and [Defense]{mechanic:defense} are swapped.
 
+# Move effect prose
+
 This effect is passed on by []{move:baton-pass}.                                                                                                                                                                                                  |
 | 240            | 9                 | Nullifies target's ability until it leaves battle.                                                                                                   | The target's ability is disabled as long as it remains on the [field]{mechanic:field}.
+
+# Move effect prose
 
 This effect is passed on by []{move:baton-pass}.                                                                                                                                                                                                      |
 | 241            | 9                 | Prevents the target from scoring critical hits for five turns.                                                                                       | For five turns, opposing Pokémon cannot score [critical hits]{mechanic:critical-hit}.                                                                                                                                                                                                                                                         |
 | 242            | 9                 | Uses the target's move against it before it attacks, with power increased by half.                                                                   | If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.
 
+# Move effect prose
+
 If the target moves before the user, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist}, []{move:metronome}, or []{m |
 | 243            | 9                 | Uses the target's last used move.                                                                                                                    | Uses the last move that was used successfully by any Pokémon, including the user.
 
+# Move effect prose
+
 This move cannot copy itself, nor []{move:roar} nor []{move:whirlwind}.
+
+# Move effect prose
 
 This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assist}, []{move:metronome}, or []{move:sleep-talk}.                                                  |
 | 244            | 9                 | User swaps Attack and Special Attack changes with the target.                                                                                        | User swaps its [Attack]{mechanic:attack} and [Special Attack]{mechanic:special-attack} [stat modifiers]{mechanic:stat-modifiers} modifiers with the target.                                                                                                                                                                                   |
@@ -509,61 +731,99 @@ This move cannot be copied by []{move:mirror-move}, nor selected by []{move:assi
 | 247            | 9                 | Can only be used after all of the user's other moves have been used.                                                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  This move can only be used if each of the user's other moves has been used at least once since the user entered the [field]{mechanic:field}.  If this is the user's only move, this move will [fail]{mechanic:fail}.                                                                     |
 | 248            | 9                 | Changes the target's ability to Insomnia.                                                                                                            | Changes the target's ability to []{ability:insomnia}.
 
+# Move effect prose
+
 If the target's ability is []{ability:truant} or []{ability:multitype}, this move will [fail]{mechanic:fail}.                                                                                                                                                                          |
 | 249            | 9                 | Only works if the target is about to use a damaging move.                                                                                            | Inflicts [regular damage]{mechanic:regular-damage}.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will [fail]{mechanic:fail}.
+
+# Move effect prose
 
 This move is not affected by []{ability:iron-fist}.                                                                                       |
 | 250            | 9                 | Scatters poisoned spikes, poisoning opposing Pokémon that switch in.                                                                                 | Scatters poisoned spikes around the opposing [field]{mechanic:field}, which [poison]{mechanic:poison} opposing Pokémon that enter the [field]{mechanic:field}.  A second layer of these spikes may be laid down, in which case Pokémon will be [badly poison]{mechanic:badly-poison}ed instead.  Pokémon immune to either []{type:ground} mov |
 | 251            | 9                 | User and target swap stat changes.                                                                                                                   | User swaps its [stat modifiers]{mechanic:stat-modifiers} with the target.                                                                                                                                                                                                                                                                     |
 | 252            | 9                 | Restores 1/16 of the user's max HP each turn.                                                                                                        | Restores 1/16 of the user's max [HP]{mechanic:hp} at the end of each turn.  If the user leaves the [field]{mechanic:field}, this effect ends.
 
+# Move effect prose
+
 This effect is passed on by []{move:baton-pass}.                                                                                                                                               |
 | 253            | 9                 | User is immune to Ground moves and effects for five turns.                                                                                           | For five turns, the user is immune to []{type:ground} moves.
 
+# Move effect prose
+
 If the user is under the effect of []{move:ingrain} or has []{ability:levitate}, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This effect is temporarily disabled by and cannot be used during []{move:gravity}.
+
+# Move effect prose
 
 This effect is passed on by []{move:baton-pass}.                    |
 | 254            | 9                 | User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target.                                    | Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/3 the damage it inflicts in recoil.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target.  [Frozen]{mechanic:frozen} Pokémon may use this move, in which case they will thaw.                                                                                  |
 | 255            | 9                 | User takes 1/4 its max HP in recoil.                                                                                                                 | Inflicts [typeless]{mechanic:typeless} [regular damage]{mechanic:regular-damage}.  User takes 1/4 its max [HP]{mechanic:hp} in recoil.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion} modifiers.
 
+# Move effect prose
+
 This move is used automatically when a Pokémon cannot use any other move legally, e.g., due to having no [PP]{mecha |
 | 256            | 9                 | User dives underwater, dodging all attacks, and hits next turn.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.
 
+# Move effect prose
+
 During the immune turn, []{move:surf}, and []{move:whirlpool} still hit the user normally, and their power is doubled if appropriate.
+
+# Move effect prose
 
 The user may be hit during its immune turn if under  |
 | 257            | 9                 | User digs underground, dodging all attacks, and hits next turn.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.
 
+# Move effect prose
+
 During the immune turn, []{move:earthquake}, []{move:fissure}, and []{move:magnitude} still hit the user normally, and their power is doubled if appropriate.
+
+# Move effect prose
 
 The user may be hit during i |
 | 258            | 9                 | Inflicts regular damage and can hit Dive users.                                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.
 
+# Move effect prose
+
 If the target is in the first turn of []{move:dive}, this move will hit with double power.                                                                                                                                                                                               |
 | 259            | 9                 | Lowers the target's evasion by one stage.  Removes field effects from the enemy field.                                                               | Lowers the target's [evasion]{mechanic:evasion} by one [stage]{mechanic:stage}.  Clears away fog.  Removes the effects of []{move:mist}, []{move:light-screen}, []{move:reflect}, []{move:safeguard}, []{move:spikes}, []{move:stealth-rock}, and []{move:toxic-spikes} from the target's side of the [field]{mechanic:field}.
+
+# Move effect prose
 
 If the target |
 | 260            | 9                 | For five turns, slower Pokémon will act before faster Pokémon.                                                                                       | For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.
 
+# Move effect prose
+
 Pokémon holding []{item:full-incense}, []{item:lagging-tail}, or []{item:quick-claw} and Pokémon with []{ability:stall} ignore this effect.      |
 | 261            | 9                 | Has a $effect_chance% chance to freeze the target.                                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [freeze]{mechanic:freeze} the target.
 
+# Move effect prose
+
 During []{move:hail}, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of []{move:protect} and []{move:detect}.                                               |
 | 262            | 9                 | Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.                                                        | Inflicts [regular damage]{mechanic:regular-damage}.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the [field]{mechanic:field}, this effect ends.
+
+# Move effect prose
 
 Has a 3/8 chance each to hit 2 or 3 t |
 | 263            | 9                 | User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target.                                                 | Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/3 the damage it inflicts in recoil.  Has a $effect_chance% chance to [paralyze]{mechanic:paralyze} the target.                                                                                                                                                              |
 | 264            | 9                 | User bounces high into the air, dodging all attacks, and hits next turn.                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a $effect_chance% chance to [paralyze]{mechanic:paralyze} the target.
 
+# Move effect prose
+
 During the immune turn, []{move:gust}, []{move:hurricane}, []{move:sky-uppercut}, []{move:smack-down},  |
 | 266            | 9                 | Lowers the target's Special Attack by two stages if it's the opposite gender.                                                                        | Lowers the target's [Special Attack]{mechanic:special-attack} by two [stages]{mechanic:stage}.  If the user and target are the same gender, or either is genderless, this move will [fail]{mechanic:fail}.                                                                                                                                    |
 | 267            | 9                 | Causes damage when opposing Pokémon switch in.                                                                                                       | Spreads sharp rocks around the opposing [field]{mechanic:field}, damaging any Pokémon that enters the [field]{mechanic:field} for 1/8 its max [HP]{mechanic:hp}.  This damage is affected by the entering Pokémon's susceptibility to []{type:rock} moves.
 
+# Move effect prose
+
 []{move:rapid-spin} removes this effect from its user's side of the [field]{mecha |
 | 268            | 9                 | Has a higher chance to confuse the target when the recorded sound is louder.                                                                         | Inflicts [regular damage]{mechanic:regular-damage}.  Has either a 1%, 11%, or 31% chance to [confuse]{mechanic:confuse} the target, based on the volume of the recording made for this move; louder recordings increase the chance of [confusion]{mechanic:confusion}.  If the user is not a []{pokemon:chatot}, this move will not cause [co |
 | 269            | 9                 | If the user is holding a appropriate plate or drive, the damage inflicted will match it.                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.
+
+# Move effect prose
 
 Note: This effect is technically shared by both []{move:techno-blast} and []{move:judgment}; however, Techno Blast is only affected by drives, and Judgment is only affected by pla |
 | 270            | 9                 | User receives 1/2 the damage inflicted in recoil.                                                                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  User takes 1/2 the damage it inflicts in recoil.                                                                                                                                                                                                                                         |
@@ -571,7 +831,11 @@ Note: This effect is technically shared by both []{move:techno-blast} and []{mov
 | 272            | 9                 | Has a $effect_chance% chance to lower the target's Special Defense by two stages.                                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to lower the target's [Special Defense]{mechanic:special-defense} by two [stages]{mechanic:stage}.                                                                                                                                                          |
 | 273            | 9                 | User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.                                                            | Inflicts [regular damage]{mechanic:regular-damage}.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.
 
+# Move effect prose
+
 This move ignores the effects of []{move:detect} and []{move:protect}.
+
+# Move effect prose
 
 This move cannot be selected by []{move:sleep-talk}.                                                                        |
 | 274            | 9                 | Has a $effect_chance% chance to [burn]{mechanic:burn} the target and a $effect_chance% chance to make the target flinch.                             | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target and a separate $effect_chance% chance to make the target [flinch]{mechanic:flinch}.                                                                                                                                     |
@@ -581,9 +845,13 @@ This move cannot be selected by []{move:sleep-talk}.                            
 | 278            | 9                 | Raises the user's Attack and accuracy by one stage.                                                                                                  | Raises the user's [Attack]{mechanic:attack} and [accuracy]{mechanic:accuracy} by one [stage]{mechanic:stage}.                                                                                                                                                                                                                                 |
 | 279            | 9                 | Prevents any multi-target moves from hitting friendly Pokémon this turn.                                                                             | Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This move cannot be selected by []{move:assist} or []{move:metronome}.                                                                                                |
 | 280            | 9                 | Averages Defense and Special Defense with the target.                                                                                                | Averages the user's unmodified [Defense]{mechanic:defense} with the target's unmodified Defense; the value becomes the unmodified Defense for both Pokémon. Unmodified [Special Defense]{mechanic:special-defense} is averaged the same way.                                                                                                  |
 | 281            | 9                 | Averages Attack and Special Attack with the target.                                                                                                  | Averages the user's unmodified [Attack]{mechanic:attack} with the target's unmodified Attack; the value becomes the unmodified Attack for both Pokémon. Unmodified [Special Attack]{mechanic:special-attack} is averaged the same way.
+
+# Move effect prose
 
 This effect applies before any other persistent changes to unmodified Attack or Special Attack, such  |
 | 282            | 9                 | All Pokémon's Defense and Special Defense are swapped for 5 turns.                                                                                   | For five turns (including this one), every Pokémon's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} are swapped.                                                                                                                                                                                                 |
@@ -591,6 +859,8 @@ This effect applies before any other persistent changes to unmodified Attack or 
 | 284            | 9                 | Inflicts double damage if the target is Poisoned.                                                                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [poisoned]{mechanic:poisoned}, this move has double power.                                                                                                                                                                                                              |
 | 285            | 9                 | Raises the user's Speed by two stages and halves the user's weight.                                                                                  | Raises the user's [Speed]{mechanic:speed} by two [stages]{mechanic:stage}.  Halves the user's weight; this effect does not stack.                                                                                                                                                                                                             |
 | 286            | 9                 | Moves have 100% accuracy against the target for three turns.                                                                                         | For three turns (including this one), moves used against the target have 100% [accuracy]{mechanic:accuracy}, but the target is immune to []{type:ground} damage.  Accuracy of one-hit KO moves is exempt from this effect.
+
+# Move effect prose
 
 This effect is removed by []{move:gravity}.  If Gravity is already in effect, this move will [fail]{mechanic:fail |
 | 287            | 9                 | Negates held items for five turns.                                                                                                                   | For five turns (including this one), passive effects of held items are ignored, and Pokémon will not use their held items.                                                                                                                                                                                                                    |
@@ -600,6 +870,8 @@ This effect is removed by []{move:gravity}.  If Gravity is already in effect, th
 | 291            | 9                 | Raises the user's Special Attack, Special Defense, and Speed by one stage each.                                                                      | Raises the user's [Special Attack]{mechanic:special-attack}, [Special Defense]{mechanic:special-defense}, and [Speed]{mechanic:speed} by one [stage]{mechanic:stage} each.                                                                                                                                                                    |
 | 292            | 9                 | Power is higher when the user weighs more than the target, up to a maximum of 120.                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.
 
+# Move effect prose
+
 User's weight                    | Power
 -------------------------------- | ----:
 Up to 2× the target's weight     |    40
@@ -607,6 +879,8 @@ Up to 3× the target's weight     |    60
 Up to  |
 | 293            | 9                 | Hits any Pokémon that shares a type with the user.                                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.  Only Pokémon that share a type with the user will take damage from this move.                                                                                                                                                                                                            |
 | 294            | 9                 | Power is higher when the user has greater Speed than the target, up to a maximum of 150.                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  The greater the user's [Speed]{mechanic:speed} compared to the target's, the higher power this move has, to a maximum of 150.
+
+# Move effect prose
 
 User's Speed                     | Power
 -------------------------------- | ----:
@@ -627,6 +901,8 @@ If the target has already acted this turn, this move will [fail]{mechanic:fail}.
 | 306            | 9                 | Power is higher the more the user's stats have been raised, to a maximum of 31×.                                                                     | Inflicts [regular damage]{mechanic:regular-damage}.  Power is increased by 100% its original value for every [stage]{mechanic:stage} any of the user's stats have been raised.  [Accuracy]{mechanic:accuracy}, [evasion]{mechanic:evasion}, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to |
 | 307            | 9                 | Prevents any priority moves from hitting friendly Pokémon this turn.                                                                                 | Moves with priority greater than 0 will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will [fail]{mechanic:fail}.
 
+# Move effect prose
+
 This move cannot be selected by []{move:assist} or []{move:metronome}.                                                                                         |
 | 308            | 9                 | User switches places with the friendly Pokémon opposite it.                                                                                          | User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pokémon, this move will [fail]{mechanic:fail}.                                                                                                                           |
 | 309            | 9                 | Raises user's Attack, Special Attack, and Speed by two stages.  Lower user's Defense and Special Defense by one stage.                               | Raises the user's [Attack]{mechanic:attack}, [Special Attack]{mechanic:special-attack}, and [Speed]{mechanic:speed} by two [stages]{mechanic:stage} each.  Lowers the user's [Defense]{mechanic:defense} and [Special Defense]{mechanic:special-defense} by one []{mechanic:stage} each.                                                      |
@@ -634,9 +910,13 @@ This move cannot be selected by []{move:assist} or []{move:metronome}.          
 | 311            | 9                 | Has double power if the target has a major status ailment.                                                                                           | Inflicts [regular damage]{mechanic:regular-damage}.  If the target has a [major status ailment]{mechanic:major-status-ailment}, this move has double power.                                                                                                                                                                                   |
 | 312            | 9                 | Carries the target high into the air, dodging all attacks against either, and drops it next turn.                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  User carries the target high into the air for one turn, during which no moves will hit either Pokémon and neither can act.  On the following turn, the user drops the target, inflicting damage and ending the effect.
 
+# Move effect prose
+
 If the target is []{type:flying}-type, this move will function a |
 | 313            | 9                 | Raises the user's Attack by one stage and its Speed by two stages.                                                                                   | Raises the user's [Attack]{mechanic:attack} by one [stage]{mechanic:stage} and its [Speed]{mechanic:speed} by two stages.                                                                                                                                                                                                                     |
 | 314            | 9                 | Ends wild battles.  Forces trainers to switch Pokémon.                                                                                               | Inflicts [regular damage]{mechanic:regular-damage}, then [switches]{mechanic:switch-out} the target out for another of its trainer's Pokémon, selected at random.
+
+# Move effect prose
 
 If the target is under the effect of []{move:ingrain} or []{ability:suction-cups}, or it has a []{move:substitute}, or its Trainer has no more usable Pokémon, it will not |
 | 315            | 9                 | Destroys the target's held berry.                                                                                                                    | Inflicts [regular damage]{mechanic:regular-damage}.  If the target is [holding]{mechanic:held-item} a [berry]{mechanic:berry}, it's destroyed and cannot be used in response to this move.                                                                                                                                                    |
@@ -661,7 +941,11 @@ If the user is a []{pokemon:meloetta}, it will toggle between Aria and Pirouette
 | 333            | 9                 | Requires a turn to charge before attacking.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target.                                       | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [burn]{mechanic:burn} the target.  User charges for one turn before attacking.                                                                                                                                                                           |
 | 334            | 9                 | Has a $effect_chance% chance to confuse the target.                                                                                                  | Inflicts [regular damage]{mechanic:regular-damage}.  Has a $effect_chance% chance to [confuse]{mechanic:confuse} the target.
 
+# Move effect prose
+
 This move can hit Pokémon under the effect of []{move:bounce}, []{move:fly}, or []{move:sky-drop}.
+
+# Move effect prose
 
 During []{move:rain-dance}, this move has 100% accuracy.  During []{move:sunny-day}, this move has 50% accu |
 | 335            | 9                 | Lowers the user's Defense, Special Defense, and Speed by one stage each.                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the user's [Defense]{mechanic:defense}, [Special Defense]{mechanic:special-defense}, and [Speed]{mechanic:speed} by one [stage]{mechanic:stage} each.                                                                                                                             |
@@ -669,12 +953,18 @@ During []{move:rain-dance}, this move has 100% accuracy.  During []{move:sunny-d
 | 337            | 9                 | With [Fusion Flare]{move:fusion-flare}, inflicts double damage.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  If a friendly Pokémon used []{move:fusion-flare} earlier this turn, this move has double power.                                                                                                                                                                                          |
 | 338            | 9                 | Deals both []{type:fighting} and []{type:flying}-type damage.                                                                                        | Inflicts regular damage.  For the purposes of type effectiveness, this move is both []{type:fighting}- and []{type:flying}-type: its final effectiveness is determined by multiplying the effectiveness of each type against each of the target's types.
 
+# Move effect prose
+
 For all other purposes, this move is pure Fighting-type.  If this move's type is ch |
 | 339            | 9                 | Can only be used after the user has eaten a berry.                                                                                                   | Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.
+
+# Move effect prose
 
 After the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via []{move:bug-bite} or []{move:pluck}, or being the target of |
 | 340            | 9                 | Raises the Attack and Special Attack of all []{type:grass} Pokémon in battle.                                                                        | Raises the Attack and Special Attack of all []{type:grass} Pokémon in battle.                                                                                                                                                                                                                                                                 |
 | 341            | 9                 | Covers the opposing field, lowering opponents' Speed by one stage upon switching in.                                                                 | Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pokémon that enters the field by one stage.
+
+# Move effect prose
 
 Pokémon in the air, such as []{type:flying}-types and those with []{ability:levitate}, are unaffected.  []{move:rapid-spin} removes Sticky Web from the user's side of the field; []{move:defog} remo |
 | 342            | 9                 | Raises the user's Attack by two stages if it KOs the target.                                                                                         | Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.                                                                                                                                                                                                                                                        |
@@ -687,12 +977,18 @@ Pokémon in the air, such as []{type:flying}-types and those with []{ability:lev
 | 349            | 9                 | Drains 75% of the damage inflicted to heal the user.                                                                                                 | Deals regular damage.  Drains 75% of the damage inflicted to heal the user.                                                                                                                                                                                                                                                                   |
 | 350            | 9                 | Protects all friendly Pokémon from non-damaging moves.                                                                                               | Protects all friendly Pokémon from non-damaging moves for the rest of the turn.
 
+# Move effect prose
+
 Unlike other blocking moves, this move may be used consecutively without its chance of success falling.                                                                                                                                                      |
 | 351            | 9                 | Raises the Defense of all []{type:grass} Pokémon in battle.                                                                                          | Raises the Defense of all []{type:grass} Pokémon in battle.                                                                                                                                                                                                                                                                                   |
 | 352            | 9                 | For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their []{type:grass} moves to 1.5× their power.            | For five turns, heals all Pokémon on the ground for 1/16 their max HP each turn and strengthens their []{type:grass} moves to 1.5× their power.
 
+# Move effect prose
+
 Changes []{move:nature-power} to []{move:energy-ball}.                                                                                                                                       |
 | 353            | 9                 | For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming []{type:dragon} moves. | For five turns, protects all Pokémon on the ground from major status ailments and confusion and weakens []{type:dragon} moves used against them to 0.5× their power.
+
+# Move effect prose
 
 Changes []{move:nature-power} to []{move:moonblast}.                                                                                                                    |
 | 354            | 9                 | Changes the target's move's type to []{type:electric} if it hasn't moved yet this turn.                                                              | Changes the target's move's type to []{type:electric} if it hasn't moved yet this turn.                                                                                                                                                                                                                                                       |
@@ -711,8 +1007,12 @@ Changes []{move:nature-power} to []{move:moonblast}.                            
 | 367            | 9                 | Raises the Defense and Special Defense of all friendly Pokémon with []{ability:plus} or []{ability:minus} by one stage.                              | Raises the Defense and Special Defense of all friendly Pokémon with []{ability:plus} or []{ability:minus} by one stage.                                                                                                                                                                                                                       |
 | 368            | 9                 | Doubles prize money.                                                                                                                                 | Doubles prize money.
 
+# Move effect prose
+
 Stacks with a held item.  Only works once per battle.                                                                                                                                                                                                                                                                   |
 | 369            | 9                 | For five turns, prevents all Pokémon on the ground from sleeping and strengthens their []{type:electric} moves to 1.5× their power.                  | For five turns, prevents all Pokémon on the ground from sleeping and strengthens their []{type:electric} moves to 1.5× their power.
+
+# Move effect prose
 
 Changes []{move:nature-power} to []{move:thunderbolt}.                                                                                                                                                   |
 | 370            | 9                 | Does nothing.                                                                                                                                        | Does nothing.                                                                                                                                                                                                                                                                                                                                 |
@@ -727,6 +1027,8 @@ Changes []{move:nature-power} to []{move:thunderbolt}.                          
 | 379            | 9                 | Inflicts regular damage.                                                                                                                             | Inflicts [regular damage]{mechanic:regular-damage}.                                                                                                                                                                                                                                                                                           |
 | 380            | 9                 | Super-effective against []{type:water}.                                                                                                              | Inflicts [regular damage]{mechanic:regular-damage}.  This move is super-effective against the []{type:water} type.
 
+# Move effect prose
+
 The target's other type will affect damage as usual.  If this move's type is changed, it remains super-effective against Water regardless of its type.                                                                    |
 | 381            | 9                 | Never misses.                                                                                                                                        | Inflicts [regular damage]{mechanic:regular-damage}.  Ignores [accuracy]{mechanic:accuracy} and [evasion]{mechanic:evasion}.                                                                                                                                                                                                                   |
 | 382            | 9                 | Heals the user for ½ its max HP, or ⅔ during a sandstorm.                                                                                            | Heals the user for ½ its max HP.  During a []{move:sandstorm}, the healing is increased to ⅔.                                                                                                                                                                                                                                                 |
@@ -737,6 +1039,8 @@ The target's other type will affect damage as usual.  If this move's type is cha
 | 387            | 9                 | Heals the target for ½ its max HP, or ⅔ on Grassy Terrain.                                                                                           | Heals the target for ½ its max HP.  If []{move:grassy-terrain} is in effect, heals for ⅔ instead.                                                                                                                                                                                                                                             |
 | 388            | 9                 | Heals the user by the target's current Attack stat and lowers the target's Attack by one stage.                                                      | Lowers the target's Attack by one stage.  Heals the user by the target's current Attack, including modifiers, but not including this move's Attack-lowering effect.
 
+# Move effect prose
+
 If the target's Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed.            |
 | 389            | 9                 | Forces the target's opponents to aim at the target for the rest of the turn.                                                                         | For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead.                                                                                                                                                                                                 |
 | 390            | 9                 | Poisons the target and lowers its Speed by one stage.                                                                                                | Poisons the target and lowers its Speed by one stage.                                                                                                                                                                                                                                                                                         |
@@ -745,6 +1049,8 @@ If the target's Attack is already at -6, this move will fail.  In any other situ
 | 393            | 9                 | Prevents the target from using sound-based moves for two turns.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  Silences the target for two turns, preventing it from using any sound-based moves.                                                                                                                                                                                                       |
 | 394            | 9                 | Damages opponents, but heals allies for 50% of their max HP.                                                                                         | If the target is an opponent, inflicts [regular damage]{mechanic:regular-damage}.  If the target is an ally, heals the target for 50% of its max HP.                                                                                                                                                                                          |
 | 395            | 9                 | Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%.                                           | Changes the terrain to Psychic Terrain for 5 turns.  Overrides []{move:electric-terrain}, []{move:grassy-terrain}, and []{move:misty-terrain}.
+
+# Move effect prose
 
 All Pokémon on the ground are immune to moves with priority greater than 0.  (Moves that target the field rather than individual Pokémon, such as []{move:spikes}, are not affected.)  Additi |
 | 396            | 9                 | Lowers the target's Attack by one stage after inflicting damage.                                                                                     | Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the target's [Attack]{mechanic:attack} by one [stage]{mechanic:stage}.                                                                                                                                                                                                            |
@@ -759,6 +1065,8 @@ All Pokémon on the ground are immune to moves with priority greater than 0.  (M
 | 405            | 9                 | Lowers the user's Defense by one stage after inflicting damage.                                                                                      | Inflicts [regular damage]{mechanic:regular-damage}.  Lowers the user's [Defense]{mechanic:defense} by one [stage]{mechanic:stage}.                                                                                                                                                                                                            |
 | 406            | 9                 | Inflicts regular damage with no additional effect.                                                                                                   | Inflicts [regular damage]{mechanic:regular-damage}.                                                                                                                                                                                                                                                                                           |
 | 407            | 9                 | Reduces damage five turns, but must be used during hail.                                                                                             | Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not []{move:hail}, or the weather is disabled by the effects of []{ability:cloud-nine} or []{ability:air-lock}, this move will fail.
+
+# Move effect prose
 
 Any [regular damage]{mechanic:regular-damage} dealt to an affected Pokémon is reduced by ½.  (If |
 | 408            | 9                 | Only inflicts damage if the user was hit by a physical move this turn.                                                                               | Inflicts [regular damage]{mechanic:regular-damage}.  If the user was not yet hit by an opponent's physical move this turn, this move will fail.                                                                                                                                                                                               |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item fling effect prose
+
 | item_fling_effect_id | local_language_id |                         effect                          |
 |----------------------|-------------------|---------------------------------------------------------|
 | 1                    | 9                 | Badly poisons the target.                               |

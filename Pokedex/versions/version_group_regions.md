@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Version group regions
+
 | version_group_id | region_id |
 |------------------|-----------|
 | 1                | 1         |

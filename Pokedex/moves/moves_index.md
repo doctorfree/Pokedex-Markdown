@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# moves
+# Moves index
 
 Index of moves category
 

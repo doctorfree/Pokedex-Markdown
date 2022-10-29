@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Nature names
+
 | nature_id | local_language_id |  name   |
 |-----------|-------------------|---------|
 | 1         | 1                 | がんばりや   |

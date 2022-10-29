@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Location names
+
 | location_id | local_language_id |           name            |       subtitle       |
 |-------------|-------------------|---------------------------|----------------------|
 | 1           | 5                 | Joliberges                |                      |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Location area encounter rates
+
 | location_area_id | encounter_method_id | version_id | rate |
 |------------------|---------------------|------------|------|
 | 1                | 2                   | 12         | 25   |

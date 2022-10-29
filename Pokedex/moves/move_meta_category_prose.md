@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move meta category prose
+
 | move_meta_category_id | local_language_id |                        description                        |
 |-----------------------|-------------------|-----------------------------------------------------------|
 | 0                     | 9                 | Inflicts damage                                           |

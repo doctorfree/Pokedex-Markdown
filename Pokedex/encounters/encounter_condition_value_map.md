@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter condition value map
+
 | encounter_id | encounter_condition_value_id |
 |--------------|------------------------------|
 | 125          | 2                            |

@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move names
+
 | move_id | local_language_id |             name             |
 |---------|-------------------|------------------------------|
 | 1       | 1                 | はたく                          |

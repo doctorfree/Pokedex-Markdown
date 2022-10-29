@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon move methods
+
 | id |       identifier        |
 |----|-------------------------|
 | 1  | level-up                |

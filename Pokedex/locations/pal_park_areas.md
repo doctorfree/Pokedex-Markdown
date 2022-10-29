@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pal park areas
+
 | id | identifier |
 |----|------------|
 | 1  | forest     |

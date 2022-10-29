@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon form names
+
 | pokemon_form_id | local_language_id |      form_name       |         pokemon_name         |
 |-----------------|-------------------|----------------------|------------------------------|
 | 201             | 1                 | Ａ                    |                              |

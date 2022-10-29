@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Items
+
 |  id  |           identifier            | category_id |  cost  | fling_power | fling_effect_id |
 |------|---------------------------------|-------------|--------|-------------|-----------------|
 | 1    | master-ball                     | 34          | 0      |             |                 |

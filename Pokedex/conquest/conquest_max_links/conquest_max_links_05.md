@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest max links
+
 | warrior_rank_id | pokemon_species_id | max_link |
 |-----------------|--------------------|----------|
 | 61              | 410                | 0        |

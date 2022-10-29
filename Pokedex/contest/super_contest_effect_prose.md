@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Super contest effect prose
+
 | super_contest_effect_id | local_language_id |                       flavor_text                       |
 |-------------------------|-------------------|---------------------------------------------------------|
 | 1                       | 9                 | Enables the user to perform first in the next turn.     |

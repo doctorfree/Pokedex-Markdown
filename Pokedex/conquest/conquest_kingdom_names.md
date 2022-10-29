@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest kingdom names
+
 | kingdom_id | local_language_id |   name    |
 |------------|-------------------|-----------|
 | 1          | 9                 | Aurora    |

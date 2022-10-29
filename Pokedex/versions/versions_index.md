@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# versions
+# Versions index
 
 Index of versions category
 

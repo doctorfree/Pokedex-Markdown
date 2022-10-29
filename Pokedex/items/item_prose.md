@@ -6,70 +6,104 @@ categories:
     - pokemon
 ---
 
+# Item prose
+
 | item_id | local_language_id |                                                                                                short_effect                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                             effect                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |---------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1       | 9                 | Catches a wild Pokémon every time.                                                                                                                                                                         | Used in battle
 :   [Catches]{mechanic:catch} a wild Pokémon without fail.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                                             |
 | 2       | 9                 | Tries to catch a wild Pokémon.  Success rate is 2×.                                                                                                                                                        | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 2×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                      |
 | 3       | 9                 | Tries to catch a wild Pokémon.  Success rate is 1.5×.                                                                                                                                                      | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1.5×.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                    |
 | 4       | 9                 | Tries to catch a wild Pokémon.                                                                                                                                                                             | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                      |
 | 5       | 9                 | Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.                                                                                                                    | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1.5×.
 
+# Item prose
+
 This item can only be used in the []{location:great-marsh} or []{location:kanto-safari-zone}.                                                                                                                                             |
 | 6       | 9                 | Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.                                                                                                                              | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If the wild Pokémon is []{type:water}- or []{type:bug}-type, this ball has a catch rate of 3×.  Otherwise, it has a catch rate of 1×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                         |
 | 7       | 9                 | Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.                                                                                                                  | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If the wild Pokémon was encountered by surfing or fishing, this ball has a catch rate of 3.5×.  Otherwise, it has a catch rate of 1×.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                                         |
 | 8       | 9                 | Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.                                                                                            | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  Has a catch rate of given by `(40 - level) / 10`, where `level` is the wild Pokémon's level, to a maximum of 3.9× for level 1 Pokémon.  If the wild Pokémon's level is higher than 30, this ball has a catch rate of 1×.
+
+# Item prose
 
     If used in a trainer battle, nothing ha |
 | 9       | 9                 | Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.                                                                                                                          | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If the wild Pokémon's species is marked as caught in the trainer's Pokédex, this ball has a catch rate of 3×.  Otherwise, it has a catch rate of 1×.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                          |
 | 10      | 9                 | Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×.                                                                                                    | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  Has a catch rate of 1.1× on the first turn of the battle and increases by 0.1× every turn, to a maximum of 4× on turn 30.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                     |
 | 11      | 9                 | Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.                                                                                                                                   | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×.  Whenever the caught Pokémon's [happiness]{mechanic:happiness} increases, it increases by one extra point.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                                           |
 | 12      | 9                 | Tries to catch a wild Pokémon.                                                                                                                                                                             | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                      |
 | 13      | 9                 | Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.                                                                                                                                | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If it's currently nighttime or the wild Pokémon was encountered while walking in a cave, this ball has a catch rate of 3.5×.  Otherwise, it has a catch rate of 1×.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                           |
 | 14      | 9                 | Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.                                                                                                                                     | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×.  The caught Pokémon's [HP]{mechanic:hp} is immediately restored, [PP]{mechanic:pp} for all its moves is restored, and any [status ailment]{mechanic:status-ailment} is cured.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball |
 | 15      | 9                 | Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn.                                                                                                                 | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 4× on the first turn of a battle, but 1× any other time.
 
+# Item prose
+
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                 |
 | 16      | 9                 | Tries to catch a wild Pokémon.                                                                                                                                                                             | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                                                                                                                      |
 | 17      | 9                 | Restores 20 HP.                                                                                                                                                                                            | Used on a friendly Pokémon
@@ -182,22 +216,38 @@ This item can only be used in the []{location:great-marsh} or []{location:kanto-
 | 71      | 9                 | No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.                                                                                                                                      | No effect.                                                                                                                                                                                                                                                                                                                                    |
 | 72      | 9                 | No effect. Can be traded for items or moves.                                                                                                                                                               | No effect.
 
+# Item prose
+
 In Diamond and Pearl, trade ten for a []{move:sunny-day} [TM]{item:tm11} in the house midway along the southern section of []{location:sinnoh-route-212}.
+
+# Item prose
 
 In Platinum, trade to [move tutors]{mechanic:move-tutor} on []{location:sinnoh-route-212}, in []{location:snowpoint-city}, and in the []{location:survival-area}.  Eig |
 | 73      | 9                 | No effect. Can be traded for items or moves.                                                                                                                                                               | No effect.
 
+# Item prose
+
 In Diamond and Pearl, trade ten for a []{move:rain-dance} [TM]{item:tm18} in the house midway along the southern section of []{location:sinnoh-route-212}.
+
+# Item prose
 
 In Platinum, trade to [move tutors]{mechanic:move-tutor} on []{location:sinnoh-route-212}, in []{location:snowpoint-city}, and in the []{location:survival-area}.  Ei |
 | 74      | 9                 | No effect. Can be traded for items or moves.                                                                                                                                                               | No effect.
 
+# Item prose
+
 In Diamond and Pearl, trade ten for a []{move:sandstorm} [TM]{item:tm37} in the house midway along the southern section of []{location:sinnoh-route-212}.
+
+# Item prose
 
 In Platinum, trade to [move tutors]{mechanic:move-tutor} on []{location:sinnoh-route-212}, in []{location:snowpoint-city}, and in the []{location:survival-area}.  Eig |
 | 75      | 9                 | No effect. Can be traded for items or moves.                                                                                                                                                               | No effect.
 
+# Item prose
+
 In Diamond and Pearl, trade ten for a []{move:hail} [TM]{item:tm07} in the house midway along the southern section of []{location:sinnoh-route-212}.
+
+# Item prose
 
 In Platinum, trade to [move tutors]{mechanic:move-tutor} on []{location:sinnoh-route-212}, in []{location:snowpoint-city}, and in the []{location:survival-area}.  Eight sh |
 | 76      | 9                 | For 200 steps, prevents wild encounters of level lower than your party's lead Pokémon.                                                                                                                     | Used outside of battle
@@ -231,6 +281,8 @@ In Platinum, trade to [move tutors]{mechanic:move-tutor} on []{location:sinnoh-r
 | 94      | 9                 |                                                                                                                                                                                                            | Used outside of battle
 :   Immediately triggers a wild Pokémon battle, as long as the trainer is somewhere with wild Pokémon—i.e., in tall grass, in a cave, or surfing.
 
+# Item prose
+
 Can be smeared on sweet-smelling trees to attract tree-dwelling Pokémon after six hours.                                                                            |
 | 95      | 9                 | Growing time of berries is reduced, but the soil dries out faster.                                                                                                                                         | Used on a patch of soil
 :   Plant's growth stages will each last 25% less time.  Dries soil out more quickly.                                                                                                                                                                                                                                 |
@@ -263,99 +315,143 @@ Can be smeared on sweet-smelling trees to attract tree-dwelling Pokémon after s
 :   Holder's []{type:dragon}- and []{type:water}-type moves have 1.2× their usual power.                                                                                                                                                                                                                           |
 | 114     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 115     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 116     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 117     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 118     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 119     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 120     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 121     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 122     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 123     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 124     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 125     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 126     | 9                 | Held: Consumed when paralyzed to cure paralysis.                                                                                                                                                           | Held in battle
 :   When the holder is [paralyzed]{mechanic:paralysis}, it consumes this item to cure the paralysis.
 
+# Item prose
+
 Used on a party Pokémon
 :   Cures [paralysis]{mechanic:paralysis}.                                                                                                                                                       |
 | 127     | 9                 | Held: Consumed when asleep to cure sleep.                                                                                                                                                                  | Held in battle
 :   When the holder is [asleep]{mechanic:sleep}, it consumes this item to wake up.
+
+# Item prose
 
 Used on a party Pokémon
 :   Cures [sleep]{mechanic:sleep}.                                                                                                                                                                                 |
 | 128     | 9                 | Held: Consumed when poisoned to cure poison.                                                                                                                                                               | Held in battle
 :   When the holder is [poisoned]{mechanic:poison}, it consumes this item to cure the poison.
 
+# Item prose
+
 Used on a party Pokémon
 :   Cures [poison]{mechanic:poison}.                                                                                                                                                                    |
 | 129     | 9                 | Held: Consumed when burned to cure a burn.                                                                                                                                                                 | Held in battle
 :   When the holder is [burned]{mechanic:burn}, it consumes this item to cure the burn.
+
+# Item prose
 
 Used on a party Pokémon
 :   Cures a [burn]{mechanic:burn}.                                                                                                                                                                            |
 | 130     | 9                 | Held: Consumed when frozen to cure frozen.                                                                                                                                                                 | Held in battle
 :   When the holder is [frozen]{mechanic:freezing}, it consumes this item to thaw itself.
 
+# Item prose
+
 Used on a party Pokémon
 :   Cures [freezing]{mechanic:freezing}.                                                                                                                                                                    |
 | 131     | 9                 | Held: Consumed when a move runs out of PP to restore its PP by 10.                                                                                                                                         | Held in battle
 :   When the holder is out of [PP]{mechanic:pp} for one of its moves, it consumes this item to restore 10 of that move's PP.
+
+# Item prose
 
 Used on a party Pokémon
 :   Restores 10 [PP]{mechanic:pp} for a selected move.                                                                                                                   |
 | 132     | 9                 | Held: Consumed at 1/2 max HP to recover 10 HP.                                                                                                                                                             | Held in battle
 :   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less, it consumes this item to restore 10 HP.
 
+# Item prose
+
 Used on a party Pokémon
 :   Restores 10 [HP]{mechanic:hp}.                                                                                                                                                   |
 | 133     | 9                 | Held: Consumed when confused to cure confusion.                                                                                                                                                            | Held in battle
 :   When the holder is [confused]{mechanic:confusion}, it consumes this item to cure the confusion.
+
+# Item prose
 
 Used on a party Pokémon
 :   Cures [confusion]{mechanic:confusion}.                                                                                                                                                        |
 | 134     | 9                 | Held: Consumed to cure any status condition or confusion.                                                                                                                                                  | Held in battle
 :   When the holder is afflicted with a [major status ailment]{mechanic:major-status-ailment}, it consumes this item to cure the ailment.
 
+# Item prose
+
 Used on a party Pokémon
 :   Cures any [major status ailment]{mechanic:major-status-ailment}.                                                                                        |
 | 135     | 9                 | Held: Consumed at 1/2 max HP to recover 1/4 max HP.                                                                                                                                                        | Held in battle
 :   When the holder has 1/2 its max [HP]{mechanic:hp} remaining or less, it consumes this item to restore 1/4 its max HP.
+
+# Item prose
 
 Used on a party Pokémon
 :   Restores 1/4 the Pokémon's max [HP]{mechanic:hp}.                                                                                                                       |
@@ -460,6 +556,8 @@ Used on a party Pokémon
 | 192     | 9                 | Held: Holder gains double effort values from battles, but has halved Speed in battle.                                                                                                                      | Held
 :   When the holder would gain [effort]{mechanic:effort} due to battle, it gains double that effort instead.
 
+# Item prose
+
 Held in battle
 :   Holder has half its [Speed]{mechanic:speed}.                                                                                                                                                            |
 | 193     | 9                 | Held: Half the experience from a battle is split between Pokémon holding this item.                                                                                                                        | Held
@@ -473,10 +571,14 @@ Held in battle
 | 197     | 9                 | Held: Increases Attack by 50%, but restricts the holder to only one move.                                                                                                                                  | Held in battle
 :   Holder has 1.5× its [Attack]{mechanic:attack}.  When the holder attempts to use a move, all its other moves are disabled until it leaves battle or loses this item.
 
+# Item prose
+
     The restriction ends even if this item is swapped for another Choice item
 via []{move:trick} or []{move:switcheroo}.                              |
 | 198     | 9                 | Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.                               | Held in battle
 :   Holder's damaging moves have a 10% chance to make their target [flinch]{mechanic:flinch}.  This chance applies independently to each hit of a multi-hit move.
+
+# Item prose
 
     This item's chance is rolled independently of any other move effects;
 e.g., a move with a 30% chance to flinch normally will have a 37% total chance to |
@@ -485,6 +587,8 @@ e.g., a move with a 30% chance to flinch normally will have a 37% total chance t
                                                                                                                                                                                                                                                                    |
 | 200     | 9                 | Held: Doubles the money earned from a battle. Does not stack with Luck Incense.                                                                                                                            | Held
 :   If the holder participated in a trainer battle, the trainer earns twice the usual prize money.  This effect applies even if the holder [fainted]{mechanic:fainted}.
+
+# Item prose
 
     This effect does not stack with any other similar effect.                                                                                                   |
 | 201     | 9                 | Prevents wild encounters of level lower than your party's lead Pokémon.                                                                                                                                    | Held by lead Pokémon: Prevents wild battles with Pokémon that are lower level than the holder.                                                                                                                                                                                                                                                |
@@ -743,9 +847,13 @@ Held by Gligar: Evolves the holder into Gliscor when it levels up.              
 | 432     | 9                 | Allows entry into the Hall of Origin. Unreleased.                                                                                                                                                          | Supposedly related to t                                                                                                                                                                                                                                                                                                                       |
 | 433     | 9                 | Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)                                                                                                                                           | Allows passage on a ferry.
 
+# Item prose
+
 The same item is used for different ferries between different games.                                                                                                                                                                                                                                              |
 | 434     | 9                 | Allows participation in Pokémon Contests.                                                                                                                                                                  | Allows the trainer to enter Contests.                                                                                                                                                                                                                                                                                                         |
 | 435     | 9                 | Magma is sealed inside.                                                                                                                                                                                    | Causes Heatran to appear at Reversal Mountain.
+
+# Item prose
 
 Unused prior to Black and White 2.                                                                                                                                                                                                                                                            |
 | 436     | 9                 | Given to the trainer's rival in Jubilife City. Contains Town Maps.                                                                                                                                         | Given to the trainer's rival in Jubilife City.  Contains two Town Maps, one of which is given to the trainer upon delivery.                                                                                                                                                                                                                   |
@@ -757,14 +865,22 @@ Unused prior to Black and White 2.                                              
 | 442     | 9                 | Boosts the damage from Giratina's Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.                                                                                            | Held by []{pokemon:giratina}
 :   Holder's []{type:dragon} and []{type:ghost} moves have 1.2× their base power.
 
+# Item prose
+
     Holder is in Origin Forme.
+
+# Item prose
 
 This item cannot be held by any Pokémon but Giratina.  When you enter the Union Room or connect to Wi-Fi, this item returns to your bag.                                                      |
 | 443     | 9                 | Records wireless, Wi-Fi, or Battle Frontier battles, and stores points.                                                                                                                                    | Optionally records wireless, Wi-Fi, and Battle Frontier battles.
 
+# Item prose
+
 Tracks Battle Points earned in the Battle Frontier, and stores commemorative prints.                                                                                                                                                                                        |
 | 444     | 9                 | Changes an unfrozen Shaymin to Sky Forme in the day.                                                                                                                                                       | Used by trainer on a []{pokemon:shaymin}
 :   Changes the target Shaymin from Land Forme to Sky Forme.
+
+# Item prose
 
     This item cannot be used on a [frozen]{mechanic:freezing} Shaymin or at night.  Sky Forme Shaymin will revert to Land Forme overnight, when frozen, and upon entering a link battle.  This item must be used again to change it ba |
 | 445     | 9                 | Gen IV: The key to Rotom's appliance room. Gen III: The key to Cinnabar Gym.                                                                                                                               | Used by trainer in the Galactic Eterna Building, on the ground floor, to the left of the TV
@@ -773,49 +889,75 @@ Tracks Battle Points earned in the Battle Frontier, and stores commemorative pri
 | 447     | 9                 | Allows portable berry growing.                                                                                                                                                                             | Contains four portable pots of soil suitable for growing berries.                                                                                                                                                                                                                                                                             |
 | 448     | 9                 | Use on Sudowoodo blocking the path on Route 36. Also waters berries.                                                                                                                                       | Required to water berries within the []{item:berry-pots}.
 
+# Item prose
+
 Required to battle the []{pokemon:sudowoodo} on []{location:johto-route-36}.
+
+# Item prose
 
 This item cannot be directly used from the bag.                                                                                                                                                      |
 | 449     | 9                 | 3× effectiveness while fishing. Made from Blu Apricorn.                                                                                                                                                    | Used by trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
     If the wild Pokémon was encountered by fishing, the wild Pokémon's catch rate is 3× normal.                                                                                        |
 | 450     | 9                 | Success rate based off of fraction target Pokémon is of user's Pokémon. Made from Red Apricorn.                                                                                                            | Used by trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
     If the trainer's Pokémon's level is higher than:
+
+# Item prose
 
     * four times the wild Pokémon's, the wild Pokémon's catch rate is 8× normal.
     * than twice the wild Pokémon's, the wild P |
 | 451     | 9                 | 4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.                                                                                                                | Used by trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
     If the wild Pokémon is a []{pokemon:clefairy}, []{pokemon:nidoran-m}, []{pokemon:nidoran-f}, []{pokemon:jigglypuff}, []{pokemon:skitty}, or any evolution thereof, the wild Pokémo |
 | 452     | 9                 | Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.                                                                                                       | Used by a trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
     If the wild Pokémon weighs:
+
+# Item prose
 
     * 409.6 kg (903.0 lb) or more, its catch rate is 40 more than normal.
     * 307.2 kg (677.3 lb) or more, its catch rate is 30 more than normal. |
 | 453     | 9                 | 4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.                                                                                  | Used by a trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
 :   If the wild Pokémon's base [speed]{mechanic:speed} is 100 or more, its catch rate is 4× normal.                                                                                  |
 | 454     | 9                 | Caught Pokémon start with 200 happiness. Made from Grn Apricorn.                                                                                                                                           | Used by a trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
+
+# Item prose
 
     If caught, the wild Pokémon's [happiness]{mechanic:happiness} starts at 200.                                                                                                     |
 | 455     | 9                 | 8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.                                                                                                      | Used by a trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If used in a trainer battle, nothing happens and the ball is lost.
 
+# Item prose
+
     If the trainer's Pokémon and wild Pokémon are of the same species but opposite genders, the wild Pokémon's catch rate is 8× normal.                                              |
 | 456     | 9                 | Catches Pokémon in the Pal Park every time.                                                                                                                                                                | Used by a trainer in battle
 :   [Catches]{mechanic:catch} a wild Pokémon.
 
+# Item prose
+
 This item can only be used in []{location:pal-park}.                                                                                                                                                                                                               |
 | 457     | 9                 | Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)                                                                                                                 | Used by a trainer in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.
+
+# Item prose
 
     The wild Pokémon's catch rate is 1.5× normal.                                                                                                                                                                                                        |
 | 458     | 9                 | Used to make a Level Ball.                                                                                                                                                                                 | May be given to Kurt in []{location:azalea-town} to produce a []{item:level-ball}.                                                                                                                                                                                                                                                            |
@@ -832,6 +974,8 @@ This item can only be used in []{location:pal-park}.                            
 | 468     | 9                 | Summons Kyogre to the Embedded Tower.                                                                                                                                                                      | Causes []{pokemon:kyogre} to appear in the []{location:embedded-tower}.                                                                                                                                                                                                                                                                       |
 | 469     | 9                 | Summons Rayquaza to the Embedded Tower.                                                                                                                                                                    | Causes []{pokemon:rayquaza} to appear in the []{location:embedded-tower}.                                                                                                                                                                                                                                                                     |
 | 470     | 9                 | S: Summons Latias H: Summons Latios.                                                                                                                                                                       | When taken to the []{location:pewter-city} museum, causes []{pokemon:latias} or []{pokemon:latios} to attack the trainer.
+
+# Item prose
 
 The Pokémon to appear will be whicher can't be encountered roaming in the wild.                                                                                                                                    |
 | 471     | 9                 | Keeps track of Unown types caught.                                                                                                                                                                         | Lists which []{pokemon:unown} forms the trainer has caught.                                                                                                                                                                                                                                                                                   |
@@ -883,49 +1027,73 @@ The Pokémon to appear will be whicher can't be encountered roaming in the wild.
 | 514     | 9                 | Stores photos from your adventure.                                                                                                                                                                         | Does nothing.                                                                                                                                                                                                                                                                                                                                 |
 | 515     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 516     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 517     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 518     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 519     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 520     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 521     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 522     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 523     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 524     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 525     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 526     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
@@ -940,6 +1108,8 @@ Held
 | 535     | 9                 | Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale.                                                                                                                                                 | May be traded to Captain Stern for a []{item:deep-sea-tooth} or a []{item:deep-sea-scale}.                                                                                                                                                                                                                                                    |
 | 536     | 9                 | Allows passage through windy deserts.                                                                                                                                                                      | Allows the trainer to enter the desert on []{location:hoenn-route-111}.                                                                                                                                                                                                                                                                       |
 | 537     | 9                 | FL: Deliver to Lostelle's father. RSE: Trade to Professor Cozmo for TM27 (Return).                                                                                                                         | RSE: May be traded to Professor Cozmo for []{item:tm27}.
+
+# Item prose
 
 FRLG: A meteorite to be delivered to Lostelle's father.                                                                                                                                                                                                                             |
 | 538     | 9                 | Unlocks room 1 on the Abandoned Ship.                                                                                                                                                                      | Unlocks room 1 on the []{location:abandoned-ship}.                                                                                                                                                                                                                                                                                            |
@@ -979,49 +1149,73 @@ FRLG: A meteorite to be delivered to Lostelle's father.                         
 :   Restores 20 [HP]{mechanic:hp}.                                                                                                                                                                                                                                                                                 |
 | 568     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 569     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 570     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 571     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 572     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 573     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 574     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 575     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 576     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 577     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
 | 578     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
 
+# Item prose
+
 Held
 :   Holder cannot be placed in the PC.  A |
 | 579     | 9                 | Lets a Trainer write a message and send it via Pokémon trade.                                                                                                                                              | Used to send short messages to other players via Pokémon trading.  Trainer may compose a message from a finite list of words when giving this item to a Pokémon.  Once taken and read, a message may be erased and this item can be reused, or the message may be stored in the trainer's PC.
+
+# Item prose
 
 Held
 :   Holder cannot be placed in the PC.  A |
@@ -1036,7 +1230,11 @@ Held
 | 584     | 9                 | Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.                                                                                   | Held
 :   Holder is immune to []{type:ground}-type moves, []{move:spikes}, []{move:toxic-spikes}, and []{ability:arena-trap}.
 
+# Item prose
+
     This effect does not apply during []{move:gravity} or []{move:ingrain}.
+
+# Item prose
 
     When the holder takes damage from a move, this item is consumed.                                                               |
 | 585     | 9                 | Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use.                                                                            | Held
@@ -1101,6 +1299,8 @@ This effect does not activate if another effect prevents the holder from switchi
 | 615     | 9                 | Allows access to Liberty Garden and Victini.                                                                                                                                                               | Allows passage on the []{location:castelia-city} ship, which leads to []{location:liberty-garden} and []{pokemon:victini}.                                                                                                                                                                                                                    |
 | 616     | 9                 | Activates Pass Powers.                                                                                                                                                                                     | Acts as currency to activate Pass Powers in the Entralink.                                                                                                                                                                                                                                                                                    |
 | 617     | 9                 | Catches Pokémon found in the Dream World.                                                                                                                                                                  | Can only be used in Entree Forest, to catch Pokémon encountered in the Dream World.
+
+# Item prose
 
 Used in battle
 :   [Catches]{mechanic:catch} a wild Pokémon without fail.                                                                                                                                                                                |
@@ -1175,25 +1375,37 @@ This item can only be obtained or used via the Wonder Launcher.                 
 | 650     | 9                 | Raises [Attack]{mechanic:attack} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.                                                                                                         | Used on a party Pokémon in battle
 :   Raises the target's [Attack]{mechanic:attack} by six [stages]{mechanic:stage}.
 
+# Item prose
+
 This item can only be obtained or used via the Wonder Launcher.                                                                                                                                                         |
 | 651     | 9                 | Raises [accuracy]{mechanic:accuracy} by six [stages]{mechanic:stage} in battle.  Wonder Launcher only.                                                                                                     | Used on a party Pokémon in battle
 :   Raises the target's [accuracy]{mechanic:accuracy} by six [stages]{mechanic:stage}.
+
+# Item prose
 
 This item can only be obtained or used via the Wonder Launcher.                                                                                                                                                     |
 | 652     | 9                 | Forcibly activates a friendly Pokémon's ability.                                                                                                                                                           | Used on a party Pokémon in battle
 :   Selects another friendly Pokémon at random.  If that Pokémon's ability is normally activated by some condition—i.e., is not continuous and passive—its effect is forcibly activated.
 
+# Item prose
+
 This item can only be obtained or used via the Wonder Launcher.                                                   |
 | 653     | 9                 | Forces a friendly Pokémon to drop its held item.                                                                                                                                                           | Used on a party Pokémon in battle
 :   Selects another friendly Pokémon at random.  If that Pokémon is holding an item, that item is removed for the duration of the battle.
+
+# Item prose
 
 This item can only be obtained or used via the Wonder Launcher.                                                                                                  |
 | 654     | 9                 | Forcibly activates a friendly Pokémon's held item.                                                                                                                                                         | Used on a party Pokémon in battle
 :   Selects another friendly Pokémon at random.  If that Pokémon is holding an item normally activated by some condition—i.e., not continuous and passive—its effect is forcibly activated.
 
+# Item prose
+
 This item can only be obtained or used via the Wonder Launcher.                                                |
 | 655     | 9                 | Resets a friendly Pokémon's stat changes.                                                                                                                                                                  | Used on a party Pokémon in battle
 :   Selects another friendly Pokémon at random.  Removes all of that Pokémon's stat changes.
+
+# Item prose
 
 This item can only be obtained or used via the Wonder Launcher.                                                                                                                                               |
 | 656     | 9                 | Raises [critical hit]{mechanic:critical-hit} rate by three [stages]{mechanic:stage} in battle.  Wonder Launcher only.                                                                                      | Used on a party Pokémon in battle
@@ -1383,6 +1595,8 @@ This item can only be obtained or used via the Wonder Launcher.                 
 | 886     | 9                 | Allows the player to summon a Ride Pokémon.                                                                                                                                                                | Allows the player to summon a Ride Pokémon.  Unused, as this can be done simply by pressing Y.                                                                                                                                                                                                                                                |
 | 887     | 9                 | Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.                                                                                                        | Used in battle
 :   Attempts to [catch]{mechanic:catch} a wild Pokémon.  If the wild Pokémon is an Ultra Beast, this ball has a catch rate of 5×.  Otherwise, it has a catch rate of 0.1×.
+
+# Item prose
 
     If used in a trainer battle, nothing happens and the ball is lost.                                                                             |
 | 888     | 9                 | Cures major status ailments and confusion.                                                                                                                                                                 | Cures major status ailments and confusion.                                                                                                                                                                                                                                                                                                    |

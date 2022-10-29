@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor text
+
 |  species_id | version_id | language_id | flavor_text |
 |-------------|------------|-------------|-------------|
 |  249 |   15 |    9 |      It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong. |

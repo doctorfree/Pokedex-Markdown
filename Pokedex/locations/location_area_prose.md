@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Location area prose
+
 | location_area_id | local_language_id |             name              |
 |------------------|-------------------|-------------------------------|
 | 1                | 9                 |                               |

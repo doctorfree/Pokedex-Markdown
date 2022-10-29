@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Types
+
 |  id   | identifier | generation_id | damage_class_id |
 |-------|------------|---------------|-----------------|
 | 1     | normal     | 1             | 2               |

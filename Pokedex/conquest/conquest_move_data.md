@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest move data
+
 | move_id | power | accuracy | effect_chance | effect_id | range_id | displacement_id |
 |---------|-------|----------|---------------|-----------|----------|-----------------|
 | 1       | 26    | 100      |               | 60        | 2        |                 |

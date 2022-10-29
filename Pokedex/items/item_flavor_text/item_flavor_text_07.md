@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  229       18 |  |  4 |      內部儲存了各種 資訊的透明機器。 西爾佛公司製造。 |

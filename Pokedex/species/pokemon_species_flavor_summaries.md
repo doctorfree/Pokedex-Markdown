@@ -6,3 +6,5 @@ categories:
     - pokemon
 ---
 
+# Pokemon species flavor summaries
+

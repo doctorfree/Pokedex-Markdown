@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Encounter condition value prose
+
 | encounter_condition_value_id | local_language_id |              name              |
 |------------------------------|-------------------|--------------------------------|
 | 1                            | 6                 | Während eines Schwarms         |

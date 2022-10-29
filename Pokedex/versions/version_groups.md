@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Version groups
+
 | id |          identifier           | generation_id | order |
 |----|-------------------------------|---------------|-------|
 | 1  | red-blue                      | 1             | 1     |

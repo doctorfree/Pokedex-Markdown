@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# items
+# Items index
 
 Index of items category
 

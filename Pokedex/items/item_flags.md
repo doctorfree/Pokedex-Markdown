@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flags
+
 | id |    identifier    |
 |----|------------------|
 | 1  | countable        |

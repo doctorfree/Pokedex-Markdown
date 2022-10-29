@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Item flavor text
+
 |  item_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  421       11 |  |  9 |      A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins. |

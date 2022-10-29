@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Move flavor text
+
 |  move_id | version_group_id | language_id | flavor_text |
 |----------|------------------|-------------|-------------|
 |  698       18 |  |  11 |     Ｚパワーで　アローラの　力を　得た とちがみポケモン　全力の　攻撃。 相手の　残りＨＰを　たくさん　減らす。 |

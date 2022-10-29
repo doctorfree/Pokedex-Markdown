@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest warrior stat names
+
 | warrior_stat_id | local_language_id |   name   |
 |-----------------|-------------------|----------|
 | 1               | 9                 | Power    |

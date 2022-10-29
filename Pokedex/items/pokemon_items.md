@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Pokemon items
+
 | pokemon_id | version_id | item_id | rarity |
 |------------|------------|---------|--------|
 | 12         | 7          | 199     | 5      |

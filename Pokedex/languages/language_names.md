@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Language names
+
 | language_id | local_language_id |       name       |
 |-------------|-------------------|------------------|
 | 1           | 1                 | 日本語              |

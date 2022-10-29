@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Conquest pokemon abilities
+
 | pokemon_species_id | slot | ability_id |
 |--------------------|------|------------|
 | 4                  | 1    | 66         |

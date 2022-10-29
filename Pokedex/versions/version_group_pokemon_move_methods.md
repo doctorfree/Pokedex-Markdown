@@ -6,6 +6,8 @@ categories:
     - pokemon
 ---
 
+# Version group pokemon move methods
+
 | version_group_id | pokemon_move_method_id |
 |------------------|------------------------|
 | 1                | 1                      |
