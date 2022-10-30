@@ -1,7 +1,7 @@
 # Bulbasaur
 
 
-![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)
+![Bulbasaur](images/001.png)
 
 | **Name** | **J-name** |**Tm-name** |**Index** |**Type 1** |**Type 2** |
 |----|----|----|----|----|----|
