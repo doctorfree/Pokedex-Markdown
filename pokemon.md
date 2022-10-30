@@ -45,7 +45,7 @@ Jump directly to one of the Pokédex categories:
 
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
-| 001 | [Bulbasaur](Pokemon/bulbasaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Bulbasaur](Pokemon/images/001.png)|
+| 001 | [Bulbasaur](Pokemon/Bulbasaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Bulbasaur](Pokemon/images/001.png)|
 | 002 | Ivysaur | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Ivysaur](Pokemon/images/002.png)|
 | 003 | Venusaur | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Venusaur](Pokemon/images/003.png)|
 |004|Charmander|![Fire](Pokemon/gif/Type_Fire.gif)|![Charmander](Pokemon/images/004.png)|
