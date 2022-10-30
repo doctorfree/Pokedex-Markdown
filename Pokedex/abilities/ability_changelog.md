@@ -8,8 +8,8 @@ categories:
 
 # Ability changelog
 
-| id | ability_id | changed_in_version_group_id |
-|----|------------|-----------------------------|
+| **Id** | **Ability id** | **Changed in version group id** |
+|--------|----------------|---------------------------------|
 | 1  | 1          | 11                          |
 | 2  | 5          | 11                          |
 | 3  | 9          | 6                           |

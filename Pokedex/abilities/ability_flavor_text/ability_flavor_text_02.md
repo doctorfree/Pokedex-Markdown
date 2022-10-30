@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  43 |   16 | 8 |     Fornisce immunità alle mosse basate sul suono. |
 |  43 |   16 | 9 |     Gives full immunity to all sound-based moves. |
 |  43 |   16 | 11 |    音の　技を 受けない。 |

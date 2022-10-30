@@ -8,8 +8,8 @@ categories:
 
 # Abilities
 
-|  id   |    identifier    | generation_id | is_main_series |
-|-------|------------------|---------------|----------------|
+| **Id** | **Identifier** | **Generation id** | **Is main series** |
+|--------|----------------|-------------------|--------------------|
 | 1     | stench           | 3             | 1              |
 | 2     | drizzle          | 3             | 1              |
 | 3     | speed-boost      | 3             | 1              |

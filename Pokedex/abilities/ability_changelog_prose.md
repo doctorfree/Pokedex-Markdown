@@ -8,8 +8,8 @@ categories:
 
 # Ability changelog prose
 
-| ability_changelog_id | local_language_id |                                                                                                effect                                                                                                 |
-|----------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ability changelog id** | **Local language id** | **Effect** |
+|--------------------------|-----------------------|------------|
 | 1                    | 6                 | Hat im Kampf keinen Effekt.                                                                                                                                                                           |
 | 1                    | 9                 | Has no effect in battle.                                                                                                                                                                              |
 | 2                    | 6                 | Verhindert keine regulären K.O. bei vollen []{mechanic:hp}.                                                                                                                                           |

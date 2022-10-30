@@ -8,8 +8,8 @@ categories:
 
 # Ability prose
 
-|  Ability id | Local language id | Short effect | Effect                                 |
-|-------------|-------------------|--------------|----------------------------------------|
+| **Ability id** | **Local language id** | **Short effect** | **Effect** |
+|----------------|-----------------------|------------------|------------|
 |  1          | 6                 | Mit jedem Treffer besteht eine 10% Chance das Ziel \[zurückschrecken\]{mechanic:flinch} zu lassen. |         Attacken die Schaden verursachen haben mit jedem Treffer eine 10% Chance das Ziel \[zurückschrecken\]{mechanic:flinch} zu lassen, wenn die Attacke dies nicht bereits als Nebeneffekt hat. Der Effekt stapelt nicht mit dem von getragenen Items. Außerhalb vom Kampf: Wenn ein Pokémon mit dieser Fähigkeit an erster Stelle im Team steht, tauchen wilde Pokémon nur halb so oft auf. |
 |  1          | 9                | Has a 10% chance of making target Pokémon \[flinch\]{mechanic:flinch} with each hit. |                       This Pokémon\'s damaging moves have a 10% chance to make the target \[flinch\]{mechanic:flinch} with each hit if they do not already cause flinching as a secondary effect. This ability does not stack with a held item. Overworld: The wild encounter rate is halved while this Pokémon is first in the party. |
 |  2          | 6                | Ändert beim Betreten des Kampfes das \[\]{mechanic:weather} in \[\]{mechanic:rain}. |                        Das \[\]{mechanic:weather} ändert sich zu \[\]{mechanic:rain} wenn ein Pokémon mit dieser Fähigkeit den Kampf betritt. Dieser Effekt ist dauerhaft bis das \[\]{mechanic:weather} geändert wird. Wenn mehrere Pokémon mit dieser Fähigkeit, \[\]{ability:drought}, \[\]{ability:sand-stream} oder \[\]{ability:snow-warning} zur selben Zeit den Kampf betreten, werden die Fähigkeiten nach Reihenfolge der \[\]{mechanic:speed} der Pokémon ausgelöst, unter Berücksichtigung von \[\]{move:trick-room}. |

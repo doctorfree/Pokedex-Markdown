@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  22 |   15 | 3 |     상대의 공격을 떨어뜨린다. |
 |  22 |   15 | 5 |     Baisse l'Attaque ennemie. |
 |  22 |   15 | 6 |     Senkt Angriff des Gegners. |

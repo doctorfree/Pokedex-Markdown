@@ -8,8 +8,8 @@ categories:
 
 # Pokemon abilities
 
-| pokemon_id | ability_id | is_hidden | slot |
-|------------|------------|-----------|------|
+| **Pokemon id** | **Ability id** | **Is hidden** | **Slot** |
+|----------------|----------------|---------------|----------|
 | 1          | 65         | 0         | 1    |
 | 1          | 34         | 1         | 3    |
 | 2          | 65         | 0         | 1    |

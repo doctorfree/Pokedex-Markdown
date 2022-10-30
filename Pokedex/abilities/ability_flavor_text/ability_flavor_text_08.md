@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  178 |  16 | 8 |     Potenzia le mosse "pulsar" e altre come Ondasana. |
 |  178 |  16 | 9 |     Powers up aura and pulse moves. |
 |  178 |  16 | 11 |    はどうの　技の 威力が　高い。 |

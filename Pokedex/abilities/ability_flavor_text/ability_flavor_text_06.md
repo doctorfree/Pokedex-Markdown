@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  130 |  20 | 5 |     Quand le Pokémon est touché par une capacité, il inflige parfois Entrave sur celle-ci. |
 |  130 |  20 | 6 |     Blockiert eventuell die Attacke, mit welcher der Angreifer es getroffen hat. |
 |  130 |  20 | 7 |     Puede anular el movimiento usado en su contra. |

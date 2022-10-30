@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  1 |    5 |  9 |     Helps repel wild POKéMON. |
 |  1 |    6 |  9 |     Helps repel wild POKéMON. |
 |  1 |    7 |  9 |     Helps repel wild POKéMON. |

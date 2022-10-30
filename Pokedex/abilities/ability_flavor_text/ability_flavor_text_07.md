@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  154 |  16 | 5 |     Monte l'Attaque si une attaque Ténèbres le touche. |
 |  154 |  16 | 6 |     Angriff steigt nach Einstecken einer Unlicht-Attacke. |
 |  154 |  16 | 7 |     Sube el Ataque al recibir uno de tipo Siniestro. |

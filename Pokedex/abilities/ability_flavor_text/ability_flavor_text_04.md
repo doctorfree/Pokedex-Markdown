@@ -8,8 +8,8 @@ categories:
 
 # Ability flavor text
 
-| ability_id | version_group_id | language_id | flavor_text |
-|------------|------------------|-------------|-------------|
+| **Ability id** | **Version group id** | **Language id** | **Flavor text** |
+|----------------|----------------------|-----------------|-----------------|
 |  86 |   15 | 5 |     Le Pokémon est sujet à des variations de stats. |
 |  86 |   15 | 6 |     Das Pokémon ist anfällig für Statusveränderungen. |
 |  86 |   15 | 7 |     Aumenta los cambios en las características. |
