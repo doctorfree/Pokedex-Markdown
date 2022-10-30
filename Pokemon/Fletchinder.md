@@ -1,7 +1,7 @@
 # Fletchinder
 
 
-![Fletchinder](images/662.png)
+![Fletchinder](images/662r.png)
 
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|

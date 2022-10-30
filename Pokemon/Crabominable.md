@@ -1,7 +1,7 @@
 # Crabominable
 
 
-![Crabominable](images/740.png)
+![Crabominable](images/740le.png)
 
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|
