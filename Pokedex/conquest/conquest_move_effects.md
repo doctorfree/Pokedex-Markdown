@@ -8,8 +8,8 @@ categories:
 
 # Conquest move effects
 
-| id |
-|----|
+| **Id** |
+|--------|
 | 1  |
 | 2  |
 | 3  |

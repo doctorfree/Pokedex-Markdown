@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior ranks
 
-| id  | warrior_id | rank | skill_id |
-|-----|------------|------|----------|
+| **Id**  | **Warrior id** | **rank** | **Skill id** |
+|---------|----------------|----------|--------------|
 | 1   | 1          | 1    | 3        |
 | 2   | 1          | 2    | 24       |
 | 3   | 1          | 3    | 25       |

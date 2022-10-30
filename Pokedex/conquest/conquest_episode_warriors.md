@@ -8,8 +8,8 @@ categories:
 
 # Conquest episode warriors
 
-| episode_id | warrior_id |
-|------------|------------|
+| **Episode id** | **Warrior id** |
+|----------------|----------------|
 | 1          | 1          |
 | 1          | 2          |
 | 2          | 3          |

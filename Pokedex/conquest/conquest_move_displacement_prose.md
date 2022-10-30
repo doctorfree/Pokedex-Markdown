@@ -8,8 +8,8 @@ categories:
 
 # Conquest move displacement prose
 
-| move_displacement_id | local_language_id |        name        |                                 short_effect                                 |                                                                                            effect                                                                                            |
-|----------------------|-------------------|--------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Move displacement id** | **Local language id** | **Name** | **Short effect** | **Effect** |
+|--------------------------|-----------------------|----------|------------------|------------|
 | 1                    | 9                 | Advance one tile   | User advances one tile.                                                      | The user moves to the tile directly in front of it.  If the user cannot move to that tile or another Pokémon is already occupying that tile, the move cannot be used.                        |
 | 2                    | 9                 | Advance two tiles  | User jumps ahead two tiles.                                                  | The user jumps ahead two tiles without crossing the tile in-between.  If the user cannot move to that tile or another Pokémon is already occupying that tile, the move cannot be used.       |
 | 3                    | 9                 | Switch back        | User retreats one tile, switching places with any Pokémon already there.     | The user moves to the tile behind it, if it can move to that tile.  If another Pokémon is already occupying that tile, the user switches places with it.                                     |

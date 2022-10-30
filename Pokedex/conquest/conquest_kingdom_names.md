@@ -8,8 +8,8 @@ categories:
 
 # Conquest kingdom names
 
-| kingdom_id | local_language_id |   name    |
-|------------|-------------------|-----------|
+| **Kingdom id** | **Local language id** |   **Name**    |
+|----------------|-----------------------|---------------|
 | 1          | 9                 | Aurora    |
 | 2          | 9                 | Ignis     |
 | 3          | 9                 | Fontaine  |

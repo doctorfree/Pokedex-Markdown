@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior transformation
 
-| transformed_warrior_rank_id | is_automatic | required_link | completed_episode_id | current_episode_id | distant_warrior_id | female_warlord_count | pokemon_count | collection_type_id | warrior_count |
-|-----------------------------|--------------|---------------|----------------------|--------------------|--------------------|----------------------|---------------|--------------------|---------------|
+| **Transformed warrior rank id** | **Is automatic** | **Required link** | **Completed episode id** | **Current episode id** | **Distant warrior id** | **Female warlord count** | **Pokemon count** | **Collection type id** | **Warrior count** |
+|---------------------------------|------------------|-------------------|--------------------------|------------------------|------------------------|--------------------------|-------------------|------------------------|-------------------|
 | 2                           | 1            |               |                      |                    |                    |                      |               |                    |               |
 | 3                           | 0            | 80            |                      | 38                 |                    |                      |               |                    |               |
 | 5                           | 1            |               |                      |                    |                    |                      |               |                    |               |

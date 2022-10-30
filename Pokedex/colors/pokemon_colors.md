@@ -8,8 +8,8 @@ categories:
 
 # Pokémon colors
 
-| Id | Identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | black      |
 | 2  | blue       |
 | 3  | brown      |

@@ -8,8 +8,8 @@ categories:
 
 # Conquest max links
 
-| warrior_rank_id | pokemon_species_id | max_link |
-|-----------------|--------------------|----------|
+| **Warrior rank id** | **Pokemon species id** | **Max link** |
+|---------------------|------------------------|--------------|
 | 218             | 545                | 54       |
 | 218             | 546                | 42       |
 | 218             | 547                | 42       |

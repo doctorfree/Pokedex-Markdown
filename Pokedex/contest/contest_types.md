@@ -8,8 +8,8 @@ categories:
 
 # Contest types
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | cool       |
 | 2  | beauty     |
 | 3  | cute       |

@@ -8,8 +8,8 @@ categories:
 
 # Characteristic text
 
-| Characteristic id | Local language id |                   message                   |
-|-------------------|-------------------|---------------------------------------------|
+| **Characteristic id** | **Local language id** | **Message** |
+|-----------------------|-----------------------|-------------|
 | 1                 | 1                 | たべるのが　だいすき                                  |
 | 1                 | 3                 | 먹는 것을 제일 좋아함                                |
 | 1                 | 4                 | 非常喜歡吃東西                                     |

@@ -8,8 +8,8 @@ categories:
 
 # Pokémon color names
 
-| Pokémon color id | Local language id |   name   |
-|------------------|-------------------|----------|
+| **Pokémon color id** | **Local language id** |   **Name**   |
+|----------------------|-----------------------|--------------|
 | 1                | 1                 | くろいろ     |
 | 1                | 3                 | 검정       |
 | 1                | 4                 | 黑色       |

@@ -8,8 +8,8 @@ categories:
 
 # Conquest move ranges
 
-| id |    identifier    | targets |
-|----|------------------|---------|
+| **Id** |    **Identifier**    | **Targets** |
+|--------|----------------------|-------------|
 | 1  | user             | 1       |
 | 2  | tile-1-ahead     | 1       |
 | 3  | column-2-tiles   | 2       |

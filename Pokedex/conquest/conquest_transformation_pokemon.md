@@ -8,8 +8,8 @@ categories:
 
 # Conquest transformation pokemon
 
-| transformation_id | pokemon_species_id |
-|-------------------|--------------------|
+| **Transformation id** | **Pokemon species id** |
+|-----------------------|------------------------|
 | 3                 | 133                |
 | 3                 | 134                |
 | 3                 | 135                |

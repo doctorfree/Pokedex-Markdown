@@ -8,8 +8,8 @@ categories:
 
 # Conquest stat names
 
-| conquest_stat_id | local_language_id |   name    |
-|------------------|-------------------|-----------|
+| **Conquest stat id** | **Local language id** |   **Name**    |
+|----------------------|-----------------------|---------------|
 | 1                | 7                 | PS        |
 | 1                | 9                 | HP        |
 | 2                | 7                 | Ataque    |

@@ -8,8 +8,8 @@ categories:
 
 # Encounter condition value prose
 
-| encounter_condition_value_id | local_language_id |              name              |
-|------------------------------|-------------------|--------------------------------|
+| **Encounter condition value id** | **Local language id** |        **Name**        |
+|----------------------------------|-----------------------|------------------------|
 | 1                            | 6                 | Während eines Schwarms         |
 | 1                            | 9                 | During a swarm                 |
 | 2                            | 6                 | Außerhalb eines Schwarms       |

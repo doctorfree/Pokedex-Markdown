@@ -8,8 +8,8 @@ categories:
 
 # Conquest kingdoms
 
-| id | identifier | type_id |
-|----|------------|---------|
+| **Id** | **Identifier** | **Type id** |
+|--------|----------------|-------------|
 | 1  | aurora     | 1       |
 | 2  | ignis      | 10      |
 | 3  | fontaine   | 11      |

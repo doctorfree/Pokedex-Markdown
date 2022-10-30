@@ -8,8 +8,8 @@ categories:
 
 # Super contest effect prose
 
-| super_contest_effect_id | local_language_id |                       flavor_text                       |
-|-------------------------|-------------------|---------------------------------------------------------|
+| **Super contest effect id** | **Local language id** | **Flavor text** |
+|-----------------------------|-----------------------|-----------------|
 | 1                       | 9                 | Enables the user to perform first in the next turn.     |
 | 2                       | 9                 | Enables the user to perform last in the next turn.      |
 | 4                       | 9                 | Earn +2 if the Judge's Voltage goes up.                 |

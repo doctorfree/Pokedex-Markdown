@@ -8,8 +8,8 @@ categories:
 
 # Conquest transformation warriors
 
-| transformation_id | present_warrior_id |
-|-------------------|--------------------|
+| **Transformation id** | **Present warrior id** |
+|-----------------------|------------------------|
 | 43                | 21                 |
 | 45                | 20                 |
 | 55                | 12                 |

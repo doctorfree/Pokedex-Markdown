@@ -8,8 +8,8 @@ categories:
 
 # Conquest move displacements
 
-| id |    identifier    | affects_target |
-|----|------------------|----------------|
+| **Id** |    **Identifier**    | **Affects target** |
+|--------|----------------------|--------------------|
 | 1  | advance-1        | 0              |
 | 2  | advance-2        | 0              |
 | 3  | switch-back      | 0              |

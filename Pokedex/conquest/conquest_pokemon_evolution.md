@@ -8,8 +8,8 @@ categories:
 
 # Conquest pokemon evolution
 
-| evolved_species_id | required_stat_id | minimum_stat | minimum_link | kingdom_id | warrior_gender_id | item_id | recruiting_ko_required |
-|--------------------|------------------|--------------|--------------|------------|-------------------|---------|------------------------|
+| **Evolved species id** | **Required stat id** | **Minimum stat** | **Minimum link** | **Kingdom id** | **Warrior gender id** | **Item id** | **Recruiting ko required** |
+|------------------------|----------------------|------------------|------------------|----------------|-----------------------|-------------|----------------------------|
 | 5                  | 2                | 50           |              |            |                   |         | 0                      |
 | 6                  | 2                | 83           |              |            |                   |         | 0                      |
 | 24                 | 2                | 59           |              |            |                   |         | 0                      |

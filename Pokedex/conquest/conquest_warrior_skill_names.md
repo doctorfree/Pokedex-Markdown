@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior skill names
 
-| skill_id | local_language_id |      name       |
-|----------|-------------------|-----------------|
+| **Skill id** | **Local language id** |      **Name**       |
+|--------------|-----------------------|---------------------|
 | 1        | 9                 | Adrenaline      |
 | 2        | 9                 | Fortify         |
 | 3        | 9                 | Top Speed       |

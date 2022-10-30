@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior names
 
-| warrior_id | local_language_id |    name    |
-|------------|-------------------|------------|
+| **Warrior id** | **Local language id** |    **Name**    |
+|----------------|-----------------------|----------------|
 | 1          | 9                 | Player ♂   |
 | 2          | 9                 | Player ♀   |
 | 3          | 9                 | Nobunaga   |

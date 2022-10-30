@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior rank stat map
 
-| warrior_rank_id | warrior_stat_id | base_stat |
-|-----------------|-----------------|-----------|
+| **Warrior rank id** | **Warrior stat id** | **Base stat** |
+|---------------------|---------------------|---------------|
 | 1               | 1               | 65        |
 | 1               | 2               | 60        |
 | 1               | 3               | 65        |

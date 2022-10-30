@@ -8,8 +8,8 @@ categories:
 
 # Conquest move data
 
-| move_id | power | accuracy | effect_chance | effect_id | range_id | displacement_id |
-|---------|-------|----------|---------------|-----------|----------|-----------------|
+| **Move id** | **Power** | **Accuracy** | **Effect chance** | **Effect id** | **Range id** | Displacement id |
+|-------------|-----------|--------------|-------------------|---------------|--------------|-----------------|
 | 1       | 26    | 100      |               | 60        | 2        |                 |
 | 2       | 31    | 100      |               | 9         | 2        |                 |
 | 3       | 10    | 90       |               | 14        | 2        |                 |

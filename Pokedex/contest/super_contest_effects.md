@@ -8,8 +8,8 @@ categories:
 
 # Super contest effects
 
-| id | appeal |
-|----|--------|
+| **Id** | **Appeal** |
+|--------|------------|
 | 1  | 2      |
 | 2  | 2      |
 | 4  | 2      |

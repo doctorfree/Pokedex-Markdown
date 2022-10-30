@@ -8,8 +8,8 @@ categories:
 
 # Encounter method prose
 
-| encounter_method_id | local_language_id |                   name                   |
-|---------------------|-------------------|------------------------------------------|
+| **Encounter method id** | **Local language id** |             **Name**             |
+|-------------------------|-----------------------|----------------------------------|
 | 1                   | 6                 | Im hohen Gras oder in einer Höhle laufen |
 | 1                   | 9                 | Walking in tall grass or a cave          |
 | 2                   | 6                 | Mit einer normalen Angel angeln          |

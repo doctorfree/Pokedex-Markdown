@@ -8,8 +8,8 @@ categories:
 
 # Encounter condition value map
 
-| encounter_id | encounter_condition_value_id |
-|--------------|------------------------------|
+| **Encounter id** | **Encounter condition value id** |
+|------------------|----------------------------------|
 | 125          | 2                            |
 | 126          | 1                            |
 | 127          | 2                            |

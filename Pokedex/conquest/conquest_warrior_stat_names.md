@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior stat names
 
-| warrior_stat_id | local_language_id |   name   |
-|-----------------|-------------------|----------|
+| **Warrior stat id** | **Local language id** |   **Name**   |
+|---------------------|-----------------------|--------------|
 | 1               | 9                 | Power    |
 | 2               | 9                 | Wisdom   |
 | 3               | 9                 | Charisma |

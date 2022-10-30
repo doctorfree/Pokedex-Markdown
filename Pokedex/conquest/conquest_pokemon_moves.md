@@ -8,8 +8,8 @@ categories:
 
 # Conquest pokemon moves
 
-| pokemon_species_id | move_id |
-|--------------------|---------|
+| **Pokemon species id** | **Move id** |
+|------------------------|-------------|
 | 4                  | 52      |
 | 5                  | 424     |
 | 6                  | 53      |

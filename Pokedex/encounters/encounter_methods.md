@@ -8,8 +8,8 @@ categories:
 
 # Encounter methods
 
-| id |   identifier    | order |
-|----|-----------------|-------|
+| **Id** |   **Identifier**    | **Order** |
+|--------|---------------------|-----------|
 | 1  | walk            | 1     |
 | 2  | old-rod         | 10    |
 | 3  | good-rod        | 11    |

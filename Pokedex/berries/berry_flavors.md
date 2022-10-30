@@ -8,8 +8,8 @@ categories:
 
 # Berry Flavors
 
-| berry_id | contest_type_id | flavor |
-|----------|-----------------|--------|
+| **Berry id** | **Contest type id** | **Flavor** |
+|--------------|---------------------|------------|
 | 1        | 1               | 10     |
 | 1        | 2               | 0      |
 | 1        | 3               | 0      |

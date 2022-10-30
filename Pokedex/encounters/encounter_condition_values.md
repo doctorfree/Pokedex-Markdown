@@ -8,8 +8,8 @@ categories:
 
 # Encounter condition values
 
-| id | encounter_condition_id |   identifier    | is_default |
-|----|------------------------|-----------------|------------|
+| **Id** | **Encounter condition id** |   **Identifier**    | **Is default** |
+|--------|----------------------------|---------------------|----------------|
 | 1  | 1                      | swarm-yes       | 0          |
 | 2  | 1                      | swarm-no        | 1          |
 | 3  | 2                      | time-morning    | 0          |

@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior skills
 
-| id |   identifier    |
-|----|-----------------|
+| **Id** |   **Identifier**    |
+|--------|---------------------|
 | 1  | adrenaline      |
 | 2  | fortify         |
 | 3  | top-speed       |

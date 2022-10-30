@@ -8,8 +8,8 @@ categories:
 
 # Conquest move range prose
 
-| conquest_move_range_id | local_language_id |        name        |                                                                        description                                                                        |
-|------------------------|-------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Conquest move range id** | **Local language id** | **Name** | **Description** |
+|----------------------------|-----------------------|----------|-----------------|
 | 1                      | 9                 | User               | The user.                                                                                                                                                 |
 | 2                      | 9                 | Single tile        | A single tile directly in front of the user.                                                                                                              |
 | 3                      | 9                 | Two-tile column    | Two tiles in a column in front of the user.                                                                                                               |

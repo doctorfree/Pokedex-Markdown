@@ -8,8 +8,8 @@ categories:
 
 # Conquest episode names
 
-| episode_id | local_language_id |              name               |
-|------------|-------------------|---------------------------------|
+| **Episode id** | **Local language id** |        **Name**         |
+|----------------|-----------------------|-------------------------|
 | 1          | 7                 | La Leyenda de Ransei            |
 | 1          | 9                 | The Legend of Ransei            |
 | 2          | 7                 | El Camino hacia la Conquista    |

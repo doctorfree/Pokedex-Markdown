@@ -8,8 +8,8 @@ categories:
 
 # Conquest warriors
 
-| id  | identifier | gender_id | archetype_id |
-|-----|------------|-----------|--------------|
+| **Id**  | **Identifier** | **Gender id** | **Archetype id** |
+|---------|----------------|---------------|------------------|
 | 1   | player-m   | 2         |              |
 | 2   | player-f   | 1         |              |
 | 3   | nobunaga   | 2         |              |

@@ -6,7 +6,7 @@ categories:
     - pokemon
 ---
 
-# conquest_max_links
+# Conquest max links
 
 The Pokemon conquest max links markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.
 

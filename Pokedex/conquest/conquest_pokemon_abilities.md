@@ -8,8 +8,8 @@ categories:
 
 # Conquest pokemon abilities
 
-| pokemon_species_id | slot | ability_id |
-|--------------------|------|------------|
+| **Pokemon species id** | **Slot** | **Ability id** |
+|------------------------|----------|----------------|
 | 4                  | 1    | 66         |
 | 4                  | 2    | 10016      |
 | 4                  | 3    | 10028      |

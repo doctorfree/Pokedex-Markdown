@@ -8,8 +8,8 @@ categories:
 
 # Berry Firmness
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | very-soft  |
 | 2  | soft       |
 | 3  | hard       |

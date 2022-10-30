@@ -8,8 +8,8 @@ categories:
 
 # Conquest stats
 
-| id | identifier | is_base |
-|----|------------|---------|
+| **Id** | **Identifier** | **Is base** |
+|--------|----------------|-------------|
 | 1  | hp         | 1       |
 | 2  | attack     | 1       |
 | 3  | defense    | 1       |

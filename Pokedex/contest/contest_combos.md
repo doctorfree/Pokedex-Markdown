@@ -8,8 +8,8 @@ categories:
 
 # Contest combos
 
-| first_move_id | second_move_id |
-|---------------|----------------|
+| **First move id** | **Second move id** |
+|-------------------|--------------------|
 | 1             | 3              |
 | 1             | 21             |
 | 1             | 185            |

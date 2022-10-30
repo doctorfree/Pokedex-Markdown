@@ -8,8 +8,8 @@ categories:
 
 # Encounter conditions
 
-| id | identifier |
-|----|------------|
+| **Id** | **Identifier** |
+|--------|----------------|
 | 1  | swarm      |
 | 2  | time       |
 | 3  | radar      |

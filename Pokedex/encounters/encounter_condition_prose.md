@@ -8,8 +8,8 @@ categories:
 
 # Encounter condition prose
 
-| encounter_condition_id | local_language_id |               name                |
-|------------------------|-------------------|-----------------------------------|
+| **Encounter condition id** | **Local language id** |         **Name**          |
+|----------------------------|-----------------------|---------------------------|
 | 1                      | 5                 | Essaim                            |
 | 1                      | 6                 | Schwarm                           |
 | 1                      | 9                 | Swarm                             |

@@ -8,8 +8,8 @@ categories:
 
 # Super contest combos
 
-| first_move_id | second_move_id |
-|---------------|----------------|
+| **First move id** | **Second move id** |
+|-------------------|--------------------|
 | 74            | 345            |
 | 96            | 136            |
 | 111           | 205            |

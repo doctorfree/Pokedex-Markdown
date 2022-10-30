@@ -8,8 +8,8 @@ categories:
 
 # Contest type names
 
-| contest_type_id | local_language_id |     name     | flavor | color  |
-|-----------------|-------------------|--------------|--------|--------|
+| **Contest type id** | **Local language id** | **Name** | **Flavor** | **Color** |
+|---------------------|-----------------------|----------|------------|-----------|
 | 1               | 5                 | Sang-froid   | Épicé  | Rouge  |
 | 1               | 9                 | Cool         | Spicy  | Red    |
 | 2               | 5                 | Beauté       | Sec    | Bleu   |

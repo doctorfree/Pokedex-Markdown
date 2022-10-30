@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior archetypes
 
-| id |   identifier    |
-|----|-----------------|
+| **Id** |   **Identifier**    |
+|--------|---------------------|
 | 1  | armor-veteran   |
 | 2  | armor-officer   |
 | 3  | armor-helmet    |

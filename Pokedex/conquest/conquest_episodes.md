@@ -8,8 +8,8 @@ categories:
 
 # Conquest episodes
 
-| id |           identifier           |
-|----|--------------------------------|
+| **Id** |       **Identifier**       |
+|--------|----------------------------|
 | 1  | the-legend-of-ransei           |
 | 2  | the-road-to-conquest           |
 | 3  | happily-ever-after             |

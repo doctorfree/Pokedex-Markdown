@@ -8,8 +8,8 @@ categories:
 
 # Conquest pokemon stats
 
-| pokemon_species_id | conquest_stat_id | base_stat |
-|--------------------|------------------|-----------|
+| **Pokemon species id** | **Conquest stat id** | **Base stat** |
+|------------------------|----------------------|---------------|
 | 4                  | 1                | 188       |
 | 4                  | 2                | 125       |
 | 4                  | 3                | 97        |

@@ -11,4 +11,4 @@ categories:
 Index of characteristics category
 
 - [Characteristics](characteristics.md)
-- [Characteristic_text](characteristic_text.md)
+- [Characteristic text](characteristic_text.md)

@@ -8,8 +8,8 @@ categories:
 
 # Conquest warrior specialties
 
-| warrior_id | type_id | slot |
-|------------|---------|------|
+| **Warrior id** | **Type id** | **Slot** |
+|----------------|-------------|----------|
 | 1          | 1       | 1    |
 | 2          | 1       | 1    |
 | 3          | 13      | 2    |

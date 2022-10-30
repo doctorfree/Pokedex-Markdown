@@ -8,8 +8,8 @@ categories:
 
 # Berry Firmness Names
 
-| berry_firmness_id | local_language_id |    name     |
-|-------------------|-------------------|-------------|
+| **Berry firmness id** | **Local language id** |    **Name**     |
+|-----------------------|-----------------------|-----------------|
 | 1                 | 5                 | Très tendre |
 | 1                 | 7                 | Muy blanda  |
 | 1                 | 9                 | Very Soft   |

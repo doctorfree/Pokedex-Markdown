@@ -8,8 +8,8 @@ categories:
 
 # Encounter slots
 
-| id  | version_group_id | encounter_method_id | slot | rarity |
-|-----|------------------|---------------------|------|--------|
+| **Id**  | **Version group id** | **Encounter method id** | **Slot** | **Rarity** |
+|---------|----------------------|-------------------------|----------|------------|
 | 1   | 8                | 1                   | 1    | 20     |
 | 2   | 8                | 1                   | 2    | 20     |
 | 3   | 8                | 1                   | 3    | 10     |
