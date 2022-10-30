@@ -9,6 +9,16 @@
 
 **Celesteela** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 797 | Celesteela | 797 | 92 | 9999 | 285 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

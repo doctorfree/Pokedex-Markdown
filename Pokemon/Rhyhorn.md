@@ -9,6 +9,16 @@
 
 **Rhyhorn** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 111 | Rhyhorn | 111 | 10 | 1150 | 69 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

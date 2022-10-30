@@ -9,6 +9,16 @@
 
 **Terrakion** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 639 | Terrakion | 639 | 19 | 2600 | 290 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

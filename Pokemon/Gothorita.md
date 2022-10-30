@@ -9,6 +9,16 @@
 
 **Gothorita** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 575 | Gothorita | 575 | 7 | 180 | 137 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

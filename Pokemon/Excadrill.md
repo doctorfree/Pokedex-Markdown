@@ -9,6 +9,16 @@
 
 **Excadrill** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 530 | Excadrill | 530 | 7 | 404 | 178 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

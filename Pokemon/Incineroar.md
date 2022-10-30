@@ -9,6 +9,16 @@
 
 **Incineroar** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 727 | Incineroar | 727 | 18 | 830 | 265 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

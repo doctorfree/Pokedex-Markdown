@@ -9,6 +9,16 @@
 
 **Kyurem** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 646 | Kyurem | 646 | 30 | 3250 | 330 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

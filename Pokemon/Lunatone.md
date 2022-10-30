@@ -9,6 +9,16 @@
 
 **Lunatone** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 337 | Lunatone | 337 | 10 | 1680 | 161 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

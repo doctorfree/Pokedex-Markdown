@@ -9,6 +9,16 @@
 
 **Dwebble** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 557 | Dwebble | 557 | 3 | 145 | 65 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

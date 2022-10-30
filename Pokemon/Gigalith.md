@@ -9,6 +9,16 @@
 
 **Gigalith** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 526 | Gigalith | 526 | 17 | 2600 | 258 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

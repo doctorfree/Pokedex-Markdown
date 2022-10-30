@@ -9,6 +9,16 @@
 
 **Liepard** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 510 | Liepard | 510 | 11 | 375 | 156 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

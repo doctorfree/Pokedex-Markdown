@@ -9,6 +9,16 @@
 
 **Ditto** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 132 | Ditto | 132 | 3 | 40 | 101 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

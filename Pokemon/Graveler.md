@@ -9,6 +9,16 @@
 
 **Graveler** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 75 | Graveler | 75 | 10 | 1050 | 137 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

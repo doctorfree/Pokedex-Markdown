@@ -9,6 +9,16 @@
 
 **Krookodile** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 553 | Krookodile | 553 | 15 | 963 | 260 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

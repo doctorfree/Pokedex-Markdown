@@ -9,6 +9,16 @@
 
 **Jellicent** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 593 | Jellicent | 593 | 22 | 1350 | 168 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

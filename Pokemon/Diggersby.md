@@ -9,6 +9,16 @@
 
 **Diggersby** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 660 | Diggersby | 660 | 10 | 424 | 148 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

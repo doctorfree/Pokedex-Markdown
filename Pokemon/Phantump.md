@@ -9,6 +9,16 @@
 
 **Phantump** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 708 | Phantump | 708 | 4 | 70 | 62 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)

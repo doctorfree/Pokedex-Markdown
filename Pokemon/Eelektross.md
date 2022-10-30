@@ -9,6 +9,16 @@
 
 **Eelektross** 
 
+
+Height is measured in decimeters (1/10th of a meter)
+
+Weight is measured in hectograms (1/10th of a kilogram)
+
+| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+|--------|----------|----------------|------------|------------|---------------------|
+| 604 | Eelektross | 604 | 21 | 805 | 232 |
+
+
 ## See also
 
 [List of Pokémon](../pokemon.md)
