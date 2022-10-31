@@ -48,58 +48,58 @@ Jump directly to one of the Pokédex categories:
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
 | 001 | [Bulbasaur](Pokemon/Bulbasaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Bulbasaur](Pokemon/images/001.png)|
-| 002 | Ivysaur | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Ivysaur](Pokemon/images/002.png)|
-| 003 | Venusaur | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Venusaur](Pokemon/images/003.png)|
-|004|Charmander|![Fire](Pokemon/gif/Type_Fire.gif)|![Charmander](Pokemon/images/004.png)|
-| 005 |Charmeleon|![Fire](Pokemon/gif/Type_Fire.gif)|![Charmeleon](Pokemon/images/005.png)|
-| 006 | Charizard | ![Fire](Pokemon/gif/Type_Fire.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![charizard](Pokemon/images/006.png)|
-| 007 | Squirtle | ![Water](Pokemon/gif/Type_Water.gif) | ![Squirtle](Pokemon/images/007.png)|
-| 008 | Wartortle |![Water](Pokemon/gif/Type_Water.gif)|![Wartortle](Pokemon/images/008.png)|
-| 009 | Blastoise |![Water](Pokemon/gif/Type_Water.gif)|![Blastoise](Pokemon/images/009.png)|
-| 010 | Caterpie | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Caterpie](Pokemon/images/010.png)|
-| 011 | Metapod | ![Bug](Pokemon/gif/Type_Bug.gif) | ![Metapod](Pokemon/images/011.png)|
-| 012 | Butterfree | ![Bug](Pokemon/gif/Type_Bug.gif) | ![Butterfree](Pokemon/images/012.png)|
-| 013 |Weedle|![Bug](Pokemon/gif/Type_Bug.gif)/![Poison](Pokemon/gif/Type_Poison.gif)|![Weedle](Pokemon/images/013.png)|
-| 014 |Kakuna|![Bug](Pokemon/gif/Type_Bug.gif)/![Poison](Pokemon/gif/Type_Poison.gif)|![Kakuna](Pokemon/images/014.png)|
-| 015 | Beedrill  | ![Poison](Pokemon/gif/Type_Poison.gif)| ![Beedrill](Pokemon/images/015.png)| 
-| 016 | Pidgey | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Pidgey](Pokemon/images/016.png)|
-| 017 |Pidgeotto|![Flying](Pokemon/gif/Type_Flying.gif) |![Pidgeotto](Pokemon/images/017.png)|
-| 018 |Pidgeot|![Flying](Pokemon/gif/Type_Flying.gif)|![Pidgeot](Pokemon/images/018.png)|
-| 019 | Rattata | ![Normal](Pokemon/gif/Type_Normal.gif)| ![Rattata](Pokemon/images/019.png)|
-| 020 | Raticate | ![Normal](Pokemon/gif/Type_Normal.gif) | ![Raticate](Pokemon/images/020.png)|
-| 021 | Spearow | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Spearow](Pokemon/images/021.png)|
-| 022 | Fearow | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Fearow](Pokemon/images/022.png)|
-| 023  | Ekans | ![Poison](Pokemon/gif/Type_Poison.gif)| ![Ekans](Pokemon/images/023.png)|  
-| 024 |Arbok   |![Poison](Pokemon/gif/Type_Poison.gif)|![Arbok](Pokemon/images/024.png)  |
-| 025 | Pikachu | ![Electric](Pokemon/gif/Type_Electric.gif)| ![Pikachu](Pokemon/images/025.png)|
-| 026 | Raichu | ![Electric](Pokemon/gif/Type_Electric.gif)| ![Raichu](Pokemon/images/026.png)|
-| 027 | Sandshrew | ![Ground](Pokemon/gif/Type_Ground.gif)| ![Sandshrew](Pokemon/images/027.png)|
-| 028 | Sandslash | ![Ground](Pokemon/gif/Type_Ground.gif)| ![Sandslash](Pokemon/images/028.png)|
+| 002 | [Ivysaur](Pokemon/Ivysaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Ivysaur](Pokemon/images/002.png)|
+| 003 | [Venusaur](Pokemon/Venusaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Venusaur](Pokemon/images/003.png)|
+|004|[Charmander](Pokemon/Charmander.md)|![Fire](Pokemon/gif/Type_Fire.gif)|![Charmander](Pokemon/images/004.png)|
+| 005 |[Charmeleon](Pokemon/Charmeleon.md)|![Fire](Pokemon/gif/Type_Fire.gif)|![Charmeleon](Pokemon/images/005.png)|
+| 006 | [Charizard](Pokemon/Charizard.md) | ![Fire](Pokemon/gif/Type_Fire.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![charizard](Pokemon/images/006.png)|
+| 007 | [Squirtle](Pokemon/Squirtle.md) | ![Water](Pokemon/gif/Type_Water.gif) | ![Squirtle](Pokemon/images/007.png)|
+| 008 | [Wartortle](Pokemon/Wartortle.md) |![Water](Pokemon/gif/Type_Water.gif)|![Wartortle](Pokemon/images/008.png)|
+| 009 | [Blastoise](Pokemon/Blastoise.md) |![Water](Pokemon/gif/Type_Water.gif)|![Blastoise](Pokemon/images/009.png)|
+| 010 | [Caterpie](Pokemon/Caterpie.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Caterpie](Pokemon/images/010.png)|
+| 011 | [Metapod](Pokemon/Metapod.md) | ![Bug](Pokemon/gif/Type_Bug.gif) | ![Metapod](Pokemon/images/011.png)|
+| 012 | [Butterfree](Pokemon/Butterfree.md) | ![Bug](Pokemon/gif/Type_Bug.gif) | ![Butterfree](Pokemon/images/012.png)|
+| 013 |[Weedle](Pokemon/Weedle.md)|![Bug](Pokemon/gif/Type_Bug.gif)/![Poison](Pokemon/gif/Type_Poison.gif)|![Weedle](Pokemon/images/013.png)|
+| 014 |[Kakuna](Pokemon/Kakuna.md)|![Bug](Pokemon/gif/Type_Bug.gif)/![Poison](Pokemon/gif/Type_Poison.gif)|![Kakuna](Pokemon/images/014.png)|
+| 015 | [Beedrill](Pokemon/Beedrill.md)  | ![Poison](Pokemon/gif/Type_Poison.gif)| ![Beedrill](Pokemon/images/015.png)|
+| 016 | [Pidgey](Pokemon/Pidgey.md) | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Pidgey](Pokemon/images/016.png)|
+| 017 |[Pidgeotto](Pokemon/Pidgeotto.md)|![Flying](Pokemon/gif/Type_Flying.gif) |![Pidgeotto](Pokemon/images/017.png)|
+| 018 |[Pidgeot](Pokemon/Pidgeot.md)|![Flying](Pokemon/gif/Type_Flying.gif)|![Pidgeot](Pokemon/images/018.png)|
+| 019 | [Rattata](Pokemon/Rattata.md) | ![Normal](Pokemon/gif/Type_Normal.gif)| ![Rattata](Pokemon/images/019.png)|
+| 020 | [Raticate](Pokemon/Raticate.md) | ![Normal](Pokemon/gif/Type_Normal.gif) | ![Raticate](Pokemon/images/020.png)|
+| 021 | [Spearow](Pokemon/Spearow.md) | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Spearow](Pokemon/images/021.png)|
+| 022 | [Fearow](Pokemon/Fearow.md) | ![Flying](Pokemon/gif/Type_Flying.gif) | ![Fearow](Pokemon/images/022.png)|
+| 023  | [Ekans](Pokemon/Ekans.md) | ![Poison](Pokemon/gif/Type_Poison.gif)| ![Ekans](Pokemon/images/023.png)|
+| 024 |[Arbok](Pokemon/Arbok.md)   |![Poison](Pokemon/gif/Type_Poison.gif)|![Arbok](Pokemon/images/024.png)  |
+| 025 | [Pikachu](Pokemon/Pikachu.md) | ![Electric](Pokemon/gif/Type_Electric.gif)| ![Pikachu](Pokemon/images/025.png)|
+| 026 | [Raichu](Pokemon/Raichu.md) | ![Electric](Pokemon/gif/Type_Electric.gif)| ![Raichu](Pokemon/images/026.png)|
+| 027 | [Sandshrew](Pokemon/Sandshrew.md) | ![Ground](Pokemon/gif/Type_Ground.gif)| ![Sandshrew](Pokemon/images/027.png)|
+| 028 | [Sandslash](Pokemon/Sandslash.md) | ![Ground](Pokemon/gif/Type_Ground.gif)| ![Sandslash](Pokemon/images/028.png)|
 | 029 | Nidoran | ![Poison](Pokemon/gif/Type_Poison.gif) | ![Nidoran](Pokemon/images/029.png)|
-| 030 | Nidorina | ![Poison](Pokemon/gif/Type_Poison.gif) | ![Nidorina](Pokemon/images/030.png)|
-| 031 | Nidoqueen | ![Ground](Pokemon/gif/Type_Ground.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Nidoqueen](Pokemon/images/031.png) | 
+| 030 | [Nidorina](Pokemon/Nidorina.md) | ![Poison](Pokemon/gif/Type_Poison.gif) | ![Nidorina](Pokemon/images/030.png)|
+| 031 | [Nidoqueen](Pokemon/Nidoqueen.md) | ![Ground](Pokemon/gif/Type_Ground.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Nidoqueen](Pokemon/images/031.png) |
 | 032 | Nidoran | ![Poison](Pokemon/gif/Type_Poison.gif) |![Nidoran](Pokemon/images/032.png) |
-| 033 | Nidorino | ![Poison](Pokemon/gif/Type_Poison.gif) |![Nidorino](Pokemon/images/033.png) | 
-| 034 | Nidoking | ![Poison](Pokemon/gif/Type_Poison.gif)/![Ground](Pokemon/gif/Type_Ground.gif) |![Nidoking](Pokemon/images/034.png) |
-| 035 | Clefairy | ![Fairy](Pokemon/gif/Type_Fairy.gif) |![Clefairy](Pokemon/images/035.png) | 
-| 036 | Clefable | ![Fairy](Pokemon/gif/Type_Fairy.gif) |![Clefable](Pokemon/images/036.png) | 
-| 037 | Vulpix | ![Fire](Pokemon/gif/Type_Fire.gif) |![Vulpix](Pokemon/images/037.png) | 
-| 038 | Ninetales | ![Fire](Pokemon/gif/Type_Fire.gif) |![Ninetales](Pokemon/images/038.png) |
-| 039 | Jigglypuff | ![Normal](Pokemon/gif/Type_Normal.gif)/![Fairy](Pokemon/gif/Type_Fairy.gif) |![Jigglypuff](Pokemon/images/039.png) | 
-| 040 | Wigglytuff |![Normal](Pokemon/gif/Type_Normal.gif)/![Fairy](Pokemon/gif/Type_Fairy.gif) |![Wigglytuff](Pokemon/images/040.png) |
-| 041 | Zubat |![Poison](Pokemon/gif/Type_Poison.gif)/![Flying](Pokemon/gif/Type_Flying.gif) |![Zubat](Pokemon/images/041.png) |
-| 042 | Golbat |![Poison](Pokemon/gif/Type_Poison.gif)/![Flying](Pokemon/gif/Type_Flying.gif) |![Golbat](Pokemon/images/042.png) |
-| 043 | Oddish |![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) |![Oddish](Pokemon/images/043.png) |
-| 044 | Gloom |![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) |![Gloom](Pokemon/images/044.png) |
+| 033 | [Nidorino](Pokemon/Nidorino.md) | ![Poison](Pokemon/gif/Type_Poison.gif) |![Nidorino](Pokemon/images/033.png) |
+| 034 | [Nidoking](Pokemon/Nidoking.md) | ![Poison](Pokemon/gif/Type_Poison.gif)/![Ground](Pokemon/gif/Type_Ground.gif) |![Nidoking](Pokemon/images/034.png) |
+| 035 | [Clefairy](Pokemon/Clefairy.md) | ![Fairy](Pokemon/gif/Type_Fairy.gif) |![Clefairy](Pokemon/images/035.png) |
+| 036 | [Clefable](Pokemon/Clefable.md) | ![Fairy](Pokemon/gif/Type_Fairy.gif) |![Clefable](Pokemon/images/036.png) |
+| 037 | [Vulpix](Pokemon/Vulpix.md) | ![Fire](Pokemon/gif/Type_Fire.gif) |![Vulpix](Pokemon/images/037.png) |
+| 038 | [Ninetales](Pokemon/Ninetales.md) | ![Fire](Pokemon/gif/Type_Fire.gif) |![Ninetales](Pokemon/images/038.png) |
+| 039 | [Jigglypuff](Pokemon/Jigglypuff.md) | ![Normal](Pokemon/gif/Type_Normal.gif)/![Fairy](Pokemon/gif/Type_Fairy.gif) |![Jigglypuff](Pokemon/images/039.png) |
+| 040 | [Wigglytuff](Pokemon/Wigglytuff.md) |![Normal](Pokemon/gif/Type_Normal.gif)/![Fairy](Pokemon/gif/Type_Fairy.gif) |![Wigglytuff](Pokemon/images/040.png) |
+| 041 | [Zubat](Pokemon/Zubat.md) |![Poison](Pokemon/gif/Type_Poison.gif)/![Flying](Pokemon/gif/Type_Flying.gif) |![Zubat](Pokemon/images/041.png) |
+| 042 | [Golbat](Pokemon/Golbat.md) |![Poison](Pokemon/gif/Type_Poison.gif)/![Flying](Pokemon/gif/Type_Flying.gif) |![Golbat](Pokemon/images/042.png) |
+| 043 | [Oddish](Pokemon/Oddish.md) |![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) |![Oddish](Pokemon/images/043.png) |
+| 044 | [Gloom](Pokemon/Gloom.md) |![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) |![Gloom](Pokemon/images/044.png) |
 | 045 ||| ![](Pokemon/images/045.png) |
 | 046 ||| ![](Pokemon/images/046.png) |
 | 047 ||| ![](Pokemon/images/047.png) |
 | 048 ||| ![](Pokemon/images/048.png) |
 | 049 ||| ![](Pokemon/images/049.png) |
 | 050 ||| ![](Pokemon/images/050.png) |
-| 051 | Dugtrio| ![Ground](Pokemon/gif/Type_Ground.gif)| ![Dugtrio](Pokemon/images/051.png)|
-| 052 | Meowth| ![Normal](Pokemon/gif/Type_Normal.gif)| ![Meowth](Pokemon/images/052.png)|
-| 053 | Persian| ![Normal](Pokemon/gif/Type_Normal.gif)| ![Persian](Pokemon/images/053.png)| 
+| 051 | [Dugtrio](Pokemon/Dugtrio.md)| ![Ground](Pokemon/gif/Type_Ground.gif)| ![Dugtrio](Pokemon/images/051.png)|
+| 052 | [Meowth](Pokemon/Meowth.md)| ![Normal](Pokemon/gif/Type_Normal.gif)| ![Meowth](Pokemon/images/052.png)|
+| 053 | [Persian](Pokemon/Persian.md)| ![Normal](Pokemon/gif/Type_Normal.gif)| ![Persian](Pokemon/images/053.png)|
 | 054 ||| ![](Pokemon/images/054.png) |
 | 055 ||| ![](Pokemon/images/055.png) |
 | 056 ||| ![](Pokemon/images/056.png) |
@@ -107,7 +107,7 @@ Jump directly to one of the Pokédex categories:
 | 058 ||| ![](Pokemon/images/058.png) |
 | 059 ||| ![](Pokemon/images/059.png) |
 | 060 ||| ![](Pokemon/images/060.png) |
-| 061 | Poliwhirl| ![Water](Pokemon/gif/Type_Water.gif) | ![Poliwhirl](Pokemon/images/061.png)|
+| 061 | [Poliwhirl](Pokemon/Poliwhirl.md)| ![Water](Pokemon/gif/Type_Water.gif) | ![Poliwhirl](Pokemon/images/061.png)|
 | 062 ||| ![](Pokemon/images/062.png) |
 | 063 ||| ![](Pokemon/images/063.png) |
 | 064 ||| ![](Pokemon/images/064.png) |
@@ -115,8 +115,8 @@ Jump directly to one of the Pokédex categories:
 | 066 ||| ![](Pokemon/images/066.png) |
 | 067 ||| ![](Pokemon/images/067.png) |
 | 068 ||| ![](Pokemon/images/068.png) |
-| 069 | Bellsprout | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Bellsprout](Pokemon/images/069.png)|
-| 070 | Weepinbell | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Weepinbell](Pokemon/images/070.png)|
+| 069 | [Bellsprout](Pokemon/Bellsprout.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Bellsprout](Pokemon/images/069.png)|
+| 070 | [Weepinbell](Pokemon/Weepinbell.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Weepinbell](Pokemon/images/070.png)|
 | 071 ||| ![](Pokemon/images/071.png) |
 | 072 ||| ![](Pokemon/images/072.png) |
 | 073 ||| ![](Pokemon/images/073.png) |
@@ -124,8 +124,8 @@ Jump directly to one of the Pokédex categories:
 | 075 ||| ![](Pokemon/images/075.png) |
 | 076 ||| ![](Pokemon/images/076.png) |
 | 077 ||| ![](Pokemon/images/077.png) |
-| 078 | Rapidash | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Rapidash](Pokemon/images/078.png)|
-| 079 | Slowpoke | ![Water](Pokemon/gif/Type_Water.gif) / ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![Slowpoke](Pokemon/images/079.png)|
+| 078 | [Rapidash](Pokemon/Rapidash.md) | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Rapidash](Pokemon/images/078.png)|
+| 079 | [Slowpoke](Pokemon/Slowpoke.md) | ![Water](Pokemon/gif/Type_Water.gif) / ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![Slowpoke](Pokemon/images/079.png)|
 | 080 ||| ![](Pokemon/images/080.png) |
 | 081 ||| ![](Pokemon/images/081.png) |
 | 082 ||| ![](Pokemon/images/082.png) |
@@ -141,7 +141,7 @@ Jump directly to one of the Pokédex categories:
 | 092 ||| ![](Pokemon/images/092.png) |
 | 093 ||| ![](Pokemon/images/093.png) |
 | 094 ||| ![](Pokemon/images/094.png) |
-| 095 | Onix | ![Rock](Pokemon/gif/Type_Rock.gif) | ![Onix](Pokemon/images/095.png)|
+| 095 | [Onix](Pokemon/Onix.md) | ![Rock](Pokemon/gif/Type_Rock.gif) | ![Onix](Pokemon/images/095.png)|
 | 096 ||| ![](Pokemon/images/096.png) |
 | 097 ||| ![](Pokemon/images/097.png) |
 | 098 ||| ![](Pokemon/images/098.png) |
@@ -152,7 +152,7 @@ Jump directly to one of the Pokédex categories:
 | 103 ||| ![](Pokemon/images/103.png) |
 | 104 ||| ![](Pokemon/images/104.png) |
 | 105 ||| ![](Pokemon/images/105.png) |
-| 106 | Hitmonlee | ![Fighting](Pokemon/gif/Type_Fighting.gif) |![Hitmonlee](Pokemon/images/106.png)|
+| 106 | [Hitmonlee](Pokemon/Hitmonlee.md) | ![Fighting](Pokemon/gif/Type_Fighting.gif) |![Hitmonlee](Pokemon/images/106.png)|
 |107|||![](Pokemon/images/107.png)|
 |108|||![](Pokemon/images/108.png)|
 |109|||![](Pokemon/images/109.png)|
@@ -191,15 +191,15 @@ Jump directly to one of the Pokédex categories:
 |142|||![](Pokemon/images/142.png)|
 |143|||![](Pokemon/images/143.png)|
 |144|||![](Pokemon/images/144.png)|
-| 145 | Zapdos | ![Electric](Pokemon/gif/Type_Electric.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Zapdos](Pokemon/images/145.png)|
-| 146 | Moltres | ![Fire](Pokemon/gif/Type_Fire.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Moltres](Pokemon/images/146.png)|
-| 147 | Dratini | ![Dragon](Pokemon/gif/Type_Dragon.gif) | ![Dratini](Pokemon/images/147.png)|
-| 148 | Dragonair | ![Dragon](Pokemon/gif/Type_Dragon.gif) | ![Dragonair](Pokemon/images/148.png)|
-| 149 | Dragonite | ![Dragon](Pokemon/gif/Type_Dragon.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Dragonite](Pokemon/images/149.png)|
+| 145 | [Zapdos](Pokemon/Zapdos.md) | ![Electric](Pokemon/gif/Type_Electric.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Zapdos](Pokemon/images/145.png)|
+| 146 | [Moltres](Pokemon/Moltres.md) | ![Fire](Pokemon/gif/Type_Fire.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Moltres](Pokemon/images/146.png)|
+| 147 | [Dratini](Pokemon/Dratini.md) | ![Dragon](Pokemon/gif/Type_Dragon.gif) | ![Dratini](Pokemon/images/147.png)|
+| 148 | [Dragonair](Pokemon/Dragonair.md) | ![Dragon](Pokemon/gif/Type_Dragon.gif) | ![Dragonair](Pokemon/images/148.png)|
+| 149 | [Dragonite](Pokemon/Dragonite.md) | ![Dragon](Pokemon/gif/Type_Dragon.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Dragonite](Pokemon/images/149.png)|
 | 150 | MewTwo | ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![MewTwo](Pokemon/images/150.png)|
-| 151 | Mew | ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![Mew](Pokemon/images/151.png)|
-| 152 | Chikorita | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Chikorita](Pokemon/images/152.png)|
-| 153 | Bayleef | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Bayleef](Pokemon/images/153.png)|
+| 151 | [Mew](Pokemon/Mew.md) | ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![Mew](Pokemon/images/151.png)|
+| 152 | [Chikorita](Pokemon/Chikorita.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Chikorita](Pokemon/images/152.png)|
+| 153 | [Bayleef](Pokemon/Bayleef.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Bayleef](Pokemon/images/153.png)|
 |154|||![](Pokemon/images/154.png)|
 |155|||![](Pokemon/images/155.png)|
 |156|||![](Pokemon/images/156.png)|
@@ -463,7 +463,7 @@ Jump directly to one of the Pokédex categories:
 |414|||![](Pokemon/images/414.png)|
 |415|||![](Pokemon/images/415.png)|
 |416|||![](Pokemon/images/416.png)|
-| 417 | Pachirisu | ![Electric](Pokemon/gif/Type_Electric.gif) | ![Pachirisu](Pokemon/images/417.png)|
+| 417 | [Pachirisu](Pokemon/Pachirisu.md) | ![Electric](Pokemon/gif/Type_Electric.gif) | ![Pachirisu](Pokemon/images/417.png)|
 |418|||![](Pokemon/images/418.png)|
 |419|||![](Pokemon/images/419.png)|
 |420|||![](Pokemon/images/420.png)|
@@ -529,17 +529,17 @@ Jump directly to one of the Pokédex categories:
 |480|||![](Pokemon/images/480.png)|
 |481|||![](Pokemon/images/481.png)|
 |482|||![](Pokemon/images/482.png)|
-| 483 |Dialga|![Steel](Pokemon/gif/Type_Steel.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)| ![Dialga](Pokemon/images/483.png)|
-| 484 |Palkia|![Water](Pokemon/gif/Type_Water.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)|![Palkia](Pokemon/images/484.png)|
+| 483 |[Dialga](Pokemon/Dialga.md)|![Steel](Pokemon/gif/Type_Steel.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)| ![Dialga](Pokemon/images/483.png)|
+| 484 |[Palkia](Pokemon/Palkia.md)|![Water](Pokemon/gif/Type_Water.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)|![Palkia](Pokemon/images/484.png)|
 |485|||![](Pokemon/images/485.png)|
 |486|||![](Pokemon/images/486.png)|
-| 487 |Giratina|![Ghost](Pokemon/gif/Type_Ghost.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)|![Giratina](Pokemon/images/487.png)|
+| 487 |[Giratina](Pokemon/Giratina.md)|![Ghost](Pokemon/gif/Type_Ghost.gif)/![Dragon](Pokemon/gif/Type_Dragon.gif)|![Giratina](Pokemon/images/487.png)|
 |488|||![](Pokemon/images/488.png)|
 |489|||![](Pokemon/images/489.png)|
 |490|||![](Pokemon/images/490.png)|
-| 491 | Darkrai | ![Dark](Pokemon/gif/Type_Dark.gif) | ![Darkrai](Pokemon/images/491.png)|
+| 491 | [Darkrai](Pokemon/Darkrai.md) | ![Dark](Pokemon/gif/Type_Dark.gif) | ![Darkrai](Pokemon/images/491.png)|
 |492|||![](Pokemon/images/492.png)|
-| 493 | Arceus | ![Normal](Pokemon/gif/Type_Normal.gif) | ![Arceus](Pokemon/images/493.png)|
+| 493 | [Arceus](Pokemon/Arceus.md) | ![Normal](Pokemon/gif/Type_Normal.gif) | ![Arceus](Pokemon/images/493.png)|
 |500|||![](Pokemon/images/500.png)|
 |501|||![](Pokemon/images/501.png)|
 |502|||![](Pokemon/images/502.png)|
@@ -762,12 +762,12 @@ Jump directly to one of the Pokédex categories:
 |719|||![](Pokemon/images/719.png)|
 |720|||![](Pokemon/images/720.png)|
 |721|||![](Pokemon/images/721.png)|
-| 722 | Rowlet | ![Grass](Pokemon/gif/Type_Grass.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Rowlet](Pokemon/images/722.png)|
-| 723 | Dartrix | ![Grass](Pokemon/gif/Type_Grass.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Dartrix](Pokemon/images/723.png)|
-| 724 | Decidueye | ![Grass](Pokemon/gif/Type_Grass.gif)/![Ghost](Pokemon/gif/Type_Ghost.gif) | ![Decidueye](Pokemon/images/724.png)|
-| 725 | Litten | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Litten](Pokemon/images/725.png)|
-| 726 | Torracat | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Torracat](Pokemon/images/726.png)|
-| 727 | Incineroar | ![Fire](Pokemon/gif/Type_Fire.gif)/![Dark](Pokemon/gif/Type_Dark.gif) | ![Incineroar](Pokemon/images/727.png)|
+| 722 | [Rowlet](Pokemon/Rowlet.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Rowlet](Pokemon/images/722.png)|
+| 723 | [Dartrix](Pokemon/Dartrix.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Flying](Pokemon/gif/Type_Flying.gif) | ![Dartrix](Pokemon/images/723.png)|
+| 724 | [Decidueye](Pokemon/Decidueye.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Ghost](Pokemon/gif/Type_Ghost.gif) | ![Decidueye](Pokemon/images/724.png)|
+| 725 | [Litten](Pokemon/Litten.md) | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Litten](Pokemon/images/725.png)|
+| 726 | [Torracat](Pokemon/Torracat.md) | ![Fire](Pokemon/gif/Type_Fire.gif) | ![Torracat](Pokemon/images/726.png)|
+| 727 | [Incineroar](Pokemon/Incineroar.md) | ![Fire](Pokemon/gif/Type_Fire.gif)/![Dark](Pokemon/gif/Type_Dark.gif) | ![Incineroar](Pokemon/images/727.png)|
 |728|||![](Pokemon/images/728.png)|
 |729|||![](Pokemon/images/729.png)|
 |730|||![](Pokemon/images/730.png)|
@@ -831,7 +831,7 @@ Jump directly to one of the Pokédex categories:
 |788|||![](Pokemon/images/788.png)|
 |789|||![](Pokemon/images/789.png)|
 |790|||![](Pokemon/images/790.png)|
-| 791 |Solgaleo|![Psychic](Pokemon/gif/Type_Psychic.gif)/![Steel](Pokemon/gif/Type_Steel.gif)|![Solgaleo](Pokemon/images/791.png)|
+| 791 |[Solgaleo](Pokemon/Solgaleo.md)|![Psychic](Pokemon/gif/Type_Psychic.gif)/![Steel](Pokemon/gif/Type_Steel.gif)|![Solgaleo](Pokemon/images/791.png)|
 |792|||![](Pokemon/images/792.png)|
 |793|||![](Pokemon/images/793.png)|
 |794|||![](Pokemon/images/794.png)|
@@ -847,7 +847,7 @@ Jump directly to one of the Pokédex categories:
 |804|||![](Pokemon/images/804.png)|
 |805|||![](Pokemon/images/805.png)|
 |806|||![](Pokemon/images/806.png)|
-| 807 |Zeraora|![Electric](Pokemon/gif/Type_Electric.gif)|![Zeraora](Pokemon/images/807.png)|
+| 807 |[Zeraora](Pokemon/Zeraora.md)|![Electric](Pokemon/gif/Type_Electric.gif)|![Zeraora](Pokemon/images/807.png)|
 
 ## See Also
 

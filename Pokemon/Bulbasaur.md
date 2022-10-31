@@ -25,9 +25,9 @@
 
 **Bulbasaur** (&#x30d5;&#x30b7&#x30ae&#x30c0&#x30cd Fushigidane) is a dual-type Grass/Poison species introduced in [Generation I](national_pokedex.md#generation-i).
 
-It evolves into Ivysaur starting at level 16, which evolves into Venusaur starting at level 32.
+It evolves into [Ivysaur](Ivysaur.md) starting at level 16, which evolves into [Venusaur](Venusaur.md) starting at level 32.
 
-Along with Charmander and Squirtle, Bulbasaur is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.
+Along with [Charmander](Charmander.md) and [Squirtle](Squirtle.md), Bulbasaur is one of three starter Pokémon of Kanto available at the beginning of Pokémon Red, Green, Blue, FireRed, and LeafGreen.
 
 ## Biology
 
@@ -41,9 +41,9 @@ It is found in grasslands and forests throughout the Kanto region. However, due 
 
 It bears the seed of a plant on its back from birth. The seed slowly develops. Researchers are unsure whether to classify Bulbasaur as a plant or animal. Bulbasaur are extremely tough and very difficult to capture in the wild.
 
-Solar Beam, Bulbasaur's strongest attack. Light is collected and formed into a powerful beam with intensive force.
+Solar Beam is Bulbasaur's strongest attack. Light is collected and formed into a powerful beam with intensive force.
 
-Bulbasaur, the Seed Pokémon. A young Bulbasaur uses the nutrients from its seed for the energy it needs to grow.
+Bulbasaur is a Seed Pokémon. A young Bulbasaur uses the nutrients from its seed for the energy it needs to grow.
 
 ## See also
 
