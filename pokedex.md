@@ -922,3 +922,9 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/805.png)|Stakataka|Rock, Steel|Beast Boost|61|131|211|53|101|13|570|Undiscovered |
 |![](Pokemon/thumbnails/806.png)|Blacephalon|Fire, Ghost|Beast Boost|53|127|53|151|79|107|570|Undiscovered |
 |![](Pokemon/thumbnails/807.png)|Zeraora|Electric|Volt Absorb|88|112|75|102|80|143|600|Undiscovered |
+
+## See also
+
+- [National Pokédex](national_pokedex.md)
+- [Pokémon](pokemon.md)
+- [README](README.md)

@@ -851,6 +851,7 @@ Jump directly to one of the Pokédex categories:
 
 ## See Also
 
-- [README](README.md)
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Pokémon](Pokedex/pokemon.md)
+- [Pokédex](pokedex.md)
+- [README](README.md)

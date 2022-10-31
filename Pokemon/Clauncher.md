@@ -21,4 +21,7 @@ Weight is measured in hectograms (1/10th of a kilogram)
 
 ## See also
 
-[List of Pokémon](../pokemon.md)
+- [List of Pokémon](../pokemon.md)
+- [National Pokédex](../national_pokedex.md)
+- [Pokédex](../pokedex.md)
+- [README](../README.md)

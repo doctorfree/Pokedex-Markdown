@@ -47,4 +47,7 @@ Bulbasaur, the Seed Pokémon. A young Bulbasaur uses the nutrients from its seed
 
 ## See also
 
-[List of Pokémon](../pokemon.md)
+- [List of Pokémon](../pokemon.md)
+- [National Pokédex](../national_pokedex.md)
+- [Pokédex](../pokedex.md)
+- [README](../README.md)
