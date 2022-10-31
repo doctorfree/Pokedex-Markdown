@@ -21,6 +21,8 @@ categories:
 
 Browse the markdown [Pokédex](Pokedex/pokemon.md).
 
+View a list of the [Pokémon](pokemon.md) and [Pokémon data](pokedex.md).
+
 Jump directly to one of the Pokédex categories:
 
 |    |    |    |    |    |

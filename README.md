@@ -41,6 +41,18 @@ Included here as well is an `.obsidian` directory populated with my [Doctorfree 
 
 Enter the [Pokédex](Pokedex/pokemon.md) and behold the astonishing wealth of Pokémon data.
 
+View a list of the [Pokémon](pokemon.md) and [Pokémon data](pokedex.md).
+
+Browse the categories of the Pokédex:
+
+|    |    |    |    |    |
+|----|----|----|----|----|
+| [Abilities](Pokedex/abilities/abilities_index.md) | [Berries](Pokedex/berries/berries_index.md) | [Characteristics](Pokedex/characteristics/characteristics_index.md) | [Colors](Pokedex/colors/colors_index.md) | [Conquest](Pokedex/conquest/conquest_index.md) |
+| [Contest](Pokedex/contest/contest_index.md) | [Encounters](Pokedex/encounters/encounters_index.md) | [Evolution](Pokedex/evolution/evolution_index.md) | [Forms](Pokedex/forms/forms_index.md) | [Generations](Pokedex/generations/generations_index.md) |
+| [Growth rates](Pokedex/growth_rates/growth_rates_index.md) | [Habitats](Pokedex/habitats/habitats_index.md) | [Items](Pokedex/items/items_index.md) | [Languages](Pokedex/languages/languages_index.md) | [Locations](Pokedex/locations/locations_index.md) |
+| [Moves](Pokedex/moves/moves_index.md) | [Natures](Pokedex/natures/natures_index.md) | [Pokedexes](Pokedex/pokedexes/pokedexes_index.md) | [Regions](Pokedex/regions/regions_index.md) | [Shapes](Pokedex/shapes/shapes_index.md) |
+| [Species](Pokedex/species/species_index.md) | [Stats](Pokedex/stats/stats_index.md) | [Translations](Pokedex/translations/translations.md) | [Types](Pokedex/types/types_index.md) | [Versions](Pokedex/versions/versions_index.md) |
+
 ## Obsidian Graph View
 
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.

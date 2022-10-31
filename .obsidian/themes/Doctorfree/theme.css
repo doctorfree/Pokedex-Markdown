@@ -913,7 +913,7 @@ settings:
 /* YAML IN PREVIEW MODE */
 /************************/
 
-/* Hide the metadata box at top of note in preview mode
+/* Hide the metadata box at top of note in preview mode */
 .frontmatter-container {
     display: none;
 }

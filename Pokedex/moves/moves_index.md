@@ -32,6 +32,7 @@ Index of moves category
 - [Move meta stat changes](move_meta_stat_changes.md)
 - [Move names](move_names.md)
 - [Moves](moves.md)
+- [Moves table](moves_table.md)
 - [Move target prose](move_target_prose.md)
 - [Move targets](move_targets.md)
 - [Pokemon move method prose](pokemon_move_method_prose.md)

@@ -10,6 +10,7 @@ categories:
 
 The Pokemon moves markdown was too large for some markdown viewers. It has been split into smaller chunks to accomodate most viewers.
 
+- [Table of Pokemon Moves](moves_table.md)
 - [Pokemon moves 00](pokemon_moves/pokemon_moves_00.md)
 - [Pokemon moves 01](pokemon_moves/pokemon_moves_01.md)
 - [Pokemon moves 02](pokemon_moves/pokemon_moves_02.md)
