@@ -7,7 +7,7 @@
 |----|----|----|----|
 | Pikachu | 025 | Electric  |  |
 
-**Pikachu** is a species in the Pok&#x00e9;mon media franchise. Designed by Atsuko Nishida and Ken Sugimori, Pikachu first appeared in the 1996 Japanese video games Pok&#x00e9;mon Red and Green created by Game Freak and Nintendo, which were released outside of Japan in 1998 as Pok&#x00e9;mon Red and Blue. Pikachu is a yellow, mouse-like creature with electrical abilities. It is a major character in the Pok&#x00e9;mon franchise, serving as its mascot and as a major mascot for Nintendo.
+**Pikachu** (&#x30d4;&#x30ab;&#x30c1;&#x30e5;&#x30a6;), is a species in the Pok&#x00e9;mon media franchise. Designed by Atsuko Nishida and Ken Sugimori, Pikachu first appeared in the 1996 Japanese video games Pok&#x00e9;mon Red and Green created by Game Freak and Nintendo, which were released outside of Japan in 1998 as Pok&#x00e9;mon Red and Blue. Pikachu is a yellow, mouse-like creature with electrical abilities. It is a major character in the Pok&#x00e9;mon franchise, serving as its mascot and as a major mascot for Nintendo.
 
 Pikachu is widely considered to be the most popular and well-known Pok&#x00e9;mon species, largely due to its appearance in the Pok&#x00e9;mon anime television series as the companion of protagonist Ash Ketchum. In most vocalized appearances Pikachu is voiced by Ikue &#x014c;tani, though it has been portrayed by other actors, notably Ryan Reynolds in the live-action animated film Pok&#x00e9;mon Detective Pikachu. Pikachu has been well received by critics, with particular praise given for its cuteness, and has come to be regarded as an icon of Japanese pop culture.
 
