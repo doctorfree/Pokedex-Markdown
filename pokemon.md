@@ -179,7 +179,7 @@ Jump directly to one of the Pokédex categories:
 |130|||![](Pokemon/images/130.png)|
 |131|||![](Pokemon/images/131.png)|
 |132|||![](Pokemon/images/132.png)|
-|133|||![](Pokemon/images/133.png)|
+|133| [Eevee](Pokemon/Eevee.md)||![](Pokemon/images/133.png)|
 |134|||![](Pokemon/images/134.png)|
 |135|||![](Pokemon/images/135.png)|
 |136|||![](Pokemon/images/136.png)|
