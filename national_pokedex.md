@@ -162,8 +162,7 @@ The first 151 entries in this Pokédex also serve as Kanto's regional Pokédex. 
 |119|119|[Seaking](Pokemon/Seaking.md)|Water |
 |120|120|[Staryu](Pokemon/Staryu.md)|Water |
 |121|121|[Starmie](Pokemon/Starmie.md)|Water-Psychic |
-|122|122|Mr. Mime|Psychic-Fairy |
-||122|Mr. Mime|Ice-Psychic form=Galar |
+|122|122|[Mr. Mime](Pokemon/Mr-Mime.md)|Psychic-Fairy |
 |123|123|[Scyther](Pokemon/Scyther.md)|Bug-Flying |
 |124|124|[Jynx](Pokemon/Jynx.md)|Ice-Psychic |
 |125|125|[Electabuzz](Pokemon/Electabuzz.md)|Electric |

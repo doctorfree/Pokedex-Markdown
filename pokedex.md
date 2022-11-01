@@ -153,7 +153,7 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/119.png)|[Seaking](Pokemon/Seaking.md)|Water|Swift Swim, Water Veil, Lightning Rod|80|92|65|65|80|68|450|Water 2 |
 |![](Pokemon/thumbnails/120.png)|[Staryu](Pokemon/Staryu.md)|Water|Illuminate, Natural Cure, Analytic|30|45|55|70|55|85|340|Water 3 |
 |![](Pokemon/thumbnails/121.png)|[Starmie](Pokemon/Starmie.md)|Water, Psychic|Illuminate, Natural Cure, Analytic|60|75|85|100|85|115|520|Water 3 |
-|![](Pokemon/thumbnails/122.png)|Mr. Mime|Psychic, Fairy|Soundproof, Filter, Technician|40|45|65|100|120|90|460|Human-Like |
+|![](Pokemon/thumbnails/122.png)|[Mr. Mime](Pokemon/Mr-Mime.md)|Psychic, Fairy|Soundproof, Filter, Technician|40|45|65|100|120|90|460|Human-Like |
 |![](Pokemon/thumbnails/123.png)|[Scyther](Pokemon/Scyther.md)|Bug, Flying|Swarm, Technician, Steadfast|70|110|80|55|80|105|500|Bug |
 |![](Pokemon/thumbnails/124.png)|[Jynx](Pokemon/Jynx.md)|Ice, Psychic|Oblivious, Forewarn, Dry Skin|65|50|35|115|95|95|455|Human-Like |
 |![](Pokemon/thumbnails/125.png)|[Electabuzz](Pokemon/Electabuzz.md)|Electric|Static, null, Vital Spirit|65|83|57|95|85|105|490|Human-Like |

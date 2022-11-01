@@ -168,7 +168,7 @@ Jump directly to one of the Pokédex categories:
 |119|||![](Pokemon/images/119.png)|
 |120|||![](Pokemon/images/120.png)|
 |121|||![](Pokemon/images/121.png)|
-|122|||![](Pokemon/images/122.png)|
+|122| [Mr. Mime](Pokemon/Mr-Mime.md) ||![](Pokemon/images/122.png)|
 |123|||![](Pokemon/images/123.png)|
 |124|||![](Pokemon/images/124.png)|
 |125|||![](Pokemon/images/125.png)|
