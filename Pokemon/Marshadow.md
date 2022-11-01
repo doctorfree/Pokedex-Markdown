@@ -1,3 +1,13 @@
+---
+name: Marshadow
+type: Fighting, Ghost
+abilities: Technician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Marshadow
 
 

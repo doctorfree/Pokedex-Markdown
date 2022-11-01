@@ -1,3 +1,13 @@
+---
+name: Servine
+type: Grass
+abilities: Overgrow, (Hidden) Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Servine
 
 

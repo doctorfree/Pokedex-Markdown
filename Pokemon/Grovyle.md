@@ -1,3 +1,13 @@
+---
+name: Grovyle
+type: Grass
+abilities: Overgrow, (Hidden) Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Grovyle
 
 

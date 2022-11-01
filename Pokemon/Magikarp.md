@@ -1,3 +1,13 @@
+---
+name: Magikarp
+type: Water
+abilities: Swift Swim, (Hidden) Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magikarp
 
 

@@ -1,3 +1,13 @@
+---
+name: Scizor
+type: Bug, Steel
+abilities: Swarm, Technician, Light Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Scizor
 
 

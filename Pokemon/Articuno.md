@@ -1,3 +1,13 @@
+---
+name: Articuno
+type: Ice, Flying
+abilities: Pressure, (Hidden) Snow Cloak
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Articuno
 
 

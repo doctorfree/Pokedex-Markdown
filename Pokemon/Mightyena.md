@@ -1,3 +1,13 @@
+---
+name: Mightyena
+type: Dark
+abilities: Intimidate, Quick Feet, Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mightyena
 
 

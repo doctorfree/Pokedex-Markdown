@@ -1,3 +1,13 @@
+---
+name: Mandibuzz
+type: Dark, Flying
+abilities: Big Pecks, Overcoat, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mandibuzz
 
 

@@ -1,3 +1,13 @@
+---
+name: Tympole
+type: Water
+abilities: Swift Swim, Hydration, Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tympole
 
 

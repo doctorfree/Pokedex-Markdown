@@ -1,3 +1,13 @@
+---
+name: Virizion
+type: Grass, Fighting
+abilities: Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Virizion
 
 

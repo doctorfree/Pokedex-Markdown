@@ -1,3 +1,13 @@
+---
+name: Diglett
+type: Ground
+abilities: Sand Veil, Arena Trap, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Diglett
 
 

@@ -1,3 +1,13 @@
+---
+name: Kommo-o
+type: Dragon, Fighting
+abilities: Bulletproof, Soundproof, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kommo-o
 
 

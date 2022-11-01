@@ -1,3 +1,13 @@
+---
+name: Sunflora
+type: Grass
+abilities: Chlorophyll, Solar Power, Early Bird
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sunflora
 
 

@@ -1,3 +1,13 @@
+---
+name: Sylveon
+type: Fairy
+abilities: Cute Charm, (Hidden) Pixilate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sylveon
 
 

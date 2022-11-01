@@ -1,3 +1,13 @@
+---
+name: Simipour
+type: Water
+abilities: Gluttony, (Hidden) Torrent
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Simipour
 
 

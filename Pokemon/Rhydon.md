@@ -1,3 +1,13 @@
+---
+name: Rhydon
+type: Ground, Rock
+abilities: Lightning Rod, Rock Head, Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rhydon
 
 

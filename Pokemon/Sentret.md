@@ -1,3 +1,13 @@
+---
+name: Sentret
+type: Normal
+abilities: Run Away, Keen Eye, Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sentret
 
 

@@ -1,3 +1,13 @@
+---
+name: Vigoroth
+type: Normal
+abilities: Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vigoroth
 
 

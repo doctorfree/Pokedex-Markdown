@@ -1,3 +1,13 @@
+---
+name: Delibird
+type: Ice, Flying
+abilities: Vital Spirit, Hustle, Insomnia
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Delibird
 
 

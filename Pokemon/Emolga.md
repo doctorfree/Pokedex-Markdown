@@ -1,3 +1,13 @@
+---
+name: Emolga
+type: Electric, Flying
+abilities: Static, (Hidden) Motor Drive
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Emolga
 
 

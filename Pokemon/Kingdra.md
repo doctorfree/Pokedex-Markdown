@@ -1,3 +1,13 @@
+---
+name: Kingdra
+type: Water, Dragon
+abilities: Swift Swim, Sniper, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kingdra
 
 

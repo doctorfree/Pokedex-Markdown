@@ -1,3 +1,13 @@
+---
+name: Incineroar
+type: Fire, Dark
+abilities: Blaze, (Hidden) Intimidate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Incineroar
 
 

@@ -1,3 +1,13 @@
+---
+name: Horsea
+type: Water
+abilities: Swift Swim, Sniper, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Horsea
 
 

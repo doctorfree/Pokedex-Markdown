@@ -1,3 +1,13 @@
+---
+name: Chansey
+type: Normal
+abilities: Natural Cure, Serene Grace, Healer
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chansey
 
 

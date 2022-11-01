@@ -1,3 +1,13 @@
+---
+name: Manectric
+type: Electric
+abilities: Static, Lightning Rod, Minus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Manectric
 
 

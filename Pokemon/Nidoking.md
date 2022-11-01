@@ -1,3 +1,13 @@
+---
+name: Nidoking
+type: Poison, Ground
+abilities: Poison Point, Rivalry, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nidoking
 
 

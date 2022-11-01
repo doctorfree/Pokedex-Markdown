@@ -1,3 +1,13 @@
+---
+name: Lopunny
+type: Normal
+abilities: Cute Charm, Klutz, Limber
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lopunny
 
 

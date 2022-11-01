@@ -1,3 +1,13 @@
+---
+name: Honedge
+type: Steel, Ghost
+abilities: No Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Honedge
 
 

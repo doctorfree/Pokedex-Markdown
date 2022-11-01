@@ -1,3 +1,13 @@
+---
+name: Dragonair
+type: Dragon
+abilities: Shed Skin, (Hidden) Marvel Scale
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dragonair
 
 

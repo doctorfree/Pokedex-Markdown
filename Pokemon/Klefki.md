@@ -1,3 +1,13 @@
+---
+name: Klefki
+type: Steel, Fairy
+abilities: Prankster, (Hidden) Magician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Klefki
 
 

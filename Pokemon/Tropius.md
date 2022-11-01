@@ -1,3 +1,13 @@
+---
+name: Tropius
+type: Grass, Flying
+abilities: Chlorophyll, Solar Power, Harvest
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tropius
 
 

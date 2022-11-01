@@ -1,3 +1,13 @@
+---
+name: Registeel
+type: Steel
+abilities: Clear Body, (Hidden) Light Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Registeel
 
 

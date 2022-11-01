@@ -1,3 +1,13 @@
+---
+name: Haxorus
+type: Dragon
+abilities: Rivalry, Mold Breaker, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Haxorus
 
 

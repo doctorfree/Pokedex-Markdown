@@ -1,3 +1,13 @@
+---
+name: Empoleon
+type: Water, Steel
+abilities: Torrent, (Hidden) Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Empoleon
 
 

@@ -1,3 +1,13 @@
+---
+name: Smoochum
+type: Ice, Psychic
+abilities: Oblivious, Forewarn, Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Smoochum
 
 

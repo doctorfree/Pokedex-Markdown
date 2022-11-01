@@ -1,3 +1,13 @@
+---
+name: Cubone
+type: Ground
+abilities: Rock Head, Lightning Rod, Battle Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cubone
 
 

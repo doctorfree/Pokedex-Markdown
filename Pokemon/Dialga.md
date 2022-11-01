@@ -1,3 +1,13 @@
+---
+name: Dialga
+type: Steel, Dragon
+abilities: Pressure, (Hidden) Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dialga
 
 

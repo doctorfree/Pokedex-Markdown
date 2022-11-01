@@ -1,3 +1,13 @@
+---
+name: Garbodor
+type: Poison
+abilities: Stench, Weak Armor, Aftermath
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Garbodor
 
 

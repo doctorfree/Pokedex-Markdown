@@ -1,3 +1,13 @@
+---
+name: Carbink
+type: Rock, Fairy
+abilities: Clear Body, (Hidden) Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Carbink
 
 

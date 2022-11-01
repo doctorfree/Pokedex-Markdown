@@ -1,3 +1,13 @@
+---
+name: Stunfisk
+type: Ground, Electric
+abilities: Static, Limber, Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Stunfisk
 
 

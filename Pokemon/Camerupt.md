@@ -1,3 +1,13 @@
+---
+name: Camerupt
+type: Fire, Ground
+abilities: Magma Armor, Solid Rock, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Camerupt
 
 

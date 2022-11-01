@@ -1,3 +1,13 @@
+---
+name: Steelix
+type: Steel, Ground
+abilities: Rock Head, Sturdy, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Steelix
 
 

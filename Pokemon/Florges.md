@@ -1,3 +1,13 @@
+---
+name: Florges
+type: Fairy
+abilities: Flower Veil, (Hidden) Symbiosis
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Florges
 
 

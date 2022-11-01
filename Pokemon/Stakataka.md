@@ -1,3 +1,13 @@
+---
+name: Stakataka
+type: Rock, Steel
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Stakataka
 
 

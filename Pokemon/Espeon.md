@@ -1,3 +1,13 @@
+---
+name: Espeon
+type: Psychic
+abilities: Synchronize, (Hidden) Magic Bounce
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Espeon
 
 

@@ -1,3 +1,13 @@
+---
+name: Guzzlord
+type: Dark, Dragon
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Guzzlord
 
 

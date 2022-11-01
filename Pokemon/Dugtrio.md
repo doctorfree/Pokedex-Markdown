@@ -1,3 +1,13 @@
+---
+name: Dugtrio
+type: Ground
+abilities: Sand Veil, Arena Trap, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dugtrio
 
 

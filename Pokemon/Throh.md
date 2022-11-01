@@ -1,3 +1,13 @@
+---
+name: Throh
+type: Fighting
+abilities: Guts, Inner Focus, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Throh
 
 

@@ -1,3 +1,13 @@
+---
+name: Donphan
+type: Ground
+abilities: Sturdy, (Hidden) Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Donphan
 
 

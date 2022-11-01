@@ -1,3 +1,13 @@
+---
+name: Cresselia
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cresselia
 
 

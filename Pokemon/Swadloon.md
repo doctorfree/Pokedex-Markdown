@@ -1,3 +1,13 @@
+---
+name: Swadloon
+type: Bug, Grass
+abilities: Leaf Guard, Chlorophyll, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swadloon
 
 

@@ -1,3 +1,13 @@
+---
+name: Bonsly
+type: Rock
+abilities: Sturdy, Rock Head, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bonsly
 
 

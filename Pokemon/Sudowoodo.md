@@ -1,3 +1,13 @@
+---
+name: Sudowoodo
+type: Rock
+abilities: Sturdy, Rock Head, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sudowoodo
 
 

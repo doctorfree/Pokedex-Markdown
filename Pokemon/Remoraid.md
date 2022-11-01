@@ -1,3 +1,13 @@
+---
+name: Remoraid
+type: Water
+abilities: Hustle, Sniper, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Remoraid
 
 

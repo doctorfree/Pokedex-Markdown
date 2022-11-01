@@ -1,3 +1,13 @@
+---
+name: Mimikyu
+type: Ghost, Fairy
+abilities: Disguise
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mimikyu
 
 

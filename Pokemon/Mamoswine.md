@@ -1,3 +1,13 @@
+---
+name: Mamoswine
+type: Ice, Ground
+abilities: Oblivious, Snow Cloak, Thick Fat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mamoswine
 
 

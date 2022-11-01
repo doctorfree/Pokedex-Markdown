@@ -1,3 +1,13 @@
+---
+name: Spinarak
+type: Bug, Poison
+abilities: Swarm, Insomnia, Sniper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spinarak
 
 

@@ -1,3 +1,13 @@
+---
+name: Magneton
+type: Electric, Steel
+abilities: Magnet Pull, Sturdy, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magneton
 
 

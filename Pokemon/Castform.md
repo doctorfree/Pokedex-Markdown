@@ -1,3 +1,13 @@
+---
+name: Castform
+type: Normal
+abilities: Forecast
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Castform
 
 

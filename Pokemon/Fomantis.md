@@ -1,3 +1,13 @@
+---
+name: Fomantis
+type: Grass
+abilities: Leaf Guard, (Hidden) Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Fomantis
 
 

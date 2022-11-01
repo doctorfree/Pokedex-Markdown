@@ -1,3 +1,13 @@
+---
+name: Granbull
+type: Fairy
+abilities: Intimidate, Quick Feet, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Granbull
 
 

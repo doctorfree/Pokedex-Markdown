@@ -1,3 +1,13 @@
+---
+name: Vespiquen
+type: Bug, Flying
+abilities: Pressure, (Hidden) Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vespiquen
 
 

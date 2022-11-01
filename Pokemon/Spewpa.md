@@ -1,3 +1,13 @@
+---
+name: Spewpa
+type: Bug
+abilities: Shed Skin, (Hidden) Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spewpa
 
 

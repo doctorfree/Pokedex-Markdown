@@ -1,3 +1,13 @@
+---
+name: Dragalge
+type: Poison, Dragon
+abilities: Poison Point, Poison Touch, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dragalge
 
 

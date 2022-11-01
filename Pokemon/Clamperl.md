@@ -1,3 +1,13 @@
+---
+name: Clamperl
+type: Water
+abilities: Shell Armor, (Hidden) Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Clamperl
 
 

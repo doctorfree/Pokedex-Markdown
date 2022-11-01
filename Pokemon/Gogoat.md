@@ -1,3 +1,13 @@
+---
+name: Gogoat
+type: Grass
+abilities: Sap Sipper, (Hidden) Grass Pelt
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gogoat
 
 

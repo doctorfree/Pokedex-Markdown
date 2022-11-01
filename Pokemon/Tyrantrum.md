@@ -1,3 +1,13 @@
+---
+name: Tyrantrum
+type: Rock, Dragon
+abilities: Strong Jaw, (Hidden) Rock Head
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tyrantrum
 
 

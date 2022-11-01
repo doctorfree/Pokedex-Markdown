@@ -1,3 +1,13 @@
+---
+name: Tyrunt
+type: Rock, Dragon
+abilities: Strong Jaw, (Hidden) Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tyrunt
 
 

@@ -1,3 +1,13 @@
+---
+name: Rattata
+type: Normal
+abilities: Run Away, Guts, Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rattata
 
 

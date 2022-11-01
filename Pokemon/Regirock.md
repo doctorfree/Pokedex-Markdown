@@ -1,3 +1,13 @@
+---
+name: Regirock
+type: Rock
+abilities: Clear Body, (Hidden) Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Regirock
 
 

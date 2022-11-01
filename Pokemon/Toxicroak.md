@@ -1,3 +1,13 @@
+---
+name: Toxicroak
+type: Poison, Fighting
+abilities: Anticipation, Dry Skin, Poison Touch
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Toxicroak
 
 

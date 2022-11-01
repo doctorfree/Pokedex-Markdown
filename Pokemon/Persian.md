@@ -1,3 +1,13 @@
+---
+name: Persian
+type: Normal
+abilities: Limber, Technician, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Persian
 
 

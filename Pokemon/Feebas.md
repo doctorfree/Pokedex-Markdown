@@ -1,3 +1,13 @@
+---
+name: Feebas
+type: Water
+abilities: Swift Swim, Oblivious, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Feebas
 
 

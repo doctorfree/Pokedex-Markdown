@@ -1,3 +1,13 @@
+---
+name: Brionne
+type: Water
+abilities: Torrent, (Hidden) Liquid Voice
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Brionne
 
 

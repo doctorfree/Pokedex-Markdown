@@ -1,3 +1,13 @@
+---
+name: Cleffa
+type: Fairy
+abilities: Cute Charm, Magic Guard, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cleffa
 
 

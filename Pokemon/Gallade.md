@@ -1,3 +1,13 @@
+---
+name: Gallade
+type: Psychic, Fighting
+abilities: Steadfast, (Hidden) Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gallade
 
 

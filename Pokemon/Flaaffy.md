@@ -1,3 +1,13 @@
+---
+name: Flaaffy
+type: Electric
+abilities: Static, (Hidden) Plus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Flaaffy
 
 

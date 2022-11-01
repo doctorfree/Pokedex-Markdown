@@ -1,3 +1,13 @@
+---
+name: Wobbuffet
+type: Psychic
+abilities: Shadow Tag, (Hidden) Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wobbuffet
 
 

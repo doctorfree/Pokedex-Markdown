@@ -1,3 +1,13 @@
+---
+name: Haunter
+type: Ghost, Poison
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Haunter
 
 

@@ -1,3 +1,13 @@
+---
+name: Shelmet
+type: Bug
+abilities: Hydration, Shell Armor, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shelmet
 
 

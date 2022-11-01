@@ -1,3 +1,13 @@
+---
+name: Buizel
+type: Water
+abilities: Swift Swim, (Hidden) Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Buizel
 
 

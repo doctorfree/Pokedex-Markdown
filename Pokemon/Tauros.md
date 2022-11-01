@@ -1,3 +1,13 @@
+---
+name: Tauros
+type: Normal
+abilities: Intimidate, Anger Point, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tauros
 
 

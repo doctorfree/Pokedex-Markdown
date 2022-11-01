@@ -1,3 +1,13 @@
+---
+name: Typhlosion
+type: Fire
+abilities: Blaze, (Hidden) Flash Fire
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Typhlosion
 
 

@@ -1,3 +1,13 @@
+---
+name: Gligar
+type: Ground, Flying
+abilities: Hyper Cutter, Sand Veil, Immunity
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gligar
 
 

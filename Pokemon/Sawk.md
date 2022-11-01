@@ -1,3 +1,13 @@
+---
+name: Sawk
+type: Fighting
+abilities: Sturdy, Inner Focus, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sawk
 
 

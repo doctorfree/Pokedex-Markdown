@@ -1,3 +1,13 @@
+---
+name: Entei
+type: Fire
+abilities: Pressure, (Hidden) Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Entei
 
 

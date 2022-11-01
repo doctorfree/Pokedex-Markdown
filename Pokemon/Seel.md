@@ -1,3 +1,13 @@
+---
+name: Seel
+type: Water
+abilities: Thick Fat, Hydration, Ice Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Seel
 
 

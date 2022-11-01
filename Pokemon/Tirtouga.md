@@ -1,3 +1,13 @@
+---
+name: Tirtouga
+type: Water, Rock
+abilities: Solid Rock, Sturdy, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tirtouga
 
 

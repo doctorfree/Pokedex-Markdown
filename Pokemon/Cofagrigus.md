@@ -1,3 +1,13 @@
+---
+name: Cofagrigus
+type: Ghost
+abilities: Mummy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cofagrigus
 
 

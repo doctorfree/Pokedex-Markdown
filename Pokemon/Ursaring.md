@@ -1,3 +1,13 @@
+---
+name: Ursaring
+type: Normal
+abilities: Guts, Quick Feet, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ursaring
 
 

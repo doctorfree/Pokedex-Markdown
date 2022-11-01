@@ -1,3 +1,13 @@
+---
+name: Honchkrow
+type: Dark, Flying
+abilities: Insomnia, Super Luck, Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Honchkrow
 
 

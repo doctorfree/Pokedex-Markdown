@@ -1,3 +1,13 @@
+---
+name: Cobalion
+type: Steel, Fighting
+abilities: Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cobalion
 
 

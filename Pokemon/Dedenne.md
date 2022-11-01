@@ -1,3 +1,13 @@
+---
+name: Dedenne
+type: Electric, Fairy
+abilities: Cheek Pouch, Pickup, Plus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dedenne
 
 

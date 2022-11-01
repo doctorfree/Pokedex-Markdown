@@ -1,3 +1,13 @@
+---
+name: Omanyte
+type: Rock, Water
+abilities: Swift Swim, Shell Armor, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Omanyte
 
 

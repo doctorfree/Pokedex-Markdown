@@ -1,3 +1,13 @@
+---
+name: Poliwhirl
+type: Water
+abilities: Water Absorb, Damp, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Poliwhirl
 
 

@@ -1,3 +1,13 @@
+---
+name: Oshawott
+type: Water
+abilities: Torrent, (Hidden) Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Oshawott
 
 

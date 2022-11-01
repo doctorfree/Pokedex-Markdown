@@ -1,3 +1,13 @@
+---
+name: Diancie
+type: Rock, Fairy
+abilities: Clear Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Diancie
 
 

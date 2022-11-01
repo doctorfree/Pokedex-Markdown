@@ -1,3 +1,13 @@
+---
+name: Sandile
+type: Ground, Dark
+abilities: Intimidate, Moxie, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sandile
 
 

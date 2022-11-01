@@ -1,3 +1,13 @@
+---
+name: Magearna
+type: Steel, Fairy
+abilities: Soul-Heart
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magearna
 
 

@@ -1,3 +1,13 @@
+---
+name: Vaporeon
+type: Water
+abilities: Water Absorb, (Hidden) Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vaporeon
 
 

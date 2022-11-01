@@ -1,3 +1,13 @@
+---
+name: Poliwrath
+type: Water, Fighting
+abilities: Water Absorb, Damp, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Poliwrath
 
 

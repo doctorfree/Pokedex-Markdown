@@ -1,3 +1,13 @@
+---
+name: Wigglytuff
+type: Normal, Fairy
+abilities: Cute Charm, Competitive, Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wigglytuff
 
 

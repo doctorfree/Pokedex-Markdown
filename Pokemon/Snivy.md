@@ -1,3 +1,13 @@
+---
+name: Snivy
+type: Grass
+abilities: Overgrow, (Hidden) Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Snivy
 
 

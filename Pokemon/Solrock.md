@@ -1,3 +1,13 @@
+---
+name: Solrock
+type: Rock, Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Solrock
 
 

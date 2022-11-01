@@ -1,3 +1,13 @@
+---
+name: Loudred
+type: Normal
+abilities: Soundproof, (Hidden) Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Loudred
 
 

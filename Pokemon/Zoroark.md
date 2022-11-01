@@ -1,3 +1,13 @@
+---
+name: Zoroark
+type: Dark
+abilities: Illusion
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zoroark
 
 

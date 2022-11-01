@@ -1,3 +1,13 @@
+---
+name: Zangoose
+type: Normal
+abilities: Immunity, (Hidden) Toxic Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zangoose
 
 

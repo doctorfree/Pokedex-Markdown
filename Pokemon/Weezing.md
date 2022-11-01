@@ -1,3 +1,13 @@
+---
+name: Weezing
+type: Poison
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Weezing
 
 

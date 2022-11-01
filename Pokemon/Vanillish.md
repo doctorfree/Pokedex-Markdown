@@ -1,3 +1,13 @@
+---
+name: Vanillish
+type: Ice
+abilities: Ice Body, Snow Cloak, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vanillish
 
 

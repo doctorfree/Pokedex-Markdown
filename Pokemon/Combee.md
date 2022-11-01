@@ -1,3 +1,13 @@
+---
+name: Combee
+type: Bug, Flying
+abilities: Honey Gather, (Hidden) Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Combee
 
 

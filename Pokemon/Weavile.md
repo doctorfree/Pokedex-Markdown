@@ -1,3 +1,13 @@
+---
+name: Weavile
+type: Dark, Ice
+abilities: Pressure, (Hidden) Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Weavile
 
 

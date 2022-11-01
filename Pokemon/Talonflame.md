@@ -1,3 +1,13 @@
+---
+name: Talonflame
+type: Fire, Flying
+abilities: Flame Body, (Hidden) Gale Wings
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Talonflame
 
 

@@ -1,3 +1,13 @@
+---
+name: Hypno
+type: Psychic
+abilities: Insomnia, Forewarn, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hypno
 
 

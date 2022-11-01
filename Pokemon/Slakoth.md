@@ -1,3 +1,13 @@
+---
+name: Slakoth
+type: Normal
+abilities: Truant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Slakoth
 
 

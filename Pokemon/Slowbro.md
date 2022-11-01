@@ -1,3 +1,13 @@
+---
+name: Slowbro
+type: Water, Psychic
+abilities: Oblivious, Own Tempo, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Slowbro
 
 

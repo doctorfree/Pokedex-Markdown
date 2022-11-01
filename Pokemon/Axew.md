@@ -1,3 +1,13 @@
+---
+name: Axew
+type: Dragon
+abilities: Rivalry, Mold Breaker, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Axew
 
 

@@ -1,3 +1,13 @@
+---
+name: Passimian
+type: Fighting
+abilities: Receiver, (Hidden) Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Passimian
 
 

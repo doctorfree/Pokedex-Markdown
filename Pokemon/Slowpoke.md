@@ -1,3 +1,13 @@
+---
+name: Slowpoke
+type: Water, Psychic
+abilities: Oblivious, Own Tempo, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Slowpoke
 
 

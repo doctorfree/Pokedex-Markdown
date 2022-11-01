@@ -1,3 +1,13 @@
+---
+name: Lapras
+type: Water, Ice
+abilities: Water Absorb, Shell Armor, Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lapras
 
 

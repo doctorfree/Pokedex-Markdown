@@ -1,3 +1,13 @@
+---
+name: Kakuna
+type: Bug, Poison
+abilities: Shed Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kakuna
 
 

@@ -1,3 +1,13 @@
+---
+name: Lunala
+type: Psychic, Ghost
+abilities: Shadow Shield
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lunala
 
 

@@ -1,3 +1,13 @@
+---
+name: Oddish
+type: Grass, Poison
+abilities: Chlorophyll, (Hidden) Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Oddish
 
 

@@ -1,3 +1,13 @@
+---
+name: Turtonator
+type: Fire, Dragon
+abilities: Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Turtonator
 
 

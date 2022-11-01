@@ -1,3 +1,13 @@
+---
+name: Pancham
+type: Fighting
+abilities: Iron Fist, Mold Breaker, Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pancham
 
 

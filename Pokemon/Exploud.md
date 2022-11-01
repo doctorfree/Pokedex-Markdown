@@ -1,3 +1,13 @@
+---
+name: Exploud
+type: Normal
+abilities: Soundproof, (Hidden) Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Exploud
 
 

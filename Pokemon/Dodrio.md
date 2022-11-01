@@ -1,3 +1,13 @@
+---
+name: Dodrio
+type: Normal, Flying
+abilities: Run Away, Early Bird, Tangled Feet
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dodrio
 
 

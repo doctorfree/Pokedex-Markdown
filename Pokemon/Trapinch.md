@@ -1,3 +1,13 @@
+---
+name: Trapinch
+type: Ground
+abilities: Hyper Cutter, Arena Trap, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Trapinch
 
 

@@ -1,3 +1,13 @@
+---
+name: Eelektrik
+type: Electric
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Eelektrik
 
 

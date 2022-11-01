@@ -1,3 +1,13 @@
+---
+name: Chingling
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chingling
 
 

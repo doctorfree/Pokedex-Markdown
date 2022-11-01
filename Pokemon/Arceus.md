@@ -1,3 +1,13 @@
+---
+name: Arceus
+type: Normal
+abilities: Multitype
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Arceus
 
 

@@ -1,3 +1,13 @@
+---
+name: Amaura
+type: Rock, Ice
+abilities: Refrigerate, (Hidden) Snow Warning
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Amaura
 
 

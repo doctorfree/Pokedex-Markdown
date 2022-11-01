@@ -1,3 +1,13 @@
+---
+name: Kabutops
+type: Rock, Water
+abilities: Swift Swim, Battle Armor, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kabutops
 
 

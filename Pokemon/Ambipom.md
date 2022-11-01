@@ -1,3 +1,13 @@
+---
+name: Ambipom
+type: Normal
+abilities: Technician, Pickup, Skill Link
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ambipom
 
 

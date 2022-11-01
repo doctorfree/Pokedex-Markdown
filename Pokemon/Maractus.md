@@ -1,3 +1,13 @@
+---
+name: Maractus
+type: Grass
+abilities: Water Absorb, Chlorophyll, Storm Drain
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Maractus
 
 

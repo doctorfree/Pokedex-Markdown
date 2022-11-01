@@ -1,3 +1,13 @@
+---
+name: Gurdurr
+type: Fighting
+abilities: Guts, Sheer Force, Iron Fist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gurdurr
 
 

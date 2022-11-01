@@ -1,3 +1,13 @@
+---
+name: Xurkitree
+type: Electric
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Xurkitree
 
 

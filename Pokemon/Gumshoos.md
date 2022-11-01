@@ -1,3 +1,13 @@
+---
+name: Gumshoos
+type: Normal
+abilities: Stakeout, Strong Jaw, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gumshoos
 
 

@@ -1,3 +1,13 @@
+---
+name: Piloswine
+type: Ice, Ground
+abilities: Oblivious, Snow Cloak, Thick Fat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Piloswine
 
 

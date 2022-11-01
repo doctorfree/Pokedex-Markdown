@@ -1,3 +1,13 @@
+---
+name: Trumbeak
+type: Normal, Flying
+abilities: Keen Eye, Skill Link, Pickup
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Trumbeak
 
 

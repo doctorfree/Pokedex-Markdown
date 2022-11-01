@@ -1,3 +1,13 @@
+---
+name: Drifloon
+type: Ghost, Flying
+abilities: Aftermath, Unburden, Flare Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drifloon
 
 

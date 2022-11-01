@@ -1,3 +1,13 @@
+---
+name: Greninja
+type: Water, Dark
+abilities: Torrent, (Hidden) Protean
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Greninja
 
 

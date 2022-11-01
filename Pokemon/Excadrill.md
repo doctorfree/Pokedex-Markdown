@@ -1,3 +1,13 @@
+---
+name: Excadrill
+type: Ground, Steel
+abilities: Sand Rush, Sand Force, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Excadrill
 
 

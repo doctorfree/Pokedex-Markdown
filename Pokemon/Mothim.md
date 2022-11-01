@@ -1,3 +1,13 @@
+---
+name: Mothim
+type: Bug, Flying
+abilities: Swarm, (Hidden) Tinted Lens
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mothim
 
 

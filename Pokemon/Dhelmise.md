@@ -1,3 +1,13 @@
+---
+name: Dhelmise
+type: Ghost, Grass
+abilities: Steelworker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dhelmise
 
 

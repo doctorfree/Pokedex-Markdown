@@ -1,3 +1,13 @@
+---
+name: Nihilego
+type: Rock, Poison
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nihilego
 
 

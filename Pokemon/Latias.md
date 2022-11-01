@@ -1,3 +1,13 @@
+---
+name: Latias
+type: Dragon, Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Latias
 
 

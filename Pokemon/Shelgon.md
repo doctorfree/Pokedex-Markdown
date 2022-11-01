@@ -1,3 +1,13 @@
+---
+name: Shelgon
+type: Dragon
+abilities: Rock Head, (Hidden) Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shelgon
 
 

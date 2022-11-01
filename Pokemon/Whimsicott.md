@@ -1,3 +1,13 @@
+---
+name: Whimsicott
+type: Grass, Fairy
+abilities: Prankster, Infiltrator, Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Whimsicott
 
 

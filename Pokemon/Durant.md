@@ -1,3 +1,13 @@
+---
+name: Durant
+type: Bug, Steel
+abilities: Swarm, Hustle, Truant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Durant
 
 

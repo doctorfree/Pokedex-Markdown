@@ -1,3 +1,13 @@
+---
+name: Uxie
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Uxie
 
 

@@ -1,3 +1,13 @@
+---
+name: Reshiram
+type: Dragon, Fire
+abilities: Turboblaze
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Reshiram
 
 

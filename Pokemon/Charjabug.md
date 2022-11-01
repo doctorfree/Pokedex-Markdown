@@ -1,3 +1,13 @@
+---
+name: Charjabug
+type: Bug, Electric
+abilities: Battery
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Charjabug
 
 

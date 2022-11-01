@@ -1,3 +1,13 @@
+---
+name: Beedrill
+type: Bug, Poison
+abilities: Swarm, (Hidden) Sniper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Beedrill
 
 

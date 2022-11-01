@@ -1,3 +1,13 @@
+---
+name: Cranidos
+type: Rock
+abilities: Mold Breaker, (Hidden) Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cranidos
 
 

@@ -1,3 +1,13 @@
+---
+name: Lickitung
+type: Normal
+abilities: Own Tempo, Oblivious, Cloud Nine
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lickitung
 
 

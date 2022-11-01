@@ -1,3 +1,13 @@
+---
+name: Metapod
+type: Bug
+abilities: Shed Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Metapod
 
 

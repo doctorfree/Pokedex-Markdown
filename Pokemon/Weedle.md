@@ -1,3 +1,13 @@
+---
+name: Weedle
+type: Bug, Poison
+abilities: Shield Dust, (Hidden) Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Weedle
 
 

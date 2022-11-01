@@ -1,3 +1,13 @@
+---
+name: Skuntank
+type: Poison, Dark
+abilities: Stench, Aftermath, Keen Eye
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Skuntank
 
 

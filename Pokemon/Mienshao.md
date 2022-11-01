@@ -1,3 +1,13 @@
+---
+name: Mienshao
+type: Fighting
+abilities: Inner Focus, Regenerator, Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mienshao
 
 

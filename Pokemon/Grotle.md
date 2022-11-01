@@ -1,3 +1,13 @@
+---
+name: Grotle
+type: Grass
+abilities: Overgrow, (Hidden) Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Grotle
 
 

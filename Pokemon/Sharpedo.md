@@ -1,3 +1,13 @@
+---
+name: Sharpedo
+type: Water, Dark
+abilities: Rough Skin, (Hidden) Speed Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sharpedo
 
 

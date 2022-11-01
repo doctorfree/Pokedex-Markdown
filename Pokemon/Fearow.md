@@ -1,3 +1,13 @@
+---
+name: Fearow
+type: Normal, Flying
+abilities: Keen Eye, (Hidden) Sniper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Fearow
 
 

@@ -1,3 +1,13 @@
+---
+name: Doublade
+type: Steel, Ghost
+abilities: No Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Doublade
 
 

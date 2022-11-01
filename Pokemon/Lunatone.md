@@ -1,3 +1,13 @@
+---
+name: Lunatone
+type: Rock, Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lunatone
 
 

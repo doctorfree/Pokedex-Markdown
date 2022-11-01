@@ -1,3 +1,13 @@
+---
+name: Hitmonlee
+type: Fighting
+abilities: Limber, Reckless, Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hitmonlee
 
 

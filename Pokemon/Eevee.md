@@ -1,3 +1,13 @@
+---
+name: Eevee
+type: Normal
+abilities: Run Away, Adaptability, Anticipation
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Eevee
 
 

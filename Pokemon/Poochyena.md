@@ -1,3 +1,13 @@
+---
+name: Poochyena
+type: Dark
+abilities: Run Away, Quick Feet, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Poochyena
 
 

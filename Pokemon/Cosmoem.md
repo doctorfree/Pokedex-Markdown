@@ -1,3 +1,13 @@
+---
+name: Cosmoem
+type: Psychic
+abilities: Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cosmoem
 
 

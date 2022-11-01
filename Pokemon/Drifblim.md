@@ -1,3 +1,13 @@
+---
+name: Drifblim
+type: Ghost, Flying
+abilities: Aftermath, Unburden, Flare Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drifblim
 
 

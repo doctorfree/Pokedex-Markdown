@@ -1,3 +1,13 @@
+---
+name: Celebi
+type: Psychic, Grass
+abilities: Natural Cure
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Celebi
 
 

@@ -1,3 +1,13 @@
+---
+name: Hawlucha
+type: Fighting, Flying
+abilities: Limber, Unburden, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hawlucha
 
 

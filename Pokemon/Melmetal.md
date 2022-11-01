@@ -1,3 +1,13 @@
+---
+name: Melmetal
+type: Steel
+abilities: 
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Melmetal
 
 

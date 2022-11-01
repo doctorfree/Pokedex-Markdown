@@ -1,3 +1,13 @@
+---
+name: Litten
+type: Fire
+abilities: Blaze, (Hidden) Intimidate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Litten
 
 

@@ -1,3 +1,13 @@
+---
+name: Seismitoad
+type: Water, Ground
+abilities: Swift Swim, Poison Touch, Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Seismitoad
 
 

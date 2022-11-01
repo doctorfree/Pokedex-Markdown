@@ -1,3 +1,13 @@
+---
+name: Cloyster
+type: Water, Ice
+abilities: Shell Armor, Skill Link, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cloyster
 
 

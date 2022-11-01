@@ -1,3 +1,13 @@
+---
+name: Heracross
+type: Bug, Fighting
+abilities: Swarm, Guts, Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Heracross
 
 

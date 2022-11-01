@@ -1,3 +1,13 @@
+---
+name: Carnivine
+type: Grass
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Carnivine
 
 

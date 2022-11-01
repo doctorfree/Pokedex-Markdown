@@ -1,3 +1,13 @@
+---
+name: Ledian
+type: Bug, Flying
+abilities: Swarm, Early Bird, Iron Fist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ledian
 
 

@@ -1,3 +1,13 @@
+---
+name: Houndoom
+type: Dark, Fire
+abilities: Early Bird, Flash Fire, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Houndoom
 
 

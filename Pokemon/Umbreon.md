@@ -1,3 +1,13 @@
+---
+name: Umbreon
+type: Dark
+abilities: Synchronize, (Hidden) Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Umbreon
 
 

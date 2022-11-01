@@ -1,3 +1,13 @@
+---
+name: Delphox
+type: Fire, Psychic
+abilities: Blaze, (Hidden) Magician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Delphox
 
 

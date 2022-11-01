@@ -1,3 +1,13 @@
+---
+name: Flygon
+type: Ground, Dragon
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Flygon
 
 

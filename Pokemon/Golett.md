@@ -1,3 +1,13 @@
+---
+name: Golett
+type: Ground, Ghost
+abilities: Iron Fist, Klutz, No Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Golett
 
 

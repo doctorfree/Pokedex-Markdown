@@ -1,3 +1,13 @@
+---
+name: Surskit
+type: Bug, Water
+abilities: Swift Swim, (Hidden) Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Surskit
 
 

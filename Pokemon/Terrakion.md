@@ -1,3 +1,13 @@
+---
+name: Terrakion
+type: Rock, Fighting
+abilities: Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Terrakion
 
 

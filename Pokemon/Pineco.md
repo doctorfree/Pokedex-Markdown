@@ -1,3 +1,13 @@
+---
+name: Pineco
+type: Bug
+abilities: Sturdy, (Hidden) Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pineco
 
 

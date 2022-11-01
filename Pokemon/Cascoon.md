@@ -1,3 +1,13 @@
+---
+name: Cascoon
+type: Bug
+abilities: Shed Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cascoon
 
 

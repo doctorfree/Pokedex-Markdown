@@ -1,3 +1,13 @@
+---
+name: Audino
+type: Normal
+abilities: Healer, Regenerator, Klutz
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Audino
 
 

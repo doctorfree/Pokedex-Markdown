@@ -1,3 +1,13 @@
+---
+name: Ho-Oh
+type: Fire, Flying
+abilities: Pressure, (Hidden) Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ho-Oh
 
 

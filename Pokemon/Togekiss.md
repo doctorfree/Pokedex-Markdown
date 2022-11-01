@@ -1,3 +1,13 @@
+---
+name: Togekiss
+type: Fairy, Flying
+abilities: Hustle, Serene Grace, Super Luck
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Togekiss
 
 

@@ -1,3 +1,13 @@
+---
+name: Spheal
+type: Ice, Water
+abilities: Thick Fat, Ice Body, Oblivious
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spheal
 
 

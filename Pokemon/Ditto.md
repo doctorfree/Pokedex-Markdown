@@ -1,3 +1,13 @@
+---
+name: Ditto
+type: Normal
+abilities: Limber, (Hidden) Imposter
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ditto
 
 

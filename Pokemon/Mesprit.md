@@ -1,3 +1,13 @@
+---
+name: Mesprit
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mesprit
 
 

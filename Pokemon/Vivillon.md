@@ -1,3 +1,13 @@
+---
+name: Vivillon
+type: Bug, Flying
+abilities: Shield Dust, Compound Eyes, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vivillon
 
 

@@ -1,3 +1,13 @@
+---
+name: Venusaur
+type: Grass, Poison
+abilities: Overgrow, (Hidden) Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Venusaur
 
 

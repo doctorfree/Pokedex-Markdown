@@ -1,3 +1,13 @@
+---
+name: Torterra
+type: Grass, Ground
+abilities: Overgrow, (Hidden) Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Torterra
 
 

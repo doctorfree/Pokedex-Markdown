@@ -1,3 +1,13 @@
+---
+name: Zigzagoon
+type: Normal
+abilities: Pickup, Gluttony, Quick Feet
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zigzagoon
 
 

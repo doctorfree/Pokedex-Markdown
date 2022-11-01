@@ -1,3 +1,13 @@
+---
+name: Abomasnow
+type: Grass, Ice
+abilities: Snow Warning, (Hidden) Soundproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Abomasnow
 
 

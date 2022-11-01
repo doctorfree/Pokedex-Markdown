@@ -1,3 +1,13 @@
+---
+name: Karrablast
+type: Bug
+abilities: Swarm, Shed Skin, No Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Karrablast
 
 

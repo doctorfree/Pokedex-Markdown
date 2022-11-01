@@ -1,3 +1,13 @@
+---
+name: Zekrom
+type: Dragon, Electric
+abilities: Teravolt
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zekrom
 
 

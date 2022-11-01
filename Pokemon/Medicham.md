@@ -1,3 +1,13 @@
+---
+name: Medicham
+type: Fighting, Psychic
+abilities: Pure Power, (Hidden) Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Medicham
 
 

@@ -1,3 +1,13 @@
+---
+name: Marshtomp
+type: Water, Ground
+abilities: Torrent, (Hidden) Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Marshtomp
 
 

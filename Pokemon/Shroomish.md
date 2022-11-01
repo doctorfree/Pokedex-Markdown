@@ -1,3 +1,13 @@
+---
+name: Shroomish
+type: Grass
+abilities: Effect Spore, Poison Heal, Quick Feet
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shroomish
 
 

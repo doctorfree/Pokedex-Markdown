@@ -1,3 +1,13 @@
+---
+name: Ferrothorn
+type: Grass, Steel
+abilities: Iron Barbs, (Hidden) Anticipation
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ferrothorn
 
 

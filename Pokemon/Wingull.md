@@ -1,3 +1,13 @@
+---
+name: Wingull
+type: Water, Flying
+abilities: Keen Eye, Hydration, Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wingull
 
 

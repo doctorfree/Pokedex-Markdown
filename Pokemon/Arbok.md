@@ -1,3 +1,13 @@
+---
+name: Arbok
+type: Poison
+abilities: Intimidate, Shed Skin, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Arbok
 
 

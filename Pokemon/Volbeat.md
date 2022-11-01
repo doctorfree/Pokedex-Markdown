@@ -1,3 +1,13 @@
+---
+name: Volbeat
+type: Bug
+abilities: Illuminate, Swarm, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Volbeat
 
 

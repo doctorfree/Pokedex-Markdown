@@ -1,3 +1,13 @@
+---
+name: Trubbish
+type: Poison
+abilities: Stench, Sticky Hold, Aftermath
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Trubbish
 
 

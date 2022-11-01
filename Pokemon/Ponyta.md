@@ -1,3 +1,13 @@
+---
+name: Ponyta
+type: Fire
+abilities: Run Away, Flash Fire, Flame Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ponyta
 
 

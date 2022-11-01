@@ -1,3 +1,13 @@
+---
+name: Vullaby
+type: Dark, Flying
+abilities: Big Pecks, Overcoat, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vullaby
 
 

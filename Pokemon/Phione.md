@@ -1,3 +1,13 @@
+---
+name: Phione
+type: Water
+abilities: Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Phione
 
 

@@ -1,3 +1,13 @@
+---
+name: Pansear
+type: Fire
+abilities: Gluttony, (Hidden) Blaze
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pansear
 
 

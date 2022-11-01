@@ -1,3 +1,13 @@
+---
+name: Joltik
+type: Bug, Electric
+abilities: Compound Eyes, Unnerve, Swarm
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Joltik
 
 

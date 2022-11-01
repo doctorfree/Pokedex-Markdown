@@ -1,3 +1,13 @@
+---
+name: Gabite
+type: Dragon, Ground
+abilities: Sand Veil, (Hidden) Rough Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gabite
 
 

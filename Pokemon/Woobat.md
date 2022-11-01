@@ -1,3 +1,13 @@
+---
+name: Woobat
+type: Psychic, Flying
+abilities: Unaware, Klutz, Simple
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Woobat
 
 

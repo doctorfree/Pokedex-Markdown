@@ -1,3 +1,13 @@
+---
+name: Tyrogue
+type: Fighting
+abilities: Guts, Steadfast, Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tyrogue
 
 

@@ -1,3 +1,13 @@
+---
+name: Baltoy
+type: Ground, Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Baltoy
 
 

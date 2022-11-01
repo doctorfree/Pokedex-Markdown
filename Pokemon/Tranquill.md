@@ -1,3 +1,13 @@
+---
+name: Tranquill
+type: Normal, Flying
+abilities: Big Pecks, Super Luck, Rivalry
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tranquill
 
 

@@ -1,3 +1,13 @@
+---
+name: Kangaskhan
+type: Normal
+abilities: Early Bird, Scrappy, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kangaskhan
 
 

@@ -1,3 +1,13 @@
+---
+name: Nuzleaf
+type: Grass, Dark
+abilities: Chlorophyll, Early Bird, Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nuzleaf
 
 

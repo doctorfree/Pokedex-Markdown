@@ -1,3 +1,13 @@
+---
+name: Trevenant
+type: Ghost, Grass
+abilities: Natural Cure, Frisk, Harvest
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Trevenant
 
 

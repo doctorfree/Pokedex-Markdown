@@ -1,3 +1,13 @@
+---
+name: Purrloin
+type: Dark
+abilities: Limber, Unburden, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Purrloin
 
 

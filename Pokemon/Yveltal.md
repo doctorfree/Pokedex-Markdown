@@ -1,3 +1,13 @@
+---
+name: Yveltal
+type: Dark, Flying
+abilities: Dark Aura
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Yveltal
 
 

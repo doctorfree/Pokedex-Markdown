@@ -1,3 +1,13 @@
+---
+name: Rufflet
+type: Normal, Flying
+abilities: Keen Eye, Sheer Force, Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rufflet
 
 

@@ -1,3 +1,13 @@
+---
+name: Bagon
+type: Dragon
+abilities: Rock Head, (Hidden) Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bagon
 
 

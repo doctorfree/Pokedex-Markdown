@@ -1,3 +1,13 @@
+---
+name: Staravia
+type: Normal, Flying
+abilities: Intimidate, (Hidden) Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Staravia
 
 

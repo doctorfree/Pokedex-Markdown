@@ -1,3 +1,13 @@
+---
+name: Bronzong
+type: Steel, Psychic
+abilities: Levitate, Heatproof, Heavy Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bronzong
 
 

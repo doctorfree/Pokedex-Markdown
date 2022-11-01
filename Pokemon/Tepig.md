@@ -1,3 +1,13 @@
+---
+name: Tepig
+type: Fire
+abilities: Blaze, (Hidden) Thick Fat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tepig
 
 

@@ -1,3 +1,13 @@
+---
+name: Kyogre
+type: Water
+abilities: Drizzle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kyogre
 
 

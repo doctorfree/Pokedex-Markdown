@@ -1,3 +1,13 @@
+---
+name: Aurorus
+type: Rock, Ice
+abilities: Refrigerate, (Hidden) Snow Warning
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Aurorus
 
 

@@ -1,3 +1,13 @@
+---
+name: Quilladin
+type: Grass
+abilities: Overgrow, (Hidden) Bulletproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Quilladin
 
 

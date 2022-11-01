@@ -1,3 +1,13 @@
+---
+name: Magmortar
+type: Fire
+abilities: Flame Body, (Hidden) Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magmortar
 
 

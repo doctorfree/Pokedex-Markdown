@@ -1,3 +1,13 @@
+---
+name: Drampa
+type: Normal, Dragon
+abilities: Berserk, Sap Sipper, Cloud Nine
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drampa
 
 

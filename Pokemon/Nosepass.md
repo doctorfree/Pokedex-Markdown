@@ -1,3 +1,13 @@
+---
+name: Nosepass
+type: Rock
+abilities: Sturdy, Magnet Pull, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nosepass
 
 

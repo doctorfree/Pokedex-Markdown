@@ -1,3 +1,13 @@
+---
+name: Farfetch'd
+type: Normal, Flying
+abilities: Keen Eye, Inner Focus, Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Farfetch'd
 
 

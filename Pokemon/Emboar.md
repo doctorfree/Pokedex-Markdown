@@ -1,3 +1,13 @@
+---
+name: Emboar
+type: Fire, Fighting
+abilities: Blaze, (Hidden) Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Emboar
 
 

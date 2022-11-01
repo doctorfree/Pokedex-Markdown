@@ -1,3 +1,13 @@
+---
+name: Goomy
+type: Dragon
+abilities: Sap Sipper, Hydration, Gooey
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Goomy
 
 

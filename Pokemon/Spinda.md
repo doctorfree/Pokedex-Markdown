@@ -1,3 +1,13 @@
+---
+name: Spinda
+type: Normal
+abilities: Own Tempo, Tangled Feet, Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spinda
 
 

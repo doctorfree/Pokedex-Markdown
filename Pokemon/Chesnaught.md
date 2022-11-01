@@ -1,3 +1,13 @@
+---
+name: Chesnaught
+type: Grass, Fighting
+abilities: Overgrow, (Hidden) Bulletproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chesnaught
 
 

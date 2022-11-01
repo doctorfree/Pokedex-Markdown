@@ -1,3 +1,13 @@
+---
+name: Torkoal
+type: Fire
+abilities: White Smoke, Drought, Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Torkoal
 
 

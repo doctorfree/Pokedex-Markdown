@@ -1,3 +1,13 @@
+---
+name: Hakamo-o
+type: Dragon, Fighting
+abilities: Bulletproof, Soundproof, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hakamo-o
 
 

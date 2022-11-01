@@ -1,3 +1,13 @@
+---
+name: Crabominable
+type: Fighting, Ice
+abilities: Hyper Cutter, Iron Fist, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Crabominable
 
 

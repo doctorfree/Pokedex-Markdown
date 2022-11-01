@@ -1,3 +1,13 @@
+---
+name: Qwilfish
+type: Water, Poison
+abilities: Poison Point, Swift Swim, Intimidate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Qwilfish
 
 

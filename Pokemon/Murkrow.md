@@ -1,3 +1,13 @@
+---
+name: Murkrow
+type: Dark, Flying
+abilities: Insomnia, Super Luck, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Murkrow
 
 

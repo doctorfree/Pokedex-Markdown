@@ -1,3 +1,13 @@
+---
+name: Kecleon
+type: Normal
+abilities: Color Change, (Hidden) Protean
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kecleon
 
 

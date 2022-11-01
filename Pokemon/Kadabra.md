@@ -1,3 +1,13 @@
+---
+name: Kadabra
+type: Psychic
+abilities: Synchronize, Inner Focus, Magic Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kadabra
 
 

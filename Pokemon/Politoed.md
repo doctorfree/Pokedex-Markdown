@@ -1,3 +1,13 @@
+---
+name: Politoed
+type: Water
+abilities: Water Absorb, Damp, Drizzle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Politoed
 
 

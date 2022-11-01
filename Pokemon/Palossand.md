@@ -1,3 +1,13 @@
+---
+name: Palossand
+type: Ghost, Ground
+abilities: Water Compaction, (Hidden) Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Palossand
 
 

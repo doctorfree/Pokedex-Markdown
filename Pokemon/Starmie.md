@@ -1,3 +1,13 @@
+---
+name: Starmie
+type: Water, Psychic
+abilities: Illuminate, Natural Cure, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Starmie
 
 

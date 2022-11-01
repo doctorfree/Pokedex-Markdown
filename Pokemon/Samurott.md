@@ -1,3 +1,13 @@
+---
+name: Samurott
+type: Water
+abilities: Torrent, (Hidden) Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Samurott
 
 

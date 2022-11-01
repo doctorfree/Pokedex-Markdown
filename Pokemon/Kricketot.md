@@ -1,3 +1,13 @@
+---
+name: Kricketot
+type: Bug
+abilities: Shed Skin, (Hidden) Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kricketot
 
 

@@ -1,3 +1,13 @@
+---
+name: Goldeen
+type: Water
+abilities: Swift Swim, Water Veil, Lightning Rod
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Goldeen
 
 

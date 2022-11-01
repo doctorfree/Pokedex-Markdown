@@ -1,3 +1,13 @@
+---
+name: Shuckle
+type: Bug, Rock
+abilities: Sturdy, Gluttony, Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shuckle
 
 

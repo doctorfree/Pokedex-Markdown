@@ -1,3 +1,13 @@
+---
+name: Bounsweet
+type: Grass
+abilities: Leaf Guard, Oblivious, Sweet Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bounsweet
 
 

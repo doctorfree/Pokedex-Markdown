@@ -1,3 +1,13 @@
+---
+name: Leavanny
+type: Bug, Grass
+abilities: Swarm, Chlorophyll, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Leavanny
 
 

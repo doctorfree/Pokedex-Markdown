@@ -1,3 +1,13 @@
+---
+name: Miltank
+type: Normal
+abilities: Thick Fat, Scrappy, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Miltank
 
 

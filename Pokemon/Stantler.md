@@ -1,3 +1,13 @@
+---
+name: Stantler
+type: Normal
+abilities: Intimidate, Frisk, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Stantler
 
 

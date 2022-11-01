@@ -1,3 +1,13 @@
+---
+name: Blissey
+type: Normal
+abilities: Natural Cure, Serene Grace, Healer
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Blissey
 
 

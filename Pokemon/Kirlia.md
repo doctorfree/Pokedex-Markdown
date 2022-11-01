@@ -1,3 +1,13 @@
+---
+name: Kirlia
+type: Psychic, Fairy
+abilities: Synchronize, Trace, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kirlia
 
 

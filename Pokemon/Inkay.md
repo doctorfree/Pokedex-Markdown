@@ -1,3 +1,13 @@
+---
+name: Inkay
+type: Dark, Psychic
+abilities: Contrary, Suction Cups, Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Inkay
 
 

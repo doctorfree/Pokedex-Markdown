@@ -1,3 +1,13 @@
+---
+name: Swalot
+type: Poison
+abilities: Liquid Ooze, Sticky Hold, Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swalot
 
 

@@ -1,3 +1,13 @@
+---
+name: Skarmory
+type: Steel, Flying
+abilities: Keen Eye, Sturdy, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Skarmory
 
 

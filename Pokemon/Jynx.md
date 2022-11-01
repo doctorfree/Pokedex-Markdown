@@ -1,3 +1,13 @@
+---
+name: Jynx
+type: Ice, Psychic
+abilities: Oblivious, Forewarn, Dry Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jynx
 
 

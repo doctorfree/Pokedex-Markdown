@@ -1,3 +1,13 @@
+---
+name: Minun
+type: Electric
+abilities: Minus, (Hidden) Volt Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Minun
 
 

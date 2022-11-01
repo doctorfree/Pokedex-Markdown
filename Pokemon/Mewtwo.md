@@ -1,3 +1,13 @@
+---
+name: Mewtwo
+type: Psychic
+abilities: Pressure, (Hidden) Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mewtwo
 
 

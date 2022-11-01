@@ -1,3 +1,13 @@
+---
+name: Fennekin
+type: Fire
+abilities: Blaze, (Hidden) Magician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Fennekin
 
 

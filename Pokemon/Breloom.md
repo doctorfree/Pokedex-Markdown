@@ -1,3 +1,13 @@
+---
+name: Breloom
+type: Grass, Fighting
+abilities: Effect Spore, Poison Heal, Technician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Breloom
 
 

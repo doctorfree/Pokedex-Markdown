@@ -1,3 +1,13 @@
+---
+name: Clefable
+type: Fairy
+abilities: Cute Charm, Magic Guard, Unaware
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Clefable
 
 

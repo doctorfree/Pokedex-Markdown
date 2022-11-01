@@ -1,3 +1,13 @@
+---
+name: Nincada
+type: Bug, Ground
+abilities: Compound Eyes, (Hidden) Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nincada
 
 

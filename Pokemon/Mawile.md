@@ -1,3 +1,13 @@
+---
+name: Mawile
+type: Steel, Fairy
+abilities: Hyper Cutter, Intimidate, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mawile
 
 

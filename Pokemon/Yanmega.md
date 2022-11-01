@@ -1,3 +1,13 @@
+---
+name: Yanmega
+type: Bug, Flying
+abilities: Speed Boost, Tinted Lens, Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Yanmega
 
 

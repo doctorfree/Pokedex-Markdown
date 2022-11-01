@@ -1,3 +1,13 @@
+---
+name: Wimpod
+type: Bug, Water
+abilities: Wimp Out
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wimpod
 
 

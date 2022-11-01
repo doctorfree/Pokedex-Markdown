@@ -1,3 +1,13 @@
+---
+name: Ninjask
+type: Bug, Flying
+abilities: Speed Boost, (Hidden) Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ninjask
 
 

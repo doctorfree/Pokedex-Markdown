@@ -1,3 +1,13 @@
+---
+name: Chimecho
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chimecho
 
 

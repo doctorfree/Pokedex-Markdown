@@ -1,3 +1,13 @@
+---
+name: Masquerain
+type: Bug, Flying
+abilities: Intimidate, (Hidden) Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Masquerain
 
 

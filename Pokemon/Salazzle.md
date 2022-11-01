@@ -1,3 +1,13 @@
+---
+name: Salazzle
+type: Poison, Fire
+abilities: Corrosion, (Hidden) Oblivious
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Salazzle
 
 

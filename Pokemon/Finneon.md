@@ -1,3 +1,13 @@
+---
+name: Finneon
+type: Water
+abilities: Swift Swim, Storm Drain, Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Finneon
 
 

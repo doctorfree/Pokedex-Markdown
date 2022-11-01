@@ -1,3 +1,13 @@
+---
+name: Larvesta
+type: Bug, Fire
+abilities: Flame Body, (Hidden) Swarm
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Larvesta
 
 

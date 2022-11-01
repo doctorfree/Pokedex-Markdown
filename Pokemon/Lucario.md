@@ -1,3 +1,13 @@
+---
+name: Lucario
+type: Fighting, Steel
+abilities: Steadfast, Inner Focus, Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lucario
 
 

@@ -1,3 +1,13 @@
+---
+name: Jangmo-o
+type: Dragon
+abilities: Bulletproof, Soundproof, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jangmo-o
 
 

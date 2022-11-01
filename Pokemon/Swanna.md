@@ -1,3 +1,13 @@
+---
+name: Swanna
+type: Water, Flying
+abilities: Keen Eye, Big Pecks, Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swanna
 
 

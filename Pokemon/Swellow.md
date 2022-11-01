@@ -1,3 +1,13 @@
+---
+name: Swellow
+type: Normal, Flying
+abilities: Guts, (Hidden) Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swellow
 
 

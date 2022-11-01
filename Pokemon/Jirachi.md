@@ -1,3 +1,13 @@
+---
+name: Jirachi
+type: Steel, Psychic
+abilities: Serene Grace
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jirachi
 
 

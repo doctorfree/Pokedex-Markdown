@@ -1,3 +1,13 @@
+---
+name: Mantyke
+type: Water, Flying
+abilities: Swift Swim, Water Absorb, Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mantyke
 
 

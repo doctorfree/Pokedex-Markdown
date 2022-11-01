@@ -1,3 +1,13 @@
+---
+name: Binacle
+type: Rock, Water
+abilities: Tough Claws, Sniper, Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Binacle
 
 

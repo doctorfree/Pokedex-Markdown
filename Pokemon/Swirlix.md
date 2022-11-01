@@ -1,3 +1,13 @@
+---
+name: Swirlix
+type: Fairy
+abilities: Sweet Veil, (Hidden) Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swirlix
 
 

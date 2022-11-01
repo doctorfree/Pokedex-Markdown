@@ -1,3 +1,13 @@
+---
+name: Cryogonal
+type: Ice
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cryogonal
 
 

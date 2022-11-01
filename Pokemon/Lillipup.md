@@ -1,3 +1,13 @@
+---
+name: Lillipup
+type: Normal
+abilities: Vital Spirit, Pickup, Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lillipup
 
 

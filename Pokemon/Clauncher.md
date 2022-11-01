@@ -1,3 +1,13 @@
+---
+name: Clauncher
+type: Water
+abilities: Mega Launcher
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Clauncher
 
 

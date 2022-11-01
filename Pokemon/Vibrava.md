@@ -1,3 +1,13 @@
+---
+name: Vibrava
+type: Ground, Dragon
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vibrava
 
 

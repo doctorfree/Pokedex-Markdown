@@ -1,3 +1,13 @@
+---
+name: Toxapex
+type: Poison, Water
+abilities: Merciless, Limber, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Toxapex
 
 

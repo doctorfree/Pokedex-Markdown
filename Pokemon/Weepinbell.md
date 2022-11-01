@@ -1,3 +1,13 @@
+---
+name: Weepinbell
+type: Grass, Poison
+abilities: Chlorophyll, (Hidden) Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Weepinbell
 
 

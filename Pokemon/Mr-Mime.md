@@ -1,3 +1,13 @@
+---
+name: Mr. Mime
+type: Psychic, Fairy
+abilities: Soundproof, Filter, Technician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mr. Mime
 
 

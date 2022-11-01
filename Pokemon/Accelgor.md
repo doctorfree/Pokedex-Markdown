@@ -1,3 +1,13 @@
+---
+name: Accelgor
+type: Bug
+abilities: Hydration, Sticky Hold, Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Accelgor
 
 

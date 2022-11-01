@@ -1,3 +1,13 @@
+---
+name: Cradily
+type: Rock, Grass
+abilities: Suction Cups, (Hidden) Storm Drain
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cradily
 
 

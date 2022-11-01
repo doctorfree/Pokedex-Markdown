@@ -1,3 +1,13 @@
+---
+name: Noibat
+type: Flying, Dragon
+abilities: Frisk, Infiltrator, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Noibat
 
 

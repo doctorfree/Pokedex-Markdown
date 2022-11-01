@@ -1,3 +1,13 @@
+---
+name: Oranguru
+type: Normal, Psychic
+abilities: Inner Focus, Telepathy, Symbiosis
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Oranguru
 
 

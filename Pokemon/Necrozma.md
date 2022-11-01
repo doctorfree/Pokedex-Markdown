@@ -1,3 +1,13 @@
+---
+name: Necrozma
+type: Psychic
+abilities: Prism Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Necrozma
 
 

@@ -1,3 +1,13 @@
+---
+name: Togepi
+type: Fairy
+abilities: Hustle, Serene Grace, Super Luck
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Togepi
 
 

@@ -1,3 +1,13 @@
+---
+name: Cubchoo
+type: Ice
+abilities: Snow Cloak, Slush Rush, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cubchoo
 
 

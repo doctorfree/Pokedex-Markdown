@@ -1,3 +1,13 @@
+---
+name: Suicune
+type: Water
+abilities: Pressure, (Hidden) Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Suicune
 
 

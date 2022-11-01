@@ -1,3 +1,13 @@
+---
+name: Snubbull
+type: Fairy
+abilities: Intimidate, Run Away, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Snubbull
 
 

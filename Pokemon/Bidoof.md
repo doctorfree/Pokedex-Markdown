@@ -1,3 +1,13 @@
+---
+name: Bidoof
+type: Normal
+abilities: Simple, Unaware, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bidoof
 
 

@@ -1,3 +1,13 @@
+---
+name: Probopass
+type: Rock, Steel
+abilities: Sturdy, Magnet Pull, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Probopass
 
 

@@ -1,3 +1,13 @@
+---
+name: Glameow
+type: Normal
+abilities: Limber, Own Tempo, Keen Eye
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Glameow
 
 

@@ -1,3 +1,13 @@
+---
+name: Aron
+type: Steel, Rock
+abilities: Sturdy, Rock Head, Heavy Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Aron
 
 

@@ -1,3 +1,13 @@
+---
+name: Drilbur
+type: Ground
+abilities: Sand Rush, Sand Force, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drilbur
 
 

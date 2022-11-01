@@ -1,3 +1,13 @@
+---
+name: Skorupi
+type: Poison, Bug
+abilities: Battle Armor, Sniper, Keen Eye
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Skorupi
 
 

@@ -1,3 +1,13 @@
+---
+name: Bellsprout
+type: Grass, Poison
+abilities: Chlorophyll, (Hidden) Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bellsprout
 
 

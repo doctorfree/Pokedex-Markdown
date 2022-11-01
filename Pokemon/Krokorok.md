@@ -1,3 +1,13 @@
+---
+name: Krokorok
+type: Ground, Dark
+abilities: Intimidate, Moxie, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Krokorok
 
 

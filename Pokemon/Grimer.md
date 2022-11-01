@@ -1,3 +1,13 @@
+---
+name: Grimer
+type: Poison
+abilities: Stench, Sticky Hold, Poison Touch
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Grimer
 
 

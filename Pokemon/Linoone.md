@@ -1,3 +1,13 @@
+---
+name: Linoone
+type: Normal
+abilities: Pickup, Gluttony, Quick Feet
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Linoone
 
 

@@ -1,3 +1,13 @@
+---
+name: Gorebyss
+type: Water
+abilities: Swift Swim, (Hidden) Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gorebyss
 
 

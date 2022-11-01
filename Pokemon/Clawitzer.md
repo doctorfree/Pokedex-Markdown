@@ -1,3 +1,13 @@
+---
+name: Clawitzer
+type: Water
+abilities: Mega Launcher
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Clawitzer
 
 

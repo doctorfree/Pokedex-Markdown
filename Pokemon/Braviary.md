@@ -1,3 +1,13 @@
+---
+name: Braviary
+type: Normal, Flying
+abilities: Keen Eye, Sheer Force, Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Braviary
 
 

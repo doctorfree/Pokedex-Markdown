@@ -1,3 +1,13 @@
+---
+name: Froslass
+type: Ice, Ghost
+abilities: Snow Cloak, (Hidden) Cursed Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Froslass
 
 

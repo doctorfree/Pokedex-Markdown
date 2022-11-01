@@ -1,3 +1,13 @@
+---
+name: Shuppet
+type: Ghost
+abilities: Insomnia, Frisk, Cursed Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shuppet
 
 

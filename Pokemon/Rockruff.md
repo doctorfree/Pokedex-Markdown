@@ -1,3 +1,13 @@
+---
+name: Rockruff
+type: Rock
+abilities: Keen Eye, Vital Spirit, Steadfast
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rockruff
 
 

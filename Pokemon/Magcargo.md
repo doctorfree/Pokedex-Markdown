@@ -1,3 +1,13 @@
+---
+name: Magcargo
+type: Fire, Rock
+abilities: Magma Armor, Flame Body, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magcargo
 
 

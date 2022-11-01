@@ -1,3 +1,13 @@
+---
+name: Escavalier
+type: Bug, Steel
+abilities: Swarm, Shell Armor, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Escavalier
 
 

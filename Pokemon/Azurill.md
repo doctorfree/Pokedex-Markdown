@@ -1,3 +1,13 @@
+---
+name: Azurill
+type: Normal, Fairy
+abilities: Thick Fat, Huge Power, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Azurill
 
 

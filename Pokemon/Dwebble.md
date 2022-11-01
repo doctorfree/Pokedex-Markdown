@@ -1,3 +1,13 @@
+---
+name: Dwebble
+type: Bug, Rock
+abilities: Sturdy, Shell Armor, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dwebble
 
 

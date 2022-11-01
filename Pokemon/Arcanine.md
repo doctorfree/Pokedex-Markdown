@@ -1,3 +1,13 @@
+---
+name: Arcanine
+type: Fire
+abilities: Intimidate, Flash Fire, Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Arcanine
 
 

@@ -1,3 +1,13 @@
+---
+name: Sneasel
+type: Dark, Ice
+abilities: Inner Focus, Keen Eye, Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sneasel
 
 

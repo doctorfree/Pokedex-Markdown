@@ -1,3 +1,13 @@
+---
+name: Teddiursa
+type: Normal
+abilities: Pickup, Quick Feet, Honey Gather
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Teddiursa
 
 

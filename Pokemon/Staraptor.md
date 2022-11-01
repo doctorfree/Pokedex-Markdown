@@ -1,3 +1,13 @@
+---
+name: Staraptor
+type: Normal, Flying
+abilities: Intimidate, (Hidden) Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Staraptor
 
 

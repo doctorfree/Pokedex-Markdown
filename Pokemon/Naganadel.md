@@ -1,3 +1,13 @@
+---
+name: Naganadel
+type: Poison, Dragon
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Naganadel
 
 

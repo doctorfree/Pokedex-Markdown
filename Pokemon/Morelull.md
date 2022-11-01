@@ -1,3 +1,13 @@
+---
+name: Morelull
+type: Grass, Fairy
+abilities: Illuminate, Effect Spore, Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Morelull
 
 

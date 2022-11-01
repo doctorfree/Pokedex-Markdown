@@ -1,3 +1,13 @@
+---
+name: Altaria
+type: Dragon, Flying
+abilities: Natural Cure, (Hidden) Cloud Nine
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Altaria
 
 

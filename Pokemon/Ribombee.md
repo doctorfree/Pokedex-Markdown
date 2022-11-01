@@ -1,3 +1,13 @@
+---
+name: Ribombee
+type: Bug, Fairy
+abilities: Honey Gather, Shield Dust, Sweet Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ribombee
 
 

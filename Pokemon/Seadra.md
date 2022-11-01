@@ -1,3 +1,13 @@
+---
+name: Seadra
+type: Water
+abilities: Poison Point, Sniper, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Seadra
 
 

@@ -1,3 +1,13 @@
+---
+name: Snorunt
+type: Ice
+abilities: Inner Focus, Ice Body, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Snorunt
 
 

@@ -1,3 +1,13 @@
+---
+name: Timburr
+type: Fighting
+abilities: Guts, Sheer Force, Iron Fist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Timburr
 
 

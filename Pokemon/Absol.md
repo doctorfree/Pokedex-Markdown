@@ -1,3 +1,13 @@
+---
+name: Absol
+type: Dark
+abilities: Pressure, Super Luck, Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Absol
 
 

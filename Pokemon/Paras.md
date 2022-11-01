@@ -1,3 +1,13 @@
+---
+name: Paras
+type: Bug, Grass
+abilities: Effect Spore, Dry Skin, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Paras
 
 

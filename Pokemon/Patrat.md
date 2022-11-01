@@ -1,3 +1,13 @@
+---
+name: Patrat
+type: Normal
+abilities: Run Away, Keen Eye, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Patrat
 
 

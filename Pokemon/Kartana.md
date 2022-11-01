@@ -1,3 +1,13 @@
+---
+name: Kartana
+type: Grass, Steel
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kartana
 
 

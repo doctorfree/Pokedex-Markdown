@@ -1,3 +1,13 @@
+---
+name: Salandit
+type: Poison, Fire
+abilities: Corrosion, (Hidden) Oblivious
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Salandit
 
 

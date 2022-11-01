@@ -1,3 +1,13 @@
+---
+name: Pidgeotto
+type: Normal, Flying
+abilities: Keen Eye, Tangled Feet, Big Pecks
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pidgeotto
 
 

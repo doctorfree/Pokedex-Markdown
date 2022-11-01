@@ -1,3 +1,13 @@
+---
+name: Shellder
+type: Water
+abilities: Shell Armor, Skill Link, Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shellder
 
 

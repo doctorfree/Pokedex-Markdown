@@ -1,3 +1,13 @@
+---
+name: Blaziken
+type: Fire, Fighting
+abilities: Blaze, (Hidden) Speed Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Blaziken
 
 

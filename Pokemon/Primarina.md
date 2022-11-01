@@ -1,3 +1,13 @@
+---
+name: Primarina
+type: Water, Fairy
+abilities: Torrent, (Hidden) Liquid Voice
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Primarina
 
 

@@ -1,3 +1,13 @@
+---
+name: Treecko
+type: Grass
+abilities: Overgrow, (Hidden) Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Treecko
 
 

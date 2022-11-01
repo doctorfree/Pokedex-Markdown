@@ -1,3 +1,13 @@
+---
+name: Goodra
+type: Dragon
+abilities: Sap Sipper, Hydration, Gooey
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Goodra
 
 

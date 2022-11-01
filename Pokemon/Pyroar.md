@@ -1,3 +1,13 @@
+---
+name: Pyroar
+type: Fire, Normal
+abilities: Rivalry, Unnerve, Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pyroar
 
 

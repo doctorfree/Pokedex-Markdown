@@ -1,3 +1,13 @@
+---
+name: Rapidash
+type: Fire
+abilities: Run Away, Flash Fire, Flame Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rapidash
 
 

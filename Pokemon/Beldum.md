@@ -1,3 +1,13 @@
+---
+name: Beldum
+type: Steel, Psychic
+abilities: Clear Body, (Hidden) Light Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Beldum
 
 

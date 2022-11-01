@@ -1,3 +1,13 @@
+---
+name: Quagsire
+type: Water, Ground
+abilities: Damp, Water Absorb, Unaware
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Quagsire
 
 

@@ -1,3 +1,13 @@
+---
+name: Zweilous
+type: Dark, Dragon
+abilities: Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zweilous
 
 

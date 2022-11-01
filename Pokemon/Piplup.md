@@ -1,3 +1,13 @@
+---
+name: Piplup
+type: Water
+abilities: Torrent, (Hidden) Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Piplup
 
 

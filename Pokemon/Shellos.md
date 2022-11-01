@@ -1,3 +1,13 @@
+---
+name: Shellos
+type: Water
+abilities: Sticky Hold, Storm Drain, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shellos
 
 

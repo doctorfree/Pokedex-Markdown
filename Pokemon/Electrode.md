@@ -1,3 +1,13 @@
+---
+name: Electrode
+type: Electric
+abilities: Soundproof, Static, Aftermath
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Electrode
 
 

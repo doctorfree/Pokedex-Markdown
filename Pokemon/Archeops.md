@@ -1,3 +1,13 @@
+---
+name: Archeops
+type: Rock, Flying
+abilities: Defeatist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Archeops
 
 

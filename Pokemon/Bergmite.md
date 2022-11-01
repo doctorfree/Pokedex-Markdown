@@ -1,3 +1,13 @@
+---
+name: Bergmite
+type: Ice
+abilities: Own Tempo, Ice Body, Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bergmite
 
 

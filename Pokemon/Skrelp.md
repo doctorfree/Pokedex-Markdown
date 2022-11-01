@@ -1,3 +1,13 @@
+---
+name: Skrelp
+type: Poison, Water
+abilities: Poison Point, Poison Touch, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Skrelp
 
 

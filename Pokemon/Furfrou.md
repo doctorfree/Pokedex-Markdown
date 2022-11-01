@@ -1,3 +1,13 @@
+---
+name: Furfrou
+type: Normal
+abilities: Fur Coat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Furfrou
 
 

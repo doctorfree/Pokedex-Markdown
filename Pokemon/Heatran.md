@@ -1,3 +1,13 @@
+---
+name: Heatran
+type: Fire, Steel
+abilities: Flash Fire, (Hidden) Flame Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Heatran
 
 

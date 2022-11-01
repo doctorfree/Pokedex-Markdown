@@ -1,3 +1,13 @@
+---
+name: Totodile
+type: Water
+abilities: Torrent, (Hidden) Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Totodile
 
 

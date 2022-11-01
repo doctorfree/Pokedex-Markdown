@@ -1,3 +1,13 @@
+---
+name: Wartortle
+type: Water
+abilities: Torrent, (Hidden) Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wartortle
 
 

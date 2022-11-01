@@ -1,3 +1,13 @@
+---
+name: Rhyperior
+type: Ground, Rock
+abilities: Lightning Rod, Solid Rock, Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rhyperior
 
 

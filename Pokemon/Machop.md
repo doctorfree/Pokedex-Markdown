@@ -1,3 +1,13 @@
+---
+name: Machop
+type: Fighting
+abilities: Guts, No Guard, Steadfast
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Machop
 
 

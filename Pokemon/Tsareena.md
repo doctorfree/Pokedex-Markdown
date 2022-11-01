@@ -1,3 +1,13 @@
+---
+name: Tsareena
+type: Grass
+abilities: Leaf Guard, Queenly Majesty, Sweet Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tsareena
 
 

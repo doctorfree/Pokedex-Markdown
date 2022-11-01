@@ -1,3 +1,13 @@
+---
+name: Buzzwole
+type: Bug, Fighting
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Buzzwole
 
 

@@ -1,3 +1,13 @@
+---
+name: Mareanie
+type: Poison, Water
+abilities: Merciless, Limber, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mareanie
 
 

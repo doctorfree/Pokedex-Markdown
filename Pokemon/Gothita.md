@@ -1,3 +1,13 @@
+---
+name: Gothita
+type: Psychic
+abilities: Frisk, Competitive, Shadow Tag
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gothita
 
 

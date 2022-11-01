@@ -1,3 +1,13 @@
+---
+name: Pheromosa
+type: Bug, Fighting
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pheromosa
 
 

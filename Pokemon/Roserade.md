@@ -1,3 +1,13 @@
+---
+name: Roserade
+type: Grass, Poison
+abilities: Natural Cure, Poison Point, Technician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Roserade
 
 

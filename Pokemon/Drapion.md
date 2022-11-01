@@ -1,3 +1,13 @@
+---
+name: Drapion
+type: Poison, Dark
+abilities: Battle Armor, Sniper, Keen Eye
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drapion
 
 

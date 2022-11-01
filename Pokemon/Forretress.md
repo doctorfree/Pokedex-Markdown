@@ -1,3 +1,13 @@
+---
+name: Forretress
+type: Bug, Steel
+abilities: Sturdy, (Hidden) Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Forretress
 
 

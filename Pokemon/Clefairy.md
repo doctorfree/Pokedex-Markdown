@@ -1,3 +1,13 @@
+---
+name: Clefairy
+type: Fairy
+abilities: Cute Charm, Magic Guard, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Clefairy
 
 

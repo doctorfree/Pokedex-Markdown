@@ -1,3 +1,13 @@
+---
+name: Victini
+type: Psychic, Fire
+abilities: Victory Star
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Victini
 
 

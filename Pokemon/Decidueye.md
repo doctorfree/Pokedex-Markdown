@@ -1,3 +1,13 @@
+---
+name: Decidueye
+type: Grass, Ghost
+abilities: Overgrow, (Hidden) Long Reach
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Decidueye
 
 

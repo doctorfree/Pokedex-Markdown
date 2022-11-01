@@ -1,3 +1,13 @@
+---
+name: Manaphy
+type: Water
+abilities: Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Manaphy
 
 

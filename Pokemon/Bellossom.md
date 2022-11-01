@@ -1,3 +1,13 @@
+---
+name: Bellossom
+type: Grass
+abilities: Chlorophyll, (Hidden) Healer
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bellossom
 
 

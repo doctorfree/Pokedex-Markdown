@@ -1,3 +1,13 @@
+---
+name: Pelipper
+type: Water, Flying
+abilities: Keen Eye, Drizzle, Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pelipper
 
 

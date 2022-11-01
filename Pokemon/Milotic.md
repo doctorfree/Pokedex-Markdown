@@ -1,3 +1,13 @@
+---
+name: Milotic
+type: Water
+abilities: Marvel Scale, Competitive, Cute Charm
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Milotic
 
 

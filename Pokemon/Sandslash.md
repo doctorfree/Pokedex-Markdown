@@ -1,3 +1,13 @@
+---
+name: Sandslash
+type: Ground
+abilities: Sand Veil, (Hidden) Sand Rush
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sandslash
 
 

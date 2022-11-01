@@ -1,3 +1,13 @@
+---
+name: Swoobat
+type: Psychic, Flying
+abilities: Unaware, Klutz, Simple
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swoobat
 
 

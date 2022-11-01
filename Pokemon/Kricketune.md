@@ -1,3 +1,13 @@
+---
+name: Kricketune
+type: Bug
+abilities: Swarm, (Hidden) Technician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kricketune
 
 

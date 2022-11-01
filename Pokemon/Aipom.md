@@ -1,3 +1,13 @@
+---
+name: Aipom
+type: Normal
+abilities: Run Away, Pickup, Skill Link
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Aipom
 
 

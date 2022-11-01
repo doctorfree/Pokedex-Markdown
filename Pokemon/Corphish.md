@@ -1,3 +1,13 @@
+---
+name: Corphish
+type: Water
+abilities: Hyper Cutter, Shell Armor, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Corphish
 
 

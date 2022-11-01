@@ -1,3 +1,13 @@
+---
+name: Meltan
+type: Steel
+abilities: 
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Meltan
 
 

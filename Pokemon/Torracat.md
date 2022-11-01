@@ -1,3 +1,13 @@
+---
+name: Torracat
+type: Fire
+abilities: Blaze, (Hidden) Intimidate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Torracat
 
 

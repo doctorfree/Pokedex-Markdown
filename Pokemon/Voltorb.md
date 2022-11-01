@@ -1,3 +1,13 @@
+---
+name: Voltorb
+type: Electric
+abilities: Soundproof, Static, Aftermath
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Voltorb
 
 

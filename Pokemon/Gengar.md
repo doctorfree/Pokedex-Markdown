@@ -1,3 +1,13 @@
+---
+name: Gengar
+type: Ghost, Poison
+abilities: Cursed Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gengar
 
 

@@ -1,3 +1,13 @@
+---
+name: Gastrodon
+type: Water, Ground
+abilities: Sticky Hold, Storm Drain, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gastrodon
 
 

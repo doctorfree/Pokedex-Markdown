@@ -1,3 +1,13 @@
+---
+name: Exeggutor
+type: Grass, Psychic
+abilities: Chlorophyll, (Hidden) Harvest
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Exeggutor
 
 

@@ -1,3 +1,13 @@
+---
+name: Dustox
+type: Bug, Poison
+abilities: Shield Dust, (Hidden) Compound Eyes
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dustox
 
 

@@ -1,3 +1,13 @@
+---
+name: Cosmog
+type: Psychic
+abilities: Unaware
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cosmog
 
 

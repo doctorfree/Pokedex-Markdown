@@ -1,3 +1,13 @@
+---
+name: Palkia
+type: Water, Dragon
+abilities: Pressure, (Hidden) Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Palkia
 
 

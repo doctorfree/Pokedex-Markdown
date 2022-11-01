@@ -1,3 +1,13 @@
+---
+name: Rayquaza
+type: Dragon, Flying
+abilities: Air Lock
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rayquaza
 
 

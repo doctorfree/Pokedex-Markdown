@@ -1,3 +1,13 @@
+---
+name: Beartic
+type: Ice
+abilities: Snow Cloak, Slush Rush, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Beartic
 
 

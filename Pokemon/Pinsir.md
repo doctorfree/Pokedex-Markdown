@@ -1,3 +1,13 @@
+---
+name: Pinsir
+type: Bug
+abilities: Hyper Cutter, Mold Breaker, Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pinsir
 
 

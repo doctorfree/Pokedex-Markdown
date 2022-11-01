@@ -1,3 +1,13 @@
+---
+name: Luvdisc
+type: Water
+abilities: Swift Swim, (Hidden) Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Luvdisc
 
 

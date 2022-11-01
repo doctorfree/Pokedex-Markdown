@@ -1,3 +1,13 @@
+---
+name: Bulbasaur
+type: Grass, Poison
+abilities: Overgrow, (Hidden) Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bulbasaur
 
 

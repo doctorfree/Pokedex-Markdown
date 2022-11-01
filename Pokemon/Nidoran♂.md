@@ -1,3 +1,13 @@
+---
+name: Nidoran♂
+type: Poison
+abilities: Poison Point, Rivalry, Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nidoran♂
 
 

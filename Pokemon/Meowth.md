@@ -1,3 +1,13 @@
+---
+name: Meowth
+type: Normal
+abilities: Pickup, Technician, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Meowth
 
 

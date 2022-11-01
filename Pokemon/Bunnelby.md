@@ -1,3 +1,13 @@
+---
+name: Bunnelby
+type: Normal
+abilities: Pickup, Cheek Pouch, Huge Power
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bunnelby
 
 

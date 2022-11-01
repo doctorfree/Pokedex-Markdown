@@ -1,3 +1,13 @@
+---
+name: Deino
+type: Dark, Dragon
+abilities: Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Deino
 
 

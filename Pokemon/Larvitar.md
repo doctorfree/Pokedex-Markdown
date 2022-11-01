@@ -1,3 +1,13 @@
+---
+name: Larvitar
+type: Rock, Ground
+abilities: Guts, (Hidden) Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Larvitar
 
 

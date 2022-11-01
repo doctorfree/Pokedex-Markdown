@@ -1,3 +1,13 @@
+---
+name: Marill
+type: Water, Fairy
+abilities: Thick Fat, Huge Power, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Marill
 
 

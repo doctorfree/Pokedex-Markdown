@@ -1,3 +1,13 @@
+---
+name: Whiscash
+type: Water, Ground
+abilities: Oblivious, Anticipation, Hydration
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Whiscash
 
 

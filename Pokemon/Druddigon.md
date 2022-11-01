@@ -1,3 +1,13 @@
+---
+name: Druddigon
+type: Dragon
+abilities: Rough Skin, Sheer Force, Mold Breaker
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Druddigon
 
 

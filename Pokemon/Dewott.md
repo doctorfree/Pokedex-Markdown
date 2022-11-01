@@ -1,3 +1,13 @@
+---
+name: Dewott
+type: Water
+abilities: Torrent, (Hidden) Shell Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dewott
 
 

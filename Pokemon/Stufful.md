@@ -1,3 +1,13 @@
+---
+name: Stufful
+type: Normal, Fighting
+abilities: Fluffy, Klutz, Cute Charm
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Stufful
 
 

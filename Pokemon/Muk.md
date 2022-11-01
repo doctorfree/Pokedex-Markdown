@@ -1,3 +1,13 @@
+---
+name: Muk
+type: Poison
+abilities: Stench, Sticky Hold, Poison Touch
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Muk
 
 

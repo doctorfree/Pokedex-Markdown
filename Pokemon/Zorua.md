@@ -1,3 +1,13 @@
+---
+name: Zorua
+type: Dark
+abilities: Illusion
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zorua
 
 

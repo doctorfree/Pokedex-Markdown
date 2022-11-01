@@ -1,3 +1,13 @@
+---
+name: Krabby
+type: Water
+abilities: Hyper Cutter, Shell Armor, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Krabby
 
 

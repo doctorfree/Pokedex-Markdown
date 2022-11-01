@@ -1,3 +1,13 @@
+---
+name: Yamask
+type: Ghost
+abilities: Mummy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Yamask
 
 

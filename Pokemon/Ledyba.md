@@ -1,3 +1,13 @@
+---
+name: Ledyba
+type: Bug, Flying
+abilities: Swarm, Early Bird, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ledyba
 
 

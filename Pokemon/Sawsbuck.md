@@ -1,3 +1,13 @@
+---
+name: Sawsbuck
+type: Normal, Grass
+abilities: Chlorophyll, Sap Sipper, Serene Grace
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sawsbuck
 
 

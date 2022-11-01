@@ -1,3 +1,13 @@
+---
+name: Nidorina
+type: Poison
+abilities: Poison Point, Rivalry, Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Nidorina
 
 

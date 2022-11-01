@@ -1,3 +1,13 @@
+---
+name: Heatmor
+type: Fire
+abilities: Gluttony, Flash Fire, White Smoke
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Heatmor
 
 

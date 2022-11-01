@@ -1,3 +1,13 @@
+---
+name: Slaking
+type: Normal
+abilities: Truant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Slaking
 
 

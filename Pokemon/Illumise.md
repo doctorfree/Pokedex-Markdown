@@ -1,3 +1,13 @@
+---
+name: Illumise
+type: Bug
+abilities: Oblivious, Tinted Lens, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Illumise
 
 

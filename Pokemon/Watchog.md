@@ -1,3 +1,13 @@
+---
+name: Watchog
+type: Normal
+abilities: Illuminate, Keen Eye, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Watchog
 
 

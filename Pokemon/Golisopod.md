@@ -1,3 +1,13 @@
+---
+name: Golisopod
+type: Bug, Water
+abilities: Emergency Exit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Golisopod
 
 

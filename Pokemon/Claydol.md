@@ -1,3 +1,13 @@
+---
+name: Claydol
+type: Ground, Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Claydol
 
 

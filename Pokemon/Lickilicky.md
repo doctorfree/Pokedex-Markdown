@@ -1,3 +1,13 @@
+---
+name: Lickilicky
+type: Normal
+abilities: Own Tempo, Oblivious, Cloud Nine
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lickilicky
 
 

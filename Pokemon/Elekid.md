@@ -1,3 +1,13 @@
+---
+name: Elekid
+type: Electric
+abilities: Static, (Hidden) Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Elekid
 
 

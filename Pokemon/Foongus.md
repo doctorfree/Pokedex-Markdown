@@ -1,3 +1,13 @@
+---
+name: Foongus
+type: Grass, Poison
+abilities: Effect Spore, (Hidden) Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Foongus
 
 

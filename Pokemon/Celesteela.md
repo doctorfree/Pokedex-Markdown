@@ -1,3 +1,13 @@
+---
+name: Celesteela
+type: Steel, Flying
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Celesteela
 
 

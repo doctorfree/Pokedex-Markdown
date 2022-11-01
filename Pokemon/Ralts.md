@@ -1,3 +1,13 @@
+---
+name: Ralts
+type: Psychic, Fairy
+abilities: Synchronize, Trace, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ralts
 
 

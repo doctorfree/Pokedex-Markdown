@@ -1,3 +1,13 @@
+---
+name: Meganium
+type: Grass
+abilities: Overgrow, (Hidden) Leaf Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Meganium
 
 

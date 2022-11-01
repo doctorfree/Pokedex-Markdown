@@ -1,3 +1,13 @@
+---
+name: Froakie
+type: Water
+abilities: Torrent, (Hidden) Protean
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Froakie
 
 

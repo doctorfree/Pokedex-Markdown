@@ -1,3 +1,13 @@
+---
+name: Onix
+type: Rock, Ground
+abilities: Rock Head, Sturdy, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Onix
 
 

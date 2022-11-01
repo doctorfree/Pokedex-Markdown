@@ -1,3 +1,13 @@
+---
+name: Primeape
+type: Fighting
+abilities: Vital Spirit, Anger Point, Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Primeape
 
 

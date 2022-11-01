@@ -1,3 +1,13 @@
+---
+name: Togedemaru
+type: Electric, Steel
+abilities: Iron Barbs, Lightning Rod, Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Togedemaru
 
 

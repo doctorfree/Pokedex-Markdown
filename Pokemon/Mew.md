@@ -1,3 +1,13 @@
+---
+name: Mew
+type: Psychic
+abilities: Synchronize
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mew
 
 

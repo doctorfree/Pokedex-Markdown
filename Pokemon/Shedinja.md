@@ -1,3 +1,13 @@
+---
+name: Shedinja
+type: Bug, Ghost
+abilities: Wonder Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shedinja
 
 

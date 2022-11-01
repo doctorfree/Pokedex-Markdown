@@ -1,3 +1,13 @@
+---
+name: Sigilyph
+type: Psychic, Flying
+abilities: Wonder Skin, Magic Guard, Tinted Lens
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sigilyph
 
 

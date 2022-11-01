@@ -1,3 +1,13 @@
+---
+name: Monferno
+type: Fire, Fighting
+abilities: Blaze, (Hidden) Iron Fist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Monferno
 
 

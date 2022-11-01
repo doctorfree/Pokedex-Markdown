@@ -1,3 +1,13 @@
+---
+name: Gyarados
+type: Water, Flying
+abilities: Intimidate, (Hidden) Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gyarados
 
 

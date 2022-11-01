@@ -1,3 +1,13 @@
+---
+name: Noivern
+type: Flying, Dragon
+abilities: Frisk, Infiltrator, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Noivern
 
 

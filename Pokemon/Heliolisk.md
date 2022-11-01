@@ -1,3 +1,13 @@
+---
+name: Heliolisk
+type: Electric, Normal
+abilities: Dry Skin, Sand Veil, Solar Power
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Heliolisk
 
 

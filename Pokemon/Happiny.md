@@ -1,3 +1,13 @@
+---
+name: Happiny
+type: Normal
+abilities: Natural Cure, Serene Grace, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Happiny
 
 

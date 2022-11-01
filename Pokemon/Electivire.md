@@ -1,3 +1,13 @@
+---
+name: Electivire
+type: Electric
+abilities: Motor Drive, (Hidden) Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Electivire
 
 

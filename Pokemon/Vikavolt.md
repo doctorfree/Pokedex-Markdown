@@ -1,3 +1,13 @@
+---
+name: Vikavolt
+type: Bug, Electric
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vikavolt
 
 

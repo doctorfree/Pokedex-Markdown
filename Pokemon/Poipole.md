@@ -1,3 +1,13 @@
+---
+name: Poipole
+type: Poison
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Poipole
 
 

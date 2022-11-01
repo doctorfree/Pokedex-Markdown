@@ -1,3 +1,13 @@
+---
+name: Swampert
+type: Water, Ground
+abilities: Torrent, (Hidden) Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swampert
 
 

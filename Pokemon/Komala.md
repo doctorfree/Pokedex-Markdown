@@ -1,3 +1,13 @@
+---
+name: Komala
+type: Normal
+abilities: Comatose
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Komala
 
 

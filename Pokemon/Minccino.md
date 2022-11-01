@@ -1,3 +1,13 @@
+---
+name: Minccino
+type: Normal
+abilities: Cute Charm, Technician, Skill Link
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Minccino
 
 

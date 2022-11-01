@@ -1,3 +1,13 @@
+---
+name: Scraggy
+type: Dark, Fighting
+abilities: Shed Skin, Moxie, Intimidate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Scraggy
 
 

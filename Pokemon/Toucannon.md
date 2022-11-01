@@ -1,3 +1,13 @@
+---
+name: Toucannon
+type: Normal, Flying
+abilities: Keen Eye, Skill Link, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Toucannon
 
 

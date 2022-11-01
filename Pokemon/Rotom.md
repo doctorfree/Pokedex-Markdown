@@ -1,3 +1,13 @@
+---
+name: Rotom
+type: Electric, Ghost
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Rotom
 
 

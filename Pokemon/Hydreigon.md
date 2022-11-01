@@ -1,3 +1,13 @@
+---
+name: Hydreigon
+type: Dark, Dragon
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hydreigon
 
 

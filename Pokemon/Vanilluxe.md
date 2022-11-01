@@ -1,3 +1,13 @@
+---
+name: Vanilluxe
+type: Ice
+abilities: Ice Body, Snow Warning, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vanilluxe
 
 

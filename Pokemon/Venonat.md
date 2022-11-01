@@ -1,3 +1,13 @@
+---
+name: Venonat
+type: Bug, Poison
+abilities: Compound Eyes, Tinted Lens, Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Venonat
 
 

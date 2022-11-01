@@ -1,3 +1,13 @@
+---
+name: Braixen
+type: Fire
+abilities: Blaze, (Hidden) Magician
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Braixen
 
 

@@ -1,3 +1,13 @@
+---
+name: Lileep
+type: Rock, Grass
+abilities: Suction Cups, (Hidden) Storm Drain
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lileep
 
 

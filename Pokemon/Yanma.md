@@ -1,3 +1,13 @@
+---
+name: Yanma
+type: Bug, Flying
+abilities: Speed Boost, Compound Eyes, Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Yanma
 
 

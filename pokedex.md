@@ -4,25 +4,25 @@ Table of Pokémon types, abilities, and data:
 
 |**Image**|**Pokémon**|**Types**|**Abilities**|**HP**|**Atk**|**Def**|**SpA**|**SpD**|**Spe**|**Total**|**Egg Groups**|
 |---------|-----------|---------|-------------|------|-------|-------|-------|-------|-------|---------|--------------|
-|![](Pokemon/thumbnails/001.png)|[Bulbasaur](Pokemon/Bulbasaur.md)|Grass, Poison|Overgrow, null, Chlorophyll|45|49|49|65|65|45|318|Monster, Grass |
-|![](Pokemon/thumbnails/002.png)|[Ivysaur](Pokemon/Ivysaur.md)|Grass, Poison|Overgrow, null, Chlorophyll|60|62|63|80|80|60|405|Monster, Grass |
-|![](Pokemon/thumbnails/003.png)|[Venusaur](Pokemon/Venusaur.md)|Grass, Poison|Overgrow, null, Chlorophyll|80|82|83|100|100|80|525|Monster, Grass |
+|![](Pokemon/thumbnails/001.png)|[Bulbasaur](Pokemon/Bulbasaur.md)|Grass, Poison|Overgrow, (Hidden) Chlorophyll|45|49|49|65|65|45|318|Monster, Grass |
+|![](Pokemon/thumbnails/002.png)|[Ivysaur](Pokemon/Ivysaur.md)|Grass, Poison|Overgrow, (Hidden) Chlorophyll|60|62|63|80|80|60|405|Monster, Grass |
+|![](Pokemon/thumbnails/003.png)|[Venusaur](Pokemon/Venusaur.md)|Grass, Poison|Overgrow, (Hidden) Chlorophyll|80|82|83|100|100|80|525|Monster, Grass |
 |![](Pokemon/thumbnails/003.png)|[Venusaur](Pokemon/Venusaur.md) (Mega)|Grass, Poison|Thick Fat|80|100|123|122|120|80|625|Monster, Grass |
-|![](Pokemon/thumbnails/004.png)|[Charmander](Pokemon/Charmander.md)|Fire|Blaze, null, Solar Power|39|52|43|60|50|65|309|Monster, Dragon |
-|![](Pokemon/thumbnails/005.png)|[Charmeleon](Pokemon/Charmeleon.md)|Fire|Blaze, null, Solar Power|58|64|58|80|65|80|405|Monster, Dragon |
-|![](Pokemon/thumbnails/006.png)|[Charizard](Pokemon/Charizard.md)|Fire, Flying|Blaze, null, Solar Power|78|84|78|109|85|100|534|Monster, Dragon |
+|![](Pokemon/thumbnails/004.png)|[Charmander](Pokemon/Charmander.md)|Fire|Blaze, (Hidden) Solar Power|39|52|43|60|50|65|309|Monster, Dragon |
+|![](Pokemon/thumbnails/005.png)|[Charmeleon](Pokemon/Charmeleon.md)|Fire|Blaze, (Hidden) Solar Power|58|64|58|80|65|80|405|Monster, Dragon |
+|![](Pokemon/thumbnails/006.png)|[Charizard](Pokemon/Charizard.md)|Fire, Flying|Blaze, (Hidden) Solar Power|78|84|78|109|85|100|534|Monster, Dragon |
 |![](Pokemon/thumbnails/006.png)|[Charizard](Pokemon/Charizard.md) (Mega X)|Fire, Dragon|Tough Claws|78|130|111|130|85|100|634|Monster, Dragon |
 |![](Pokemon/thumbnails/006.png)|[Charizard](Pokemon/Charizard.md) (Mega Y)|Fire, Flying|Drought|78|104|78|159|115|100|634|Monster, Dragon |
-|![](Pokemon/thumbnails/007.png)|[Squirtle](Pokemon/Squirtle.md)|Water|Torrent, null, Rain Dish|44|48|65|50|64|43|314|Monster, Water 1 |
-|![](Pokemon/thumbnails/008.png)|[Wartortle](Pokemon/Wartortle.md)|Water|Torrent, null, Rain Dish|59|63|80|65|80|58|405|Monster, Water 1 |
-|![](Pokemon/thumbnails/009.png)|[Blastoise](Pokemon/Blastoise.md)|Water|Torrent, null, Rain Dish|79|83|100|85|105|78|530|Monster, Water 1 |
+|![](Pokemon/thumbnails/007.png)|[Squirtle](Pokemon/Squirtle.md)|Water|Torrent, (Hidden) Rain Dish|44|48|65|50|64|43|314|Monster, Water 1 |
+|![](Pokemon/thumbnails/008.png)|[Wartortle](Pokemon/Wartortle.md)|Water|Torrent, (Hidden) Rain Dish|59|63|80|65|80|58|405|Monster, Water 1 |
+|![](Pokemon/thumbnails/009.png)|[Blastoise](Pokemon/Blastoise.md)|Water|Torrent, (Hidden) Rain Dish|79|83|100|85|105|78|530|Monster, Water 1 |
 |![](Pokemon/thumbnails/009.png)|[Blastoise](Pokemon/Blastoise.md) (Mega)|Water|Mega Launcher|79|103|120|135|115|78|630|Monster, Water 1 |
-|![](Pokemon/thumbnails/010.png)|[Caterpie](Pokemon/Caterpie.md)|Bug|Shield Dust, null, Run Away|45|30|35|20|20|45|195|Bug |
+|![](Pokemon/thumbnails/010.png)|[Caterpie](Pokemon/Caterpie.md)|Bug|Shield Dust, (Hidden) Run Away|45|30|35|20|20|45|195|Bug |
 |![](Pokemon/thumbnails/011.png)|[Metapod](Pokemon/Metapod.md)|Bug|Shed Skin|50|20|55|25|25|30|205|Bug |
-|![](Pokemon/thumbnails/012.png)|[Butterfree](Pokemon/Butterfree.md)|Bug, Flying|Compound Eyes, null, Tinted Lens|60|45|50|90|80|70|395|Bug |
-|![](Pokemon/thumbnails/013.png)|[Weedle](Pokemon/Weedle.md)|Bug, Poison|Shield Dust, null, Run Away|40|35|30|20|20|50|195|Bug |
+|![](Pokemon/thumbnails/012.png)|[Butterfree](Pokemon/Butterfree.md)|Bug, Flying|Compound Eyes, (Hidden) Tinted Lens|60|45|50|90|80|70|395|Bug |
+|![](Pokemon/thumbnails/013.png)|[Weedle](Pokemon/Weedle.md)|Bug, Poison|Shield Dust, (Hidden) Run Away|40|35|30|20|20|50|195|Bug |
 |![](Pokemon/thumbnails/014.png)|[Kakuna](Pokemon/Kakuna.md)|Bug, Poison|Shed Skin|45|25|50|25|25|35|205|Bug |
-|![](Pokemon/thumbnails/015.png)|[Beedrill](Pokemon/Beedrill.md)|Bug, Poison|Swarm, null, Sniper|65|90|40|45|80|75|395|Bug |
+|![](Pokemon/thumbnails/015.png)|[Beedrill](Pokemon/Beedrill.md)|Bug, Poison|Swarm, (Hidden) Sniper|65|90|40|45|80|75|395|Bug |
 |![](Pokemon/thumbnails/015.png)|[Beedrill](Pokemon/Beedrill.md) (Mega)|Bug, Poison|Adaptability|65|150|40|15|80|145|495|Bug |
 |![](Pokemon/thumbnails/016.png)|[Pidgey](Pokemon/Pidgey.md)|Normal, Flying|Keen Eye, Tangled Feet, Big Pecks|40|45|40|35|35|56|251|Flying |
 |![](Pokemon/thumbnails/017.png)|[Pidgeotto](Pokemon/Pidgeotto.md)|Normal, Flying|Keen Eye, Tangled Feet, Big Pecks|63|60|55|50|50|71|349|Flying |
@@ -32,17 +32,17 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/019.png)|[Rattata](Pokemon/Rattata.md) (Alolan)|Dark, Normal|Gluttony, Hustle, Thick Fat|30|56|35|25|35|72|253|Field |
 |![](Pokemon/thumbnails/020.png)|[Raticate](Pokemon/Raticate.md)|Normal|Run Away, Guts, Hustle|55|81|60|50|70|97|413|Field |
 |![](Pokemon/thumbnails/020.png)|[Raticate](Pokemon/Raticate.md) (Alolan)|Dark, Normal|Gluttony, Hustle, Thick Fat|75|71|70|40|80|77|413|Field |
-|![](Pokemon/thumbnails/021.png)|[Spearow](Pokemon/Spearow.md)|Normal, Flying|Keen Eye, null, Sniper|40|60|30|31|31|70|262|Flying |
-|![](Pokemon/thumbnails/022.png)|[Fearow](Pokemon/Fearow.md)|Normal, Flying|Keen Eye, null, Sniper|65|90|65|61|61|100|442|Flying |
+|![](Pokemon/thumbnails/021.png)|[Spearow](Pokemon/Spearow.md)|Normal, Flying|Keen Eye, (Hidden) Sniper|40|60|30|31|31|70|262|Flying |
+|![](Pokemon/thumbnails/022.png)|[Fearow](Pokemon/Fearow.md)|Normal, Flying|Keen Eye, (Hidden) Sniper|65|90|65|61|61|100|442|Flying |
 |![](Pokemon/thumbnails/023.png)|[Ekans](Pokemon/Ekans.md)|Poison|Intimidate, Shed Skin, Unnerve|35|60|44|40|54|55|288|Field, Dragon |
 |![](Pokemon/thumbnails/024.png)|[Arbok](Pokemon/Arbok.md)|Poison|Intimidate, Shed Skin, Unnerve|60|95|69|65|79|80|448|Field, Dragon |
-|![](Pokemon/thumbnails/025.png)|[Pikachu](Pokemon/Pikachu.md)|Electric|Static, null, Lightning Rod|35|55|40|50|50|90|320|Field, Fairy |
-|![](Pokemon/thumbnails/026.png)|[Raichu](Pokemon/Raichu.md)|Electric|Static, null, Lightning Rod|60|90|55|90|80|110|485|Field, Fairy |
+|![](Pokemon/thumbnails/025.png)|[Pikachu](Pokemon/Pikachu.md)|Electric|Static, (Hidden) Lightning Rod|35|55|40|50|50|90|320|Field, Fairy |
+|![](Pokemon/thumbnails/026.png)|[Raichu](Pokemon/Raichu.md)|Electric|Static, (Hidden) Lightning Rod|60|90|55|90|80|110|485|Field, Fairy |
 |![](Pokemon/thumbnails/026.png)|[Raichu](Pokemon/Raichu.md) (Alolan)|Electric, Psychic|Surge Surfer|60|85|50|95|85|110|485|Field, Fairy |
-|![](Pokemon/thumbnails/027.png)|[Sandshrew](Pokemon/Sandshrew.md)|Ground|Sand Veil, null, Sand Rush|50|75|85|20|30|40|300|Field |
-|![](Pokemon/thumbnails/027.png)|[Sandshrew](Pokemon/Sandshrew.md) (Alolan)|Ice, Steel|Snow Cloak, null, Slush Rush|50|75|90|10|35|40|300|Field |
-|![](Pokemon/thumbnails/028.png)|[Sandslash](Pokemon/Sandslash.md)|Ground|Sand Veil, null, Sand Rush|75|100|110|45|55|65|450|Field |
-|![](Pokemon/thumbnails/028.png)|[Sandslash](Pokemon/Sandslash.md) (Alolan)|Ice, Steel|Snow Cloak, null, Slush Rush|75|100|120|25|65|65|450|Field |
+|![](Pokemon/thumbnails/027.png)|[Sandshrew](Pokemon/Sandshrew.md)|Ground|Sand Veil, (Hidden) Sand Rush|50|75|85|20|30|40|300|Field |
+|![](Pokemon/thumbnails/027.png)|[Sandshrew](Pokemon/Sandshrew.md) (Alolan)|Ice, Steel|Snow Cloak, (Hidden) Slush Rush|50|75|90|10|35|40|300|Field |
+|![](Pokemon/thumbnails/028.png)|[Sandslash](Pokemon/Sandslash.md)|Ground|Sand Veil, (Hidden) Sand Rush|75|100|110|45|55|65|450|Field |
+|![](Pokemon/thumbnails/028.png)|[Sandslash](Pokemon/Sandslash.md) (Alolan)|Ice, Steel|Snow Cloak, (Hidden) Slush Rush|75|100|120|25|65|65|450|Field |
 |![](Pokemon/thumbnails/029.png)|[Nidoran♀](Pokemon/Nidoran♀.md)|Poison|Poison Point, Rivalry, Hustle|55|47|52|40|40|41|275|Monster, Field |
 |![](Pokemon/thumbnails/030.png)|[Nidorina](Pokemon/Nidorina.md)|Poison|Poison Point, Rivalry, Hustle|70|62|67|55|55|56|365|Undiscovered |
 |![](Pokemon/thumbnails/031.png)|[Nidoqueen](Pokemon/Nidoqueen.md)|Poison, Ground|Poison Point, Rivalry, Sheer Force|90|92|87|75|85|76|505|Undiscovered |
@@ -51,17 +51,17 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/034.png)|[Nidoking](Pokemon/Nidoking.md)|Poison, Ground|Poison Point, Rivalry, Sheer Force|81|102|77|85|75|85|505|Monster, Field |
 |![](Pokemon/thumbnails/035.png)|[Clefairy](Pokemon/Clefairy.md)|Fairy|Cute Charm, Magic Guard, Friend Guard|70|45|48|60|65|35|323|Fairy |
 |![](Pokemon/thumbnails/036.png)|[Clefable](Pokemon/Clefable.md)|Fairy|Cute Charm, Magic Guard, Unaware|95|70|73|95|90|60|483|Fairy |
-|![](Pokemon/thumbnails/037.png)|[Vulpix](Pokemon/Vulpix.md)|Fire|Flash Fire, null, Drought|38|41|40|50|65|65|299|Field |
-|![](Pokemon/thumbnails/037.png)|[Vulpix](Pokemon/Vulpix.md) (Alolan)|Ice|Snow Cloak, null, Snow Warning|38|41|40|50|65|65|299|Field |
-|![](Pokemon/thumbnails/038.png)|[Ninetales](Pokemon/Ninetales.md)|Fire|Flash Fire, null, Drought|73|76|75|81|100|100|505|Field |
-|![](Pokemon/thumbnails/038.png)|[Ninetales](Pokemon/Ninetales.md) (Alolan)|Ice, Fairy|Snow Cloak, null, Snow Warning|73|67|75|81|100|109|505|Field |
+|![](Pokemon/thumbnails/037.png)|[Vulpix](Pokemon/Vulpix.md)|Fire|Flash Fire, (Hidden) Drought|38|41|40|50|65|65|299|Field |
+|![](Pokemon/thumbnails/037.png)|[Vulpix](Pokemon/Vulpix.md) (Alolan)|Ice|Snow Cloak, (Hidden) Snow Warning|38|41|40|50|65|65|299|Field |
+|![](Pokemon/thumbnails/038.png)|[Ninetales](Pokemon/Ninetales.md)|Fire|Flash Fire, (Hidden) Drought|73|76|75|81|100|100|505|Field |
+|![](Pokemon/thumbnails/038.png)|[Ninetales](Pokemon/Ninetales.md) (Alolan)|Ice, Fairy|Snow Cloak, (Hidden) Snow Warning|73|67|75|81|100|109|505|Field |
 |![](Pokemon/thumbnails/039.png)|[Jigglypuff](Pokemon/Jigglypuff.md)|Normal, Fairy|Cute Charm, Competitive, Friend Guard|115|45|20|45|25|20|270|Fairy |
 |![](Pokemon/thumbnails/040.png)|[Wigglytuff](Pokemon/Wigglytuff.md)|Normal, Fairy|Cute Charm, Competitive, Frisk|140|70|45|85|50|45|435|Fairy |
-|![](Pokemon/thumbnails/041.png)|[Zubat](Pokemon/Zubat.md)|Poison, Flying|Inner Focus, null, Infiltrator|40|45|35|30|40|55|245|Flying |
-|![](Pokemon/thumbnails/042.png)|[Golbat](Pokemon/Golbat.md)|Poison, Flying|Inner Focus, null, Infiltrator|75|80|70|65|75|90|455|Flying |
-|![](Pokemon/thumbnails/043.png)|[Oddish](Pokemon/Oddish.md)|Grass, Poison|Chlorophyll, null, Run Away|45|50|55|75|65|30|320|Grass |
-|![](Pokemon/thumbnails/044.png)|[Gloom](Pokemon/Gloom.md)|Grass, Poison|Chlorophyll, null, Stench|60|65|70|85|75|40|395|Grass |
-|![](Pokemon/thumbnails/045.png)|[Vileplume](Pokemon/Vileplume.md)|Grass, Poison|Chlorophyll, null, Effect Spore|75|80|85|110|90|50|490|Grass |
+|![](Pokemon/thumbnails/041.png)|[Zubat](Pokemon/Zubat.md)|Poison, Flying|Inner Focus, (Hidden) Infiltrator|40|45|35|30|40|55|245|Flying |
+|![](Pokemon/thumbnails/042.png)|[Golbat](Pokemon/Golbat.md)|Poison, Flying|Inner Focus, (Hidden) Infiltrator|75|80|70|65|75|90|455|Flying |
+|![](Pokemon/thumbnails/043.png)|[Oddish](Pokemon/Oddish.md)|Grass, Poison|Chlorophyll, (Hidden) Run Away|45|50|55|75|65|30|320|Grass |
+|![](Pokemon/thumbnails/044.png)|[Gloom](Pokemon/Gloom.md)|Grass, Poison|Chlorophyll, (Hidden) Stench|60|65|70|85|75|40|395|Grass |
+|![](Pokemon/thumbnails/045.png)|[Vileplume](Pokemon/Vileplume.md)|Grass, Poison|Chlorophyll, (Hidden) Effect Spore|75|80|85|110|90|50|490|Grass |
 |![](Pokemon/thumbnails/046.png)|[Paras](Pokemon/Paras.md)|Bug, Grass|Effect Spore, Dry Skin, Damp|35|70|55|45|55|25|285|Bug, Grass |
 |![](Pokemon/thumbnails/047.png)|[Parasect](Pokemon/Parasect.md)|Bug, Grass|Effect Spore, Dry Skin, Damp|60|95|80|60|80|30|405|Bug, Grass |
 |![](Pokemon/thumbnails/048.png)|[Venonat](Pokemon/Venonat.md)|Bug, Poison|Compound Eyes, Tinted Lens, Run Away|60|55|50|40|55|45|305|Bug |
@@ -90,9 +90,9 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/066.png)|[Machop](Pokemon/Machop.md)|Fighting|Guts, No Guard, Steadfast|70|80|50|35|35|35|305|Human-Like |
 |![](Pokemon/thumbnails/067.png)|[Machoke](Pokemon/Machoke.md)|Fighting|Guts, No Guard, Steadfast|80|100|70|50|60|45|405|Human-Like |
 |![](Pokemon/thumbnails/068.png)|[Machamp](Pokemon/Machamp.md)|Fighting|Guts, No Guard, Steadfast|90|130|80|65|85|55|505|Human-Like |
-|![](Pokemon/thumbnails/069.png)|[Bellsprout](Pokemon/Bellsprout.md)|Grass, Poison|Chlorophyll, null, Gluttony|50|75|35|70|30|40|300|Grass |
-|![](Pokemon/thumbnails/070.png)|[Weepinbell](Pokemon/Weepinbell.md)|Grass, Poison|Chlorophyll, null, Gluttony|65|90|50|85|45|55|390|Grass |
-|![](Pokemon/thumbnails/071.png)|[Victreebel](Pokemon/Victreebel.md)|Grass, Poison|Chlorophyll, null, Gluttony|80|105|65|100|70|70|490|Grass |
+|![](Pokemon/thumbnails/069.png)|[Bellsprout](Pokemon/Bellsprout.md)|Grass, Poison|Chlorophyll, (Hidden) Gluttony|50|75|35|70|30|40|300|Grass |
+|![](Pokemon/thumbnails/070.png)|[Weepinbell](Pokemon/Weepinbell.md)|Grass, Poison|Chlorophyll, (Hidden) Gluttony|65|90|50|85|45|55|390|Grass |
+|![](Pokemon/thumbnails/071.png)|[Victreebel](Pokemon/Victreebel.md)|Grass, Poison|Chlorophyll, (Hidden) Gluttony|80|105|65|100|70|70|490|Grass |
 |![](Pokemon/thumbnails/072.png)|[Tentacool](Pokemon/Tentacool.md)|Water, Poison|Clear Body, Liquid Ooze, Rain Dish|40|40|35|50|100|70|335|Water 3 |
 |![](Pokemon/thumbnails/073.png)|[Tentacruel](Pokemon/Tentacruel.md)|Water, Poison|Clear Body, Liquid Ooze, Rain Dish|80|70|65|80|120|100|515|Water 3 |
 |![](Pokemon/thumbnails/074.png)|[Geodude](Pokemon/Geodude.md)|Rock, Ground|Rock Head, Sturdy, Sand Veil|40|80|100|30|30|20|300|Mineral |
@@ -130,9 +130,9 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/099.png)|[Kingler](Pokemon/Kingler.md)|Water|Hyper Cutter, Shell Armor, Sheer Force|55|130|115|50|50|75|475|Water 3 |
 |![](Pokemon/thumbnails/100.png)|[Voltorb](Pokemon/Voltorb.md)|Electric|Soundproof, Static, Aftermath|40|30|50|55|55|100|330|Mineral |
 |![](Pokemon/thumbnails/101.png)|[Electrode](Pokemon/Electrode.md)|Electric|Soundproof, Static, Aftermath|60|50|70|80|80|150|490|Mineral |
-|![](Pokemon/thumbnails/102.png)|[Exeggcute](Pokemon/Exeggcute.md)|Grass, Psychic|Chlorophyll, null, Harvest|60|40|80|60|45|40|325|Grass |
-|![](Pokemon/thumbnails/103.png)|[Exeggutor](Pokemon/Exeggutor.md)|Grass, Psychic|Chlorophyll, null, Harvest|95|95|85|125|75|55|530|Grass |
-|![](Pokemon/thumbnails/103.png)|[Exeggutor](Pokemon/Exeggutor.md) (Alolan)|Grass, Dragon|Frisk, null, Harvest|95|105|85|125|75|45|530|Grass |
+|![](Pokemon/thumbnails/102.png)|[Exeggcute](Pokemon/Exeggcute.md)|Grass, Psychic|Chlorophyll, (Hidden) Harvest|60|40|80|60|45|40|325|Grass |
+|![](Pokemon/thumbnails/103.png)|[Exeggutor](Pokemon/Exeggutor.md)|Grass, Psychic|Chlorophyll, (Hidden) Harvest|95|95|85|125|75|55|530|Grass |
+|![](Pokemon/thumbnails/103.png)|[Exeggutor](Pokemon/Exeggutor.md) (Alolan)|Grass, Dragon|Frisk, (Hidden) Harvest|95|105|85|125|75|45|530|Grass |
 |![](Pokemon/thumbnails/104.png)|[Cubone](Pokemon/Cubone.md)|Ground|Rock Head, Lightning Rod, Battle Armor|50|50|95|40|50|35|320|Monster |
 |![](Pokemon/thumbnails/105.png)|[Marowak](Pokemon/Marowak.md)|Ground|Rock Head, Lightning Rod, Battle Armor|60|80|110|50|80|45|425|Monster |
 |![](Pokemon/thumbnails/105.png)|[Marowak](Pokemon/Marowak.md) (Alolan)|Fire, Ghost|Cursed Body, Lightning Rod, Rock Head|60|80|110|50|80|45|425|Monster |
@@ -156,20 +156,20 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/122.png)|[Mr. Mime](Pokemon/Mr-Mime.md)|Psychic, Fairy|Soundproof, Filter, Technician|40|45|65|100|120|90|460|Human-Like |
 |![](Pokemon/thumbnails/123.png)|[Scyther](Pokemon/Scyther.md)|Bug, Flying|Swarm, Technician, Steadfast|70|110|80|55|80|105|500|Bug |
 |![](Pokemon/thumbnails/124.png)|[Jynx](Pokemon/Jynx.md)|Ice, Psychic|Oblivious, Forewarn, Dry Skin|65|50|35|115|95|95|455|Human-Like |
-|![](Pokemon/thumbnails/125.png)|[Electabuzz](Pokemon/Electabuzz.md)|Electric|Static, null, Vital Spirit|65|83|57|95|85|105|490|Human-Like |
-|![](Pokemon/thumbnails/126.png)|[Magmar](Pokemon/Magmar.md)|Fire|Flame Body, null, Vital Spirit|65|95|57|100|85|93|495|Human-Like |
+|![](Pokemon/thumbnails/125.png)|[Electabuzz](Pokemon/Electabuzz.md)|Electric|Static, (Hidden) Vital Spirit|65|83|57|95|85|105|490|Human-Like |
+|![](Pokemon/thumbnails/126.png)|[Magmar](Pokemon/Magmar.md)|Fire|Flame Body, (Hidden) Vital Spirit|65|95|57|100|85|93|495|Human-Like |
 |![](Pokemon/thumbnails/127.png)|[Pinsir](Pokemon/Pinsir.md)|Bug|Hyper Cutter, Mold Breaker, Moxie|65|125|100|55|70|85|500|Bug |
 |![](Pokemon/thumbnails/127.png)|[Pinsir](Pokemon/Pinsir.md) (Mega)|Bug, Flying|Aerilate|65|155|120|65|90|105|600|Bug |
 |![](Pokemon/thumbnails/128.png)|[Tauros](Pokemon/Tauros.md)|Normal|Intimidate, Anger Point, Sheer Force|75|100|95|40|70|110|490|Field |
-|![](Pokemon/thumbnails/129.png)|[Magikarp](Pokemon/Magikarp.md)|Water|Swift Swim, null, Rattled|20|10|55|15|20|80|200|Water 2, Dragon |
-|![](Pokemon/thumbnails/130.png)|[Gyarados](Pokemon/Gyarados.md)|Water, Flying|Intimidate, null, Moxie|95|125|79|60|100|81|540|Water 2, Dragon |
+|![](Pokemon/thumbnails/129.png)|[Magikarp](Pokemon/Magikarp.md)|Water|Swift Swim, (Hidden) Rattled|20|10|55|15|20|80|200|Water 2, Dragon |
+|![](Pokemon/thumbnails/130.png)|[Gyarados](Pokemon/Gyarados.md)|Water, Flying|Intimidate, (Hidden) Moxie|95|125|79|60|100|81|540|Water 2, Dragon |
 |![](Pokemon/thumbnails/130.png)|[Gyarados](Pokemon/Gyarados.md) (Mega)|Water, Dark|Mold Breaker|95|155|109|70|130|81|640|Water 2, Dragon |
 |![](Pokemon/thumbnails/131.png)|[Lapras](Pokemon/Lapras.md)|Water, Ice|Water Absorb, Shell Armor, Hydration|130|85|80|85|95|60|535|Monster, Water 1 |
-|![](Pokemon/thumbnails/132.png)|[Ditto](Pokemon/Ditto.md)|Normal|Limber, null, Imposter|48|48|48|48|48|48|288|Ditto |
+|![](Pokemon/thumbnails/132.png)|[Ditto](Pokemon/Ditto.md)|Normal|Limber, (Hidden) Imposter|48|48|48|48|48|48|288|Ditto |
 |![](Pokemon/thumbnails/133.png)|[Eevee](Pokemon/Eevee.md)|Normal|Run Away, Adaptability, Anticipation|55|55|50|45|65|55|325|Field |
-|![](Pokemon/thumbnails/134.png)|[Vaporeon](Pokemon/Vaporeon.md)|Water|Water Absorb, null, Hydration|130|65|60|110|95|65|525|Field |
-|![](Pokemon/thumbnails/135.png)|[Jolteon](Pokemon/Jolteon.md)|Electric|Volt Absorb, null, Quick Feet|65|65|60|110|95|130|525|Field |
-|![](Pokemon/thumbnails/136.png)|[Flareon](Pokemon/Flareon.md)|Fire|Flash Fire, null, Guts|65|130|60|95|110|65|525|Field |
+|![](Pokemon/thumbnails/134.png)|[Vaporeon](Pokemon/Vaporeon.md)|Water|Water Absorb, (Hidden) Hydration|130|65|60|110|95|65|525|Field |
+|![](Pokemon/thumbnails/135.png)|[Jolteon](Pokemon/Jolteon.md)|Electric|Volt Absorb, (Hidden) Quick Feet|65|65|60|110|95|130|525|Field |
+|![](Pokemon/thumbnails/136.png)|[Flareon](Pokemon/Flareon.md)|Fire|Flash Fire, (Hidden) Guts|65|130|60|95|110|65|525|Field |
 |![](Pokemon/thumbnails/137.png)|[Porygon](Pokemon/Porygon.md)|Normal|Trace, Download, Analytic|65|60|70|85|75|40|395|Mineral |
 |![](Pokemon/thumbnails/138.png)|[Omanyte](Pokemon/Omanyte.md)|Rock, Water|Swift Swim, Shell Armor, Weak Armor|35|40|100|90|55|35|355|Water 1, Water 3 |
 |![](Pokemon/thumbnails/139.png)|[Omastar](Pokemon/Omastar.md)|Rock, Water|Swift Swim, Shell Armor, Weak Armor|70|60|125|115|70|55|495|Water 1, Water 3 |
@@ -178,25 +178,25 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/142.png)|[Aerodactyl](Pokemon/Aerodactyl.md)|Rock, Flying|Rock Head, Pressure, Unnerve|80|105|65|60|75|130|515|Flying |
 |![](Pokemon/thumbnails/142.png)|[Aerodactyl](Pokemon/Aerodactyl.md) (Mega)|Rock, Flying|Tough Claws|80|135|85|70|95|150|615|Flying |
 |![](Pokemon/thumbnails/143.png)|[Snorlax](Pokemon/Snorlax.md)|Normal|Immunity, Thick Fat, Gluttony|160|110|65|65|110|30|540|Monster |
-|![](Pokemon/thumbnails/144.png)|[Articuno](Pokemon/Articuno.md)|Ice, Flying|Pressure, null, Snow Cloak|90|85|100|95|125|85|580|Undiscovered |
-|![](Pokemon/thumbnails/145.png)|[Zapdos](Pokemon/Zapdos.md)|Electric, Flying|Pressure, null, Static|90|90|85|125|90|100|580|Undiscovered |
-|![](Pokemon/thumbnails/146.png)|[Moltres](Pokemon/Moltres.md)|Fire, Flying|Pressure, null, Flame Body|90|100|90|125|85|90|580|Undiscovered |
-|![](Pokemon/thumbnails/147.png)|[Dratini](Pokemon/Dratini.md)|Dragon|Shed Skin, null, Marvel Scale|41|64|45|50|50|50|300|Water 1, Dragon |
-|![](Pokemon/thumbnails/148.png)|[Dragonair](Pokemon/Dragonair.md)|Dragon|Shed Skin, null, Marvel Scale|61|84|65|70|70|70|420|Water 1, Dragon |
-|![](Pokemon/thumbnails/149.png)|[Dragonite](Pokemon/Dragonite.md)|Dragon, Flying|Inner Focus, null, Multiscale|91|134|95|100|100|80|600|Water 1, Dragon |
-|![](Pokemon/thumbnails/150.png)|[Mewtwo](Pokemon/Mewtwo.md)|Psychic|Pressure, null, Unnerve|106|110|90|154|90|130|680|Undiscovered |
+|![](Pokemon/thumbnails/144.png)|[Articuno](Pokemon/Articuno.md)|Ice, Flying|Pressure, (Hidden) Snow Cloak|90|85|100|95|125|85|580|Undiscovered |
+|![](Pokemon/thumbnails/145.png)|[Zapdos](Pokemon/Zapdos.md)|Electric, Flying|Pressure, (Hidden) Static|90|90|85|125|90|100|580|Undiscovered |
+|![](Pokemon/thumbnails/146.png)|[Moltres](Pokemon/Moltres.md)|Fire, Flying|Pressure, (Hidden) Flame Body|90|100|90|125|85|90|580|Undiscovered |
+|![](Pokemon/thumbnails/147.png)|[Dratini](Pokemon/Dratini.md)|Dragon|Shed Skin, (Hidden) Marvel Scale|41|64|45|50|50|50|300|Water 1, Dragon |
+|![](Pokemon/thumbnails/148.png)|[Dragonair](Pokemon/Dragonair.md)|Dragon|Shed Skin, (Hidden) Marvel Scale|61|84|65|70|70|70|420|Water 1, Dragon |
+|![](Pokemon/thumbnails/149.png)|[Dragonite](Pokemon/Dragonite.md)|Dragon, Flying|Inner Focus, (Hidden) Multiscale|91|134|95|100|100|80|600|Water 1, Dragon |
+|![](Pokemon/thumbnails/150.png)|[Mewtwo](Pokemon/Mewtwo.md)|Psychic|Pressure, (Hidden) Unnerve|106|110|90|154|90|130|680|Undiscovered |
 |![](Pokemon/thumbnails/150.png)|[Mewtwo](Pokemon/Mewtwo.md) (Mega X)|Psychic, Fighting|Steadfast|106|190|100|154|100|130|780|Undiscovered |
 |![](Pokemon/thumbnails/150.png)|[Mewtwo](Pokemon/Mewtwo.md) (Mega Y)|Psychic|Insomnia|106|150|70|194|120|140|780|Undiscovered |
 |![](Pokemon/thumbnails/151.png)|[Mew](Pokemon/Mew.md)|Psychic|Synchronize|100|100|100|100|100|100|600|Undiscovered |
-|![](Pokemon/thumbnails/152.png)|[Chikorita](Pokemon/Chikorita.md)|Grass|Overgrow, null, Leaf Guard|45|49|65|49|65|45|318|Monster, Grass |
-|![](Pokemon/thumbnails/153.png)|[Bayleef](Pokemon/Bayleef.md)|Grass|Overgrow, null, Leaf Guard|60|62|80|63|80|60|405|Monster, Grass |
-|![](Pokemon/thumbnails/154.png)|[Meganium](Pokemon/Meganium.md)|Grass|Overgrow, null, Leaf Guard|80|82|100|83|100|80|525|Monster, Grass |
-|![](Pokemon/thumbnails/155.png)|[Cyndaquil](Pokemon/Cyndaquil.md)|Fire|Blaze, null, Flash Fire|39|52|43|60|50|65|309|Field |
-|![](Pokemon/thumbnails/156.png)|[Quilava](Pokemon/Quilava.md)|Fire|Blaze, null, Flash Fire|58|64|58|80|65|80|405|Field |
-|![](Pokemon/thumbnails/157.png)|[Typhlosion](Pokemon/Typhlosion.md)|Fire|Blaze, null, Flash Fire|78|84|78|109|85|100|534|Field |
-|![](Pokemon/thumbnails/158.png)|[Totodile](Pokemon/Totodile.md)|Water|Torrent, null, Sheer Force|50|65|64|44|48|43|314|Monster, Water 1 |
-|![](Pokemon/thumbnails/159.png)|[Croconaw](Pokemon/Croconaw.md)|Water|Torrent, null, Sheer Force|65|80|80|59|63|58|405|Monster, Water 1 |
-|![](Pokemon/thumbnails/160.png)|[Feraligatr](Pokemon/Feraligatr.md)|Water|Torrent, null, Sheer Force|85|105|100|79|83|78|530|Monster, Water 1 |
+|![](Pokemon/thumbnails/152.png)|[Chikorita](Pokemon/Chikorita.md)|Grass|Overgrow, (Hidden) Leaf Guard|45|49|65|49|65|45|318|Monster, Grass |
+|![](Pokemon/thumbnails/153.png)|[Bayleef](Pokemon/Bayleef.md)|Grass|Overgrow, (Hidden) Leaf Guard|60|62|80|63|80|60|405|Monster, Grass |
+|![](Pokemon/thumbnails/154.png)|[Meganium](Pokemon/Meganium.md)|Grass|Overgrow, (Hidden) Leaf Guard|80|82|100|83|100|80|525|Monster, Grass |
+|![](Pokemon/thumbnails/155.png)|[Cyndaquil](Pokemon/Cyndaquil.md)|Fire|Blaze, (Hidden) Flash Fire|39|52|43|60|50|65|309|Field |
+|![](Pokemon/thumbnails/156.png)|[Quilava](Pokemon/Quilava.md)|Fire|Blaze, (Hidden) Flash Fire|58|64|58|80|65|80|405|Field |
+|![](Pokemon/thumbnails/157.png)|[Typhlosion](Pokemon/Typhlosion.md)|Fire|Blaze, (Hidden) Flash Fire|78|84|78|109|85|100|534|Field |
+|![](Pokemon/thumbnails/158.png)|[Totodile](Pokemon/Totodile.md)|Water|Torrent, (Hidden) Sheer Force|50|65|64|44|48|43|314|Monster, Water 1 |
+|![](Pokemon/thumbnails/159.png)|[Croconaw](Pokemon/Croconaw.md)|Water|Torrent, (Hidden) Sheer Force|65|80|80|59|63|58|405|Monster, Water 1 |
+|![](Pokemon/thumbnails/160.png)|[Feraligatr](Pokemon/Feraligatr.md)|Water|Torrent, (Hidden) Sheer Force|85|105|100|79|83|78|530|Monster, Water 1 |
 |![](Pokemon/thumbnails/161.png)|[Sentret](Pokemon/Sentret.md)|Normal|Run Away, Keen Eye, Frisk|35|46|34|35|45|20|215|Field |
 |![](Pokemon/thumbnails/162.png)|[Furret](Pokemon/Furret.md)|Normal|Run Away, Keen Eye, Frisk|85|76|64|45|55|90|415|Field |
 |![](Pokemon/thumbnails/163.png)|[Hoothoot](Pokemon/Hoothoot.md)|Normal, Flying|Insomnia, Keen Eye, Tinted Lens|60|30|30|36|56|50|262|Flying |
@@ -205,21 +205,21 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/166.png)|[Ledian](Pokemon/Ledian.md)|Bug, Flying|Swarm, Early Bird, Iron Fist|55|35|50|55|110|85|390|Bug |
 |![](Pokemon/thumbnails/167.png)|[Spinarak](Pokemon/Spinarak.md)|Bug, Poison|Swarm, Insomnia, Sniper|40|60|40|40|40|30|250|Bug |
 |![](Pokemon/thumbnails/168.png)|[Ariados](Pokemon/Ariados.md)|Bug, Poison|Swarm, Insomnia, Sniper|70|90|70|60|70|40|400|Bug |
-|![](Pokemon/thumbnails/169.png)|[Crobat](Pokemon/Crobat.md)|Poison, Flying|Inner Focus, null, Infiltrator|85|90|80|70|80|130|535|Flying |
+|![](Pokemon/thumbnails/169.png)|[Crobat](Pokemon/Crobat.md)|Poison, Flying|Inner Focus, (Hidden) Infiltrator|85|90|80|70|80|130|535|Flying |
 |![](Pokemon/thumbnails/170.png)|[Chinchou](Pokemon/Chinchou.md)|Water, Electric|Volt Absorb, Illuminate, Water Absorb|75|38|38|56|56|67|330|Water 2 |
 |![](Pokemon/thumbnails/171.png)|[Lanturn](Pokemon/Lanturn.md)|Water, Electric|Volt Absorb, Illuminate, Water Absorb|125|58|58|76|76|67|460|Water 2 |
-|![](Pokemon/thumbnails/172.png)|[Pichu](Pokemon/Pichu.md)|Electric|Static, null, Lightning Rod|20|40|15|35|35|60|205|Undiscovered |
+|![](Pokemon/thumbnails/172.png)|[Pichu](Pokemon/Pichu.md)|Electric|Static, (Hidden) Lightning Rod|20|40|15|35|35|60|205|Undiscovered |
 |![](Pokemon/thumbnails/173.png)|[Cleffa](Pokemon/Cleffa.md)|Fairy|Cute Charm, Magic Guard, Friend Guard|50|25|28|45|55|15|218|Undiscovered |
 |![](Pokemon/thumbnails/174.png)|[Igglybuff](Pokemon/Igglybuff.md)|Normal, Fairy|Cute Charm, Competitive, Friend Guard|90|30|15|40|20|15|210|Undiscovered |
 |![](Pokemon/thumbnails/175.png)|[Togepi](Pokemon/Togepi.md)|Fairy|Hustle, Serene Grace, Super Luck|35|20|65|40|65|20|245|Undiscovered |
 |![](Pokemon/thumbnails/176.png)|[Togetic](Pokemon/Togetic.md)|Fairy, Flying|Hustle, Serene Grace, Super Luck|55|40|85|80|105|40|405|Flying, Fairy |
 |![](Pokemon/thumbnails/177.png)|[Natu](Pokemon/Natu.md)|Psychic, Flying|Synchronize, Early Bird, Magic Bounce|40|50|45|70|45|70|320|Flying |
 |![](Pokemon/thumbnails/178.png)|[Xatu](Pokemon/Xatu.md)|Psychic, Flying|Synchronize, Early Bird, Magic Bounce|65|75|70|95|70|95|470|Flying |
-|![](Pokemon/thumbnails/179.png)|[Mareep](Pokemon/Mareep.md)|Electric|Static, null, Plus|55|40|40|65|45|35|280|Monster, Field |
-|![](Pokemon/thumbnails/180.png)|[Flaaffy](Pokemon/Flaaffy.md)|Electric|Static, null, Plus|70|55|55|80|60|45|365|Monster, Field |
-|![](Pokemon/thumbnails/181.png)|[Ampharos](Pokemon/Ampharos.md)|Electric|Static, null, Plus|90|75|85|115|90|55|510|Monster, Field |
+|![](Pokemon/thumbnails/179.png)|[Mareep](Pokemon/Mareep.md)|Electric|Static, (Hidden) Plus|55|40|40|65|45|35|280|Monster, Field |
+|![](Pokemon/thumbnails/180.png)|[Flaaffy](Pokemon/Flaaffy.md)|Electric|Static, (Hidden) Plus|70|55|55|80|60|45|365|Monster, Field |
+|![](Pokemon/thumbnails/181.png)|[Ampharos](Pokemon/Ampharos.md)|Electric|Static, (Hidden) Plus|90|75|85|115|90|55|510|Monster, Field |
 |![](Pokemon/thumbnails/181.png)|[Ampharos](Pokemon/Ampharos.md) (Mega)|Electric, Dragon|Mold Breaker|90|95|105|165|110|45|610|Monster, Field |
-|![](Pokemon/thumbnails/182.png)|[Bellossom](Pokemon/Bellossom.md)|Grass|Chlorophyll, null, Healer|75|80|95|90|100|50|490|Grass |
+|![](Pokemon/thumbnails/182.png)|[Bellossom](Pokemon/Bellossom.md)|Grass|Chlorophyll, (Hidden) Healer|75|80|95|90|100|50|490|Grass |
 |![](Pokemon/thumbnails/183.png)|[Marill](Pokemon/Marill.md)|Water, Fairy|Thick Fat, Huge Power, Sap Sipper|70|20|50|20|50|40|250|Water 1, Fairy |
 |![](Pokemon/thumbnails/184.png)|[Azumarill](Pokemon/Azumarill.md)|Water, Fairy|Thick Fat, Huge Power, Sap Sipper|100|50|80|60|80|50|420|Water 1, Fairy |
 |![](Pokemon/thumbnails/185.png)|[Sudowoodo](Pokemon/Sudowoodo.md)|Rock|Sturdy, Rock Head, Rattled|70|100|115|30|65|30|410|Mineral |
@@ -233,16 +233,16 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/193.png)|[Yanma](Pokemon/Yanma.md)|Bug, Flying|Speed Boost, Compound Eyes, Frisk|65|65|45|75|45|95|390|Bug |
 |![](Pokemon/thumbnails/194.png)|[Wooper](Pokemon/Wooper.md)|Water, Ground|Damp, Water Absorb, Unaware|55|45|45|25|25|15|210|Water 1, Field |
 |![](Pokemon/thumbnails/195.png)|[Quagsire](Pokemon/Quagsire.md)|Water, Ground|Damp, Water Absorb, Unaware|95|85|85|65|65|35|430|Water 1, Field |
-|![](Pokemon/thumbnails/196.png)|[Espeon](Pokemon/Espeon.md)|Psychic|Synchronize, null, Magic Bounce|65|65|60|130|95|110|525|Field |
-|![](Pokemon/thumbnails/197.png)|[Umbreon](Pokemon/Umbreon.md)|Dark|Synchronize, null, Inner Focus|95|65|110|60|130|65|525|Field |
+|![](Pokemon/thumbnails/196.png)|[Espeon](Pokemon/Espeon.md)|Psychic|Synchronize, (Hidden) Magic Bounce|65|65|60|130|95|110|525|Field |
+|![](Pokemon/thumbnails/197.png)|[Umbreon](Pokemon/Umbreon.md)|Dark|Synchronize, (Hidden) Inner Focus|95|65|110|60|130|65|525|Field |
 |![](Pokemon/thumbnails/198.png)|[Murkrow](Pokemon/Murkrow.md)|Dark, Flying|Insomnia, Super Luck, Prankster|60|85|42|85|42|91|405|Flying |
 |![](Pokemon/thumbnails/199.png)|[Slowking](Pokemon/Slowking.md)|Water, Psychic|Oblivious, Own Tempo, Regenerator|95|75|80|100|110|30|490|Monster, Water 1 |
 |![](Pokemon/thumbnails/200.png)|[Misdreavus](Pokemon/Misdreavus.md)|Ghost|Levitate|60|60|60|85|85|85|435|Amorphous |
 |![](Pokemon/thumbnails/201.png)|[Unown](Pokemon/Unown.md)|Psychic|Levitate|48|72|48|72|48|48|336|Undiscovered |
-|![](Pokemon/thumbnails/202.png)|[Wobbuffet](Pokemon/Wobbuffet.md)|Psychic|Shadow Tag, null, Telepathy|190|33|58|33|58|33|405|Amorphous |
+|![](Pokemon/thumbnails/202.png)|[Wobbuffet](Pokemon/Wobbuffet.md)|Psychic|Shadow Tag, (Hidden) Telepathy|190|33|58|33|58|33|405|Amorphous |
 |![](Pokemon/thumbnails/203.png)|[Girafarig](Pokemon/Girafarig.md)|Normal, Psychic|Inner Focus, Early Bird, Sap Sipper|70|80|65|90|65|85|455|Field |
-|![](Pokemon/thumbnails/204.png)|[Pineco](Pokemon/Pineco.md)|Bug|Sturdy, null, Overcoat|50|65|90|35|35|15|290|Bug |
-|![](Pokemon/thumbnails/205.png)|[Forretress](Pokemon/Forretress.md)|Bug, Steel|Sturdy, null, Overcoat|75|90|140|60|60|40|465|Bug |
+|![](Pokemon/thumbnails/204.png)|[Pineco](Pokemon/Pineco.md)|Bug|Sturdy, (Hidden) Overcoat|50|65|90|35|35|15|290|Bug |
+|![](Pokemon/thumbnails/205.png)|[Forretress](Pokemon/Forretress.md)|Bug, Steel|Sturdy, (Hidden) Overcoat|75|90|140|60|60|40|465|Bug |
 |![](Pokemon/thumbnails/206.png)|[Dunsparce](Pokemon/Dunsparce.md)|Normal|Serene Grace, Run Away, Rattled|100|70|70|65|65|45|415|Field |
 |![](Pokemon/thumbnails/207.png)|[Gligar](Pokemon/Gligar.md)|Ground, Flying|Hyper Cutter, Sand Veil, Immunity|65|75|105|35|65|85|430|Bug |
 |![](Pokemon/thumbnails/208.png)|[Steelix](Pokemon/Steelix.md)|Steel, Ground|Rock Head, Sturdy, Sheer Force|75|85|200|55|65|30|510|Mineral |
@@ -272,76 +272,76 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/229.png)|[Houndoom](Pokemon/Houndoom.md)|Dark, Fire|Early Bird, Flash Fire, Unnerve|75|90|50|110|80|95|500|Field |
 |![](Pokemon/thumbnails/229.png)|[Houndoom](Pokemon/Houndoom.md) (Mega)|Dark, Fire|Solar Power|75|90|90|140|90|115|600|Field |
 |![](Pokemon/thumbnails/230.png)|[Kingdra](Pokemon/Kingdra.md)|Water, Dragon|Swift Swim, Sniper, Damp|75|95|95|95|95|85|540|Water 1, Dragon |
-|![](Pokemon/thumbnails/231.png)|[Phanpy](Pokemon/Phanpy.md)|Ground|Pickup, null, Sand Veil|90|60|60|40|40|40|330|Field |
-|![](Pokemon/thumbnails/232.png)|[Donphan](Pokemon/Donphan.md)|Ground|Sturdy, null, Sand Veil|90|120|120|60|60|50|500|Field |
+|![](Pokemon/thumbnails/231.png)|[Phanpy](Pokemon/Phanpy.md)|Ground|Pickup, (Hidden) Sand Veil|90|60|60|40|40|40|330|Field |
+|![](Pokemon/thumbnails/232.png)|[Donphan](Pokemon/Donphan.md)|Ground|Sturdy, (Hidden) Sand Veil|90|120|120|60|60|50|500|Field |
 |![](Pokemon/thumbnails/233.png)|[Porygon2](Pokemon/Porygon2.md)|Normal|Trace, Download, Analytic|85|80|90|105|95|60|515|Mineral |
 |![](Pokemon/thumbnails/234.png)|[Stantler](Pokemon/Stantler.md)|Normal|Intimidate, Frisk, Sap Sipper|73|95|62|85|65|85|465|Field |
 |![](Pokemon/thumbnails/235.png)|[Smeargle](Pokemon/Smeargle.md)|Normal|Own Tempo, Technician, Moody|55|20|35|20|45|75|250|Field |
 |![](Pokemon/thumbnails/236.png)|[Tyrogue](Pokemon/Tyrogue.md)|Fighting|Guts, Steadfast, Vital Spirit|35|35|35|35|35|35|210|Undiscovered |
 |![](Pokemon/thumbnails/237.png)|[Hitmontop](Pokemon/Hitmontop.md)|Fighting|Intimidate, Technician, Steadfast|50|95|95|35|110|70|455|Human-Like |
 |![](Pokemon/thumbnails/238.png)|[Smoochum](Pokemon/Smoochum.md)|Ice, Psychic|Oblivious, Forewarn, Hydration|45|30|15|85|65|65|305|Undiscovered |
-|![](Pokemon/thumbnails/239.png)|[Elekid](Pokemon/Elekid.md)|Electric|Static, null, Vital Spirit|45|63|37|65|55|95|360|Undiscovered |
-|![](Pokemon/thumbnails/240.png)|[Magby](Pokemon/Magby.md)|Fire|Flame Body, null, Vital Spirit|45|75|37|70|55|83|365|Undiscovered |
+|![](Pokemon/thumbnails/239.png)|[Elekid](Pokemon/Elekid.md)|Electric|Static, (Hidden) Vital Spirit|45|63|37|65|55|95|360|Undiscovered |
+|![](Pokemon/thumbnails/240.png)|[Magby](Pokemon/Magby.md)|Fire|Flame Body, (Hidden) Vital Spirit|45|75|37|70|55|83|365|Undiscovered |
 |![](Pokemon/thumbnails/241.png)|[Miltank](Pokemon/Miltank.md)|Normal|Thick Fat, Scrappy, Sap Sipper|95|80|105|40|70|100|490|Field |
 |![](Pokemon/thumbnails/242.png)|[Blissey](Pokemon/Blissey.md)|Normal|Natural Cure, Serene Grace, Healer|255|10|10|75|135|55|540|Fairy |
-|![](Pokemon/thumbnails/243.png)|[Raikou](Pokemon/Raikou.md)|Electric|Pressure, null, Inner Focus|90|85|75|115|100|115|580|Undiscovered |
-|![](Pokemon/thumbnails/244.png)|[Entei](Pokemon/Entei.md)|Fire|Pressure, null, Inner Focus|115|115|85|90|75|100|580|Undiscovered |
-|![](Pokemon/thumbnails/245.png)|[Suicune](Pokemon/Suicune.md)|Water|Pressure, null, Inner Focus|100|75|115|90|115|85|580|Undiscovered |
-|![](Pokemon/thumbnails/246.png)|[Larvitar](Pokemon/Larvitar.md)|Rock, Ground|Guts, null, Sand Veil|50|64|50|45|50|41|300|Monster |
+|![](Pokemon/thumbnails/243.png)|[Raikou](Pokemon/Raikou.md)|Electric|Pressure, (Hidden) Inner Focus|90|85|75|115|100|115|580|Undiscovered |
+|![](Pokemon/thumbnails/244.png)|[Entei](Pokemon/Entei.md)|Fire|Pressure, (Hidden) Inner Focus|115|115|85|90|75|100|580|Undiscovered |
+|![](Pokemon/thumbnails/245.png)|[Suicune](Pokemon/Suicune.md)|Water|Pressure, (Hidden) Inner Focus|100|75|115|90|115|85|580|Undiscovered |
+|![](Pokemon/thumbnails/246.png)|[Larvitar](Pokemon/Larvitar.md)|Rock, Ground|Guts, (Hidden) Sand Veil|50|64|50|45|50|41|300|Monster |
 |![](Pokemon/thumbnails/247.png)|[Pupitar](Pokemon/Pupitar.md)|Rock, Ground|Shed Skin|70|84|70|65|70|51|410|Monster |
-|![](Pokemon/thumbnails/248.png)|[Tyranitar](Pokemon/Tyranitar.md)|Rock, Dark|Sand Stream, null, Unnerve|100|134|110|95|100|61|600|Monster |
+|![](Pokemon/thumbnails/248.png)|[Tyranitar](Pokemon/Tyranitar.md)|Rock, Dark|Sand Stream, (Hidden) Unnerve|100|134|110|95|100|61|600|Monster |
 |![](Pokemon/thumbnails/248.png)|[Tyranitar](Pokemon/Tyranitar.md) (Mega)|Rock, Dark|Sand Stream|100|164|150|95|120|71|700|Monster |
-|![](Pokemon/thumbnails/249.png)|[Lugia](Pokemon/Lugia.md)|Psychic, Flying|Pressure, null, Multiscale|106|90|130|90|154|110|680|Undiscovered |
-|![](Pokemon/thumbnails/250.png)|[Ho-Oh](Pokemon/Ho-Oh.md)|Fire, Flying|Pressure, null, Regenerator|106|130|90|110|154|90|680|Undiscovered |
+|![](Pokemon/thumbnails/249.png)|[Lugia](Pokemon/Lugia.md)|Psychic, Flying|Pressure, (Hidden) Multiscale|106|90|130|90|154|110|680|Undiscovered |
+|![](Pokemon/thumbnails/250.png)|[Ho-Oh](Pokemon/Ho-Oh.md)|Fire, Flying|Pressure, (Hidden) Regenerator|106|130|90|110|154|90|680|Undiscovered |
 |![](Pokemon/thumbnails/251.png)|[Celebi](Pokemon/Celebi.md)|Psychic, Grass|Natural Cure|100|100|100|100|100|100|600|Undiscovered |
-|![](Pokemon/thumbnails/252.png)|[Treecko](Pokemon/Treecko.md)|Grass|Overgrow, null, Unburden|40|45|35|65|55|70|310|Monster, Dragon |
-|![](Pokemon/thumbnails/253.png)|[Grovyle](Pokemon/Grovyle.md)|Grass|Overgrow, null, Unburden|50|65|45|85|65|95|405|Monster, Dragon |
-|![](Pokemon/thumbnails/254.png)|[Sceptile](Pokemon/Sceptile.md)|Grass|Overgrow, null, Unburden|70|85|65|105|85|120|530|Monster, Dragon |
+|![](Pokemon/thumbnails/252.png)|[Treecko](Pokemon/Treecko.md)|Grass|Overgrow, (Hidden) Unburden|40|45|35|65|55|70|310|Monster, Dragon |
+|![](Pokemon/thumbnails/253.png)|[Grovyle](Pokemon/Grovyle.md)|Grass|Overgrow, (Hidden) Unburden|50|65|45|85|65|95|405|Monster, Dragon |
+|![](Pokemon/thumbnails/254.png)|[Sceptile](Pokemon/Sceptile.md)|Grass|Overgrow, (Hidden) Unburden|70|85|65|105|85|120|530|Monster, Dragon |
 |![](Pokemon/thumbnails/254.png)|[Sceptile](Pokemon/Sceptile.md) (Mega)|Grass, Dragon|Lightning Rod|70|110|75|145|85|145|630|Monster, Dragon |
-|![](Pokemon/thumbnails/255.png)|[Torchic](Pokemon/Torchic.md)|Fire|Blaze, null, Speed Boost|45|60|40|70|50|45|310|Field |
-|![](Pokemon/thumbnails/256.png)|[Combusken](Pokemon/Combusken.md)|Fire, Fighting|Blaze, null, Speed Boost|60|85|60|85|60|55|405|Field |
-|![](Pokemon/thumbnails/257.png)|[Blaziken](Pokemon/Blaziken.md)|Fire, Fighting|Blaze, null, Speed Boost|80|120|70|110|70|80|530|Field |
+|![](Pokemon/thumbnails/255.png)|[Torchic](Pokemon/Torchic.md)|Fire|Blaze, (Hidden) Speed Boost|45|60|40|70|50|45|310|Field |
+|![](Pokemon/thumbnails/256.png)|[Combusken](Pokemon/Combusken.md)|Fire, Fighting|Blaze, (Hidden) Speed Boost|60|85|60|85|60|55|405|Field |
+|![](Pokemon/thumbnails/257.png)|[Blaziken](Pokemon/Blaziken.md)|Fire, Fighting|Blaze, (Hidden) Speed Boost|80|120|70|110|70|80|530|Field |
 |![](Pokemon/thumbnails/257.png)|[Blaziken](Pokemon/Blaziken.md) (Mega)|Fire, Fighting|Speed Boost|80|160|80|130|80|100|630|Field |
-|![](Pokemon/thumbnails/258.png)|[Mudkip](Pokemon/Mudkip.md)|Water|Torrent, null, Damp|50|70|50|50|50|40|310|Monster, Water 1 |
-|![](Pokemon/thumbnails/259.png)|[Marshtomp](Pokemon/Marshtomp.md)|Water, Ground|Torrent, null, Damp|70|85|70|60|70|50|405|Monster, Water 1 |
-|![](Pokemon/thumbnails/260.png)|[Swampert](Pokemon/Swampert.md)|Water, Ground|Torrent, null, Damp|100|110|90|85|90|60|535|Monster, Water 1 |
+|![](Pokemon/thumbnails/258.png)|[Mudkip](Pokemon/Mudkip.md)|Water|Torrent, (Hidden) Damp|50|70|50|50|50|40|310|Monster, Water 1 |
+|![](Pokemon/thumbnails/259.png)|[Marshtomp](Pokemon/Marshtomp.md)|Water, Ground|Torrent, (Hidden) Damp|70|85|70|60|70|50|405|Monster, Water 1 |
+|![](Pokemon/thumbnails/260.png)|[Swampert](Pokemon/Swampert.md)|Water, Ground|Torrent, (Hidden) Damp|100|110|90|85|90|60|535|Monster, Water 1 |
 |![](Pokemon/thumbnails/260.png)|[Swampert](Pokemon/Swampert.md) (Mega)|Water, Ground|Swift Swim|100|150|110|95|110|70|635|Monster, Water 1 |
 |![](Pokemon/thumbnails/261.png)|[Poochyena](Pokemon/Poochyena.md)|Dark|Run Away, Quick Feet, Rattled|35|55|35|30|30|35|220|Field |
 |![](Pokemon/thumbnails/262.png)|[Mightyena](Pokemon/Mightyena.md)|Dark|Intimidate, Quick Feet, Moxie|70|90|70|60|60|70|420|Field |
 |![](Pokemon/thumbnails/263.png)|[Zigzagoon](Pokemon/Zigzagoon.md)|Normal|Pickup, Gluttony, Quick Feet|38|30|41|30|41|60|240|Field |
 |![](Pokemon/thumbnails/264.png)|[Linoone](Pokemon/Linoone.md)|Normal|Pickup, Gluttony, Quick Feet|78|70|61|50|61|100|420|Field |
-|![](Pokemon/thumbnails/265.png)|[Wurmple](Pokemon/Wurmple.md)|Bug|Shield Dust, null, Run Away|45|45|35|20|30|20|195|Bug |
+|![](Pokemon/thumbnails/265.png)|[Wurmple](Pokemon/Wurmple.md)|Bug|Shield Dust, (Hidden) Run Away|45|45|35|20|30|20|195|Bug |
 |![](Pokemon/thumbnails/266.png)|[Silcoon](Pokemon/Silcoon.md)|Bug|Shed Skin|50|35|55|25|25|15|205|Bug |
-|![](Pokemon/thumbnails/267.png)|[Beautifly](Pokemon/Beautifly.md)|Bug, Flying|Swarm, null, Rivalry|60|70|50|100|50|65|395|Bug |
+|![](Pokemon/thumbnails/267.png)|[Beautifly](Pokemon/Beautifly.md)|Bug, Flying|Swarm, (Hidden) Rivalry|60|70|50|100|50|65|395|Bug |
 |![](Pokemon/thumbnails/268.png)|[Cascoon](Pokemon/Cascoon.md)|Bug|Shed Skin|50|35|55|25|25|15|205|Bug |
-|![](Pokemon/thumbnails/269.png)|[Dustox](Pokemon/Dustox.md)|Bug, Poison|Shield Dust, null, Compound Eyes|60|50|70|50|90|65|385|Bug |
+|![](Pokemon/thumbnails/269.png)|[Dustox](Pokemon/Dustox.md)|Bug, Poison|Shield Dust, (Hidden) Compound Eyes|60|50|70|50|90|65|385|Bug |
 |![](Pokemon/thumbnails/270.png)|[Lotad](Pokemon/Lotad.md)|Water, Grass|Swift Swim, Rain Dish, Own Tempo|40|30|30|40|50|30|220|Water 1, Grass |
 |![](Pokemon/thumbnails/271.png)|[Lombre](Pokemon/Lombre.md)|Water, Grass|Swift Swim, Rain Dish, Own Tempo|60|50|50|60|70|50|340|Water 1, Grass |
 |![](Pokemon/thumbnails/272.png)|[Ludicolo](Pokemon/Ludicolo.md)|Water, Grass|Swift Swim, Rain Dish, Own Tempo|80|70|70|90|100|70|480|Water 1, Grass |
 |![](Pokemon/thumbnails/273.png)|[Seedot](Pokemon/Seedot.md)|Grass|Chlorophyll, Early Bird, Pickpocket|40|40|50|30|30|30|220|Field, Grass |
 |![](Pokemon/thumbnails/274.png)|[Nuzleaf](Pokemon/Nuzleaf.md)|Grass, Dark|Chlorophyll, Early Bird, Pickpocket|70|70|40|60|40|60|340|Field, Grass |
 |![](Pokemon/thumbnails/275.png)|[Shiftry](Pokemon/Shiftry.md)|Grass, Dark|Chlorophyll, Early Bird, Pickpocket|90|100|60|90|60|80|480|Field, Grass |
-|![](Pokemon/thumbnails/276.png)|[Taillow](Pokemon/Taillow.md)|Normal, Flying|Guts, null, Scrappy|40|55|30|30|30|85|270|Flying |
-|![](Pokemon/thumbnails/277.png)|[Swellow](Pokemon/Swellow.md)|Normal, Flying|Guts, null, Scrappy|60|85|60|75|50|125|455|Flying |
+|![](Pokemon/thumbnails/276.png)|[Taillow](Pokemon/Taillow.md)|Normal, Flying|Guts, (Hidden) Scrappy|40|55|30|30|30|85|270|Flying |
+|![](Pokemon/thumbnails/277.png)|[Swellow](Pokemon/Swellow.md)|Normal, Flying|Guts, (Hidden) Scrappy|60|85|60|75|50|125|455|Flying |
 |![](Pokemon/thumbnails/278.png)|[Wingull](Pokemon/Wingull.md)|Water, Flying|Keen Eye, Hydration, Rain Dish|40|30|30|55|30|85|270|Water 1, Flying |
 |![](Pokemon/thumbnails/279.png)|[Pelipper](Pokemon/Pelipper.md)|Water, Flying|Keen Eye, Drizzle, Rain Dish|60|50|100|95|70|65|440|Water 1, Flying |
 |![](Pokemon/thumbnails/280.png)|[Ralts](Pokemon/Ralts.md)|Psychic, Fairy|Synchronize, Trace, Telepathy|28|25|25|45|35|40|198|Amorphous |
 |![](Pokemon/thumbnails/281.png)|[Kirlia](Pokemon/Kirlia.md)|Psychic, Fairy|Synchronize, Trace, Telepathy|38|35|35|65|55|50|278|Amorphous |
 |![](Pokemon/thumbnails/282.png)|[Gardevoir](Pokemon/Gardevoir.md)|Psychic, Fairy|Synchronize, Trace, Telepathy|68|65|65|125|115|80|518|Amorphous |
 |![](Pokemon/thumbnails/282.png)|[Gardevoir](Pokemon/Gardevoir.md) (Mega)|Psychic, Fairy|Pixilate|68|85|65|165|135|100|618|Amorphous |
-|![](Pokemon/thumbnails/283.png)|[Surskit](Pokemon/Surskit.md)|Bug, Water|Swift Swim, null, Rain Dish|40|30|32|50|52|65|269|Water 1, Bug |
-|![](Pokemon/thumbnails/284.png)|[Masquerain](Pokemon/Masquerain.md)|Bug, Flying|Intimidate, null, Unnerve|70|60|62|100|82|80|454|Water 1, Bug |
+|![](Pokemon/thumbnails/283.png)|[Surskit](Pokemon/Surskit.md)|Bug, Water|Swift Swim, (Hidden) Rain Dish|40|30|32|50|52|65|269|Water 1, Bug |
+|![](Pokemon/thumbnails/284.png)|[Masquerain](Pokemon/Masquerain.md)|Bug, Flying|Intimidate, (Hidden) Unnerve|70|60|62|100|82|80|454|Water 1, Bug |
 |![](Pokemon/thumbnails/285.png)|[Shroomish](Pokemon/Shroomish.md)|Grass|Effect Spore, Poison Heal, Quick Feet|60|40|60|40|60|35|295|Fairy, Grass |
 |![](Pokemon/thumbnails/286.png)|[Breloom](Pokemon/Breloom.md)|Grass, Fighting|Effect Spore, Poison Heal, Technician|60|130|80|60|60|70|460|Fairy, Grass |
 |![](Pokemon/thumbnails/287.png)|[Slakoth](Pokemon/Slakoth.md)|Normal|Truant|60|60|60|35|35|30|280|Field |
 |![](Pokemon/thumbnails/288.png)|[Vigoroth](Pokemon/Vigoroth.md)|Normal|Vital Spirit|80|80|80|55|55|90|440|Field |
 |![](Pokemon/thumbnails/289.png)|[Slaking](Pokemon/Slaking.md)|Normal|Truant|150|160|100|95|65|100|670|Field |
-|![](Pokemon/thumbnails/290.png)|[Nincada](Pokemon/Nincada.md)|Bug, Ground|Compound Eyes, null, Run Away|31|45|90|30|30|40|266|Bug |
-|![](Pokemon/thumbnails/291.png)|[Ninjask](Pokemon/Ninjask.md)|Bug, Flying|Speed Boost, null, Infiltrator|61|90|45|50|50|160|456|Bug |
+|![](Pokemon/thumbnails/290.png)|[Nincada](Pokemon/Nincada.md)|Bug, Ground|Compound Eyes, (Hidden) Run Away|31|45|90|30|30|40|266|Bug |
+|![](Pokemon/thumbnails/291.png)|[Ninjask](Pokemon/Ninjask.md)|Bug, Flying|Speed Boost, (Hidden) Infiltrator|61|90|45|50|50|160|456|Bug |
 |![](Pokemon/thumbnails/292.png)|[Shedinja](Pokemon/Shedinja.md)|Bug, Ghost|Wonder Guard|1|90|45|30|30|40|236|Mineral |
-|![](Pokemon/thumbnails/293.png)|[Whismur](Pokemon/Whismur.md)|Normal|Soundproof, null, Rattled|64|51|23|51|23|28|240|Monster, Field |
-|![](Pokemon/thumbnails/294.png)|[Loudred](Pokemon/Loudred.md)|Normal|Soundproof, null, Scrappy|84|71|43|71|43|48|360|Monster, Field |
-|![](Pokemon/thumbnails/295.png)|[Exploud](Pokemon/Exploud.md)|Normal|Soundproof, null, Scrappy|104|91|63|91|73|68|490|Monster, Field |
+|![](Pokemon/thumbnails/293.png)|[Whismur](Pokemon/Whismur.md)|Normal|Soundproof, (Hidden) Rattled|64|51|23|51|23|28|240|Monster, Field |
+|![](Pokemon/thumbnails/294.png)|[Loudred](Pokemon/Loudred.md)|Normal|Soundproof, (Hidden) Scrappy|84|71|43|71|43|48|360|Monster, Field |
+|![](Pokemon/thumbnails/295.png)|[Exploud](Pokemon/Exploud.md)|Normal|Soundproof, (Hidden) Scrappy|104|91|63|91|73|68|490|Monster, Field |
 |![](Pokemon/thumbnails/296.png)|[Makuhita](Pokemon/Makuhita.md)|Fighting|Thick Fat, Guts, Sheer Force|72|60|30|20|30|25|237|Human-Like |
 |![](Pokemon/thumbnails/297.png)|[Hariyama](Pokemon/Hariyama.md)|Fighting|Thick Fat, Guts, Sheer Force|144|120|60|40|60|50|474|Human-Like |
 |![](Pokemon/thumbnails/298.png)|[Azurill](Pokemon/Azurill.md)|Normal, Fairy|Thick Fat, Huge Power, Sap Sipper|50|20|40|20|40|20|190|Undiscovered |
@@ -356,21 +356,21 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/305.png)|[Lairon](Pokemon/Lairon.md)|Steel, Rock|Sturdy, Rock Head, Heavy Metal|60|90|140|50|50|40|430|Monster |
 |![](Pokemon/thumbnails/306.png)|[Aggron](Pokemon/Aggron.md)|Steel, Rock|Sturdy, Rock Head, Heavy Metal|70|110|180|60|60|50|530|Monster |
 |![](Pokemon/thumbnails/306.png)|[Aggron](Pokemon/Aggron.md) (Mega)|Steel|Filter|70|140|230|60|80|50|630|Monster |
-|![](Pokemon/thumbnails/307.png)|[Meditite](Pokemon/Meditite.md)|Fighting, Psychic|Pure Power, null, Telepathy|30|40|55|40|55|60|280|Human-Like |
-|![](Pokemon/thumbnails/308.png)|[Medicham](Pokemon/Medicham.md)|Fighting, Psychic|Pure Power, null, Telepathy|60|60|75|60|75|80|410|Human-Like |
+|![](Pokemon/thumbnails/307.png)|[Meditite](Pokemon/Meditite.md)|Fighting, Psychic|Pure Power, (Hidden) Telepathy|30|40|55|40|55|60|280|Human-Like |
+|![](Pokemon/thumbnails/308.png)|[Medicham](Pokemon/Medicham.md)|Fighting, Psychic|Pure Power, (Hidden) Telepathy|60|60|75|60|75|80|410|Human-Like |
 |![](Pokemon/thumbnails/308.png)|[Medicham](Pokemon/Medicham.md) (Mega)|Fighting, Psychic|Pure Power|60|100|85|80|85|100|510|Human-Like |
 |![](Pokemon/thumbnails/309.png)|[Electrike](Pokemon/Electrike.md)|Electric|Static, Lightning Rod, Minus|40|45|40|65|40|65|295|Field |
 |![](Pokemon/thumbnails/310.png)|[Manectric](Pokemon/Manectric.md)|Electric|Static, Lightning Rod, Minus|70|75|60|105|60|105|475|Field |
 |![](Pokemon/thumbnails/310.png)|[Manectric](Pokemon/Manectric.md) (Mega)|Electric|Intimidate|70|75|80|135|80|135|575|Field |
-|![](Pokemon/thumbnails/311.png)|[Plusle](Pokemon/Plusle.md)|Electric|Plus, null, Lightning Rod|60|50|40|85|75|95|405|Fairy |
-|![](Pokemon/thumbnails/312.png)|[Minun](Pokemon/Minun.md)|Electric|Minus, null, Volt Absorb|60|40|50|75|85|95|405|Fairy |
+|![](Pokemon/thumbnails/311.png)|[Plusle](Pokemon/Plusle.md)|Electric|Plus, (Hidden) Lightning Rod|60|50|40|85|75|95|405|Fairy |
+|![](Pokemon/thumbnails/312.png)|[Minun](Pokemon/Minun.md)|Electric|Minus, (Hidden) Volt Absorb|60|40|50|75|85|95|405|Fairy |
 |![](Pokemon/thumbnails/313.png)|[Volbeat](Pokemon/Volbeat.md)|Bug|Illuminate, Swarm, Prankster|65|73|75|47|85|85|430|Bug, Human-Like |
 |![](Pokemon/thumbnails/314.png)|[Illumise](Pokemon/Illumise.md)|Bug|Oblivious, Tinted Lens, Prankster|65|47|75|73|85|85|430|Bug, Human-Like |
 |![](Pokemon/thumbnails/315.png)|[Roselia](Pokemon/Roselia.md)|Grass, Poison|Natural Cure, Poison Point, Leaf Guard|50|60|45|100|80|65|400|Fairy, Grass |
 |![](Pokemon/thumbnails/316.png)|[Gulpin](Pokemon/Gulpin.md)|Poison|Liquid Ooze, Sticky Hold, Gluttony|70|43|53|43|53|40|302|Amorphous |
 |![](Pokemon/thumbnails/317.png)|[Swalot](Pokemon/Swalot.md)|Poison|Liquid Ooze, Sticky Hold, Gluttony|100|73|83|73|83|55|467|Amorphous |
-|![](Pokemon/thumbnails/318.png)|[Carvanha](Pokemon/Carvanha.md)|Water, Dark|Rough Skin, null, Speed Boost|45|90|20|65|20|65|305|Water 2 |
-|![](Pokemon/thumbnails/319.png)|[Sharpedo](Pokemon/Sharpedo.md)|Water, Dark|Rough Skin, null, Speed Boost|70|120|40|95|40|95|460|Water 2 |
+|![](Pokemon/thumbnails/318.png)|[Carvanha](Pokemon/Carvanha.md)|Water, Dark|Rough Skin, (Hidden) Speed Boost|45|90|20|65|20|65|305|Water 2 |
+|![](Pokemon/thumbnails/319.png)|[Sharpedo](Pokemon/Sharpedo.md)|Water, Dark|Rough Skin, (Hidden) Speed Boost|70|120|40|95|40|95|460|Water 2 |
 |![](Pokemon/thumbnails/319.png)|[Sharpedo](Pokemon/Sharpedo.md) (Mega)|Water, Dark|Strong Jaw|70|140|70|110|65|105|560|Water 2 |
 |![](Pokemon/thumbnails/320.png)|[Wailmer](Pokemon/Wailmer.md)|Water|Water Veil, Oblivious, Pressure|130|70|35|70|35|60|400|Field, Water 2 |
 |![](Pokemon/thumbnails/321.png)|[Wailord](Pokemon/Wailord.md)|Water|Water Veil, Oblivious, Pressure|170|90|45|90|45|60|500|Field, Water 2 |
@@ -384,13 +384,13 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/328.png)|[Trapinch](Pokemon/Trapinch.md)|Ground|Hyper Cutter, Arena Trap, Sheer Force|45|100|45|45|45|10|290|Bug |
 |![](Pokemon/thumbnails/329.png)|[Vibrava](Pokemon/Vibrava.md)|Ground, Dragon|Levitate|50|70|50|50|50|70|340|Bug |
 |![](Pokemon/thumbnails/330.png)|[Flygon](Pokemon/Flygon.md)|Ground, Dragon|Levitate|80|100|80|80|80|100|520|Bug |
-|![](Pokemon/thumbnails/331.png)|[Cacnea](Pokemon/Cacnea.md)|Grass|Sand Veil, null, Water Absorb|50|85|40|85|40|35|335|Grass, Human-Like |
-|![](Pokemon/thumbnails/332.png)|[Cacturne](Pokemon/Cacturne.md)|Grass, Dark|Sand Veil, null, Water Absorb|70|115|60|115|60|55|475|Grass, Human-Like |
-|![](Pokemon/thumbnails/333.png)|[Swablu](Pokemon/Swablu.md)|Normal, Flying|Natural Cure, null, Cloud Nine|45|40|60|40|75|50|310|Flying, Dragon |
-|![](Pokemon/thumbnails/334.png)|[Altaria](Pokemon/Altaria.md)|Dragon, Flying|Natural Cure, null, Cloud Nine|75|70|90|70|105|80|490|Flying, Dragon |
+|![](Pokemon/thumbnails/331.png)|[Cacnea](Pokemon/Cacnea.md)|Grass|Sand Veil, (Hidden) Water Absorb|50|85|40|85|40|35|335|Grass, Human-Like |
+|![](Pokemon/thumbnails/332.png)|[Cacturne](Pokemon/Cacturne.md)|Grass, Dark|Sand Veil, (Hidden) Water Absorb|70|115|60|115|60|55|475|Grass, Human-Like |
+|![](Pokemon/thumbnails/333.png)|[Swablu](Pokemon/Swablu.md)|Normal, Flying|Natural Cure, (Hidden) Cloud Nine|45|40|60|40|75|50|310|Flying, Dragon |
+|![](Pokemon/thumbnails/334.png)|[Altaria](Pokemon/Altaria.md)|Dragon, Flying|Natural Cure, (Hidden) Cloud Nine|75|70|90|70|105|80|490|Flying, Dragon |
 |![](Pokemon/thumbnails/334.png)|[Altaria](Pokemon/Altaria.md) (Mega)|Dragon, Fairy|Pixilate|75|110|110|110|105|80|590|Flying, Dragon |
-|![](Pokemon/thumbnails/335.png)|[Zangoose](Pokemon/Zangoose.md)|Normal|Immunity, null, Toxic Boost|73|115|60|60|60|90|458|Field |
-|![](Pokemon/thumbnails/336.png)|[Seviper](Pokemon/Seviper.md)|Poison|Shed Skin, null, Infiltrator|73|100|60|100|60|65|458|Field, Dragon |
+|![](Pokemon/thumbnails/335.png)|[Zangoose](Pokemon/Zangoose.md)|Normal|Immunity, (Hidden) Toxic Boost|73|115|60|60|60|90|458|Field |
+|![](Pokemon/thumbnails/336.png)|[Seviper](Pokemon/Seviper.md)|Poison|Shed Skin, (Hidden) Infiltrator|73|100|60|100|60|65|458|Field, Dragon |
 |![](Pokemon/thumbnails/337.png)|[Lunatone](Pokemon/Lunatone.md)|Rock, Psychic|Levitate|90|55|65|95|85|70|460|Mineral |
 |![](Pokemon/thumbnails/338.png)|[Solrock](Pokemon/Solrock.md)|Rock, Psychic|Levitate|90|95|85|55|65|70|460|Mineral |
 |![](Pokemon/thumbnails/339.png)|[Barboach](Pokemon/Barboach.md)|Water, Ground|Oblivious, Anticipation, Hydration|50|48|43|46|41|60|288|Water 2 |
@@ -399,46 +399,46 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/342.png)|[Crawdaunt](Pokemon/Crawdaunt.md)|Water, Dark|Hyper Cutter, Shell Armor, Adaptability|63|120|85|90|55|55|468|Water 1, Water 3 |
 |![](Pokemon/thumbnails/343.png)|[Baltoy](Pokemon/Baltoy.md)|Ground, Psychic|Levitate|40|40|55|40|70|55|300|Mineral |
 |![](Pokemon/thumbnails/344.png)|[Claydol](Pokemon/Claydol.md)|Ground, Psychic|Levitate|60|70|105|70|120|75|500|Mineral |
-|![](Pokemon/thumbnails/345.png)|[Lileep](Pokemon/Lileep.md)|Rock, Grass|Suction Cups, null, Storm Drain|66|41|77|61|87|23|355|Water 3 |
-|![](Pokemon/thumbnails/346.png)|[Cradily](Pokemon/Cradily.md)|Rock, Grass|Suction Cups, null, Storm Drain|86|81|97|81|107|43|495|Water 3 |
-|![](Pokemon/thumbnails/347.png)|[Anorith](Pokemon/Anorith.md)|Rock, Bug|Battle Armor, null, Swift Swim|45|95|50|40|50|75|355|Water 3 |
-|![](Pokemon/thumbnails/348.png)|[Armaldo](Pokemon/Armaldo.md)|Rock, Bug|Battle Armor, null, Swift Swim|75|125|100|70|80|45|495|Water 3 |
+|![](Pokemon/thumbnails/345.png)|[Lileep](Pokemon/Lileep.md)|Rock, Grass|Suction Cups, (Hidden) Storm Drain|66|41|77|61|87|23|355|Water 3 |
+|![](Pokemon/thumbnails/346.png)|[Cradily](Pokemon/Cradily.md)|Rock, Grass|Suction Cups, (Hidden) Storm Drain|86|81|97|81|107|43|495|Water 3 |
+|![](Pokemon/thumbnails/347.png)|[Anorith](Pokemon/Anorith.md)|Rock, Bug|Battle Armor, (Hidden) Swift Swim|45|95|50|40|50|75|355|Water 3 |
+|![](Pokemon/thumbnails/348.png)|[Armaldo](Pokemon/Armaldo.md)|Rock, Bug|Battle Armor, (Hidden) Swift Swim|75|125|100|70|80|45|495|Water 3 |
 |![](Pokemon/thumbnails/349.png)|[Feebas](Pokemon/Feebas.md)|Water|Swift Swim, Oblivious, Adaptability|20|15|20|10|55|80|200|Water 1, Dragon |
 |![](Pokemon/thumbnails/350.png)|[Milotic](Pokemon/Milotic.md)|Water|Marvel Scale, Competitive, Cute Charm|95|60|79|100|125|81|540|Water 1, Dragon |
 |![](Pokemon/thumbnails/351.png)|[Castform](Pokemon/Castform.md)|Normal|Forecast|70|70|70|70|70|70|420|Fairy, Amorphous |
-|![](Pokemon/thumbnails/352.png)|[Kecleon](Pokemon/Kecleon.md)|Normal|Color Change, null, Protean|60|90|70|60|120|40|440|Field |
+|![](Pokemon/thumbnails/352.png)|[Kecleon](Pokemon/Kecleon.md)|Normal|Color Change, (Hidden) Protean|60|90|70|60|120|40|440|Field |
 |![](Pokemon/thumbnails/353.png)|[Shuppet](Pokemon/Shuppet.md)|Ghost|Insomnia, Frisk, Cursed Body|44|75|35|63|33|45|295|Amorphous |
 |![](Pokemon/thumbnails/354.png)|[Banette](Pokemon/Banette.md)|Ghost|Insomnia, Frisk, Cursed Body|64|115|65|83|63|65|455|Amorphous |
 |![](Pokemon/thumbnails/354.png)|[Banette](Pokemon/Banette.md) (Mega)|Ghost|Prankster|64|165|75|93|83|75|555|Amorphous |
-|![](Pokemon/thumbnails/355.png)|[Duskull](Pokemon/Duskull.md)|Ghost|Levitate, null, Frisk|20|40|90|30|90|25|295|Amorphous |
-|![](Pokemon/thumbnails/356.png)|[Dusclops](Pokemon/Dusclops.md)|Ghost|Pressure, null, Frisk|40|70|130|60|130|25|455|Amorphous |
+|![](Pokemon/thumbnails/355.png)|[Duskull](Pokemon/Duskull.md)|Ghost|Levitate, (Hidden) Frisk|20|40|90|30|90|25|295|Amorphous |
+|![](Pokemon/thumbnails/356.png)|[Dusclops](Pokemon/Dusclops.md)|Ghost|Pressure, (Hidden) Frisk|40|70|130|60|130|25|455|Amorphous |
 |![](Pokemon/thumbnails/357.png)|[Tropius](Pokemon/Tropius.md)|Grass, Flying|Chlorophyll, Solar Power, Harvest|99|68|83|72|87|51|460|Monster, Grass |
 |![](Pokemon/thumbnails/358.png)|[Chimecho](Pokemon/Chimecho.md)|Psychic|Levitate|75|50|80|95|90|65|455|Amorphous |
 |![](Pokemon/thumbnails/359.png)|[Absol](Pokemon/Absol.md)|Dark|Pressure, Super Luck, Justified|65|130|60|75|60|75|465|Field |
 |![](Pokemon/thumbnails/359.png)|[Absol](Pokemon/Absol.md) (Mega)|Dark|Magic Bounce|65|150|60|115|60|115|565|Field |
-|![](Pokemon/thumbnails/360.png)|[Wynaut](Pokemon/Wynaut.md)|Psychic|Shadow Tag, null, Telepathy|95|23|48|23|48|23|260|Undiscovered |
+|![](Pokemon/thumbnails/360.png)|[Wynaut](Pokemon/Wynaut.md)|Psychic|Shadow Tag, (Hidden) Telepathy|95|23|48|23|48|23|260|Undiscovered |
 |![](Pokemon/thumbnails/361.png)|[Snorunt](Pokemon/Snorunt.md)|Ice|Inner Focus, Ice Body, Moody|50|50|50|50|50|50|300|Fairy, Mineral |
 |![](Pokemon/thumbnails/362.png)|[Glalie](Pokemon/Glalie.md)|Ice|Inner Focus, Ice Body, Moody|80|80|80|80|80|80|480|Fairy, Mineral |
 |![](Pokemon/thumbnails/362.png)|[Glalie](Pokemon/Glalie.md) (Mega)|Ice|Refrigerate|80|120|80|120|80|100|580|Fairy, Mineral |
 |![](Pokemon/thumbnails/363.png)|[Spheal](Pokemon/Spheal.md)|Ice, Water|Thick Fat, Ice Body, Oblivious|70|40|50|55|50|25|290|Water 1, Field |
 |![](Pokemon/thumbnails/364.png)|[Sealeo](Pokemon/Sealeo.md)|Ice, Water|Thick Fat, Ice Body, Oblivious|90|60|70|75|70|45|410|Water 1, Field |
 |![](Pokemon/thumbnails/365.png)|[Walrein](Pokemon/Walrein.md)|Ice, Water|Thick Fat, Ice Body, Oblivious|110|80|90|95|90|65|530|Water 1, Field |
-|![](Pokemon/thumbnails/366.png)|[Clamperl](Pokemon/Clamperl.md)|Water|Shell Armor, null, Rattled|35|64|85|74|55|32|345|Water 1 |
-|![](Pokemon/thumbnails/367.png)|[Huntail](Pokemon/Huntail.md)|Water|Swift Swim, null, Water Veil|55|104|105|94|75|52|485|Water 1 |
-|![](Pokemon/thumbnails/368.png)|[Gorebyss](Pokemon/Gorebyss.md)|Water|Swift Swim, null, Hydration|55|84|105|114|75|52|485|Water 1 |
+|![](Pokemon/thumbnails/366.png)|[Clamperl](Pokemon/Clamperl.md)|Water|Shell Armor, (Hidden) Rattled|35|64|85|74|55|32|345|Water 1 |
+|![](Pokemon/thumbnails/367.png)|[Huntail](Pokemon/Huntail.md)|Water|Swift Swim, (Hidden) Water Veil|55|104|105|94|75|52|485|Water 1 |
+|![](Pokemon/thumbnails/368.png)|[Gorebyss](Pokemon/Gorebyss.md)|Water|Swift Swim, (Hidden) Hydration|55|84|105|114|75|52|485|Water 1 |
 |![](Pokemon/thumbnails/369.png)|[Relicanth](Pokemon/Relicanth.md)|Water, Rock|Swift Swim, Rock Head, Sturdy|100|90|130|45|65|55|485|Water 1, Water 2 |
-|![](Pokemon/thumbnails/370.png)|[Luvdisc](Pokemon/Luvdisc.md)|Water|Swift Swim, null, Hydration|43|30|55|40|65|97|330|Water 2 |
-|![](Pokemon/thumbnails/371.png)|[Bagon](Pokemon/Bagon.md)|Dragon|Rock Head, null, Sheer Force|45|75|60|40|30|50|300|Dragon |
-|![](Pokemon/thumbnails/372.png)|[Shelgon](Pokemon/Shelgon.md)|Dragon|Rock Head, null, Overcoat|65|95|100|60|50|50|420|Dragon |
-|![](Pokemon/thumbnails/373.png)|[Salamence](Pokemon/Salamence.md)|Dragon, Flying|Intimidate, null, Moxie|95|135|80|110|80|100|600|Dragon |
+|![](Pokemon/thumbnails/370.png)|[Luvdisc](Pokemon/Luvdisc.md)|Water|Swift Swim, (Hidden) Hydration|43|30|55|40|65|97|330|Water 2 |
+|![](Pokemon/thumbnails/371.png)|[Bagon](Pokemon/Bagon.md)|Dragon|Rock Head, (Hidden) Sheer Force|45|75|60|40|30|50|300|Dragon |
+|![](Pokemon/thumbnails/372.png)|[Shelgon](Pokemon/Shelgon.md)|Dragon|Rock Head, (Hidden) Overcoat|65|95|100|60|50|50|420|Dragon |
+|![](Pokemon/thumbnails/373.png)|[Salamence](Pokemon/Salamence.md)|Dragon, Flying|Intimidate, (Hidden) Moxie|95|135|80|110|80|100|600|Dragon |
 |![](Pokemon/thumbnails/373.png)|[Salamence](Pokemon/Salamence.md) (Mega)|Dragon, Flying|Aerilate|95|145|130|120|90|120|700|Dragon |
-|![](Pokemon/thumbnails/374.png)|[Beldum](Pokemon/Beldum.md)|Steel, Psychic|Clear Body, null, Light Metal|40|55|80|35|60|30|300|Mineral |
-|![](Pokemon/thumbnails/375.png)|[Metang](Pokemon/Metang.md)|Steel, Psychic|Clear Body, null, Light Metal|60|75|100|55|80|50|420|Mineral |
-|![](Pokemon/thumbnails/376.png)|[Metagross](Pokemon/Metagross.md)|Steel, Psychic|Clear Body, null, Light Metal|80|135|130|95|90|70|600|Mineral |
+|![](Pokemon/thumbnails/374.png)|[Beldum](Pokemon/Beldum.md)|Steel, Psychic|Clear Body, (Hidden) Light Metal|40|55|80|35|60|30|300|Mineral |
+|![](Pokemon/thumbnails/375.png)|[Metang](Pokemon/Metang.md)|Steel, Psychic|Clear Body, (Hidden) Light Metal|60|75|100|55|80|50|420|Mineral |
+|![](Pokemon/thumbnails/376.png)|[Metagross](Pokemon/Metagross.md)|Steel, Psychic|Clear Body, (Hidden) Light Metal|80|135|130|95|90|70|600|Mineral |
 |![](Pokemon/thumbnails/376.png)|[Metagross](Pokemon/Metagross.md) (Mega)|Steel, Psychic|Tough Claws|80|145|150|105|110|110|700|Mineral |
-|![](Pokemon/thumbnails/377.png)|[Regirock](Pokemon/Regirock.md)|Rock|Clear Body, null, Sturdy|80|100|200|50|100|50|580|Undiscovered |
-|![](Pokemon/thumbnails/378.png)|[Regice](Pokemon/Regice.md)|Ice|Clear Body, null, Ice Body|80|50|100|100|200|50|580|Undiscovered |
-|![](Pokemon/thumbnails/379.png)|[Registeel](Pokemon/Registeel.md)|Steel|Clear Body, null, Light Metal|80|75|150|75|150|50|580|Undiscovered |
+|![](Pokemon/thumbnails/377.png)|[Regirock](Pokemon/Regirock.md)|Rock|Clear Body, (Hidden) Sturdy|80|100|200|50|100|50|580|Undiscovered |
+|![](Pokemon/thumbnails/378.png)|[Regice](Pokemon/Regice.md)|Ice|Clear Body, (Hidden) Ice Body|80|50|100|100|200|50|580|Undiscovered |
+|![](Pokemon/thumbnails/379.png)|[Registeel](Pokemon/Registeel.md)|Steel|Clear Body, (Hidden) Light Metal|80|75|150|75|150|50|580|Undiscovered |
 |![](Pokemon/thumbnails/380.png)|[Latias](Pokemon/Latias.md)|Dragon, Psychic|Levitate|80|80|90|110|130|110|600|Undiscovered |
 |![](Pokemon/thumbnails/380.png)|[Latias](Pokemon/Latias.md) (Mega)|Dragon, Psychic|Levitate|80|100|120|140|150|110|700|Undiscovered |
 |![](Pokemon/thumbnails/381.png)|[Latios](Pokemon/Latios.md)|Dragon, Psychic|Levitate|80|90|80|130|110|110|600|Undiscovered |
@@ -454,41 +454,41 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/386.png)|[Deoxys](Pokemon/Deoxys.md) (Attack Forme)|Psychic|Pressure|50|180|20|180|20|150|600|Undiscovered |
 |![](Pokemon/thumbnails/386.png)|[Deoxys](Pokemon/Deoxys.md) (Defense Forme)|Psychic|Pressure|50|70|160|70|160|90|600|Undiscovered |
 |![](Pokemon/thumbnails/386.png)|[Deoxys](Pokemon/Deoxys.md) (Speed Forme)|Psychic|Pressure|50|95|90|95|90|180|600|Undiscovered |
-|![](Pokemon/thumbnails/387.png)|[Turtwig](Pokemon/Turtwig.md)|Grass|Overgrow, null, Shell Armor|55|68|64|45|55|31|318|Monster, Grass |
-|![](Pokemon/thumbnails/388.png)|[Grotle](Pokemon/Grotle.md)|Grass|Overgrow, null, Shell Armor|75|89|85|55|65|36|405|Monster, Grass |
-|![](Pokemon/thumbnails/389.png)|[Torterra](Pokemon/Torterra.md)|Grass, Ground|Overgrow, null, Shell Armor|95|109|105|75|85|56|525|Monster, Grass |
-|![](Pokemon/thumbnails/390.png)|[Chimchar](Pokemon/Chimchar.md)|Fire|Blaze, null, Iron Fist|44|58|44|58|44|61|309|Field, Human-Like |
-|![](Pokemon/thumbnails/391.png)|[Monferno](Pokemon/Monferno.md)|Fire, Fighting|Blaze, null, Iron Fist|64|78|52|78|52|81|405|Field, Human-Like |
-|![](Pokemon/thumbnails/392.png)|[Infernape](Pokemon/Infernape.md)|Fire, Fighting|Blaze, null, Iron Fist|76|104|71|104|71|108|534|Field, Human-Like |
-|![](Pokemon/thumbnails/393.png)|[Piplup](Pokemon/Piplup.md)|Water|Torrent, null, Defiant|53|51|53|61|56|40|314|Water 1, Field |
-|![](Pokemon/thumbnails/394.png)|[Prinplup](Pokemon/Prinplup.md)|Water|Torrent, null, Defiant|64|66|68|81|76|50|405|Water 1, Field |
-|![](Pokemon/thumbnails/395.png)|[Empoleon](Pokemon/Empoleon.md)|Water, Steel|Torrent, null, Defiant|84|86|88|111|101|60|530|Water 1, Field |
-|![](Pokemon/thumbnails/396.png)|[Starly](Pokemon/Starly.md)|Normal, Flying|Keen Eye, null, Reckless|40|55|30|30|30|60|245|Flying |
-|![](Pokemon/thumbnails/397.png)|[Staravia](Pokemon/Staravia.md)|Normal, Flying|Intimidate, null, Reckless|55|75|50|40|40|80|340|Flying |
-|![](Pokemon/thumbnails/398.png)|[Staraptor](Pokemon/Staraptor.md)|Normal, Flying|Intimidate, null, Reckless|85|120|70|50|60|100|485|Flying |
+|![](Pokemon/thumbnails/387.png)|[Turtwig](Pokemon/Turtwig.md)|Grass|Overgrow, (Hidden) Shell Armor|55|68|64|45|55|31|318|Monster, Grass |
+|![](Pokemon/thumbnails/388.png)|[Grotle](Pokemon/Grotle.md)|Grass|Overgrow, (Hidden) Shell Armor|75|89|85|55|65|36|405|Monster, Grass |
+|![](Pokemon/thumbnails/389.png)|[Torterra](Pokemon/Torterra.md)|Grass, Ground|Overgrow, (Hidden) Shell Armor|95|109|105|75|85|56|525|Monster, Grass |
+|![](Pokemon/thumbnails/390.png)|[Chimchar](Pokemon/Chimchar.md)|Fire|Blaze, (Hidden) Iron Fist|44|58|44|58|44|61|309|Field, Human-Like |
+|![](Pokemon/thumbnails/391.png)|[Monferno](Pokemon/Monferno.md)|Fire, Fighting|Blaze, (Hidden) Iron Fist|64|78|52|78|52|81|405|Field, Human-Like |
+|![](Pokemon/thumbnails/392.png)|[Infernape](Pokemon/Infernape.md)|Fire, Fighting|Blaze, (Hidden) Iron Fist|76|104|71|104|71|108|534|Field, Human-Like |
+|![](Pokemon/thumbnails/393.png)|[Piplup](Pokemon/Piplup.md)|Water|Torrent, (Hidden) Defiant|53|51|53|61|56|40|314|Water 1, Field |
+|![](Pokemon/thumbnails/394.png)|[Prinplup](Pokemon/Prinplup.md)|Water|Torrent, (Hidden) Defiant|64|66|68|81|76|50|405|Water 1, Field |
+|![](Pokemon/thumbnails/395.png)|[Empoleon](Pokemon/Empoleon.md)|Water, Steel|Torrent, (Hidden) Defiant|84|86|88|111|101|60|530|Water 1, Field |
+|![](Pokemon/thumbnails/396.png)|[Starly](Pokemon/Starly.md)|Normal, Flying|Keen Eye, (Hidden) Reckless|40|55|30|30|30|60|245|Flying |
+|![](Pokemon/thumbnails/397.png)|[Staravia](Pokemon/Staravia.md)|Normal, Flying|Intimidate, (Hidden) Reckless|55|75|50|40|40|80|340|Flying |
+|![](Pokemon/thumbnails/398.png)|[Staraptor](Pokemon/Staraptor.md)|Normal, Flying|Intimidate, (Hidden) Reckless|85|120|70|50|60|100|485|Flying |
 |![](Pokemon/thumbnails/399.png)|[Bidoof](Pokemon/Bidoof.md)|Normal|Simple, Unaware, Moody|59|45|40|35|40|31|250|Water 1, Field |
 |![](Pokemon/thumbnails/400.png)|[Bibarel](Pokemon/Bibarel.md)|Normal, Water|Simple, Unaware, Moody|79|85|60|55|60|71|410|Water 1, Field |
-|![](Pokemon/thumbnails/401.png)|[Kricketot](Pokemon/Kricketot.md)|Bug|Shed Skin, null, Run Away|37|25|41|25|41|25|194|Bug |
-|![](Pokemon/thumbnails/402.png)|[Kricketune](Pokemon/Kricketune.md)|Bug|Swarm, null, Technician|77|85|51|55|51|65|384|Bug |
+|![](Pokemon/thumbnails/401.png)|[Kricketot](Pokemon/Kricketot.md)|Bug|Shed Skin, (Hidden) Run Away|37|25|41|25|41|25|194|Bug |
+|![](Pokemon/thumbnails/402.png)|[Kricketune](Pokemon/Kricketune.md)|Bug|Swarm, (Hidden) Technician|77|85|51|55|51|65|384|Bug |
 |![](Pokemon/thumbnails/403.png)|[Shinx](Pokemon/Shinx.md)|Electric|Rivalry, Intimidate, Guts|45|65|34|40|34|45|263|Field |
 |![](Pokemon/thumbnails/404.png)|[Luxio](Pokemon/Luxio.md)|Electric|Rivalry, Intimidate, Guts|60|85|49|60|49|60|363|Field |
 |![](Pokemon/thumbnails/405.png)|[Luxray](Pokemon/Luxray.md)|Electric|Rivalry, Intimidate, Guts|80|120|79|95|79|70|523|Field |
 |![](Pokemon/thumbnails/406.png)|[Budew](Pokemon/Budew.md)|Grass, Poison|Natural Cure, Poison Point, Leaf Guard|40|30|35|50|70|55|280|Undiscovered |
 |![](Pokemon/thumbnails/407.png)|[Roserade](Pokemon/Roserade.md)|Grass, Poison|Natural Cure, Poison Point, Technician|60|70|65|125|105|90|515|Fairy, Grass |
-|![](Pokemon/thumbnails/408.png)|[Cranidos](Pokemon/Cranidos.md)|Rock|Mold Breaker, null, Sheer Force|67|125|40|30|30|58|350|Monster |
-|![](Pokemon/thumbnails/409.png)|[Rampardos](Pokemon/Rampardos.md)|Rock|Mold Breaker, null, Sheer Force|97|165|60|65|50|58|495|Monster |
-|![](Pokemon/thumbnails/410.png)|[Shieldon](Pokemon/Shieldon.md)|Rock, Steel|Sturdy, null, Soundproof|30|42|118|42|88|30|350|Monster |
-|![](Pokemon/thumbnails/411.png)|[Bastiodon](Pokemon/Bastiodon.md)|Rock, Steel|Sturdy, null, Soundproof|60|52|168|47|138|30|495|Monster |
-|![](Pokemon/thumbnails/412.png)|[Burmy](Pokemon/Burmy.md)|Bug|Shed Skin, null, Overcoat|40|29|45|29|45|36|224|Bug |
-|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Plant Cloak)|Bug, Grass|Anticipation, null, Overcoat|60|59|85|79|105|36|424|Bug |
-|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Sandy Cloak)|Bug, Ground|Anticipation, null, Overcoat|60|79|105|59|85|36|424|Bug |
-|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Trash Cloak)|Bug, Steel|Anticipation, null, Overcoat|60|69|95|69|95|36|424|Bug |
-|![](Pokemon/thumbnails/414.png)|[Mothim](Pokemon/Mothim.md)|Bug, Flying|Swarm, null, Tinted Lens|70|94|50|94|50|66|424|Bug |
-|![](Pokemon/thumbnails/415.png)|[Combee](Pokemon/Combee.md)|Bug, Flying|Honey Gather, null, Hustle|30|30|42|30|42|70|244|Bug |
-|![](Pokemon/thumbnails/416.png)|[Vespiquen](Pokemon/Vespiquen.md)|Bug, Flying|Pressure, null, Unnerve|70|80|102|80|102|40|474|Bug |
+|![](Pokemon/thumbnails/408.png)|[Cranidos](Pokemon/Cranidos.md)|Rock|Mold Breaker, (Hidden) Sheer Force|67|125|40|30|30|58|350|Monster |
+|![](Pokemon/thumbnails/409.png)|[Rampardos](Pokemon/Rampardos.md)|Rock|Mold Breaker, (Hidden) Sheer Force|97|165|60|65|50|58|495|Monster |
+|![](Pokemon/thumbnails/410.png)|[Shieldon](Pokemon/Shieldon.md)|Rock, Steel|Sturdy, (Hidden) Soundproof|30|42|118|42|88|30|350|Monster |
+|![](Pokemon/thumbnails/411.png)|[Bastiodon](Pokemon/Bastiodon.md)|Rock, Steel|Sturdy, (Hidden) Soundproof|60|52|168|47|138|30|495|Monster |
+|![](Pokemon/thumbnails/412.png)|[Burmy](Pokemon/Burmy.md)|Bug|Shed Skin, (Hidden) Overcoat|40|29|45|29|45|36|224|Bug |
+|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Plant Cloak)|Bug, Grass|Anticipation, (Hidden) Overcoat|60|59|85|79|105|36|424|Bug |
+|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Sandy Cloak)|Bug, Ground|Anticipation, (Hidden) Overcoat|60|79|105|59|85|36|424|Bug |
+|![](Pokemon/thumbnails/413.png)|[Wormadam](Pokemon/Wormadam.md) (Trash Cloak)|Bug, Steel|Anticipation, (Hidden) Overcoat|60|69|95|69|95|36|424|Bug |
+|![](Pokemon/thumbnails/414.png)|[Mothim](Pokemon/Mothim.md)|Bug, Flying|Swarm, (Hidden) Tinted Lens|70|94|50|94|50|66|424|Bug |
+|![](Pokemon/thumbnails/415.png)|[Combee](Pokemon/Combee.md)|Bug, Flying|Honey Gather, (Hidden) Hustle|30|30|42|30|42|70|244|Bug |
+|![](Pokemon/thumbnails/416.png)|[Vespiquen](Pokemon/Vespiquen.md)|Bug, Flying|Pressure, (Hidden) Unnerve|70|80|102|80|102|40|474|Bug |
 |![](Pokemon/thumbnails/417.png)|[Pachirisu](Pokemon/Pachirisu.md)|Electric|Run Away, Pickup, Volt Absorb|60|45|70|45|90|95|405|Field, Fairy |
-|![](Pokemon/thumbnails/418.png)|[Buizel](Pokemon/Buizel.md)|Water|Swift Swim, null, Water Veil|55|65|35|60|30|85|330|Water 1, Field |
-|![](Pokemon/thumbnails/419.png)|[Floatzel](Pokemon/Floatzel.md)|Water|Swift Swim, null, Water Veil|85|105|55|85|50|115|495|Water 1, Field |
+|![](Pokemon/thumbnails/418.png)|[Buizel](Pokemon/Buizel.md)|Water|Swift Swim, (Hidden) Water Veil|55|65|35|60|30|85|330|Water 1, Field |
+|![](Pokemon/thumbnails/419.png)|[Floatzel](Pokemon/Floatzel.md)|Water|Swift Swim, (Hidden) Water Veil|85|105|55|85|50|115|495|Water 1, Field |
 |![](Pokemon/thumbnails/420.png)|[Cherubi](Pokemon/Cherubi.md)|Grass|Chlorophyll|45|35|45|62|53|35|275|Fairy, Grass |
 |![](Pokemon/thumbnails/421.png)|[Cherrim](Pokemon/Cherrim.md)|Grass|Flower Gift|70|60|70|87|78|85|450|Fairy, Grass |
 |![](Pokemon/thumbnails/422.png)|[Shellos](Pokemon/Shellos.md)|Water|Sticky Hold, Storm Drain, Sand Force|76|48|48|57|62|34|325|Water 1, Amorphous |
@@ -512,17 +512,17 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/439.png)|Mime Jr.|Psychic, Fairy|Soundproof, Filter, Technician|20|25|45|70|90|60|310|Undiscovered |
 |![](Pokemon/thumbnails/440.png)|[Happiny](Pokemon/Happiny.md)|Normal|Natural Cure, Serene Grace, Friend Guard|100|5|5|15|65|30|220|Undiscovered |
 |![](Pokemon/thumbnails/441.png)|[Chatot](Pokemon/Chatot.md)|Normal, Flying|Keen Eye, Tangled Feet, Big Pecks|76|65|45|92|42|91|411|Flying |
-|![](Pokemon/thumbnails/442.png)|[Spiritomb](Pokemon/Spiritomb.md)|Ghost, Dark|Pressure, null, Infiltrator|50|92|108|92|108|35|485|Amorphous |
-|![](Pokemon/thumbnails/443.png)|[Gible](Pokemon/Gible.md)|Dragon, Ground|Sand Veil, null, Rough Skin|58|70|45|40|45|42|300|Monster, Dragon |
-|![](Pokemon/thumbnails/444.png)|[Gabite](Pokemon/Gabite.md)|Dragon, Ground|Sand Veil, null, Rough Skin|68|90|65|50|55|82|410|Monster, Dragon |
-|![](Pokemon/thumbnails/445.png)|[Garchomp](Pokemon/Garchomp.md)|Dragon, Ground|Sand Veil, null, Rough Skin|108|130|95|80|85|102|600|Monster, Dragon |
+|![](Pokemon/thumbnails/442.png)|[Spiritomb](Pokemon/Spiritomb.md)|Ghost, Dark|Pressure, (Hidden) Infiltrator|50|92|108|92|108|35|485|Amorphous |
+|![](Pokemon/thumbnails/443.png)|[Gible](Pokemon/Gible.md)|Dragon, Ground|Sand Veil, (Hidden) Rough Skin|58|70|45|40|45|42|300|Monster, Dragon |
+|![](Pokemon/thumbnails/444.png)|[Gabite](Pokemon/Gabite.md)|Dragon, Ground|Sand Veil, (Hidden) Rough Skin|68|90|65|50|55|82|410|Monster, Dragon |
+|![](Pokemon/thumbnails/445.png)|[Garchomp](Pokemon/Garchomp.md)|Dragon, Ground|Sand Veil, (Hidden) Rough Skin|108|130|95|80|85|102|600|Monster, Dragon |
 |![](Pokemon/thumbnails/445.png)|[Garchomp](Pokemon/Garchomp.md) (Mega)|Dragon, Ground|Sand Force|108|170|115|120|95|92|700|Monster, Dragon |
 |![](Pokemon/thumbnails/446.png)|[Munchlax](Pokemon/Munchlax.md)|Normal|Pickup, Thick Fat, Gluttony|135|85|40|40|85|5|390|Undiscovered |
 |![](Pokemon/thumbnails/447.png)|[Riolu](Pokemon/Riolu.md)|Fighting|Steadfast, Inner Focus, Prankster|40|70|40|35|40|60|285|Undiscovered |
 |![](Pokemon/thumbnails/448.png)|[Lucario](Pokemon/Lucario.md)|Fighting, Steel|Steadfast, Inner Focus, Justified|70|110|70|115|70|90|525|Field, Human-Like |
 |![](Pokemon/thumbnails/448.png)|[Lucario](Pokemon/Lucario.md) (Mega)|Fighting, Steel|Adaptability|70|145|88|140|70|112|625|Field, Human-Like |
-|![](Pokemon/thumbnails/449.png)|[Hippopotas](Pokemon/Hippopotas.md)|Ground|Sand Stream, null, Sand Force|68|72|78|38|42|32|330|Field |
-|![](Pokemon/thumbnails/450.png)|[Hippowdon](Pokemon/Hippowdon.md)|Ground|Sand Stream, null, Sand Force|108|112|118|68|72|47|525|Field |
+|![](Pokemon/thumbnails/449.png)|[Hippopotas](Pokemon/Hippopotas.md)|Ground|Sand Stream, (Hidden) Sand Force|68|72|78|38|42|32|330|Field |
+|![](Pokemon/thumbnails/450.png)|[Hippowdon](Pokemon/Hippowdon.md)|Ground|Sand Stream, (Hidden) Sand Force|108|112|118|68|72|47|525|Field |
 |![](Pokemon/thumbnails/451.png)|[Skorupi](Pokemon/Skorupi.md)|Poison, Bug|Battle Armor, Sniper, Keen Eye|40|50|90|30|55|65|330|Bug, Water 3 |
 |![](Pokemon/thumbnails/452.png)|[Drapion](Pokemon/Drapion.md)|Poison, Dark|Battle Armor, Sniper, Keen Eye|70|90|110|60|75|95|500|Bug, Water 3 |
 |![](Pokemon/thumbnails/453.png)|[Croagunk](Pokemon/Croagunk.md)|Poison, Fighting|Anticipation, Dry Skin, Poison Touch|48|61|40|61|40|50|300|Human-Like |
@@ -531,28 +531,28 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/456.png)|[Finneon](Pokemon/Finneon.md)|Water|Swift Swim, Storm Drain, Water Veil|49|49|56|49|61|66|330|Water 2 |
 |![](Pokemon/thumbnails/457.png)|[Lumineon](Pokemon/Lumineon.md)|Water|Swift Swim, Storm Drain, Water Veil|69|69|76|69|86|91|460|Water 2 |
 |![](Pokemon/thumbnails/458.png)|[Mantyke](Pokemon/Mantyke.md)|Water, Flying|Swift Swim, Water Absorb, Water Veil|45|20|50|60|120|50|345|Undiscovered |
-|![](Pokemon/thumbnails/459.png)|[Snover](Pokemon/Snover.md)|Grass, Ice|Snow Warning, null, Soundproof|60|62|50|62|60|40|334|Monster, Grass |
-|![](Pokemon/thumbnails/460.png)|[Abomasnow](Pokemon/Abomasnow.md)|Grass, Ice|Snow Warning, null, Soundproof|90|92|75|92|85|60|494|Monster, Grass |
+|![](Pokemon/thumbnails/459.png)|[Snover](Pokemon/Snover.md)|Grass, Ice|Snow Warning, (Hidden) Soundproof|60|62|50|62|60|40|334|Monster, Grass |
+|![](Pokemon/thumbnails/460.png)|[Abomasnow](Pokemon/Abomasnow.md)|Grass, Ice|Snow Warning, (Hidden) Soundproof|90|92|75|92|85|60|494|Monster, Grass |
 |![](Pokemon/thumbnails/460.png)|[Abomasnow](Pokemon/Abomasnow.md) (Mega)|Grass, Ice|Snow Warning|90|132|105|132|105|30|594|Monster, Grass |
-|![](Pokemon/thumbnails/461.png)|[Weavile](Pokemon/Weavile.md)|Dark, Ice|Pressure, null, Pickpocket|70|120|65|45|85|125|510|Field |
+|![](Pokemon/thumbnails/461.png)|[Weavile](Pokemon/Weavile.md)|Dark, Ice|Pressure, (Hidden) Pickpocket|70|120|65|45|85|125|510|Field |
 |![](Pokemon/thumbnails/462.png)|[Magnezone](Pokemon/Magnezone.md)|Electric, Steel|Magnet Pull, Sturdy, Analytic|70|70|115|130|90|60|535|Mineral |
 |![](Pokemon/thumbnails/463.png)|[Lickilicky](Pokemon/Lickilicky.md)|Normal|Own Tempo, Oblivious, Cloud Nine|110|85|95|80|95|50|515|Monster |
 |![](Pokemon/thumbnails/464.png)|[Rhyperior](Pokemon/Rhyperior.md)|Ground, Rock|Lightning Rod, Solid Rock, Reckless|115|140|130|55|55|40|535|Monster, Field |
 |![](Pokemon/thumbnails/465.png)|[Tangrowth](Pokemon/Tangrowth.md)|Grass|Chlorophyll, Leaf Guard, Regenerator|100|100|125|110|50|50|535|Grass |
-|![](Pokemon/thumbnails/466.png)|[Electivire](Pokemon/Electivire.md)|Electric|Motor Drive, null, Vital Spirit|75|123|67|95|85|95|540|Human-Like |
-|![](Pokemon/thumbnails/467.png)|[Magmortar](Pokemon/Magmortar.md)|Fire|Flame Body, null, Vital Spirit|75|95|67|125|95|83|540|Human-Like |
+|![](Pokemon/thumbnails/466.png)|[Electivire](Pokemon/Electivire.md)|Electric|Motor Drive, (Hidden) Vital Spirit|75|123|67|95|85|95|540|Human-Like |
+|![](Pokemon/thumbnails/467.png)|[Magmortar](Pokemon/Magmortar.md)|Fire|Flame Body, (Hidden) Vital Spirit|75|95|67|125|95|83|540|Human-Like |
 |![](Pokemon/thumbnails/468.png)|[Togekiss](Pokemon/Togekiss.md)|Fairy, Flying|Hustle, Serene Grace, Super Luck|85|50|95|120|115|80|545|Flying, Fairy |
 |![](Pokemon/thumbnails/469.png)|[Yanmega](Pokemon/Yanmega.md)|Bug, Flying|Speed Boost, Tinted Lens, Frisk|86|76|86|116|56|95|515|Bug |
-|![](Pokemon/thumbnails/470.png)|[Leafeon](Pokemon/Leafeon.md)|Grass|Leaf Guard, null, Chlorophyll|65|110|130|60|65|95|525|Field |
-|![](Pokemon/thumbnails/471.png)|[Glaceon](Pokemon/Glaceon.md)|Ice|Snow Cloak, null, Ice Body|65|60|110|130|95|65|525|Field |
+|![](Pokemon/thumbnails/470.png)|[Leafeon](Pokemon/Leafeon.md)|Grass|Leaf Guard, (Hidden) Chlorophyll|65|110|130|60|65|95|525|Field |
+|![](Pokemon/thumbnails/471.png)|[Glaceon](Pokemon/Glaceon.md)|Ice|Snow Cloak, (Hidden) Ice Body|65|60|110|130|95|65|525|Field |
 |![](Pokemon/thumbnails/472.png)|[Gliscor](Pokemon/Gliscor.md)|Ground, Flying|Hyper Cutter, Sand Veil, Poison Heal|75|95|125|45|75|95|510|Bug |
 |![](Pokemon/thumbnails/473.png)|[Mamoswine](Pokemon/Mamoswine.md)|Ice, Ground|Oblivious, Snow Cloak, Thick Fat|110|130|80|70|60|80|530|Field |
 |![](Pokemon/thumbnails/474.png)|[Porygon-Z](Pokemon/Porygon-Z.md)|Normal|Adaptability, Download, Analytic|85|80|70|135|75|90|535|Mineral |
-|![](Pokemon/thumbnails/475.png)|[Gallade](Pokemon/Gallade.md)|Psychic, Fighting|Steadfast, null, Justified|68|125|65|65|115|80|518|Amorphous |
+|![](Pokemon/thumbnails/475.png)|[Gallade](Pokemon/Gallade.md)|Psychic, Fighting|Steadfast, (Hidden) Justified|68|125|65|65|115|80|518|Amorphous |
 |![](Pokemon/thumbnails/475.png)|[Gallade](Pokemon/Gallade.md) (Mega)|Psychic, Fighting|Inner Focus|68|165|95|65|115|110|618|Amorphous |
 |![](Pokemon/thumbnails/476.png)|[Probopass](Pokemon/Probopass.md)|Rock, Steel|Sturdy, Magnet Pull, Sand Force|60|55|145|75|150|40|525|Mineral |
-|![](Pokemon/thumbnails/477.png)|[Dusknoir](Pokemon/Dusknoir.md)|Ghost|Pressure, null, Frisk|45|100|135|65|135|45|525|Amorphous |
-|![](Pokemon/thumbnails/478.png)|[Froslass](Pokemon/Froslass.md)|Ice, Ghost|Snow Cloak, null, Cursed Body|70|80|70|80|70|110|480|Fairy, Mineral |
+|![](Pokemon/thumbnails/477.png)|[Dusknoir](Pokemon/Dusknoir.md)|Ghost|Pressure, (Hidden) Frisk|45|100|135|65|135|45|525|Amorphous |
+|![](Pokemon/thumbnails/478.png)|[Froslass](Pokemon/Froslass.md)|Ice, Ghost|Snow Cloak, (Hidden) Cursed Body|70|80|70|80|70|110|480|Fairy, Mineral |
 |![](Pokemon/thumbnails/479.png)|[Rotom](Pokemon/Rotom.md)|Electric, Ghost|Levitate|50|50|77|95|77|91|440|Amorphous |
 |![](Pokemon/thumbnails/479.png)|[Rotom](Pokemon/Rotom.md) (Heat)|Electric, Fire|Levitate|50|65|107|105|107|86|520|Amorphous |
 |![](Pokemon/thumbnails/479.png)|[Rotom](Pokemon/Rotom.md) (Wash)|Electric, Water|Levitate|50|65|107|105|107|86|520|Amorphous |
@@ -562,11 +562,11 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/480.png)|[Uxie](Pokemon/Uxie.md)|Psychic|Levitate|75|75|130|75|130|95|580|Undiscovered |
 |![](Pokemon/thumbnails/481.png)|[Mesprit](Pokemon/Mesprit.md)|Psychic|Levitate|80|105|105|105|105|80|580|Undiscovered |
 |![](Pokemon/thumbnails/482.png)|[Azelf](Pokemon/Azelf.md)|Psychic|Levitate|75|125|70|125|70|115|580|Undiscovered |
-|![](Pokemon/thumbnails/483.png)|[Dialga](Pokemon/Dialga.md)|Steel, Dragon|Pressure, null, Telepathy|100|120|120|150|100|90|680|Undiscovered |
-|![](Pokemon/thumbnails/484.png)|[Palkia](Pokemon/Palkia.md)|Water, Dragon|Pressure, null, Telepathy|90|120|100|150|120|100|680|Undiscovered |
-|![](Pokemon/thumbnails/485.png)|[Heatran](Pokemon/Heatran.md)|Fire, Steel|Flash Fire, null, Flame Body|91|90|106|130|106|77|600|Undiscovered |
+|![](Pokemon/thumbnails/483.png)|[Dialga](Pokemon/Dialga.md)|Steel, Dragon|Pressure, (Hidden) Telepathy|100|120|120|150|100|90|680|Undiscovered |
+|![](Pokemon/thumbnails/484.png)|[Palkia](Pokemon/Palkia.md)|Water, Dragon|Pressure, (Hidden) Telepathy|90|120|100|150|120|100|680|Undiscovered |
+|![](Pokemon/thumbnails/485.png)|[Heatran](Pokemon/Heatran.md)|Fire, Steel|Flash Fire, (Hidden) Flame Body|91|90|106|130|106|77|600|Undiscovered |
 |![](Pokemon/thumbnails/486.png)|[Regigigas](Pokemon/Regigigas.md)|Normal|Slow Start|110|160|110|80|110|100|670|Undiscovered |
-|![](Pokemon/thumbnails/487.png)|[Giratina](Pokemon/Giratina.md) (Altered Forme)|Ghost, Dragon|Pressure, null, Telepathy|150|100|120|100|120|90|680|Undiscovered |
+|![](Pokemon/thumbnails/487.png)|[Giratina](Pokemon/Giratina.md) (Altered Forme)|Ghost, Dragon|Pressure, (Hidden) Telepathy|150|100|120|100|120|90|680|Undiscovered |
 |![](Pokemon/thumbnails/487.png)|[Giratina](Pokemon/Giratina.md) (Origin Forme)|Ghost, Dragon|Levitate|150|120|100|120|100|90|680|Undiscovered |
 |![](Pokemon/thumbnails/488.png)|[Cresselia](Pokemon/Cresselia.md)|Psychic|Levitate|120|70|120|75|130|85|600|Undiscovered |
 |![](Pokemon/thumbnails/489.png)|[Phione](Pokemon/Phione.md)|Water|Hydration|80|80|80|80|80|80|480|Water 1, Fairy |
@@ -576,15 +576,15 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/492.png)|[Shaymin](Pokemon/Shaymin.md) (Sky Forme)|Grass, Flying|Serene Grace|100|103|75|120|75|127|600|Undiscovered |
 |![](Pokemon/thumbnails/493.png)|[Arceus](Pokemon/Arceus.md)|Normal|Multitype|120|120|120|120|120|120|720|Undiscovered |
 |![](Pokemon/thumbnails/494.png)|[Victini](Pokemon/Victini.md)|Psychic, Fire|Victory Star|100|100|100|100|100|100|600|Undiscovered |
-|![](Pokemon/thumbnails/495.png)|[Snivy](Pokemon/Snivy.md)|Grass|Overgrow, null, Contrary|45|45|55|45|55|63|308|Field, Grass |
-|![](Pokemon/thumbnails/496.png)|[Servine](Pokemon/Servine.md)|Grass|Overgrow, null, Contrary|60|60|75|60|75|83|413|Field, Grass |
-|![](Pokemon/thumbnails/497.png)|[Serperior](Pokemon/Serperior.md)|Grass|Overgrow, null, Contrary|75|75|95|75|95|113|528|Field, Grass |
-|![](Pokemon/thumbnails/498.png)|[Tepig](Pokemon/Tepig.md)|Fire|Blaze, null, Thick Fat|65|63|45|45|45|45|308|Field |
-|![](Pokemon/thumbnails/499.png)|[Pignite](Pokemon/Pignite.md)|Fire, Fighting|Blaze, null, Thick Fat|90|93|55|70|55|55|418|Field |
-|![](Pokemon/thumbnails/500.png)|[Emboar](Pokemon/Emboar.md)|Fire, Fighting|Blaze, null, Reckless|110|123|65|100|65|65|528|Field |
-|![](Pokemon/thumbnails/501.png)|[Oshawott](Pokemon/Oshawott.md)|Water|Torrent, null, Shell Armor|55|55|45|63|45|45|308|Field |
-|![](Pokemon/thumbnails/502.png)|[Dewott](Pokemon/Dewott.md)|Water|Torrent, null, Shell Armor|75|75|60|83|60|60|413|Field |
-|![](Pokemon/thumbnails/503.png)|[Samurott](Pokemon/Samurott.md)|Water|Torrent, null, Shell Armor|95|100|85|108|70|70|528|Field |
+|![](Pokemon/thumbnails/495.png)|[Snivy](Pokemon/Snivy.md)|Grass|Overgrow, (Hidden) Contrary|45|45|55|45|55|63|308|Field, Grass |
+|![](Pokemon/thumbnails/496.png)|[Servine](Pokemon/Servine.md)|Grass|Overgrow, (Hidden) Contrary|60|60|75|60|75|83|413|Field, Grass |
+|![](Pokemon/thumbnails/497.png)|[Serperior](Pokemon/Serperior.md)|Grass|Overgrow, (Hidden) Contrary|75|75|95|75|95|113|528|Field, Grass |
+|![](Pokemon/thumbnails/498.png)|[Tepig](Pokemon/Tepig.md)|Fire|Blaze, (Hidden) Thick Fat|65|63|45|45|45|45|308|Field |
+|![](Pokemon/thumbnails/499.png)|[Pignite](Pokemon/Pignite.md)|Fire, Fighting|Blaze, (Hidden) Thick Fat|90|93|55|70|55|55|418|Field |
+|![](Pokemon/thumbnails/500.png)|[Emboar](Pokemon/Emboar.md)|Fire, Fighting|Blaze, (Hidden) Reckless|110|123|65|100|65|65|528|Field |
+|![](Pokemon/thumbnails/501.png)|[Oshawott](Pokemon/Oshawott.md)|Water|Torrent, (Hidden) Shell Armor|55|55|45|63|45|45|308|Field |
+|![](Pokemon/thumbnails/502.png)|[Dewott](Pokemon/Dewott.md)|Water|Torrent, (Hidden) Shell Armor|75|75|60|83|60|60|413|Field |
+|![](Pokemon/thumbnails/503.png)|[Samurott](Pokemon/Samurott.md)|Water|Torrent, (Hidden) Shell Armor|95|100|85|108|70|70|528|Field |
 |![](Pokemon/thumbnails/504.png)|[Patrat](Pokemon/Patrat.md)|Normal|Run Away, Keen Eye, Analytic|45|55|39|35|39|42|255|Field |
 |![](Pokemon/thumbnails/505.png)|[Watchog](Pokemon/Watchog.md)|Normal|Illuminate, Keen Eye, Analytic|60|85|69|60|69|77|420|Field |
 |![](Pokemon/thumbnails/506.png)|[Lillipup](Pokemon/Lillipup.md)|Normal|Vital Spirit, Pickup, Run Away|45|60|45|25|45|55|275|Field |
@@ -592,12 +592,12 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/508.png)|[Stoutland](Pokemon/Stoutland.md)|Normal|Intimidate, Sand Rush, Scrappy|85|110|90|45|90|80|500|Field |
 |![](Pokemon/thumbnails/509.png)|[Purrloin](Pokemon/Purrloin.md)|Dark|Limber, Unburden, Prankster|41|50|37|50|37|66|281|Field |
 |![](Pokemon/thumbnails/510.png)|[Liepard](Pokemon/Liepard.md)|Dark|Limber, Unburden, Prankster|64|88|50|88|50|106|446|Field |
-|![](Pokemon/thumbnails/511.png)|[Pansage](Pokemon/Pansage.md)|Grass|Gluttony, null, Overgrow|50|53|48|53|48|64|316|Field |
-|![](Pokemon/thumbnails/512.png)|[Simisage](Pokemon/Simisage.md)|Grass|Gluttony, null, Overgrow|75|98|63|98|63|101|498|Field |
-|![](Pokemon/thumbnails/513.png)|[Pansear](Pokemon/Pansear.md)|Fire|Gluttony, null, Blaze|50|53|48|53|48|64|316|Field |
-|![](Pokemon/thumbnails/514.png)|[Simisear](Pokemon/Simisear.md)|Fire|Gluttony, null, Blaze|75|98|63|98|63|101|498|Field |
-|![](Pokemon/thumbnails/515.png)|[Panpour](Pokemon/Panpour.md)|Water|Gluttony, null, Torrent|50|53|48|53|48|64|316|Field |
-|![](Pokemon/thumbnails/516.png)|[Simipour](Pokemon/Simipour.md)|Water|Gluttony, null, Torrent|75|98|63|98|63|101|498|Field |
+|![](Pokemon/thumbnails/511.png)|[Pansage](Pokemon/Pansage.md)|Grass|Gluttony, (Hidden) Overgrow|50|53|48|53|48|64|316|Field |
+|![](Pokemon/thumbnails/512.png)|[Simisage](Pokemon/Simisage.md)|Grass|Gluttony, (Hidden) Overgrow|75|98|63|98|63|101|498|Field |
+|![](Pokemon/thumbnails/513.png)|[Pansear](Pokemon/Pansear.md)|Fire|Gluttony, (Hidden) Blaze|50|53|48|53|48|64|316|Field |
+|![](Pokemon/thumbnails/514.png)|[Simisear](Pokemon/Simisear.md)|Fire|Gluttony, (Hidden) Blaze|75|98|63|98|63|101|498|Field |
+|![](Pokemon/thumbnails/515.png)|[Panpour](Pokemon/Panpour.md)|Water|Gluttony, (Hidden) Torrent|50|53|48|53|48|64|316|Field |
+|![](Pokemon/thumbnails/516.png)|[Simipour](Pokemon/Simipour.md)|Water|Gluttony, (Hidden) Torrent|75|98|63|98|63|101|498|Field |
 |![](Pokemon/thumbnails/517.png)|[Munna](Pokemon/Munna.md)|Psychic|Forewarn, Synchronize, Telepathy|76|25|45|67|55|24|292|Field |
 |![](Pokemon/thumbnails/518.png)|[Musharna](Pokemon/Musharna.md)|Psychic|Forewarn, Synchronize, Telepathy|116|55|85|107|95|29|487|Field |
 |![](Pokemon/thumbnails/519.png)|[Pidove](Pokemon/Pidove.md)|Normal, Flying|Big Pecks, Super Luck, Rivalry|50|55|50|36|30|43|264|Flying |
@@ -637,9 +637,9 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/551.png)|[Sandile](Pokemon/Sandile.md)|Ground, Dark|Intimidate, Moxie, Anger Point|50|72|35|35|35|65|292|Field |
 |![](Pokemon/thumbnails/552.png)|[Krokorok](Pokemon/Krokorok.md)|Ground, Dark|Intimidate, Moxie, Anger Point|60|82|45|45|45|74|351|Field |
 |![](Pokemon/thumbnails/553.png)|[Krookodile](Pokemon/Krookodile.md)|Ground, Dark|Intimidate, Moxie, Anger Point|95|117|80|65|70|92|519|Field |
-|![](Pokemon/thumbnails/554.png)|[Darumaka](Pokemon/Darumaka.md)|Fire|Hustle, null, Inner Focus|70|90|45|15|45|50|315|Field |
-|![](Pokemon/thumbnails/555.png)|[Darmanitan](Pokemon/Darmanitan.md) (Standard Mode)|Fire|Sheer Force, null, Zen Mode|105|140|55|30|55|95|480|Field |
-|![](Pokemon/thumbnails/555.png)|[Darmanitan](Pokemon/Darmanitan.md) (Zen Mode)|Fire, Psychic|Sheer Force, null, Zen Mode|105|30|105|140|105|55|540|Field |
+|![](Pokemon/thumbnails/554.png)|[Darumaka](Pokemon/Darumaka.md)|Fire|Hustle, (Hidden) Inner Focus|70|90|45|15|45|50|315|Field |
+|![](Pokemon/thumbnails/555.png)|[Darmanitan](Pokemon/Darmanitan.md) (Standard Mode)|Fire|Sheer Force, (Hidden) Zen Mode|105|140|55|30|55|95|480|Field |
+|![](Pokemon/thumbnails/555.png)|[Darmanitan](Pokemon/Darmanitan.md) (Zen Mode)|Fire, Psychic|Sheer Force, (Hidden) Zen Mode|105|30|105|140|105|55|540|Field |
 |![](Pokemon/thumbnails/556.png)|[Maractus](Pokemon/Maractus.md)|Grass|Water Absorb, Chlorophyll, Storm Drain|75|86|67|106|67|60|461|Grass |
 |![](Pokemon/thumbnails/557.png)|[Dwebble](Pokemon/Dwebble.md)|Bug, Rock|Sturdy, Shell Armor, Weak Armor|50|65|85|35|35|55|325|Bug, Mineral |
 |![](Pokemon/thumbnails/558.png)|[Crustle](Pokemon/Crustle.md)|Bug, Rock|Sturdy, Shell Armor, Weak Armor|70|105|125|65|75|45|485|Bug, Mineral |
@@ -671,18 +671,18 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/584.png)|[Vanilluxe](Pokemon/Vanilluxe.md)|Ice|Ice Body, Snow Warning, Weak Armor|71|95|85|110|95|79|535|Mineral |
 |![](Pokemon/thumbnails/585.png)|[Deerling](Pokemon/Deerling.md)|Normal, Grass|Chlorophyll, Sap Sipper, Serene Grace|60|60|50|40|50|75|335|Field |
 |![](Pokemon/thumbnails/586.png)|[Sawsbuck](Pokemon/Sawsbuck.md)|Normal, Grass|Chlorophyll, Sap Sipper, Serene Grace|80|100|70|60|70|95|475|Field |
-|![](Pokemon/thumbnails/587.png)|[Emolga](Pokemon/Emolga.md)|Electric, Flying|Static, null, Motor Drive|55|75|60|75|60|103|428|Field |
+|![](Pokemon/thumbnails/587.png)|[Emolga](Pokemon/Emolga.md)|Electric, Flying|Static, (Hidden) Motor Drive|55|75|60|75|60|103|428|Field |
 |![](Pokemon/thumbnails/588.png)|[Karrablast](Pokemon/Karrablast.md)|Bug|Swarm, Shed Skin, No Guard|50|75|45|40|45|60|315|Bug |
 |![](Pokemon/thumbnails/589.png)|[Escavalier](Pokemon/Escavalier.md)|Bug, Steel|Swarm, Shell Armor, Overcoat|70|135|105|60|105|20|495|Bug |
-|![](Pokemon/thumbnails/590.png)|[Foongus](Pokemon/Foongus.md)|Grass, Poison|Effect Spore, null, Regenerator|69|55|45|55|55|15|294|Grass |
-|![](Pokemon/thumbnails/591.png)|[Amoonguss](Pokemon/Amoonguss.md)|Grass, Poison|Effect Spore, null, Regenerator|114|85|70|85|80|30|464|Grass |
+|![](Pokemon/thumbnails/590.png)|[Foongus](Pokemon/Foongus.md)|Grass, Poison|Effect Spore, (Hidden) Regenerator|69|55|45|55|55|15|294|Grass |
+|![](Pokemon/thumbnails/591.png)|[Amoonguss](Pokemon/Amoonguss.md)|Grass, Poison|Effect Spore, (Hidden) Regenerator|114|85|70|85|80|30|464|Grass |
 |![](Pokemon/thumbnails/592.png)|[Frillish](Pokemon/Frillish.md)|Water, Ghost|Water Absorb, Cursed Body, Damp|55|40|50|65|85|40|335|Amorphous |
 |![](Pokemon/thumbnails/593.png)|[Jellicent](Pokemon/Jellicent.md)|Water, Ghost|Water Absorb, Cursed Body, Damp|100|60|70|85|105|60|480|Amorphous |
 |![](Pokemon/thumbnails/594.png)|[Alomomola](Pokemon/Alomomola.md)|Water|Healer, Hydration, Regenerator|165|75|80|40|45|65|470|Water 1, Water 2 |
 |![](Pokemon/thumbnails/595.png)|[Joltik](Pokemon/Joltik.md)|Bug, Electric|Compound Eyes, Unnerve, Swarm|50|47|50|57|50|65|319|Bug |
 |![](Pokemon/thumbnails/596.png)|[Galvantula](Pokemon/Galvantula.md)|Bug, Electric|Compound Eyes, Unnerve, Swarm|70|77|60|97|60|108|472|Bug |
 |![](Pokemon/thumbnails/597.png)|[Ferroseed](Pokemon/Ferroseed.md)|Grass, Steel|Iron Barbs|44|50|91|24|86|10|305|Grass, Mineral |
-|![](Pokemon/thumbnails/598.png)|[Ferrothorn](Pokemon/Ferrothorn.md)|Grass, Steel|Iron Barbs, null, Anticipation|74|94|131|54|116|20|489|Grass, Mineral |
+|![](Pokemon/thumbnails/598.png)|[Ferrothorn](Pokemon/Ferrothorn.md)|Grass, Steel|Iron Barbs, (Hidden) Anticipation|74|94|131|54|116|20|489|Grass, Mineral |
 |![](Pokemon/thumbnails/599.png)|[Klink](Pokemon/Klink.md)|Steel|Plus, Minus, Clear Body|40|55|70|45|60|30|300|Mineral |
 |![](Pokemon/thumbnails/600.png)|[Klang](Pokemon/Klang.md)|Steel|Plus, Minus, Clear Body|60|80|95|70|85|50|440|Mineral |
 |![](Pokemon/thumbnails/601.png)|[Klinklang](Pokemon/Klinklang.md)|Steel|Plus, Minus, Clear Body|60|100|115|70|85|90|520|Mineral |
@@ -720,18 +720,18 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/633.png)|[Deino](Pokemon/Deino.md)|Dark, Dragon|Hustle|52|65|50|45|50|38|300|Dragon |
 |![](Pokemon/thumbnails/634.png)|[Zweilous](Pokemon/Zweilous.md)|Dark, Dragon|Hustle|72|85|70|65|70|58|420|Dragon |
 |![](Pokemon/thumbnails/635.png)|[Hydreigon](Pokemon/Hydreigon.md)|Dark, Dragon|Levitate|92|105|90|125|90|98|600|Dragon |
-|![](Pokemon/thumbnails/636.png)|[Larvesta](Pokemon/Larvesta.md)|Bug, Fire|Flame Body, null, Swarm|55|85|55|50|55|60|360|Bug |
-|![](Pokemon/thumbnails/637.png)|[Volcarona](Pokemon/Volcarona.md)|Bug, Fire|Flame Body, null, Swarm|85|60|65|135|105|100|550|Bug |
+|![](Pokemon/thumbnails/636.png)|[Larvesta](Pokemon/Larvesta.md)|Bug, Fire|Flame Body, (Hidden) Swarm|55|85|55|50|55|60|360|Bug |
+|![](Pokemon/thumbnails/637.png)|[Volcarona](Pokemon/Volcarona.md)|Bug, Fire|Flame Body, (Hidden) Swarm|85|60|65|135|105|100|550|Bug |
 |![](Pokemon/thumbnails/638.png)|[Cobalion](Pokemon/Cobalion.md)|Steel, Fighting|Justified|91|90|129|90|72|108|580|Undiscovered |
 |![](Pokemon/thumbnails/639.png)|[Terrakion](Pokemon/Terrakion.md)|Rock, Fighting|Justified|91|129|90|72|90|108|580|Undiscovered |
 |![](Pokemon/thumbnails/640.png)|[Virizion](Pokemon/Virizion.md)|Grass, Fighting|Justified|91|90|72|90|129|108|580|Undiscovered |
-|![](Pokemon/thumbnails/641.png)|[Tornadus](Pokemon/Tornadus.md) (Incarnate Forme)|Flying|Prankster, null, Defiant|79|115|70|125|80|111|580|Undiscovered |
+|![](Pokemon/thumbnails/641.png)|[Tornadus](Pokemon/Tornadus.md) (Incarnate Forme)|Flying|Prankster, (Hidden) Defiant|79|115|70|125|80|111|580|Undiscovered |
 |![](Pokemon/thumbnails/641.png)|[Tornadus](Pokemon/Tornadus.md) (Therian Forme)|Flying|Regenerator|79|100|80|110|90|121|580|Undiscovered |
-|![](Pokemon/thumbnails/642.png)|[Thundurus](Pokemon/Thundurus.md) (Incarnate Forme)|Electric, Flying|Prankster, null, Defiant|79|115|70|125|80|111|580|Undiscovered |
+|![](Pokemon/thumbnails/642.png)|[Thundurus](Pokemon/Thundurus.md) (Incarnate Forme)|Electric, Flying|Prankster, (Hidden) Defiant|79|115|70|125|80|111|580|Undiscovered |
 |![](Pokemon/thumbnails/642.png)|[Thundurus](Pokemon/Thundurus.md) (Therian Forme)|Electric, Flying|Volt Absorb|79|105|70|145|80|101|580|Undiscovered |
 |![](Pokemon/thumbnails/643.png)|[Reshiram](Pokemon/Reshiram.md)|Dragon, Fire|Turboblaze|100|120|100|150|120|90|680|Undiscovered |
 |![](Pokemon/thumbnails/644.png)|[Zekrom](Pokemon/Zekrom.md)|Dragon, Electric|Teravolt|100|150|120|120|100|90|680|Undiscovered |
-|![](Pokemon/thumbnails/645.png)|[Landorus](Pokemon/Landorus.md) (Incarnate Forme)|Ground, Flying|Sand Force, null, Sheer Force|89|125|90|115|80|101|600|Undiscovered |
+|![](Pokemon/thumbnails/645.png)|[Landorus](Pokemon/Landorus.md) (Incarnate Forme)|Ground, Flying|Sand Force, (Hidden) Sheer Force|89|125|90|115|80|101|600|Undiscovered |
 |![](Pokemon/thumbnails/645.png)|[Landorus](Pokemon/Landorus.md) (Therian Forme)|Ground, Flying|Intimidate|89|145|90|105|80|91|600|Undiscovered |
 |![](Pokemon/thumbnails/646.png)|[Kyurem](Pokemon/Kyurem.md)|Dragon, Ice|Pressure|125|130|90|130|90|95|660|Undiscovered |
 |![](Pokemon/thumbnails/646.png)|[Kyurem](Pokemon/Kyurem.md) (White)|Dragon, Ice|Turboblaze|125|120|90|170|100|95|700|Undiscovered |
@@ -741,31 +741,31 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/648.png)|[Meloetta](Pokemon/Meloetta.md) (Aria Forme)|Normal, Psychic|Serene Grace|100|77|77|128|128|90|600|Undiscovered |
 |![](Pokemon/thumbnails/648.png)|[Meloetta](Pokemon/Meloetta.md) (Pirouette Forme)|Normal, Fighting|Serene Grace|100|128|90|77|77|128|600|Undiscovered |
 |![](Pokemon/thumbnails/649.png)|[Genesect](Pokemon/Genesect.md)|Bug, Steel|Download|71|120|95|120|95|99|600|Undiscovered |
-|![](Pokemon/thumbnails/650.png)|[Chespin](Pokemon/Chespin.md)|Grass|Overgrow, null, Bulletproof|56|61|65|48|45|38|313|Field |
-|![](Pokemon/thumbnails/651.png)|[Quilladin](Pokemon/Quilladin.md)|Grass|Overgrow, null, Bulletproof|61|78|95|56|58|57|405|Field |
-|![](Pokemon/thumbnails/652.png)|[Chesnaught](Pokemon/Chesnaught.md)|Grass, Fighting|Overgrow, null, Bulletproof|88|107|122|74|75|64|530|Field |
-|![](Pokemon/thumbnails/653.png)|[Fennekin](Pokemon/Fennekin.md)|Fire|Blaze, null, Magician|40|45|40|62|60|60|307|Field |
-|![](Pokemon/thumbnails/654.png)|[Braixen](Pokemon/Braixen.md)|Fire|Blaze, null, Magician|59|59|58|90|70|73|409|Field |
-|![](Pokemon/thumbnails/655.png)|[Delphox](Pokemon/Delphox.md)|Fire, Psychic|Blaze, null, Magician|75|69|72|114|100|104|534|Field |
-|![](Pokemon/thumbnails/656.png)|[Froakie](Pokemon/Froakie.md)|Water|Torrent, null, Protean|41|56|40|62|44|71|314|Water 1 |
-|![](Pokemon/thumbnails/657.png)|[Frogadier](Pokemon/Frogadier.md)|Water|Torrent, null, Protean|54|63|52|83|56|97|405|Water 1 |
-|![](Pokemon/thumbnails/658.png)|[Greninja](Pokemon/Greninja.md)|Water, Dark|Torrent, null, Protean|72|95|67|103|71|122|530|Water 1 |
+|![](Pokemon/thumbnails/650.png)|[Chespin](Pokemon/Chespin.md)|Grass|Overgrow, (Hidden) Bulletproof|56|61|65|48|45|38|313|Field |
+|![](Pokemon/thumbnails/651.png)|[Quilladin](Pokemon/Quilladin.md)|Grass|Overgrow, (Hidden) Bulletproof|61|78|95|56|58|57|405|Field |
+|![](Pokemon/thumbnails/652.png)|[Chesnaught](Pokemon/Chesnaught.md)|Grass, Fighting|Overgrow, (Hidden) Bulletproof|88|107|122|74|75|64|530|Field |
+|![](Pokemon/thumbnails/653.png)|[Fennekin](Pokemon/Fennekin.md)|Fire|Blaze, (Hidden) Magician|40|45|40|62|60|60|307|Field |
+|![](Pokemon/thumbnails/654.png)|[Braixen](Pokemon/Braixen.md)|Fire|Blaze, (Hidden) Magician|59|59|58|90|70|73|409|Field |
+|![](Pokemon/thumbnails/655.png)|[Delphox](Pokemon/Delphox.md)|Fire, Psychic|Blaze, (Hidden) Magician|75|69|72|114|100|104|534|Field |
+|![](Pokemon/thumbnails/656.png)|[Froakie](Pokemon/Froakie.md)|Water|Torrent, (Hidden) Protean|41|56|40|62|44|71|314|Water 1 |
+|![](Pokemon/thumbnails/657.png)|[Frogadier](Pokemon/Frogadier.md)|Water|Torrent, (Hidden) Protean|54|63|52|83|56|97|405|Water 1 |
+|![](Pokemon/thumbnails/658.png)|[Greninja](Pokemon/Greninja.md)|Water, Dark|Torrent, (Hidden) Protean|72|95|67|103|71|122|530|Water 1 |
 |![](Pokemon/thumbnails/658.png)|[Greninja](Pokemon/Greninja.md) (Ash-Greninja)|Water, Dark|Battle Bond|72|95|67|103|71|122|530|Undiscovered |
 |![](Pokemon/thumbnails/659.png)|[Bunnelby](Pokemon/Bunnelby.md)|Normal|Pickup, Cheek Pouch, Huge Power|38|36|38|32|36|57|237|Field |
 |![](Pokemon/thumbnails/660.png)|[Diggersby](Pokemon/Diggersby.md)|Normal, Ground|Pickup, Cheek Pouch, Huge Power|85|56|77|50|77|78|423|Field |
-|![](Pokemon/thumbnails/661.png)|[Fletchling](Pokemon/Fletchling.md)|Normal, Flying|Big Pecks, null, Gale Wings|45|50|43|40|38|62|278|Flying |
-|![](Pokemon/thumbnails/662.png)|[Fletchinder](Pokemon/Fletchinder.md)|Fire, Flying|Flame Body, null, Gale Wings|62|73|55|56|52|84|382|Flying |
-|![](Pokemon/thumbnails/663.png)|[Talonflame](Pokemon/Talonflame.md)|Fire, Flying|Flame Body, null, Gale Wings|78|81|71|74|69|126|499|Flying |
+|![](Pokemon/thumbnails/661.png)|[Fletchling](Pokemon/Fletchling.md)|Normal, Flying|Big Pecks, (Hidden) Gale Wings|45|50|43|40|38|62|278|Flying |
+|![](Pokemon/thumbnails/662.png)|[Fletchinder](Pokemon/Fletchinder.md)|Fire, Flying|Flame Body, (Hidden) Gale Wings|62|73|55|56|52|84|382|Flying |
+|![](Pokemon/thumbnails/663.png)|[Talonflame](Pokemon/Talonflame.md)|Fire, Flying|Flame Body, (Hidden) Gale Wings|78|81|71|74|69|126|499|Flying |
 |![](Pokemon/thumbnails/664.png)|[Scatterbug](Pokemon/Scatterbug.md)|Bug|Shield Dust, Compound Eyes, Friend Guard|38|35|40|27|25|35|200|Bug |
-|![](Pokemon/thumbnails/665.png)|[Spewpa](Pokemon/Spewpa.md)|Bug|Shed Skin, null, Friend Guard|45|22|60|27|30|29|213|Bug |
+|![](Pokemon/thumbnails/665.png)|[Spewpa](Pokemon/Spewpa.md)|Bug|Shed Skin, (Hidden) Friend Guard|45|22|60|27|30|29|213|Bug |
 |![](Pokemon/thumbnails/666.png)|[Vivillon](Pokemon/Vivillon.md)|Bug, Flying|Shield Dust, Compound Eyes, Friend Guard|80|52|50|90|50|89|411|Bug |
 |![](Pokemon/thumbnails/667.png)|[Litleo](Pokemon/Litleo.md)|Fire, Normal|Rivalry, Unnerve, Moxie|62|50|58|73|54|72|369|Field |
 |![](Pokemon/thumbnails/668.png)|[Pyroar](Pokemon/Pyroar.md)|Fire, Normal|Rivalry, Unnerve, Moxie|86|68|72|109|66|106|507|Field |
-|![](Pokemon/thumbnails/669.png)|[Flabébé](Pokemon/Flabébé.md)|Fairy|Flower Veil, null, Symbiosis|44|38|39|61|79|42|303|Fairy |
-|![](Pokemon/thumbnails/670.png)|[Floette](Pokemon/Floette.md)|Fairy|Flower Veil, null, Symbiosis|54|45|47|75|98|52|371|Fairy |
-|![](Pokemon/thumbnails/671.png)|[Florges](Pokemon/Florges.md)|Fairy|Flower Veil, null, Symbiosis|78|65|68|112|154|75|552|Fairy |
-|![](Pokemon/thumbnails/672.png)|[Skiddo](Pokemon/Skiddo.md)|Grass|Sap Sipper, null, Grass Pelt|66|65|48|62|57|52|350|Field |
-|![](Pokemon/thumbnails/673.png)|[Gogoat](Pokemon/Gogoat.md)|Grass|Sap Sipper, null, Grass Pelt|123|100|62|97|81|68|531|Field |
+|![](Pokemon/thumbnails/669.png)|[Flabébé](Pokemon/Flabébé.md)|Fairy|Flower Veil, (Hidden) Symbiosis|44|38|39|61|79|42|303|Fairy |
+|![](Pokemon/thumbnails/670.png)|[Floette](Pokemon/Floette.md)|Fairy|Flower Veil, (Hidden) Symbiosis|54|45|47|75|98|52|371|Fairy |
+|![](Pokemon/thumbnails/671.png)|[Florges](Pokemon/Florges.md)|Fairy|Flower Veil, (Hidden) Symbiosis|78|65|68|112|154|75|552|Fairy |
+|![](Pokemon/thumbnails/672.png)|[Skiddo](Pokemon/Skiddo.md)|Grass|Sap Sipper, (Hidden) Grass Pelt|66|65|48|62|57|52|350|Field |
+|![](Pokemon/thumbnails/673.png)|[Gogoat](Pokemon/Gogoat.md)|Grass|Sap Sipper, (Hidden) Grass Pelt|123|100|62|97|81|68|531|Field |
 |![](Pokemon/thumbnails/674.png)|[Pancham](Pokemon/Pancham.md)|Fighting|Iron Fist, Mold Breaker, Scrappy|67|82|62|46|48|43|348|Field, Human-Like |
 |![](Pokemon/thumbnails/675.png)|[Pangoro](Pokemon/Pangoro.md)|Fighting, Dark|Iron Fist, Mold Breaker, Scrappy|95|124|78|69|71|58|495|Field, Human-Like |
 |![](Pokemon/thumbnails/676.png)|[Furfrou](Pokemon/Furfrou.md)|Normal|Fur Coat|75|80|60|65|90|102|472|Field |
@@ -776,10 +776,10 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/680.png)|[Doublade](Pokemon/Doublade.md)|Steel, Ghost|No Guard|59|110|150|45|49|35|448|Mineral |
 |![](Pokemon/thumbnails/681.png)|[Aegislash](Pokemon/Aegislash.md) (Shield Forme)|Steel, Ghost|Stance Change|60|50|150|50|150|60|520|Mineral |
 |![](Pokemon/thumbnails/681.png)|[Aegislash](Pokemon/Aegislash.md) (Blade Forme)|Steel, Ghost|Stance Change|60|150|50|150|50|60|520|Mineral |
-|![](Pokemon/thumbnails/682.png)|[Spritzee](Pokemon/Spritzee.md)|Fairy|Healer, null, Aroma Veil|78|52|60|63|65|23|341|Fairy |
-|![](Pokemon/thumbnails/683.png)|[Aromatisse](Pokemon/Aromatisse.md)|Fairy|Healer, null, Aroma Veil|101|72|72|99|89|29|462|Fairy |
-|![](Pokemon/thumbnails/684.png)|[Swirlix](Pokemon/Swirlix.md)|Fairy|Sweet Veil, null, Unburden|62|48|66|59|57|49|341|Fairy |
-|![](Pokemon/thumbnails/685.png)|[Slurpuff](Pokemon/Slurpuff.md)|Fairy|Sweet Veil, null, Unburden|82|80|86|85|75|72|480|Fairy |
+|![](Pokemon/thumbnails/682.png)|[Spritzee](Pokemon/Spritzee.md)|Fairy|Healer, (Hidden) Aroma Veil|78|52|60|63|65|23|341|Fairy |
+|![](Pokemon/thumbnails/683.png)|[Aromatisse](Pokemon/Aromatisse.md)|Fairy|Healer, (Hidden) Aroma Veil|101|72|72|99|89|29|462|Fairy |
+|![](Pokemon/thumbnails/684.png)|[Swirlix](Pokemon/Swirlix.md)|Fairy|Sweet Veil, (Hidden) Unburden|62|48|66|59|57|49|341|Fairy |
+|![](Pokemon/thumbnails/685.png)|[Slurpuff](Pokemon/Slurpuff.md)|Fairy|Sweet Veil, (Hidden) Unburden|82|80|86|85|75|72|480|Fairy |
 |![](Pokemon/thumbnails/686.png)|[Inkay](Pokemon/Inkay.md)|Dark, Psychic|Contrary, Suction Cups, Infiltrator|53|54|53|37|46|45|288|Water 1, Water 2 |
 |![](Pokemon/thumbnails/687.png)|[Malamar](Pokemon/Malamar.md)|Dark, Psychic|Contrary, Suction Cups, Infiltrator|86|92|88|68|75|73|482|Water 1, Water 2 |
 |![](Pokemon/thumbnails/688.png)|[Binacle](Pokemon/Binacle.md)|Rock, Water|Tough Claws, Sniper, Pickpocket|42|52|67|39|56|50|306|Water 3 |
@@ -790,18 +790,18 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/693.png)|[Clawitzer](Pokemon/Clawitzer.md)|Water|Mega Launcher|71|73|88|120|89|59|500|Water 1, Water 3 |
 |![](Pokemon/thumbnails/694.png)|[Helioptile](Pokemon/Helioptile.md)|Electric, Normal|Dry Skin, Sand Veil, Solar Power|44|38|33|61|43|70|289|Monster, Dragon |
 |![](Pokemon/thumbnails/695.png)|[Heliolisk](Pokemon/Heliolisk.md)|Electric, Normal|Dry Skin, Sand Veil, Solar Power|62|55|52|109|94|109|481|Monster, Dragon |
-|![](Pokemon/thumbnails/696.png)|[Tyrunt](Pokemon/Tyrunt.md)|Rock, Dragon|Strong Jaw, null, Sturdy|58|89|77|45|45|48|362|Monster, Dragon |
-|![](Pokemon/thumbnails/697.png)|[Tyrantrum](Pokemon/Tyrantrum.md)|Rock, Dragon|Strong Jaw, null, Rock Head|82|121|119|69|59|71|521|Monster, Dragon |
-|![](Pokemon/thumbnails/698.png)|[Amaura](Pokemon/Amaura.md)|Rock, Ice|Refrigerate, null, Snow Warning|77|59|50|67|63|46|362|Monster |
-|![](Pokemon/thumbnails/699.png)|[Aurorus](Pokemon/Aurorus.md)|Rock, Ice|Refrigerate, null, Snow Warning|123|77|72|99|92|58|521|Monster |
-|![](Pokemon/thumbnails/700.png)|[Sylveon](Pokemon/Sylveon.md)|Fairy|Cute Charm, null, Pixilate|95|65|65|110|130|60|525|Field |
+|![](Pokemon/thumbnails/696.png)|[Tyrunt](Pokemon/Tyrunt.md)|Rock, Dragon|Strong Jaw, (Hidden) Sturdy|58|89|77|45|45|48|362|Monster, Dragon |
+|![](Pokemon/thumbnails/697.png)|[Tyrantrum](Pokemon/Tyrantrum.md)|Rock, Dragon|Strong Jaw, (Hidden) Rock Head|82|121|119|69|59|71|521|Monster, Dragon |
+|![](Pokemon/thumbnails/698.png)|[Amaura](Pokemon/Amaura.md)|Rock, Ice|Refrigerate, (Hidden) Snow Warning|77|59|50|67|63|46|362|Monster |
+|![](Pokemon/thumbnails/699.png)|[Aurorus](Pokemon/Aurorus.md)|Rock, Ice|Refrigerate, (Hidden) Snow Warning|123|77|72|99|92|58|521|Monster |
+|![](Pokemon/thumbnails/700.png)|[Sylveon](Pokemon/Sylveon.md)|Fairy|Cute Charm, (Hidden) Pixilate|95|65|65|110|130|60|525|Field |
 |![](Pokemon/thumbnails/701.png)|[Hawlucha](Pokemon/Hawlucha.md)|Fighting, Flying|Limber, Unburden, Mold Breaker|78|92|75|74|63|118|500|Human-Like |
 |![](Pokemon/thumbnails/702.png)|[Dedenne](Pokemon/Dedenne.md)|Electric, Fairy|Cheek Pouch, Pickup, Plus|67|58|57|81|67|101|431|Field, Fairy |
-|![](Pokemon/thumbnails/703.png)|[Carbink](Pokemon/Carbink.md)|Rock, Fairy|Clear Body, null, Sturdy|50|50|150|50|150|50|500|Fairy, Mineral |
+|![](Pokemon/thumbnails/703.png)|[Carbink](Pokemon/Carbink.md)|Rock, Fairy|Clear Body, (Hidden) Sturdy|50|50|150|50|150|50|500|Fairy, Mineral |
 |![](Pokemon/thumbnails/704.png)|[Goomy](Pokemon/Goomy.md)|Dragon|Sap Sipper, Hydration, Gooey|45|50|35|55|75|40|300|Dragon |
 |![](Pokemon/thumbnails/705.png)|[Sliggoo](Pokemon/Sliggoo.md)|Dragon|Sap Sipper, Hydration, Gooey|68|75|53|83|113|60|452|Dragon |
 |![](Pokemon/thumbnails/706.png)|[Goodra](Pokemon/Goodra.md)|Dragon|Sap Sipper, Hydration, Gooey|90|100|70|110|150|80|600|Dragon |
-|![](Pokemon/thumbnails/707.png)|[Klefki](Pokemon/Klefki.md)|Steel, Fairy|Prankster, null, Magician|57|80|91|80|87|75|470|Mineral |
+|![](Pokemon/thumbnails/707.png)|[Klefki](Pokemon/Klefki.md)|Steel, Fairy|Prankster, (Hidden) Magician|57|80|91|80|87|75|470|Mineral |
 |![](Pokemon/thumbnails/708.png)|[Phantump](Pokemon/Phantump.md)|Ghost, Grass|Natural Cure, Frisk, Harvest|43|70|48|50|60|38|309|Grass, Amorphous |
 |![](Pokemon/thumbnails/709.png)|[Trevenant](Pokemon/Trevenant.md)|Ghost, Grass|Natural Cure, Frisk, Harvest|85|110|76|65|82|56|474|Grass, Amorphous |
 |![](Pokemon/thumbnails/710.png)|[Pumpkaboo](Pokemon/Pumpkaboo.md) (Average Size)|Ghost, Grass|Pickup, Frisk, Insomnia|49|66|70|44|55|51|335|Amorphous |
@@ -826,15 +826,15 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/720.png)|[Hoopa](Pokemon/Hoopa.md) (Confined)|Psychic, Ghost|Magician|80|110|60|150|130|70|600|Undiscovered |
 |![](Pokemon/thumbnails/720.png)|[Hoopa](Pokemon/Hoopa.md) (Unbound)|Psychic, Dark|Magician|80|160|60|170|130|80|680|Undiscovered |
 |![](Pokemon/thumbnails/721.png)|[Volcanion](Pokemon/Volcanion.md)|Fire, Water|Water Absorb|80|110|120|130|90|70|600|Undiscovered |
-|![](Pokemon/thumbnails/722.png)|[Rowlet](Pokemon/Rowlet.md)|Grass, Flying|Overgrow, null, Long Reach|68|55|55|50|50|42|320|Flying |
-|![](Pokemon/thumbnails/723.png)|[Dartrix](Pokemon/Dartrix.md)|Grass, Flying|Overgrow, null, Long Reach|78|75|75|70|70|52|420|Flying |
-|![](Pokemon/thumbnails/724.png)|[Decidueye](Pokemon/Decidueye.md)|Grass, Ghost|Overgrow, null, Long Reach|78|107|75|100|100|70|530|Flying |
-|![](Pokemon/thumbnails/725.png)|[Litten](Pokemon/Litten.md)|Fire|Blaze, null, Intimidate|45|65|40|60|40|70|320|Field |
-|![](Pokemon/thumbnails/726.png)|[Torracat](Pokemon/Torracat.md)|Fire|Blaze, null, Intimidate|65|85|50|80|50|90|420|Field |
-|![](Pokemon/thumbnails/727.png)|[Incineroar](Pokemon/Incineroar.md)|Fire, Dark|Blaze, null, Intimidate|95|115|90|80|90|60|530|Field |
-|![](Pokemon/thumbnails/728.png)|[Popplio](Pokemon/Popplio.md)|Water|Torrent, null, Liquid Voice|50|54|54|66|56|40|320|Water 1, Field |
-|![](Pokemon/thumbnails/729.png)|[Brionne](Pokemon/Brionne.md)|Water|Torrent, null, Liquid Voice|60|69|69|91|81|50|420|Water 1, Field |
-|![](Pokemon/thumbnails/730.png)|[Primarina](Pokemon/Primarina.md)|Water, Fairy|Torrent, null, Liquid Voice|80|74|74|126|116|60|530|Water 1, Field |
+|![](Pokemon/thumbnails/722.png)|[Rowlet](Pokemon/Rowlet.md)|Grass, Flying|Overgrow, (Hidden) Long Reach|68|55|55|50|50|42|320|Flying |
+|![](Pokemon/thumbnails/723.png)|[Dartrix](Pokemon/Dartrix.md)|Grass, Flying|Overgrow, (Hidden) Long Reach|78|75|75|70|70|52|420|Flying |
+|![](Pokemon/thumbnails/724.png)|[Decidueye](Pokemon/Decidueye.md)|Grass, Ghost|Overgrow, (Hidden) Long Reach|78|107|75|100|100|70|530|Flying |
+|![](Pokemon/thumbnails/725.png)|[Litten](Pokemon/Litten.md)|Fire|Blaze, (Hidden) Intimidate|45|65|40|60|40|70|320|Field |
+|![](Pokemon/thumbnails/726.png)|[Torracat](Pokemon/Torracat.md)|Fire|Blaze, (Hidden) Intimidate|65|85|50|80|50|90|420|Field |
+|![](Pokemon/thumbnails/727.png)|[Incineroar](Pokemon/Incineroar.md)|Fire, Dark|Blaze, (Hidden) Intimidate|95|115|90|80|90|60|530|Field |
+|![](Pokemon/thumbnails/728.png)|[Popplio](Pokemon/Popplio.md)|Water|Torrent, (Hidden) Liquid Voice|50|54|54|66|56|40|320|Water 1, Field |
+|![](Pokemon/thumbnails/729.png)|[Brionne](Pokemon/Brionne.md)|Water|Torrent, (Hidden) Liquid Voice|60|69|69|91|81|50|420|Water 1, Field |
+|![](Pokemon/thumbnails/730.png)|[Primarina](Pokemon/Primarina.md)|Water, Fairy|Torrent, (Hidden) Liquid Voice|80|74|74|126|116|60|530|Water 1, Field |
 |![](Pokemon/thumbnails/731.png)|[Pikipek](Pokemon/Pikipek.md)|Normal, Flying|Keen Eye, Skill Link, Pickup|35|75|30|30|30|65|265|Flying |
 |![](Pokemon/thumbnails/732.png)|[Trumbeak](Pokemon/Trumbeak.md)|Normal, Flying|Keen Eye, Skill Link, Pickup|55|85|50|40|50|75|355|Flying |
 |![](Pokemon/thumbnails/733.png)|[Toucannon](Pokemon/Toucannon.md)|Normal, Flying|Keen Eye, Skill Link, Sheer Force|80|120|75|75|75|60|485|Flying |
@@ -861,14 +861,14 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/748.png)|[Toxapex](Pokemon/Toxapex.md)|Poison, Water|Merciless, Limber, Regenerator|50|63|152|53|142|35|495|Water 1 |
 |![](Pokemon/thumbnails/749.png)|[Mudbray](Pokemon/Mudbray.md)|Ground|Own Tempo, Stamina, Inner Focus|70|100|70|45|55|45|385|Field |
 |![](Pokemon/thumbnails/750.png)|[Mudsdale](Pokemon/Mudsdale.md)|Ground|Own Tempo, Stamina, Inner Focus|100|125|100|55|85|35|500|Field |
-|![](Pokemon/thumbnails/751.png)|[Dewpider](Pokemon/Dewpider.md)|Water, Bug|Water Bubble, null, Water Absorb|38|40|52|40|72|27|269|Water 1, Bug |
-|![](Pokemon/thumbnails/752.png)|[Araquanid](Pokemon/Araquanid.md)|Water, Bug|Water Bubble, null, Water Absorb|68|70|92|50|132|42|454|Water 1, Bug |
-|![](Pokemon/thumbnails/753.png)|[Fomantis](Pokemon/Fomantis.md)|Grass|Leaf Guard, null, Contrary|40|55|35|50|35|35|250|Grass |
-|![](Pokemon/thumbnails/754.png)|[Lurantis](Pokemon/Lurantis.md)|Grass|Leaf Guard, null, Contrary|70|105|90|80|90|45|480|Grass |
+|![](Pokemon/thumbnails/751.png)|[Dewpider](Pokemon/Dewpider.md)|Water, Bug|Water Bubble, (Hidden) Water Absorb|38|40|52|40|72|27|269|Water 1, Bug |
+|![](Pokemon/thumbnails/752.png)|[Araquanid](Pokemon/Araquanid.md)|Water, Bug|Water Bubble, (Hidden) Water Absorb|68|70|92|50|132|42|454|Water 1, Bug |
+|![](Pokemon/thumbnails/753.png)|[Fomantis](Pokemon/Fomantis.md)|Grass|Leaf Guard, (Hidden) Contrary|40|55|35|50|35|35|250|Grass |
+|![](Pokemon/thumbnails/754.png)|[Lurantis](Pokemon/Lurantis.md)|Grass|Leaf Guard, (Hidden) Contrary|70|105|90|80|90|45|480|Grass |
 |![](Pokemon/thumbnails/755.png)|[Morelull](Pokemon/Morelull.md)|Grass, Fairy|Illuminate, Effect Spore, Rain Dish|40|35|55|65|75|15|285|Grass |
 |![](Pokemon/thumbnails/756.png)|[Shiinotic](Pokemon/Shiinotic.md)|Grass, Fairy|Illuminate, Effect Spore, Rain Dish|60|45|80|90|100|30|405|Grass |
-|![](Pokemon/thumbnails/757.png)|[Salandit](Pokemon/Salandit.md)|Poison, Fire|Corrosion, null, Oblivious|48|44|40|71|40|77|320|Monster, Dragon |
-|![](Pokemon/thumbnails/758.png)|[Salazzle](Pokemon/Salazzle.md)|Poison, Fire|Corrosion, null, Oblivious|68|64|60|111|60|117|480|Monster, Dragon |
+|![](Pokemon/thumbnails/757.png)|[Salandit](Pokemon/Salandit.md)|Poison, Fire|Corrosion, (Hidden) Oblivious|48|44|40|71|40|77|320|Monster, Dragon |
+|![](Pokemon/thumbnails/758.png)|[Salazzle](Pokemon/Salazzle.md)|Poison, Fire|Corrosion, (Hidden) Oblivious|68|64|60|111|60|117|480|Monster, Dragon |
 |![](Pokemon/thumbnails/759.png)|[Stufful](Pokemon/Stufful.md)|Normal, Fighting|Fluffy, Klutz, Cute Charm|70|75|50|45|50|50|340|Field |
 |![](Pokemon/thumbnails/760.png)|[Bewear](Pokemon/Bewear.md)|Normal, Fighting|Fluffy, Klutz, Unnerve|120|125|80|55|60|60|500|Field |
 |![](Pokemon/thumbnails/761.png)|[Bounsweet](Pokemon/Bounsweet.md)|Grass|Leaf Guard, Oblivious, Sweet Veil|42|30|38|30|38|32|210|Grass |
@@ -876,12 +876,12 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/763.png)|[Tsareena](Pokemon/Tsareena.md)|Grass|Leaf Guard, Queenly Majesty, Sweet Veil|72|120|98|50|98|72|510|Grass |
 |![](Pokemon/thumbnails/764.png)|[Comfey](Pokemon/Comfey.md)|Fairy|Flower Veil, Triage, Natural Cure|51|52|90|82|110|100|485|Grass |
 |![](Pokemon/thumbnails/765.png)|[Oranguru](Pokemon/Oranguru.md)|Normal, Psychic|Inner Focus, Telepathy, Symbiosis|90|60|80|90|110|60|490|Field |
-|![](Pokemon/thumbnails/766.png)|[Passimian](Pokemon/Passimian.md)|Fighting|Receiver, null, Defiant|100|120|90|40|60|80|490|Field |
+|![](Pokemon/thumbnails/766.png)|[Passimian](Pokemon/Passimian.md)|Fighting|Receiver, (Hidden) Defiant|100|120|90|40|60|80|490|Field |
 |![](Pokemon/thumbnails/767.png)|[Wimpod](Pokemon/Wimpod.md)|Bug, Water|Wimp Out|25|35|40|20|30|80|230|Bug, Water 3 |
 |![](Pokemon/thumbnails/768.png)|[Golisopod](Pokemon/Golisopod.md)|Bug, Water|Emergency Exit|75|125|140|60|90|40|530|Bug, Water 3 |
-|![](Pokemon/thumbnails/769.png)|[Sandygast](Pokemon/Sandygast.md)|Ghost, Ground|Water Compaction, null, Sand Veil|55|55|80|70|45|15|320|Amorphous |
-|![](Pokemon/thumbnails/770.png)|[Palossand](Pokemon/Palossand.md)|Ghost, Ground|Water Compaction, null, Sand Veil|85|75|110|100|75|35|480|Amorphous |
-|![](Pokemon/thumbnails/771.png)|[Pyukumuku](Pokemon/Pyukumuku.md)|Water|Innards Out, null, Unaware|55|60|130|30|130|5|410|Water 1 |
+|![](Pokemon/thumbnails/769.png)|[Sandygast](Pokemon/Sandygast.md)|Ghost, Ground|Water Compaction, (Hidden) Sand Veil|55|55|80|70|45|15|320|Amorphous |
+|![](Pokemon/thumbnails/770.png)|[Palossand](Pokemon/Palossand.md)|Ghost, Ground|Water Compaction, (Hidden) Sand Veil|85|75|110|100|75|35|480|Amorphous |
+|![](Pokemon/thumbnails/771.png)|[Pyukumuku](Pokemon/Pyukumuku.md)|Water|Innards Out, (Hidden) Unaware|55|60|130|30|130|5|410|Water 1 |
 |![](Pokemon/thumbnails/772.png)|Type: Null|Normal|Battle Armor|95|95|95|95|95|59|534|Undiscovered |
 |![](Pokemon/thumbnails/773.png)|[Silvally](Pokemon/Silvally.md)|Normal|RKS System|95|95|95|95|95|95|570|Undiscovered |
 |![](Pokemon/thumbnails/774.png)|[Minior](Pokemon/Minior.md) (Meteor Form)|Rock, Flying|Shields Down|60|60|100|60|100|60|440|Mineral |
@@ -896,10 +896,10 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/782.png)|[Jangmo-o](Pokemon/Jangmo-o.md)|Dragon|Bulletproof, Soundproof, Overcoat|45|55|65|45|45|45|300|Dragon |
 |![](Pokemon/thumbnails/783.png)|[Hakamo-o](Pokemon/Hakamo-o.md)|Dragon, Fighting|Bulletproof, Soundproof, Overcoat|55|75|90|65|70|65|420|Dragon |
 |![](Pokemon/thumbnails/784.png)|[Kommo-o](Pokemon/Kommo-o.md)|Dragon, Fighting|Bulletproof, Soundproof, Overcoat|75|110|125|100|105|85|600|Dragon |
-|![](Pokemon/thumbnails/785.png)|Tapu Koko|Electric, Fairy|Electric Surge, null, Telepathy|70|115|85|95|75|130|570|Undiscovered |
-|![](Pokemon/thumbnails/786.png)|Tapu Lele|Psychic, Fairy|Psychic Surge, null, Telepathy|70|85|75|130|115|95|570|Undiscovered |
-|![](Pokemon/thumbnails/787.png)|Tapu Bulu|Grass, Fairy|Grassy Surge, null, Telepathy|70|130|115|85|95|75|570|Undiscovered |
-|![](Pokemon/thumbnails/788.png)|Tapu Fini|Water, Fairy|Misty Surge, null, Telepathy|70|75|115|95|130|85|570|Undiscovered |
+|![](Pokemon/thumbnails/785.png)|Tapu Koko|Electric, Fairy|Electric Surge, (Hidden) Telepathy|70|115|85|95|75|130|570|Undiscovered |
+|![](Pokemon/thumbnails/786.png)|Tapu Lele|Psychic, Fairy|Psychic Surge, (Hidden) Telepathy|70|85|75|130|115|95|570|Undiscovered |
+|![](Pokemon/thumbnails/787.png)|Tapu Bulu|Grass, Fairy|Grassy Surge, (Hidden) Telepathy|70|130|115|85|95|75|570|Undiscovered |
+|![](Pokemon/thumbnails/788.png)|Tapu Fini|Water, Fairy|Misty Surge, (Hidden) Telepathy|70|75|115|95|130|85|570|Undiscovered |
 |![](Pokemon/thumbnails/789.png)|[Cosmog](Pokemon/Cosmog.md)|Psychic|Unaware|43|29|31|29|31|37|200|Undiscovered |
 |![](Pokemon/thumbnails/790.png)|[Cosmoem](Pokemon/Cosmoem.md)|Psychic|Sturdy|43|29|131|29|131|37|400|Undiscovered |
 |![](Pokemon/thumbnails/791.png)|[Solgaleo](Pokemon/Solgaleo.md)|Psychic, Steel|Full Metal Body|137|137|107|113|89|97|680|Undiscovered |

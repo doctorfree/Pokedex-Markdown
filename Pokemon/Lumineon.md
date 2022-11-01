@@ -1,3 +1,13 @@
+---
+name: Lumineon
+type: Water
+abilities: Swift Swim, Storm Drain, Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lumineon
 
 

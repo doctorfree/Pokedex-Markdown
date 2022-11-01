@@ -1,3 +1,13 @@
+---
+name: Crabrawler
+type: Fighting
+abilities: Hyper Cutter, Iron Fist, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Crabrawler
 
 

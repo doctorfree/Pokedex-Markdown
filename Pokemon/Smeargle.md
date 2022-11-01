@@ -1,3 +1,13 @@
+---
+name: Smeargle
+type: Normal
+abilities: Own Tempo, Technician, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Smeargle
 
 

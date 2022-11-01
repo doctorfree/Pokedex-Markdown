@@ -1,3 +1,13 @@
+---
+name: Swablu
+type: Normal, Flying
+abilities: Natural Cure, (Hidden) Cloud Nine
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Swablu
 
 

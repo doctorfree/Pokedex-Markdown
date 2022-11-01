@@ -1,3 +1,13 @@
+---
+name: Amoonguss
+type: Grass, Poison
+abilities: Effect Spore, (Hidden) Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Amoonguss
 
 

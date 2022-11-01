@@ -1,3 +1,13 @@
+---
+name: Litwick
+type: Ghost, Fire
+abilities: Flash Fire, Flame Body, Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Litwick
 
 

@@ -1,3 +1,13 @@
+---
+name: Purugly
+type: Normal
+abilities: Thick Fat, Own Tempo, Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Purugly
 
 

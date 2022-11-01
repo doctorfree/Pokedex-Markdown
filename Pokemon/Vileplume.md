@@ -1,3 +1,13 @@
+---
+name: Vileplume
+type: Grass, Poison
+abilities: Chlorophyll, (Hidden) Effect Spore
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vileplume
 
 

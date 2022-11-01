@@ -1,3 +1,13 @@
+---
+name: Magnezone
+type: Electric, Steel
+abilities: Magnet Pull, Sturdy, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magnezone
 
 

@@ -1,3 +1,13 @@
+---
+name: Palpitoad
+type: Water, Ground
+abilities: Swift Swim, Hydration, Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Palpitoad
 
 

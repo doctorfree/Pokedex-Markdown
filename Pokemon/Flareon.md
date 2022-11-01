@@ -1,3 +1,13 @@
+---
+name: Flareon
+type: Fire
+abilities: Flash Fire, (Hidden) Guts
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Flareon
 
 

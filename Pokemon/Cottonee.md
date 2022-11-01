@@ -1,3 +1,13 @@
+---
+name: Cottonee
+type: Grass, Fairy
+abilities: Prankster, Infiltrator, Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cottonee
 
 

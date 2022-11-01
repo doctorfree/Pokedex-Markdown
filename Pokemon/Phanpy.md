@@ -1,3 +1,13 @@
+---
+name: Phanpy
+type: Ground
+abilities: Pickup, (Hidden) Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Phanpy
 
 

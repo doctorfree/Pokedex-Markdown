@@ -1,3 +1,13 @@
+---
+name: Simisear
+type: Fire
+abilities: Gluttony, (Hidden) Blaze
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Simisear
 
 

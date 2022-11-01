@@ -1,3 +1,13 @@
+---
+name: Charizard
+type: Fire, Flying
+abilities: Blaze, (Hidden) Solar Power
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Charizard
 
 

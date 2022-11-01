@@ -1,3 +1,13 @@
+---
+name: Taillow
+type: Normal, Flying
+abilities: Guts, (Hidden) Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Taillow
 
 

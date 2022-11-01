@@ -1,3 +1,13 @@
+---
+name: Fraxure
+type: Dragon
+abilities: Rivalry, Mold Breaker, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Fraxure
 
 

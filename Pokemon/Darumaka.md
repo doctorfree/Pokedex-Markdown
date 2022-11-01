@@ -1,3 +1,13 @@
+---
+name: Darumaka
+type: Fire
+abilities: Hustle, (Hidden) Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Darumaka
 
 

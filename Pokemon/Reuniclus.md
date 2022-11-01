@@ -1,3 +1,13 @@
+---
+name: Reuniclus
+type: Psychic
+abilities: Overcoat, Magic Guard, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Reuniclus
 
 

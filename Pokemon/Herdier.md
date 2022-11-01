@@ -1,3 +1,13 @@
+---
+name: Herdier
+type: Normal
+abilities: Intimidate, Sand Rush, Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Herdier
 
 

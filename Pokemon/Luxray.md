@@ -1,3 +1,13 @@
+---
+name: Luxray
+type: Electric
+abilities: Rivalry, Intimidate, Guts
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Luxray
 
 

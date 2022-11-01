@@ -1,3 +1,13 @@
+---
+name: Mismagius
+type: Ghost
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mismagius
 
 

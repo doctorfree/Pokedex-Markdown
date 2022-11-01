@@ -1,3 +1,13 @@
+---
+name: Lurantis
+type: Grass
+abilities: Leaf Guard, (Hidden) Contrary
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lurantis
 
 

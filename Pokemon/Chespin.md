@@ -1,3 +1,13 @@
+---
+name: Chespin
+type: Grass
+abilities: Overgrow, (Hidden) Bulletproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chespin
 
 

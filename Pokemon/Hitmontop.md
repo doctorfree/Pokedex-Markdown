@@ -1,3 +1,13 @@
+---
+name: Hitmontop
+type: Fighting
+abilities: Intimidate, Technician, Steadfast
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hitmontop
 
 

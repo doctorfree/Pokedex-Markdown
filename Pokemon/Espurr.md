@@ -1,3 +1,13 @@
+---
+name: Espurr
+type: Psychic
+abilities: Keen Eye, Infiltrator, Own Tempo
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Espurr
 
 

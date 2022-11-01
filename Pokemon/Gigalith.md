@@ -1,3 +1,13 @@
+---
+name: Gigalith
+type: Rock
+abilities: Sturdy, Sand Stream, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gigalith
 
 

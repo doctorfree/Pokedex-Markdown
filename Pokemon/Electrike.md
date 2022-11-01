@@ -1,3 +1,13 @@
+---
+name: Electrike
+type: Electric
+abilities: Static, Lightning Rod, Minus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Electrike
 
 

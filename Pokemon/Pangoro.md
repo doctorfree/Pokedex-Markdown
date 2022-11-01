@@ -1,3 +1,13 @@
+---
+name: Pangoro
+type: Fighting, Dark
+abilities: Iron Fist, Mold Breaker, Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pangoro
 
 

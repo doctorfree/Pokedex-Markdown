@@ -1,3 +1,13 @@
+---
+name: Diggersby
+type: Normal, Ground
+abilities: Pickup, Cheek Pouch, Huge Power
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Diggersby
 
 

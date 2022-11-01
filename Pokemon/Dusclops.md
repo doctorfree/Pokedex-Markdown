@@ -1,3 +1,13 @@
+---
+name: Dusclops
+type: Ghost
+abilities: Pressure, (Hidden) Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dusclops
 
 

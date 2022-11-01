@@ -1,3 +1,13 @@
+---
+name: Ferroseed
+type: Grass, Steel
+abilities: Iron Barbs
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ferroseed
 
 

@@ -1,3 +1,13 @@
+---
+name: Dartrix
+type: Grass, Flying
+abilities: Overgrow, (Hidden) Long Reach
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dartrix
 
 

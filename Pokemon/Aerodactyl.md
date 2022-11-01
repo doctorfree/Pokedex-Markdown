@@ -1,3 +1,13 @@
+---
+name: Aerodactyl
+type: Rock, Flying
+abilities: Rock Head, Pressure, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Aerodactyl
 
 

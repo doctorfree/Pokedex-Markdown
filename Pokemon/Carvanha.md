@@ -1,3 +1,13 @@
+---
+name: Carvanha
+type: Water, Dark
+abilities: Rough Skin, (Hidden) Speed Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Carvanha
 
 

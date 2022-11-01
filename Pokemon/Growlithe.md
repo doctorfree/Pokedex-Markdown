@@ -1,3 +1,13 @@
+---
+name: Growlithe
+type: Fire
+abilities: Intimidate, Flash Fire, Justified
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Growlithe
 
 

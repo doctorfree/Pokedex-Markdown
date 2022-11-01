@@ -1,3 +1,13 @@
+---
+name: Whismur
+type: Normal
+abilities: Soundproof, (Hidden) Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Whismur
 
 

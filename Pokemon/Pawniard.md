@@ -1,3 +1,13 @@
+---
+name: Pawniard
+type: Dark, Steel
+abilities: Defiant, Inner Focus, Pressure
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pawniard
 
 

@@ -1,3 +1,13 @@
+---
+name: Crawdaunt
+type: Water, Dark
+abilities: Hyper Cutter, Shell Armor, Adaptability
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Crawdaunt
 
 

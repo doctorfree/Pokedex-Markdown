@@ -1,3 +1,13 @@
+---
+name: Snorlax
+type: Normal
+abilities: Immunity, Thick Fat, Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Snorlax
 
 

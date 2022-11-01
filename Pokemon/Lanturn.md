@@ -1,3 +1,13 @@
+---
+name: Lanturn
+type: Water, Electric
+abilities: Volt Absorb, Illuminate, Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lanturn
 
 

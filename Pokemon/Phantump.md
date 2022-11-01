@@ -1,3 +1,13 @@
+---
+name: Phantump
+type: Ghost, Grass
+abilities: Natural Cure, Frisk, Harvest
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Phantump
 
 

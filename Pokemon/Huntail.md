@@ -1,3 +1,13 @@
+---
+name: Huntail
+type: Water
+abilities: Swift Swim, (Hidden) Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Huntail
 
 

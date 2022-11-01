@@ -1,3 +1,13 @@
+---
+name: Shiftry
+type: Grass, Dark
+abilities: Chlorophyll, Early Bird, Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shiftry
 
 

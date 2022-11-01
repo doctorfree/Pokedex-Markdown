@@ -1,3 +1,13 @@
+---
+name: Igglybuff
+type: Normal, Fairy
+abilities: Cute Charm, Competitive, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Igglybuff
 
 

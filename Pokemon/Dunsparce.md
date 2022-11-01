@@ -1,3 +1,13 @@
+---
+name: Dunsparce
+type: Normal
+abilities: Serene Grace, Run Away, Rattled
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dunsparce
 
 

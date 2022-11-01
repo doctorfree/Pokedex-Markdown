@@ -1,3 +1,13 @@
+---
+name: Golduck
+type: Water
+abilities: Damp, Cloud Nine, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Golduck
 
 

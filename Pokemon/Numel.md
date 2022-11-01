@@ -1,3 +1,13 @@
+---
+name: Numel
+type: Fire, Ground
+abilities: Oblivious, Simple, Own Tempo
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Numel
 
 

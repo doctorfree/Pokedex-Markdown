@@ -1,3 +1,13 @@
+---
+name: Blitzle
+type: Electric
+abilities: Lightning Rod, Motor Drive, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Blitzle
 
 

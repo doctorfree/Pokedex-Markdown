@@ -1,3 +1,13 @@
+---
+name: Regice
+type: Ice
+abilities: Clear Body, (Hidden) Ice Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Regice
 
 

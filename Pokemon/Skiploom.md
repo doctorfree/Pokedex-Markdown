@@ -1,3 +1,13 @@
+---
+name: Skiploom
+type: Grass, Flying
+abilities: Chlorophyll, Leaf Guard, Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Skiploom
 
 

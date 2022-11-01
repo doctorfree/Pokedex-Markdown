@@ -1,3 +1,13 @@
+---
+name: Porygon2
+type: Normal
+abilities: Trace, Download, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Porygon2
 
 

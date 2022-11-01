@@ -1,3 +1,13 @@
+---
+name: Starly
+type: Normal, Flying
+abilities: Keen Eye, (Hidden) Reckless
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Starly
 
 

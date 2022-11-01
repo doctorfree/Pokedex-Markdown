@@ -1,3 +1,13 @@
+---
+name: Spiritomb
+type: Ghost, Dark
+abilities: Pressure, (Hidden) Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spiritomb
 
 

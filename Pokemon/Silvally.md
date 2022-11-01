@@ -1,3 +1,13 @@
+---
+name: Silvally
+type: Normal
+abilities: RKS System
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Silvally
 
 

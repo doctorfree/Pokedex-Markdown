@@ -1,3 +1,13 @@
+---
+name: Moltres
+type: Fire, Flying
+abilities: Pressure, (Hidden) Flame Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Moltres
 
 

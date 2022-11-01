@@ -1,3 +1,13 @@
+---
+name: Bouffalant
+type: Normal
+abilities: Reckless, Sap Sipper, Soundproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bouffalant
 
 

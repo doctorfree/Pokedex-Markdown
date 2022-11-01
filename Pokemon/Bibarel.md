@@ -1,3 +1,13 @@
+---
+name: Bibarel
+type: Normal, Water
+abilities: Simple, Unaware, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bibarel
 
 

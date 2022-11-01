@@ -1,3 +1,13 @@
+---
+name: Magby
+type: Fire
+abilities: Flame Body, (Hidden) Vital Spirit
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Magby
 
 

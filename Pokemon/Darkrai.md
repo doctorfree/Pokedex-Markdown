@@ -1,3 +1,13 @@
+---
+name: Darkrai
+type: Dark
+abilities: Bad Dreams
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Darkrai
 
 

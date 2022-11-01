@@ -1,3 +1,13 @@
+---
+name: Xerneas
+type: Fairy
+abilities: Fairy Aura
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Xerneas
 
 

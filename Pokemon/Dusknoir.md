@@ -1,3 +1,13 @@
+---
+name: Dusknoir
+type: Ghost
+abilities: Pressure, (Hidden) Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dusknoir
 
 

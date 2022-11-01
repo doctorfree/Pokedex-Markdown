@@ -1,3 +1,13 @@
+---
+name: Beautifly
+type: Bug, Flying
+abilities: Swarm, (Hidden) Rivalry
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Beautifly
 
 

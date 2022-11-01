@@ -1,3 +1,13 @@
+---
+name: Bruxish
+type: Water, Psychic
+abilities: Dazzling, Strong Jaw, Wonder Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bruxish
 
 

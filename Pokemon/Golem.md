@@ -1,3 +1,13 @@
+---
+name: Golem
+type: Rock, Ground
+abilities: Rock Head, Sturdy, Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Golem
 
 

@@ -1,3 +1,13 @@
+---
+name: Makuhita
+type: Fighting
+abilities: Thick Fat, Guts, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Makuhita
 
 

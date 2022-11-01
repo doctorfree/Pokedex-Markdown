@@ -1,3 +1,13 @@
+---
+name: Octillery
+type: Water
+abilities: Suction Cups, Sniper, Moody
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Octillery
 
 

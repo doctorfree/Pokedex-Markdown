@@ -1,3 +1,13 @@
+---
+name: Lairon
+type: Steel, Rock
+abilities: Sturdy, Rock Head, Heavy Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lairon
 
 

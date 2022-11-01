@@ -1,3 +1,13 @@
+---
+name: Azelf
+type: Psychic
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Azelf
 
 

@@ -1,3 +1,13 @@
+---
+name: Pignite
+type: Fire, Fighting
+abilities: Blaze, (Hidden) Thick Fat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pignite
 
 

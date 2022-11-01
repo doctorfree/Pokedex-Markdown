@@ -1,3 +1,13 @@
+---
+name: Panpour
+type: Water
+abilities: Gluttony, (Hidden) Torrent
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Panpour
 
 

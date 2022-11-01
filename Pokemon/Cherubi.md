@@ -1,3 +1,13 @@
+---
+name: Cherubi
+type: Grass
+abilities: Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cherubi
 
 

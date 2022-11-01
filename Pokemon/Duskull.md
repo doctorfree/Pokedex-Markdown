@@ -1,3 +1,13 @@
+---
+name: Duskull
+type: Ghost
+abilities: Levitate, (Hidden) Frisk
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Duskull
 
 

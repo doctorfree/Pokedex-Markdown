@@ -1,3 +1,13 @@
+---
+name: Petilil
+type: Grass
+abilities: Chlorophyll, Own Tempo, Leaf Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Petilil
 
 

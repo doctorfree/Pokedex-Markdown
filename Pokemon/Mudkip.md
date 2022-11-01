@@ -1,3 +1,13 @@
+---
+name: Mudkip
+type: Water
+abilities: Torrent, (Hidden) Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mudkip
 
 

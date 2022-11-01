@@ -1,3 +1,13 @@
+---
+name: Sceptile
+type: Grass
+abilities: Overgrow, (Hidden) Unburden
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sceptile
 
 

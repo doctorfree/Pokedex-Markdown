@@ -1,3 +1,13 @@
+---
+name: Shieldon
+type: Rock, Steel
+abilities: Sturdy, (Hidden) Soundproof
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Shieldon
 
 

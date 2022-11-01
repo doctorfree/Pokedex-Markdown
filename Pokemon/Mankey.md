@@ -1,3 +1,13 @@
+---
+name: Mankey
+type: Fighting
+abilities: Vital Spirit, Anger Point, Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mankey
 
 

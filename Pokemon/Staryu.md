@@ -1,3 +1,13 @@
+---
+name: Staryu
+type: Water
+abilities: Illuminate, Natural Cure, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Staryu
 
 

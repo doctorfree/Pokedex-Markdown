@@ -1,3 +1,13 @@
+---
+name: Ninetales
+type: Fire
+abilities: Flash Fire, (Hidden) Drought
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ninetales
 
 

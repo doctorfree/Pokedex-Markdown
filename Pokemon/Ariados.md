@@ -1,3 +1,13 @@
+---
+name: Ariados
+type: Bug, Poison
+abilities: Swarm, Insomnia, Sniper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ariados
 
 

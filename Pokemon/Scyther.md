@@ -1,3 +1,13 @@
+---
+name: Scyther
+type: Bug, Flying
+abilities: Swarm, Technician, Steadfast
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Scyther
 
 

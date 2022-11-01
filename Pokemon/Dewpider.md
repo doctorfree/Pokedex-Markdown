@@ -1,3 +1,13 @@
+---
+name: Dewpider
+type: Water, Bug
+abilities: Water Bubble, (Hidden) Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dewpider
 
 

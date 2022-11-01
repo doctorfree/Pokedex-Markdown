@@ -1,3 +1,13 @@
+---
+name: Pyukumuku
+type: Water
+abilities: Innards Out, (Hidden) Unaware
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pyukumuku
 
 

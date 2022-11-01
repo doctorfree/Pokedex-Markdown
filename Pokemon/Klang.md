@@ -1,3 +1,13 @@
+---
+name: Klang
+type: Steel
+abilities: Plus, Minus, Clear Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Klang
 
 

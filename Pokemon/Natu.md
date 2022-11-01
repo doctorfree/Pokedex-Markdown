@@ -1,3 +1,13 @@
+---
+name: Natu
+type: Psychic, Flying
+abilities: Synchronize, Early Bird, Magic Bounce
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Natu
 
 

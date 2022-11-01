@@ -1,3 +1,13 @@
+---
+name: Grubbin
+type: Bug
+abilities: Swarm
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Grubbin
 
 

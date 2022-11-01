@@ -1,3 +1,13 @@
+---
+name: Solgaleo
+type: Psychic, Steel
+abilities: Full Metal Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Solgaleo
 
 

@@ -1,3 +1,13 @@
+---
+name: Girafarig
+type: Normal, Psychic
+abilities: Inner Focus, Early Bird, Sap Sipper
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Girafarig
 
 

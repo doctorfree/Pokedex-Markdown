@@ -1,3 +1,13 @@
+---
+name: Pachirisu
+type: Electric
+abilities: Run Away, Pickup, Volt Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pachirisu
 
 

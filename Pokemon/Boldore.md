@@ -1,3 +1,13 @@
+---
+name: Boldore
+type: Rock
+abilities: Sturdy, Weak Armor, Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Boldore
 
 

@@ -1,3 +1,13 @@
+---
+name: Psyduck
+type: Water
+abilities: Damp, Cloud Nine, Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Psyduck
 
 

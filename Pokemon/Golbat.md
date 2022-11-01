@@ -1,3 +1,13 @@
+---
+name: Golbat
+type: Poison, Flying
+abilities: Inner Focus, (Hidden) Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Golbat
 
 

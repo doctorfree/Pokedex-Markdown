@@ -1,3 +1,13 @@
+---
+name: Prinplup
+type: Water
+abilities: Torrent, (Hidden) Defiant
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Prinplup
 
 

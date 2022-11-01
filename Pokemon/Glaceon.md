@@ -1,3 +1,13 @@
+---
+name: Glaceon
+type: Ice
+abilities: Snow Cloak, (Hidden) Ice Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Glaceon
 
 

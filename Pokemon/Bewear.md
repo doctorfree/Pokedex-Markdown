@@ -1,3 +1,13 @@
+---
+name: Bewear
+type: Normal, Fighting
+abilities: Fluffy, Klutz, Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bewear
 
 

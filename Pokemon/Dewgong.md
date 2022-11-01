@@ -1,3 +1,13 @@
+---
+name: Dewgong
+type: Water, Ice
+abilities: Thick Fat, Hydration, Ice Body
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dewgong
 
 

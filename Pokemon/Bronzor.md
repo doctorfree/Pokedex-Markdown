@@ -1,3 +1,13 @@
+---
+name: Bronzor
+type: Steel, Psychic
+abilities: Levitate, Heatproof, Heavy Metal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Bronzor
 
 

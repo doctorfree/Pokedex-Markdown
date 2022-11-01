@@ -1,3 +1,13 @@
+---
+name: Leafeon
+type: Grass
+abilities: Leaf Guard, (Hidden) Chlorophyll
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Leafeon
 
 

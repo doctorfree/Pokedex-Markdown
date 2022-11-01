@@ -1,3 +1,13 @@
+---
+name: Volcanion
+type: Fire, Water
+abilities: Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Volcanion
 
 

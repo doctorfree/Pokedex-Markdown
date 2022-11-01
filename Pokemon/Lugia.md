@@ -1,3 +1,13 @@
+---
+name: Lugia
+type: Psychic, Flying
+abilities: Pressure, (Hidden) Multiscale
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lugia
 
 

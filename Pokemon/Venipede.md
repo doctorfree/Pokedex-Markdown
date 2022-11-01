@@ -1,3 +1,13 @@
+---
+name: Venipede
+type: Bug, Poison
+abilities: Poison Point, Swarm, Speed Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Venipede
 
 

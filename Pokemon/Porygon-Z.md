@@ -1,3 +1,13 @@
+---
+name: Porygon-Z
+type: Normal
+abilities: Adaptability, Download, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Porygon-Z
 
 

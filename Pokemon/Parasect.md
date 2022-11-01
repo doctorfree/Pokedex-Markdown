@@ -1,3 +1,13 @@
+---
+name: Parasect
+type: Bug, Grass
+abilities: Effect Spore, Dry Skin, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Parasect
 
 

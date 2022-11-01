@@ -1,3 +1,13 @@
+---
+name: Cacturne
+type: Grass, Dark
+abilities: Sand Veil, (Hidden) Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cacturne
 
 

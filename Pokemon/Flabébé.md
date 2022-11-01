@@ -1,3 +1,13 @@
+---
+name: Flabébé
+type: Fairy
+abilities: Flower Veil, (Hidden) Symbiosis
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Flabébé
 
 

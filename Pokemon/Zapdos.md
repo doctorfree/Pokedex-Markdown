@@ -1,3 +1,13 @@
+---
+name: Zapdos
+type: Electric, Flying
+abilities: Pressure, (Hidden) Static
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zapdos
 
 

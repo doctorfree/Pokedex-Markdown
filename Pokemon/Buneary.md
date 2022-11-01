@@ -1,3 +1,13 @@
+---
+name: Buneary
+type: Normal
+abilities: Run Away, Klutz, Limber
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Buneary
 
 

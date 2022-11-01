@@ -1,3 +1,13 @@
+---
+name: Wailmer
+type: Water
+abilities: Water Veil, Oblivious, Pressure
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wailmer
 
 

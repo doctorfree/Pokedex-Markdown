@@ -1,3 +1,13 @@
+---
+name: Archen
+type: Rock, Flying
+abilities: Defeatist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Archen
 
 

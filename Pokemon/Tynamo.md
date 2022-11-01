@@ -1,3 +1,13 @@
+---
+name: Tynamo
+type: Electric
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tynamo
 
 

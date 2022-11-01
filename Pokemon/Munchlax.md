@@ -1,3 +1,13 @@
+---
+name: Munchlax
+type: Normal
+abilities: Pickup, Thick Fat, Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Munchlax
 
 

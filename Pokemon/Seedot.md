@@ -1,3 +1,13 @@
+---
+name: Seedot
+type: Grass
+abilities: Chlorophyll, Early Bird, Pickpocket
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Seedot
 
 

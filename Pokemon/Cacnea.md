@@ -1,3 +1,13 @@
+---
+name: Cacnea
+type: Grass
+abilities: Sand Veil, (Hidden) Water Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cacnea
 
 

@@ -1,3 +1,13 @@
+---
+name: Gastly
+type: Ghost, Poison
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gastly
 
 

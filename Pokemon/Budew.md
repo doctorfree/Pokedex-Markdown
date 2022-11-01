@@ -1,3 +1,13 @@
+---
+name: Budew
+type: Grass, Poison
+abilities: Natural Cure, Poison Point, Leaf Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Budew
 
 

@@ -1,3 +1,13 @@
+---
+name: Geodude
+type: Rock, Ground
+abilities: Rock Head, Sturdy, Sand Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Geodude
 
 

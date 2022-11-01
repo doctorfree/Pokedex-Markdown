@@ -1,3 +1,13 @@
+---
+name: Mantine
+type: Water, Flying
+abilities: Swift Swim, Water Absorb, Water Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mantine
 
 

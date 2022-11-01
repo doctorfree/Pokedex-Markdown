@@ -1,3 +1,13 @@
+---
+name: Venomoth
+type: Bug, Poison
+abilities: Shield Dust, Tinted Lens, Wonder Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Venomoth
 
 

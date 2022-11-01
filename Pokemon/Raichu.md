@@ -1,3 +1,13 @@
+---
+name: Raichu
+type: Electric
+abilities: Static, (Hidden) Lightning Rod
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Raichu
 
 

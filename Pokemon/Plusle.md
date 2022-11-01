@@ -1,3 +1,13 @@
+---
+name: Plusle
+type: Electric
+abilities: Plus, (Hidden) Lightning Rod
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Plusle
 
 

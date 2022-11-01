@@ -1,3 +1,13 @@
+---
+name: Caterpie
+type: Bug
+abilities: Shield Dust, (Hidden) Run Away
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Caterpie
 
 

@@ -1,3 +1,13 @@
+---
+name: Tangrowth
+type: Grass
+abilities: Chlorophyll, Leaf Guard, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tangrowth
 
 

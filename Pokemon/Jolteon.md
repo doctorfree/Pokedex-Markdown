@@ -1,3 +1,13 @@
+---
+name: Jolteon
+type: Electric
+abilities: Volt Absorb, (Hidden) Quick Feet
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jolteon
 
 

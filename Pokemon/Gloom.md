@@ -1,3 +1,13 @@
+---
+name: Gloom
+type: Grass, Poison
+abilities: Chlorophyll, (Hidden) Stench
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gloom
 
 

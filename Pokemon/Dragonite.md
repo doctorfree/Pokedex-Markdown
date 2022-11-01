@@ -1,3 +1,13 @@
+---
+name: Dragonite
+type: Dragon, Flying
+abilities: Inner Focus, (Hidden) Multiscale
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Dragonite
 
 

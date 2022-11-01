@@ -1,3 +1,13 @@
+---
+name: Genesect
+type: Bug, Steel
+abilities: Download
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Genesect
 
 

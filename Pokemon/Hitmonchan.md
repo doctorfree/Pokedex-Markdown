@@ -1,3 +1,13 @@
+---
+name: Hitmonchan
+type: Fighting
+abilities: Keen Eye, Iron Fist, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hitmonchan
 
 

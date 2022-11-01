@@ -1,3 +1,13 @@
+---
+name: Burmy
+type: Bug
+abilities: Shed Skin, (Hidden) Overcoat
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Burmy
 
 

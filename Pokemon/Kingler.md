@@ -1,3 +1,13 @@
+---
+name: Kingler
+type: Water
+abilities: Hyper Cutter, Shell Armor, Sheer Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kingler
 
 

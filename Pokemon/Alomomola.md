@@ -1,3 +1,13 @@
+---
+name: Alomomola
+type: Water
+abilities: Healer, Hydration, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Alomomola
 
 

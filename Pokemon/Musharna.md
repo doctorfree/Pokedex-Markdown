@@ -1,3 +1,13 @@
+---
+name: Musharna
+type: Psychic
+abilities: Forewarn, Synchronize, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Musharna
 
 

@@ -1,3 +1,13 @@
+---
+name: Seviper
+type: Poison
+abilities: Shed Skin, (Hidden) Infiltrator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Seviper
 
 

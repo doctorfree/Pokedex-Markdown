@@ -1,3 +1,13 @@
+---
+name: Floette
+type: Fairy
+abilities: Flower Veil, (Hidden) Symbiosis
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Floette
 
 

@@ -1,3 +1,13 @@
+---
+name: Pupitar
+type: Rock, Ground
+abilities: Shed Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pupitar
 
 

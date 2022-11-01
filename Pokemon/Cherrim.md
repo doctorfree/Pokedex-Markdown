@@ -1,3 +1,13 @@
+---
+name: Cherrim
+type: Grass
+abilities: Flower Gift
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Cherrim
 
 

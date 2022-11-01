@@ -1,3 +1,13 @@
+---
+name: Stoutland
+type: Normal
+abilities: Intimidate, Sand Rush, Scrappy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Stoutland
 
 

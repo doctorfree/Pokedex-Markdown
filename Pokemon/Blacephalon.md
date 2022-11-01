@@ -1,3 +1,13 @@
+---
+name: Blacephalon
+type: Fire, Ghost
+abilities: Beast Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Blacephalon
 
 

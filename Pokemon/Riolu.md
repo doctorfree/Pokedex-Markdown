@@ -1,3 +1,13 @@
+---
+name: Riolu
+type: Fighting
+abilities: Steadfast, Inner Focus, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Riolu
 
 

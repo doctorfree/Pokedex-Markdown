@@ -1,3 +1,13 @@
+---
+name: Relicanth
+type: Water, Rock
+abilities: Swift Swim, Rock Head, Sturdy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Relicanth
 
 

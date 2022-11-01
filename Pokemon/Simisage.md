@@ -1,3 +1,13 @@
+---
+name: Simisage
+type: Grass
+abilities: Gluttony, (Hidden) Overgrow
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Simisage
 
 

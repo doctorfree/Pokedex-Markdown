@@ -1,3 +1,13 @@
+---
+name: Blastoise
+type: Water
+abilities: Torrent, (Hidden) Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Blastoise
 
 

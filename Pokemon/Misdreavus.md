@@ -1,3 +1,13 @@
+---
+name: Misdreavus
+type: Ghost
+abilities: Levitate
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Misdreavus
 
 

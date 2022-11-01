@@ -1,3 +1,13 @@
+---
+name: Silcoon
+type: Bug
+abilities: Shed Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Silcoon
 
 

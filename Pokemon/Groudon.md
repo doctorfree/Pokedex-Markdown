@@ -1,3 +1,13 @@
+---
+name: Groudon
+type: Ground
+abilities: Drought
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Groudon
 
 

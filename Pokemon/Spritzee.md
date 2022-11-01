@@ -1,3 +1,13 @@
+---
+name: Spritzee
+type: Fairy
+abilities: Healer, (Hidden) Aroma Veil
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spritzee
 
 

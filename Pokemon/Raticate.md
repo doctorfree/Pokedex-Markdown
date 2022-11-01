@@ -1,3 +1,13 @@
+---
+name: Raticate
+type: Normal
+abilities: Run Away, Guts, Hustle
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Raticate
 
 

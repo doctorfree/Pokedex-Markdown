@@ -1,3 +1,13 @@
+---
+name: Ludicolo
+type: Water, Grass
+abilities: Swift Swim, Rain Dish, Own Tempo
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Ludicolo
 
 

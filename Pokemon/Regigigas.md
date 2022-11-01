@@ -1,3 +1,13 @@
+---
+name: Regigigas
+type: Normal
+abilities: Slow Start
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Regigigas
 
 

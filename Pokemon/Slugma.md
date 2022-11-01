@@ -1,3 +1,13 @@
+---
+name: Slugma
+type: Fire
+abilities: Magma Armor, Flame Body, Weak Armor
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Slugma
 
 

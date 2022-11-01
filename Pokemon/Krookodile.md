@@ -1,3 +1,13 @@
+---
+name: Krookodile
+type: Ground, Dark
+abilities: Intimidate, Moxie, Anger Point
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Krookodile
 
 

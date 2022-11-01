@@ -1,3 +1,13 @@
+---
+name: Sliggoo
+type: Dragon
+abilities: Sap Sipper, Hydration, Gooey
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sliggoo
 
 

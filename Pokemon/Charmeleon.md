@@ -1,3 +1,13 @@
+---
+name: Charmeleon
+type: Fire
+abilities: Blaze, (Hidden) Solar Power
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Charmeleon
 
 

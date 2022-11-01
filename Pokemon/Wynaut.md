@@ -1,3 +1,13 @@
+---
+name: Wynaut
+type: Psychic
+abilities: Shadow Tag, (Hidden) Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wynaut
 
 

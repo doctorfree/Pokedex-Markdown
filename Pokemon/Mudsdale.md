@@ -1,3 +1,13 @@
+---
+name: Mudsdale
+type: Ground
+abilities: Own Tempo, Stamina, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mudsdale
 
 

@@ -1,3 +1,13 @@
+---
+name: Gliscor
+type: Ground, Flying
+abilities: Hyper Cutter, Sand Veil, Poison Heal
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Gliscor
 
 

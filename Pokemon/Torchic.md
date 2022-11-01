@@ -1,3 +1,13 @@
+---
+name: Torchic
+type: Fire
+abilities: Blaze, (Hidden) Speed Boost
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Torchic
 
 

@@ -1,3 +1,13 @@
+---
+name: Armaldo
+type: Rock, Bug
+abilities: Battle Armor, (Hidden) Swift Swim
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Armaldo
 
 

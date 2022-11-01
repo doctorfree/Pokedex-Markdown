@@ -1,3 +1,13 @@
+---
+name: Salamence
+type: Dragon, Flying
+abilities: Intimidate, (Hidden) Moxie
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Salamence
 
 

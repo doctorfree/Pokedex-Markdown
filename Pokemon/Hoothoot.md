@@ -1,3 +1,13 @@
+---
+name: Hoothoot
+type: Normal, Flying
+abilities: Insomnia, Keen Eye, Tinted Lens
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hoothoot
 
 

@@ -1,3 +1,13 @@
+---
+name: Tyranitar
+type: Rock, Dark
+abilities: Sand Stream, (Hidden) Unnerve
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tyranitar
 
 

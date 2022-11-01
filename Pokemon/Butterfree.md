@@ -1,3 +1,13 @@
+---
+name: Butterfree
+type: Bug, Flying
+abilities: Compound Eyes, (Hidden) Tinted Lens
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Butterfree
 
 

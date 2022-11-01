@@ -1,3 +1,13 @@
+---
+name: Corsola
+type: Water, Rock
+abilities: Hustle, Natural Cure, Regenerator
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Corsola
 
 

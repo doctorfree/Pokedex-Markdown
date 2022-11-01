@@ -1,3 +1,13 @@
+---
+name: Hippowdon
+type: Ground
+abilities: Sand Stream, (Hidden) Sand Force
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hippowdon
 
 

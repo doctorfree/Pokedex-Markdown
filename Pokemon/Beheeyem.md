@@ -1,3 +1,13 @@
+---
+name: Beheeyem
+type: Psychic
+abilities: Telepathy, Synchronize, Analytic
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Beheeyem
 
 

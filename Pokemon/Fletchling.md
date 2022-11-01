@@ -1,3 +1,13 @@
+---
+name: Fletchling
+type: Normal, Flying
+abilities: Big Pecks, (Hidden) Gale Wings
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Fletchling
 
 

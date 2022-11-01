@@ -1,3 +1,13 @@
+---
+name: Comfey
+type: Fairy
+abilities: Flower Veil, Triage, Natural Cure
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Comfey
 
 

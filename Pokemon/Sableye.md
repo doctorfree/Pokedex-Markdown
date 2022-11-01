@@ -1,3 +1,13 @@
+---
+name: Sableye
+type: Dark, Ghost
+abilities: Keen Eye, Stall, Prankster
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Sableye
 
 

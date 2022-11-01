@@ -1,3 +1,13 @@
+---
+name: Kyurem
+type: Dragon, Ice
+abilities: Pressure
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Kyurem
 
 

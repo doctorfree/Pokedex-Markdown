@@ -1,3 +1,13 @@
+---
+name: Tentacool
+type: Water, Poison
+abilities: Clear Body, Liquid Ooze, Rain Dish
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Tentacool
 
 

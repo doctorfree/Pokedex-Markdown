@@ -1,3 +1,13 @@
+---
+name: Delcatty
+type: Normal
+abilities: Cute Charm, Normalize, Wonder Skin
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Delcatty
 
 

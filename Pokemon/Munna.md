@@ -1,3 +1,13 @@
+---
+name: Munna
+type: Psychic
+abilities: Forewarn, Synchronize, Telepathy
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Munna
 
 

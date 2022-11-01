@@ -1,3 +1,13 @@
+---
+name: Jellicent
+type: Water, Ghost
+abilities: Water Absorb, Cursed Body, Damp
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jellicent
 
 

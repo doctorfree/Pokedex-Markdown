@@ -1,3 +1,13 @@
+---
+name: Zeraora
+type: Electric
+abilities: Volt Absorb
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Zeraora
 
 

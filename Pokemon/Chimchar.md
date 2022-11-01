@@ -1,3 +1,13 @@
+---
+name: Chimchar
+type: Fire
+abilities: Blaze, (Hidden) Iron Fist
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Chimchar
 
 

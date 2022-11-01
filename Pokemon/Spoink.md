@@ -1,3 +1,13 @@
+---
+name: Spoink
+type: Psychic
+abilities: Thick Fat, Own Tempo, Gluttony
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Spoink
 
 

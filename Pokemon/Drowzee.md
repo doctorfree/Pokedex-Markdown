@@ -1,3 +1,13 @@
+---
+name: Drowzee
+type: Psychic
+abilities: Insomnia, Forewarn, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Drowzee
 
 

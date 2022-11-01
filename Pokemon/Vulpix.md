@@ -1,3 +1,13 @@
+---
+name: Vulpix
+type: Fire
+abilities: Flash Fire, (Hidden) Drought
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Vulpix
 
 

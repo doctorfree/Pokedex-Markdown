@@ -1,3 +1,13 @@
+---
+name: Mudbray
+type: Ground
+abilities: Own Tempo, Stamina, Inner Focus
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Mudbray
 
 

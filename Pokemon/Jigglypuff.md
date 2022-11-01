@@ -1,3 +1,13 @@
+---
+name: Jigglypuff
+type: Normal, Fairy
+abilities: Cute Charm, Competitive, Friend Guard
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Jigglypuff
 
 
