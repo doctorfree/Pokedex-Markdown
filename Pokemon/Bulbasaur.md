@@ -10,7 +10,6 @@ categories:
 
 # Bulbasaur
 
-
 ![Bulbasaur](images/001.png)
 
 | **Name** | **J-name** |**Tm-name** |**Index** |**Type 1** |**Type 2** |
@@ -21,7 +20,7 @@ categories:
 |----|----|----|----|----|----|
 | Seed | 2'04" | 0.7 | 15.2 | 6.9 | d |
 
-| **Ability 1** |**Ability d** | **Egg Group n** | **Egg Group 1** | **Egg Group 2** | **Egg Cycles** |
+| **Ability 1** |**Ability 2** | **Egg Group n** | **Egg Group 1** | **Egg Group 2** | **Egg Cycles** |
 |----|----|----|----|----|----|
 | Overgrow | Chlorophyll | 2 | Monster | Grass | 20 |
 
