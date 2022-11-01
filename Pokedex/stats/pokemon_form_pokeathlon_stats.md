@@ -2780,3 +2780,11 @@ categories:
 | 10065           | 3                  | 1            | 3         | 5            |
 | 10065           | 4                  | 1            | 1         | 3            |
 | 10065           | 5                  | 2            | 3         | 4            |
+
+## See also
+
+- [Pokeathlon stat names](pokeathlon_stat_names.md)
+- [Pokeathlon stats](pokeathlon_stats.md)
+- [Pokemon stats](pokemon_stats.md)
+- [Stat names](stat_names.md)
+- [Stats](stats.md)

@@ -8,6 +8,10 @@ categories:
 
 # Abilities
 
+Pok&#x00e9;mon Abilities (&#x7279;&#x6027;, Tokusei) are special attributes which were introduced in Pok&#x00e9;mon Ruby and Sapphire. Specific species of Pok&#x00e9;mon have one to three possible Abilities, with individual Pok&#x00e9;mon exhibiting one Ability each. Unlike the moves a Pok&#x00e9;mon knows, its Ability cannot normally change. Abilities can strengthen a Pok&#x00e9;mon's statistics or weaken a foe, inflict status effects such as paralysis or poisoning, or perform other effects. Some Abilities may also grant immunities or resistances. Most Abilities can only be activated during a battle, however, some Abilities have effects outside of Pok&#x00e9;mon battles. For example, a Pok&#x00e9;mon with the Ability Intimidate will cause the player to encounter lower-level wild Pok&#x00e9;mon less often.
+
+## Pok&#x00e9;mon abilities
+
 | **Id** | **Identifier** | **Generation id** | **Is main series** |
 |--------|----------------|-------------------|--------------------|
 | 1     | stench           | 3             | 1              |

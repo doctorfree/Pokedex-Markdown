@@ -6,7 +6,9 @@ categories:
     - pokemon
 ---
 
-# Pokemon evolution
+# Pok&#x00e9;mon evolution
+
+Evolution (&#x9032;&#x5316;, shinka) is a sudden change in form of a Pok&#x00e9;mon, usually accompanied by an increase in stat values. There are several different conditions that can trigger evolution in different species; the most common is gaining enough battle experience and "leveling up". There are many other factors that can determine if, when, and into what, different Pok&#x00e9;mon will evolve. The original alternate methods were the use of items called evolutionary stones or by trading the Pok&#x00e9;mon to another player. Later additions to the pool of conditions for evolution include dependence on the Pok&#x00e9;mon's friendship level, the time of day in the game, carrying a unique item while being traded, the gender, or the area in the game where the Pok&#x00e9;mon levels up.
 
 | **Id**  | **Evolved species id** | **Evolution trigger id** | **Trigger item id** | **Minimum level** | **Gender id** | **Location id** | **Held item id** | **Time of day** | **Known move id** | **Known move type id** | **Minimum happiness** | **Minimum beauty** | **Minimum affection** | **Relative physical stats** | **Party species id** | **Party type id** | **Trade species id** | **Needs overworld rain** | **Turn upside down** |
 |---------|------------------------|--------------------------|---------------------|-------------------|---------------|-----------------|------------------|-----------------|-------------------|------------------------|-----------------------|--------------------|-----------------------|-----------------------------|----------------------|-------------------|----------------------|--------------------------|----------------------|

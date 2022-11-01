@@ -25,3 +25,11 @@ categories:
 | 5                  | 5                 | Saut      |
 | 5                  | 7                 | Salto     |
 | 5                  | 9                 | Jump      |
+
+## See also
+
+- [Pokeathlon stats](pokeathlon_stats.md)
+- [Pokemon form pokeathlon stats](pokemon_form_pokeathlon_stats.md)
+- [Pokemon stats](pokemon_stats.md)
+- [Stat names](stat_names.md)
+- [Stats](stats.md)

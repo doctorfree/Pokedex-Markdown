@@ -66,3 +66,11 @@ categories:
 | 8       | 7                 | Evasión             |
 | 8       | 8                 | elusione            |
 | 8       | 9                 | evasion             |
+
+## See also
+
+- [Pokeathlon stat names](pokeathlon_stat_names.md)
+- [Pokeathlon stats](pokeathlon_stats.md)
+- [Pokemon form pokeathlon stats](pokemon_form_pokeathlon_stats.md)
+- [Pokemon stats](pokemon_stats.md)
+- [Stats](stats.md)
