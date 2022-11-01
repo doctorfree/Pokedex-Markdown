@@ -7,7 +7,7 @@
 |----|----|----|----|----|----|
 | Bulbasaur | &#x30d5;&#x30b7&#x30ae&#x30c0&#x30cd | Fushigidane | 001 | Grass | Poison |
 
-| **Category** |**Height ft/in** |**Height m** | **Weight lbs** | **Weight kg** | **Ability n** |
+| **Genus** |**Height ft/in** |**Height m** | **Weight lbs** | **Weight kg** | **Ability n** |
 |----|----|----|----|----|----|
 | Seed | 2'04" | 0.7 | 15.2 | 6.9 | d |
 
