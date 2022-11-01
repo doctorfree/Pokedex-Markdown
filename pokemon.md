@@ -47,6 +47,7 @@ Jump directly to one of the Pokédex categories:
 
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
+| 000 | [MissingNo](Pokemon/MissingNo.md) | Bird / ![Normal](Pokemon/gif/Type_Normal.gif)| ![MissingNo](Pokemon/images/000.png)|
 | 001 | [Bulbasaur](Pokemon/Bulbasaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif)/![Poison](Pokemon/gif/Type_Poison.gif) | ![Bulbasaur](Pokemon/images/001.png)|
 | 002 | [Ivysaur](Pokemon/Ivysaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Ivysaur](Pokemon/images/002.png)|
 | 003 | [Venusaur](Pokemon/Venusaur.md) | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Venusaur](Pokemon/images/003.png)|
