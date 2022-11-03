@@ -2,6 +2,13 @@
 name: Omanyte
 type: Rock, Water
 abilities: Swift Swim, Shell Armor, Weak Armor
+hitpoints: 35
+attack: 40
+defense: 100
+specialattack: 90
+specialdefense: 55
+speed: 35
+total: 355
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Omanyte** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 138 | Omanyte | 138 | 4 | 75 | 71 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Sylveon
 type: Fairy
 abilities: Cute Charm, (Hidden) Pixilate
+hitpoints: 95
+attack: 65
+defense: 65
+specialattack: 110
+specialdefense: 130
+speed: 60
+total: 525
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sylveon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 700 | Sylveon | 700 | 10 | 235 | 184 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -108,7 +108,7 @@ Table of Pokémon types, abilities, and data:
 |![](Pokemon/thumbnails/080.png)|[Slowbro](Pokemon/Slowbro.md) (Mega)|Water, Psychic|Shell Armor|95|75|180|130|80|30|590|Monster, Water 1 |
 |![](Pokemon/thumbnails/081.png)|[Magnemite](Pokemon/Magnemite.md)|Electric, Steel|Magnet Pull, Sturdy, Analytic|25|35|70|95|55|45|325|Mineral |
 |![](Pokemon/thumbnails/082.png)|[Magneton](Pokemon/Magneton.md)|Electric, Steel|Magnet Pull, Sturdy, Analytic|50|60|95|120|70|70|465|Mineral |
-|![](Pokemon/thumbnails/083.png)|[Farfetch'd](Pokemon/Farfetch'd.md)|Normal, Flying|Keen Eye, Inner Focus, Defiant|52|90|55|58|62|60|377|Flying, Field |
+|![](Pokemon/thumbnails/083.png)|[Farfetch'd](Pokemon/Farfetchd.md)|Normal, Flying|Keen Eye, Inner Focus, Defiant|52|90|55|58|62|60|377|Flying, Field |
 |![](Pokemon/thumbnails/084.png)|[Doduo](Pokemon/Doduo.md)|Normal, Flying|Run Away, Early Bird, Tangled Feet|35|85|45|35|35|75|310|Flying |
 |![](Pokemon/thumbnails/085.png)|[Dodrio](Pokemon/Dodrio.md)|Normal, Flying|Run Away, Early Bird, Tangled Feet|60|110|70|60|60|110|470|Flying |
 |![](Pokemon/thumbnails/086.png)|[Seel](Pokemon/Seel.md)|Water|Thick Fat, Hydration, Ice Body|65|45|55|45|70|45|325|Water 1, Field |

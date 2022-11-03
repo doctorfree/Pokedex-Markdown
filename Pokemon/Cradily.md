@@ -2,6 +2,13 @@
 name: Cradily
 type: Rock, Grass
 abilities: Suction Cups, (Hidden) Storm Drain
+hitpoints: 86
+attack: 81
+defense: 97
+specialattack: 81
+specialdefense: 107
+speed: 43
+total: 495
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cradily** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 346 | Cradily | 346 | 15 | 604 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Snover
 type: Grass, Ice
 abilities: Snow Warning, (Hidden) Soundproof
+hitpoints: 60
+attack: 62
+defense: 50
+specialattack: 62
+specialdefense: 60
+speed: 40
+total: 334
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Snover** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 459 | Snover | 459 | 10 | 505 | 67 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

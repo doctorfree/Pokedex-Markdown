@@ -2,6 +2,13 @@
 name: Flygon
 type: Ground, Dragon
 abilities: Levitate
+hitpoints: 80
+attack: 100
+defense: 80
+specialattack: 80
+specialdefense: 80
+speed: 100
+total: 520
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Flygon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 330 | Flygon | 330 | 20 | 820 | 260 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

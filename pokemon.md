@@ -733,7 +733,7 @@ Browse the [National Pokédex](national_pokedex.md).
 |659|||![](Pokemon/images/659.png)|
 |660|||![](Pokemon/images/660.png)|
 |661|||![](Pokemon/images/661.png)|
-|662|||![](Pokemon/images/662r.png)|
+|662|||![](Pokemon/images/662.png)|
 |663|||![](Pokemon/images/663.png)|
 |664|||![](Pokemon/images/664.png)|
 |665|||![](Pokemon/images/665.png)|
@@ -811,7 +811,7 @@ Browse the [National Pokédex](national_pokedex.md).
 |737|||![](Pokemon/images/737.png)|
 |738|||![](Pokemon/images/738.png)|
 |739|||![](Pokemon/images/739.png)|
-|740|||![](Pokemon/images/740le.png)|
+|740|||![](Pokemon/images/740.png)|
 |741|||![](Pokemon/images/741.png)|
 |742|||![](Pokemon/images/742.png)|
 |743|||![](Pokemon/images/743.png)|

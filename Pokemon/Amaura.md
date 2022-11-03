@@ -2,6 +2,13 @@
 name: Amaura
 type: Rock, Ice
 abilities: Refrigerate, (Hidden) Snow Warning
+hitpoints: 77
+attack: 59
+defense: 50
+specialattack: 67
+specialdefense: 63
+speed: 46
+total: 362
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Amaura** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 698 | Amaura | 698 | 13 | 252 | 72 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 77 | 59 | 50 | 67 | 63 | 46 | 362 |
 
 ## See also
 

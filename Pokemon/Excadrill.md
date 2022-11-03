@@ -2,6 +2,13 @@
 name: Excadrill
 type: Ground, Steel
 abilities: Sand Rush, Sand Force, Mold Breaker
+hitpoints: 110
+attack: 135
+defense: 60
+specialattack: 50
+specialdefense: 65
+speed: 88
+total: 508
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Excadrill** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 530 | Excadrill | 530 | 7 | 404 | 178 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

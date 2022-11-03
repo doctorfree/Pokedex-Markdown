@@ -2,6 +2,13 @@
 name: Hypno
 type: Psychic
 abilities: Insomnia, Forewarn, Inner Focus
+hitpoints: 85
+attack: 73
+defense: 70
+specialattack: 73
+specialdefense: 115
+speed: 67
+total: 483
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Hypno** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 97 | Hypno | 97 | 16 | 756 | 169 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

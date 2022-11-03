@@ -2,6 +2,13 @@
 name: Suicune
 type: Water
 abilities: Pressure, (Hidden) Inner Focus
+hitpoints: 100
+attack: 75
+defense: 115
+specialattack: 90
+specialdefense: 115
+speed: 85
+total: 580
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Suicune** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 245 | Suicune | 245 | 20 | 1870 | 290 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

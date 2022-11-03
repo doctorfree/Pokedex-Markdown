@@ -2,6 +2,13 @@
 name: Masquerain
 type: Bug, Flying
 abilities: Intimidate, (Hidden) Unnerve
+hitpoints: 70
+attack: 60
+defense: 62
+specialattack: 100
+specialdefense: 82
+speed: 80
+total: 454
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Masquerain** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 284 | Masquerain | 284 | 8 | 36 | 159 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

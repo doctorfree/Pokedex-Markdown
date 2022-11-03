@@ -2,6 +2,13 @@
 name: Banette
 type: Ghost
 abilities: Insomnia, Frisk, Cursed Body
+hitpoints: 64
+attack: 115
+defense: 65
+specialattack: 83
+specialdefense: 63
+speed: 65
+total: 455
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Banette** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 354 | Banette | 354 | 11 | 125 | 159 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

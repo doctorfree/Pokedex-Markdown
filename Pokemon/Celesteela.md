@@ -2,6 +2,13 @@
 name: Celesteela
 type: Steel, Flying
 abilities: Beast Boost
+hitpoints: 97
+attack: 101
+defense: 103
+specialattack: 107
+specialdefense: 101
+speed: 61
+total: 570
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Celesteela** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 797 | Celesteela | 797 | 92 | 9999 | 285 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -1,3 +1,20 @@
+---
+name: Darmanitan
+type: Fire, Psychic
+abilities: Sheer Force, (Hidden) Zen Mode
+hitpoints: 105
+attack: 30
+defense: 105
+specialattack: 140
+specialdefense: 105
+speed: 55
+total: 540
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Darmanitan
 
 
@@ -8,6 +25,18 @@
 | Darmanitan | 555 | Ice form=Galar  |  |
 
 **Darmanitan** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 555 | 17 | 1200 | 189 |
 
 ## See also
 

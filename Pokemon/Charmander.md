@@ -2,6 +2,13 @@
 name: Charmander
 type: Fire
 abilities: Blaze, (Hidden) Solar Power
+hitpoints: 39
+attack: 52
+defense: 43
+specialattack: 60
+specialdefense: 50
+speed: 65
+total: 309
 tags:
     - pokemon
 categories:
@@ -23,14 +30,19 @@ Charmander is one of three 'starter' Pok&#x00e9;mon that can be selected at the 
 
 Charmander evolves into [Charmeleon](Charmeleon.md) at level 16, who then evolves into [Charizard](Charizard.md) at level 36, which was originally its last form. Since the release of Pok&#x00e9;mon X and Y, Charizard can mega evolve into 2 different types of Mega Charizard, which are Mega Charizard X or Mega Charizard Y, for the duration of a battle. This gives it temporary upgraded stats and a major damage bonus. Charmander made the cut and in 2019 returned in Pok&#x00e9;mon Sword and Shield.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 4 | Charmander | 4 | 6 | 85 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

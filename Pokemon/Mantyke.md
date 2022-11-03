@@ -2,6 +2,13 @@
 name: Mantyke
 type: Water, Flying
 abilities: Swift Swim, Water Absorb, Water Veil
+hitpoints: 45
+attack: 20
+defense: 50
+specialattack: 60
+specialdefense: 120
+speed: 50
+total: 345
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mantyke** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 458 | Mantyke | 458 | 10 | 650 | 69 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

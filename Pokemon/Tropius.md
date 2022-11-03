@@ -2,6 +2,13 @@
 name: Tropius
 type: Grass, Flying
 abilities: Chlorophyll, Solar Power, Harvest
+hitpoints: 99
+attack: 68
+defense: 83
+specialattack: 72
+specialdefense: 87
+speed: 51
+total: 460
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tropius** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 357 | Tropius | 357 | 20 | 1000 | 161 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Piplup
 type: Water
 abilities: Torrent, (Hidden) Defiant
+hitpoints: 53
+attack: 51
+defense: 53
+specialattack: 61
+specialdefense: 56
+speed: 40
+total: 314
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Piplup** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 393 | Piplup | 393 | 4 | 52 | 63 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

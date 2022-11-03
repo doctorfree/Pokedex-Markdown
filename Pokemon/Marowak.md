@@ -2,6 +2,13 @@
 name: Marowak
 type: Ground
 abilities: Rock Head, Lightning Rod, Battle Armor
+hitpoints: 60
+attack: 80
+defense: 110
+specialattack: 50
+specialdefense: 80
+speed: 45
+total: 425
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Marowak** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 105 | Marowak | 105 | 10 | 450 | 149 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

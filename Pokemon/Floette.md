@@ -2,6 +2,13 @@
 name: Floette
 type: Fairy
 abilities: Flower Veil, (Hidden) Symbiosis
+hitpoints: 54
+attack: 45
+defense: 47
+specialattack: 75
+specialdefense: 98
+speed: 52
+total: 371
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Floette** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 670 | Floette | 670 | 2 | 9 | 130 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

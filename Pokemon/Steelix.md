@@ -2,6 +2,13 @@
 name: Steelix
 type: Steel, Ground
 abilities: Rock Head, Sturdy, Sheer Force
+hitpoints: 75
+attack: 85
+defense: 200
+specialattack: 55
+specialdefense: 65
+speed: 30
+total: 510
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Steelix** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 208 | Steelix | 208 | 92 | 4000 | 179 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

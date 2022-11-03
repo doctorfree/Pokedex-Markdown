@@ -2,6 +2,13 @@
 name: Goldeen
 type: Water
 abilities: Swift Swim, Water Veil, Lightning Rod
+hitpoints: 45
+attack: 67
+defense: 60
+specialattack: 35
+specialdefense: 50
+speed: 63
+total: 320
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Goldeen** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 118 | Goldeen | 118 | 6 | 150 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

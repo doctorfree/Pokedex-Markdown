@@ -2,6 +2,13 @@
 name: Morelull
 type: Grass, Fairy
 abilities: Illuminate, Effect Spore, Rain Dish
+hitpoints: 40
+attack: 35
+defense: 55
+specialattack: 65
+specialdefense: 75
+speed: 15
+total: 285
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Morelull** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 755 | Morelull | 755 | 2 | 15 | 57 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

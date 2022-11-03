@@ -2,6 +2,13 @@
 name: Igglybuff
 type: Normal, Fairy
 abilities: Cute Charm, Competitive, Friend Guard
+hitpoints: 90
+attack: 30
+defense: 15
+specialattack: 40
+specialdefense: 20
+speed: 15
+total: 210
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Igglybuff** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 174 | Igglybuff | 174 | 3 | 10 | 42 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

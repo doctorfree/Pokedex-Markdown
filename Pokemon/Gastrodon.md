@@ -2,6 +2,13 @@
 name: Gastrodon
 type: Water, Ground
 abilities: Sticky Hold, Storm Drain, Sand Force
+hitpoints: 111
+attack: 83
+defense: 68
+specialattack: 92
+specialdefense: 82
+speed: 39
+total: 475
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gastrodon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 423 | Gastrodon | 423 | 9 | 299 | 166 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

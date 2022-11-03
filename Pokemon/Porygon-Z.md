@@ -2,6 +2,13 @@
 name: Porygon-Z
 type: Normal
 abilities: Adaptability, Download, Analytic
+hitpoints: 85
+attack: 80
+defense: 70
+specialattack: 135
+specialdefense: 75
+speed: 90
+total: 535
 tags:
     - pokemon
 categories:
@@ -18,6 +25,18 @@ categories:
 | Porygon-Z | 474 | Normal  |  |
 
 **Porygon-Z** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 474 | 9 | 340 | 268 |
 
 ## See also
 

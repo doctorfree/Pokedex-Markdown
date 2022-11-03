@@ -2,6 +2,13 @@
 name: Barbaracle
 type: Rock, Water
 abilities: Tough Claws, Sniper, Pickpocket
+hitpoints: 72
+attack: 105
+defense: 115
+specialattack: 54
+specialdefense: 86
+speed: 68
+total: 500
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Barbaracle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 689 | Barbaracle | 689 | 13 | 960 | 175 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

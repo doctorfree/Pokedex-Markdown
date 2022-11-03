@@ -2,6 +2,13 @@
 name: Primeape
 type: Fighting
 abilities: Vital Spirit, Anger Point, Defiant
+hitpoints: 65
+attack: 105
+defense: 60
+specialattack: 60
+specialdefense: 70
+speed: 95
+total: 455
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Primeape** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 57 | Primeape | 57 | 10 | 320 | 159 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Greninja
 type: Water, Dark
 abilities: Torrent, (Hidden) Protean
+hitpoints: 72
+attack: 95
+defense: 67
+specialattack: 103
+specialdefense: 71
+speed: 122
+total: 530
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Greninja** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 658 | Greninja | 658 | 15 | 400 | 239 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

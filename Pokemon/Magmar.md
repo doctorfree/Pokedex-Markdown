@@ -2,6 +2,13 @@
 name: Magmar
 type: Fire
 abilities: Flame Body, (Hidden) Vital Spirit
+hitpoints: 65
+attack: 95
+defense: 57
+specialattack: 100
+specialdefense: 85
+speed: 93
+total: 495
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Magmar** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 126 | Magmar | 126 | 13 | 445 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

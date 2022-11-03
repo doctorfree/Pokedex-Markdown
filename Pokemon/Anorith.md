@@ -2,6 +2,13 @@
 name: Anorith
 type: Rock, Bug
 abilities: Battle Armor, (Hidden) Swift Swim
+hitpoints: 45
+attack: 95
+defense: 50
+specialattack: 40
+specialdefense: 50
+speed: 75
+total: 355
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Anorith** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 347 | Anorith | 347 | 7 | 125 | 71 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 45 | 95 | 50 | 40 | 50 | 75 | 355 |
 
 ## See also
 

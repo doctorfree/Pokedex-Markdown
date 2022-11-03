@@ -2,6 +2,13 @@
 name: Fletchinder
 type: Fire, Flying
 abilities: Flame Body, (Hidden) Gale Wings
+hitpoints: 62
+attack: 73
+defense: 55
+specialattack: 56
+specialdefense: 52
+speed: 84
+total: 382
 tags:
     - pokemon
 categories:
@@ -11,7 +18,7 @@ categories:
 # Fletchinder
 
 
-![Fletchinder](images/662r.png)
+![Fletchinder](images/662.png)
 
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|
@@ -20,14 +27,19 @@ categories:
 **Fletchinder** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 662 | Fletchinder | 662 | 7 | 160 | 134 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

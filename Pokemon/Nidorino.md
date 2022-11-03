@@ -2,6 +2,13 @@
 name: Nidorino
 type: Poison
 abilities: Poison Point, Rivalry, Hustle
+hitpoints: 61
+attack: 72
+defense: 57
+specialattack: 55
+specialdefense: 55
+speed: 65
+total: 365
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Nidorino** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 33 | Nidorino | 33 | 9 | 195 | 128 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

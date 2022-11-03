@@ -2,6 +2,13 @@
 name: Magmortar
 type: Fire
 abilities: Flame Body, (Hidden) Vital Spirit
+hitpoints: 75
+attack: 95
+defense: 67
+specialattack: 125
+specialdefense: 95
+speed: 83
+total: 540
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Magmortar** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 467 | Magmortar | 467 | 16 | 680 | 270 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

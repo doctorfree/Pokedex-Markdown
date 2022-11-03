@@ -2,6 +2,13 @@
 name: Sandile
 type: Ground, Dark
 abilities: Intimidate, Moxie, Anger Point
+hitpoints: 50
+attack: 72
+defense: 35
+specialattack: 35
+specialdefense: 35
+speed: 65
+total: 292
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sandile** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 551 | Sandile | 551 | 7 | 152 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

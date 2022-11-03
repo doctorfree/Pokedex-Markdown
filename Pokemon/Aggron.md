@@ -2,6 +2,13 @@
 name: Aggron
 type: Steel, Rock
 abilities: Sturdy, Rock Head, Heavy Metal
+hitpoints: 70
+attack: 110
+defense: 180
+specialattack: 60
+specialdefense: 60
+speed: 50
+total: 530
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Aggron** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 306 | Aggron | 306 | 21 | 3600 | 265 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 70 | 110 | 180 | 60 | 60 | 50 | 530 |
 
 ## See also
 

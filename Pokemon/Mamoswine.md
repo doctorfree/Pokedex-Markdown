@@ -2,6 +2,13 @@
 name: Mamoswine
 type: Ice, Ground
 abilities: Oblivious, Snow Cloak, Thick Fat
+hitpoints: 110
+attack: 130
+defense: 80
+specialattack: 70
+specialdefense: 60
+speed: 80
+total: 530
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mamoswine** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 473 | Mamoswine | 473 | 25 | 2910 | 265 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

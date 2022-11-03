@@ -2,6 +2,13 @@
 name: Golduck
 type: Water
 abilities: Damp, Cloud Nine, Swift Swim
+hitpoints: 80
+attack: 82
+defense: 78
+specialattack: 95
+specialdefense: 80
+speed: 85
+total: 500
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Golduck** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 55 | Golduck | 55 | 17 | 766 | 175 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

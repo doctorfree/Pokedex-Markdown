@@ -2,6 +2,13 @@
 name: Bunnelby
 type: Normal
 abilities: Pickup, Cheek Pouch, Huge Power
+hitpoints: 38
+attack: 36
+defense: 38
+specialattack: 32
+specialdefense: 36
+speed: 57
+total: 237
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Bunnelby** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 659 | Bunnelby | 659 | 4 | 50 | 47 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Woobat
 type: Psychic, Flying
 abilities: Unaware, Klutz, Simple
+hitpoints: 65
+attack: 45
+defense: 43
+specialattack: 55
+specialdefense: 43
+speed: 72
+total: 323
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Woobat** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 527 | Woobat | 527 | 4 | 21 | 65 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

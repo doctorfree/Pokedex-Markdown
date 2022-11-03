@@ -2,6 +2,13 @@
 name: Tyrogue
 type: Fighting
 abilities: Guts, Steadfast, Vital Spirit
+hitpoints: 35
+attack: 35
+defense: 35
+specialattack: 35
+specialdefense: 35
+speed: 35
+total: 210
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tyrogue** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 236 | Tyrogue | 236 | 7 | 210 | 42 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

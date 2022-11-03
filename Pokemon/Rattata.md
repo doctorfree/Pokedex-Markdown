@@ -2,6 +2,13 @@
 name: Rattata
 type: Normal
 abilities: Run Away, Guts, Hustle
+hitpoints: 30
+attack: 56
+defense: 35
+specialattack: 25
+specialdefense: 35
+speed: 72
+total: 253
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Rattata** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 19 | Rattata | 19 | 3 | 35 | 51 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

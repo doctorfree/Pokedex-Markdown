@@ -2,6 +2,13 @@
 name: Torterra
 type: Grass, Ground
 abilities: Overgrow, (Hidden) Shell Armor
+hitpoints: 95
+attack: 109
+defense: 105
+specialattack: 75
+specialdefense: 85
+speed: 56
+total: 525
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Torterra** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 389 | Torterra | 389 | 22 | 3100 | 236 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

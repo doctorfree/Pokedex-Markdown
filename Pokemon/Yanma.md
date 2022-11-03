@@ -2,6 +2,13 @@
 name: Yanma
 type: Bug, Flying
 abilities: Speed Boost, Compound Eyes, Frisk
+hitpoints: 65
+attack: 65
+defense: 45
+specialattack: 75
+specialdefense: 45
+speed: 95
+total: 390
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Yanma** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 193 | Yanma | 193 | 12 | 380 | 78 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

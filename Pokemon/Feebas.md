@@ -2,6 +2,13 @@
 name: Feebas
 type: Water
 abilities: Swift Swim, Oblivious, Adaptability
+hitpoints: 20
+attack: 15
+defense: 20
+specialattack: 10
+specialdefense: 55
+speed: 80
+total: 200
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Feebas** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 349 | Feebas | 349 | 6 | 74 | 40 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

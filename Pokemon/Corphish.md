@@ -2,6 +2,13 @@
 name: Corphish
 type: Water
 abilities: Hyper Cutter, Shell Armor, Adaptability
+hitpoints: 43
+attack: 80
+defense: 65
+specialattack: 50
+specialdefense: 35
+speed: 35
+total: 308
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Corphish** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 341 | Corphish | 341 | 6 | 115 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

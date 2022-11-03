@@ -2,6 +2,13 @@
 name: Vanillish
 type: Ice
 abilities: Ice Body, Snow Cloak, Weak Armor
+hitpoints: 51
+attack: 65
+defense: 65
+specialattack: 80
+specialdefense: 75
+speed: 59
+total: 395
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Vanillish** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 583 | Vanillish | 583 | 11 | 410 | 138 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

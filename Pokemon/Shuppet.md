@@ -2,6 +2,13 @@
 name: Shuppet
 type: Ghost
 abilities: Insomnia, Frisk, Cursed Body
+hitpoints: 44
+attack: 75
+defense: 35
+specialattack: 63
+specialdefense: 33
+speed: 45
+total: 295
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Shuppet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 353 | Shuppet | 353 | 6 | 23 | 59 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

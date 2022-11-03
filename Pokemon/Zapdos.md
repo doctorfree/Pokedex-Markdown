@@ -2,6 +2,13 @@
 name: Zapdos
 type: Electric, Flying
 abilities: Pressure, (Hidden) Static
+hitpoints: 90
+attack: 90
+defense: 85
+specialattack: 125
+specialdefense: 90
+speed: 100
+total: 580
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Zapdos** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 145 | Zapdos | 145 | 16 | 526 | 290 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

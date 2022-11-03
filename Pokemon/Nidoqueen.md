@@ -2,6 +2,13 @@
 name: Nidoqueen
 type: Poison, Ground
 abilities: Poison Point, Rivalry, Sheer Force
+hitpoints: 90
+attack: 92
+defense: 87
+specialattack: 75
+specialdefense: 85
+speed: 76
+total: 505
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Nidoqueen** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 31 | Nidoqueen | 31 | 13 | 600 | 253 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -1,3 +1,20 @@
+---
+name: Meloetta
+type: Normal, Fighting
+abilities: Serene Grace
+hitpoints: 100
+attack: 128
+defense: 90
+specialattack: 77
+specialdefense: 77
+speed: 128
+total: 600
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Meloetta
 
 
@@ -8,6 +25,18 @@
 | Meloetta | 648 | Normal | Psychic  |
 
 **Meloetta** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 648 | 6 | 65 | 270 |
 
 ## See also
 

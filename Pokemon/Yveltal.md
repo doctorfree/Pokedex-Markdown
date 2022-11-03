@@ -2,6 +2,13 @@
 name: Yveltal
 type: Dark, Flying
 abilities: Dark Aura
+hitpoints: 126
+attack: 131
+defense: 95
+specialattack: 131
+specialdefense: 98
+speed: 99
+total: 680
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Yveltal** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 717 | Yveltal | 717 | 58 | 2030 | 340 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

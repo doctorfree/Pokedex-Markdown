@@ -2,6 +2,13 @@
 name: Mightyena
 type: Dark
 abilities: Intimidate, Quick Feet, Moxie
+hitpoints: 70
+attack: 90
+defense: 70
+specialattack: 60
+specialdefense: 60
+speed: 70
+total: 420
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mightyena** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 262 | Mightyena | 262 | 10 | 370 | 147 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

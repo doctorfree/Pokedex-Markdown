@@ -2,6 +2,13 @@
 name: Skiploom
 type: Grass, Flying
 abilities: Chlorophyll, Leaf Guard, Infiltrator
+hitpoints: 55
+attack: 45
+defense: 50
+specialattack: 45
+specialdefense: 65
+speed: 80
+total: 340
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Skiploom** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 188 | Skiploom | 188 | 6 | 10 | 119 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Ditto
 type: Normal
 abilities: Limber, (Hidden) Imposter
+hitpoints: 48
+attack: 48
+defense: 48
+specialattack: 48
+specialdefense: 48
+speed: 48
+total: 288
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ditto** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 132 | Ditto | 132 | 3 | 40 | 101 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

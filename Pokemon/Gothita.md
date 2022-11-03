@@ -2,6 +2,13 @@
 name: Gothita
 type: Psychic
 abilities: Frisk, Competitive, Shadow Tag
+hitpoints: 45
+attack: 30
+defense: 50
+specialattack: 55
+specialdefense: 65
+speed: 45
+total: 290
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gothita** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 574 | Gothita | 574 | 4 | 58 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

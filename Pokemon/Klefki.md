@@ -2,6 +2,13 @@
 name: Klefki
 type: Steel, Fairy
 abilities: Prankster, (Hidden) Magician
+hitpoints: 57
+attack: 80
+defense: 91
+specialattack: 80
+specialdefense: 87
+speed: 75
+total: 470
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Klefki** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 707 | Klefki | 707 | 2 | 30 | 165 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

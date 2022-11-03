@@ -2,6 +2,13 @@
 name: Gligar
 type: Ground, Flying
 abilities: Hyper Cutter, Sand Veil, Immunity
+hitpoints: 65
+attack: 75
+defense: 105
+specialattack: 35
+specialdefense: 65
+speed: 85
+total: 430
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gligar** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 207 | Gligar | 207 | 11 | 648 | 86 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

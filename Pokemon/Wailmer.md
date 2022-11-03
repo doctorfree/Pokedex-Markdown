@@ -2,6 +2,13 @@
 name: Wailmer
 type: Water
 abilities: Water Veil, Oblivious, Pressure
+hitpoints: 130
+attack: 70
+defense: 35
+specialattack: 70
+specialdefense: 35
+speed: 60
+total: 400
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wailmer** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 320 | Wailmer | 320 | 20 | 1300 | 80 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

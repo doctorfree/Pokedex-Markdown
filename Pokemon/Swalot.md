@@ -2,6 +2,13 @@
 name: Swalot
 type: Poison
 abilities: Liquid Ooze, Sticky Hold, Gluttony
+hitpoints: 100
+attack: 73
+defense: 83
+specialattack: 73
+specialdefense: 83
+speed: 55
+total: 467
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Swalot** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 317 | Swalot | 317 | 17 | 800 | 163 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

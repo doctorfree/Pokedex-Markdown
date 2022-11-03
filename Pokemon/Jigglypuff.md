@@ -2,6 +2,13 @@
 name: Jigglypuff
 type: Normal, Fairy
 abilities: Cute Charm, Competitive, Friend Guard
+hitpoints: 115
+attack: 45
+defense: 20
+specialattack: 45
+specialdefense: 25
+speed: 20
+total: 270
 tags:
     - pokemon
 categories:
@@ -23,14 +30,19 @@ Known as the Balloon Pok&#x00e9;mon, Jigglypuff evolves from [Igglybuff](Igglybu
 
 Jigglypuff can inflate its body like a balloon (usually when it becomes angry; this is accompanied by a distinctive "honk" sound), or flatten its body, much like fellow Nintendo character Kirby. An exact limit to the size it can grow to in this manner is unknown. Jigglypuff are characterized by putting their enemies to sleep by singing a lullaby. Before beginning to sing, they mesmerize the opponent with their soft, glowing eyes and, if they inflate themselves, they can sing for longer periods of time. They can easily adjust the wavelength of their voices to that of the brain waves of a sleeping being, allowing for their pleasing melody to put its audience to sleep. They sing without pausing to take a breath, so if the opponent is resistant to sleeping, they potentially run out of air.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 39 | Jigglypuff | 39 | 5 | 55 | 95 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

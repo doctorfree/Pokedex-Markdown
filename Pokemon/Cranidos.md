@@ -2,6 +2,13 @@
 name: Cranidos
 type: Rock
 abilities: Mold Breaker, (Hidden) Sheer Force
+hitpoints: 67
+attack: 125
+defense: 40
+specialattack: 30
+specialdefense: 30
+speed: 58
+total: 350
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cranidos** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 408 | Cranidos | 408 | 9 | 315 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

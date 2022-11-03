@@ -2,6 +2,13 @@
 name: Togekiss
 type: Fairy, Flying
 abilities: Hustle, Serene Grace, Super Luck
+hitpoints: 85
+attack: 50
+defense: 95
+specialattack: 120
+specialdefense: 115
+speed: 80
+total: 545
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Togekiss** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 468 | Togekiss | 468 | 15 | 380 | 273 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

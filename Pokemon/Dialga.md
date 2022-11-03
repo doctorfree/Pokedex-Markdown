@@ -2,6 +2,13 @@
 name: Dialga
 type: Steel, Dragon
 abilities: Pressure, (Hidden) Telepathy
+hitpoints: 100
+attack: 120
+defense: 120
+specialattack: 150
+specialdefense: 100
+speed: 90
+total: 680
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dialga** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 483 | Dialga | 483 | 54 | 6830 | 340 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

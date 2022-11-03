@@ -2,6 +2,13 @@
 name: Sableye
 type: Dark, Ghost
 abilities: Keen Eye, Stall, Prankster
+hitpoints: 50
+attack: 75
+defense: 75
+specialattack: 65
+specialdefense: 65
+speed: 50
+total: 380
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sableye** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 302 | Sableye | 302 | 5 | 110 | 133 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Toxapex
 type: Poison, Water
 abilities: Merciless, Limber, Regenerator
+hitpoints: 50
+attack: 63
+defense: 152
+specialattack: 53
+specialdefense: 142
+speed: 35
+total: 495
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Toxapex** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 748 | Toxapex | 748 | 7 | 145 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

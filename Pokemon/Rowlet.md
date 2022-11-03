@@ -2,6 +2,13 @@
 name: Rowlet
 type: Grass, Flying
 abilities: Overgrow, (Hidden) Long Reach
+hitpoints: 68
+attack: 55
+defense: 55
+specialattack: 50
+specialdefense: 50
+speed: 42
+total: 320
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Rowlet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 722 | Rowlet | 722 | 3 | 15 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

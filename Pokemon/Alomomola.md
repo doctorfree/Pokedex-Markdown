@@ -2,6 +2,13 @@
 name: Alomomola
 type: Water
 abilities: Healer, Hydration, Regenerator
+hitpoints: 165
+attack: 75
+defense: 80
+specialattack: 40
+specialdefense: 45
+speed: 65
+total: 470
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Alomomola** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 594 | Alomomola | 594 | 12 | 316 | 165 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 165 | 75 | 80 | 40 | 45 | 65 | 470 |
 
 ## See also
 

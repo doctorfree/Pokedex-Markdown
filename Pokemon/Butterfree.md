@@ -2,6 +2,13 @@
 name: Butterfree
 type: Bug, Flying
 abilities: Compound Eyes, (Hidden) Tinted Lens
+hitpoints: 60
+attack: 45
+defense: 50
+specialattack: 90
+specialdefense: 80
+speed: 70
+total: 395
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Butterfree** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 12 | Butterfree | 12 | 11 | 320 | 198 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

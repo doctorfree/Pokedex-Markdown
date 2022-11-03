@@ -2,6 +2,13 @@
 name: Shelmet
 type: Bug
 abilities: Hydration, Shell Armor, Overcoat
+hitpoints: 50
+attack: 40
+defense: 85
+specialattack: 40
+specialdefense: 65
+speed: 25
+total: 305
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Shelmet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 616 | Shelmet | 616 | 4 | 77 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

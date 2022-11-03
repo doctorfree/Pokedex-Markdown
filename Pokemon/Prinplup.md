@@ -2,6 +2,13 @@
 name: Prinplup
 type: Water
 abilities: Torrent, (Hidden) Defiant
+hitpoints: 64
+attack: 66
+defense: 68
+specialattack: 81
+specialdefense: 76
+speed: 50
+total: 405
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Prinplup** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 394 | Prinplup | 394 | 8 | 230 | 142 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

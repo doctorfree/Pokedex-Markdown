@@ -2,6 +2,13 @@
 name: Natu
 type: Psychic, Flying
 abilities: Synchronize, Early Bird, Magic Bounce
+hitpoints: 40
+attack: 50
+defense: 45
+specialattack: 70
+specialdefense: 45
+speed: 70
+total: 320
 tags:
     - pokemon
 categories:
@@ -13,21 +20,26 @@ categories:
 
 ![Natu](images/177.png)
 
-| **Name** | **Index** | **Type 1** | **Type 2** |
-|----|----|----|----|
-| Natu | 177 | Psychic | Flying  |
+| **Name** | **Index** | **Type 1** | **Type 2** | **Abilities** |
+|----|----|----|----|----|
+| Natu | 177 | Psychic | Flying  | Synchronize, Early Bird, Magic Bounce |
 
 **Natu** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 177 | Natu | 177 | 2 | 20 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

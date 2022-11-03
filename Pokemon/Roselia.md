@@ -2,6 +2,13 @@
 name: Roselia
 type: Grass, Poison
 abilities: Natural Cure, Poison Point, Leaf Guard
+hitpoints: 50
+attack: 60
+defense: 45
+specialattack: 100
+specialdefense: 80
+speed: 65
+total: 400
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Roselia** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 315 | Roselia | 315 | 3 | 20 | 140 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

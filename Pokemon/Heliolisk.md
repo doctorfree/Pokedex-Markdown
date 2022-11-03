@@ -2,6 +2,13 @@
 name: Heliolisk
 type: Electric, Normal
 abilities: Dry Skin, Sand Veil, Solar Power
+hitpoints: 62
+attack: 55
+defense: 52
+specialattack: 109
+specialdefense: 94
+speed: 109
+total: 481
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Heliolisk** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 695 | Heliolisk | 695 | 10 | 210 | 168 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

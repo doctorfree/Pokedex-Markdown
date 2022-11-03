@@ -1,3 +1,20 @@
+---
+name: Pumpkaboo
+type: Ghost, Grass
+abilities: Pickup, Frisk, Insomnia
+hitpoints: 59
+attack: 66
+defense: 70
+specialattack: 44
+specialdefense: 55
+speed: 41
+total: 335
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Pumpkaboo
 
 
@@ -8,6 +25,18 @@
 | Pumpkaboo | 710 | Ghost | Grass  |
 
 **Pumpkaboo** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 710 | 8 | 150 | 67 |
 
 ## See also
 

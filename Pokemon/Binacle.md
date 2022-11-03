@@ -2,6 +2,13 @@
 name: Binacle
 type: Rock, Water
 abilities: Tough Claws, Sniper, Pickpocket
+hitpoints: 42
+attack: 52
+defense: 67
+specialattack: 39
+specialdefense: 56
+speed: 50
+total: 306
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Binacle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 688 | Binacle | 688 | 5 | 310 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Wigglytuff
 type: Normal, Fairy
 abilities: Cute Charm, Competitive, Frisk
+hitpoints: 140
+attack: 70
+defense: 45
+specialattack: 85
+specialdefense: 50
+speed: 45
+total: 435
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wigglytuff** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 40 | Wigglytuff | 40 | 10 | 120 | 218 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

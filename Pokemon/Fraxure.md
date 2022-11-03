@@ -2,6 +2,13 @@
 name: Fraxure
 type: Dragon
 abilities: Rivalry, Mold Breaker, Unnerve
+hitpoints: 66
+attack: 117
+defense: 70
+specialattack: 40
+specialdefense: 50
+speed: 67
+total: 410
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Fraxure** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 611 | Fraxure | 611 | 10 | 360 | 144 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

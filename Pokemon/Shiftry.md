@@ -2,6 +2,13 @@
 name: Shiftry
 type: Grass, Dark
 abilities: Chlorophyll, Early Bird, Pickpocket
+hitpoints: 90
+attack: 100
+defense: 60
+specialattack: 90
+specialdefense: 60
+speed: 80
+total: 480
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Shiftry** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 275 | Shiftry | 275 | 13 | 596 | 240 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

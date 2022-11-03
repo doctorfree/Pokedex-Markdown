@@ -2,6 +2,13 @@
 name: Larvesta
 type: Bug, Fire
 abilities: Flame Body, (Hidden) Swarm
+hitpoints: 55
+attack: 85
+defense: 55
+specialattack: 50
+specialdefense: 55
+speed: 60
+total: 360
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Larvesta** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 636 | Larvesta | 636 | 11 | 288 | 72 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

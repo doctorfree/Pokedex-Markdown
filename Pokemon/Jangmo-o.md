@@ -2,6 +2,13 @@
 name: Jangmo-o
 type: Dragon
 abilities: Bulletproof, Soundproof, Overcoat
+hitpoints: 45
+attack: 55
+defense: 65
+specialattack: 45
+specialdefense: 45
+speed: 45
+total: 300
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Jangmo-o** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 782 | Jangmo-o | 782 | 6 | 297 | 60 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Quagsire
 type: Water, Ground
 abilities: Damp, Water Absorb, Unaware
+hitpoints: 95
+attack: 85
+defense: 85
+specialattack: 65
+specialdefense: 65
+speed: 35
+total: 430
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Quagsire** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 195 | Quagsire | 195 | 14 | 750 | 151 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

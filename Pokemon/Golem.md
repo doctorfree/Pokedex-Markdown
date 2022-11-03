@@ -2,6 +2,13 @@
 name: Golem
 type: Rock, Ground
 abilities: Rock Head, Sturdy, Sand Veil
+hitpoints: 80
+attack: 120
+defense: 130
+specialattack: 55
+specialdefense: 65
+speed: 45
+total: 495
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Golem** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 76 | Golem | 76 | 14 | 3000 | 223 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

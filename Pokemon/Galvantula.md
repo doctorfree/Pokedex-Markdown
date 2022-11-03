@@ -2,6 +2,13 @@
 name: Galvantula
 type: Bug, Electric
 abilities: Compound Eyes, Unnerve, Swarm
+hitpoints: 70
+attack: 77
+defense: 60
+specialattack: 97
+specialdefense: 60
+speed: 108
+total: 472
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Galvantula** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 596 | Galvantula | 596 | 8 | 143 | 165 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

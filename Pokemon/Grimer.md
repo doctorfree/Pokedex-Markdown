@@ -2,6 +2,13 @@
 name: Grimer
 type: Poison
 abilities: Stench, Sticky Hold, Poison Touch
+hitpoints: 80
+attack: 80
+defense: 50
+specialattack: 40
+specialdefense: 50
+speed: 25
+total: 325
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Grimer** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 88 | Grimer | 88 | 9 | 300 | 65 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

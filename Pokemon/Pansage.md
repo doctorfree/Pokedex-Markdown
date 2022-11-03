@@ -2,6 +2,13 @@
 name: Pansage
 type: Grass
 abilities: Gluttony, (Hidden) Overgrow
+hitpoints: 50
+attack: 53
+defense: 48
+specialattack: 53
+specialdefense: 48
+speed: 64
+total: 316
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pansage** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 511 | Pansage | 511 | 6 | 105 | 63 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

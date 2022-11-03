@@ -2,6 +2,13 @@
 name: Golbat
 type: Poison, Flying
 abilities: Inner Focus, (Hidden) Infiltrator
+hitpoints: 75
+attack: 80
+defense: 70
+specialattack: 65
+specialdefense: 75
+speed: 90
+total: 455
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Golbat** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 42 | Golbat | 42 | 16 | 550 | 159 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

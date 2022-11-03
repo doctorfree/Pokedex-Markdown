@@ -2,6 +2,13 @@
 name: Fennekin
 type: Fire
 abilities: Blaze, (Hidden) Magician
+hitpoints: 40
+attack: 45
+defense: 40
+specialattack: 62
+specialdefense: 60
+speed: 60
+total: 307
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Fennekin** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 653 | Fennekin | 653 | 4 | 94 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Flaaffy
 type: Electric
 abilities: Static, (Hidden) Plus
+hitpoints: 70
+attack: 55
+defense: 55
+specialattack: 80
+specialdefense: 60
+speed: 45
+total: 365
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Flaaffy** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 180 | Flaaffy | 180 | 8 | 133 | 128 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Kingler
 type: Water
 abilities: Hyper Cutter, Shell Armor, Sheer Force
+hitpoints: 55
+attack: 130
+defense: 115
+specialattack: 50
+specialdefense: 50
+speed: 75
+total: 475
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kingler** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 99 | Kingler | 99 | 13 | 600 | 166 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

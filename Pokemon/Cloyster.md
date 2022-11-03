@@ -2,6 +2,13 @@
 name: Cloyster
 type: Water, Ice
 abilities: Shell Armor, Skill Link, Overcoat
+hitpoints: 50
+attack: 95
+defense: 180
+specialattack: 85
+specialdefense: 45
+speed: 70
+total: 525
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cloyster** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 91 | Cloyster | 91 | 15 | 1325 | 184 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

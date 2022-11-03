@@ -2,6 +2,13 @@
 name: Miltank
 type: Normal
 abilities: Thick Fat, Scrappy, Sap Sipper
+hitpoints: 95
+attack: 80
+defense: 105
+specialattack: 40
+specialdefense: 70
+speed: 100
+total: 490
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Miltank** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 241 | Miltank | 241 | 12 | 755 | 172 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Chespin
 type: Grass
 abilities: Overgrow, (Hidden) Bulletproof
+hitpoints: 56
+attack: 61
+defense: 65
+specialattack: 48
+specialdefense: 45
+speed: 38
+total: 313
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Chespin** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 650 | Chespin | 650 | 4 | 90 | 63 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Pelipper
 type: Water, Flying
 abilities: Keen Eye, Drizzle, Rain Dish
+hitpoints: 60
+attack: 50
+defense: 100
+specialattack: 95
+specialdefense: 70
+speed: 65
+total: 440
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pelipper** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 279 | Pelipper | 279 | 12 | 280 | 154 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

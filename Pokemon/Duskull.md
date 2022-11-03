@@ -2,6 +2,13 @@
 name: Duskull
 type: Ghost
 abilities: Levitate, (Hidden) Frisk
+hitpoints: 20
+attack: 40
+defense: 90
+specialattack: 30
+specialdefense: 90
+speed: 25
+total: 295
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Duskull** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 355 | Duskull | 355 | 8 | 150 | 59 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

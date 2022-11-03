@@ -2,6 +2,13 @@
 name: Xurkitree
 type: Electric
 abilities: Beast Boost
+hitpoints: 83
+attack: 89
+defense: 71
+specialattack: 173
+specialdefense: 71
+speed: 83
+total: 570
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Xurkitree** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 796 | Xurkitree | 796 | 38 | 1000 | 285 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

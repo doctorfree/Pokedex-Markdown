@@ -2,6 +2,13 @@
 name: Minun
 type: Electric
 abilities: Minus, (Hidden) Volt Absorb
+hitpoints: 60
+attack: 40
+defense: 50
+specialattack: 75
+specialdefense: 85
+speed: 95
+total: 405
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Minun** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 312 | Minun | 312 | 4 | 42 | 142 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Lotad
 type: Water, Grass
 abilities: Swift Swim, Rain Dish, Own Tempo
+hitpoints: 40
+attack: 30
+defense: 30
+specialattack: 40
+specialdefense: 50
+speed: 30
+total: 220
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Lotad** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 270 | Lotad | 270 | 5 | 26 | 44 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

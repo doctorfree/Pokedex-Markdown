@@ -2,6 +2,13 @@
 name: Mew
 type: Psychic
 abilities: Synchronize
+hitpoints: 100
+attack: 100
+defense: 100
+specialattack: 100
+specialdefense: 100
+speed: 100
+total: 600
 tags:
     - pokemon
 categories:
@@ -27,14 +34,19 @@ Mew is a Psychic-type Pok&#x00e9;mon with high stats. Morimoto designed it as a 
 
 In the video games, it is possible for Mew to learn any move that can be taught (except for signature moves that only certain Pokemon know, unless if Mew uses the move Copycat). In addition to [Ditto](Ditto.md) and [Smeargle](Smeargle.md) (through the Sketch technique), it can "transform" into other Pok&#x00e9;mon. In the anime, it is capable of flight, teleportation, shapeshifting (via the move Transform), rendering itself invisible, and summoning bubbles of psychic energy for protection, amusement, or other purposes.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 151 | Mew | 151 | 4 | 40 | 300 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Aerodactyl
 type: Rock, Flying
 abilities: Rock Head, Pressure, Unnerve
+hitpoints: 80
+attack: 105
+defense: 65
+specialattack: 60
+specialdefense: 75
+speed: 130
+total: 515
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Aerodactyl** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 142 | Aerodactyl | 142 | 18 | 590 | 180 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 80 | 105 | 65 | 60 | 75 | 130 | 515 |
 
 ## See also
 

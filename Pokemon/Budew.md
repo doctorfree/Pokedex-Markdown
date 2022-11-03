@@ -2,6 +2,13 @@
 name: Budew
 type: Grass, Poison
 abilities: Natural Cure, Poison Point, Leaf Guard
+hitpoints: 40
+attack: 30
+defense: 35
+specialattack: 50
+specialdefense: 70
+speed: 55
+total: 280
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Budew** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 406 | Budew | 406 | 2 | 12 | 56 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

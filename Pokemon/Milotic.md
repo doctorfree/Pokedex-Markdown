@@ -2,6 +2,13 @@
 name: Milotic
 type: Water
 abilities: Marvel Scale, Competitive, Cute Charm
+hitpoints: 95
+attack: 60
+defense: 79
+specialattack: 100
+specialdefense: 125
+speed: 81
+total: 540
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Milotic** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 350 | Milotic | 350 | 62 | 1620 | 189 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

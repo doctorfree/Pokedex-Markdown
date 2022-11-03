@@ -2,6 +2,13 @@
 name: Entei
 type: Fire
 abilities: Pressure, (Hidden) Inner Focus
+hitpoints: 115
+attack: 115
+defense: 85
+specialattack: 90
+specialdefense: 75
+speed: 100
+total: 580
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Entei** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 244 | Entei | 244 | 21 | 1980 | 290 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

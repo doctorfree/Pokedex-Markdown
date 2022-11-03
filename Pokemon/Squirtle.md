@@ -2,6 +2,13 @@
 name: Squirtle
 type: Water
 abilities: Torrent, (Hidden) Rain Dish
+hitpoints: 44
+attack: 48
+defense: 65
+specialattack: 50
+specialdefense: 64
+speed: 43
+total: 314
 tags:
     - pokemon
 categories:
@@ -21,14 +28,19 @@ categories:
 
 In the main series games, Squirtle can evolve into [Wartortle](Wartortle.md) at level 16 or 14 depending what game you are playing, which can further evolve into [Blastoise](Blastoise.md) at level 36 or 34. It is known as the "Tiny Turtle Pok&#x00e9;mon". It also appeared in Super Smash Bros. Brawl and Super Smash Bros. Ultimate. Oh and it&#x2019;s also in many different Pok&#x00e9;mon games as a Gen 1 Pok&#x00e9;mon.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 7 | Squirtle | 7 | 5 | 90 | 63 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

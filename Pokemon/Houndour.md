@@ -2,6 +2,13 @@
 name: Houndour
 type: Dark, Fire
 abilities: Early Bird, Flash Fire, Unnerve
+hitpoints: 45
+attack: 60
+defense: 30
+specialattack: 80
+specialdefense: 50
+speed: 65
+total: 330
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Houndour** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 228 | Houndour | 228 | 6 | 108 | 66 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

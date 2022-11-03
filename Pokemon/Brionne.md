@@ -2,6 +2,13 @@
 name: Brionne
 type: Water
 abilities: Torrent, (Hidden) Liquid Voice
+hitpoints: 60
+attack: 69
+defense: 69
+specialattack: 91
+specialdefense: 81
+speed: 50
+total: 420
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Brionne** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 729 | Brionne | 729 | 6 | 175 | 147 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

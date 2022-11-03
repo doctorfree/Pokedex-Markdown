@@ -2,6 +2,13 @@
 name: Vikavolt
 type: Bug, Electric
 abilities: Levitate
+hitpoints: 77
+attack: 70
+defense: 90
+specialattack: 145
+specialdefense: 75
+speed: 43
+total: 500
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Vikavolt** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 738 | Vikavolt | 738 | 15 | 450 | 250 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

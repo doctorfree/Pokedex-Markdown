@@ -2,6 +2,13 @@
 name: Purugly
 type: Normal
 abilities: Thick Fat, Own Tempo, Defiant
+hitpoints: 71
+attack: 82
+defense: 64
+specialattack: 64
+specialdefense: 59
+speed: 112
+total: 452
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Purugly** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 432 | Purugly | 432 | 10 | 438 | 158 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

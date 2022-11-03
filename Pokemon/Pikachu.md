@@ -2,6 +2,13 @@
 name: Pikachu
 type: Electric
 abilities: Static, (Hidden) Lightning Rod
+hitpoints: 35
+attack: 55
+defense: 40
+specialattack: 50
+specialdefense: 50
+speed: 90
+total: 320
 tags:
     - pokemon
 categories:
@@ -27,14 +34,19 @@ Initially, both Pikachu and fellow Pok&#x00e9;mon [Clefairy](Clefairy.md) were c
 
 Pikachu's design has evolved from its once-pudgy body to having a slimmer waist, straighter spine, and more defined face and neck; Sugimori has stated these design changes originated in the anime, making Pikachu easier to animate, and were adopted to the games for consistency. "Fat Pikachu" was revisited in Pok&#x00e9;mon Sword and Shield, where Pikachu received a Gigantamax Form resembling its original design.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 25 | Pikachu | 25 | 4 | 60 | 112 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

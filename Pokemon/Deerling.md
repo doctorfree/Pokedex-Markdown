@@ -2,6 +2,13 @@
 name: Deerling
 type: Normal, Grass
 abilities: Chlorophyll, Sap Sipper, Serene Grace
+hitpoints: 60
+attack: 60
+defense: 50
+specialattack: 40
+specialdefense: 50
+speed: 75
+total: 335
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Deerling** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 585 | Deerling | 585 | 6 | 195 | 67 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

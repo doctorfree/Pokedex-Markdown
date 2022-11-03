@@ -2,6 +2,13 @@
 name: Hariyama
 type: Fighting
 abilities: Thick Fat, Guts, Sheer Force
+hitpoints: 144
+attack: 120
+defense: 60
+specialattack: 40
+specialdefense: 60
+speed: 50
+total: 474
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Hariyama** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 297 | Hariyama | 297 | 23 | 2538 | 166 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

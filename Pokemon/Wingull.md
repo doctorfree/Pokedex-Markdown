@@ -2,6 +2,13 @@
 name: Wingull
 type: Water, Flying
 abilities: Keen Eye, Hydration, Rain Dish
+hitpoints: 40
+attack: 30
+defense: 30
+specialattack: 55
+specialdefense: 30
+speed: 85
+total: 270
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wingull** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 278 | Wingull | 278 | 6 | 95 | 54 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

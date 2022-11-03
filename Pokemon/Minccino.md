@@ -2,6 +2,13 @@
 name: Minccino
 type: Normal
 abilities: Cute Charm, Technician, Skill Link
+hitpoints: 55
+attack: 50
+defense: 40
+specialattack: 40
+specialdefense: 40
+speed: 75
+total: 300
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Minccino** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 572 | Minccino | 572 | 4 | 58 | 60 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

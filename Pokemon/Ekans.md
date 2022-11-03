@@ -2,6 +2,13 @@
 name: Ekans
 type: Poison
 abilities: Intimidate, Shed Skin, Unnerve
+hitpoints: 35
+attack: 60
+defense: 44
+specialattack: 40
+specialdefense: 54
+speed: 55
+total: 288
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ekans** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 23 | Ekans | 23 | 20 | 69 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

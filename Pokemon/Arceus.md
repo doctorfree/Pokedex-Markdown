@@ -2,6 +2,13 @@
 name: Arceus
 type: Normal
 abilities: Multitype
+hitpoints: 120
+attack: 120
+defense: 120
+specialattack: 120
+specialdefense: 120
+speed: 120
+total: 720
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Arceus** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 493 | Arceus | 493 | 32 | 3200 | 324 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 120 | 120 | 120 | 120 | 120 | 120 | 720 |
 
 ## See also
 

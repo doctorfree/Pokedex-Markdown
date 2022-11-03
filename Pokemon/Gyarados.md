@@ -2,6 +2,13 @@
 name: Gyarados
 type: Water, Flying
 abilities: Intimidate, (Hidden) Moxie
+hitpoints: 95
+attack: 125
+defense: 79
+specialattack: 60
+specialdefense: 100
+speed: 81
+total: 540
 tags:
     - pokemon
 categories:
@@ -23,14 +30,19 @@ Gyarados appears multiple times in the anime under various trainers such as Mist
 
 Gyarados is a Pok&#x00e9;mon whose design is inspired by dragons, specifically dragons seen in Chinese mythology. The concept of Magikarp evolving into Gyarados is based on the ancient Chinese tradition that the carp would evolve into a dragon after swimming upstream. Its snakelike body is largely blue, but its underbelly is pale yellow. It has four white fins down its back, and a large and gaping mouth. Gyarados is known for its fierce temper and wanton destructive tendencies. Once it has worked itself into a frenzy, it will not calm until everything around it is destroyed, and can even go on for a whole month. This violent nature is attributed to the dramatic structural changes its brain undergoes during evolution. During times of human conflict Gyarados are said to appear, burning entire cities down to the ground. Gyarados usually live in large bodies of water, such as lakes and ponds or even seas and oceans.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 130 | Gyarados | 130 | 65 | 2350 | 189 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

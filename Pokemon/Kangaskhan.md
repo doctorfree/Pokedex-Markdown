@@ -2,6 +2,13 @@
 name: Kangaskhan
 type: Normal
 abilities: Early Bird, Scrappy, Inner Focus
+hitpoints: 105
+attack: 95
+defense: 80
+specialattack: 40
+specialdefense: 80
+speed: 90
+total: 490
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kangaskhan** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 115 | Kangaskhan | 115 | 22 | 800 | 172 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

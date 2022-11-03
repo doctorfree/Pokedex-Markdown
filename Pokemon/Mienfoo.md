@@ -2,6 +2,13 @@
 name: Mienfoo
 type: Fighting
 abilities: Inner Focus, Regenerator, Reckless
+hitpoints: 45
+attack: 85
+defense: 50
+specialattack: 55
+specialdefense: 50
+speed: 65
+total: 350
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mienfoo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 619 | Mienfoo | 619 | 9 | 200 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

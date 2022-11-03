@@ -2,6 +2,13 @@
 name: Torkoal
 type: Fire
 abilities: White Smoke, Drought, Shell Armor
+hitpoints: 70
+attack: 85
+defense: 140
+specialattack: 85
+specialdefense: 70
+speed: 20
+total: 470
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Torkoal** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 324 | Torkoal | 324 | 5 | 804 | 165 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

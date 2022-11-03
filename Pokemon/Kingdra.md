@@ -2,6 +2,13 @@
 name: Kingdra
 type: Water, Dragon
 abilities: Swift Swim, Sniper, Damp
+hitpoints: 75
+attack: 95
+defense: 95
+specialattack: 95
+specialdefense: 95
+speed: 85
+total: 540
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kingdra** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 230 | Kingdra | 230 | 18 | 1520 | 270 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

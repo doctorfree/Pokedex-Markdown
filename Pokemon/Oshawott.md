@@ -2,6 +2,13 @@
 name: Oshawott
 type: Water
 abilities: Torrent, (Hidden) Shell Armor
+hitpoints: 55
+attack: 55
+defense: 45
+specialattack: 63
+specialdefense: 45
+speed: 45
+total: 308
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Oshawott** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 501 | Oshawott | 501 | 5 | 59 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -1,10 +1,18 @@
 .obsidian/*
+!.obsidian/*.json
 !.obsidian/themes
 .obsidian/themes/*
 !.obsidian/themes/Doctorfree
 .obsidian/themes/Doctorfree/*
 !.obsidian/themes/Doctorfree/manifest.json
 !.obsidian/themes/Doctorfree/theme.css
+!.obsidian/plugins
+.obsidian/plugins/*
+!.obsidian/plugins/dataview
+.obsidian/plugins/dataview/*
+!.obsidian/plugins/dataview/main.js
+!.obsidian/plugins/dataview/manifest.json
+!.obsidian/plugins/dataview/styles.css
 
 .index
 tmp/*

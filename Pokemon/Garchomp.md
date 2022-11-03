@@ -2,6 +2,13 @@
 name: Garchomp
 type: Dragon, Ground
 abilities: Sand Veil, (Hidden) Rough Skin
+hitpoints: 108
+attack: 130
+defense: 95
+specialattack: 80
+specialdefense: 85
+speed: 102
+total: 600
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Garchomp** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 445 | Garchomp | 445 | 19 | 950 | 300 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

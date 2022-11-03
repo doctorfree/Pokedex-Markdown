@@ -2,6 +2,13 @@
 name: Bulbasaur
 type: Grass, Poison
 abilities: Overgrow, (Hidden) Chlorophyll
+hitpoints: 45
+attack: 49
+defense: 49
+specialattack: 65
+specialdefense: 65
+speed: 45
+total: 318
 tags:
     - pokemon
 categories:
@@ -53,6 +60,18 @@ It bears the seed of a plant on its back from birth. The seed slowly develops. R
 Solar Beam is Bulbasaur's strongest attack. Light is collected and formed into a powerful beam with intensive force.
 
 Bulbasaur is a Seed Pokémon. A young Bulbasaur uses the nutrients from its seed for the energy it needs to grow.
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 1 | 7 | 69 | 64 |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Rhyperior
 type: Ground, Rock
 abilities: Lightning Rod, Solid Rock, Reckless
+hitpoints: 115
+attack: 140
+defense: 130
+specialattack: 55
+specialdefense: 55
+speed: 40
+total: 535
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Rhyperior** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 464 | Rhyperior | 464 | 24 | 2828 | 268 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

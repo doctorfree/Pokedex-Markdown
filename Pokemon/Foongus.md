@@ -2,6 +2,13 @@
 name: Foongus
 type: Grass, Poison
 abilities: Effect Spore, (Hidden) Regenerator
+hitpoints: 69
+attack: 55
+defense: 45
+specialattack: 55
+specialdefense: 55
+speed: 15
+total: 294
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Foongus** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 590 | Foongus | 590 | 2 | 10 | 59 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

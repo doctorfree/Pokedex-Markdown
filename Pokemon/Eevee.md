@@ -2,6 +2,13 @@
 name: Eevee
 type: Normal
 abilities: Run Away, Adaptability, Anticipation
+hitpoints: 55
+attack: 55
+defense: 50
+specialattack: 45
+specialdefense: 65
+speed: 55
+total: 325
 tags:
     - pokemon
 categories:
@@ -38,14 +45,19 @@ Eevee is best known for being the Pok&#x00e9;mon with the most potential evoluti
 |[Glaceon](Glaceon.md) |Glacia<br>(&#x30b0;&#x30ec;&#x30a4;&#x30b7;&#x30a2;) |Ice |Ice Stone or Ice Rock |Diamond/Pearl/Platinum |#471 |Fresh Snow Pok&#x00e9;mon |
 |[Sylveon](Sylveon.md) |Nymphia<br>(&#x30cb;&#x30f3;&#x30d5;&#x30a3;&#x30a2;) |Fairy |High affection and knowing a Fairy-type move |X/Y |#700 |Intertwining Pok&#x00e9;mon |
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 133 | Eevee | 133 | 3 | 65 | 65 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

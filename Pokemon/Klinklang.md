@@ -2,6 +2,13 @@
 name: Klinklang
 type: Steel
 abilities: Plus, Minus, Clear Body
+hitpoints: 60
+attack: 100
+defense: 115
+specialattack: 70
+specialdefense: 85
+speed: 90
+total: 520
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Klinklang** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 601 | Klinklang | 601 | 6 | 810 | 260 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

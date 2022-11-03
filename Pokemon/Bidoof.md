@@ -2,6 +2,13 @@
 name: Bidoof
 type: Normal
 abilities: Simple, Unaware, Moody
+hitpoints: 59
+attack: 45
+defense: 40
+specialattack: 35
+specialdefense: 40
+speed: 31
+total: 250
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Bidoof** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 399 | Bidoof | 399 | 5 | 200 | 50 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

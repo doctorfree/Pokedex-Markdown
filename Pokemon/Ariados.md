@@ -2,6 +2,13 @@
 name: Ariados
 type: Bug, Poison
 abilities: Swarm, Insomnia, Sniper
+hitpoints: 70
+attack: 90
+defense: 70
+specialattack: 60
+specialdefense: 70
+speed: 40
+total: 400
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ariados** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 168 | Ariados | 168 | 11 | 335 | 140 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 70 | 90 | 70 | 60 | 70 | 40 | 400 |
 
 ## See also
 

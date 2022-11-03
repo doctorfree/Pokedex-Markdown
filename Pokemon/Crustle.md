@@ -2,6 +2,13 @@
 name: Crustle
 type: Bug, Rock
 abilities: Sturdy, Shell Armor, Weak Armor
+hitpoints: 70
+attack: 105
+defense: 125
+specialattack: 65
+specialdefense: 75
+speed: 45
+total: 485
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Crustle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 558 | Crustle | 558 | 14 | 2000 | 170 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Wobbuffet
 type: Psychic
 abilities: Shadow Tag, (Hidden) Telepathy
+hitpoints: 190
+attack: 33
+defense: 58
+specialattack: 33
+specialdefense: 58
+speed: 33
+total: 405
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wobbuffet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 202 | Wobbuffet | 202 | 13 | 285 | 142 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Mewtwo
 type: Psychic
 abilities: Pressure, (Hidden) Unnerve
+hitpoints: 106
+attack: 110
+defense: 90
+specialattack: 154
+specialdefense: 90
+speed: 130
+total: 680
 tags:
     - pokemon
 categories:
@@ -29,14 +36,19 @@ Although its modified genome resulted in its abilities surpassing Mew's, it also
 
 For the sixth and seventh generations of the Pokemon video game series, Mewtwo has two Mega Evolved forms, Mega Mewtwo X and Mega Mewtwo Y. These can be activated if the player gives Mewtwo either the Mewtwonite X or the Mewtwonite Y.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 150 | Mewtwo | 150 | 20 | 1220 | 340 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

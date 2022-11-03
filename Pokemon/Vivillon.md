@@ -2,6 +2,13 @@
 name: Vivillon
 type: Bug, Flying
 abilities: Shield Dust, Compound Eyes, Friend Guard
+hitpoints: 80
+attack: 52
+defense: 50
+specialattack: 90
+specialdefense: 50
+speed: 89
+total: 411
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Vivillon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 666 | Vivillon | 666 | 12 | 170 | 185 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

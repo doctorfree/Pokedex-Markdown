@@ -2,6 +2,13 @@
 name: Poliwhirl
 type: Water
 abilities: Water Absorb, Damp, Swift Swim
+hitpoints: 65
+attack: 65
+defense: 65
+specialattack: 50
+specialdefense: 50
+speed: 90
+total: 385
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Poliwhirl** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 61 | Poliwhirl | 61 | 10 | 200 | 135 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

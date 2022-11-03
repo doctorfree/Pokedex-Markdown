@@ -2,6 +2,13 @@
 name: Sewaddle
 type: Bug, Grass
 abilities: Swarm, Chlorophyll, Overcoat
+hitpoints: 45
+attack: 53
+defense: 70
+specialattack: 40
+specialdefense: 60
+speed: 42
+total: 310
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sewaddle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 540 | Sewaddle | 540 | 3 | 25 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -10,6 +10,7 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
 
 ## Table of Contents
 
+- [Usage](#usage)
 - [Pokémon](pokemon.md)
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Categories](#pokédex-categories)
@@ -20,6 +21,18 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
     - [CSV to Markdown](#csv-to-markdown)
     - [Split Markdown](#split-markdown)
     - [Splitting large markdown](#splitting-large-markdown)
+
+## Usage
+
+This repository is organized as an Obsidian vault containing the Pokédex in markdown format. It can be viewed using any markdown viewer but if Obsidian is used then many additional features will be available including queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/).
+
+### **For the optimal experience, open this vault in Obsidian!**
+
+1. [Download the vault](https://github.com/doctorfree/Pokedex-Markdown/releases/latest)
+3. Open the vault in Obsidian via "Open another vault -> Open folder as vault"
+4. Trust us. :) 
+5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
+6. Done! The Pokédex Markdown vault is now available to you in its purest and most useful form!
 
 ## Pokémon
 

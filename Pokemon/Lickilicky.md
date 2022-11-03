@@ -2,6 +2,13 @@
 name: Lickilicky
 type: Normal
 abilities: Own Tempo, Oblivious, Cloud Nine
+hitpoints: 110
+attack: 85
+defense: 95
+specialattack: 80
+specialdefense: 95
+speed: 50
+total: 515
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Lickilicky** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 463 | Lickilicky | 463 | 17 | 1400 | 180 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

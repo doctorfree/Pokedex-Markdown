@@ -2,6 +2,13 @@
 name: Noctowl
 type: Normal, Flying
 abilities: Insomnia, Keen Eye, Tinted Lens
+hitpoints: 100
+attack: 50
+defense: 50
+specialattack: 86
+specialdefense: 96
+speed: 70
+total: 452
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Noctowl** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 164 | Noctowl | 164 | 16 | 408 | 158 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

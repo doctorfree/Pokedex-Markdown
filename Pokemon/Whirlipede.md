@@ -2,6 +2,13 @@
 name: Whirlipede
 type: Bug, Poison
 abilities: Poison Point, Swarm, Speed Boost
+hitpoints: 40
+attack: 55
+defense: 99
+specialattack: 40
+specialdefense: 79
+speed: 47
+total: 360
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Whirlipede** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 544 | Whirlipede | 544 | 12 | 585 | 126 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

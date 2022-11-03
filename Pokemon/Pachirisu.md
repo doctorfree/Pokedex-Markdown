@@ -2,6 +2,13 @@
 name: Pachirisu
 type: Electric
 abilities: Run Away, Pickup, Volt Absorb
+hitpoints: 60
+attack: 45
+defense: 70
+specialattack: 45
+specialdefense: 90
+speed: 95
+total: 405
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pachirisu** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 417 | Pachirisu | 417 | 4 | 39 | 142 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

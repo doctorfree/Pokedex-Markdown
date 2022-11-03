@@ -2,6 +2,13 @@
 name: Whimsicott
 type: Grass, Fairy
 abilities: Prankster, Infiltrator, Chlorophyll
+hitpoints: 60
+attack: 67
+defense: 85
+specialattack: 77
+specialdefense: 75
+speed: 116
+total: 480
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Whimsicott** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 547 | Whimsicott | 547 | 7 | 66 | 168 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

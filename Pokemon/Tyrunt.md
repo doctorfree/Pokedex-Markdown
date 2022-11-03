@@ -2,6 +2,13 @@
 name: Tyrunt
 type: Rock, Dragon
 abilities: Strong Jaw, (Hidden) Sturdy
+hitpoints: 58
+attack: 89
+defense: 77
+specialattack: 45
+specialdefense: 45
+speed: 48
+total: 362
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tyrunt** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 696 | Tyrunt | 696 | 8 | 260 | 72 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

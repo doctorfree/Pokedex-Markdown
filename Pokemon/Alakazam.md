@@ -2,6 +2,13 @@
 name: Alakazam
 type: Psychic
 abilities: Synchronize, Inner Focus, Magic Guard
+hitpoints: 55
+attack: 50
+defense: 45
+specialattack: 135
+specialdefense: 95
+speed: 120
+total: 500
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Alakazam** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 65 | Alakazam | 65 | 15 | 480 | 250 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 55 | 50 | 45 | 135 | 95 | 120 | 500 |
 
 ## See also
 

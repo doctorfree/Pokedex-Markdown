@@ -2,6 +2,13 @@
 name: Diglett
 type: Ground
 abilities: Sand Veil, Arena Trap, Sand Force
+hitpoints: 10
+attack: 55
+defense: 25
+specialattack: 35
+specialdefense: 45
+speed: 95
+total: 265
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Diglett** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 50 | Diglett | 50 | 2 | 8 | 53 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

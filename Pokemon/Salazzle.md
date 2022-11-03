@@ -2,6 +2,13 @@
 name: Salazzle
 type: Poison, Fire
 abilities: Corrosion, (Hidden) Oblivious
+hitpoints: 68
+attack: 64
+defense: 60
+specialattack: 111
+specialdefense: 60
+speed: 117
+total: 480
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Salazzle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 758 | Salazzle | 758 | 12 | 222 | 168 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

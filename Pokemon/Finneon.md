@@ -2,6 +2,13 @@
 name: Finneon
 type: Water
 abilities: Swift Swim, Storm Drain, Water Veil
+hitpoints: 49
+attack: 49
+defense: 56
+specialattack: 49
+specialdefense: 61
+speed: 66
+total: 330
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Finneon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 456 | Finneon | 456 | 4 | 70 | 66 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

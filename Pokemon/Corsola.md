@@ -2,6 +2,13 @@
 name: Corsola
 type: Water, Rock
 abilities: Hustle, Natural Cure, Regenerator
+hitpoints: 65
+attack: 55
+defense: 95
+specialattack: 65
+specialdefense: 95
+speed: 35
+total: 410
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Corsola** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 222 | Corsola | 222 | 6 | 50 | 144 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

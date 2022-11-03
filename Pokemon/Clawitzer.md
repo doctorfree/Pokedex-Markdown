@@ -2,6 +2,13 @@
 name: Clawitzer
 type: Water
 abilities: Mega Launcher
+hitpoints: 71
+attack: 73
+defense: 88
+specialattack: 120
+specialdefense: 89
+speed: 59
+total: 500
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Clawitzer** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 693 | Clawitzer | 693 | 13 | 353 | 100 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

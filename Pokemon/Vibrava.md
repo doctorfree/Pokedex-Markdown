@@ -2,6 +2,13 @@
 name: Vibrava
 type: Ground, Dragon
 abilities: Levitate
+hitpoints: 50
+attack: 70
+defense: 50
+specialattack: 50
+specialdefense: 50
+speed: 70
+total: 340
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Vibrava** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 329 | Vibrava | 329 | 11 | 153 | 119 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Archeops
 type: Rock, Flying
 abilities: Defeatist
+hitpoints: 75
+attack: 140
+defense: 65
+specialattack: 112
+specialdefense: 65
+speed: 110
+total: 567
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Archeops** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 567 | Archeops | 567 | 14 | 320 | 177 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 75 | 140 | 65 | 112 | 65 | 110 | 567 |
 
 ## See also
 

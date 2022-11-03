@@ -2,6 +2,13 @@
 name: Gible
 type: Dragon, Ground
 abilities: Sand Veil, (Hidden) Rough Skin
+hitpoints: 58
+attack: 70
+defense: 45
+specialattack: 40
+specialdefense: 45
+speed: 42
+total: 300
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gible** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 443 | Gible | 443 | 7 | 205 | 60 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

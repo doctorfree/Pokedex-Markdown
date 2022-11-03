@@ -2,6 +2,13 @@
 name: Armaldo
 type: Rock, Bug
 abilities: Battle Armor, (Hidden) Swift Swim
+hitpoints: 75
+attack: 125
+defense: 100
+specialattack: 70
+specialdefense: 80
+speed: 45
+total: 495
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Armaldo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 348 | Armaldo | 348 | 15 | 682 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

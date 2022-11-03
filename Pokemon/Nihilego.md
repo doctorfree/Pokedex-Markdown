@@ -2,6 +2,13 @@
 name: Nihilego
 type: Rock, Poison
 abilities: Beast Boost
+hitpoints: 109
+attack: 53
+defense: 47
+specialattack: 127
+specialdefense: 131
+speed: 103
+total: 570
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Nihilego** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 793 | Nihilego | 793 | 12 | 555 | 285 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

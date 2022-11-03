@@ -2,6 +2,13 @@
 name: Cubone
 type: Ground
 abilities: Rock Head, Lightning Rod, Battle Armor
+hitpoints: 50
+attack: 50
+defense: 95
+specialattack: 40
+specialdefense: 50
+speed: 35
+total: 320
 tags:
     - pokemon
 categories:
@@ -21,14 +28,19 @@ categories:
 
 Cubone wears the skull of its dead mother as a helmet, and is known as the "Lonely Pok&#x00e9;mon" because of its tendency to keep to itself and avoid social situations, due to the trauma caused by the death of its mother. On the night of a full moon, the cries are said to be especially terrible. Cubone seems to recognize its mother in the full moon, and so it howls with a particular sadness. Its cries attract Mandibuzz, a natural predator. The stains on the skull the Pok&#x00e9;mon wears are made by the tears it sheds. [Marowak](Marowak.md) is the evolved form of Cubone, once it overcomes its sadness with its mother's death. In the games, Cubone instead evolves after reaching a certain experience level. It was also stated that Marowak was Cubone's mother being killed by the Team Rocket.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 104 | Cubone | 104 | 4 | 65 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

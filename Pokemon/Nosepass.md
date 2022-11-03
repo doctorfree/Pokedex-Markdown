@@ -2,6 +2,13 @@
 name: Nosepass
 type: Rock
 abilities: Sturdy, Magnet Pull, Sand Force
+hitpoints: 30
+attack: 45
+defense: 135
+specialattack: 45
+specialdefense: 90
+speed: 30
+total: 375
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Nosepass** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 299 | Nosepass | 299 | 10 | 970 | 75 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

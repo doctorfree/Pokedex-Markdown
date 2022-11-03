@@ -2,6 +2,13 @@
 name: Granbull
 type: Fairy
 abilities: Intimidate, Quick Feet, Rattled
+hitpoints: 90
+attack: 120
+defense: 75
+specialattack: 60
+specialdefense: 60
+speed: 45
+total: 450
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Granbull** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 210 | Granbull | 210 | 14 | 487 | 158 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

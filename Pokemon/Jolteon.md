@@ -2,6 +2,13 @@
 name: Jolteon
 type: Electric
 abilities: Volt Absorb, (Hidden) Quick Feet
+hitpoints: 65
+attack: 65
+defense: 60
+specialattack: 110
+specialdefense: 95
+speed: 130
+total: 525
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Jolteon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 135 | Jolteon | 135 | 8 | 245 | 184 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

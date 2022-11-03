@@ -2,6 +2,13 @@
 name: Krokorok
 type: Ground, Dark
 abilities: Intimidate, Moxie, Anger Point
+hitpoints: 60
+attack: 82
+defense: 45
+specialattack: 45
+specialdefense: 45
+speed: 74
+total: 351
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Krokorok** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 552 | Krokorok | 552 | 10 | 334 | 123 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

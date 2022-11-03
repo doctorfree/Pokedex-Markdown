@@ -2,6 +2,13 @@
 name: Rufflet
 type: Normal, Flying
 abilities: Keen Eye, Sheer Force, Hustle
+hitpoints: 70
+attack: 83
+defense: 50
+specialattack: 37
+specialdefense: 50
+speed: 60
+total: 350
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Rufflet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 627 | Rufflet | 627 | 5 | 105 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

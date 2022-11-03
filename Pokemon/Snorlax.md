@@ -2,6 +2,13 @@
 name: Snorlax
 type: Normal
 abilities: Immunity, Thick Fat, Gluttony
+hitpoints: 160
+attack: 110
+defense: 65
+specialattack: 65
+specialdefense: 110
+speed: 30
+total: 540
 tags:
     - pokemon
 categories:
@@ -27,14 +34,19 @@ Snorlax is a noseless ursid-like Pok&#x00e9;mon that has a cream-colored face, h
 
 Despite its size, Snorlax is such a docile Pok&#x00e9;mon that children use its large belly as a place to play. Snorlax has hidden potential to unleash tremendous power when holding the Snorlium Z item, however, which gives access to its signature Z-Move Pulverizing Pancake. Snorlax has a pre-evolution, [Munchlax](Munchlax.md), which is obtainable via breeding a Snorlax that is holding Full Incense. Munchlax also sports a voracious appetite, and evolves into a Snorlax when it has a sufficiently high level of friendship with its Trainer.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 143 | Snorlax | 143 | 21 | 4600 | 189 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

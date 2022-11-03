@@ -2,6 +2,13 @@
 name: Duosion
 type: Psychic
 abilities: Overcoat, Magic Guard, Regenerator
+hitpoints: 65
+attack: 40
+defense: 50
+specialattack: 125
+specialdefense: 60
+speed: 30
+total: 370
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Duosion** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 578 | Duosion | 578 | 6 | 80 | 130 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Altaria
 type: Dragon, Flying
 abilities: Natural Cure, (Hidden) Cloud Nine
+hitpoints: 75
+attack: 70
+defense: 90
+specialattack: 70
+specialdefense: 105
+speed: 80
+total: 490
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Altaria** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 334 | Altaria | 334 | 11 | 206 | 172 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 75 | 70 | 90 | 70 | 105 | 80 | 490 |
 
 ## See also
 

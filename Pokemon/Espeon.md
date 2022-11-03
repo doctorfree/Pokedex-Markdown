@@ -2,6 +2,13 @@
 name: Espeon
 type: Psychic
 abilities: Synchronize, (Hidden) Magic Bounce
+hitpoints: 65
+attack: 65
+defense: 60
+specialattack: 130
+specialdefense: 95
+speed: 110
+total: 525
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Espeon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 196 | Espeon | 196 | 9 | 265 | 184 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

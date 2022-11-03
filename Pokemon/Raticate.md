@@ -2,6 +2,13 @@
 name: Raticate
 type: Normal
 abilities: Run Away, Guts, Hustle
+hitpoints: 55
+attack: 81
+defense: 60
+specialattack: 50
+specialdefense: 70
+speed: 97
+total: 413
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Raticate** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 20 | Raticate | 20 | 7 | 185 | 145 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

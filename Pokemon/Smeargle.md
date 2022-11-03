@@ -2,6 +2,13 @@
 name: Smeargle
 type: Normal
 abilities: Own Tempo, Technician, Moody
+hitpoints: 55
+attack: 20
+defense: 35
+specialattack: 20
+specialdefense: 45
+speed: 75
+total: 250
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Smeargle** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 235 | Smeargle | 235 | 12 | 580 | 88 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

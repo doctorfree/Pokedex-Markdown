@@ -2,6 +2,13 @@
 name: Tentacruel
 type: Water, Poison
 abilities: Clear Body, Liquid Ooze, Rain Dish
+hitpoints: 80
+attack: 70
+defense: 65
+specialattack: 80
+specialdefense: 120
+speed: 100
+total: 515
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tentacruel** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 73 | Tentacruel | 73 | 16 | 550 | 180 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

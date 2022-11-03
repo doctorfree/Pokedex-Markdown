@@ -2,6 +2,13 @@
 name: Pancham
 type: Fighting
 abilities: Iron Fist, Mold Breaker, Scrappy
+hitpoints: 67
+attack: 82
+defense: 62
+specialattack: 46
+specialdefense: 48
+speed: 43
+total: 348
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pancham** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 674 | Pancham | 674 | 6 | 80 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

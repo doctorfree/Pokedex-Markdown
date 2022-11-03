@@ -2,6 +2,13 @@
 name: Talonflame
 type: Fire, Flying
 abilities: Flame Body, (Hidden) Gale Wings
+hitpoints: 78
+attack: 81
+defense: 71
+specialattack: 74
+specialdefense: 69
+speed: 126
+total: 499
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Talonflame** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 663 | Talonflame | 663 | 12 | 245 | 175 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

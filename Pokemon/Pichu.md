@@ -2,6 +2,13 @@
 name: Pichu
 type: Electric
 abilities: Static, (Hidden) Lightning Rod
+hitpoints: 20
+attack: 40
+defense: 15
+specialattack: 35
+specialdefense: 35
+speed: 60
+total: 205
 tags:
     - pokemon
 categories:
@@ -21,14 +28,19 @@ categories:
 
 Pichu, known as the "Tiny Mouse" species of Pok&#x00e9;mon, are the pre-evolved version of [Pikachu](Pikachu.md). Pichu is a small ground-dwelling rodent. Its fur is very short, and it has bright yellow coloration. The tips of its large ears are black, and it has additional black markings on its neck and short tail. They are not skilled at storing electricity, so when amused or startled, they often discharge jolts of electricity strong enough to affect adult humans. This lack of control becomes more stable as they grow older. The electricity that they do manage to keep stored is limited by their small electrical pouches in their cheeks. When the air is dry or on stormy days, they charge much more easily, leaving the sound of crackling static electricity emanating from them. They play with each other by touching tails to set off sparks, which also acts as a test of courage. They run the risk of shorting each other out, and scaring themselves into a crying fit with the flash of sparks that emanates from them.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 172 | Pichu | 172 | 3 | 20 | 41 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

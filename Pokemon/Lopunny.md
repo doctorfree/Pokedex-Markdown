@@ -2,6 +2,13 @@
 name: Lopunny
 type: Normal
 abilities: Cute Charm, Klutz, Limber
+hitpoints: 65
+attack: 76
+defense: 84
+specialattack: 54
+specialdefense: 96
+speed: 105
+total: 480
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Lopunny** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 428 | Lopunny | 428 | 12 | 333 | 168 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

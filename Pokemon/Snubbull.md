@@ -2,6 +2,13 @@
 name: Snubbull
 type: Fairy
 abilities: Intimidate, Run Away, Rattled
+hitpoints: 60
+attack: 80
+defense: 50
+specialattack: 40
+specialdefense: 40
+speed: 30
+total: 300
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Snubbull** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 209 | Snubbull | 209 | 6 | 78 | 60 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

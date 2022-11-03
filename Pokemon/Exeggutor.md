@@ -2,6 +2,13 @@
 name: Exeggutor
 type: Grass, Psychic
 abilities: Chlorophyll, (Hidden) Harvest
+hitpoints: 95
+attack: 95
+defense: 85
+specialattack: 125
+specialdefense: 75
+speed: 55
+total: 530
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Exeggutor** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 103 | Exeggutor | 103 | 20 | 1200 | 186 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

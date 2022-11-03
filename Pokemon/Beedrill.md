@@ -2,6 +2,13 @@
 name: Beedrill
 type: Bug, Poison
 abilities: Swarm, (Hidden) Sniper
+hitpoints: 65
+attack: 90
+defense: 40
+specialattack: 45
+specialdefense: 80
+speed: 75
+total: 395
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Beedrill** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 15 | Beedrill | 15 | 10 | 295 | 178 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

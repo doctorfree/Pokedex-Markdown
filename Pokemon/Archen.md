@@ -2,6 +2,13 @@
 name: Archen
 type: Rock, Flying
 abilities: Defeatist
+hitpoints: 55
+attack: 112
+defense: 45
+specialattack: 74
+specialdefense: 45
+speed: 70
+total: 401
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Archen** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 566 | Archen | 566 | 5 | 95 | 71 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 55 | 112 | 45 | 74 | 45 | 70 | 401 |
 
 ## See also
 

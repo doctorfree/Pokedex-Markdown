@@ -2,6 +2,13 @@
 name: Shelgon
 type: Dragon
 abilities: Rock Head, (Hidden) Overcoat
+hitpoints: 65
+attack: 95
+defense: 100
+specialattack: 60
+specialdefense: 50
+speed: 50
+total: 420
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Shelgon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 372 | Shelgon | 372 | 11 | 1105 | 147 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

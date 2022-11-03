@@ -2,6 +2,13 @@
 name: Blacephalon
 type: Fire, Ghost
 abilities: Beast Boost
+hitpoints: 53
+attack: 127
+defense: 53
+specialattack: 151
+specialdefense: 79
+speed: 107
+total: 570
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Blacephalon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 806 | Blacephalon | 806 | 18 | 130 | 285 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

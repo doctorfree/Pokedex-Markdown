@@ -2,6 +2,13 @@
 name: Wooper
 type: Water, Ground
 abilities: Damp, Water Absorb, Unaware
+hitpoints: 55
+attack: 45
+defense: 45
+specialattack: 25
+specialdefense: 25
+speed: 15
+total: 210
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wooper** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 194 | Wooper | 194 | 4 | 85 | 42 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

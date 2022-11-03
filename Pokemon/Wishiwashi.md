@@ -1,3 +1,20 @@
+---
+name: Wishiwashi
+type: Water
+abilities: Schooling
+hitpoints: 45
+attack: 140
+defense: 130
+specialattack: 140
+specialdefense: 135
+speed: 30
+total: 620
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Wishiwashi
 
 
@@ -8,6 +25,18 @@
 | Wishiwashi | 746 | Water  |  |
 
 **Wishiwashi** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 746 | 82 | 786 | 217 |
 
 ## See also
 

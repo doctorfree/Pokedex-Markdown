@@ -2,6 +2,13 @@
 name: Magikarp
 type: Water
 abilities: Swift Swim, (Hidden) Rattled
+hitpoints: 20
+attack: 10
+defense: 55
+specialattack: 15
+specialdefense: 20
+speed: 80
+total: 200
 tags:
     - pokemon
 categories:
@@ -23,14 +30,19 @@ Magikarp is a red, medium-sized fish, although shiny Magikarp are golden in colo
 
 The concept of Magikarp evolving into [Gyarados](Gyarados.md) is based on the Chinese mythological tale of the carps leaping over the Dragon Gate. According to the legend, carps that leap over a legendary waterfall called the Dragon Gate are rewarded for their perseverance and transformed into dragons. In the Nintendo 64 game, Pok&#x00e9;mon Snap, the only way for the player to see a wild Gyarados is to knock a Magikarp into a waterfall, where it will evolve. In the first generation of Pok&#x00e9;mon games, Magikarp can only learn 2 moves by level. The moves are Splash and Tackle, at levels 1 and 15, respectively. From generations 2 to 8, Magikarp can learn the aforementioned moves at those respective levels, plus the move Flail, at level 25. In some generations, Magikarp can learn Hydro Pump and Bounce, however, the method to learn these moves is not by leveling up.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 129 | Magikarp | 129 | 9 | 100 | 40 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

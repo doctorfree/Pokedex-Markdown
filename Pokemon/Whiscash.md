@@ -2,6 +2,13 @@
 name: Whiscash
 type: Water, Ground
 abilities: Oblivious, Anticipation, Hydration
+hitpoints: 110
+attack: 78
+defense: 73
+specialattack: 76
+specialdefense: 71
+speed: 60
+total: 468
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Whiscash** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 340 | Whiscash | 340 | 9 | 236 | 164 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Camerupt
 type: Fire, Ground
 abilities: Magma Armor, Solid Rock, Anger Point
+hitpoints: 70
+attack: 100
+defense: 70
+specialattack: 105
+specialdefense: 75
+speed: 40
+total: 460
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Camerupt** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 323 | Camerupt | 323 | 19 | 2200 | 161 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

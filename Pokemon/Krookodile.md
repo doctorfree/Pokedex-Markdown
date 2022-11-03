@@ -2,6 +2,13 @@
 name: Krookodile
 type: Ground, Dark
 abilities: Intimidate, Moxie, Anger Point
+hitpoints: 95
+attack: 117
+defense: 80
+specialattack: 65
+specialdefense: 70
+speed: 92
+total: 519
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Krookodile** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 553 | Krookodile | 553 | 15 | 963 | 260 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

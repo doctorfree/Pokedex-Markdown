@@ -2,6 +2,13 @@
 name: Amoonguss
 type: Grass, Poison
 abilities: Effect Spore, (Hidden) Regenerator
+hitpoints: 114
+attack: 85
+defense: 70
+specialattack: 85
+specialdefense: 80
+speed: 30
+total: 464
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Amoonguss** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 591 | Amoonguss | 591 | 6 | 105 | 162 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 114 | 85 | 70 | 85 | 80 | 30 | 464 |
 
 ## See also
 

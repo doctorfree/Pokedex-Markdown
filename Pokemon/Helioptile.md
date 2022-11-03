@@ -2,6 +2,13 @@
 name: Helioptile
 type: Electric, Normal
 abilities: Dry Skin, Sand Veil, Solar Power
+hitpoints: 44
+attack: 38
+defense: 33
+specialattack: 61
+specialdefense: 43
+speed: 70
+total: 289
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Helioptile** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 694 | Helioptile | 694 | 5 | 60 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

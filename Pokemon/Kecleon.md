@@ -2,6 +2,13 @@
 name: Kecleon
 type: Normal
 abilities: Color Change, (Hidden) Protean
+hitpoints: 60
+attack: 90
+defense: 70
+specialattack: 60
+specialdefense: 120
+speed: 40
+total: 440
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kecleon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 352 | Kecleon | 352 | 10 | 220 | 154 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

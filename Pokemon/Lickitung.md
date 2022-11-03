@@ -2,6 +2,13 @@
 name: Lickitung
 type: Normal
 abilities: Own Tempo, Oblivious, Cloud Nine
+hitpoints: 90
+attack: 55
+defense: 75
+specialattack: 60
+specialdefense: 75
+speed: 30
+total: 385
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Lickitung** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 108 | Lickitung | 108 | 12 | 655 | 77 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Ledyba
 type: Bug, Flying
 abilities: Swarm, Early Bird, Rattled
+hitpoints: 40
+attack: 20
+defense: 30
+specialattack: 40
+specialdefense: 80
+speed: 55
+total: 265
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ledyba** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 165 | Ledyba | 165 | 10 | 108 | 53 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

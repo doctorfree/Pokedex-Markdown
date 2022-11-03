@@ -2,6 +2,13 @@
 name: Sigilyph
 type: Psychic, Flying
 abilities: Wonder Skin, Magic Guard, Tinted Lens
+hitpoints: 72
+attack: 58
+defense: 80
+specialattack: 103
+specialdefense: 80
+speed: 97
+total: 490
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sigilyph** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 561 | Sigilyph | 561 | 14 | 140 | 172 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

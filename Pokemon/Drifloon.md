@@ -2,6 +2,13 @@
 name: Drifloon
 type: Ghost, Flying
 abilities: Aftermath, Unburden, Flare Boost
+hitpoints: 90
+attack: 50
+defense: 34
+specialattack: 60
+specialdefense: 44
+speed: 70
+total: 348
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Drifloon** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 425 | Drifloon | 425 | 4 | 12 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

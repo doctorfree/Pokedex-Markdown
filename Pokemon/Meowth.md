@@ -2,6 +2,13 @@
 name: Meowth
 type: Normal
 abilities: Pickup, Technician, Unnerve
+hitpoints: 40
+attack: 45
+defense: 35
+specialattack: 40
+specialdefense: 40
+speed: 90
+total: 290
 tags:
     - pokemon
 categories:
@@ -25,14 +32,19 @@ Meowth retract their claws back into their paws, which grants them silent moveme
 
 In the English version of the franchise, Team Rocket's Meowth speaks with a Brooklyn accent.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 52 | Meowth | 52 | 4 | 42 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

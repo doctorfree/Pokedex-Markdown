@@ -2,6 +2,13 @@
 name: Roggenrola
 type: Rock
 abilities: Sturdy, Weak Armor, Sand Force
+hitpoints: 55
+attack: 75
+defense: 85
+specialattack: 25
+specialdefense: 25
+speed: 15
+total: 280
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Roggenrola** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 524 | Roggenrola | 524 | 4 | 180 | 56 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Kricketot
 type: Bug
 abilities: Shed Skin, (Hidden) Run Away
+hitpoints: 37
+attack: 25
+defense: 41
+specialattack: 25
+specialdefense: 41
+speed: 25
+total: 194
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kricketot** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 401 | Kricketot | 401 | 3 | 22 | 39 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

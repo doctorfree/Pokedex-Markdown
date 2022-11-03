@@ -2,6 +2,13 @@
 name: Purrloin
 type: Dark
 abilities: Limber, Unburden, Prankster
+hitpoints: 41
+attack: 50
+defense: 37
+specialattack: 50
+specialdefense: 37
+speed: 66
+total: 281
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Purrloin** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 509 | Purrloin | 509 | 4 | 101 | 56 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

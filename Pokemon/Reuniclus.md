@@ -2,6 +2,13 @@
 name: Reuniclus
 type: Psychic
 abilities: Overcoat, Magic Guard, Regenerator
+hitpoints: 110
+attack: 65
+defense: 75
+specialattack: 125
+specialdefense: 85
+speed: 30
+total: 490
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Reuniclus** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 579 | Reuniclus | 579 | 10 | 201 | 245 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

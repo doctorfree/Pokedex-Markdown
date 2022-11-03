@@ -2,6 +2,13 @@
 name: Dartrix
 type: Grass, Flying
 abilities: Overgrow, (Hidden) Long Reach
+hitpoints: 78
+attack: 75
+defense: 75
+specialattack: 70
+specialdefense: 70
+speed: 52
+total: 420
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dartrix** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 723 | Dartrix | 723 | 7 | 160 | 147 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

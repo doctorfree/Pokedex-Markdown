@@ -2,6 +2,13 @@
 name: Hippopotas
 type: Ground
 abilities: Sand Stream, (Hidden) Sand Force
+hitpoints: 68
+attack: 72
+defense: 78
+specialattack: 38
+specialdefense: 42
+speed: 32
+total: 330
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Hippopotas** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 449 | Hippopotas | 449 | 8 | 495 | 66 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

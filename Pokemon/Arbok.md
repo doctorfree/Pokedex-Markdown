@@ -2,6 +2,13 @@
 name: Arbok
 type: Poison
 abilities: Intimidate, Shed Skin, Unnerve
+hitpoints: 60
+attack: 95
+defense: 69
+specialattack: 65
+specialdefense: 79
+speed: 80
+total: 448
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Arbok** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 24 | Arbok | 24 | 35 | 650 | 157 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 60 | 95 | 69 | 65 | 79 | 80 | 448 |
 
 ## See also
 

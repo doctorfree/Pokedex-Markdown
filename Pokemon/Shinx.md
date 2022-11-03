@@ -2,6 +2,13 @@
 name: Shinx
 type: Electric
 abilities: Rivalry, Intimidate, Guts
+hitpoints: 45
+attack: 65
+defense: 34
+specialattack: 40
+specialdefense: 34
+speed: 45
+total: 263
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Shinx** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 403 | Shinx | 403 | 5 | 95 | 53 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

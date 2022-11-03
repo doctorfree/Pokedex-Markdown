@@ -2,6 +2,13 @@
 name: Cacnea
 type: Grass
 abilities: Sand Veil, (Hidden) Water Absorb
+hitpoints: 50
+attack: 85
+defense: 40
+specialattack: 85
+specialdefense: 40
+speed: 35
+total: 335
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cacnea** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 331 | Cacnea | 331 | 4 | 513 | 67 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

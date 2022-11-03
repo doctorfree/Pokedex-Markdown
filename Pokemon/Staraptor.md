@@ -2,6 +2,13 @@
 name: Staraptor
 type: Normal, Flying
 abilities: Intimidate, (Hidden) Reckless
+hitpoints: 85
+attack: 120
+defense: 70
+specialattack: 50
+specialdefense: 60
+speed: 100
+total: 485
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Staraptor** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 398 | Staraptor | 398 | 12 | 249 | 218 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

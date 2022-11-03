@@ -2,6 +2,13 @@
 name: Sharpedo
 type: Water, Dark
 abilities: Rough Skin, (Hidden) Speed Boost
+hitpoints: 70
+attack: 120
+defense: 40
+specialattack: 95
+specialdefense: 40
+speed: 95
+total: 460
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sharpedo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 319 | Sharpedo | 319 | 18 | 888 | 161 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

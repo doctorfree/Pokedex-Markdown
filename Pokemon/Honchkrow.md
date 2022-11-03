@@ -2,6 +2,13 @@
 name: Honchkrow
 type: Dark, Flying
 abilities: Insomnia, Super Luck, Moxie
+hitpoints: 100
+attack: 125
+defense: 52
+specialattack: 105
+specialdefense: 52
+speed: 71
+total: 505
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Honchkrow** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 430 | Honchkrow | 430 | 9 | 273 | 177 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

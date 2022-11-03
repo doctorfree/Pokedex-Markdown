@@ -2,6 +2,13 @@
 name: Ambipom
 type: Normal
 abilities: Technician, Pickup, Skill Link
+hitpoints: 75
+attack: 100
+defense: 66
+specialattack: 60
+specialdefense: 66
+speed: 115
+total: 482
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ambipom** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 424 | Ambipom | 424 | 12 | 203 | 169 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 75 | 100 | 66 | 60 | 66 | 115 | 482 |
 
 ## See also
 

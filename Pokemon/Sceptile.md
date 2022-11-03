@@ -2,6 +2,13 @@
 name: Sceptile
 type: Grass
 abilities: Overgrow, (Hidden) Unburden
+hitpoints: 70
+attack: 85
+defense: 65
+specialattack: 105
+specialdefense: 85
+speed: 120
+total: 530
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sceptile** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 254 | Sceptile | 254 | 17 | 522 | 265 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

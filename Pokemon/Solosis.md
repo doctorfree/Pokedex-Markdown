@@ -2,6 +2,13 @@
 name: Solosis
 type: Psychic
 abilities: Overcoat, Magic Guard, Regenerator
+hitpoints: 45
+attack: 30
+defense: 40
+specialattack: 105
+specialdefense: 50
+speed: 20
+total: 290
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Solosis** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 577 | Solosis | 577 | 3 | 10 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

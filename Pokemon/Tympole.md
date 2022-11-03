@@ -2,6 +2,13 @@
 name: Tympole
 type: Water
 abilities: Swift Swim, Hydration, Water Absorb
+hitpoints: 50
+attack: 50
+defense: 40
+specialattack: 50
+specialdefense: 40
+speed: 64
+total: 294
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tympole** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 535 | Tympole | 535 | 5 | 45 | 59 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

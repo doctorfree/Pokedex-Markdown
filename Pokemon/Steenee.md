@@ -2,6 +2,13 @@
 name: Steenee
 type: Grass
 abilities: Leaf Guard, Oblivious, Sweet Veil
+hitpoints: 52
+attack: 40
+defense: 48
+specialattack: 40
+specialdefense: 48
+speed: 62
+total: 290
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Steenee** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 762 | Steenee | 762 | 7 | 82 | 102 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

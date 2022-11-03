@@ -2,6 +2,13 @@
 name: Gliscor
 type: Ground, Flying
 abilities: Hyper Cutter, Sand Veil, Poison Heal
+hitpoints: 75
+attack: 95
+defense: 125
+specialattack: 45
+specialdefense: 75
+speed: 95
+total: 510
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gliscor** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 472 | Gliscor | 472 | 20 | 425 | 179 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

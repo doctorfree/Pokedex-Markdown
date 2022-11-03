@@ -2,6 +2,13 @@
 name: Bayleef
 type: Grass
 abilities: Overgrow, (Hidden) Leaf Guard
+hitpoints: 60
+attack: 62
+defense: 80
+specialattack: 63
+specialdefense: 80
+speed: 60
+total: 405
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Bayleef** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 153 | Bayleef | 153 | 12 | 158 | 142 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

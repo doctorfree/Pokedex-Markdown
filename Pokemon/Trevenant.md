@@ -2,6 +2,13 @@
 name: Trevenant
 type: Ghost, Grass
 abilities: Natural Cure, Frisk, Harvest
+hitpoints: 85
+attack: 110
+defense: 76
+specialattack: 65
+specialdefense: 82
+speed: 56
+total: 474
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Trevenant** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 709 | Trevenant | 709 | 15 | 710 | 166 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

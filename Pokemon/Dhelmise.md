@@ -2,6 +2,13 @@
 name: Dhelmise
 type: Ghost, Grass
 abilities: Steelworker
+hitpoints: 70
+attack: 131
+defense: 100
+specialattack: 86
+specialdefense: 90
+speed: 40
+total: 517
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dhelmise** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 781 | Dhelmise | 781 | 39 | 2100 | 181 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

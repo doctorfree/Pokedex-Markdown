@@ -2,6 +2,13 @@
 name: Togedemaru
 type: Electric, Steel
 abilities: Iron Barbs, Lightning Rod, Sturdy
+hitpoints: 65
+attack: 98
+defense: 63
+specialattack: 40
+specialdefense: 73
+speed: 96
+total: 435
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Togedemaru** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 777 | Togedemaru | 777 | 3 | 33 | 152 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

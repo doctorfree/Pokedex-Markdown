@@ -2,6 +2,13 @@
 name: Ponyta
 type: Fire
 abilities: Run Away, Flash Fire, Flame Body
+hitpoints: 50
+attack: 85
+defense: 55
+specialattack: 65
+specialdefense: 65
+speed: 90
+total: 410
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ponyta** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 77 | Ponyta | 77 | 10 | 300 | 82 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

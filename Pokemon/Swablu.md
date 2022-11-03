@@ -2,6 +2,13 @@
 name: Swablu
 type: Normal, Flying
 abilities: Natural Cure, (Hidden) Cloud Nine
+hitpoints: 45
+attack: 40
+defense: 60
+specialattack: 40
+specialdefense: 75
+speed: 50
+total: 310
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Swablu** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 333 | Swablu | 333 | 4 | 12 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Chansey
 type: Normal
 abilities: Natural Cure, Serene Grace, Healer
+hitpoints: 250
+attack: 5
+defense: 5
+specialattack: 35
+specialdefense: 105
+speed: 50
+total: 450
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Chansey** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 113 | Chansey | 113 | 11 | 346 | 395 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

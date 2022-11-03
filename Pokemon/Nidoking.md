@@ -2,6 +2,13 @@
 name: Nidoking
 type: Poison, Ground
 abilities: Poison Point, Rivalry, Sheer Force
+hitpoints: 81
+attack: 102
+defense: 77
+specialattack: 85
+specialdefense: 75
+speed: 85
+total: 505
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Nidoking** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 34 | Nidoking | 34 | 14 | 620 | 253 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

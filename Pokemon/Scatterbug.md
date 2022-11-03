@@ -2,6 +2,13 @@
 name: Scatterbug
 type: Bug
 abilities: Shield Dust, Compound Eyes, Friend Guard
+hitpoints: 38
+attack: 35
+defense: 40
+specialattack: 27
+specialdefense: 25
+speed: 35
+total: 200
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Scatterbug** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 664 | Scatterbug | 664 | 3 | 25 | 40 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

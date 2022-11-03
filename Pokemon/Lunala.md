@@ -2,6 +2,13 @@
 name: Lunala
 type: Psychic, Ghost
 abilities: Shadow Shield
+hitpoints: 137
+attack: 113
+defense: 89
+specialattack: 137
+specialdefense: 107
+speed: 97
+total: 680
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Lunala** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 792 | Lunala | 792 | 40 | 1200 | 340 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

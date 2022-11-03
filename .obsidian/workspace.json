@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "a5cf87f09f220d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6883005aa96db714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce2fa54da449590f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon/Aerodactyl.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f151146caf79b24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db87da1999117e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12578ce948090333",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76d2fc6d1445b449",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Bulbasaur",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19bef6bf1456af76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "right": {
+    "id": "28fd354a0a09b9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0833dc6ce3bdd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf432f4047737e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pokemon/Aerodactyl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2575b1fabff224e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pokemon/Aerodactyl.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a5f39d0f2781837",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34a0e433ea0b89ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pokemon/Aerodactyl.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ce2fa54da449590f",
+  "lastOpenFiles": [
+    "Pokemon/Aegislash.md",
+    "Pokemon/Accelgor.md",
+    "Pokemon/Absol.md",
+    "Pokemon/Abra.md",
+    "Pokemon/Abomasnow.md",
+    "Pokemon/Bulbasaur.md",
+    "Pokemon/Aron.md",
+    "Pokemon/Ariados.md",
+    "Pokemon/Archeops.md",
+    "Pokemon/Archen.md"
+  ]
+}

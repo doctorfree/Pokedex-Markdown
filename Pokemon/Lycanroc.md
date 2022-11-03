@@ -1,3 +1,20 @@
+---
+name: Lycanroc
+type: Rock
+abilities: Tough Claws
+hitpoints: 75
+attack: 117
+defense: 65
+specialattack: 55
+specialdefense: 65
+speed: 110
+total: 487
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Lycanroc
 
 
@@ -8,6 +25,18 @@
 | Lycanroc | 745 | Rock  |  |
 
 **Lycanroc** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 745 | 8 | 250 | 170 |
 
 ## See also
 

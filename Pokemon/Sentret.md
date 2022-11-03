@@ -2,6 +2,13 @@
 name: Sentret
 type: Normal
 abilities: Run Away, Keen Eye, Frisk
+hitpoints: 35
+attack: 46
+defense: 34
+specialattack: 35
+specialdefense: 45
+speed: 20
+total: 215
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Sentret** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 161 | Sentret | 161 | 8 | 60 | 43 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

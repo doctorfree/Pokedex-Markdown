@@ -1,3 +1,20 @@
+---
+name: Keldeo
+type: Water, Fighting
+abilities: Justified
+hitpoints: 91
+attack: 72
+defense: 90
+specialattack: 129
+specialdefense: 90
+speed: 108
+total: 580
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Keldeo
 
 
@@ -8,6 +25,18 @@
 | Keldeo | 647 | Water | Fighting  |
 
 **Keldeo** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 647 | 14 | 485 | 290 |
 
 ## See also
 

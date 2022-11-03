@@ -2,6 +2,13 @@
 name: Machamp
 type: Fighting
 abilities: Guts, No Guard, Steadfast
+hitpoints: 90
+attack: 130
+defense: 80
+specialattack: 65
+specialdefense: 85
+speed: 55
+total: 505
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Machamp** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 68 | Machamp | 68 | 16 | 1300 | 253 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

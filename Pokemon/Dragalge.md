@@ -2,6 +2,13 @@
 name: Dragalge
 type: Poison, Dragon
 abilities: Poison Point, Poison Touch, Adaptability
+hitpoints: 65
+attack: 75
+defense: 90
+specialattack: 97
+specialdefense: 123
+speed: 44
+total: 494
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dragalge** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 691 | Dragalge | 691 | 18 | 815 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

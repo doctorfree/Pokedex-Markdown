@@ -2,6 +2,13 @@
 name: Samurott
 type: Water
 abilities: Torrent, (Hidden) Shell Armor
+hitpoints: 95
+attack: 100
+defense: 85
+specialattack: 108
+specialdefense: 70
+speed: 70
+total: 528
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Samurott** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 503 | Samurott | 503 | 15 | 946 | 238 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

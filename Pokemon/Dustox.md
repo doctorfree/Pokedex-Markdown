@@ -2,6 +2,13 @@
 name: Dustox
 type: Bug, Poison
 abilities: Shield Dust, (Hidden) Compound Eyes
+hitpoints: 60
+attack: 50
+defense: 70
+specialattack: 50
+specialdefense: 90
+speed: 65
+total: 385
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dustox** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 269 | Dustox | 269 | 12 | 316 | 173 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

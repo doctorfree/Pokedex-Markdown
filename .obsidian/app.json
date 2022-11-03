@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "LICENSE"
+  ],
+  "defaultViewMode": "preview"
+}

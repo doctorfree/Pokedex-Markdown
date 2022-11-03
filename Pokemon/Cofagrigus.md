@@ -2,6 +2,13 @@
 name: Cofagrigus
 type: Ghost
 abilities: Mummy
+hitpoints: 58
+attack: 50
+defense: 145
+specialattack: 95
+specialdefense: 105
+speed: 30
+total: 483
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cofagrigus** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 563 | Cofagrigus | 563 | 17 | 765 | 169 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

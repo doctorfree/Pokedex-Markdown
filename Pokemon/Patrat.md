@@ -2,6 +2,13 @@
 name: Patrat
 type: Normal
 abilities: Run Away, Keen Eye, Analytic
+hitpoints: 45
+attack: 55
+defense: 39
+specialattack: 35
+specialdefense: 39
+speed: 42
+total: 255
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Patrat** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 504 | Patrat | 504 | 5 | 116 | 51 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

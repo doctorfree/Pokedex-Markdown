@@ -2,6 +2,13 @@
 name: Ampharos
 type: Electric
 abilities: Static, (Hidden) Plus
+hitpoints: 90
+attack: 75
+defense: 85
+specialattack: 115
+specialdefense: 90
+speed: 55
+total: 510
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Ampharos** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 181 | Ampharos | 181 | 14 | 615 | 230 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 90 | 75 | 85 | 115 | 90 | 55 | 510 |
 
 ## See also
 

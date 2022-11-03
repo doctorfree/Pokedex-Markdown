@@ -2,6 +2,13 @@
 name: Flabébé
 type: Fairy
 abilities: Flower Veil, (Hidden) Symbiosis
+hitpoints: 44
+attack: 38
+defense: 39
+specialattack: 61
+specialdefense: 79
+speed: 42
+total: 303
 tags:
     - pokemon
 categories:
@@ -18,6 +25,18 @@ categories:
 | Flabébé | 669 | Fairy  |  |
 
 **Flabébé** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+|  |  |  |  |
 
 ## See also
 

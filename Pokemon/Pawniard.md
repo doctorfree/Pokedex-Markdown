@@ -2,6 +2,13 @@
 name: Pawniard
 type: Dark, Steel
 abilities: Defiant, Inner Focus, Pressure
+hitpoints: 45
+attack: 85
+defense: 70
+specialattack: 40
+specialdefense: 40
+speed: 60
+total: 340
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pawniard** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 624 | Pawniard | 624 | 5 | 102 | 68 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

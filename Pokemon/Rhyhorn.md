@@ -2,6 +2,13 @@
 name: Rhyhorn
 type: Ground, Rock
 abilities: Lightning Rod, Rock Head, Reckless
+hitpoints: 80
+attack: 85
+defense: 95
+specialattack: 30
+specialdefense: 30
+speed: 25
+total: 345
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Rhyhorn** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 111 | Rhyhorn | 111 | 10 | 1150 | 69 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

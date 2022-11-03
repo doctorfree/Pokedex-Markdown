@@ -2,6 +2,13 @@
 name: Makuhita
 type: Fighting
 abilities: Thick Fat, Guts, Sheer Force
+hitpoints: 72
+attack: 60
+defense: 30
+specialattack: 20
+specialdefense: 30
+speed: 25
+total: 237
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Makuhita** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 296 | Makuhita | 296 | 10 | 864 | 47 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

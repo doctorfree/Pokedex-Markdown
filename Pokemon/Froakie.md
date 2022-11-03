@@ -2,6 +2,13 @@
 name: Froakie
 type: Water
 abilities: Torrent, (Hidden) Protean
+hitpoints: 41
+attack: 56
+defense: 40
+specialattack: 62
+specialdefense: 44
+speed: 71
+total: 314
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Froakie** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 656 | Froakie | 656 | 3 | 70 | 63 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

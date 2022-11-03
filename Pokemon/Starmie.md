@@ -2,6 +2,13 @@
 name: Starmie
 type: Water, Psychic
 abilities: Illuminate, Natural Cure, Analytic
+hitpoints: 60
+attack: 75
+defense: 85
+specialattack: 100
+specialdefense: 85
+speed: 115
+total: 520
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Starmie** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 121 | Starmie | 121 | 11 | 800 | 182 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

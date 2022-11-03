@@ -2,6 +2,13 @@
 name: Krabby
 type: Water
 abilities: Hyper Cutter, Shell Armor, Sheer Force
+hitpoints: 30
+attack: 105
+defense: 90
+specialattack: 25
+specialdefense: 25
+speed: 50
+total: 325
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Krabby** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 98 | Krabby | 98 | 4 | 65 | 65 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

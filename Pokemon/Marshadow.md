@@ -2,6 +2,13 @@
 name: Marshadow
 type: Fighting, Ghost
 abilities: Technician
+hitpoints: 90
+attack: 125
+defense: 80
+specialattack: 90
+specialdefense: 90
+speed: 125
+total: 600
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Marshadow** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 802 | Marshadow | 802 | 7 | 222 | 300 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

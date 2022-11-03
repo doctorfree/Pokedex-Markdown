@@ -2,6 +2,13 @@
 name: Turtonator
 type: Fire, Dragon
 abilities: Shell Armor
+hitpoints: 60
+attack: 78
+defense: 135
+specialattack: 91
+specialdefense: 85
+speed: 36
+total: 485
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Turtonator** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 776 | Turtonator | 776 | 20 | 2120 | 170 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

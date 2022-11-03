@@ -2,6 +2,13 @@
 name: Poochyena
 type: Dark
 abilities: Run Away, Quick Feet, Rattled
+hitpoints: 35
+attack: 55
+defense: 35
+specialattack: 30
+specialdefense: 30
+speed: 35
+total: 220
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Poochyena** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 261 | Poochyena | 261 | 5 | 136 | 56 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

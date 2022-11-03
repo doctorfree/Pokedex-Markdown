@@ -1,3 +1,20 @@
+---
+name: Hoopa
+type: Psychic, Dark
+abilities: Magician
+hitpoints: 80
+attack: 160
+defense: 60
+specialattack: 170
+specialdefense: 130
+speed: 80
+total: 680
+tags:
+    - pokemon
+categories:
+    - pokemon
+---
+
 # Hoopa
 
 
@@ -10,14 +27,19 @@
 **Hoopa** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 720 | Hoopa | 720 | 5 | 90 | 270 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

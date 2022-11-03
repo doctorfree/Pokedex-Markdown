@@ -115,8 +115,8 @@ The first 151 entries in this Pokédex also serve as Kanto's regional Pokédex. 
 ||080|[Slowbro](Pokemon/Slowbro.md)|Poison-Psychic form=Galar |
 |081|081|[Magnemite](Pokemon/Magnemite.md)|Electric-Steel |
 |082|082|[Magneton](Pokemon/Magneton.md)|Electric-Steel |
-|083|083|[Farfetch'd](Pokemon/Farfetch'd.md)|Normal-Flying |
-||083|[Farfetch'd](Pokemon/Farfetch'd.md)|Fighting form=Galar |
+|083|083|[Farfetch'd](Pokemon/Farfetchd.md)|Normal-Flying |
+||083|[Farfetch'd](Pokemon/Farfetchd.md)|Fighting form=Galar |
 |084|084|[Doduo](Pokemon/Doduo.md)|Normal-Flying |
 |085|085|[Dodrio](Pokemon/Dodrio.md)|Normal-Flying |
 |086|086|[Seel](Pokemon/Seel.md)|Water |

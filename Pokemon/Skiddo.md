@@ -2,6 +2,13 @@
 name: Skiddo
 type: Grass
 abilities: Sap Sipper, (Hidden) Grass Pelt
+hitpoints: 66
+attack: 65
+defense: 48
+specialattack: 62
+specialdefense: 57
+speed: 52
+total: 350
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Skiddo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 672 | Skiddo | 672 | 9 | 310 | 70 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

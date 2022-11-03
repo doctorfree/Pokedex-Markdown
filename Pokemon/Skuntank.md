@@ -2,6 +2,13 @@
 name: Skuntank
 type: Poison, Dark
 abilities: Stench, Aftermath, Keen Eye
+hitpoints: 103
+attack: 93
+defense: 67
+specialattack: 71
+specialdefense: 61
+speed: 84
+total: 479
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Skuntank** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 435 | Skuntank | 435 | 10 | 380 | 168 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

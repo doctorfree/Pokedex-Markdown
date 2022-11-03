@@ -2,6 +2,13 @@
 name: Mankey
 type: Fighting
 abilities: Vital Spirit, Anger Point, Defiant
+hitpoints: 40
+attack: 80
+defense: 35
+specialattack: 35
+specialdefense: 45
+speed: 70
+total: 305
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mankey** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 56 | Mankey | 56 | 5 | 280 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Tentacool
 type: Water, Poison
 abilities: Clear Body, Liquid Ooze, Rain Dish
+hitpoints: 40
+attack: 40
+defense: 35
+specialattack: 50
+specialdefense: 100
+speed: 70
+total: 335
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tentacool** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 72 | Tentacool | 72 | 9 | 455 | 67 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

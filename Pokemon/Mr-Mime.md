@@ -2,6 +2,13 @@
 name: Mr. Mime
 type: Psychic, Fairy
 abilities: Soundproof, Filter, Technician
+hitpoints: 40
+attack: 45
+defense: 65
+specialattack: 100
+specialdefense: 120
+speed: 90
+total: 460
 tags:
     - pokemon
 categories:
@@ -25,13 +32,18 @@ Mr. Mime's appearance has been heavily criticized by sources such as 1UP.com due
 
 Appearing as an anthropomorphic creature, it has a pink head with red cheeks and blue, frizzy hair, a round, white body with a red spot in the middle, light-pink arms and legs are connected to its body by red spheres, white, five-fingered hands and blue feet that curl upward at the tips. Their hands are depicted with four fingers and an opposable thumb, with larger fingertips and red dots on their underside.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 122 | Mr. Mime | 122 | 13 | 545 | 161 |
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Crabominable
 type: Fighting, Ice
 abilities: Hyper Cutter, Iron Fist, Anger Point
+hitpoints: 97
+attack: 132
+defense: 77
+specialattack: 62
+specialdefense: 67
+speed: 43
+total: 478
 tags:
     - pokemon
 categories:
@@ -11,7 +18,7 @@ categories:
 # Crabominable
 
 
-![Crabominable](images/740le.png)
+![Crabominable](images/740.png)
 
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|
@@ -20,14 +27,19 @@ categories:
 **Crabominable** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 740 | Crabominable | 740 | 17 | 1800 | 167 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

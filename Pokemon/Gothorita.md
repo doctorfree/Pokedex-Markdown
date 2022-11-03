@@ -2,6 +2,13 @@
 name: Gothorita
 type: Psychic
 abilities: Frisk, Competitive, Shadow Tag
+hitpoints: 60
+attack: 45
+defense: 70
+specialattack: 75
+specialdefense: 85
+speed: 55
+total: 390
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Gothorita** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 575 | Gothorita | 575 | 7 | 180 | 137 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Fearow
 type: Normal, Flying
 abilities: Keen Eye, (Hidden) Sniper
+hitpoints: 65
+attack: 90
+defense: 65
+specialattack: 61
+specialdefense: 61
+speed: 100
+total: 442
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Fearow** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 22 | Fearow | 22 | 12 | 380 | 155 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

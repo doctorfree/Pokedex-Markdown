@@ -2,6 +2,13 @@
 name: Trubbish
 type: Poison
 abilities: Stench, Sticky Hold, Aftermath
+hitpoints: 50
+attack: 50
+defense: 62
+specialattack: 40
+specialdefense: 62
+speed: 65
+total: 329
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Trubbish** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 568 | Trubbish | 568 | 6 | 310 | 66 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

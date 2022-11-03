@@ -2,6 +2,13 @@
 name: Ho-Oh
 type: Fire, Flying
 abilities: Pressure, (Hidden) Regenerator
+hitpoints: 106
+attack: 130
+defense: 90
+specialattack: 110
+specialdefense: 154
+speed: 90
+total: 680
 tags:
     - pokemon
 categories:
@@ -18,6 +25,18 @@ categories:
 | Ho-Oh | 250 | Fire | Flying  |
 
 **Ho-Oh** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+| 250 | 38 | 1990 | 340 |
 
 ## See also
 

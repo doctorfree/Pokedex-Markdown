@@ -2,6 +2,13 @@
 name: Absol
 type: Dark
 abilities: Pressure, Super Luck, Justified
+hitpoints: 65
+attack: 130
+defense: 60
+specialattack: 75
+specialdefense: 60
+speed: 75
+total: 465
 tags:
     - pokemon
 categories:
@@ -13,21 +20,23 @@ categories:
 
 ![Absol](images/359.png)
 
+**Absol** (Abusoru &#x30a2;&#x30d6;&#x30bd;&#x30eb;) can tell when horrible disasters are about to come because it can sense them with its fine hairs.
+
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|
 | Absol | 359 | Dark  |  |
 
-**Absol** 
 
-
-Height is measured in decimeters (1/10th of a meter)
-
-Weight is measured in hectograms (1/10th of a kilogram)
-
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 359 | Absol | 359 | 12 | 470 | 163 |
 
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 65 | 130 | 60 | 75 | 60 | 75 | 465 |
 
 ## See also
 

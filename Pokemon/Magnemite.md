@@ -2,6 +2,13 @@
 name: Magnemite
 type: Electric, Steel
 abilities: Magnet Pull, Sturdy, Analytic
+hitpoints: 25
+attack: 35
+defense: 70
+specialattack: 95
+specialdefense: 55
+speed: 45
+total: 325
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Magnemite** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 81 | Magnemite | 81 | 3 | 60 | 65 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

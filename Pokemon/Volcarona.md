@@ -2,6 +2,13 @@
 name: Volcarona
 type: Bug, Fire
 abilities: Flame Body, (Hidden) Swarm
+hitpoints: 85
+attack: 60
+defense: 65
+specialattack: 135
+specialdefense: 105
+speed: 100
+total: 550
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Volcarona** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 637 | Volcarona | 637 | 16 | 460 | 275 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

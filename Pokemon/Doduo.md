@@ -2,6 +2,13 @@
 name: Doduo
 type: Normal, Flying
 abilities: Run Away, Early Bird, Tangled Feet
+hitpoints: 35
+attack: 85
+defense: 45
+specialattack: 35
+specialdefense: 35
+speed: 75
+total: 310
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Doduo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 84 | Doduo | 84 | 14 | 392 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Kabuto
 type: Rock, Water
 abilities: Swift Swim, Battle Armor, Weak Armor
+hitpoints: 30
+attack: 80
+defense: 90
+specialattack: 55
+specialdefense: 45
+speed: 55
+total: 355
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Kabuto** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 140 | Kabuto | 140 | 5 | 115 | 71 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

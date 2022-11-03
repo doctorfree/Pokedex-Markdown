@@ -2,6 +2,13 @@
 name: Stunfisk
 type: Ground, Electric
 abilities: Static, Limber, Sand Veil
+hitpoints: 109
+attack: 66
+defense: 84
+specialattack: 81
+specialdefense: 99
+speed: 32
+total: 471
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Stunfisk** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 618 | Stunfisk | 618 | 7 | 110 | 165 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

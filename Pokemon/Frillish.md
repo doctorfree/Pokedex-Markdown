@@ -2,6 +2,13 @@
 name: Frillish
 type: Water, Ghost
 abilities: Water Absorb, Cursed Body, Damp
+hitpoints: 55
+attack: 40
+defense: 50
+specialattack: 65
+specialdefense: 85
+speed: 40
+total: 335
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Frillish** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 592 | Frillish | 592 | 12 | 330 | 67 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

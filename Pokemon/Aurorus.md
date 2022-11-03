@@ -2,6 +2,13 @@
 name: Aurorus
 type: Rock, Ice
 abilities: Refrigerate, (Hidden) Snow Warning
+hitpoints: 123
+attack: 77
+defense: 72
+specialattack: 99
+specialdefense: 92
+speed: 58
+total: 521
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Aurorus** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 699 | Aurorus | 699 | 27 | 2250 | 104 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

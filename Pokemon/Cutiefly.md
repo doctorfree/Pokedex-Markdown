@@ -2,6 +2,13 @@
 name: Cutiefly
 type: Bug, Fairy
 abilities: Honey Gather, Shield Dust, Sweet Veil
+hitpoints: 40
+attack: 45
+defense: 40
+specialattack: 55
+specialdefense: 40
+speed: 84
+total: 304
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cutiefly** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 742 | Cutiefly | 742 | 1 | 2 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

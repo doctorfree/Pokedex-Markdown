@@ -2,6 +2,13 @@
 name: Arcanine
 type: Fire
 abilities: Intimidate, Flash Fire, Justified
+hitpoints: 90
+attack: 110
+defense: 80
+specialattack: 100
+specialdefense: 80
+speed: 95
+total: 555
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Arcanine** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 59 | Arcanine | 59 | 19 | 1550 | 194 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| 90 | 110 | 80 | 100 | 80 | 95 | 555 |
 
 ## See also
 

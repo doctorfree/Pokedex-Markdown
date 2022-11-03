@@ -2,6 +2,13 @@
 name: Mudbray
 type: Ground
 abilities: Own Tempo, Stamina, Inner Focus
+hitpoints: 70
+attack: 100
+defense: 70
+specialattack: 45
+specialdefense: 55
+speed: 45
+total: 385
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Mudbray** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 749 | Mudbray | 749 | 10 | 1100 | 77 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Emolga
 type: Electric, Flying
 abilities: Static, (Hidden) Motor Drive
+hitpoints: 55
+attack: 75
+defense: 60
+specialattack: 75
+specialdefense: 60
+speed: 103
+total: 428
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Emolga** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 587 | Emolga | 587 | 4 | 50 | 150 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

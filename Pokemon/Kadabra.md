@@ -2,6 +2,13 @@
 name: Kadabra
 type: Psychic
 abilities: Synchronize, Inner Focus, Magic Guard
+hitpoints: 40
+attack: 35
+defense: 30
+specialattack: 120
+specialdefense: 70
+speed: 105
+total: 400
 tags:
     - pokemon
 categories:
@@ -21,14 +28,19 @@ categories:
 
 Kadabra is a bipedal Pok&#x00e9;mon characterized by a humanoid body structure and somewhat fox-like appearance. It has armor-like characteristics, featuring pauldron-shaped pieces on its shoulders and a fauld-like piece around its chest. It has three fingers on each hand and three toes on each foot, with two toes in the front on either side and one in the back near the ankle. It also has a thick tail. Kadabra also has a large mustache, which is larger for male members of the species. It has a red star-shaped symbol on its forehead, and three red wavy lines on its fauld-like torso that resemble symbols used on zener cards. Kadabra, as well as its other forms, is capable of using telepathy as well as manipulating others' minds. It can also teleport.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 64 | Kadabra | 64 | 13 | 565 | 140 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

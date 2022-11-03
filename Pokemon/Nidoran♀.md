@@ -2,6 +2,13 @@
 name: Nidoran♀
 type: Poison
 abilities: Poison Point, Rivalry, Hustle
+hitpoints: 55
+attack: 47
+defense: 52
+specialattack: 40
+specialdefense: 40
+speed: 41
+total: 275
 tags:
     - pokemon
 categories:
@@ -18,6 +25,18 @@ categories:
 | Nidoran♀ | 029 | Poison  |  |
 
 **Nidoran♀** 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+|  |  |  |  |
 
 ## See also
 

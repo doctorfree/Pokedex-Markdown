@@ -2,6 +2,13 @@
 name: Bergmite
 type: Ice
 abilities: Own Tempo, Ice Body, Sturdy
+hitpoints: 55
+attack: 69
+defense: 85
+specialattack: 32
+specialdefense: 35
+speed: 28
+total: 304
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Bergmite** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 712 | Bergmite | 712 | 10 | 995 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

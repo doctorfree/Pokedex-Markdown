@@ -2,6 +2,13 @@
 name: Dugtrio
 type: Ground
 abilities: Sand Veil, Arena Trap, Sand Force
+hitpoints: 35
+attack: 100
+defense: 50
+specialattack: 50
+specialdefense: 70
+speed: 120
+total: 425
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Dugtrio** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 51 | Dugtrio | 51 | 7 | 333 | 149 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

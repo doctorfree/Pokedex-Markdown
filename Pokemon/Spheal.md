@@ -2,6 +2,13 @@
 name: Spheal
 type: Ice, Water
 abilities: Thick Fat, Ice Body, Oblivious
+hitpoints: 70
+attack: 40
+defense: 50
+specialattack: 55
+specialdefense: 50
+speed: 25
+total: 290
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Spheal** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 363 | Spheal | 363 | 8 | 395 | 58 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

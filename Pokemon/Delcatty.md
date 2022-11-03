@@ -2,6 +2,13 @@
 name: Delcatty
 type: Normal
 abilities: Cute Charm, Normalize, Wonder Skin
+hitpoints: 70
+attack: 65
+defense: 65
+specialattack: 55
+specialdefense: 55
+speed: 90
+total: 400
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Delcatty** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 301 | Delcatty | 301 | 11 | 326 | 140 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

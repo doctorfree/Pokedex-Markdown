@@ -2,6 +2,13 @@
 name: Spiritomb
 type: Ghost, Dark
 abilities: Pressure, (Hidden) Infiltrator
+hitpoints: 50
+attack: 92
+defense: 108
+specialattack: 92
+specialdefense: 108
+speed: 35
+total: 485
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Spiritomb** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 442 | Spiritomb | 442 | 10 | 1080 | 170 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

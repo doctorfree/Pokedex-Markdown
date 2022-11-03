@@ -2,6 +2,13 @@
 name: Magcargo
 type: Fire, Rock
 abilities: Magma Armor, Flame Body, Weak Armor
+hitpoints: 60
+attack: 50
+defense: 120
+specialattack: 90
+specialdefense: 80
+speed: 30
+total: 430
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Magcargo** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 219 | Magcargo | 219 | 8 | 550 | 151 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

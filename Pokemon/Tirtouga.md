@@ -2,6 +2,13 @@
 name: Tirtouga
 type: Water, Rock
 abilities: Solid Rock, Sturdy, Swift Swim
+hitpoints: 54
+attack: 78
+defense: 103
+specialattack: 53
+specialdefense: 45
+speed: 22
+total: 355
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tirtouga** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 564 | Tirtouga | 564 | 7 | 165 | 71 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

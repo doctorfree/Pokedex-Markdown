@@ -2,6 +2,13 @@
 name: Turtwig
 type: Grass
 abilities: Overgrow, (Hidden) Shell Armor
+hitpoints: 55
+attack: 68
+defense: 64
+specialattack: 45
+specialdefense: 55
+speed: 31
+total: 318
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Turtwig** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 387 | Turtwig | 387 | 4 | 102 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

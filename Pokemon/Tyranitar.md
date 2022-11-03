@@ -2,6 +2,13 @@
 name: Tyranitar
 type: Rock, Dark
 abilities: Sand Stream, (Hidden) Unnerve
+hitpoints: 100
+attack: 134
+defense: 110
+specialattack: 95
+specialdefense: 100
+speed: 61
+total: 600
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Tyranitar** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 248 | Tyranitar | 248 | 20 | 2020 | 300 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

@@ -2,6 +2,13 @@
 name: Terrakion
 type: Rock, Fighting
 abilities: Justified
+hitpoints: 91
+attack: 129
+defense: 90
+specialattack: 72
+specialdefense: 90
+speed: 108
+total: 580
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Terrakion** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 639 | Terrakion | 639 | 19 | 2600 | 290 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

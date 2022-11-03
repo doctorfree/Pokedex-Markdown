@@ -2,6 +2,13 @@
 name: Stakataka
 type: Rock, Steel
 abilities: Beast Boost
+hitpoints: 61
+attack: 131
+defense: 211
+specialattack: 53
+specialdefense: 101
+speed: 13
+total: 570
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Stakataka** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 805 | Stakataka | 805 | 55 | 8200 | 285 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

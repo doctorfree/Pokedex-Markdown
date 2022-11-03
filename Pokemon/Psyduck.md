@@ -2,6 +2,13 @@
 name: Psyduck
 type: Water
 abilities: Damp, Cloud Nine, Swift Swim
+hitpoints: 50
+attack: 52
+defense: 48
+specialattack: 65
+specialdefense: 50
+speed: 55
+total: 320
 tags:
     - pokemon
 categories:
@@ -25,14 +32,19 @@ Psyduck resembles a yellow platypus with a vacant stare. It has a small tuft of 
 
 Psyduck is constantly stunned by its headache, and usually just stands there vacantly, trying to calm its headache. When the headache gets too bad, its brain cells awaken, allowing it to use strong psychic powers. Some use their vacant look to their advantage, lulling the enemy and then using its psychokinetic powers. Psyduck do not remember using their powers, which they use while in a state of deep sleep, so they tilt their head in confusion.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 54 | Psyduck | 54 | 8 | 196 | 64 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

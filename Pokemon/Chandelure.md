@@ -2,6 +2,13 @@
 name: Chandelure
 type: Ghost, Fire
 abilities: Flash Fire, Flame Body, Infiltrator
+hitpoints: 60
+attack: 55
+defense: 90
+specialattack: 145
+specialdefense: 90
+speed: 80
+total: 520
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Chandelure** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 609 | Chandelure | 609 | 10 | 343 | 260 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

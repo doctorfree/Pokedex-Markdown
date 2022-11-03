@@ -2,6 +2,13 @@
 name: Yungoos
 type: Normal
 abilities: Stakeout, Strong Jaw, Adaptability
+hitpoints: 48
+attack: 70
+defense: 30
+specialattack: 30
+specialdefense: 30
+speed: 45
+total: 253
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Yungoos** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 734 | Yungoos | 734 | 4 | 60 | 51 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

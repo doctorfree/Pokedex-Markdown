@@ -2,6 +2,13 @@
 name: Cyndaquil
 type: Fire
 abilities: Blaze, (Hidden) Flash Fire
+hitpoints: 39
+attack: 52
+defense: 43
+specialattack: 60
+specialdefense: 50
+speed: 65
+total: 309
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Cyndaquil** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 155 | Cyndaquil | 155 | 5 | 79 | 62 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

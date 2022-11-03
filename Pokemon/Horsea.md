@@ -2,6 +2,13 @@
 name: Horsea
 type: Water
 abilities: Swift Swim, Sniper, Damp
+hitpoints: 30
+attack: 40
+defense: 70
+specialattack: 70
+specialdefense: 25
+speed: 60
+total: 295
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Horsea** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 116 | Horsea | 116 | 4 | 80 | 59 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

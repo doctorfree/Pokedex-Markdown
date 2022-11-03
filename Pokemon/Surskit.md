@@ -2,6 +2,13 @@
 name: Surskit
 type: Bug, Water
 abilities: Swift Swim, (Hidden) Rain Dish
+hitpoints: 40
+attack: 30
+defense: 32
+specialattack: 50
+specialdefense: 52
+speed: 65
+total: 269
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Surskit** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 283 | Surskit | 283 | 5 | 17 | 54 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

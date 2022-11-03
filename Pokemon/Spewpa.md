@@ -2,6 +2,13 @@
 name: Spewpa
 type: Bug
 abilities: Shed Skin, (Hidden) Friend Guard
+hitpoints: 45
+attack: 22
+defense: 60
+specialattack: 27
+specialdefense: 30
+speed: 29
+total: 213
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Spewpa** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 665 | Spewpa | 665 | 3 | 84 | 75 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

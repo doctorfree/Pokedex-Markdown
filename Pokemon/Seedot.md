@@ -2,6 +2,13 @@
 name: Seedot
 type: Grass
 abilities: Chlorophyll, Early Bird, Pickpocket
+hitpoints: 40
+attack: 40
+defense: 50
+specialattack: 30
+specialdefense: 30
+speed: 30
+total: 220
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Seedot** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 273 | Seedot | 273 | 5 | 40 | 44 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

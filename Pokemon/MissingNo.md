@@ -23,6 +23,18 @@ As with any wild Pok&#x00e9;mon, players may flee from, fight, or capture Missin
 
 A captured MissingNo is functional as a Pok&#x00e9;mon and appears in the games' Pok&#x00e9;dex as number 000. The games classify it as a hybrid Bird/Normal-type Pok&#x00e9;mon even though the category of Bird-type Pok&#x00e9;mon was cut from the games before release. It commonly appears with a scrambled block-like form commonly described as a "backward L-shape", but depending on the player character's name, it can also appear as one of three ghost or fossil sprites not used by other Pok&#x00e9;mon.
 
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+
+
+| **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
+|----------------|------------|------------|---------------------|
+|  |  |  |  |
+
 ## See also
 
 - [List of Pokémon](../pokemon.md)

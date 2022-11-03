@@ -2,6 +2,13 @@
 name: Bounsweet
 type: Grass
 abilities: Leaf Guard, Oblivious, Sweet Veil
+hitpoints: 42
+attack: 30
+defense: 38
+specialattack: 30
+specialdefense: 38
+speed: 32
+total: 210
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Bounsweet** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 761 | Bounsweet | 761 | 3 | 32 | 42 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

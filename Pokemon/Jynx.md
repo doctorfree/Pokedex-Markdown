@@ -2,6 +2,13 @@
 name: Jynx
 type: Ice, Psychic
 abilities: Oblivious, Forewarn, Dry Skin
+hitpoints: 65
+attack: 50
+defense: 35
+specialattack: 115
+specialdefense: 95
+speed: 95
+total: 455
 tags:
     - pokemon
 categories:
@@ -25,14 +32,19 @@ Also known as the "Human Shape" Pok&#x00e9;mon, Jynx is a female-only species th
 
 Jynx Pok&#x00e9;mon walk in a dance-like fashion, wiggling their hips in a manner described in Red & Blue, as well as in Leaf Green as "seductive". It uses dancing to communicate, with the exact rhythm relying on its emotion at the time. The dance affects people, causing them to themselves dance with no regard to their actions. Jynx speak in a language that only other Jynx can understand, though the sound is described as similar to human speech. This trait is carried on to games where Pok&#x00e9;mon speak English such as the Pok&#x00e9;mon Mystery Dungeon series, with the text appearing as combinations of "X"s, "O"s, punctuation marks, and/or musical notes, instead of legible words. Jynx are psychic, and can attack either by kissing an opponent or launching "strange orbs" at them, and can protect themselves with a psychically-generated barrier.
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 124 | Jynx | 124 | 14 | 406 | 159 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

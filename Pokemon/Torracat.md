@@ -2,6 +2,13 @@
 name: Torracat
 type: Fire
 abilities: Blaze, (Hidden) Intimidate
+hitpoints: 65
+attack: 85
+defense: 50
+specialattack: 80
+specialdefense: 50
+speed: 90
+total: 420
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Torracat** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 726 | Torracat | 726 | 7 | 250 | 147 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

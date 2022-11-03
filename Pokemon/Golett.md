@@ -2,6 +2,13 @@
 name: Golett
 type: Ground, Ghost
 abilities: Iron Fist, Klutz, No Guard
+hitpoints: 59
+attack: 74
+defense: 50
+specialattack: 35
+specialdefense: 50
+speed: 35
+total: 303
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Golett** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 622 | Golett | 622 | 10 | 920 | 61 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

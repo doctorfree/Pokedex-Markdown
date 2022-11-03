@@ -2,6 +2,13 @@
 name: Pupitar
 type: Rock, Ground
 abilities: Shed Skin
+hitpoints: 70
+attack: 84
+defense: 70
+specialattack: 65
+specialdefense: 70
+speed: 51
+total: 410
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Pupitar** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 247 | Pupitar | 247 | 12 | 1520 | 144 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

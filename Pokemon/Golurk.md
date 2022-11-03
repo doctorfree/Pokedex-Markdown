@@ -2,6 +2,13 @@
 name: Golurk
 type: Ground, Ghost
 abilities: Iron Fist, Klutz, No Guard
+hitpoints: 89
+attack: 124
+defense: 80
+specialattack: 55
+specialdefense: 80
+speed: 55
+total: 483
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Golurk** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 623 | Golurk | 623 | 28 | 3300 | 169 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

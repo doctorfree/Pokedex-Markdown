@@ -2,6 +2,13 @@
 name: Huntail
 type: Water
 abilities: Swift Swim, (Hidden) Water Veil
+hitpoints: 55
+attack: 104
+defense: 105
+specialattack: 94
+specialdefense: 75
+speed: 52
+total: 485
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Huntail** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 367 | Huntail | 367 | 17 | 270 | 170 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 

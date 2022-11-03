@@ -2,6 +2,13 @@
 name: Wynaut
 type: Psychic
 abilities: Shadow Tag, (Hidden) Telepathy
+hitpoints: 95
+attack: 23
+defense: 48
+specialattack: 23
+specialdefense: 48
+speed: 23
+total: 260
 tags:
     - pokemon
 categories:
@@ -20,14 +27,19 @@ categories:
 **Wynaut** 
 
 
-Height is measured in decimeters (1/10th of a meter)
 
-Weight is measured in hectograms (1/10th of a kilogram)
 
-| **Id** | **Name** | **Species Id** | **Height** | **Weight** | **Base Experience** |
+| **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
 | 360 | Wynaut | 360 | 6 | 140 | 52 |
 
+
+
+## Stats
+
+| **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
+|----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
+| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
 
 ## See also
 
