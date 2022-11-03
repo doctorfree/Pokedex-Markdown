@@ -77,4 +77,5 @@ SORT name ASC
 - [Pokédex Pokémon](Pokedex/pokemon.md)
 - [Pokédex](pokedex.md)
 - [Pokémon](pokemon.md)
+- [Pokémon Generations](generations.md)
 - [README](README.md)

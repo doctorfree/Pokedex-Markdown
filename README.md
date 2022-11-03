@@ -15,6 +15,7 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Categories](#pokédex-categories)
 - [Pokédex](Pokedex/pokemon.md)
+- [Pokémon Generations](generations.md)
 - [Obsidian Graph View](#obsidian-graph-view)
 - [Tools](#tools)
     - [Pokemon Fetch](#pokemon-fetch)
@@ -55,6 +56,10 @@ Included here as well is an `.obsidian` directory populated with my [Doctorfree 
 Enter the [Pokédex](Pokedex/pokemon.md) and behold the astonishing wealth of Pokémon data.
 
 View a list of the [Pokémon](pokemon.md) and [Pokémon data](pokedex.md).
+
+## Pokémon Generations
+
+View a list of the [Generations of Pokémon](generations.md)
 
 ## Obsidian Graph View
 

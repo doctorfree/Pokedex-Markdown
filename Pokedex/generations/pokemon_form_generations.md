@@ -4958,3 +4958,9 @@ categories:
 | 10361           | 8             | 0          |
 | 10362           | 8             | 0          |
 | 10363           | 8             | 0          |
+
+## See also
+
+- [Generation names](generation_names.md)
+- [Generations](generations.md)
+- [List of species in generations](../../generations.md)

@@ -885,4 +885,5 @@ Browse the [National Pokédex](national_pokedex.md).
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Pokémon](Pokedex/pokemon.md)
 - [Pokédex](pokedex.md)
+- [Pokémon Generations](generations.md)
 - [README](README.md)

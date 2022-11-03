@@ -18,3 +18,9 @@ categories:
 | 6  | 6              | generation-vi   |
 | 7  | 7              | generation-vii  |
 | 8  | 8              | generation-viii |
+
+## See also
+
+- [Generation names](generation_names.md)
+- [Pokemon form generations](pokemon_form_generations.md)
+- [List of species in generations](../../generations.md)
