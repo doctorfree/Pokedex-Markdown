@@ -39,7 +39,7 @@ categories:
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 125 | 58 | 58 | 76 | 76 | 67 | 460 |
 
 ## See also
 

@@ -43,7 +43,7 @@ Appearing as an anthropomorphic creature, it has a pink head with red cheeks and
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 40 | 45 | 65 | 100 | 120 | 90 | 460 |
 
 ## See also
 

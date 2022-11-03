@@ -28,7 +28,7 @@ A captured MissingNo is functional as a Pok&#x00e9;mon and appears in the games'
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| undefined | undefined | undefined | undefined | undefined | undefined | undefined |
 
 
 | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |

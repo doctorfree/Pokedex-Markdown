@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokemon/Altaria.md",
+                "file": "Pokemon/Nidoran♀.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon/Altaria.md",
+                "file": "Pokemon/Nidoran♀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon/Altaria.md",
+                "file": "Pokemon/Nidoran♀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pokemon/Altaria.md"
+                "file": "Pokemon/Nidoran♀.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "ce2fa54da449590f",
   "lastOpenFiles": [
-    "Pokemon/Alomomola.md",
-    "Pokemon/Alakazam.md",
-    "Pokemon/Aggron.md",
-    "Pokemon/Aipom.md",
-    "Pokemon/Aerodactyl.md",
-    "Pokemon/Aegislash.md",
-    "Pokemon/Accelgor.md",
-    "Pokemon/Absol.md",
-    "Pokemon/Abra.md",
-    "Pokemon/Abomasnow.md"
+    "Pokemon/Nidoran♂.md",
+    "Pokemon/Nidorina.md",
+    "Pokemon/Nidoqueen.md",
+    "Pokemon/Nidoran♀.md",
+    "README.md",
+    "Incoming/Armaldo.md",
+    "Pokemon/Armaldo.md",
+    "New/Mew.md",
+    "New/Crustle.md",
+    "New/Cutiefly.md"
   ]
 }

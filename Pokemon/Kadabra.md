@@ -40,7 +40,7 @@ Kadabra is a bipedal Pok&#x00e9;mon characterized by a humanoid body structure a
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 40 | 35 | 30 | 120 | 70 | 105 | 400 |
 
 ## See also
 

@@ -40,7 +40,7 @@ Pichu, known as the "Tiny Mouse" species of Pok&#x00e9;mon, are the pre-evolved 
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 20 | 40 | 15 | 35 | 35 | 60 | 205 |
 
 ## See also
 

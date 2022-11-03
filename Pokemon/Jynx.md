@@ -44,7 +44,7 @@ Jynx Pok&#x00e9;mon walk in a dance-like fashion, wiggling their hips in a manne
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 65 | 50 | 35 | 115 | 95 | 95 | 455 |
 
 ## See also
 

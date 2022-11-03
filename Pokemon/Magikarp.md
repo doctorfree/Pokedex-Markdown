@@ -42,7 +42,7 @@ The concept of Magikarp evolving into [Gyarados](Gyarados.md) is based on the Ch
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 20 | 10 | 55 | 15 | 20 | 80 | 200 |
 
 ## See also
 

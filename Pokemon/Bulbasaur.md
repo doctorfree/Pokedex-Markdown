@@ -66,7 +66,7 @@ Bulbasaur is a Seed Pokémon. A young Bulbasaur uses the nutrients from its seed
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 45 | 49 | 49 | 65 | 65 | 45 | 318 |
 
 
 | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |

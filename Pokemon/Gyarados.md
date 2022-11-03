@@ -42,7 +42,7 @@ Gyarados is a Pok&#x00e9;mon whose design is inspired by dragons, specifically d
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 95 | 125 | 79 | 60 | 100 | 81 | 540 |
 
 ## See also
 

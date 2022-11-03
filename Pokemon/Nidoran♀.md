@@ -31,12 +31,12 @@ categories:
 
 | **Hit Points** | **Attack** | **Defense** | **Special Attack** | **Special Defense** | **Speed** | **Total** |
 |----------------|------------|-------------|--------------------|---------------------|-----------|-----------|
-| <% tp.frontmatter.hitpoints %> | <% tp.frontmatter.attack %> | <% tp.frontmatter.defense %> | <% tp.frontmatter.specialattack %> | <% tp.frontmatter.specialdefense %> | <% tp.frontmatter.speed %> | <% tp.frontmatter.total %> |
+| 55 | 47 | 52 | 40 | 40 | 41 | 275 |
 
 
 | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |----------------|------------|------------|---------------------|
-|  |  |  |  |
+| 29         | 4      | 70     | 55              |
 
 ## See also
 
