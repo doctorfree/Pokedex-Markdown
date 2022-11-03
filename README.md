@@ -6,17 +6,20 @@ The [National Pokédex](national_pokedex.md) allows Pokémon from all regions to
 
 This repository contains a Pokémon Pokédex in markdown format. It was generated from [Veekun's Pokédex](https://github.com/veekun/pokedex) by converting the CSV format Pokédex to Markdown using a script I wrote for [Asciiville](https://github.com/doctorfree/Asciiville.git).
 
-**[Note:]** Some of these markdown files are quite large. Some markdown viewers/editors perform an indexing of all markdown documents in the "vault" or collection. This indexing operation may consume quite a bit of time. Hopefully your markdown viewer/editor is smart enough to perform the indexing only once (e.g. Obsidian will only perform indexing when the vault is initially added). The largest markdown files were split using the [markdown split script](#split-markdown) but several remain over 1MB.
+**[Note:]** Some of these markdown files are large. Some markdown viewers/editors perform an indexing of all markdown documents in the "vault" or collection. This indexing operation may consume a bit of time. Hopefully your markdown viewer/editor is smart enough to perform the indexing only once (e.g. Obsidian will only perform indexing when the vault is initially added). The largest markdown files were split using the [markdown split script](#split-markdown) in an effort to mitigate this issue.
 
 ## Table of Contents
 
 - [Usage](#usage)
+    - [Pokédex Queries](pokedex_queries.md)
 - [Pokémon](pokemon.md)
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Categories](#pokédex-categories)
 - [Pokédex](Pokedex/pokemon.md)
 - [Pokémon Generations](generations.md)
 - [Obsidian Graph View](#obsidian-graph-view)
+- [Contributing](CONTRIBUTING.md)
+- [Support](#support)
 - [Tools](#tools)
     - [Pokemon Fetch](#pokemon-fetch)
     - [CSV to Markdown](#csv-to-markdown)
@@ -34,6 +37,10 @@ This repository is organized as an Obsidian vault containing the Pokédex in mar
 4. Trust us. :) 
 5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
 6. Done! The Pokédex Markdown vault is now available to you in its purest and most useful form!
+
+### Pokédex Queries
+
+The Markdown Pokédex has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Pokédex Queries](pokedex_queries.md) document.
 
 ## Pokémon
 
@@ -66,6 +73,16 @@ View a list of the [Generations of Pokémon](generations.md)
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.
 
 ![Graph View](graph-view.png)
+
+## Contributing
+
+The Markdown Pokédex is in continual development and improvement. To contribute to this project, see the [Contributing guidelines](CONTRIBUTING.md).
+
+## Support
+
+Support the development and improvement of the Markdown Pokédex by [sponsoring the Projects of Doctorfree](https://github.com/sponsors/doctorfree).
+
+<a href="https://www.buymeacoffee.com/doctorfree"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=doctorfree&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ## Tools
 

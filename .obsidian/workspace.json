@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generations.md",
+                "file": "CONTRIBUTING.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generations.md",
+                "file": "CONTRIBUTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "generations.md",
+                "file": "CONTRIBUTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generations.md"
+                "file": "CONTRIBUTING.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "ce2fa54da449590f",
   "lastOpenFiles": [
+    "README.md",
+    "obsidian_dataview_query.md",
+    "Pokemon/Panpour.md",
+    "Pokemon/Archeops.md",
+    "Pokemon/Aerodactyl.md",
+    "generations.md",
     "Pokemon/Abra.md",
     "pokedex.md",
     "Pokemon/Kadabra.md",
-    "Pokemon/Alakazam.md",
-    "pokemon.md",
-    "Pokemon/Altaria.md",
-    "Pokemon/Alomomola.md",
-    "Pokemon/Amaura.md",
-    "Pokemon/Ambipom.md",
-    "generations.md"
+    "Pokemon/Alakazam.md"
   ]
 }
