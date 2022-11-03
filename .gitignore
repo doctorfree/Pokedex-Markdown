@@ -7,12 +7,7 @@
 !.obsidian/themes/Doctorfree/manifest.json
 !.obsidian/themes/Doctorfree/theme.css
 !.obsidian/plugins
-.obsidian/plugins/*
-!.obsidian/plugins/dataview
-.obsidian/plugins/dataview/*
-!.obsidian/plugins/dataview/main.js
-!.obsidian/plugins/dataview/manifest.json
-!.obsidian/plugins/dataview/styles.css
+!.obsidian/plugins/*
 
 .index
 tmp/*

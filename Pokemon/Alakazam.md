@@ -20,14 +20,11 @@ categories:
 
 ![Alakazam](images/065.png)
 
+Due to its brain drastically growing, causing its head to be too heavy, **Alakazam** (F&#x016b;din &#x30d5;&#x30fc;&#x30c7;&#x30a3;&#x30f3;) actually uses its psychic power to hold its head up. Its 5000 IQ makes it a very intelligent Pok&#x00e9;mon. It can affect nearby technology using its brainwaves. Kadabra and Alakazam were the direct counters to the Gastly line of Ghost-type Pok&#x00e9;mon since they were dual types with Poison-type, hence weak to psychic-type moves. Throughout the series, the Abra and Gastly lines were considered rivals.
+
 | **Name** | **Index** | **Type 1** | **Type 2** |
 |----|----|----|----|
 | Alakazam | 065 | Psychic  |  |
-
-**Alakazam** 
-
-
-
 
 | **Id** | **Name** | **Species Id** | **Height dm** | **Weight hg** | **Base Experience** |
 |--------|----------|----------------|------------|------------|---------------------|
