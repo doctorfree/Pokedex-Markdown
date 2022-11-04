@@ -1,5 +1,6 @@
 .obsidian/*
 !.obsidian/*.json
+.obsidian/workspace.json
 !.obsidian/themes
 .obsidian/themes/*
 !.obsidian/themes/Doctorfree
