@@ -45,6 +45,10 @@ The full Release Notes for the current version of the Markdown Pokédex can be f
 
 The Markdown Pokédex has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Pokédex Queries](pokedex_queries.md) document.
 
+#### Screenshot of Example Pokédex Queries
+
+![Dataview Queries](screenshots/dataview.png)
+
 ## Pokémon
 
 View [Pokémon](pokemon.md) types with an overview of the Pokédex.
@@ -75,7 +79,7 @@ View a list of the [Generations of Pokémon](generations.md)
 
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.
 
-![Graph View](graph-view.png)
+![Graph View](screenshots/graph-view.png)
 
 ## Contributing
 

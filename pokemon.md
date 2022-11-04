@@ -13,7 +13,7 @@ categories:
 - [Pokémon Overview](#pokémon-overview)
     - [Gameplay](#gameplay)
 - [The Pokédex](#the-pokédex)
-    - [The National Pokédex](the-national_pokedex.md)
+    - [The National Pokédex](national_pokedex.md)
 - [Pokémon Types](#pokémon-types)
     - [Types Legend](#types-legend)
     - [List of Pokémon](#list-of-pokémon)
