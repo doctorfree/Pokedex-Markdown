@@ -1,7 +1,7 @@
 #!/bin/bash
 
-VERSION="1.0.1"
-RELEASE=2
+VERSION="1.0.2"
+RELEASE=1
 
 usage() {
     printf "\nUsage: mkrelease [-c] [-d] [-p] [-u]"
@@ -38,6 +38,6 @@ ANNO="Markdown Pokédex Version ${VERSION} Release ${RELEASE}"
 
 gh release create v${VERSION}r${RELEASE} ${DRAFT} \
                   --title "${ANNO}" \
-                  --generate-notes
+                  --notes-file release_notes.md
 
 git fetch --tags origin
