@@ -2,15 +2,14 @@
 
 The Pokédex (Pokémon Encyclopedia) is an electronic device designed to catalog and provide information regarding the various species of Pokémon. The name Pokédex is a portmanteau of Pokémon and index. In the video games, whenever a Pokémon is first caught, its height, weight, species type, and a short description will be added to a player's Pokédex. Each region has its own Pokédex, which differ in appearance, species of Pokémon catalogued, and functions. In *Pokémon Legends: Arceus*, which takes place long before any other Pokémon games, players are tasked with assembling the first ever Pokédex.
 
-The [National Pokédex](national_pokedex.md) allows Pokémon from all regions to be catalogued. After its removal from *Pokémon Sword and Shield*, many fans were upset, due to the lack of a National Pokédex meaning that not every Pokémon would be transferrable to *Sword and Shield*. Although the National Pokédex returned in *Brilliant Diamond and Shining Pearl*, albeit only allowing Pokémon transferrable to the original Diamond and Pearl games, it has remained absent in original titles.
+The [National Pokédex](national_pokedex.md) allows Pokémon from all regions to be catalogued.
 
 This repository contains a Pokémon Pokédex in markdown format. It was generated from [Veekun's Pokédex](https://github.com/veekun/pokedex) by converting the CSV format Pokédex to Markdown using a script I wrote for [Asciiville](https://github.com/doctorfree/Asciiville.git).
-
-**[Note:]** Some of these markdown files are large. Some markdown viewers/editors perform an indexing of all markdown documents in the "vault" or collection. This indexing operation may consume a bit of time. Hopefully your markdown viewer/editor is smart enough to perform the indexing only once (e.g. Obsidian will only perform indexing when the vault is initially added). The largest markdown files were split using the [markdown split script](#split-markdown) in an effort to mitigate this issue.
 
 ## Table of Contents
 
 - [Usage](#usage)
+    - [Release Notes](release_notes.md)
     - [Pokédex Queries](pokedex_queries.md)
 - [Pokémon](pokemon.md)
 - [National Pokédex](national_pokedex.md)
@@ -36,7 +35,11 @@ This repository is organized as an Obsidian vault containing the Pokédex in mar
 3. Open the vault in Obsidian via "Open another vault -> Open folder as vault"
 4. Trust us. :) 
 5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
-6. Done! The Pokédex Markdown vault is now available to you in its purest and most useful form!
+6. Done! The Markdown Pokédex vault is now available to you in its purest and most useful form!
+
+### Release Notes
+
+The full Release Notes for the current version of the Markdown Pokédex can be found in [release_notes.md](release_notes.md).
 
 ### Pokédex Queries
 
@@ -86,7 +89,7 @@ Support the development and improvement of the Markdown Pokédex by [sponsoring 
 
 ## Tools
 
-To create this markdown Pokédex, the following tools were used in the retrieval, conversion, and modification of Pokémon data.
+To create this markdown Pokédex, several custom tools were used in the retrieval, conversion, and modification of Pokémon data. In addition to those included here in the [Tools folder](Tools/README.md), the following scripts were used:
 
 ### Pokemon fetch
 
