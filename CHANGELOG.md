@@ -1,5 +1,6 @@
 # Changelog
 
+* Add many Pokemon names and links in pokemon.md
 * Add document for contributing
 * Rename and link pokedex_queries.md
 * Add example uses of Dataview to query the Pokedex
