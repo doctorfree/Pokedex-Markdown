@@ -1,5 +1,7 @@
 # Changelog
 
+* Add Release Notes
+* Add scripts used as tools in the building of this repo
 * Add many Pokemon names and links in pokemon.md
 * Add document for contributing
 * Rename and link pokedex_queries.md
