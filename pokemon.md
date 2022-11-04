@@ -11,6 +11,7 @@ categories:
 ## Table of Contents
 
 - [Pokémon Overview](#pokémon-overview)
+- [Pokémon Overview](#Pokémon%20Overview)
     - [Gameplay](#gameplay)
 - [The Pokédex](#the-pokédex)
     - [The National Pokédex](national_pokedex.md)
