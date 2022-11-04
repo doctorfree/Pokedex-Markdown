@@ -36,7 +36,7 @@ SORT name ASC
 ```
 ````
 
-The above Dataview code block would produce the following output:
+The above Dataview code block produces the following output:
 
 ```dataview
 TABLE WITHOUT ID
@@ -64,7 +64,7 @@ SORT name ASC
 ```
 ````
 
-The above Dataview code block would produce the following output:
+The above Dataview code block produces the following output:
 
 ```dataview
 TABLE WITHOUT ID
@@ -151,7 +151,7 @@ WHERE (type = "Grass" and
 ```
 ````
 
-Which would produce:
+Which produces:
 
 ```dataview
 TABLE WITHOUT ID
