@@ -179,4 +179,5 @@
 
 - [Generation names](Pokedex/generations/generation_names.md)
 - [Generations](Pokedex/generations/generations.md)
-- [Pokemon form generations](Pokedex/generations/pokemon_form_generations.md)
+- [Pokémon form generations](Pokedex/generations/pokemon_form_generations.md)
+- [List of Pokémon](list_of_pokemon.md)

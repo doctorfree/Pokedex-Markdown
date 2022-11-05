@@ -929,5 +929,6 @@ Table of Pokémon types, abilities, and data:
 
 - [National Pokédex](national_pokedex.md)
 - [Pokémon](pokemon.md)
+- [List of Pokémon](list_of_pokemon.md)
 - [Pokémon Generations](generations.md)
 - [README](README.md)

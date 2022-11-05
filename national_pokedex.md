@@ -1,3 +1,7 @@
+---
+cssclass: t-c
+---
+
 # National Pokédex
 
 This is a list of Pokémon in the order dictated by the National Pokédex, meaning that Pokémon from the Kanto region will appear first, followed by those from Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar, and Hisui. Each region's set of Pokémon starts with its own set of starter Pokémon and their evolutions, going in order of Grass, Fire, Water; the only exception is Unova, which begins with Victini, who is then followed by the starter Pokémon.
@@ -1061,4 +1065,5 @@ The first 151 entries in this Pokédex also serve as Kanto's regional Pokédex. 
 
 - [Pokédex](pokedex.md)
 - [Pokémon](pokemon.md)
+- [List of Pokémon](list_of_pokemon.md)
 - [README](README.md)

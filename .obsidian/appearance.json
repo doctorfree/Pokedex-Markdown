@@ -5,8 +5,6 @@
   "interfaceFontFamily": "mononoki Nerd Font",
   "textFontFamily": "mononoki Nerd Font",
   "monospaceFontFamily": "mononoki Nerd Font Mono",
-  "enabledCssSnippets": [
-    "enlarge-image-on-hover"
-  ],
+  "enabledCssSnippets": [],
   "theme": "obsidian"
 }
