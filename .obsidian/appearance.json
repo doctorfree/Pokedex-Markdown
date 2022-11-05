@@ -1,10 +1,12 @@
 {
   "accentColor": "",
   "cssTheme": "Doctorfree",
-  "baseFontSize": 22,
+  "baseFontSize": 24,
   "interfaceFontFamily": "mononoki Nerd Font",
   "textFontFamily": "mononoki Nerd Font",
   "monospaceFontFamily": "mononoki Nerd Font Mono",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "enlarge-image-on-hover"
+  ],
   "theme": "obsidian"
 }
