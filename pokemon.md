@@ -10,16 +10,16 @@ categories:
 
 ## Table of Contents
 
-- [Pokémon Overview](#Pokémon%20Overview)
+- [Pokémon_Overview](#pokémon_overview)
     - [Gameplay](#gameplay)
-- [The Pokédex](#the-pokédex)
+- [The_Pokédex](#the_pokédex)
     - [The National Pokédex](national_pokedex.md)
-- [Pokémon Types](#pokémon-types)
-    - [Types Legend](#types-legend)
-    - [List of Pokémon](#list-of-pokémon)
-- [See Also](#See%20Also)
+- [Pokémon_Types](#pokémon_types)
+    - [Types_Legend](#types_legend)
+    - [List_of_Pokémon](#list_of_pokémon)
+- [See_Also](#see_also)
 
-## Pokémon Overview
+## Pokémon_Overview
 
 Pok&#x00e9;mon (an abbreviation for Pocket Monsters in Japan) is a Japanese media franchise managed by The Pok&#x00e9;mon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by Satoshi Tajiri in 1996, and is centered on fictional creatures called "Pok&#x00e9;mon". In Pok&#x00e9;mon, humans, known as Pok&#x00e9;mon Trainers, catch and train Pok&#x00e9;mon to battle other Pok&#x00e9;mon for sport. All media works within the franchise are set in the Pok&#x00e9;mon universe. The English slogan for the franchise is "Gotta Catch &#x2018Em All!". There are currently 905 Pok&#x00e9;mon species.
 
@@ -39,7 +39,7 @@ Catching is one of the most recognizable and important aspects of the Pok&#x00e9
 
 The Pok&#x00e9; Ball (&#x30e2;&#x30f3;&#x30b9;&#x30bf;&#x30fc;&#x30dc;&#x30fc;&#x30eb;, Monsut&#x0101;b&#x014d;ru, lit: Monster Ball) is a spherical device used by Pok&#x00e9;mon Trainers to catch wild Pok&#x00e9;mon. When a Pok&#x00e9; Ball is thrown at a Pok&#x00e9;mon, the Pok&#x00e9;mon shrink themselves to fit inside of it.
 
-## The Pokédex
+## The_Pokédex
 
 The Pok&#x00e9;dex (&#x30dd;&#x30b1;&#x30e2;&#x30f3;&#x56f3;&#x9451;, Pok&#x00e9;mon Zukan, lit.: Pok&#x00e9;mon Encyclopedia) is an electronic device designed to catalog and provide information regarding the various species of Pok&#x00e9;mon. The name Pok&#x00e9;dex is a portmanteau of Pok&#x00e9;mon and index. In the video games, whenever a Pok&#x00e9;mon is first caught, its height, weight, species type, and a short description will be added to a player's Pok&#x00e9;dex. Each region has its own Pok&#x00e9;dex, which differs in appearance, species of Pok&#x00e9;mon catalogued, and functions. In Pok&#x00e9;mon Legends: Arceus, which takes place long before any other Pok&#x00e9;mon games, players are tasked with assembling the first-ever Pok&#x00e9;dex.
 
@@ -63,7 +63,7 @@ The National Pok&#x00e9;dex allows Pok&#x00e9;mon from all regions to be catalog
 
 Browse the [National Pokédex](national_pokedex.md).
 
-## Pokémon Types
+## Pokémon_Types
 
 ### Types Legend
 
@@ -73,7 +73,7 @@ Browse the [National Pokédex](national_pokedex.md).
 | **Grass** | **Ground** | **Ice** | **Normal** | **Poison** | **Psychic** | **Rock** | **Steel** | **Water** |
 | ![Grass](Pokemon/gif/Type_Grass.gif) | ![Ground](Pokemon/gif/Type_Ground.gif) | ![Ice](Pokemon/gif/Type_Ice.gif) | ![Normal](Pokemon/gif/Type_Normal.gif) | ![Poison](Pokemon/gif/Type_Poison.gif) | ![Psychic](Pokemon/gif/Type_Psychic.gif) | ![Rock](Pokemon/gif/Type_Rock.gif) | ![Steel](Pokemon/gif/Type_Steel.gif) | ![Water](Pokemon/gif/Type_Water.gif) |
 
-### List of Pokémon
+### List_of_Pokémon
 
 | **Number** | **Name** | **Type** | **Image** |
 | --- |---| --- | --- |
@@ -879,7 +879,7 @@ Browse the [National Pokédex](national_pokedex.md).
 | 806 | [Blacephalon](Pokemon/Blacephalon.md) | | ![](Pokemon/images/806.png)|
 | 807 |[Zeraora](Pokemon/Zeraora.md)|![Electric](Pokemon/gif/Type_Electric.gif)|![Zeraora](Pokemon/images/807.png)|
 
-## See Also
+## See_Also
 
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Pokémon](Pokedex/pokemon.md)
