@@ -83,6 +83,7 @@ If the Pokédex has been deployed on a website then something like the following
 
 ```html
 <select id="poketype" name="poketype">
+  <option value="none" selected disabled hidden>Select a Type</option>
   <option value="bug">Bug</option>
   <option value="dark">Dark</option>
   <option value="dragon">Dragon</option>
@@ -110,6 +111,7 @@ If the Pokédex has been deployed on a website then something like the following
 Which looks something like:
 
 <select id="poketype" name="poketype">
+  <option value="none" selected disabled hidden>Select a Type</option>
   <option value="bug">Bug</option>
   <option value="dark">Dark</option>
   <option value="dragon">Dragon</option>
@@ -131,7 +133,17 @@ Which looks something like:
   <option value="water">Water</option>
   <option value="unknown">Unknown</option>
 </select>
-<button type="button" onclick="myFunction()">Show Selected Type</button>
+<button type="button" onclick="showType()">Show Selected Type</button>
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Name",
+  type AS "Type",
+  abilities AS "Ability"
+FROM "Pokemon"
+WHERE type = "Dark" and abilities = "Illusion"
+SORT name ASC
+```
 
 On the backend Dataview queries could be performed by the `showType` function using Dataview code blocks:
 
