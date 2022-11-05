@@ -15,7 +15,7 @@ categories:
 - [Pokédex](#pokédex)
 - [The National Pokédex](national_pokedex.md)
 - [List of Pokémon](list_of_pokemon.md)
-- [See](#see)
+- [See_also](#see_also)
 
 ## Overview
 
@@ -36,6 +36,10 @@ In most incarnations of the Pok&#x00e9;mon universe, a Trainer who encounters a 
 Catching is one of the most recognizable and important aspects of the Pok&#x00e9;mon franchise. In most Pok&#x00e9;mon games, players aim to weaken wild Pok&#x00e9;mon in battle to then throw a Pok&#x00e9 Ball. In Pok&#x00e9;mon Go and the Pok&#x00e9;mon: Let's Go! games, players catch Pok&#x00e9;mon without battling them, instead throwing Pok&#x00e9; Balls directly, sometimes aided by berries.
 
 The Pok&#x00e9; Ball (&#x30e2;&#x30f3;&#x30b9;&#x30bf;&#x30fc;&#x30dc;&#x30fc;&#x30eb;, Monsut&#x0101;b&#x014d;ru, lit: Monster Ball) is a spherical device used by Pok&#x00e9;mon Trainers to catch wild Pok&#x00e9;mon. When a Pok&#x00e9; Ball is thrown at a Pok&#x00e9;mon, the Pok&#x00e9;mon shrink themselves to fit inside of it.
+
+## List of Pokémon
+
+View the [List of Pokémon](list_of_pokemon.md).
 
 ## Pokédex
 
@@ -61,11 +65,7 @@ The National Pok&#x00e9;dex allows Pok&#x00e9;mon from all regions to be catalog
 
 Browse the [National Pokédex](national_pokedex.md).
 
-### List of Pokémon
-
-View the [List of Pokémon](list_of_pokemon.md).
-
-## See
+## See_also
 
 - [List of Pokémon](list_of_pokemon.md)
 - [National Pokédex](national_pokedex.md)

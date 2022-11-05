@@ -17,17 +17,17 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
     - [Pokédex Queries](pokedex_queries.md)
 - [Pokémon](pokemon.md)
 - [National Pokédex](national_pokedex.md)
-- [Pokédex Categories](#pokédex-categories)
+- [Pokédex Categories](#pokédex_categories)
 - [Pokédex](Pokedex/pokemon.md)
 - [Pokémon Generations](generations.md)
-- [Obsidian Graph View](#obsidian-graph-view)
+- [Obsidian Graph View](#obsidian_graph_view)
 - [Contributing](CONTRIBUTING.md)
 - [Support](#support)
 - [Tools](#tools)
-    - [Pokemon Fetch](#pokemon-fetch)
-    - [CSV to Markdown](#csv-to-markdown)
-    - [Split Markdown](#split-markdown)
-    - [Splitting large markdown](#splitting-large-markdown)
+    - [Pokemon Fetch](#pokemon_fetch)
+    - [CSV to Markdown](#csv_to_markdown)
+    - [Split Markdown](#split_markdown)
+    - [Splitting large markdown](#splitting_large_markdown)
 
 ## Usage
 
@@ -59,7 +59,7 @@ View an overview of [Pokémon](pokemon.md).
 
 View a list of [Pokémon](pokemon.md).
 
-## Pokédex Categories
+## Pokédex_Categories
 
 |    |    |    |    |    |
 |----|----|----|----|----|
@@ -81,7 +81,7 @@ View a list of the [Pokémon](pokemon.md) and [Pokémon data](pokedex.md).
 
 View a list of the [Generations of Pokémon](generations.md)
 
-## Obsidian Graph View
+## Obsidian_Graph_View
 
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.
 
@@ -101,7 +101,7 @@ Support the development and improvement of the Markdown Pokédex by [sponsoring 
 
 To create this markdown Pokédex, several custom tools were used in the retrieval, conversion, and modification of Pokémon data. In addition to those included here in the [Tools folder](Tools/README.md), the following scripts were used:
 
-### Pokemon fetch
+### Pokemon_fetch
 
 The `pokefetch` command was written by Ronald Record. It retrieves and displays a Pokemon using the `pokeapi`. Pokemon to be retrieved can be specified by name or id.
 
@@ -257,7 +257,7 @@ print_test "${group_info_entries}"
 exit 1
 ```
 
-### CSV to Markdown
+### CSV_to_Markdown
 
 The `csv2md` command converts a CSV format document to Markdown. For some very large files on which `csv2md` produced inadequate markdown, [Pandoc](https://pandoc.org) was used.
 
@@ -355,7 +355,7 @@ fi
 [ "${remove}" ] && rm -f "${inputFile}"
 ```
 
-### Splitting large markdown
+### Splitting_large_markdown
 
 Many of the Pokédex CSV files produced very large markdown files. These were split into manageable chunks using the `split_markdown` script I wrote:
 
