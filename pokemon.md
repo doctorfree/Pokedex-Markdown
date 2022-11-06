@@ -10,16 +10,17 @@ categories:
 
 ## Table of Contents
 
-- [Pokémon_Overview](#pokémon_overview)
+- [Pokemon Overview](#Pokemon%20Overview)
     - [Gameplay](#gameplay)
 - [The_Pokédex](#the_pokédex)
     - [The National Pokédex](national_pokedex.md)
 - [Pokémon_Types](#pokémon_types)
     - [Types_Legend](#types_legend)
     - [List_of_Pokémon](#list_of_pokémon)
-- [See_Also](#see_also)
+- [See Also](#See%20Also)
 
-## Pokémon_Overview
+## Pokemon Overview
+<div id="#Pokemon%20Overview"></div>
 
 Pok&#x00e9;mon (an abbreviation for Pocket Monsters in Japan) is a Japanese media franchise managed by The Pok&#x00e9;mon Company, a company founded by Nintendo, Game Freak, and Creatures. The franchise was created by Satoshi Tajiri in 1996, and is centered on fictional creatures called "Pok&#x00e9;mon". In Pok&#x00e9;mon, humans, known as Pok&#x00e9;mon Trainers, catch and train Pok&#x00e9;mon to battle other Pok&#x00e9;mon for sport. All media works within the franchise are set in the Pok&#x00e9;mon universe. The English slogan for the franchise is "Gotta Catch &#x2018Em All!". There are currently 905 Pok&#x00e9;mon species.
 
@@ -879,7 +880,8 @@ Browse the [National Pokédex](national_pokedex.md).
 | 806 | [Blacephalon](Pokemon/Blacephalon.md) | | ![](Pokemon/images/806.png)|
 | 807 |[Zeraora](Pokemon/Zeraora.md)|![Electric](Pokemon/gif/Type_Electric.gif)|![Zeraora](Pokemon/images/807.png)|
 
-## See_Also
+## See Also
+<div id="#See%20Also"></div>
 
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Pokémon](Pokedex/pokemon.md)
