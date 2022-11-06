@@ -9,8 +9,6 @@
 !.obsidian/themes/Doctorfree/theme.css
 !.obsidian/plugins
 !.obsidian/plugins/*
-!.obsidian/snippets
-!.obsidian/snippets/*
 
 .index
 tmp/*

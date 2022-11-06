@@ -1,7 +1,3 @@
----
-cssclass: t-w
----
-
 # List of Pokémon
 
 ## Legend

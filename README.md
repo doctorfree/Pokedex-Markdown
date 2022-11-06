@@ -1,7 +1,3 @@
----
-cssclass: t-c
----
-
 # Markdown Pokédex
 
 The Pokédex (Pokémon Encyclopedia) is an electronic device designed to catalog and provide information regarding the various species of Pokémon. The name Pokédex is a portmanteau of Pokémon and index. In the video games, whenever a Pokémon is first caught, its height, weight, species type, and a short description will be added to a player's Pokédex. Each region has its own Pokédex, which differ in appearance, species of Pokémon catalogued, and functions. In *Pokémon Legends: Arceus*, which takes place long before any other Pokémon games, players are tasked with assembling the first ever Pokédex.
@@ -49,7 +45,7 @@ The full Release Notes for the current version of the Markdown Pokédex can be f
 
 The Markdown Pokédex has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Pokédex Queries](pokedex_queries.md) document.
 
-#### Screenshot of Example Pokédex Queries
+## Screenshot of Example Pokédex Queries
 
 ![Dataview Queries](screenshots/dataview.png)
 
