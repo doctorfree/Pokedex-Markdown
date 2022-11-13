@@ -117,4 +117,16 @@ Support the development and improvement of the Markdown Pokédex by [sponsoring 
 
 To create this markdown Pokédex, several custom tools were used in the retrieval, conversion, and modification of Pokémon data. See the [Tools folder](Tools/README.md) to view these.
 
+## Connect
+
+[<img align="left" alt="ronrecord.com" width="22px" src="icons/globe.png" />][website]
+[<img align="left" alt="doctorfree | YouTube" width="22px" src="icons/youtube.png" />][youtube]
+[<img align="left" alt="ronrecord | Twitter" width="22px" src="icons/twitter.png" />][twitter]
+[<img align="left" alt="ronrecord | LinkedIn" width="22px" src="icons/linkedin.png" />][linkedin]
+[<img align="left" alt="doctorfree | Instagram" width="22px" src="icons/instagram.png" />][instagram]
+<a rel="me" href="https://fosstodon.org/@doctorfree"><img align="left" alt="doctorfree | Mastodon" width="22px" src="icons/mastodon.png" /></a>
+
+<br />
+
+
 ![Alt](https://repobeats.axiom.co/api/embed/eae4355f9fe2201b684418889a63d357beec6613.svg "Repobeats analytics image")
