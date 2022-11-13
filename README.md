@@ -128,6 +128,8 @@ To create this markdown Pokédex, several custom tools were used in the retrieva
 
 <br />
 
+## Stats
+
 ![Alt](https://repobeats.axiom.co/api/embed/eae4355f9fe2201b684418889a63d357beec6613.svg "Repobeats analytics image")
 
 [website]: https://ronrecord.com
