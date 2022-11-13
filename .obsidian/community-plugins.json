@@ -3,5 +3,7 @@
   "obsidian-hider",
   "dataview",
   "buttons",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "excalibrain"
 ]

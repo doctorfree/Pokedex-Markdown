@@ -11,12 +11,14 @@ This repository contains a Pokémon Pokédex in markdown format. It was generate
 - [Usage](#usage)
     - [Release Notes](release_notes.md)
     - [Pokédex Queries](pokedex_queries.md)
+    - [Recommended Obsidian Plugins](#recommended_obsidian_plugins)
 - [Pokémon](pokemon.md)
 - [National Pokédex](national_pokedex.md)
 - [Pokédex Categories](#pokédex_categories)
 - [Pokédex](Pokedex/pokemon.md)
 - [Pokémon Generations](generations.md)
 - [Obsidian Graph View](#obsidian_graph_view)
+- [Obsidian Excalibrain](#obsidian_excalibrain)
 - [Contributing](CONTRIBUTING.md)
 - [Support](#support)
 - [Tools](#tools)
@@ -30,7 +32,7 @@ This repository is organized as an Obsidian vault containing the Pokédex in mar
 1. [Download the vault](https://github.com/doctorfree/Pokedex-Markdown/releases/latest)
 3. Open the vault in Obsidian via "Open another vault -> Open folder as vault"
 4. Trust us. :) 
-5. When Obsidian opens the settings, hit the switch on "Dataview" to enable the plugin
+5. When Obsidian opens the settings, verify the "Dataview", "Excalidraw", and "Excalibrain" plugins are enabled
 6. Done! The Markdown Pokédex vault is now available to you in its purest and most useful form!
 
 ### Release Notes
@@ -40,6 +42,22 @@ The full Release Notes for the current version of the Markdown Pokédex can be f
 ### Pokédex Queries
 
 The Markdown Pokédex has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Pokédex Queries](pokedex_queries.md) document.
+
+### Recommended_Obsidian_Plugins
+
+Obsidian community plugins we have found useful and can recommend include the following:
+
+- [Contextual Typography](https://github.com/mgmeyers/obsidian-contextual-typography): Enables enhanced preview typography
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview): Treats an Obsidian Vault as a database from which you can query
+- [Excalibrain](https://github.com/zsviczian/excalibrain): An interactive structured mind-map of an Obsidian vault
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin): Edit and view Excalidraw in Obsidian
+- [Hider](https://github.com/kepano/obsidian-hider): Hides various elements of the UI
+- [Hover-editor](https://github.com/nothingislost/obsidian-hover-editor): Turns the hover popover into a full featured editor
+- [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc): Adds command palette options to export your notes to a variety of formats
+- [Quickadd](https://github.com/chhoumann/quickadd): Quickly add content to a vault
+- [Shellcommands](https://github.com/Taitava/obsidian-shellcommands): Define and run shell commands
+- [Style Settings](https://github.com/mgmeyers/obsidian-style-settings): Enables theme customization
+- [Templater](https://github.com/SilentVoid13/Templater): Defines a powerful templating language
 
 ## Screenshot of Example Pokédex Queries
 
@@ -78,6 +96,12 @@ View a list of the [Generations of Pokémon](generations.md)
 The graph view in [Obsidian](https://obsidian.md) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault.
 
 ![Graph View](screenshots/graph-view.png)
+
+## Obsidian_Excalibrain
+
+The [Obsidian Excalibrain plugin](https://github.com/zsviczian/excalibrain) shows the connections between nodes and tags in the Markdown Pokédex Obsidian vault in a contextual sense.
+
+![Excalibrain View](screenshots/Pokedex-Excalibrain.png)
 
 ## Contributing
 
