@@ -1,9 +1,8 @@
 [
   "obsidian-style-settings",
   "obsidian-hider",
-  "dataview",
-  "buttons",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin",
-  "excalibrain"
+  "dataview",
+  "excalibrain",
+  "obsidian-excalidraw-plugin"
 ]

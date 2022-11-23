@@ -203,6 +203,12 @@ WHERE type = "Dark" and abilities = "Illusion"
 SORT name ASC
 ```
 
+## Additional example Dataview queries
+
+- [Pokémon by Hit Points](Dataviews/Pokemon_by_Hitpoints.md)
+- [Pokémon by Total Points](Dataviews/Pokemon_by_Total.md)
+- [Pokémon by Type](Dataviews/Pokemon_by_Type.md)
+
 ## See Also
 
 - [National Pokédex](national_pokedex.md)
